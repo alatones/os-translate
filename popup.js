@@ -1,7 +1,9 @@
 const DEFAULT_LANG = "ja";
 const DASHBOARD_HOST = "dashboard.onesignal.com";
-const REPO = "alatones/translate-os";
-const ISSUE_BASE = `https://github.com/${REPO}/issues/new`;
+
+// TODO: set this to the address that should receive translation feedback.
+// Keep it in sync with FEEDBACK_EMAIL in background.js.
+const FEEDBACK_EMAIL = "translations@example.com";
 
 const select = document.getElementById("lang");
 const status = document.getElementById("status");
@@ -52,27 +54,26 @@ feedbackBtn.addEventListener("click", async () => {
   const [tab] = await chrome.tabs.query({ active: true, currentWindow: true });
   const pageUrl = tab && tab.url && tab.url.includes(DASHBOARD_HOST) ? tab.url : "";
 
-  const title = `[${language}] Translation feedback`;
+  const subject = `[${language}] Translation feedback`;
   const body = [
-    `**Language:** \`${language}\``,
-    `**Page:** ${pageUrl || "(not on dashboard)"}`,
+    `Language: ${language}`,
+    `Page: ${pageUrl || "(not on dashboard)"}`,
     "",
-    "**What's wrong?**",
+    "What's wrong?",
+    "  (e.g. missing translation, wrong nuance, awkward wording, overflow in UI)",
     "",
-    "_e.g. missing translation, wrong nuance, awkward wording, overflow in UI_",
+    "Where on the dashboard?",
+    "  (which screen / button / field)",
     "",
-    "**Where on the dashboard?**",
-    "",
-    "_which screen / button / field_",
-    "",
-    "**Suggested fix:**",
-    "",
-    "> _your suggestion here_",
+    "Suggested fix:",
+    "  (your suggestion here)",
   ].join("\n");
 
   const params = new URLSearchParams();
-  params.set("title", title);
+  params.set("subject", subject);
   params.set("body", body);
-  params.set("labels", "translation");
-  chrome.tabs.create({ url: `${ISSUE_BASE}?${params.toString()}` });
+  // URLSearchParams encodes spaces as '+'. Mail clients need %20 in bodies
+  // so line breaks and spacing survive.
+  const qs = params.toString().replace(/\+/g, "%20");
+  chrome.tabs.create({ url: `mailto:${FEEDBACK_EMAIL}?${qs}` });
 });

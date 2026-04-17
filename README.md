@@ -54,21 +54,43 @@ preserve in-flight edits.
 
 ## Reporting Translation Issues
 
-Two paths, both end up as pre-filled GitHub issues on
-[`alatones/translate-os`](https://github.com/alatones/translate-os/issues)
-with the `translation` label applied automatically.
+The audience for this extension is marketers, PMs, and CRM ops — not
+developers. Feedback opens a **pre-filled email** in the user's default
+mail client. No account, no signup, no GitHub required.
+
+Two paths:
 
 1. **Right-click a specific string.** Select any text on the dashboard,
-   right-click, and choose **Suggest a better translation for "…"**. The
-   issue template opens in a new tab with the selected text, current
-   language, and dashboard URL already filled in — you only write the
-   suggested replacement.
+   right-click, and choose **Suggest a better translation for "…"**. A
+   new email opens with To / Subject / Body pre-filled: the selected
+   text, current language, and dashboard URL are already there — the
+   user just writes the suggested replacement and hits Send.
 2. **General feedback.** Click the extension icon and hit **Report a
-   translation issue** at the bottom of the popup. Same pre-filled
-   template, but without a specific selection.
+   translation issue** at the bottom of the popup. Same pre-filled email,
+   but without a specific selection.
 
-No telemetry, no background reporting — nothing is sent until you click
-**Submit** on the GitHub issue form.
+Nothing is transmitted by the extension itself. The mail client controls
+the send — the user can edit, cancel, or discard the message like any
+other draft.
+
+### Setting the feedback address
+
+Edit `FEEDBACK_EMAIL` in **two places** (keep them in sync):
+
+- `background.js` (near the top, ~line 6)
+- `popup.js` (near the top, ~line 5)
+
+Reload the extension from `chrome://extensions` after changing it.
+
+### Prefer a Google Form instead of email?
+
+If you'd rather collect feedback in a spreadsheet, create a Google Form
+with pre-filled fields for language, page URL, and suggestion, then grab
+its pre-filled URL
+(`https://docs.google.com/forms/d/e/.../viewform?entry.123=...`). Replace
+the `mailto:` URL construction in `background.js` and `popup.js` with
+your form URL — the code path (`chrome.tabs.create({ url })`) is
+identical, only the URL shape differs.
 
 ## Adding a New Language
 

@@ -1,41 +1,42 @@
 // Service worker: registers a context-menu item on the OneSignal dashboard
 // so users can right-click any translated string and open a pre-filled
-// GitHub issue suggesting a better translation. Also handles the popup's
-// generic "Report a translation issue" button via chrome.tabs.create.
+// email suggesting a better translation. Also handles the popup's generic
+// "Report a translation issue" button via chrome.tabs.create.
 
-const REPO = "alatones/translate-os";
-const ISSUE_BASE = `https://github.com/${REPO}/issues/new`;
+// TODO: set this to the address that should receive translation feedback.
+// Keep it in sync with FEEDBACK_EMAIL in popup.js.
+const FEEDBACK_EMAIL = "translations@example.com";
+
 const MENU_ID = "suggest-translation";
 const DEFAULT_LANG = "ja";
 
-function buildIssueUrl({ title, body, labels = ["translation"] }) {
+function buildMailtoUrl({ subject, body }) {
   const params = new URLSearchParams();
-  params.set("title", title);
+  params.set("subject", subject);
   params.set("body", body);
-  params.set("labels", labels.join(","));
-  return `${ISSUE_BASE}?${params.toString()}`;
+  // URLSearchParams encodes spaces as '+', which is wrong for mailto body.
+  // Replace with %20 so line breaks and spacing render correctly in mail
+  // clients.
+  const qs = params.toString().replace(/\+/g, "%20");
+  return `mailto:${FEEDBACK_EMAIL}?${qs}`;
 }
 
-function selectionIssueBody({ language, pageUrl, selected }) {
+function selectionEmailBody({ language, pageUrl, selected }) {
   return [
-    `**Language:** \`${language}\``,
-    `**Page:** ${pageUrl || "(not captured)"}`,
+    `Language: ${language}`,
+    `Page: ${pageUrl || "(not captured)"}`,
     "",
-    "**Original English string (if known):**",
+    "Original English string (if known):",
+    "  (leave blank if unsure)",
     "",
-    "> _leave blank if unsure_",
+    "Currently translated as:",
+    `  ${selected}`,
     "",
-    "**Currently translated as:**",
+    "Suggested translation:",
+    "  (your suggestion here)",
     "",
-    `> ${selected}`,
-    "",
-    "**Suggested translation:**",
-    "",
-    "> _your suggestion here_",
-    "",
-    "**Notes / context:**",
-    "",
-    "_screenshot, where on the dashboard, tone, etc._",
+    "Notes / context:",
+    "  (screenshot, where on the dashboard, tone, etc.)",
   ].join("\n");
 }
 
@@ -53,11 +54,11 @@ chrome.contextMenus.onClicked.addListener(async (info, tab) => {
   const selected = (info.selectionText || "").trim().slice(0, 200);
   if (!selected) return;
   const { language = DEFAULT_LANG } = await chrome.storage.sync.get({ language: DEFAULT_LANG });
-  const title = `[${language}] Translation suggestion: "${selected.slice(0, 60)}"`;
-  const body = selectionIssueBody({
+  const subject = `[${language}] Translation suggestion: "${selected.slice(0, 60)}"`;
+  const body = selectionEmailBody({
     language,
     pageUrl: info.pageUrl || (tab && tab.url) || "",
     selected,
   });
-  chrome.tabs.create({ url: buildIssueUrl({ title, body }) });
+  chrome.tabs.create({ url: buildMailtoUrl({ subject, body }) });
 });
