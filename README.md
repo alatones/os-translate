@@ -52,6 +52,24 @@ dialog warning you that unsaved work (drafts, segment builders, open
 editors) will be lost. Click **Cancel** to keep your current language and
 preserve in-flight edits.
 
+## Reporting Translation Issues
+
+Two paths, both end up as pre-filled GitHub issues on
+[`alatones/translate-os`](https://github.com/alatones/translate-os/issues)
+with the `translation` label applied automatically.
+
+1. **Right-click a specific string.** Select any text on the dashboard,
+   right-click, and choose **Suggest a better translation for "…"**. The
+   issue template opens in a new tab with the selected text, current
+   language, and dashboard URL already filled in — you only write the
+   suggested replacement.
+2. **General feedback.** Click the extension icon and hit **Report a
+   translation issue** at the bottom of the popup. Same pre-filled
+   template, but without a specific selection.
+
+No telemetry, no background reporting — nothing is sent until you click
+**Submit** on the GitHub issue form.
+
 ## Adding a New Language
 
 No JS changes required. Edit `languages.json`:
@@ -101,9 +119,10 @@ re-renders.
 ```
 manifest.json    Manifest V3 config, scoped to dashboard.onesignal.com
 languages.json   Translation dictionaries keyed by language code
-content.js       Text-node walker + MutationObserver
-popup.html       Extension popup UI
-popup.js         Saves language, warns about unsaved edits, reloads tab
+content.js       Text-node walker + attribute allowlist + MutationObserver
+background.js   Service worker: right-click "Suggest a better translation"
+popup.html       Extension popup UI (language picker + feedback button)
+popup.js         Saves language, warns about unsaved edits, opens issue form
 styles.css       CJK-friendly typography (line-height, font stack)
 ```
 

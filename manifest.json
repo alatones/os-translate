@@ -3,8 +3,11 @@
   "name": "OneSignal Dashboard Translator",
   "version": "1.0.0",
   "description": "Translate the OneSignal dashboard UI into Japanese, Spanish, or Portuguese.",
-  "permissions": ["storage", "activeTab"],
+  "permissions": ["storage", "activeTab", "contextMenus"],
   "host_permissions": ["https://dashboard.onesignal.com/*"],
+  "background": {
+    "service_worker": "background.js"
+  },
   "action": {
     "default_popup": "popup.html",
     "default_title": "OneSignal Translator"
