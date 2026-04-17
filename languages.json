@@ -1,80 +1,1104 @@
 {
   "languages": {
-    "ja": "日本語 — Japanese",
     "es": "Español — Spanish",
+    "ja": "日本語 — Japanese",
     "pt": "Português — Portuguese"
   },
-
   "translations": {
-    "Settings":          { "ja": "設定",         "es": "Ajustes",       "pt": "Configurações" },
-    "Segments":          { "ja": "セグメント",   "es": "Segmentos",     "pt": "Segmentos" },
-    "Messages":          { "ja": "メッセージ",   "es": "Mensajes",      "pt": "Mensagens" },
-    "Audience":          { "ja": "オーディエンス", "es": "Audiencia",   "pt": "Público" },
-    "Delivery":          { "ja": "配信",         "es": "Entrega",       "pt": "Entrega" },
-    "Dashboard":         { "ja": "ダッシュボード", "es": "Panel",       "pt": "Painel" },
-    "Analytics":         { "ja": "分析",         "es": "Analíticas",    "pt": "Análises" },
-    "Notifications":     { "ja": "通知",         "es": "Notificaciones","pt": "Notificações" },
-    "Push":              { "ja": "プッシュ",     "es": "Push" },
-    "Email":             { "ja": "メール",       "es": "Correo",        "pt": "E-mail" },
-    "SMS":               { "ja": "SMS",          "es": "SMS",           "pt": "SMS" },
-    "In-App":            { "ja": "アプリ内",     "es": "In-App" },
-    "Automations":       { "ja": "自動化",       "es": "Automatizaciones", "pt": "Automações" },
-    "Templates":         { "ja": "テンプレート", "es": "Plantillas",    "pt": "Modelos" },
-    "Users":             { "ja": "ユーザー",     "es": "Usuarios",      "pt": "Usuários" },
-    "Subscriptions":     { "ja": "購読",         "es": "Suscripciones", "pt": "Assinaturas" },
-    "New Message":       { "ja": "新規メッセージ", "es": "Nuevo mensaje", "pt": "Nova mensagem" },
-    "New Push":          { "ja": "新規プッシュ", "es": "Nuevo push" },
-    "Send":              { "ja": "送信",         "es": "Enviar",        "pt": "Enviar" },
-    "Save":              { "ja": "保存",         "es": "Guardar",       "pt": "Salvar" },
-    "Cancel":            { "ja": "キャンセル",   "es": "Cancelar",      "pt": "Cancelar" },
-    "Delete":            { "ja": "削除",         "es": "Eliminar",      "pt": "Excluir" },
-    "Edit":              { "ja": "編集",         "es": "Editar",        "pt": "Editar" },
-    "Create":            { "ja": "作成",         "es": "Crear",         "pt": "Criar" },
-    "Duplicate":         { "ja": "複製",         "es": "Duplicar",      "pt": "Duplicar" },
-    "Schedule":          { "ja": "スケジュール", "es": "Programar",     "pt": "Agendar" },
-    "Draft":             { "ja": "下書き",       "es": "Borrador",      "pt": "Rascunho" },
-    "Active":            { "ja": "アクティブ",   "es": "Activo",        "pt": "Ativo" },
-    "Paused":            { "ja": "一時停止",     "es": "Pausado",       "pt": "Pausado" },
-    "Completed":         { "ja": "完了",         "es": "Completado",    "pt": "Concluído" },
-    "Failed":            { "ja": "失敗",         "es": "Fallido",       "pt": "Falhou" },
-    "Keys & IDs":        { "ja": "キーとID",     "es": "Claves e IDs",  "pt": "Chaves e IDs" },
-    "API Keys":          { "ja": "APIキー",      "es": "Claves API",    "pt": "Chaves de API" },
-    "Webhooks":          { "ja": "Webhook",      "es": "Webhooks",      "pt": "Webhooks" },
-    "Integrations":      { "ja": "連携",         "es": "Integraciones", "pt": "Integrações" },
-    "Billing":           { "ja": "請求",         "es": "Facturación",   "pt": "Faturamento" },
-    "Team":              { "ja": "チーム",       "es": "Equipo",        "pt": "Equipe" },
-    "Organization":      { "ja": "組織",         "es": "Organización",  "pt": "Organização" },
-    "Apps":              { "ja": "アプリ",       "es": "Aplicaciones",  "pt": "Aplicativos" },
-    "All Apps":          { "ja": "すべてのアプリ", "es": "Todas las aplicaciones", "pt": "Todos os aplicativos" },
-    "Sent":              { "ja": "送信済み",     "es": "Enviado",       "pt": "Enviado" },
-    "Delivered":         { "ja": "配信済み",     "es": "Entregado",     "pt": "Entregue" },
-    "Clicked":           { "ja": "クリック済み", "es": "Clicado",       "pt": "Clicado" },
-    "Opened":            { "ja": "開封済み",     "es": "Abierto",       "pt": "Aberto" },
-    "Search":            { "ja": "検索",         "es": "Buscar",        "pt": "Buscar" },
-    "Filter":            { "ja": "フィルター",   "es": "Filtrar",       "pt": "Filtrar" },
-    "Export":            { "ja": "エクスポート", "es": "Exportar",      "pt": "Exportar" },
-    "Import":            { "ja": "インポート",   "es": "Importar",      "pt": "Importar" },
-    "Help":              { "ja": "ヘルプ",       "es": "Ayuda",         "pt": "Ajuda" },
-    "Documentation":     { "ja": "ドキュメント", "es": "Documentación", "pt": "Documentação" },
-    "Logout":            { "ja": "ログアウト",   "es": "Cerrar sesión", "pt": "Sair" },
-    "Profile":           { "ja": "プロフィール", "es": "Perfil",        "pt": "Perfil" },
-
-    "Search...":              { "ja": "検索...",           "es": "Buscar...",              "pt": "Buscar..." },
-    "Search messages":        { "ja": "メッセージを検索", "es": "Buscar mensajes",        "pt": "Buscar mensagens" },
-    "Search users":           { "ja": "ユーザーを検索",   "es": "Buscar usuarios",        "pt": "Buscar usuários" },
-    "Enter name":             { "ja": "名前を入力",       "es": "Introduce el nombre",    "pt": "Digite o nome" },
-    "Enter email":            { "ja": "メールアドレスを入力", "es": "Introduce el correo", "pt": "Digite o e-mail" },
-    "Required":               { "ja": "必須",             "es": "Obligatorio",            "pt": "Obrigatório" },
-    "This field is required": { "ja": "この項目は必須です", "es": "Este campo es obligatorio", "pt": "Este campo é obrigatório" },
-    "Invalid email address":  { "ja": "メールアドレスが無効です", "es": "Correo electrónico no válido", "pt": "Endereço de e-mail inválido" },
-    "Something went wrong":   { "ja": "問題が発生しました", "es": "Algo salió mal",         "pt": "Algo deu errado" },
-    "Please try again":       { "ja": "もう一度お試しください", "es": "Inténtalo de nuevo", "pt": "Tente novamente" },
-    "No results found":       { "ja": "結果が見つかりません", "es": "No se encontraron resultados", "pt": "Nenhum resultado encontrado" },
-    "Loading...":             { "ja": "読み込み中...",    "es": "Cargando...",            "pt": "Carregando..." },
-    "Save changes":           { "ja": "変更を保存",       "es": "Guardar cambios",        "pt": "Salvar alterações" },
-    "Unsaved changes":        { "ja": "未保存の変更",     "es": "Cambios sin guardar",    "pt": "Alterações não salvas" },
-    "Are you sure?":          { "ja": "よろしいですか？", "es": "¿Estás seguro?",         "pt": "Tem certeza?" },
-    "Copy to clipboard":      { "ja": "クリップボードにコピー", "es": "Copiar al portapapeles", "pt": "Copiar para a área de transferência" },
-    "Learn more":             { "ja": "詳細を見る",       "es": "Más información",        "pt": "Saiba mais" }
+    "Account": {
+      "es": "Cuenta",
+      "ja": "アカウント",
+      "pt": "Conta"
+    },
+    "Action Buttons": {
+      "es": "Botones de acción",
+      "ja": "アクションボタン",
+      "pt": "Botões de ação"
+    },
+    "Actions": {
+      "es": "Acciones",
+      "ja": "操作",
+      "pt": "Ações"
+    },
+    "Active": {
+      "es": "Activo",
+      "ja": "アクティブ",
+      "pt": "Ativo"
+    },
+    "Add": {
+      "es": "Agregar",
+      "ja": "追加",
+      "pt": "Adicionar"
+    },
+    "Add Filter": {
+      "es": "Agregar filtro",
+      "ja": "フィルターを追加",
+      "pt": "Adicionar filtro"
+    },
+    "Add Segment": {
+      "es": "Agregar segmento",
+      "ja": "セグメントを追加",
+      "pt": "Adicionar segmento"
+    },
+    "Add Webhook": {
+      "es": "Agregar webhook",
+      "ja": "Webhookを追加",
+      "pt": "Adicionar webhook"
+    },
+    "Additional Data": {
+      "es": "Datos adicionales",
+      "ja": "追加データ",
+      "pt": "Dados adicionais"
+    },
+    "Additional Settings": {
+      "es": "Ajustes adicionales",
+      "ja": "詳細設定",
+      "pt": "Configurações adicionais"
+    },
+    "Admin": {
+      "es": "Administrador",
+      "ja": "管理者",
+      "pt": "Administrador"
+    },
+    "All Apps": {
+      "es": "Todas las apps",
+      "ja": "全アプリ",
+      "pt": "Todos os apps"
+    },
+    "All Platforms": {
+      "es": "Todas las plataformas",
+      "ja": "全プラットフォーム",
+      "pt": "Todas as plataformas"
+    },
+    "All Time": {
+      "es": "Todo el tiempo",
+      "ja": "全期間",
+      "pt": "Todo o período"
+    },
+    "All Users": {
+      "es": "Todos los usuarios",
+      "ja": "全ユーザー",
+      "pt": "Todos os usuários"
+    },
+    "Allowed Origins": {
+      "es": "Orígenes permitidos",
+      "ja": "許可されたオリジン",
+      "pt": "Origens permitidas"
+    },
+    "Amount Spent": {
+      "es": "Monto gastado",
+      "ja": "消費金額",
+      "pt": "Valor gasto"
+    },
+    "App ID": {
+      "es": "ID de la app",
+      "ja": "アプリID",
+      "pt": "ID do app"
+    },
+    "App Name": {
+      "es": "Nombre de la app",
+      "ja": "アプリ名",
+      "pt": "Nome do app"
+    },
+    "App Version": {
+      "es": "Versión de la app",
+      "ja": "アプリバージョン",
+      "pt": "Versão do app"
+    },
+    "Apply": {
+      "es": "Aplicar",
+      "ja": "適用",
+      "pt": "Aplicar"
+    },
+    "Are you sure?": {
+      "es": "¿Estás seguro?",
+      "ja": "よろしいですか？",
+      "pt": "Tem certeza?"
+    },
+    "Audience": {
+      "es": "Audiencia",
+      "ja": "オーディエンス",
+      "pt": "Audiência"
+    },
+    "Back": {
+      "es": "Volver",
+      "ja": "戻る",
+      "pt": "Voltar"
+    },
+    "Badge": {
+      "es": "Insignia",
+      "ja": "バッジ",
+      "pt": "Emblema"
+    },
+    "Banner": {
+      "es": "Banner",
+      "ja": "バナー",
+      "pt": "Banner"
+    },
+    "Branch": {
+      "es": "Rama",
+      "ja": "分岐",
+      "pt": "Ramificação"
+    },
+    "Cancel": {
+      "es": "Cancelar",
+      "ja": "キャンセル",
+      "pt": "Cancelar"
+    },
+    "Canceled": {
+      "es": "Cancelado",
+      "ja": "キャンセル済み",
+      "pt": "Cancelado"
+    },
+    "Changes saved": {
+      "es": "Cambios guardados",
+      "ja": "変更が保存されました",
+      "pt": "Alterações salvas"
+    },
+    "Character Count": {
+      "es": "Conteo de caracteres",
+      "ja": "文字数",
+      "pt": "Contagem de caracteres"
+    },
+    "City": {
+      "es": "Ciudad",
+      "ja": "市区町村",
+      "pt": "Cidade"
+    },
+    "Clear": {
+      "es": "Limpiar",
+      "ja": "クリア",
+      "pt": "Limpar"
+    },
+    "Click-through Rate": {
+      "es": "Tasa de clics",
+      "ja": "クリック率",
+      "pt": "Taxa de cliques"
+    },
+    "Clicked": {
+      "es": "Clics",
+      "ja": "クリック数",
+      "pt": "Cliques"
+    },
+    "Close": {
+      "es": "Cerrar",
+      "ja": "閉じる",
+      "pt": "Fechar"
+    },
+    "Completed": {
+      "es": "Completado",
+      "ja": "完了",
+      "pt": "Concluído"
+    },
+    "Confirm": {
+      "es": "Confirmar",
+      "ja": "確認",
+      "pt": "Confirmar"
+    },
+    "Confirm and Send": {
+      "es": "Confirmar y enviar",
+      "ja": "確認して送信",
+      "pt": "Confirmar e enviar"
+    },
+    "Continue": {
+      "es": "Continuar",
+      "ja": "続ける",
+      "pt": "Continuar"
+    },
+    "Conversion": {
+      "es": "Conversión",
+      "ja": "コンバージョン",
+      "pt": "Conversão"
+    },
+    "Copied to clipboard": {
+      "es": "Copiado al portapapeles",
+      "ja": "クリップボードにコピーしました",
+      "pt": "Copiado para a área de transferência"
+    },
+    "Copy": {
+      "es": "Copiar",
+      "ja": "コピー",
+      "pt": "Copiar"
+    },
+    "Country": {
+      "es": "País",
+      "ja": "国",
+      "pt": "País"
+    },
+    "Create": {
+      "es": "Crear",
+      "ja": "作成",
+      "pt": "Criar"
+    },
+    "Create Segment": {
+      "es": "Crear segmento",
+      "ja": "セグメントを作成",
+      "pt": "Criar segmento"
+    },
+    "Create Template": {
+      "es": "Crear plantilla",
+      "ja": "テンプレートを作成",
+      "pt": "Criar modelo"
+    },
+    "Created": {
+      "es": "Creado",
+      "ja": "作成日",
+      "pt": "Criado"
+    },
+    "Custom Data": {
+      "es": "Datos personalizados",
+      "ja": "カスタムデータ",
+      "pt": "Dados personalizados"
+    },
+    "Custom Range": {
+      "es": "Rango personalizado",
+      "ja": "カスタム範囲",
+      "pt": "Período personalizado"
+    },
+    "Dashboard": {
+      "es": "Panel de control",
+      "ja": "ダッシュボード",
+      "pt": "Painel"
+    },
+    "Data Tags": {
+      "es": "Etiquetas de datos",
+      "ja": "データタグ",
+      "pt": "Tags de dados"
+    },
+    "Date Range": {
+      "es": "Rango de fechas",
+      "ja": "日付範囲",
+      "pt": "Intervalo de datas"
+    },
+    "Date Sent": {
+      "es": "Fecha de envío",
+      "ja": "送信日",
+      "pt": "Data de envio"
+    },
+    "Default Language": {
+      "es": "Idioma predeterminado",
+      "ja": "デフォルト言語",
+      "pt": "Idioma padrão"
+    },
+    "Delay": {
+      "es": "Retraso",
+      "ja": "遅延",
+      "pt": "Atraso"
+    },
+    "Delete": {
+      "es": "Eliminar",
+      "ja": "削除",
+      "pt": "Excluir"
+    },
+    "Delete App": {
+      "es": "Eliminar app",
+      "ja": "アプリを削除",
+      "pt": "Excluir app"
+    },
+    "Delete Segment": {
+      "es": "Eliminar segmento",
+      "ja": "セグメントを削除",
+      "pt": "Excluir segmento"
+    },
+    "Delete Template": {
+      "es": "Eliminar plantilla",
+      "ja": "テンプレートを削除",
+      "pt": "Excluir modelo"
+    },
+    "Delivered": {
+      "es": "Entregado",
+      "ja": "配信済み",
+      "pt": "Entregue"
+    },
+    "Delivery Rate": {
+      "es": "Tasa de entrega",
+      "ja": "配信率",
+      "pt": "Taxa de entrega"
+    },
+    "Device Type": {
+      "es": "Tipo de dispositivo",
+      "ja": "デバイスタイプ",
+      "pt": "Tipo de dispositivo"
+    },
+    "Disable": {
+      "es": "Deshabilitar",
+      "ja": "無効にする",
+      "pt": "Desativar"
+    },
+    "Discard": {
+      "es": "Descartar",
+      "ja": "破棄",
+      "pt": "Descartar"
+    },
+    "Done": {
+      "es": "Listo",
+      "ja": "完了",
+      "pt": "Concluído"
+    },
+    "Draft": {
+      "es": "Borrador",
+      "ja": "下書き",
+      "pt": "Rascunho"
+    },
+    "Duplicate": {
+      "es": "Duplicar",
+      "ja": "複製",
+      "pt": "Duplicar"
+    },
+    "Edit": {
+      "es": "Editar",
+      "ja": "編集",
+      "pt": "Editar"
+    },
+    "Edit Segment": {
+      "es": "Editar segmento",
+      "ja": "セグメントを編集",
+      "pt": "Editar segmento"
+    },
+    "Edit Template": {
+      "es": "Editar plantilla",
+      "ja": "テンプレートを編集",
+      "pt": "Editar modelo"
+    },
+    "Email": {
+      "es": "Email",
+      "ja": "メール",
+      "pt": "Email"
+    },
+    "Email Address": {
+      "es": "Dirección de email",
+      "ja": "メールアドレス",
+      "pt": "Endereço de email"
+    },
+    "Email Settings": {
+      "es": "Configuración de email",
+      "ja": "メール設定",
+      "pt": "Configurações de email"
+    },
+    "Enable": {
+      "es": "Habilitar",
+      "ja": "有効にする",
+      "pt": "Ativar"
+    },
+    "End": {
+      "es": "Fin",
+      "ja": "終了",
+      "pt": "Fim"
+    },
+    "Error": {
+      "es": "Error",
+      "ja": "エラー",
+      "pt": "Erro"
+    },
+    "Errored": {
+      "es": "Con error",
+      "ja": "エラー発生",
+      "pt": "Com erro"
+    },
+    "Exclude Segments": {
+      "es": "Excluir segmentos",
+      "ja": "セグメントを除外",
+      "pt": "Excluir segmentos"
+    },
+    "Export": {
+      "es": "Exportar",
+      "ja": "エクスポート",
+      "pt": "Exportar"
+    },
+    "External ID": {
+      "es": "ID externo",
+      "ja": "外部ID",
+      "pt": "ID externo"
+    },
+    "Failed": {
+      "es": "Fallido",
+      "ja": "失敗",
+      "pt": "Com falha"
+    },
+    "Filter": {
+      "es": "Filtro",
+      "ja": "フィルター",
+      "pt": "Filtro"
+    },
+    "First Session": {
+      "es": "Primera sesión",
+      "ja": "初回セッション",
+      "pt": "Primeira sessão"
+    },
+    "From Address": {
+      "es": "Dirección del remitente",
+      "ja": "送信元アドレス",
+      "pt": "Endereço do remetente"
+    },
+    "From Name": {
+      "es": "Nombre del remitente",
+      "ja": "送信者名",
+      "pt": "Nome do remetente"
+    },
+    "Full Screen": {
+      "es": "Pantalla completa",
+      "ja": "全画面",
+      "pt": "Tela cheia"
+    },
+    "Import": {
+      "es": "Importar",
+      "ja": "インポート",
+      "pt": "Importar"
+    },
+    "In Progress": {
+      "es": "En progreso",
+      "ja": "処理中",
+      "pt": "Em andamento"
+    },
+    "In-App": {
+      "es": "In-App",
+      "ja": "アプリ内",
+      "pt": "In-App"
+    },
+    "In-App Messages": {
+      "es": "Mensajes In-App",
+      "ja": "アプリ内メッセージ",
+      "pt": "Mensagens In-App"
+    },
+    "Inactive": {
+      "es": "Inactivo",
+      "ja": "非アクティブ",
+      "pt": "Inativo"
+    },
+    "Include Segments": {
+      "es": "Incluir segmentos",
+      "ja": "セグメントを含む",
+      "pt": "Incluir segmentos"
+    },
+    "Influenced Opens": {
+      "es": "Aperturas influenciadas",
+      "ja": "影響を受けた開封",
+      "pt": "Aberturas influenciadas"
+    },
+    "Intelligent Delivery": {
+      "es": "Entrega inteligente",
+      "ja": "インテリジェント配信",
+      "pt": "Entrega inteligente"
+    },
+    "Invite": {
+      "es": "Invitar",
+      "ja": "招待",
+      "pt": "Convidar"
+    },
+    "Invite User": {
+      "es": "Invitar usuario",
+      "ja": "ユーザーを招待",
+      "pt": "Convidar usuário"
+    },
+    "Journey Webhooks": {
+      "es": "Webhooks de Journey",
+      "ja": "ジャーニーWebhook",
+      "pt": "Webhooks de Journey"
+    },
+    "Journeys": {
+      "es": "Journeys",
+      "ja": "ジャーニー",
+      "pt": "Journeys"
+    },
+    "Keys & IDs": {
+      "es": "Claves e IDs",
+      "ja": "キーとID",
+      "pt": "Chaves e IDs"
+    },
+    "Language": {
+      "es": "Idioma",
+      "ja": "言語",
+      "pt": "Idioma"
+    },
+    "Large Image": {
+      "es": "Imagen grande",
+      "ja": "大きな画像",
+      "pt": "Imagem grande"
+    },
+    "Last 30 days": {
+      "es": "Últimos 30 días",
+      "ja": "過去30日間",
+      "pt": "Últimos 30 dias"
+    },
+    "Last 7 days": {
+      "es": "Últimos 7 días",
+      "ja": "過去7日間",
+      "pt": "Últimos 7 dias"
+    },
+    "Last Active": {
+      "es": "Última actividad",
+      "ja": "最終アクティブ",
+      "pt": "Última atividade"
+    },
+    "Last Session": {
+      "es": "Última sesión",
+      "ja": "最終セッション",
+      "pt": "Última sessão"
+    },
+    "Last Updated": {
+      "es": "Última actualización",
+      "ja": "最終更新",
+      "pt": "Última atualização"
+    },
+    "Launch URL": {
+      "es": "URL de destino",
+      "ja": "起動URL",
+      "pt": "URL de destino"
+    },
+    "Load More": {
+      "es": "Cargar más",
+      "ja": "さらに読み込む",
+      "pt": "Carregar mais"
+    },
+    "Loading…": {
+      "es": "Cargando…",
+      "ja": "読み込み中…",
+      "pt": "Carregando…"
+    },
+    "Location": {
+      "es": "Ubicación",
+      "ja": "位置情報",
+      "pt": "Localização"
+    },
+    "Message": {
+      "es": "Mensaje",
+      "ja": "メッセージ",
+      "pt": "Mensagem"
+    },
+    "Message Content": {
+      "es": "Contenido del mensaje",
+      "ja": "メッセージ内容",
+      "pt": "Conteúdo da mensagem"
+    },
+    "Message Title": {
+      "es": "Título del mensaje",
+      "ja": "メッセージタイトル",
+      "pt": "Título da mensagem"
+    },
+    "Messages": {
+      "es": "Mensajes",
+      "ja": "メッセージ",
+      "pt": "Mensagens"
+    },
+    "Modal": {
+      "es": "Modal",
+      "ja": "モーダル",
+      "pt": "Modal"
+    },
+    "Name": {
+      "es": "Nombre",
+      "ja": "名前",
+      "pt": "Nome"
+    },
+    "New Email": {
+      "es": "Nuevo email",
+      "ja": "新規メール",
+      "pt": "Novo email"
+    },
+    "New In-App": {
+      "es": "Nuevo In-App",
+      "ja": "新規アプリ内",
+      "pt": "Novo In-App"
+    },
+    "New Message": {
+      "es": "Nuevo mensaje",
+      "ja": "新規メッセージ",
+      "pt": "Nova mensagem"
+    },
+    "New Push Notification": {
+      "es": "Nueva notificación push",
+      "ja": "新規プッシュ通知",
+      "pt": "Nova notificação push"
+    },
+    "New SMS/RCS": {
+      "es": "Nuevo SMS/RCS",
+      "ja": "新規SMS/RCS",
+      "pt": "Novo SMS/RCS"
+    },
+    "New Subscribers": {
+      "es": "Nuevos suscriptores",
+      "ja": "新規登録者",
+      "pt": "Novos assinantes"
+    },
+    "Next": {
+      "es": "Siguiente",
+      "ja": "次へ",
+      "pt": "Próximo"
+    },
+    "No results found": {
+      "es": "No se encontraron resultados",
+      "ja": "結果が見つかりません",
+      "pt": "Nenhum resultado encontrado"
+    },
+    "Notification Permission": {
+      "es": "Permiso de notificación",
+      "ja": "通知許可",
+      "pt": "Permissão de notificação"
+    },
+    "Operating System": {
+      "es": "Sistema operativo",
+      "ja": "オペレーティングシステム",
+      "pt": "Sistema operacional"
+    },
+    "Opted In": {
+      "es": "Registrado",
+      "ja": "オプトイン済み",
+      "pt": "Inscrito"
+    },
+    "Opted Out": {
+      "es": "No registrado",
+      "ja": "オプトアウト済み",
+      "pt": "Cancelado"
+    },
+    "Optional": {
+      "es": "Opcional",
+      "ja": "任意",
+      "pt": "Opcional"
+    },
+    "Overview": {
+      "es": "Resumen",
+      "ja": "概要",
+      "pt": "Visão geral"
+    },
+    "Pause": {
+      "es": "Pausar",
+      "ja": "一時停止",
+      "pt": "Pausar"
+    },
+    "Paused": {
+      "es": "Pausado",
+      "ja": "一時停止中",
+      "pt": "Pausado"
+    },
+    "Phone Number": {
+      "es": "Número de teléfono",
+      "ja": "電話番号",
+      "pt": "Número de telefone"
+    },
+    "Platform": {
+      "es": "Plataforma",
+      "ja": "プラットフォーム",
+      "pt": "Plataforma"
+    },
+    "Platforms": {
+      "es": "Plataformas",
+      "ja": "プラットフォーム",
+      "pt": "Plataformas"
+    },
+    "Preheader": {
+      "es": "Encabezado previo",
+      "ja": "プリヘッダー",
+      "pt": "Pré-cabeçalho"
+    },
+    "Preview": {
+      "es": "Vista previa",
+      "ja": "プレビュー",
+      "pt": "Visualizar"
+    },
+    "Previous": {
+      "es": "Anterior",
+      "ja": "前へ",
+      "pt": "Anterior"
+    },
+    "Priority": {
+      "es": "Prioridad",
+      "ja": "優先度",
+      "pt": "Prioridade"
+    },
+    "Profile": {
+      "es": "Perfil",
+      "ja": "プロフィール",
+      "pt": "Perfil"
+    },
+    "Publish": {
+      "es": "Publicar",
+      "ja": "公開",
+      "pt": "Publicar"
+    },
+    "Purchases": {
+      "es": "Compras",
+      "ja": "購入数",
+      "pt": "Compras"
+    },
+    "Push": {
+      "es": "Push",
+      "ja": "プッシュ",
+      "pt": "Push"
+    },
+    "Queued": {
+      "es": "En cola",
+      "ja": "キュー中",
+      "pt": "Na fila"
+    },
+    "REST API Key": {
+      "es": "Clave REST API",
+      "ja": "REST APIキー",
+      "pt": "Chave REST API"
+    },
+    "Recipients": {
+      "es": "Destinatarios",
+      "ja": "受信者数",
+      "pt": "Destinatários"
+    },
+    "Remove": {
+      "es": "Quitar",
+      "ja": "削除",
+      "pt": "Remover"
+    },
+    "Reply-To Address": {
+      "es": "Dirección de respuesta",
+      "ja": "返信先アドレス",
+      "pt": "Endereço de resposta"
+    },
+    "Required": {
+      "es": "Obligatorio",
+      "ja": "必須",
+      "pt": "Obrigatório"
+    },
+    "Resume": {
+      "es": "Reanudar",
+      "ja": "再開",
+      "pt": "Retomar"
+    },
+    "Role": {
+      "es": "Rol",
+      "ja": "ロール",
+      "pt": "Função"
+    },
+    "SMS / RCS": {
+      "es": "SMS / RCS",
+      "ja": "SMS / RCS",
+      "pt": "SMS / RCS"
+    },
+    "Save": {
+      "es": "Guardar",
+      "ja": "保存",
+      "pt": "Salvar"
+    },
+    "Save Changes": {
+      "es": "Guardar cambios",
+      "ja": "変更を保存",
+      "pt": "Salvar alterações"
+    },
+    "Save as Draft": {
+      "es": "Guardar como borrador",
+      "ja": "下書きとして保存",
+      "pt": "Salvar como rascunho"
+    },
+    "Schedule": {
+      "es": "Programación",
+      "ja": "スケジュール",
+      "pt": "Agendamento"
+    },
+    "Schedule for Later": {
+      "es": "Programar para después",
+      "ja": "後でスケジュール",
+      "pt": "Agendar para depois"
+    },
+    "Scheduled": {
+      "es": "Programado",
+      "ja": "スケジュール済み",
+      "pt": "Agendado"
+    },
+    "Search": {
+      "es": "Buscar",
+      "ja": "検索",
+      "pt": "Pesquisar"
+    },
+    "Search…": {
+      "es": "Buscar…",
+      "ja": "検索…",
+      "pt": "Pesquisar…"
+    },
+    "Segment": {
+      "es": "Segmento",
+      "ja": "セグメント",
+      "pt": "Segmento"
+    },
+    "Segment Name": {
+      "es": "Nombre del segmento",
+      "ja": "セグメント名",
+      "pt": "Nome do segmento"
+    },
+    "Segments": {
+      "es": "Segmentos",
+      "ja": "セグメント",
+      "pt": "Segmentos"
+    },
+    "Select": {
+      "es": "Seleccionar",
+      "ja": "選択",
+      "pt": "Selecionar"
+    },
+    "Select all": {
+      "es": "Seleccionar todo",
+      "ja": "すべて選択",
+      "pt": "Selecionar tudo"
+    },
+    "Send": {
+      "es": "Enviar",
+      "ja": "送信",
+      "pt": "Enviar"
+    },
+    "Send Immediately": {
+      "es": "Enviar inmediatamente",
+      "ja": "即時送信",
+      "pt": "Enviar imediatamente"
+    },
+    "Send Test Email": {
+      "es": "Enviar email de prueba",
+      "ja": "テストメールを送信",
+      "pt": "Enviar email de teste"
+    },
+    "Send Test Push": {
+      "es": "Enviar push de prueba",
+      "ja": "テストプッシュを送信",
+      "pt": "Enviar push de teste"
+    },
+    "Send to All Subscribers": {
+      "es": "Enviar a todos los suscriptores",
+      "ja": "全登録者に送信",
+      "pt": "Enviar para todos os assinantes"
+    },
+    "Senders": {
+      "es": "Remitentes",
+      "ja": "送信者",
+      "pt": "Remetentes"
+    },
+    "Sent": {
+      "es": "Enviado",
+      "ja": "送信済み",
+      "pt": "Enviado"
+    },
+    "Sent Messages": {
+      "es": "Mensajes enviados",
+      "ja": "送信済みメッセージ",
+      "pt": "Mensagens enviadas"
+    },
+    "Session Count": {
+      "es": "Sesiones",
+      "ja": "セッション数",
+      "pt": "Sessões"
+    },
+    "Settings": {
+      "es": "Ajustes",
+      "ja": "設定",
+      "pt": "Configurações"
+    },
+    "Sign Out": {
+      "es": "Cerrar sesión",
+      "ja": "サインアウト",
+      "pt": "Sair"
+    },
+    "Site URL": {
+      "es": "URL del sitio",
+      "ja": "サイトURL",
+      "pt": "URL do site"
+    },
+    "Sound": {
+      "es": "Sonido",
+      "ja": "サウンド",
+      "pt": "Som"
+    },
+    "Status": {
+      "es": "Estado",
+      "ja": "ステータス",
+      "pt": "Status"
+    },
+    "Step": {
+      "es": "Paso",
+      "ja": "ステップ",
+      "pt": "Etapa"
+    },
+    "Subject Line": {
+      "es": "Asunto",
+      "ja": "件名",
+      "pt": "Assunto"
+    },
+    "Subscribed": {
+      "es": "Suscrito",
+      "ja": "購読中",
+      "pt": "Inscrito"
+    },
+    "Subscription Date": {
+      "es": "Fecha de suscripción",
+      "ja": "登録日",
+      "pt": "Data de inscrição"
+    },
+    "Subscription Records": {
+      "es": "Registros de suscripción",
+      "ja": "サブスクリプション記録",
+      "pt": "Registros de assinaturas"
+    },
+    "Subscriptions": {
+      "es": "Suscripciones",
+      "ja": "サブスクリプション",
+      "pt": "Assinaturas"
+    },
+    "TTL": {
+      "es": "TTL",
+      "ja": "TTL",
+      "pt": "TTL"
+    },
+    "Tag": {
+      "es": "Etiqueta",
+      "ja": "タグ",
+      "pt": "Tag"
+    },
+    "Tags": {
+      "es": "Etiquetas",
+      "ja": "タグ",
+      "pt": "Tags"
+    },
+    "Team Members": {
+      "es": "Miembros del equipo",
+      "ja": "チームメンバー",
+      "pt": "Membros da equipe"
+    },
+    "Template Name": {
+      "es": "Nombre de la plantilla",
+      "ja": "テンプレート名",
+      "pt": "Nome do modelo"
+    },
+    "Templates": {
+      "es": "Plantillas",
+      "ja": "テンプレート",
+      "pt": "Modelos"
+    },
+    "Test Users": {
+      "es": "Usuarios de prueba",
+      "ja": "テストユーザー",
+      "pt": "Usuários de teste"
+    },
+    "This action cannot be undone.": {
+      "es": "Esta acción no se puede deshacer.",
+      "ja": "この操作は元に戻せません。",
+      "pt": "Esta ação não pode ser desfeita."
+    },
+    "Time Zone": {
+      "es": "Zona horaria",
+      "ja": "タイムゾーン",
+      "pt": "Fuso horário"
+    },
+    "Total Delivered": {
+      "es": "Total entregados",
+      "ja": "合計配信数",
+      "pt": "Total entregues"
+    },
+    "Total Recipients": {
+      "es": "Total de destinatarios",
+      "ja": "合計受信者数",
+      "pt": "Total de destinatários"
+    },
+    "Total Sent": {
+      "es": "Total enviados",
+      "ja": "合計送信数",
+      "pt": "Total enviados"
+    },
+    "Total Subscribers": {
+      "es": "Total de suscriptores",
+      "ja": "合計登録者数",
+      "pt": "Total de assinantes"
+    },
+    "Trigger": {
+      "es": "Disparador",
+      "ja": "トリガー",
+      "pt": "Gatilho"
+    },
+    "Type": {
+      "es": "Tipo",
+      "ja": "タイプ",
+      "pt": "Tipo"
+    },
+    "Unpublish": {
+      "es": "Despublicar",
+      "ja": "非公開にする",
+      "pt": "Cancelar publicação"
+    },
+    "Unsubscribed": {
+      "es": "No suscrito",
+      "ja": "購読解除",
+      "pt": "Cancelado"
+    },
+    "Update": {
+      "es": "Actualizar",
+      "ja": "更新",
+      "pt": "Atualizar"
+    },
+    "Use Template": {
+      "es": "Usar plantilla",
+      "ja": "テンプレートを使用",
+      "pt": "Usar modelo"
+    },
+    "User Records": {
+      "es": "Registros de usuarios",
+      "ja": "ユーザー記録",
+      "pt": "Registros de usuários"
+    },
+    "Users": {
+      "es": "Usuarios",
+      "ja": "ユーザー",
+      "pt": "Usuários"
+    },
+    "View All": {
+      "es": "Ver todo",
+      "ja": "すべて表示",
+      "pt": "Ver todos"
+    },
+    "View Details": {
+      "es": "Ver detalles",
+      "ja": "詳細を表示",
+      "pt": "Ver detalhes"
+    },
+    "Viewer": {
+      "es": "Observador",
+      "ja": "閲覧者",
+      "pt": "Visualizador"
+    },
+    "Webhook URL": {
+      "es": "URL del webhook",
+      "ja": "Webhook URL",
+      "pt": "URL do webhook"
+    },
+    "contains": {
+      "es": "contiene",
+      "ja": "含む",
+      "pt": "contém"
+    },
+    "does not contain": {
+      "es": "no contiene",
+      "ja": "含まない",
+      "pt": "não contém"
+    },
+    "exists": {
+      "es": "existe",
+      "ja": "存在する",
+      "pt": "existe"
+    },
+    "greater than": {
+      "es": "mayor que",
+      "ja": "より大きい",
+      "pt": "maior que"
+    },
+    "is": {
+      "es": "es igual a",
+      "ja": "等しい",
+      "pt": "é igual a"
+    },
+    "is not": {
+      "es": "no es igual a",
+      "ja": "等しくない",
+      "pt": "não é igual a"
+    },
+    "less than": {
+      "es": "menor que",
+      "ja": "より小さい",
+      "pt": "menor que"
+    },
+    "not exists": {
+      "es": "no existe",
+      "ja": "存在しない",
+      "pt": "não existe"
+    }
   }
 }
