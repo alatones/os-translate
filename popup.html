@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>OneSignal Translator</title>
+    <style>
+      body {
+        width: 260px;
+        margin: 0;
+        padding: 14px 16px 16px;
+        font: 13px/1.45 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+        color: #1f2937;
+      }
+      h3 {
+        margin: 0 0 10px;
+        font-size: 14px;
+        font-weight: 600;
+      }
+      label {
+        display: block;
+        font-size: 12px;
+        color: #4b5563;
+        margin-bottom: 6px;
+      }
+      select {
+        width: 100%;
+        padding: 6px 8px;
+        font-size: 13px;
+        border: 1px solid #d1d5db;
+        border-radius: 4px;
+        background: #fff;
+      }
+      #status {
+        margin: 10px 0 0;
+        font-size: 11px;
+        color: #6b7280;
+        min-height: 14px;
+      }
+    </style>
+  </head>
+  <body>
+    <h3>OneSignal Translator</h3>
+    <label for="lang">Language</label>
+    <select id="lang">
+      <option value="en">English (off)</option>
+      <option value="jp">Japanese — 日本語</option>
+      <option value="es">Spanish — Español</option>
+      <option value="pt">Portuguese — Português</option>
+    </select>
+    <p id="status"></p>
+    <script src="popup.js"></script>
+  </body>
+</html>

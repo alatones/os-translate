@@ -1,0 +1,54 @@
+/* Injected into dashboard.onesignal.com only. Tunes typography so CJK glyphs
+   (and accented Latin characters) sit properly in the existing OneSignal UI. */
+
+html, body {
+  font-family:
+    "Hiragino Kaku Gothic ProN",
+    "Yu Gothic",
+    "Yu Gothic UI",
+    "Meiryo",
+    "Noto Sans JP",
+    "Noto Sans",
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    sans-serif;
+}
+
+/* CJK glyphs look heavier than Latin at the same weight; give them more
+   vertical breathing room and dial back aggressive semibolds. */
+body, body * {
+  line-height: 1.55;
+}
+
+body b,
+body strong,
+body h1,
+body h2,
+body h3,
+body h4,
+body h5,
+body h6,
+body [class*="Heading"],
+body [class*="heading"],
+body [class*="Title"],
+body [class*="title"] {
+  font-weight: 600;
+}
+
+body [class*="Nav"] a,
+body [class*="nav"] a,
+body button,
+body [role="button"] {
+  font-weight: 500;
+  letter-spacing: 0;
+}
+
+/* Prevent clipped descenders on Japanese characters inside tight buttons. */
+body button,
+body [role="button"],
+body [class*="Button"],
+body [class*="button"] {
+  line-height: 1.4;
+}

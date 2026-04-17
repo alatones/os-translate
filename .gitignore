@@ -1,0 +1,25 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*~
+
+# Logs
+*.log
+npm-debug.log*
+
+# Node (if tooling is added later)
+node_modules/
+
+# Build / packaging artifacts
+dist/
+build/
+*.zip
+*.crx
+*.pem
+
+# Local env
+.env
+.env.local
