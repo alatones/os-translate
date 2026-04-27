@@ -2409,127 +2409,152 @@
     "Save Changes": {
       "es": "Guardar cambios",
       "ja": "変更を保存",
-      "pt": "Salvar alterações"
+      "pt": "Salvar alterações",
+      "ko": "변경사항 저장"
     },
     "Saving": {
       "es": "Guardando",
       "ja": "保存中",
-      "pt": "Salvando"
+      "pt": "Salvando",
+      "ko": "저장 중"
     },
     "Schedule": {
       "es": "Programación",
       "ja": "スケジュール",
-      "pt": "Agendamento"
+      "pt": "Agendamento",
+      "ko": "일정"
     },
     "Schedule for Later": {
       "es": "Programar para después",
       "ja": "後でスケジュール",
-      "pt": "Agendar para depois"
+      "pt": "Agendar para depois",
+      "ko": "나중에 예약"
     },
     "Scheduled": {
       "es": "Programado",
       "ja": "スケジュール済み",
-      "pt": "Agendado"
+      "pt": "Agendado",
+      "ko": "예약됨"
     },
     "Scheduled Messages": {
       "es": "Mensajes programados",
       "ja": "スケジュール済みメッセージ",
-      "pt": "Mensagens agendadas"
+      "pt": "Mensagens agendadas",
+      "ko": "예약된 메시지"
     },
     "SDK": {
       "es": "SDK",
       "ja": "SDK",
-      "pt": "SDK"
+      "pt": "SDK",
+      "ko": "SDK"
     },
     "SDK version": {
       "es": "Versión del SDK",
       "ja": "SDKバージョン",
-      "pt": "Versão do SDK"
+      "pt": "Versão do SDK",
+      "ko": "SDK 버전"
     },
     "SDKs": {
       "es": "SDKs",
       "ja": "SDK",
-      "pt": "SDKs"
+      "pt": "SDKs",
+      "ko": "SDK"
     },
     "SDKs Guide": {
       "es": "Guía de SDKs",
       "ja": "SDKガイド",
-      "pt": "Guia de SDKs"
+      "pt": "Guia de SDKs",
+      "ko": "SDK 가이드"
     },
     "Search": {
       "es": "Buscar",
       "ja": "検索",
-      "pt": "Pesquisar"
+      "pt": "Pesquisar",
+      "ko": "검색"
     },
     "Search apps": {
       "es": "Buscar apps",
       "ja": "アプリを検索",
-      "pt": "Pesquisar apps"
+      "pt": "Pesquisar apps",
+      "ko": "앱 검색"
     },
     "Search by name": {
       "es": "Buscar por nombre",
       "ja": "名前で検索",
-      "pt": "Pesquisar por nome"
+      "pt": "Pesquisar por nome",
+      "ko": "이름으로 검색"
     },
     "Search event names": {
       "es": "Buscar nombres de eventos",
       "ja": "イベント名を検索",
-      "pt": "Pesquisar nomes de eventos"
+      "pt": "Pesquisar nomes de eventos",
+      "ko": "이벤트 이름 검색"
     },
     "Search term": {
       "es": "Término de búsqueda",
       "ja": "検索キーワード",
-      "pt": "Termo de pesquisa"
+      "pt": "Termo de pesquisa",
+      "ko": "검색어"
     },
     "Search…": {
       "es": "Buscar…",
       "ja": "検索…",
-      "pt": "Pesquisar…"
+      "pt": "Pesquisar…",
+      "ko": "검색…"
     },
     "Secret": {
       "es": "Secreto",
       "ja": "シークレット",
-      "pt": "Segredo"
+      "pt": "Segredo",
+      "ko": "시크릿"
     },
     "Segment": {
       "es": "Segmento",
       "ja": "セグメント",
-      "pt": "Segmento"
+      "pt": "Segmento",
+      "ko": "세그먼트"
     },
     "Segment Name": {
       "es": "Nombre del segmento",
       "ja": "セグメント名",
-      "pt": "Nome do segmento"
+      "pt": "Nome do segmento",
+      "ko": "세그먼트 이름"
     },
     "Segments": {
       "es": "Segmentos",
       "ja": "セグメント",
-      "pt": "Segmentos"
+      "pt": "Segmentos",
+      "ko": "세그먼트"
     },
     "Select": {
       "es": "Seleccionar",
       "ja": "選択",
-      "pt": "Selecionar"
+      "pt": "Selecionar",
+      "ko": "선택"
     },
     "Select all": {
       "es": "Seleccionar todo",
       "ja": "すべて選択",
-      "pt": "Selecionar tudo"
+      "pt": "Selecionar tudo",
+      "ko": "전체 선택"
     },
     "Send": {
       "es": "Enviar",
       "ja": "送信",
-      "pt": "Enviar"
+      "pt": "Enviar",
+      "ko": "발송"
     },
     "Send at": {
       "es": "Enviar el",
       "ja": "送信日時",
-      "pt": "Enviar em"
+      "pt": "Enviar em",
+      "ko": "발송 시간"
     },
     "Send Immediately": {
       "es": "Enviar inmediatamente",
       "ja": "即時送信",
-      "pt": "Enviar imediatamente"
+      "pt": "Enviar imediatamente",
+      "ko": "즉시 발송"
     },
     "Send Test Email": {
       "es": "Enviar email de prueba",
