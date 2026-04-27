@@ -1959,127 +1959,152 @@
     "Notifications": {
       "es": "Notificaciones",
       "ja": "通知",
-      "pt": "Notificações"
+      "pt": "Notificações",
+      "ko": "알림"
     },
     "Nov": {
       "es": "nov",
       "ja": "11月",
-      "pt": "nov"
+      "pt": "nov",
+      "ko": "11월"
     },
     "November": {
       "es": "noviembre",
       "ja": "11月",
-      "pt": "novembro"
+      "pt": "novembro",
+      "ko": "11월"
     },
     "Oct": {
       "es": "oct",
       "ja": "10月",
-      "pt": "out"
+      "pt": "out",
+      "ko": "10월"
     },
     "October": {
       "es": "octubre",
       "ja": "10月",
-      "pt": "outubro"
+      "pt": "outubro",
+      "ko": "10월"
     },
     "of": {
       "es": "de",
       "ja": "/ ",
-      "pt": "de"
+      "pt": "de",
+      "ko": "/"
     },
     "Onboarding": {
       "es": "Incorporación",
       "ja": "オンボーディング",
-      "pt": "Integração"
+      "pt": "Integração",
+      "ko": "온보딩"
     },
     "OneSignal AI": {
       "es": "OneSignal AI",
       "ja": "OneSignal AI",
-      "pt": "OneSignal AI"
+      "pt": "OneSignal AI",
+      "ko": "OneSignal AI"
     },
     "OneSignal ID": {
       "es": "OneSignal ID",
       "ja": "OneSignal ID",
-      "pt": "OneSignal ID"
+      "pt": "OneSignal ID",
+      "ko": "OneSignal ID"
     },
     "Open Rate": {
       "es": "Tasa de apertura",
       "ja": "開封率",
-      "pt": "Taxa de abertura"
+      "pt": "Taxa de abertura",
+      "ko": "열람률"
     },
     "Open rate": {
       "es": "Tasa de apertura",
       "ja": "開封率",
-      "pt": "Taxa de abertura"
+      "pt": "Taxa de abertura",
+      "ko": "열람률"
     },
     "Opened": {
       "es": "Abierto",
       "ja": "開封済み",
-      "pt": "Aberto"
+      "pt": "Aberto",
+      "ko": "열림"
     },
     "Opens": {
       "es": "Aperturas",
       "ja": "開封数",
-      "pt": "Aberturas"
+      "pt": "Aberturas",
+      "ko": "열람"
     },
     "Operating System": {
       "es": "Sistema operativo",
       "ja": "オペレーティングシステム",
-      "pt": "Sistema operacional"
+      "pt": "Sistema operacional",
+      "ko": "운영 체제"
     },
     "Opted In": {
       "es": "Registrado",
       "ja": "オプトイン済み",
-      "pt": "Inscrito"
+      "pt": "Inscrito",
+      "ko": "동의함"
     },
     "Opted Out": {
       "es": "No registrado",
       "ja": "オプトアウト済み",
-      "pt": "Cancelado"
+      "pt": "Cancelado",
+      "ko": "거부함"
     },
     "Optional": {
       "es": "Opcional",
       "ja": "任意",
-      "pt": "Opcional"
+      "pt": "Opcional",
+      "ko": "선택 사항"
     },
     "Organization": {
       "es": "Organización",
       "ja": "組織",
-      "pt": "Organização"
+      "pt": "Organização",
+      "ko": "조직"
     },
     "Organizations": {
       "es": "Organizaciones",
       "ja": "組織",
-      "pt": "Organizações"
+      "pt": "Organizações",
+      "ko": "조직"
     },
     "Outbound": {
       "es": "Saliente",
       "ja": "アウトバウンド",
-      "pt": "Saída"
+      "pt": "Saída",
+      "ko": "아웃바운드"
     },
     "Outcome": {
       "es": "Resultado",
       "ja": "アウトカム",
-      "pt": "Resultado"
+      "pt": "Resultado",
+      "ko": "결과"
     },
     "Overview": {
       "es": "Resumen",
       "ja": "概要",
-      "pt": "Visão geral"
+      "pt": "Visão geral",
+      "ko": "개요"
     },
     "page": {
       "es": "página",
       "ja": "ページ",
-      "pt": "página"
+      "pt": "página",
+      "ko": "페이지"
     },
     "Pagination": {
       "es": "Paginación",
       "ja": "ページネーション",
-      "pt": "Paginação"
+      "pt": "Paginação",
+      "ko": "페이지 매김"
     },
     "Pause": {
       "es": "Pausar",
       "ja": "一時停止",
-      "pt": "Pausar"
+      "pt": "Pausar",
+      "ko": "일시 정지"
     },
     "Paused": {
       "es": "Pausado",
