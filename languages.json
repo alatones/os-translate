@@ -3309,127 +3309,152 @@
     "Web push subscribers": {
       "es": "Suscriptores de push web",
       "ja": "ウェブプッシュ登録者",
-      "pt": "Assinantes de push web"
+      "pt": "Assinantes de push web",
+      "ko": "웹 푸시 구독자"
     },
     "Webhook": {
       "es": "Webhook",
       "ja": "Webhook",
-      "pt": "Webhook"
+      "pt": "Webhook",
+      "ko": "웹훅"
     },
     "Webhook URL": {
       "es": "URL del webhook",
       "ja": "Webhook URL",
-      "pt": "URL do webhook"
+      "pt": "URL do webhook",
+      "ko": "웹훅 URL"
     },
     "Webhooks": {
       "es": "Webhooks",
       "ja": "Webhook",
-      "pt": "Webhooks"
+      "pt": "Webhooks",
+      "ko": "웹훅"
     },
     "Wed": {
       "es": "Mié",
       "ja": "水",
-      "pt": "Qua"
+      "pt": "Qua",
+      "ko": "수"
     },
     "Went live": {
       "es": "Publicado el",
       "ja": "公開日時",
-      "pt": "Publicado em"
+      "pt": "Publicado em",
+      "ko": "라이브됨"
     },
     "Year": {
       "es": "Año",
       "ja": "年",
-      "pt": "Ano"
+      "pt": "Ano",
+      "ko": "연도"
     },
     "Yes": {
       "es": "Sí",
       "ja": "はい",
-      "pt": "Sim"
+      "pt": "Sim",
+      "ko": "예"
     },
     "Yesterday": {
       "es": "Ayer",
       "ja": "昨日",
-      "pt": "Ontem"
+      "pt": "Ontem",
+      "ko": "어제"
     },
     "Stay top of mind": {
       "ja": "常にユーザーの意識に残る",
       "es": "Mantente en la mente de tus usuarios",
-      "pt": "Mantenha-se presente na mente dos seus usuários"
+      "pt": "Mantenha-se presente na mente dos seus usuários",
+      "ko": "항상 기억되세요"
     },
     "Visible and timely messages bring your users back": {
       "ja": "タイムリーなメッセージでユーザーを引き戻す",
       "es": "Los mensajes visibles y oportunos hacen que tus usuarios regresen",
-      "pt": "Mensagens visíveis e oportunas trazem seus usuários de volta"
+      "pt": "Mensagens visíveis e oportunas trazem seus usuários de volta",
+      "ko": "눈에 띄고 적시의 메시지로 사용자를 돌아오게 하세요"
     },
     "Easily manage mobile and web push in one place": {
       "ja": "モバイルとウェブのプッシュを一か所で簡単に管理",
       "es": "Gestiona el push móvil y web fácilmente en un solo lugar",
-      "pt": "Gerencie push móvel e web facilmente em um só lugar"
+      "pt": "Gerencie push móvel e web facilmente em um só lugar",
+      "ko": "모바일 및 웹 푸시를 한 곳에서 쉽게 관리하세요"
     },
     "Unlimited push for real-time updates, alerts, and more": {
       "ja": "リアルタイムの更新・アラートなどをプッシュ数の制限なく配信",
       "es": "Push ilimitado para actualizaciones en tiempo real, alertas y más",
-      "pt": "Push ilimitado para atualizações em tempo real, alertas e muito mais"
+      "pt": "Push ilimitado para atualizações em tempo real, alertas e muito mais",
+      "ko": "실시간 업데이트, 알림 등을 위한 무제한 푸시"
     },
     "Set Up Push": {
       "ja": "プッシュをセットアップ",
       "es": "Configurar push",
-      "pt": "Configurar push"
+      "pt": "Configurar push",
+      "ko": "푸시 설정"
     },
     "Push setup documentation": {
       "ja": "プッシュセットアップドキュメント",
       "es": "Documentación de configuración de push",
-      "pt": "Documentação de configuração de push"
+      "pt": "Documentação de configuração de push",
+      "ko": "푸시 설정 문서"
     },
     "Hi! Let's get started": {
       "ja": "こんにちは！さっそく始めましょう",
       "es": "¡Hola! Empecemos",
-      "pt": "Olá! Vamos começar"
+      "pt": "Olá! Vamos começar",
+      "ko": "안녕하세요! 시작해봅시다"
     },
     "Set up your messaging channels": {
       "ja": "メッセージチャネルを設定する",
       "es": "Configura tus canales de mensajería",
-      "pt": "Configure seus canais de mensagens"
+      "pt": "Configure seus canais de mensagens",
+      "ko": "메시지 채널 설정"
     },
     "Create your first message": {
       "ja": "最初のメッセージを作成する",
       "es": "Crea tu primer mensaje",
-      "pt": "Crie sua primeira mensagem"
+      "pt": "Crie sua primeira mensagem",
+      "ko": "첫 번째 메시지 만들기"
     },
     "Import users": {
       "ja": "ユーザーをインポート",
       "es": "Importar usuarios",
-      "pt": "Importar usuários"
+      "pt": "Importar usuários",
+      "ko": "사용자 가져오기"
     },
     "Push notifications": {
       "ja": "プッシュ通知",
       "es": "Notificaciones push",
-      "pt": "Notificações push"
+      "pt": "Notificações push",
+      "ko": "푸시 알림"
     },
     "In-app messages": {
       "ja": "アプリ内メッセージ",
       "es": "Mensajes en la aplicación",
-      "pt": "Mensagens no aplicativo"
+      "pt": "Mensagens no aplicativo",
+      "ko": "인앱 메시지"
     },
     "Add your users & subscriptions": {
       "ja": "ユーザーとサブスクリプションを追加する",
       "es": "Agrega tus usuarios y suscripciones",
-      "pt": "Adicione seus usuários e assinaturas"
+      "pt": "Adicione seus usuários e assinaturas",
+      "ko": "사용자 및 구독 추가"
     },
     "Bring your users back with mobile and web push.": {
       "ja": "モバイルとウェブのプッシュ通知でユーザーを呼び戻しましょう。",
       "es": "Recupera a tus usuarios con push móvil y web.",
-      "pt": "Traga seus usuários de volta com push móvel e web."
+      "pt": "Traga seus usuários de volta com push móvel e web.",
+      "ko": "모바일 및 웹 푸시로 사용자를 다시 유도하세요."
     },
     "Craft sophisticated professional emails with no code.": {
       "ja": "コードなしでプロフェッショナルなメールを作成しましょう。",
       "es": "Crea correos electrónicos profesionales y sofisticados sin código.",
-      "pt": "Crie e-mails profissionais sofisticados sem código."
+      "pt": "Crie e-mails profissionais sofisticados sem código.",
+      "ko": "코딩 없이 전문적인 이메일을 작성하세요."
     },
     "Directly reach your audience in an effective, mobile-first way.": {
       "ja": "モバイルファーストな方法で効果的にオーディエンスに直接リーチしましょう。",
       "es": "Llega a tu audiencia de manera efectiva y mobile-first.",
-      "pt": "Alcance seu público de forma eficaz e com foco em mobile."
+      "pt": "Alcance seu público de forma eficaz e com foco em mobile.",
+      "ko": "효과적인 모바일 우선 방식으로 고객에게 직접 도달하세요."
     },
     "Reach all active users, regardless of subscription status. (mobile apps only)": {
       "ja": "サブスクリプションの状況に関わらず、すべてのアクティブユーザーにリーチします。（モバイルアプリのみ）",
