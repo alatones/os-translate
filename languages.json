@@ -2709,127 +2709,152 @@
     "Show Delivered": {
       "es": "Mostrar entregados",
       "ja": "配信数を表示",
-      "pt": "Mostrar entregues"
+      "pt": "Mostrar entregues",
+      "ko": "전달됨 표시"
     },
     "Show Delivered Events": {
       "es": "Mostrar eventos entregados",
       "ja": "配信イベント数を表示",
-      "pt": "Mostrar eventos entregues"
+      "pt": "Mostrar eventos entregues",
+      "ko": "전달된 이벤트 표시"
     },
     "Show Exported Events": {
       "es": "Mostrar eventos exportados",
       "ja": "エクスポートイベント数を表示",
-      "pt": "Mostrar eventos exportados"
+      "pt": "Mostrar eventos exportados",
+      "ko": "내보낸 이벤트 표시"
     },
     "Show Processed Events": {
       "es": "Mostrar eventos procesados",
       "ja": "処理済みイベント数を表示",
-      "pt": "Mostrar eventos processados"
+      "pt": "Mostrar eventos processados",
+      "ko": "처리된 이벤트 표시"
     },
     "Show Received Events": {
       "es": "Mostrar eventos recibidos",
       "ja": "受信イベント数を表示",
-      "pt": "Mostrar eventos recebidos"
+      "pt": "Mostrar eventos recebidos",
+      "ko": "수신된 이벤트 표시"
     },
     "Show Successful Updates": {
       "es": "Mostrar actualizaciones exitosas",
       "ja": "成功したアップデート数を表示",
-      "pt": "Mostrar atualizações bem-sucedidas"
+      "pt": "Mostrar atualizações bem-sucedidas",
+      "ko": "성공적인 업데이트 표시"
     },
     "Show Total subscribed": {
       "es": "Mostrar total de suscritos",
       "ja": "購読者総数を表示",
-      "pt": "Mostrar total de inscritos"
+      "pt": "Mostrar total de inscritos",
+      "ko": "총 구독 수 표시"
     },
     "Show Unsubscribed": {
       "es": "Mostrar cancelaciones",
       "ja": "購読解除数を表示",
-      "pt": "Mostrar cancelamentos"
+      "pt": "Mostrar cancelamentos",
+      "ko": "구독 취소 표시"
     },
     "Show/hide columns": {
       "es": "Mostrar/ocultar columnas",
       "ja": "列の表示/非表示",
-      "pt": "Mostrar/ocultar colunas"
+      "pt": "Mostrar/ocultar colunas",
+      "ko": "열 표시/숨기기"
     },
     "Showing": {
       "es": "Mostrando",
       "ja": "表示中",
-      "pt": "Mostrando"
+      "pt": "Mostrando",
+      "ko": "표시 중"
     },
     "Sign Out": {
       "es": "Cerrar sesión",
       "ja": "サインアウト",
-      "pt": "Sair"
+      "pt": "Sair",
+      "ko": "로그아웃"
     },
     "Site URL": {
       "es": "URL del sitio",
       "ja": "サイトURL",
-      "pt": "URL do site"
+      "pt": "URL do site",
+      "ko": "사이트 URL"
     },
     "SMS / RCS": {
       "es": "SMS / RCS",
       "ja": "SMS / RCS",
-      "pt": "SMS / RCS"
+      "pt": "SMS / RCS",
+      "ko": "SMS / RCS"
     },
     "Sound": {
       "es": "Sonido",
       "ja": "サウンド",
-      "pt": "Som"
+      "pt": "Som",
+      "ko": "소리"
     },
     "Sources": {
       "es": "Fuentes",
       "ja": "ソース",
-      "pt": "Fontes"
+      "pt": "Fontes",
+      "ko": "소스"
     },
     "Started": {
       "es": "Iniciado",
       "ja": "開始済み",
-      "pt": "Iniciado"
+      "pt": "Iniciado",
+      "ko": "시작됨"
     },
     "Stats": {
       "es": "Estadísticas",
       "ja": "統計",
-      "pt": "Estatísticas"
+      "pt": "Estatísticas",
+      "ko": "통계"
     },
     "Status": {
       "es": "Estado",
       "ja": "ステータス",
-      "pt": "Status"
+      "pt": "Status",
+      "ko": "상태"
     },
     "Status details": {
       "es": "Detalles del estado",
       "ja": "ステータス詳細",
-      "pt": "Detalhes do status"
+      "pt": "Detalhes do status",
+      "ko": "상태 세부 정보"
     },
     "Status page": {
       "es": "Página de estado",
       "ja": "ステータスページ",
-      "pt": "Página de status"
+      "pt": "Página de status",
+      "ko": "상태 페이지"
     },
     "Step": {
       "es": "Paso",
       "ja": "ステップ",
-      "pt": "Etapa"
+      "pt": "Etapa",
+      "ko": "단계"
     },
     "Stop": {
       "es": "Detener",
       "ja": "停止",
-      "pt": "Parar"
+      "pt": "Parar",
+      "ko": "중지"
     },
     "Storage count": {
       "es": "Recuento de almacenamiento",
       "ja": "ストレージカウント",
-      "pt": "Contagem de armazenamento"
+      "pt": "Contagem de armazenamento",
+      "ko": "저장 수"
     },
     "Storage duration": {
       "es": "Duración de almacenamiento",
       "ja": "ストレージ期間",
-      "pt": "Duração de armazenamento"
+      "pt": "Duração de armazenamento",
+      "ko": "저장 기간"
     },
     "Subject Line": {
       "es": "Asunto",
       "ja": "件名",
-      "pt": "Assunto"
+      "pt": "Assunto",
+      "ko": "제목 줄"
     },
     "Subscribed": {
       "es": "Suscrito",
