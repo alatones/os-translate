@@ -29,17 +29,26 @@
   // resolve (neither exact-match nor pattern). Kept locally regardless of
   // opt-in; background.js gates whether it leaves the machine.
   const missedSession = new Map();
+  // Strings we successfully translated this session — don't re-log them as
+  // missed when the MutationObserver fires on our own DOM writes.
+  const recentTranslations = new Set();
   const MISSED_SEEN_THRESHOLD = 3;
   const MISSED_FLUSH_DEBOUNCE_MS = 5000;
   const MISSED_MIN_LEN = 3;
   const MISSED_MAX_LEN = 80;
-  const MISSED_PII_RE = /@|https?:\/\/|\b[0-9]{6,}\b|[A-Za-z0-9+/=]{32,}/;
+  const MISSED_PII_RE = /@|\/\/|[0-9]{6,}|[A-Za-z0-9+/=]{32,}/;
   const MISSED_UUID_RE = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i;
-  const MISSED_TIMESTAMP_RE = /^\d{2}\/\d{2}\/\d{2},\s*\d/;
+  const MISSED_TIMESTAMP_RE = /^\d{2}\/\d{2}\/\d{2},\s*\d|^\d{4}-\d{2}-\d{2}T\d{2}:/;
   const MISSED_TIMEZONE_RE = /^[A-Z][a-zA-Z_]+\/[A-Z]/;
   const MISSED_COUNTRY_RE = /^[A-Z]{2}$/;
+  // Snake_case / kebab customer attribute names: cupon_code, new_user, etc.
+  const MISSED_ATTR_NAME_RE = /^[a-z][a-z0-9]*([_-][a-z0-9]+)+$/;
+  // IPv6 addresses: 2600:1700:2990:f630:...
+  const MISSED_IPV6_RE = /^[0-9a-f]{4}:[0-9a-f]{4}:/i;
   const MISSED_CHART_TOOLTIP_RE = /^(Mon|Tue|Wed|Thu|Fri|Sat|Sun|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday),\s/;
-  const MISSED_CHART_META_RE = /^(Line chart with|The chart has \d|Created with Highcharts|Chart\. Highcharts|Toggle series visibility|End of interactive chart\.|Interactive chart$|Empty chart$)/;
+  // Also matches 'Apr 1, 884. Total subscribed.' Highcharts data point labels.
+  const MISSED_CHART_DATA_RE = /^(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec) \d+, \d+\. /;
+  const MISSED_CHART_META_RE = /^(Line chart with|The chart has \d|Created with Highcharts|Chart\. Highcharts|Toggle series visibility|End of interactive chart\.|Interactive chart$|Empty chart$|.+, line \d+ of \d+ with \d+ data points\.)/;
   const MISSED_FULL_DATE_RE = /^(January|February|March|April|May|June|July|August|September|October|November|December)\s+\d+,\s+\d{4}$/;
   // SOH separator for composite ledger keys: no UI string will contain it.
   const MISSED_KEY_SEP = "";
@@ -71,6 +80,7 @@
       trackMissed(trimmed);
       return null;
     }
+    recentTranslations.add(translated);
     const leading = raw.slice(0, raw.indexOf(trimmed));
     const trailing = raw.slice(raw.indexOf(trimmed) + trimmed.length);
     return leading + translated + trailing;
@@ -83,9 +93,13 @@
     if (MISSED_TIMESTAMP_RE.test(s)) return false;
     if (MISSED_TIMEZONE_RE.test(s)) return false;
     if (MISSED_COUNTRY_RE.test(s)) return false;
+    if (MISSED_ATTR_NAME_RE.test(s)) return false;
+    if (MISSED_IPV6_RE.test(s)) return false;
     if (MISSED_CHART_TOOLTIP_RE.test(s)) return false;
+    if (MISSED_CHART_DATA_RE.test(s)) return false;
     if (MISSED_CHART_META_RE.test(s)) return false;
     if (MISSED_FULL_DATE_RE.test(s)) return false;
+    if (recentTranslations.has(s)) return false;
     if (/^\d+$/.test(s)) return false;
     if (!/[A-Za-z]/.test(s)) return false;
     return true;

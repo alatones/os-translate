@@ -55,6 +55,11 @@
       "ja": "アクティブオーディエンス",
       "pt": "Audiência ativa"
     },
+    "Activity for": {
+      "es": "Actividad de",
+      "ja": "アクティビティ：",
+      "pt": "Atividade de"
+    },
     "Add": {
       "es": "Agregar",
       "ja": "追加",
@@ -300,6 +305,11 @@
       "ja": "バナー",
       "pt": "Banner"
     },
+    "Blog": {
+      "es": "Blog",
+      "ja": "ブログ",
+      "pt": "Blog"
+    },
     "Branch": {
       "es": "Rama",
       "ja": "分岐",
@@ -319,6 +329,11 @@
       "es": "Cancelado",
       "ja": "キャンセル済み",
       "pt": "Cancelado"
+    },
+    "Careers": {
+      "es": "Empleo",
+      "ja": "採用情報",
+      "pt": "Carreiras"
     },
     "Catalog": {
       "es": "Catálogo",
@@ -344,6 +359,11 @@
       "es": "Conteo de caracteres",
       "ja": "文字数",
       "pt": "Contagem de caracteres"
+    },
+    "Chart": {
+      "es": "Gráfico",
+      "ja": "グラフ",
+      "pt": "Gráfico"
     },
     "Chrome": {
       "es": "Chrome",
@@ -374,6 +394,11 @@
       "es": "Clics",
       "ja": "クリック数",
       "pt": "Cliques"
+    },
+    "Clicked:": {
+      "es": "Clics:",
+      "ja": "クリック済み：",
+      "pt": "Cliques:"
     },
     "Clicks": {
       "es": "Clics",
@@ -444,6 +469,11 @@
       "es": "Tasa de recibo confirmado",
       "ja": "受信確認率",
       "pt": "Taxa de recebimento confirmado"
+    },
+    "Confirmed receipt:": {
+      "es": "Confirmaciones:",
+      "ja": "受信確認：",
+      "pt": "Confirmações:"
     },
     "Confirmed:": {
       "es": "Confirmados:",
@@ -604,6 +634,11 @@
       "es": "Etiquetas de datos",
       "ja": "データタグ",
       "pt": "Tags de dados"
+    },
+    "data tags": {
+      "es": "etiquetas de datos",
+      "ja": "データタグ",
+      "pt": "tags de dados"
     },
     "Date": {
       "es": "Fecha",
@@ -979,6 +1014,11 @@
       "es": "mayor que",
       "ja": "より大きい",
       "pt": "maior que"
+    },
+    "icon for prebuilt": {
+      "es": "ícono predefinido",
+      "ja": "既定アイコン",
+      "pt": "ícone predefinido"
     },
     "ID": {
       "es": "ID",
@@ -1415,6 +1455,11 @@
       "ja": "なし",
       "pt": "Nunca"
     },
+    "Never Subscribed": {
+      "es": "Nunca suscrito",
+      "ja": "未購読",
+      "pt": "Nunca inscrito"
+    },
     "New App/Website": {
       "es": "Nueva app/sitio web",
       "ja": "新規アプリ/ウェブサイト",
@@ -1554,6 +1599,11 @@
       "es": "no existe",
       "ja": "存在しない",
       "pt": "não existe"
+    },
+    "Not Subscribed": {
+      "es": "No suscrito",
+      "ja": "未登録",
+      "pt": "Não inscrito"
     },
     "Notification": {
       "es": "Notificación",
@@ -2000,6 +2050,11 @@
       "ja": "イベント名を検索",
       "pt": "Pesquisar nomes de eventos"
     },
+    "Search term": {
+      "es": "Término de búsqueda",
+      "ja": "検索キーワード",
+      "pt": "Termo de pesquisa"
+    },
     "Search…": {
       "es": "Buscar…",
       "ja": "検索…",
@@ -2270,6 +2325,11 @@
       "ja": "ステータス詳細",
       "pt": "Detalhes do status"
     },
+    "Status page": {
+      "es": "Página de estado",
+      "ja": "ステータスページ",
+      "pt": "Página de status"
+    },
     "Step": {
       "es": "Paso",
       "ja": "ステップ",
@@ -2299,6 +2359,11 @@
       "es": "Suscrito",
       "ja": "購読中",
       "pt": "Inscrito"
+    },
+    "Subscriber Opted Out": {
+      "es": "Suscriptor no participante",
+      "ja": "購読停止済み",
+      "pt": "Assinante optou por sair"
     },
     "Subscription Date": {
       "es": "Fecha de suscripción",
@@ -2544,6 +2609,11 @@
       "es": "No suscrito",
       "ja": "購読解除",
       "pt": "Cancelado"
+    },
+    "Unsubscribed:": {
+      "es": "Cancelaciones:",
+      "ja": "購読解除：",
+      "pt": "Cancelamentos:"
     },
     "Update": {
       "es": "Actualizar",
@@ -2825,6 +2895,102 @@
         "es": "últimos {1} días",
         "ja": "過去{1}日間",
         "pt": "últimos {1} dias"
+      }
+    },
+    {
+      "match": "^Jan (\\d{1,2})$",
+      "translations": {
+        "es": "{1} ene",
+        "ja": "1月{1}日",
+        "pt": "{1} jan"
+      }
+    },
+    {
+      "match": "^Feb (\\d{1,2})$",
+      "translations": {
+        "es": "{1} feb",
+        "ja": "2月{1}日",
+        "pt": "{1} fev"
+      }
+    },
+    {
+      "match": "^Mar (\\d{1,2})$",
+      "translations": {
+        "es": "{1} mar",
+        "ja": "3月{1}日",
+        "pt": "{1} mar"
+      }
+    },
+    {
+      "match": "^Apr (\\d{1,2})$",
+      "translations": {
+        "es": "{1} abr",
+        "ja": "4月{1}日",
+        "pt": "{1} abr"
+      }
+    },
+    {
+      "match": "^May (\\d{1,2})$",
+      "translations": {
+        "es": "{1} may",
+        "ja": "5月{1}日",
+        "pt": "{1} mai"
+      }
+    },
+    {
+      "match": "^Jun (\\d{1,2})$",
+      "translations": {
+        "es": "{1} jun",
+        "ja": "6月{1}日",
+        "pt": "{1} jun"
+      }
+    },
+    {
+      "match": "^Jul (\\d{1,2})$",
+      "translations": {
+        "es": "{1} jul",
+        "ja": "7月{1}日",
+        "pt": "{1} jul"
+      }
+    },
+    {
+      "match": "^Aug (\\d{1,2})$",
+      "translations": {
+        "es": "{1} ago",
+        "ja": "8月{1}日",
+        "pt": "{1} ago"
+      }
+    },
+    {
+      "match": "^Sep (\\d{1,2})$",
+      "translations": {
+        "es": "{1} sep",
+        "ja": "9月{1}日",
+        "pt": "{1} set"
+      }
+    },
+    {
+      "match": "^Oct (\\d{1,2})$",
+      "translations": {
+        "es": "{1} oct",
+        "ja": "10月{1}日",
+        "pt": "{1} out"
+      }
+    },
+    {
+      "match": "^Nov (\\d{1,2})$",
+      "translations": {
+        "es": "{1} nov",
+        "ja": "11月{1}日",
+        "pt": "{1} nov"
+      }
+    },
+    {
+      "match": "^Dec (\\d{1,2})$",
+      "translations": {
+        "es": "{1} dic",
+        "ja": "12月{1}日",
+        "pt": "{1} dez"
       }
     }
   ]
