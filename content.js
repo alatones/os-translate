@@ -31,9 +31,16 @@
   const missedSession = new Map();
   const MISSED_SEEN_THRESHOLD = 3;
   const MISSED_FLUSH_DEBOUNCE_MS = 5000;
-  const MISSED_MIN_LEN = 2;
+  const MISSED_MIN_LEN = 3;
   const MISSED_MAX_LEN = 80;
   const MISSED_PII_RE = /@|https?:\/\/|\b[0-9]{6,}\b|[A-Za-z0-9+/=]{32,}/;
+  const MISSED_UUID_RE = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i;
+  const MISSED_TIMESTAMP_RE = /^\d{2}\/\d{2}\/\d{2},\s*\d/;
+  const MISSED_TIMEZONE_RE = /^[A-Z][a-zA-Z_]+\/[A-Z]/;
+  const MISSED_COUNTRY_RE = /^[A-Z]{2}$/;
+  const MISSED_CHART_TOOLTIP_RE = /^(Mon|Tue|Wed|Thu|Fri|Sat|Sun|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday),\s/;
+  const MISSED_CHART_META_RE = /^(Line chart with|The chart has \d|Created with Highcharts|Chart\. Highcharts|Toggle series visibility|End of interactive chart\.|Interactive chart$|Empty chart$)/;
+  const MISSED_FULL_DATE_RE = /^(January|February|March|April|May|June|July|August|September|October|November|December)\s+\d+,\s+\d{4}$/;
   // SOH separator for composite ledger keys: no UI string will contain it.
   const MISSED_KEY_SEP = "";
   let missedFlushTimer = 0;
@@ -72,9 +79,22 @@
   function couldBeUI(s) {
     if (s.length < MISSED_MIN_LEN || s.length > MISSED_MAX_LEN) return false;
     if (MISSED_PII_RE.test(s)) return false;
+    if (MISSED_UUID_RE.test(s)) return false;
+    if (MISSED_TIMESTAMP_RE.test(s)) return false;
+    if (MISSED_TIMEZONE_RE.test(s)) return false;
+    if (MISSED_COUNTRY_RE.test(s)) return false;
+    if (MISSED_CHART_TOOLTIP_RE.test(s)) return false;
+    if (MISSED_CHART_META_RE.test(s)) return false;
+    if (MISSED_FULL_DATE_RE.test(s)) return false;
     if (/^\d+$/.test(s)) return false;
     if (!/[A-Za-z]/.test(s)) return false;
     return true;
+  }
+
+  function onAppSelectorPage() {
+    // /apps is the org/app selector — strings there are UGC app names.
+    const p = window.location.pathname;
+    return p === "/apps" || p === "/apps/";
   }
 
   function pathKey() {
@@ -88,6 +108,7 @@
   }
 
   function trackMissed(s) {
+    if (onAppSelectorPage()) return;
     if (!couldBeUI(s)) return;
     const next = (missedSession.get(s) || 0) + 1;
     missedSession.set(s, next);

@@ -11,7 +11,7 @@ const FEEDBACK_EMAIL = "bd@onesignal.com";
 // Google Apps Script Web App URL that receives the daily ledger batch.
 // Empty string = no network activity (ledger stays local). Set this to
 // your deployed "/macros/s/.../exec" URL to start collecting.
-const LEDGER_ENDPOINT = "";
+const LEDGER_ENDPOINT = "https://script.google.com/macros/s/AKfycbw8iSkey37fK-WAszOZ99_52dJuAbdE11JbuE-xOLVod2vgHQxEgVphDWv7JyQhfmAnsA/exec";
 
 const MENU_ID = "suggest-translation";
 const DEFAULT_LANG = "ja";
