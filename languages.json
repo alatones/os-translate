@@ -459,127 +459,152 @@
     "Clear": {
       "es": "Limpiar",
       "ja": "クリア",
-      "pt": "Limpar"
+      "pt": "Limpar",
+      "ko": "지우기"
     },
     "Click-through Rate": {
       "es": "Tasa de clics",
       "ja": "クリック率",
-      "pt": "Taxa de cliques"
+      "pt": "Taxa de cliques",
+      "ko": "클릭률"
     },
     "Click-through rate": {
       "es": "Tasa de clics",
       "ja": "クリック率",
-      "pt": "Taxa de cliques"
+      "pt": "Taxa de cliques",
+      "ko": "클릭률"
     },
     "Clicked": {
       "es": "Clics",
       "ja": "クリック数",
-      "pt": "Cliques"
+      "pt": "Cliques",
+      "ko": "클릭됨"
     },
     "Clicked:": {
       "es": "Clics:",
       "ja": "クリック済み：",
-      "pt": "Cliques:"
+      "pt": "Cliques:",
+      "ko": "클릭:"
     },
     "Clicks": {
       "es": "Clics",
       "ja": "クリック数",
-      "pt": "Cliques"
+      "pt": "Cliques",
+      "ko": "클릭"
     },
     "Clicks (count)": {
       "es": "Clics (recuento)",
       "ja": "クリック数（カウント）",
-      "pt": "Cliques (contagem)"
+      "pt": "Cliques (contagem)",
+      "ko": "클릭 수"
     },
     "Clicks:": {
       "es": "Clics:",
       "ja": "クリック数：",
-      "pt": "Cliques:"
+      "pt": "Cliques:",
+      "ko": "클릭:"
     },
     "Close": {
       "es": "Cerrar",
       "ja": "閉じる",
-      "pt": "Fechar"
+      "pt": "Fechar",
+      "ko": "닫기"
     },
     "Communicate different value props and incentives to get your users back.": {
       "es": "Comunica diferentes propuestas de valor e incentivos para recuperar a tus usuarios.",
       "ja": "異なる価値提案やインセンティブを伝えてユーザーを呼び戻します。",
-      "pt": "Comunique diferentes propostas de valor e incentivos para reconquistar seus usuários."
+      "pt": "Comunique diferentes propostas de valor e incentivos para reconquistar seus usuários.",
+      "ko": "사용자를 다시 유도하기 위한 다양한 가치 제안과 인센티브를 전달하세요."
     },
     "Compare to": {
       "es": "Comparar con",
       "ja": "比較対象",
-      "pt": "Comparar com"
+      "pt": "Comparar com",
+      "ko": "비교 대상"
     },
     "Completed": {
       "es": "Completado",
       "ja": "完了",
-      "pt": "Concluído"
+      "pt": "Concluído",
+      "ko": "완료됨"
     },
     "Confirm": {
       "es": "Confirmar",
       "ja": "確認",
-      "pt": "Confirmar"
+      "pt": "Confirmar",
+      "ko": "확인"
     },
     "Confirm and Send": {
       "es": "Confirmar y enviar",
       "ja": "確認して送信",
-      "pt": "Confirmar e enviar"
+      "pt": "Confirmar e enviar",
+      "ko": "확인 및 발송"
     },
     "Confirmed": {
       "es": "Confirmado",
       "ja": "確認済み",
-      "pt": "Confirmado"
+      "pt": "Confirmado",
+      "ko": "확인됨"
     },
     "Confirmed (count)": {
       "es": "Confirmado (recuento)",
       "ja": "確認済み（カウント）",
-      "pt": "Confirmado (contagem)"
+      "pt": "Confirmado (contagem)",
+      "ko": "확인 수"
     },
     "Confirmed Delivered": {
       "es": "Entregado confirmado",
       "ja": "受信確認済み",
-      "pt": "Entregue confirmado"
+      "pt": "Entregue confirmado",
+      "ko": "수신 확인"
     },
     "Confirmed receipt": {
       "es": "Recibo confirmado",
       "ja": "受信確認",
-      "pt": "Recebimento confirmado"
+      "pt": "Recebimento confirmado",
+      "ko": "수신 확인"
     },
     "Confirmed receipt CTR": {
       "es": "CTR de recibo confirmado",
       "ja": "受信確認後クリック率",
-      "pt": "CTR de recebimento confirmado"
+      "pt": "CTR de recebimento confirmado",
+      "ko": "수신 확인 클릭률"
     },
     "Confirmed receipt rate": {
       "es": "Tasa de recibo confirmado",
       "ja": "受信確認率",
-      "pt": "Taxa de recebimento confirmado"
+      "pt": "Taxa de recebimento confirmado",
+      "ko": "수신 확인율"
     },
     "Confirmed receipt:": {
       "es": "Confirmaciones:",
       "ja": "受信確認：",
-      "pt": "Confirmações:"
+      "pt": "Confirmações:",
+      "ko": "수신 확인:"
     },
     "Confirmed:": {
       "es": "Confirmados:",
       "ja": "確認済み：",
-      "pt": "Confirmados:"
+      "pt": "Confirmados:",
+      "ko": "확인:"
     },
     "Connect with new contacts that joined in the past 3 hours": {
       "es": "Conecta con nuevos contactos de las últimas 3 horas",
       "ja": "過去3時間に参加した新規コンタクトにリーチ",
-      "pt": "Conecte-se com novos contatos das últimas 3 horas"
+      "pt": "Conecte-se com novos contatos das últimas 3 horas",
+      "ko": "최근 3시간 내에 가입한 새 연락처에 연결하세요"
     },
     "Connected": {
       "es": "Conectado",
       "ja": "接続済み",
-      "pt": "Conectado"
+      "pt": "Conectado",
+      "ko": "연결됨"
     },
     "Connections": {
       "es": "Conexiones",
       "ja": "接続",
-      "pt": "Conexões"
+      "pt": "Conexões",
+      "ko": "연결"
     },
     "Contact your active audience from a specified country": {
       "es": "Contacta tu audiencia activa de un país específico",
