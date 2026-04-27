@@ -909,127 +909,152 @@
     "Direct": {
       "es": "Directo",
       "ja": "ダイレクト",
-      "pt": "Direto"
+      "pt": "Direto",
+      "ko": "직접"
     },
     "Disable": {
       "es": "Deshabilitar",
       "ja": "無効にする",
-      "pt": "Desativar"
+      "pt": "Desativar",
+      "ko": "비활성화"
     },
     "Disabled": {
       "es": "Deshabilitado",
       "ja": "無効",
-      "pt": "Desativado"
+      "pt": "Desativado",
+      "ko": "비활성화됨"
     },
     "Discard": {
       "es": "Descartar",
       "ja": "破棄",
-      "pt": "Descartar"
+      "pt": "Descartar",
+      "ko": "취소"
     },
     "Disconnected": {
       "es": "Desconectado",
       "ja": "未接続",
-      "pt": "Desconectado"
+      "pt": "Desconectado",
+      "ko": "연결 해제됨"
     },
     "Documentation": {
       "es": "Documentación",
       "ja": "ドキュメント",
-      "pt": "Documentação"
+      "pt": "Documentação",
+      "ko": "문서"
     },
     "does not contain": {
       "es": "no contiene",
       "ja": "含まない",
-      "pt": "não contém"
+      "pt": "não contém",
+      "ko": "포함하지 않음"
     },
     "Done": {
       "es": "Listo",
       "ja": "完了",
-      "pt": "Concluído"
+      "pt": "Concluído",
+      "ko": "완료"
     },
     "Draft": {
       "es": "Borrador",
       "ja": "下書き",
-      "pt": "Rascunho"
+      "pt": "Rascunho",
+      "ko": "초안"
     },
     "Drafts": {
       "es": "Borradores",
       "ja": "下書き一覧",
-      "pt": "Rascunhos"
+      "pt": "Rascunhos",
+      "ko": "초안"
     },
     "Duplicate": {
       "es": "Duplicar",
       "ja": "複製",
-      "pt": "Duplicar"
+      "pt": "Duplicar",
+      "ko": "복제"
     },
     "Edit": {
       "es": "Editar",
       "ja": "編集",
-      "pt": "Editar"
+      "pt": "Editar",
+      "ko": "편집"
     },
     "Edit Segment": {
       "es": "Editar segmento",
       "ja": "セグメントを編集",
-      "pt": "Editar segmento"
+      "pt": "Editar segmento",
+      "ko": "세그먼트 편집"
     },
     "Edit Template": {
       "es": "Editar plantilla",
       "ja": "テンプレートを編集",
-      "pt": "Editar modelo"
+      "pt": "Editar modelo",
+      "ko": "템플릿 편집"
     },
     "Educate your users on how to maximize their value from your product.": {
       "es": "Educa a tus usuarios sobre cómo maximizar el valor de tu producto.",
       "ja": "製品から最大の価値を引き出す方法をユーザーに伝えます。",
-      "pt": "Eduque seus usuários sobre como obter o máximo valor do seu produto."
+      "pt": "Eduque seus usuários sobre como obter o máximo valor do seu produto.",
+      "ko": "사용자가 제품에서 최대한의 가치를 얻을 수 있도록 교육하세요."
     },
     "Email": {
       "es": "Email",
       "ja": "メール",
-      "pt": "Email"
+      "pt": "Email",
+      "ko": "이메일"
     },
     "Email Address": {
       "es": "Dirección de email",
       "ja": "メールアドレス",
-      "pt": "Endereço de email"
+      "pt": "Endereço de email",
+      "ko": "이메일 주소"
     },
     "Email Settings": {
       "es": "Configuración de email",
       "ja": "メール設定",
-      "pt": "Configurações de email"
+      "pt": "Configurações de email",
+      "ko": "이메일 설정"
     },
     "Enable": {
       "es": "Habilitar",
       "ja": "有効にする",
-      "pt": "Ativar"
+      "pt": "Ativar",
+      "ko": "활성화"
     },
     "End": {
       "es": "Fin",
       "ja": "終了",
-      "pt": "Fim"
+      "pt": "Fim",
+      "ko": "종료"
     },
     "Engage recently active contacts": {
       "es": "Contacta a usuarios activos recientemente",
       "ja": "最近アクティブなコンタクトにエンゲージ",
-      "pt": "Engaje contatos recentemente ativos"
+      "pt": "Engaje contatos recentemente ativos",
+      "ko": "최근 활동한 연락처와 소통하세요"
     },
     "Engagement trends": {
       "es": "Tendencias de participación",
       "ja": "エンゲージメント推移",
-      "pt": "Tendências de engajamento"
+      "pt": "Tendências de engajamento",
+      "ko": "참여 트렌드"
     },
     "Error": {
       "es": "Error",
       "ja": "エラー",
-      "pt": "Erro"
+      "pt": "Erro",
+      "ko": "오류"
     },
     "Errored": {
       "es": "Con error",
       "ja": "エラー発生",
-      "pt": "Com erro"
+      "pt": "Com erro",
+      "ko": "오류 발생"
     },
     "Event Activity": {
       "es": "Actividad de eventos",
       "ja": "イベントアクティビティ",
-      "pt": "Atividade de eventos"
+      "pt": "Atividade de eventos",
+      "ko": "이벤트 활동"
     },
     "Event List": {
       "es": "Lista de eventos",
