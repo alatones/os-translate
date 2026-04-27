@@ -165,6 +165,11 @@
       "ja": "Android",
       "pt": "Android"
     },
+    "Announce and send follow-up reminders for sales.": {
+      "es": "Anuncia y envía recordatorios de seguimiento para ventas.",
+      "ja": "セール告知とフォローアップリマインダーを送信。",
+      "pt": "Anuncie e envie lembretes de acompanhamento para vendas."
+    },
     "Any/English": {
       "es": "Cualquiera/Inglés",
       "ja": "任意/英語",
@@ -419,6 +424,11 @@
       "es": "Cerrar",
       "ja": "閉じる",
       "pt": "Fechar"
+    },
+    "Communicate different value props and incentives to get your users back.": {
+      "es": "Comunica diferentes propuestas de valor e incentivos para recuperar a tus usuarios.",
+      "ja": "異なる価値提案やインセンティブを伝えてユーザーを呼び戻します。",
+      "pt": "Comunique diferentes propostas de valor e incentivos para reconquistar seus usuários."
     },
     "Compare to": {
       "es": "Comparar con",
@@ -814,6 +824,11 @@
       "es": "Editar plantilla",
       "ja": "テンプレートを編集",
       "pt": "Editar modelo"
+    },
+    "Educate your users on how to maximize their value from your product.": {
+      "es": "Educa a tus usuarios sobre cómo maximizar el valor de tu producto.",
+      "ja": "製品から最大の価値を引き出す方法をユーザーに伝えます。",
+      "pt": "Eduque seus usuários sobre como obter o máximo valor do seu produto."
     },
     "Email": {
       "es": "Email",
@@ -1645,6 +1660,11 @@
       "ja": "/ ",
       "pt": "de"
     },
+    "Onboarding": {
+      "es": "Incorporación",
+      "ja": "オンボーディング",
+      "pt": "Integração"
+    },
     "OneSignal AI": {
       "es": "OneSignal AI",
       "ja": "OneSignal AI",
@@ -1824,6 +1844,11 @@
       "es": "Perfil",
       "ja": "プロフィール",
       "pt": "Perfil"
+    },
+    "Promotional": {
+      "es": "Promocional",
+      "ja": "プロモーション",
+      "pt": "Promocional"
     },
     "Publish": {
       "es": "Publicar",

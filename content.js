@@ -45,6 +45,10 @@
   const MISSED_ATTR_NAME_RE = /^[a-z][a-z0-9]*([_-][a-z0-9]+)+$/;
   // IPv6 addresses: 2600:1700:2990:f630:...
   const MISSED_IPV6_RE = /^[0-9a-f]{4}:[0-9a-f]{4}:/i;
+  // Markdown link: [text](url)
+  const MISSED_MARKDOWN_LINK_RE = /^\[.+\]\(.+\)$/;
+  // OS + subscriber count: 'macOS (145)', 'Windows (147)', 'Linux x86_64 (129)'
+  const MISSED_OS_COUNT_RE = /^(macOS|Windows|iOS|Android|Linux\b.*)\s*\(\d+\)$/;
   const MISSED_CHART_TOOLTIP_RE = /^(Mon|Tue|Wed|Thu|Fri|Sat|Sun|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday),\s/;
   // Also matches 'Apr 1, 884. Total subscribed.' Highcharts data point labels.
   const MISSED_CHART_DATA_RE = /^(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec) \d+, \d+\. /;
@@ -95,6 +99,8 @@
     if (MISSED_COUNTRY_RE.test(s)) return false;
     if (MISSED_ATTR_NAME_RE.test(s)) return false;
     if (MISSED_IPV6_RE.test(s)) return false;
+    if (MISSED_MARKDOWN_LINK_RE.test(s)) return false;
+    if (MISSED_OS_COUNT_RE.test(s)) return false;
     if (MISSED_CHART_TOOLTIP_RE.test(s)) return false;
     if (MISSED_CHART_DATA_RE.test(s)) return false;
     if (MISSED_CHART_META_RE.test(s)) return false;
