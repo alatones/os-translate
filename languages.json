@@ -4059,127 +4059,152 @@
     "Engaged Subscriptions": {
       "ja": "エンゲージドなサブスクリプション",
       "es": "Suscripciones con engagement",
-      "pt": "Assinaturas com engajamento"
+      "pt": "Assinaturas com engajamento",
+      "ko": "참여 중인 구독"
     },
     "Inactive Subscriptions": {
       "ja": "非アクティブなサブスクリプション",
       "es": "Suscripciones inactivas",
-      "pt": "Assinaturas inativas"
+      "pt": "Assinaturas inativas",
+      "ko": "비활성 구독"
     },
     "Total Subscriptions": {
       "ja": "サブスクリプション合計",
       "es": "Suscripciones totales",
-      "pt": "Total de assinaturas"
+      "pt": "Total de assinaturas",
+      "ko": "총 구독 수"
     },
     "Search by name or keywords": {
       "ja": "名前またはキーワードで検索",
       "es": "Buscar por nombre o palabras clave",
-      "pt": "Pesquisar por nome ou palavras-chave"
+      "pt": "Pesquisar por nome ou palavras-chave",
+      "ko": "이름 또는 키워드로 검색"
     },
     "Try one of our quickstart segments": {
       "ja": "クイックスタートセグメントをお試しください",
       "es": "Prueba uno de nuestros segmentos de inicio rápido",
-      "pt": "Experimente um de nossos segmentos de início rápido"
+      "pt": "Experimente um de nossos segmentos de início rápido",
+      "ko": "빠른 시작 세그먼트 중 하나를 시도해 보세요"
     },
     "Export a list of users": {
       "ja": "ユーザーリストをエクスポート",
       "es": "Exportar una lista de usuarios",
-      "pt": "Exportar uma lista de usuários"
+      "pt": "Exportar uma lista de usuários",
+      "ko": "사용자 목록 내보내기"
     },
     "Integrate SDK": {
       "ja": "SDKを統合する",
       "es": "Integrar SDK",
-      "pt": "Integrar SDK"
+      "pt": "Integrar SDK",
+      "ko": "SDK 통합"
     },
     "Know your users": {
       "ja": "ユーザーを把握する",
       "es": "Conoce a tus usuarios",
-      "pt": "Conheça seus usuários"
+      "pt": "Conheça seus usuários",
+      "ko": "사용자를 파악하세요"
     },
     "Manage user profiles": {
       "ja": "ユーザープロフィールを管理する",
       "es": "Gestionar perfiles de usuario",
-      "pt": "Gerenciar perfis de usuários"
+      "pt": "Gerenciar perfis de usuários",
+      "ko": "사용자 프로필 관리"
     },
     "See recent message activity at the user level": {
       "ja": "ユーザーレベルでの最近のメッセージアクティビティを確認する",
       "es": "Ver la actividad reciente de mensajes a nivel de usuario",
-      "pt": "Ver atividade recente de mensagens no nível do usuário"
+      "pt": "Ver atividade recente de mensagens no nível do usuário",
+      "ko": "사용자 수준의 최근 메시지 활동 보기"
     },
     "User documentation": {
       "ja": "ユーザードキュメント",
       "es": "Documentación de usuario",
-      "pt": "Documentação do usuário"
+      "pt": "Documentação do usuário",
+      "ko": "사용자 문서"
     },
     "Set up": {
       "ja": "セットアップ",
       "es": "Configurar",
-      "pt": "Configurar"
+      "pt": "Configurar",
+      "ko": "설정"
     },
     "Data Feeds allow you to dynamically fetch data from your APIs at send time.": {
       "ja": "データフィードを使用すると、送信時にAPIからデータを動的に取得できます。",
       "es": "Los Data Feeds te permiten obtener datos de forma dinámica desde tus APIs en el momento del envío.",
-      "pt": "Os Data Feeds permitem que você busque dados dinamicamente de suas APIs no momento do envio."
+      "pt": "Os Data Feeds permitem que você busque dados dinamicamente de suas APIs no momento do envio.",
+      "ko": "데이터 피드를 통해 발송 시 API에서 동적으로 데이터를 가져올 수 있습니다."
     },
     "Data Feeds documentation": {
       "ja": "データフィードのドキュメント",
       "es": "Documentación de Data Feeds",
-      "pt": "Documentação de Data Feeds"
+      "pt": "Documentação de Data Feeds",
+      "ko": "데이터 피드 문서"
     },
     "Insert real-time, dynamic content from your data feeds directly into the template at the time of sending. This feature only applies to templates sent through Journeys.": {
       "ja": "送信時にデータフィードからリアルタイムの動的コンテンツをテンプレートに直接挿入します。この機能はジャーニー経由で送信されるテンプレートにのみ適用されます。",
       "es": "Inserta contenido dinámico y en tiempo real desde tus data feeds directamente en la plantilla al momento del envío. Esta función solo aplica a plantillas enviadas a través de Journeys.",
-      "pt": "Insira conteúdo dinâmico e em tempo real dos seus data feeds diretamente no modelo no momento do envio. Este recurso se aplica apenas a modelos enviados por Journeys."
+      "pt": "Insira conteúdo dinâmico e em tempo real dos seus data feeds diretamente no modelo no momento do envio. Este recurso se aplica apenas a modelos enviados por Journeys.",
+      "ko": "발송 시 데이터 피드에서 실시간 동적 콘텐츠를 템플릿에 직접 삽입하세요. 이 기능은 저니를 통해 발송된 템플릿에만 적용됩니다."
     },
     "Needs Action": {
       "ja": "対応が必要",
       "es": "Requiere acción",
-      "pt": "Requer ação"
+      "pt": "Requer ação",
+      "ko": "조치 필요"
     },
     "You don't have any Data Feeds set up yet": {
       "ja": "データフィードはまだ設定されていません",
       "es": "Aún no tienes Data Feeds configurados",
-      "pt": "Você ainda não tem Data Feeds configurados"
+      "pt": "Você ainda não tem Data Feeds configurados",
+      "ko": "아직 데이터 피드가 설정되지 않았습니다"
     },
     "Export subscriptions for push, email, and SMS": {
       "ja": "プッシュ、メール、SMSのサブスクリプションをエクスポートする",
       "es": "Exporta suscripciones de push, email y SMS",
-      "pt": "Exporte assinaturas de push, e-mail e SMS"
+      "pt": "Exporte assinaturas de push, e-mail e SMS",
+      "ko": "푸시, 이메일 및 SMS 구독 내보내기"
     },
     "See subscriber preferences at the channel level": {
       "ja": "チャネルレベルでのサブスクライバーの設定を確認する",
       "es": "Ver las preferencias de suscriptores a nivel de canal",
-      "pt": "Ver preferências de assinantes no nível do canal"
+      "pt": "Ver preferências de assinantes no nível do canal",
+      "ko": "채널 수준에서 구독자 기본 설정 보기"
     },
     "Subscriptions documentation": {
       "ja": "サブスクリプションのドキュメント",
       "es": "Documentación de suscripciones",
-      "pt": "Documentação de assinaturas"
+      "pt": "Documentação de assinaturas",
+      "ko": "구독 문서"
     },
     "Understand your audience": {
       "ja": "オーディエンスを理解する",
       "es": "Entiende a tu audiencia",
-      "pt": "Entenda seu público"
+      "pt": "Entenda seu público",
+      "ko": "고객을 이해하세요"
     },
     "View recent activity and preferences": {
       "ja": "最近のアクティビティと設定を表示する",
       "es": "Ver actividad reciente y preferencias",
-      "pt": "Ver atividade recente e preferências"
+      "pt": "Ver atividade recente e preferências",
+      "ko": "최근 활동 및 기본 설정 보기"
     },
     "Add Test Subscriptions": {
       "ja": "テストサブスクリプションを追加する",
       "es": "Agregar suscripciones de prueba",
-      "pt": "Adicionar assinaturas de teste"
+      "pt": "Adicionar assinaturas de teste",
+      "ko": "테스트 구독 추가"
     },
     "Confirm emails are pixel-perfect": {
       "ja": "メールがピクセルパーフェクトであることを確認する",
       "es": "Confirma que los emails son perfectos al píxel",
-      "pt": "Confirme que os e-mails estão pixel-perfeitos"
+      "pt": "Confirme que os e-mails estão pixel-perfeitos",
+      "ko": "이메일이 완벽한지 확인하세요"
     },
     "Manage test subscriptions to preview and send test messages.": {
       "ja": "テストサブスクリプションを管理して、テストメッセージをプレビューおよび送信する。",
       "es": "Gestiona las suscripciones de prueba para previsualizar y enviar mensajes de prueba.",
-      "pt": "Gerencie assinaturas de teste para visualizar e enviar mensagens de teste."
+      "pt": "Gerencie assinaturas de teste para visualizar e enviar mensagens de teste.",
+      "ko": "테스트 메시지를 미리 보고 발송하기 위해 테스트 구독을 관리하세요."
     },
     "Send perfect messages": {
       "ja": "完璧なメッセージを送信する",
