@@ -1659,127 +1659,152 @@
     "March": {
       "es": "marzo",
       "ja": "3月",
-      "pt": "março"
+      "pt": "março",
+      "ko": "3월"
     },
     "Maximum": {
       "es": "Máximo",
       "ja": "最大",
-      "pt": "Máximo"
+      "pt": "Máximo",
+      "ko": "최대"
     },
     "May": {
       "es": "mayo",
       "ja": "5月",
-      "pt": "maio"
+      "pt": "maio",
+      "ko": "5월"
     },
     "Message": {
       "es": "Mensaje",
       "ja": "メッセージ",
-      "pt": "Mensagem"
+      "pt": "Mensagem",
+      "ko": "메시지"
     },
     "Message Content": {
       "es": "Contenido del mensaje",
       "ja": "メッセージ内容",
-      "pt": "Conteúdo da mensagem"
+      "pt": "Conteúdo da mensagem",
+      "ko": "메시지 내용"
     },
     "Message Event Delivery": {
       "es": "Entrega de eventos de mensajes",
       "ja": "メッセージイベント配信",
-      "pt": "Entrega de eventos de mensagens"
+      "pt": "Entrega de eventos de mensagens",
+      "ko": "메시지 이벤트 전달"
     },
     "Message Title": {
       "es": "Título del mensaje",
       "ja": "メッセージタイトル",
-      "pt": "Título da mensagem"
+      "pt": "Título da mensagem",
+      "ko": "메시지 제목"
     },
     "Message type": {
       "es": "Tipo de mensaje",
       "ja": "メッセージタイプ",
-      "pt": "Tipo de mensagem"
+      "pt": "Tipo de mensagem",
+      "ko": "메시지 유형"
     },
     "Messages": {
       "es": "Mensajes",
       "ja": "メッセージ",
-      "pt": "Mensagens"
+      "pt": "Mensagens",
+      "ko": "메시지"
     },
     "Minimum": {
       "es": "Mínimo",
       "ja": "最小",
-      "pt": "Mínimo"
+      "pt": "Mínimo",
+      "ko": "최소"
     },
     "Mobile (MAU)": {
       "es": "Móvil (MAU)",
       "ja": "モバイル（MAU）",
-      "pt": "Mobile (MAU)"
+      "pt": "Mobile (MAU)",
+      "ko": "모바일 (MAU)"
     },
     "Modal": {
       "es": "Modal",
       "ja": "モーダル",
-      "pt": "Modal"
+      "pt": "Modal",
+      "ko": "모달"
     },
     "Mon": {
       "es": "Lun",
       "ja": "月",
-      "pt": "Seg"
+      "pt": "Seg",
+      "ko": "월"
     },
     "Month": {
       "es": "Mes",
       "ja": "月",
-      "pt": "Mês"
+      "pt": "Mês",
+      "ko": "월"
     },
     "More information": {
       "es": "Más información",
       "ja": "詳細情報",
-      "pt": "Mais informações"
+      "pt": "Mais informações",
+      "ko": "추가 정보"
     },
     "N/A": {
       "es": "N/D",
       "ja": "N/A",
-      "pt": "N/D"
+      "pt": "N/D",
+      "ko": "해당 없음"
     },
     "Name": {
       "es": "Nombre",
       "ja": "名前",
-      "pt": "Nome"
+      "pt": "Nome",
+      "ko": "이름"
     },
     "Never": {
       "es": "Nunca",
       "ja": "なし",
-      "pt": "Nunca"
+      "pt": "Nunca",
+      "ko": "없음"
     },
     "Never Subscribed": {
       "es": "Nunca suscrito",
       "ja": "未購読",
-      "pt": "Nunca inscrito"
+      "pt": "Nunca inscrito",
+      "ko": "구독한 적 없음"
     },
     "New App/Website": {
       "es": "Nueva app/sitio web",
       "ja": "新規アプリ/ウェブサイト",
-      "pt": "Novo app/site"
+      "pt": "Novo app/site",
+      "ko": "새 앱/웹사이트"
     },
     "New Automated Message": {
       "es": "Nuevo mensaje automatizado",
       "ja": "新規自動メッセージ",
-      "pt": "Nova mensagem automatizada"
+      "pt": "Nova mensagem automatizada",
+      "ko": "새 자동화 메시지"
     },
     "New Data Feed": {
       "es": "Nueva fuente de datos",
       "ja": "新規データフィード",
-      "pt": "Novo feed de dados"
+      "pt": "Novo feed de dados",
+      "ko": "새 데이터 피드"
     },
     "New Email": {
       "es": "Nuevo email",
       "ja": "新規メール",
-      "pt": "Novo email"
+      "pt": "Novo email",
+      "ko": "새 이메일"
     },
     "New email": {
       "es": "Nuevo email",
       "ja": "新規メール",
-      "pt": "Novo email"
+      "pt": "Novo email",
+      "ko": "새 이메일"
     },
     "New Event Stream": {
       "es": "Nuevo flujo de eventos",
       "ja": "新規イベントストリーム",
-      "pt": "Novo fluxo de eventos"
+      "pt": "Novo fluxo de eventos",
+      "ko": "새 이벤트 스트림"
     },
     "New In-App": {
       "es": "Nuevo In-App",
