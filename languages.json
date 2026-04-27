@@ -2,133 +2,159 @@
   "languages": {
     "es": "Español — Spanish",
     "ja": "日本語 — Japanese",
-    "pt": "Português — Portuguese"
+    "pt": "Português — Portuguese",
+    "ko": "한국어 — Korean"
   },
   "translations": {
     "+ Create...": {
       "es": "+ Crear...",
       "ja": "+ 作成...",
-      "pt": "+ Criar..."
+      "pt": "+ Criar...",
+      "ko": "+ 만들기..."
     },
     "A/B": {
       "es": "A/B",
       "ja": "A/B",
-      "pt": "A/B"
+      "pt": "A/B",
+      "ko": "A/B"
     },
     "A/B Tests": {
       "es": "Pruebas A/B",
       "ja": "A/Bテスト",
-      "pt": "Testes A/B"
+      "pt": "Testes A/B",
+      "ko": "A/B 테스트"
     },
     "A/B tests": {
       "es": "Pruebas A/B",
       "ja": "A/Bテスト",
-      "pt": "Testes A/B"
+      "pt": "Testes A/B",
+      "ko": "A/B 테스트"
     },
     "Account": {
       "es": "Cuenta",
       "ja": "アカウント",
-      "pt": "Conta"
+      "pt": "Conta",
+      "ko": "계정"
     },
     "Action Buttons": {
       "es": "Botones de acción",
       "ja": "アクションボタン",
-      "pt": "Botões de ação"
+      "pt": "Botões de ação",
+      "ko": "액션 버튼"
     },
     "Actions": {
       "es": "Acciones",
       "ja": "操作",
-      "pt": "Ações"
+      "pt": "Ações",
+      "ko": "작업"
     },
     "Activate": {
       "es": "Activar",
       "ja": "有効化",
-      "pt": "Ativar"
+      "pt": "Ativar",
+      "ko": "활성화"
     },
     "Active": {
       "es": "Activo",
       "ja": "アクティブ",
-      "pt": "Ativo"
+      "pt": "Ativo",
+      "ko": "활성"
     },
     "Active Audience": {
       "es": "Audiencia activa",
       "ja": "アクティブオーディエンス",
-      "pt": "Audiência ativa"
+      "pt": "Audiência ativa",
+      "ko": "활성 고객"
     },
     "Activity for": {
       "es": "Actividad de",
       "ja": "アクティビティ：",
-      "pt": "Atividade de"
+      "pt": "Atividade de",
+      "ko": "활동 내역:"
     },
     "Add": {
       "es": "Agregar",
       "ja": "追加",
-      "pt": "Adicionar"
+      "pt": "Adicionar",
+      "ko": "추가"
     },
     "Add data through mobile or web SDKs": {
       "es": "Agrega datos a través de SDKs móviles o web",
       "ja": "モバイルまたはウェブSDKでデータを追加",
-      "pt": "Adicione dados via SDKs móveis ou web"
+      "pt": "Adicione dados via SDKs móveis ou web",
+      "ko": "모바일 또는 웹 SDK를 통해 데이터 추가"
     },
     "Add Filter": {
       "es": "Agregar filtro",
       "ja": "フィルターを追加",
-      "pt": "Adicionar filtro"
+      "pt": "Adicionar filtro",
+      "ko": "필터 추가"
     },
     "Add filter": {
       "es": "Agregar filtro",
       "ja": "フィルターを追加",
-      "pt": "Adicionar filtro"
+      "pt": "Adicionar filtro",
+      "ko": "필터 추가"
     },
     "Add outcome": {
       "es": "Agregar resultado",
       "ja": "アウトカムを追加",
-      "pt": "Adicionar resultado"
+      "pt": "Adicionar resultado",
+      "ko": "결과 추가"
     },
     "Add Segment": {
       "es": "Agregar segmento",
       "ja": "セグメントを追加",
-      "pt": "Adicionar segmento"
+      "pt": "Adicionar segmento",
+      "ko": "세그먼트 추가"
     },
     "Add User": {
       "es": "Agregar usuario",
       "ja": "ユーザーを追加",
-      "pt": "Adicionar usuário"
+      "pt": "Adicionar usuário",
+      "ko": "사용자 추가"
     },
     "Add Webhook": {
       "es": "Agregar webhook",
       "ja": "Webhookを追加",
-      "pt": "Adicionar webhook"
+      "pt": "Adicionar webhook",
+      "ko": "웹훅 추가"
     },
     "Additional Data": {
       "es": "Datos adicionales",
       "ja": "追加データ",
-      "pt": "Dados adicionais"
+      "pt": "Dados adicionais",
+      "ko": "추가 데이터"
     },
     "Additional Settings": {
       "es": "Ajustes adicionales",
       "ja": "詳細設定",
-      "pt": "Configurações adicionais"
+      "pt": "Configurações adicionais",
+      "ko": "추가 설정"
     },
     "Admin": {
       "es": "Administrador",
       "ja": "管理者",
-      "pt": "Administrador"
+      "pt": "Administrador",
+      "ko": "관리자"
     },
     "All": {
       "es": "Todo",
       "ja": "すべて",
-      "pt": "Tudo"
+      "pt": "Tudo",
+      "ko": "전체"
     },
     "All Apps": {
       "es": "Todas las apps",
       "ja": "全アプリ",
-      "pt": "Todos os apps"
+      "pt": "Todos os apps",
+      "ko": "모든 앱"
     },
     "All Platforms": {
       "es": "Todas las plataformas",
       "ja": "全プラットフォーム",
-      "pt": "Todas as plataformas"
+      "pt": "Todas as plataformas",
+      "ko": "모든 플랫폼"
     },
     "All Time": {
       "es": "Todo el tiempo",
