@@ -24,9 +24,10 @@ Language codes follow ISO 639-1.
 | Code | Language   | Status                     |
 | ---- | ---------- | -------------------------- |
 | `en` | English    | Passthrough (no changes)   |
-| `ja` | Japanese   | ~460 dashboard terms + patterns |
-| `es` | Spanish    | ~460 dashboard terms + patterns |
-| `pt` | Portuguese | ~460 dashboard terms + patterns |
+| `ja` | Japanese   | ~724 dashboard terms + patterns |
+| `es` | Spanish    | ~724 dashboard terms + patterns |
+| `pt` | Portuguese | ~724 dashboard terms + patterns |
+| `ko` | Korean     | ~724 dashboard terms + patterns |
 
 ## How Persistence Works
 
