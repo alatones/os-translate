@@ -759,127 +759,152 @@
     "Data": {
       "es": "Datos",
       "ja": "データ",
-      "pt": "Dados"
+      "pt": "Dados",
+      "ko": "데이터"
     },
     "Data Feeds": {
       "es": "Fuentes de datos",
       "ja": "データフィード",
-      "pt": "Feeds de dados"
+      "pt": "Feeds de dados",
+      "ko": "데이터 피드"
     },
     "Data Tags": {
       "es": "Etiquetas de datos",
       "ja": "データタグ",
-      "pt": "Tags de dados"
+      "pt": "Tags de dados",
+      "ko": "데이터 태그"
     },
     "data tags": {
       "es": "etiquetas de datos",
       "ja": "データタグ",
-      "pt": "tags de dados"
+      "pt": "tags de dados",
+      "ko": "데이터 태그"
     },
     "Date": {
       "es": "Fecha",
       "ja": "日付",
-      "pt": "Data"
+      "pt": "Data",
+      "ko": "날짜"
     },
     "Date Range": {
       "es": "Rango de fechas",
       "ja": "日付範囲",
-      "pt": "Intervalo de datas"
+      "pt": "Intervalo de datas",
+      "ko": "날짜 범위"
     },
     "Date Sent": {
       "es": "Fecha de envío",
       "ja": "送信日",
-      "pt": "Data de envio"
+      "pt": "Data de envio",
+      "ko": "발송 날짜"
     },
     "Date timestamps are stored in UTC time (EDT is -04:00 from UTC)": {
       "es": "Las fechas se almacenan en UTC (EDT es -04:00 desde UTC)",
       "ja": "日付はUTC時刻で保存されています（EDTはUTCから-04:00）",
-      "pt": "Datas são armazenadas em UTC (EDT é -04:00 do UTC)"
+      "pt": "Datas são armazenadas em UTC (EDT é -04:00 do UTC)",
+      "ko": "날짜 타임스탬프는 UTC 기준으로 저장됩니다 (EDT는 UTC -04:00)"
     },
     "Deactivate": {
       "es": "Desactivar",
       "ja": "無効化",
-      "pt": "Desativar"
+      "pt": "Desativar",
+      "ko": "비활성화"
     },
     "Dec": {
       "es": "dic",
       "ja": "12月",
-      "pt": "dez"
+      "pt": "dez",
+      "ko": "12월"
     },
     "December": {
       "es": "diciembre",
       "ja": "12月",
-      "pt": "dezembro"
+      "pt": "dezembro",
+      "ko": "12월"
     },
     "Default Language": {
       "es": "Idioma predeterminado",
       "ja": "デフォルト言語",
-      "pt": "Idioma padrão"
+      "pt": "Idioma padrão",
+      "ko": "기본 언어"
     },
     "Delay": {
       "es": "Retraso",
       "ja": "遅延",
-      "pt": "Atraso"
+      "pt": "Atraso",
+      "ko": "지연"
     },
     "Delete": {
       "es": "Eliminar",
       "ja": "削除",
-      "pt": "Excluir"
+      "pt": "Excluir",
+      "ko": "삭제"
     },
     "Delete App": {
       "es": "Eliminar app",
       "ja": "アプリを削除",
-      "pt": "Excluir app"
+      "pt": "Excluir app",
+      "ko": "앱 삭제"
     },
     "Delete Segment": {
       "es": "Eliminar segmento",
       "ja": "セグメントを削除",
-      "pt": "Excluir segmento"
+      "pt": "Excluir segmento",
+      "ko": "세그먼트 삭제"
     },
     "Delete Template": {
       "es": "Eliminar plantilla",
       "ja": "テンプレートを削除",
-      "pt": "Excluir modelo"
+      "pt": "Excluir modelo",
+      "ko": "템플릿 삭제"
     },
     "Delivered": {
       "es": "Entregado",
       "ja": "配信済み",
-      "pt": "Entregue"
+      "pt": "Entregue",
+      "ko": "전달됨"
     },
     "Delivered Events": {
       "es": "Eventos entregados",
       "ja": "配信済みイベント",
-      "pt": "Eventos entregues"
+      "pt": "Eventos entregues",
+      "ko": "전달된 이벤트"
     },
     "Delivery": {
       "es": "Entrega",
       "ja": "配信",
-      "pt": "Entrega"
+      "pt": "Entrega",
+      "ko": "전달"
     },
     "Delivery Rate": {
       "es": "Tasa de entrega",
       "ja": "配信率",
-      "pt": "Taxa de entrega"
+      "pt": "Taxa de entrega",
+      "ko": "전달률"
     },
     "Destination URL": {
       "es": "URL de destino",
       "ja": "送信先URL",
-      "pt": "URL de destino"
+      "pt": "URL de destino",
+      "ko": "대상 URL"
     },
     "Details": {
       "es": "Detalles",
       "ja": "詳細",
-      "pt": "Detalhes"
+      "pt": "Detalhes",
+      "ko": "세부 정보"
     },
     "Device": {
       "es": "Dispositivo",
       "ja": "デバイス",
-      "pt": "Dispositivo"
+      "pt": "Dispositivo",
+      "ko": "기기"
     },
     "Device Type": {
       "es": "Tipo de dispositivo",
       "ja": "デバイスタイプ",
-      "pt": "Tipo de dispositivo"
+      "pt": "Tipo de dispositivo",
+      "ko": "기기 유형"
     },
     "Direct": {
       "es": "Directo",
