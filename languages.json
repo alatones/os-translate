@@ -2559,127 +2559,152 @@
     "Send Test Email": {
       "es": "Enviar email de prueba",
       "ja": "テストメールを送信",
-      "pt": "Enviar email de teste"
+      "pt": "Enviar email de teste",
+      "ko": "테스트 이메일 발송"
     },
     "Send Test Push": {
       "es": "Enviar push de prueba",
       "ja": "テストプッシュを送信",
-      "pt": "Enviar push de teste"
+      "pt": "Enviar push de teste",
+      "ko": "테스트 푸시 발송"
     },
     "Send to All Subscribers": {
       "es": "Enviar a todos los suscriptores",
       "ja": "全登録者に送信",
-      "pt": "Enviar para todos os assinantes"
+      "pt": "Enviar para todos os assinantes",
+      "ko": "모든 구독자에게 발송"
     },
     "Sender": {
       "es": "Remitente",
       "ja": "送信者",
-      "pt": "Remetente"
+      "pt": "Remetente",
+      "ko": "발신자"
     },
     "Senders": {
       "es": "Remitentes",
       "ja": "送信者",
-      "pt": "Remetentes"
+      "pt": "Remetentes",
+      "ko": "발신자"
     },
     "Senders & configuration": {
       "es": "Remitentes y configuración",
       "ja": "送信者と設定",
-      "pt": "Remetentes e configuração"
+      "pt": "Remetentes e configuração",
+      "ko": "발신자 및 구성"
     },
     "Senders, suppressions & configuration": {
       "es": "Remitentes, supresiones y configuración",
       "ja": "送信者、抑制と設定",
-      "pt": "Remetentes, supressões e configuração"
+      "pt": "Remetentes, supressões e configuração",
+      "ko": "발신자, 수신 거부 및 구성"
     },
     "Sending": {
       "es": "Enviando",
       "ja": "送信中",
-      "pt": "Enviando"
+      "pt": "Enviando",
+      "ko": "발송 중"
     },
     "Sent": {
       "es": "Enviado",
       "ja": "送信済み",
-      "pt": "Enviado"
+      "pt": "Enviado",
+      "ko": "발송됨"
     },
     "Sent at": {
       "es": "Enviado el",
       "ja": "送信日時",
-      "pt": "Enviado em"
+      "pt": "Enviado em",
+      "ko": "발송 시간"
     },
     "Sent Messages": {
       "es": "Mensajes enviados",
       "ja": "送信済みメッセージ",
-      "pt": "Mensagens enviadas"
+      "pt": "Mensagens enviadas",
+      "ko": "발송된 메시지"
     },
     "Sep": {
       "es": "sep",
       "ja": "9月",
-      "pt": "set"
+      "pt": "set",
+      "ko": "9월"
     },
     "September": {
       "es": "septiembre",
       "ja": "9月",
-      "pt": "setembro"
+      "pt": "setembro",
+      "ko": "9월"
     },
     "Session Count": {
       "es": "Sesiones",
       "ja": "セッション数",
-      "pt": "Sessões"
+      "pt": "Sessões",
+      "ko": "세션 수"
     },
     "Sessions": {
       "es": "Sesiones",
       "ja": "セッション",
-      "pt": "Sessões"
+      "pt": "Sessões",
+      "ko": "세션"
     },
     "Sessions (count)": {
       "es": "Sesiones (recuento)",
       "ja": "セッション（カウント）",
-      "pt": "Sessões (contagem)"
+      "pt": "Sessões (contagem)",
+      "ko": "세션 수"
     },
     "Sessions:": {
       "es": "Sesiones:",
       "ja": "セッション数：",
-      "pt": "Sessões:"
+      "pt": "Sessões:",
+      "ko": "세션:"
     },
     "Set up security and API keys": {
       "es": "Configurar seguridad y claves API",
       "ja": "セキュリティとAPIキーの設定",
-      "pt": "Configurar segurança e chaves de API"
+      "pt": "Configurar segurança e chaves de API",
+      "ko": "보안 및 API 키 설정"
     },
     "Settings": {
       "es": "Ajustes",
       "ja": "設定",
-      "pt": "Configurações"
+      "pt": "Configurações",
+      "ko": "설정"
     },
     "Show all outcomes": {
       "es": "Mostrar todos los resultados",
       "ja": "すべてのアウトカムを表示",
-      "pt": "Mostrar todos os resultados"
+      "pt": "Mostrar todos os resultados",
+      "ko": "모든 결과 표시"
     },
     "Show Attempted": {
       "es": "Mostrar intentados",
       "ja": "試行数を表示",
-      "pt": "Mostrar tentativas"
+      "pt": "Mostrar tentativas",
+      "ko": "시도됨 표시"
     },
     "Show Attempted Events": {
       "es": "Mostrar eventos intentados",
       "ja": "試行イベント数を表示",
-      "pt": "Mostrar eventos tentados"
+      "pt": "Mostrar eventos tentados",
+      "ko": "시도된 이벤트 표시"
     },
     "Show Attempted Updates": {
       "es": "Mostrar actualizaciones intentadas",
       "ja": "試行アップデート数を表示",
-      "pt": "Mostrar atualizações tentadas"
+      "pt": "Mostrar atualizações tentadas",
+      "ko": "시도된 업데이트 표시"
     },
     "Show Clicked": {
       "es": "Mostrar clics",
       "ja": "クリック数を表示",
-      "pt": "Mostrar cliques"
+      "pt": "Mostrar cliques",
+      "ko": "클릭됨 표시"
     },
     "Show Confirmed receipt": {
       "es": "Mostrar confirmaciones de recepción",
       "ja": "受信確認数を表示",
-      "pt": "Mostrar confirmações de recebimento"
+      "pt": "Mostrar confirmações de recebimento",
+      "ko": "수신 확인 표시"
     },
     "Show Delivered": {
       "es": "Mostrar entregados",
