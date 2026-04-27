@@ -3159,127 +3159,152 @@
     "Unsubscribed": {
       "es": "No suscrito",
       "ja": "購読解除",
-      "pt": "Cancelado"
+      "pt": "Cancelado",
+      "ko": "구독 취소됨"
     },
     "Unsubscribed:": {
       "es": "Cancelaciones:",
       "ja": "購読解除：",
-      "pt": "Cancelamentos:"
+      "pt": "Cancelamentos:",
+      "ko": "구독 취소:"
     },
     "Update": {
       "es": "Actualizar",
       "ja": "更新",
-      "pt": "Atualizar"
+      "pt": "Atualizar",
+      "ko": "업데이트"
     },
     "Update/Import Users": {
       "es": "Actualizar/importar usuarios",
       "ja": "ユーザーを更新/インポート",
-      "pt": "Atualizar/importar usuários"
+      "pt": "Atualizar/importar usuários",
+      "ko": "사용자 업데이트/가져오기"
     },
     "Updated At": {
       "es": "Actualizado el",
       "ja": "更新日時",
-      "pt": "Atualizado em"
+      "pt": "Atualizado em",
+      "ko": "업데이트 일시"
     },
     "Upload a CSV": {
       "es": "Subir un CSV",
       "ja": "CSVをアップロード",
-      "pt": "Enviar um CSV"
+      "pt": "Enviar um CSV",
+      "ko": "CSV 업로드"
     },
     "URL": {
       "es": "URL",
       "ja": "URL",
-      "pt": "URL"
+      "pt": "URL",
+      "ko": "URL"
     },
     "Usage": {
       "es": "Uso",
       "ja": "使用状況",
-      "pt": "Uso"
+      "pt": "Uso",
+      "ko": "사용량"
     },
     "Usage duration": {
       "es": "Duración de uso",
       "ja": "使用期間",
-      "pt": "Duração de uso"
+      "pt": "Duração de uso",
+      "ko": "사용 기간"
     },
     "Usage locations": {
       "es": "Ubicaciones de uso",
       "ja": "使用箇所",
-      "pt": "Locais de uso"
+      "pt": "Locais de uso",
+      "ko": "사용 위치"
     },
     "Use Template": {
       "es": "Usar plantilla",
       "ja": "テンプレートを使用",
-      "pt": "Usar modelo"
+      "pt": "Usar modelo",
+      "ko": "템플릿 사용"
     },
     "User Records": {
       "es": "Registros de usuarios",
       "ja": "ユーザー記録",
-      "pt": "Registros de usuários"
+      "pt": "Registros de usuários",
+      "ko": "사용자 기록"
     },
     "Users": {
       "es": "Usuarios",
       "ja": "ユーザー",
-      "pt": "Usuários"
+      "pt": "Usuários",
+      "ko": "사용자"
     },
     "UTC": {
       "es": "UTC",
       "ja": "UTC",
-      "pt": "UTC"
+      "pt": "UTC",
+      "ko": "UTC"
     },
     "UTC:": {
       "es": "UTC:",
       "ja": "UTC：",
-      "pt": "UTC:"
+      "pt": "UTC:",
+      "ko": "UTC:"
     },
     "Value": {
       "es": "Valor",
       "ja": "値",
-      "pt": "Valor"
+      "pt": "Valor",
+      "ko": "값"
     },
     "View": {
       "es": "Ver",
       "ja": "表示",
-      "pt": "Ver"
+      "pt": "Ver",
+      "ko": "보기"
     },
     "View activity log for all users": {
       "es": "Ver registro de actividad de todos los usuarios",
       "ja": "全ユーザーのアクティビティログを表示",
-      "pt": "Ver registro de atividade de todos os usuários"
+      "pt": "Ver registro de atividade de todos os usuários",
+      "ko": "모든 사용자의 활동 로그 보기"
     },
     "View All": {
       "es": "Ver todo",
       "ja": "すべて表示",
-      "pt": "Ver todos"
+      "pt": "Ver todos",
+      "ko": "전체 보기"
     },
     "View Details": {
       "es": "Ver detalles",
       "ja": "詳細を表示",
-      "pt": "Ver detalhes"
+      "pt": "Ver detalhes",
+      "ko": "세부 정보 보기"
     },
     "View previous imports": {
       "es": "Ver importaciones anteriores",
       "ja": "過去のインポートを表示",
-      "pt": "Ver importações anteriores"
+      "pt": "Ver importações anteriores",
+      "ko": "이전 가져오기 보기"
     },
     "View subscription & billing cycle usage": {
       "es": "Ver uso de suscripción y ciclo de facturación",
       "ja": "サブスクリプションと請求サイクルの使用状況を表示",
-      "pt": "Ver uso de assinatura e ciclo de faturamento"
+      "pt": "Ver uso de assinatura e ciclo de faturamento",
+      "ko": "구독 및 청구 주기 사용량 보기"
     },
     "Viewer": {
       "es": "Observador",
       "ja": "閲覧者",
-      "pt": "Visualizador"
+      "pt": "Visualizador",
+      "ko": "뷰어"
     },
     "Warning": {
       "es": "Advertencia",
       "ja": "警告",
-      "pt": "Aviso"
+      "pt": "Aviso",
+      "ko": "경고"
     },
     "Web": {
       "es": "Web",
       "ja": "ウェブ",
-      "pt": "Web"
+      "pt": "Web",
+      "ko": "웹"
     },
     "Web push subscribers": {
       "es": "Suscriptores de push web",
