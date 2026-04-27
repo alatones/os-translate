@@ -3609,127 +3609,152 @@
     "Data Streaming": {
       "ja": "データストリーミング",
       "es": "Transmisión de datos",
-      "pt": "Streaming de dados"
+      "pt": "Streaming de dados",
+      "ko": "데이터 스트리밍"
     },
     "Storage": {
       "ja": "ストレージ",
       "es": "Almacenamiento",
-      "pt": "Armazenamento"
+      "pt": "Armazenamento",
+      "ko": "저장소"
     },
     "Spreadsheet": {
       "ja": "スプレッドシート",
       "es": "Hoja de cálculo",
-      "pt": "Planilha"
+      "pt": "Planilha",
+      "ko": "스프레드시트"
     },
     "Add Integration": {
       "ja": "インテグレーションを追加",
       "es": "Agregar integración",
-      "pt": "Adicionar integração"
+      "pt": "Adicionar integração",
+      "ko": "통합 추가"
     },
     "Search integrations...": {
       "ja": "インテグレーションを検索...",
       "es": "Buscar integraciones...",
-      "pt": "Pesquisar integrações..."
+      "pt": "Pesquisar integrações...",
+      "ko": "통합 검색..."
     },
     "Select type...": {
       "ja": "タイプを選択...",
       "es": "Seleccionar tipo...",
-      "pt": "Selecionar tipo..."
+      "pt": "Selecionar tipo...",
+      "ko": "유형 선택..."
     },
     "No contents": {
       "ja": "コンテンツがありません",
       "es": "Sin contenido",
-      "pt": "Sem conteúdo"
+      "pt": "Sem conteúdo",
+      "ko": "내용 없음"
     },
     "When you configure an integration, its status will be displayed here.": {
       "ja": "インテグレーションを設定すると、そのステータスがここに表示されます。",
       "es": "Cuando configures una integración, su estado se mostrará aquí.",
-      "pt": "Quando você configurar uma integração, seu status será exibido aqui."
+      "pt": "Quando você configurar uma integração, seu status será exibido aqui.",
+      "ko": "통합을 구성하면 여기에 상태가 표시됩니다."
     },
     "Connect Integration": {
       "ja": "インテグレーションを接続",
       "es": "Conectar integración",
-      "pt": "Conectar integração"
+      "pt": "Conectar integração",
+      "ko": "통합 연결"
     },
     "Connect Journeys to other systems": {
       "ja": "ジャーニーを他のシステムに接続する",
       "es": "Conectar Journeys a otros sistemas",
-      "pt": "Conectar Journeys a outros sistemas"
+      "pt": "Conectar Journeys a outros sistemas",
+      "ko": "저니를 다른 시스템에 연결하세요"
     },
     "Gain real-time insights within the Events List": {
       "ja": "イベントリスト内でリアルタイムのインサイトを取得する",
       "es": "Obtén información en tiempo real en la lista de eventos",
-      "pt": "Obtenha insights em tempo real na lista de eventos"
+      "pt": "Obtenha insights em tempo real na lista de eventos",
+      "ko": "이벤트 목록에서 실시간 인사이트를 얻으세요"
     },
     "Harness the Power of Event Data": {
       "ja": "イベントデータのパワーを活用する",
       "es": "Aprovecha el poder de los datos de eventos",
-      "pt": "Aproveite o poder dos dados de eventos"
+      "pt": "Aproveite o poder dos dados de eventos",
+      "ko": "이벤트 데이터의 힘을 활용하세요"
     },
     "Journey Webhooks send HTTP requests from OneSignal Journeys to your servers or external services.": {
       "ja": "ジャーニーWebhookは、OneSignalジャーニーからサーバーや外部サービスにHTTPリクエストを送信します。",
       "es": "Los Journey Webhooks envían solicitudes HTTP desde OneSignal Journeys a tus servidores o servicios externos.",
-      "pt": "Os Journey Webhooks enviam solicitações HTTP dos Journeys do OneSignal para seus servidores ou serviços externos."
+      "pt": "Os Journey Webhooks enviam solicitações HTTP dos Journeys do OneSignal para seus servidores ou serviços externos.",
+      "ko": "저니 웹훅은 OneSignal 저니에서 서버 또는 외부 서비스로 HTTP 요청을 전송합니다."
     },
     "Orchestrate messages across platforms (e.g., WhatsApp, direct mail) by configuring a webhook for a Journey": {
       "ja": "ジャーニーのWebhookを設定して、複数のプラットフォーム（例：WhatsApp、ダイレクトメール）でメッセージを調整する",
       "es": "Orquesta mensajes en distintas plataformas (p. ej., WhatsApp, correo directo) configurando un webhook para un Journey",
-      "pt": "Orquestre mensagens em diferentes plataformas (ex.: WhatsApp, mala direta) configurando um webhook para um Journey"
+      "pt": "Orquestre mensagens em diferentes plataformas (ex.: WhatsApp, mala direta) configurando um webhook para um Journey",
+      "ko": "저니에 웹훅을 구성하여 플랫폼 간 (예: WhatsApp, 다이렉트 메일) 메시지를 조율하세요"
     },
     "Power Journeys with events—begin, hold, or exit user flows": {
       "ja": "イベントでジャーニーを強化する——ユーザーフローの開始、保留、または終了",
       "es": "Potencia los Journeys con eventos: inicia, detiene o sale de los flujos de usuarios",
-      "pt": "Potencialize Journeys com eventos — iniciar, pausar ou sair de fluxos de usuários"
+      "pt": "Potencialize Journeys com eventos — iniciar, pausar ou sair de fluxos de usuários",
+      "ko": "이벤트로 저니를 강화하세요—사용자 흐름을 시작, 유지 또는 종료하세요"
     },
     "Seamlessly integrate with APIs, SDKs, or tools like Segment": {
       "ja": "API、SDK、またはSegmentなどのツールとシームレスに統合する",
       "es": "Integra fácilmente con APIs, SDKs o herramientas como Segment",
-      "pt": "Integre facilmente com APIs, SDKs ou ferramentas como o Segment"
+      "pt": "Integre facilmente com APIs, SDKs ou ferramentas como o Segment",
+      "ko": "API, SDK 또는 Segment와 같은 도구와 원활하게 통합하세요"
     },
     "Tour a Preview of Custom Events": {
       "ja": "カスタムイベントのプレビューを見る",
       "es": "Ver una vista previa de los eventos personalizados",
-      "pt": "Ver uma prévia dos eventos personalizados"
+      "pt": "Ver uma prévia dos eventos personalizados",
+      "ko": "사용자 정의 이벤트 미리보기 둘러보기"
     },
     "Trigger profile updates or events in other tools based on customer movement through a Journey": {
       "ja": "ジャーニーにおける顧客の動きに基づいて、他のツールでプロフィール更新やイベントをトリガーする",
       "es": "Activa actualizaciones de perfil o eventos en otras herramientas según el movimiento del cliente en un Journey",
-      "pt": "Acione atualizações de perfil ou eventos em outras ferramentas com base no movimento do cliente em um Journey"
+      "pt": "Acione atualizações de perfil ou eventos em outras ferramentas com base no movimento do cliente em um Journey",
+      "ko": "저니를 통한 고객 이동을 기반으로 다른 도구에서 프로필 업데이트 또는 이벤트를 트리거하세요"
     },
     "Webhooks documentation": {
       "ja": "Webhooksドキュメント",
       "es": "Documentación de Webhooks",
-      "pt": "Documentação de Webhooks"
+      "pt": "Documentação de Webhooks",
+      "ko": "웹훅 문서"
     },
     "or use our API to start sending events": {
       "ja": "またはAPIを使用してイベントの送信を開始する",
       "es": "o usa nuestra API para comenzar a enviar eventos",
-      "pt": "ou use nossa API para começar a enviar eventos"
+      "pt": "ou use nossa API para começar a enviar eventos",
+      "ko": "또는 API를 사용하여 이벤트 전송 시작"
     },
     "Authenticate domain": {
       "ja": "ドメインを認証する",
       "es": "Autenticar dominio",
-      "pt": "Autenticar domínio"
+      "pt": "Autenticar domínio",
+      "ko": "도메인 인증"
     },
     "Verify account": {
       "ja": "アカウントを確認する",
       "es": "Verificar cuenta",
-      "pt": "Verificar conta"
+      "pt": "Verificar conta",
+      "ko": "계정 확인"
     },
     "Create sender": {
       "ja": "送信者を作成する",
       "es": "Crear remitente",
-      "pt": "Criar remetente"
+      "pt": "Criar remetente",
+      "ko": "발신자 만들기"
     },
     "Read blog": {
       "ja": "ブログを読む",
       "es": "Leer blog",
-      "pt": "Ler blog"
+      "pt": "Ler blog",
+      "ko": "블로그 읽기"
     },
     "Explore more": {
       "ja": "詳細を見る",
       "es": "Explorar más",
-      "pt": "Explorar mais"
+      "pt": "Explorar mais",
+      "ko": "더 알아보기"
     },
     "Evaluate email providers": {
       "ja": "メールプロバイダーを評価する",
