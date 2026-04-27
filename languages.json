@@ -2109,127 +2109,152 @@
     "Paused": {
       "es": "Pausado",
       "ja": "一時停止中",
-      "pt": "Pausado"
+      "pt": "Pausado",
+      "ko": "일시 정지됨"
     },
     "per page": {
       "es": "por página",
       "ja": "件 / ページ",
-      "pt": "por página"
+      "pt": "por página",
+      "ko": "페이지당"
     },
     "Percentage": {
       "es": "Porcentaje",
       "ja": "割合",
-      "pt": "Percentual"
+      "pt": "Percentual",
+      "ko": "비율"
     },
     "Phone Number": {
       "es": "Número de teléfono",
       "ja": "電話番号",
-      "pt": "Número de telefone"
+      "pt": "Número de telefone",
+      "ko": "전화번호"
     },
     "Phone number": {
       "es": "Número de teléfono",
       "ja": "電話番号",
-      "pt": "Número de telefone"
+      "pt": "Número de telefone",
+      "ko": "전화번호"
     },
     "Plan": {
       "es": "Plan",
       "ja": "プラン",
-      "pt": "Plano"
+      "pt": "Plano",
+      "ko": "플랜"
     },
     "Platform": {
       "es": "Plataforma",
       "ja": "プラットフォーム",
-      "pt": "Plataforma"
+      "pt": "Plataforma",
+      "ko": "플랫폼"
     },
     "Platforms": {
       "es": "Plataformas",
       "ja": "プラットフォーム",
-      "pt": "Plataformas"
+      "pt": "Plataformas",
+      "ko": "플랫폼"
     },
     "Platforms set up and message settings": {
       "es": "Configuración de plataformas y mensajes",
       "ja": "プラットフォームのセットアップとメッセージ設定",
-      "pt": "Configuração de plataformas e mensagens"
+      "pt": "Configuração de plataformas e mensagens",
+      "ko": "플랫폼 설정 및 메시지 설정"
     },
     "Preheader": {
       "es": "Encabezado previo",
       "ja": "プリヘッダー",
-      "pt": "Pré-cabeçalho"
+      "pt": "Pré-cabeçalho",
+      "ko": "프리헤더"
     },
     "Prev": {
       "es": "Anterior",
       "ja": "前へ",
-      "pt": "Anterior"
+      "pt": "Anterior",
+      "ko": "이전"
     },
     "Preview": {
       "es": "Vista previa",
       "ja": "プレビュー",
-      "pt": "Visualizar"
+      "pt": "Visualizar",
+      "ko": "미리보기"
     },
     "Previous": {
       "es": "Anterior",
       "ja": "前へ",
-      "pt": "Anterior"
+      "pt": "Anterior",
+      "ko": "이전"
     },
     "Previous page": {
       "es": "Página anterior",
       "ja": "前のページ",
-      "pt": "Página anterior"
+      "pt": "Página anterior",
+      "ko": "이전 페이지"
     },
     "Priority": {
       "es": "Prioridad",
       "ja": "優先度",
-      "pt": "Prioridade"
+      "pt": "Prioridade",
+      "ko": "우선순위"
     },
     "Processed Events": {
       "es": "Eventos procesados",
       "ja": "処理済みイベント数",
-      "pt": "Eventos processados"
+      "pt": "Eventos processados",
+      "ko": "처리된 이벤트"
     },
     "Processing": {
       "es": "Procesando",
       "ja": "処理中",
-      "pt": "Processando"
+      "pt": "Processando",
+      "ko": "처리 중"
     },
     "Profile": {
       "es": "Perfil",
       "ja": "プロフィール",
-      "pt": "Perfil"
+      "pt": "Perfil",
+      "ko": "프로필"
     },
     "Promotional": {
       "es": "Promocional",
       "ja": "プロモーション",
-      "pt": "Promocional"
+      "pt": "Promocional",
+      "ko": "프로모션"
     },
     "Publish": {
       "es": "Publicar",
       "ja": "公開",
-      "pt": "Publicar"
+      "pt": "Publicar",
+      "ko": "게시"
     },
     "Purchases": {
       "es": "Compras",
       "ja": "購入数",
-      "pt": "Compras"
+      "pt": "Compras",
+      "ko": "구매"
     },
     "Push": {
       "es": "Push",
       "ja": "プッシュ",
-      "pt": "Push"
+      "pt": "Push",
+      "ko": "푸시"
     },
     "Push & In-App": {
       "es": "Push e In-App",
       "ja": "プッシュ & アプリ内",
-      "pt": "Push e In-App"
+      "pt": "Push e In-App",
+      "ko": "푸시 및 인앱"
     },
     "Push Notifications": {
       "es": "Notificaciones push",
       "ja": "プッシュ通知",
-      "pt": "Notificações push"
+      "pt": "Notificações push",
+      "ko": "푸시 알림"
     },
     "Push token": {
       "es": "Token push",
       "ja": "プッシュトークン",
-      "pt": "Token push"
+      "pt": "Token push",
+      "ko": "푸시 토큰"
     },
     "Queued": {
       "es": "En cola",
