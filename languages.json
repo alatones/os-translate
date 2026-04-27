@@ -3044,6 +3044,181 @@
       "ja": "インテグレーションを設定すると、そのステータスがここに表示されます。",
       "es": "Cuando configures una integración, su estado se mostrará aquí.",
       "pt": "Quando você configurar uma integração, seu status será exibido aqui."
+    },
+    "Connect Integration": {
+      "ja": "インテグレーションを接続",
+      "es": "Conectar integración",
+      "pt": "Conectar integração"
+    },
+    "Connect Journeys to other systems": {
+      "ja": "ジャーニーを他のシステムに接続する",
+      "es": "Conectar Journeys a otros sistemas",
+      "pt": "Conectar Journeys a outros sistemas"
+    },
+    "Gain real-time insights within the Events List": {
+      "ja": "イベントリスト内でリアルタイムのインサイトを取得する",
+      "es": "Obtén información en tiempo real en la lista de eventos",
+      "pt": "Obtenha insights em tempo real na lista de eventos"
+    },
+    "Harness the Power of Event Data": {
+      "ja": "イベントデータのパワーを活用する",
+      "es": "Aprovecha el poder de los datos de eventos",
+      "pt": "Aproveite o poder dos dados de eventos"
+    },
+    "Journey Webhooks send HTTP requests from OneSignal Journeys to your servers or external services.": {
+      "ja": "ジャーニーWebhookは、OneSignalジャーニーからサーバーや外部サービスにHTTPリクエストを送信します。",
+      "es": "Los Journey Webhooks envían solicitudes HTTP desde OneSignal Journeys a tus servidores o servicios externos.",
+      "pt": "Os Journey Webhooks enviam solicitações HTTP dos Journeys do OneSignal para seus servidores ou serviços externos."
+    },
+    "Orchestrate messages across platforms (e.g., WhatsApp, direct mail) by configuring a webhook for a Journey": {
+      "ja": "ジャーニーのWebhookを設定して、複数のプラットフォーム（例：WhatsApp、ダイレクトメール）でメッセージを調整する",
+      "es": "Orquesta mensajes en distintas plataformas (p. ej., WhatsApp, correo directo) configurando un webhook para un Journey",
+      "pt": "Orquestre mensagens em diferentes plataformas (ex.: WhatsApp, mala direta) configurando um webhook para um Journey"
+    },
+    "Power Journeys with events—begin, hold, or exit user flows": {
+      "ja": "イベントでジャーニーを強化する——ユーザーフローの開始、保留、または終了",
+      "es": "Potencia los Journeys con eventos: inicia, detiene o sale de los flujos de usuarios",
+      "pt": "Potencialize Journeys com eventos — iniciar, pausar ou sair de fluxos de usuários"
+    },
+    "Seamlessly integrate with APIs, SDKs, or tools like Segment": {
+      "ja": "API、SDK、またはSegmentなどのツールとシームレスに統合する",
+      "es": "Integra fácilmente con APIs, SDKs o herramientas como Segment",
+      "pt": "Integre facilmente com APIs, SDKs ou ferramentas como o Segment"
+    },
+    "Tour a Preview of Custom Events": {
+      "ja": "カスタムイベントのプレビューを見る",
+      "es": "Ver una vista previa de los eventos personalizados",
+      "pt": "Ver uma prévia dos eventos personalizados"
+    },
+    "Trigger profile updates or events in other tools based on customer movement through a Journey": {
+      "ja": "ジャーニーにおける顧客の動きに基づいて、他のツールでプロフィール更新やイベントをトリガーする",
+      "es": "Activa actualizaciones de perfil o eventos en otras herramientas según el movimiento del cliente en un Journey",
+      "pt": "Acione atualizações de perfil ou eventos em outras ferramentas com base no movimento do cliente em um Journey"
+    },
+    "Webhooks documentation": {
+      "ja": "Webhooksドキュメント",
+      "es": "Documentación de Webhooks",
+      "pt": "Documentação de Webhooks"
+    },
+    "or use our API to start sending events": {
+      "ja": "またはAPIを使用してイベントの送信を開始する",
+      "es": "o usa nuestra API para comenzar a enviar eventos",
+      "pt": "ou use nossa API para começar a enviar eventos"
+    },
+    "Authenticate domain": {
+      "ja": "ドメインを認証する",
+      "es": "Autenticar dominio",
+      "pt": "Autenticar domínio"
+    },
+    "Verify account": {
+      "ja": "アカウントを確認する",
+      "es": "Verificar cuenta",
+      "pt": "Verificar conta"
+    },
+    "Create sender": {
+      "ja": "送信者を作成する",
+      "es": "Crear remitente",
+      "pt": "Criar remetente"
+    },
+    "Read blog": {
+      "ja": "ブログを読む",
+      "es": "Leer blog",
+      "pt": "Ler blog"
+    },
+    "Explore more": {
+      "ja": "詳細を見る",
+      "es": "Explorar más",
+      "pt": "Explorar mais"
+    },
+    "Evaluate email providers": {
+      "ja": "メールプロバイダーを評価する",
+      "es": "Evalúa proveedores de email",
+      "pt": "Avalie provedores de e-mail"
+    },
+    "Explore what matters most when picking an email platform for your business.": {
+      "ja": "ビジネスに合ったメールプラットフォームを選ぶ際に重要なことを探ってみましょう。",
+      "es": "Descubre qué es lo más importante al elegir una plataforma de email para tu negocio.",
+      "pt": "Descubra o que mais importa ao escolher uma plataforma de e-mail para o seu negócio."
+    },
+    "Get started with email": {
+      "ja": "メールを始める",
+      "es": "Comenzar con email",
+      "pt": "Começar com e-mail"
+    },
+    "Learn how to warm up your domain to ensure reliable email performance.": {
+      "ja": "安定したメールパフォーマンスを確保するためのドメインウォームアップの方法を学びましょう。",
+      "es": "Aprende cómo calentar tu dominio para garantizar un rendimiento de email confiable.",
+      "pt": "Aprenda como aquecer seu domínio para garantir um desempenho de e-mail confiável."
+    },
+    "Make sure you can send emails from this domain": {
+      "ja": "このドメインからメールを送信できることを確認してください",
+      "es": "Asegúrate de poder enviar emails desde este dominio",
+      "pt": "Certifique-se de que pode enviar e-mails deste domínio"
+    },
+    "Send and track your first email": {
+      "ja": "最初のメールを送信して追跡する",
+      "es": "Envía y rastrea tu primer email",
+      "pt": "Envie e acompanhe seu primeiro e-mail"
+    },
+    "Send engaging emails to your users. Start by sending your first test email to see how it works.": {
+      "ja": "ユーザーへの魅力的なメールを送信しましょう。まずテストメールを送って動作確認をしてみましょう。",
+      "es": "Envía emails atractivos a tus usuarios. Comienza enviando tu primer email de prueba para ver cómo funciona.",
+      "pt": "Envie e-mails envolventes para seus usuários. Comece enviando seu primeiro e-mail de teste para ver como funciona."
+    },
+    "Send with confidence": {
+      "ja": "自信を持って送信する",
+      "es": "Envía con confianza",
+      "pt": "Envie com confiança"
+    },
+    "Set the email address your messages will come from": {
+      "ja": "メッセージの送信元メールアドレスを設定する",
+      "es": "Establece la dirección de email desde la que se enviarán tus mensajes",
+      "pt": "Defina o endereço de e-mail do qual suas mensagens serão enviadas"
+    },
+    "Set up your email sender and domain": {
+      "ja": "メールの送信者とドメインを設定する",
+      "es": "Configura tu remitente de email y dominio",
+      "pt": "Configure seu remetente de e-mail e domínio"
+    },
+    "Start sending to your audience. You're all set to send emails!": {
+      "ja": "オーディエンスへの送信を開始しましょう。メールを送信する準備が整いました！",
+      "es": "Comienza a enviar a tu audiencia. ¡Estás listo para enviar emails!",
+      "pt": "Comece a enviar para o seu público. Você está pronto para enviar e-mails!"
+    },
+    "We'll check if everything's set up correctly": {
+      "ja": "すべてが正しく設定されているか確認します",
+      "es": "Verificaremos que todo esté configurado correctamente",
+      "pt": "Verificaremos se tudo está configurado corretamente"
+    },
+    "Customize app experiences": {
+      "ja": "アプリ体験をカスタマイズする",
+      "es": "Personaliza las experiencias de la app",
+      "pt": "Personalize as experiências do aplicativo"
+    },
+    "Guide users to high-value actions and conversions": {
+      "ja": "ユーザーを価値の高いアクションとコンバージョンへ誘導する",
+      "es": "Guía a los usuarios hacia acciones de alto valor y conversiones",
+      "pt": "Guie os usuários para ações de alto valor e conversões"
+    },
+    "In-App setup documentation": {
+      "ja": "アプリ内セットアップドキュメント",
+      "es": "Documentación de configuración de In-App",
+      "pt": "Documentação de configuração de In-App"
+    },
+    "In-app for onboarding, trials, upsells, and more": {
+      "ja": "オンボーディング、トライアル、アップセルなどにアプリ内メッセージを活用",
+      "es": "In-app para onboarding, pruebas, ventas adicionales y más",
+      "pt": "In-app para onboarding, testes, upsells e muito mais"
+    },
+    "No developer resources or app release required": {
+      "ja": "開発リソースやアプリのリリースは不要",
+      "es": "No se requieren recursos de desarrollo ni lanzamiento de app",
+      "pt": "Nenhum recurso de desenvolvedor ou lançamento de app necessário"
+    },
+    "Set Up In-App": {
+      "ja": "アプリ内をセットアップ",
+      "es": "Configurar In-App",
+      "pt": "Configurar In-App"
     }
   },
   "patterns": [
