@@ -50,11 +50,16 @@ function selectionEmailBody({ language, pageUrl, selected }) {
 }
 
 chrome.runtime.onInstalled.addListener(() => {
-  chrome.contextMenus.create({
-    id: MENU_ID,
-    title: 'Suggest a better translation for "%s"',
-    contexts: ["selection"],
-    documentUrlPatterns: ["https://dashboard.onesignal.com/*"],
+  // onInstalled fires on every reload/update too, not just fresh installs —
+  // wipe first so re-creating doesn't trip "Cannot create item with
+  // duplicate id".
+  chrome.contextMenus.removeAll(() => {
+    chrome.contextMenus.create({
+      id: MENU_ID,
+      title: 'Suggest a better translation for "%s"',
+      contexts: ["selection"],
+      documentUrlPatterns: ["https://dashboard.onesignal.com/*"],
+    });
   });
   chrome.alarms.create(LEDGER_ALARM, { periodInMinutes: LEDGER_PERIOD_MINUTES });
 });
