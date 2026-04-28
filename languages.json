@@ -8123,6 +8123,186 @@
       "es": "Este límite se aplicará a cada mensaje push individual a menos que lo anules al crearlo",
       "pt": "Esse limite será aplicado a cada mensagem push individual a menos que você o substitua na criação",
       "ko": "생성 시 재정의하지 않는 한, 이 제한은 각 푸시 메시지에 개별적으로 적용됩니다"
+    },
+    ".p8 Auth Key": {
+      "ja": ".p8認証キー",
+      "es": "Clave de autenticación .p8",
+      "pt": "Chave de autenticação .p8",
+      "ko": ".p8 인증 키"
+    },
+    "60 Minutes": {
+      "ja": "60分",
+      "es": "60 minutos",
+      "pt": "60 minutos",
+      "ko": "60분"
+    },
+    "Active Platforms": {
+      "ja": "アクティブなプラットフォーム",
+      "es": "Plataformas activas",
+      "pt": "Plataformas ativas",
+      "ko": "활성 플랫폼"
+    },
+    "Add Group": {
+      "ja": "グループを追加",
+      "es": "Agregar grupo",
+      "pt": "Adicionar grupo",
+      "ko": "그룹 추가"
+    },
+    "Amazon Fire": {
+      "ja": "Amazon Fire",
+      "es": "Amazon Fire",
+      "pt": "Amazon Fire",
+      "ko": "Amazon Fire"
+    },
+    "Android Notification Channels": {
+      "ja": "Android通知チャネル",
+      "es": "Canales de notificación de Android",
+      "pt": "Canais de notificação do Android",
+      "ko": "Android 알림 채널"
+    },
+    "Apple iOS (APNs)": {
+      "ja": "Apple iOS (APNs)",
+      "es": "Apple iOS (APNs)",
+      "pt": "Apple iOS (APNs)",
+      "ko": "Apple iOS (APNs)"
+    },
+    "Authentication": {
+      "ja": "認証",
+      "es": "Autenticación",
+      "pt": "Autenticação",
+      "ko": "인증"
+    },
+    "Automatically limit push notifications": {
+      "ja": "プッシュ通知を自動的に制限",
+      "es": "Limitar automáticamente las notificaciones push",
+      "pt": "Limitar automaticamente as notificações push",
+      "ko": "푸시 알림 자동 제한"
+    },
+    "Bundle ID": {
+      "ja": "バンドルID",
+      "es": "ID del paquete",
+      "pt": "ID do pacote",
+      "ko": "번들 ID"
+    },
+    "Channels documentation.": {
+      "ja": "チャネル文書。",
+      "es": "Documentación de canales.",
+      "pt": "Documentação de canais.",
+      "ko": "채널 문서."
+    },
+    "Chrome Extensions": {
+      "ja": "Chrome拡張機能",
+      "es": "Extensiones de Chrome",
+      "pt": "Extensões do Chrome",
+      "ko": "Chrome 확장 프로그램"
+    },
+    "Google Android (FCM)": {
+      "ja": "Google Android (FCM)",
+      "es": "Google Android (FCM)",
+      "pt": "Google Android (FCM)",
+      "ko": "Google Android (FCM)"
+    },
+    "Huawei Android (HMS)": {
+      "ja": "Huawei Android (HMS)",
+      "es": "Huawei Android (HMS)",
+      "pt": "Huawei Android (HMS)",
+      "ko": "Huawei Android (HMS)"
+    },
+    "Inactive Platforms": {
+      "ja": "非アクティブなプラットフォーム",
+      "es": "Plataformas inactivas",
+      "pt": "Plataformas inativas",
+      "ko": "비활성 플랫폼"
+    },
+    "Influenced Open": {
+      "ja": "影響を受けた開封",
+      "es": "Apertura influenciada",
+      "pt": "Abertura influenciada",
+      "ko": "영향받은 열람"
+    },
+    "Influenced Opens documentation.": {
+      "ja": "影響を受けた開封の文書。",
+      "es": "Documentación de aperturas influenciadas.",
+      "pt": "Documentação de aberturas influenciadas.",
+      "ko": "영향받은 열람 문서."
+    },
+    "Influenced time period": {
+      "ja": "影響期間",
+      "es": "Período de influencia",
+      "pt": "Período de influência",
+      "ko": "영향 기간"
+    },
+    "Notification channels are an Android 8.0 (API level 26) feature which gives users finer control over notifications.": {
+      "ja": "通知チャネルはAndroid 8.0 (APIレベル26) の機能で、ユーザーが通知をより細かく制御できます。",
+      "es": "Los canales de notificación son una función de Android 8.0 (API nivel 26) que permite a los usuarios un control más fino sobre las notificaciones.",
+      "pt": "Os canais de notificação são um recurso do Android 8.0 (nível de API 26) que dá aos usuários um controle mais detalhado sobre as notificações.",
+      "ko": "알림 채널은 Android 8.0 (API 레벨 26) 기능으로, 사용자가 알림을 더 세밀하게 제어할 수 있습니다."
+    },
+    "Push Frequency Capping": {
+      "ja": "プッシュ頻度制限",
+      "es": "Límite de frecuencia de push",
+      "pt": "Limite de frequência de push",
+      "ko": "푸시 빈도 제한"
+    },
+    "Push Throttling": {
+      "ja": "プッシュスロットリング",
+      "es": "Limitación de push",
+      "pt": "Limitação de push",
+      "ko": "푸시 쓰로틀링"
+    },
+    "Reply-To": {
+      "ja": "返信先",
+      "es": "Responder a",
+      "pt": "Responder a",
+      "ko": "회신 받는 곳"
+    },
+    "Reputation": {
+      "ja": "評判",
+      "es": "Reputación",
+      "pt": "Reputação",
+      "ko": "평판"
+    },
+    "Set Up Authenticated Sender": {
+      "ja": "認証済み送信者を設定",
+      "es": "Configurar remitente autenticado",
+      "pt": "Configurar remetente autenticado",
+      "ko": "인증된 발신자 설정"
+    },
+    "Super-User": {
+      "ja": "スーパーユーザー",
+      "es": "Superusuario",
+      "pt": "Superusuário",
+      "ko": "슈퍼 사용자"
+    },
+    "Suppressions": {
+      "ja": "サプレッション",
+      "es": "Supresiones",
+      "pt": "Supressões",
+      "ko": "수신 거부"
+    },
+    "Turn on automated UTM tagging": {
+      "ja": "自動UTMタグ付けを有効化",
+      "es": "Activar etiquetado UTM automático",
+      "pt": "Ativar marcação UTM automática",
+      "ko": "자동 UTM 태그 켜기"
+    },
+    "UTM Settings": {
+      "ja": "UTM設定",
+      "es": "Configuración UTM",
+      "pt": "Configurações de UTM",
+      "ko": "UTM 설정"
+    },
+    "Windows (UWP)": {
+      "ja": "Windows (UWP)",
+      "es": "Windows (UWP)",
+      "pt": "Windows (UWP)",
+      "ko": "Windows (UWP)"
+    },
+    "is when a user doesn't tap into your app directly from a message, but rather within a set time period after that message was received.": {
+      "ja": "は、ユーザーがメッセージから直接アプリを開かず、そのメッセージを受け取った後の所定の期間内にアプリを開いた場合のことです。",
+      "es": "es cuando un usuario no abre tu app directamente desde un mensaje, sino dentro de un período de tiempo establecido después de que se recibió ese mensaje.",
+      "pt": "é quando um usuário não abre seu app diretamente a partir de uma mensagem, mas sim em um período de tempo determinado após o recebimento dessa mensagem.",
+      "ko": "사용자가 메시지에서 직접 앱을 열지 않고, 메시지를 받은 후 정해진 시간 내에 앱을 여는 경우입니다."
     }
   },
   "patterns": [
