@@ -6329,6 +6329,186 @@
       "es": "Establecer un objetivo de Journey",
       "pt": "Definir uma meta de Journey",
       "ko": "저니 목표 설정"
+    },
+    "Set a target metric to measure this": {
+      "ja": "これを測定する目標指標を設定",
+      "es": "Establecer una métrica objetivo para medir esto",
+      "pt": "Definir uma métrica alvo para medir isso",
+      "ko": "이를 측정할 목표 지표 설정"
+    },
+    "Start immediately": {
+      "ja": "即時開始",
+      "es": "Iniciar inmediatamente",
+      "pt": "Iniciar imediatamente",
+      "ko": "즉시 시작"
+    },
+    "The journey is the reward.": {
+      "ja": "ジャーニーそのものが報酬です。",
+      "es": "El journey es la recompensa.",
+      "pt": "O journey é a recompensa.",
+      "ko": "여정 자체가 보상입니다."
+    },
+    "They moved through the entire Journey": {
+      "ja": "ジャーニー全体を通過したとき",
+      "es": "Pasaron por todo el Journey",
+      "pt": "Passaram por todo o Journey",
+      "ko": "전체 저니를 통과했을 때"
+    },
+    "Users exit when they have moved through the full Journey.": {
+      "ja": "ユーザーはジャーニー全体を通過したときに退出します。",
+      "es": "Los usuarios salen cuando han pasado por todo el Journey.",
+      "pt": "Os usuários saem quando passaram por todo o Journey.",
+      "ko": "사용자는 전체 저니를 통과하면 종료됩니다."
+    },
+    "Users exit when they match the rules you have set on a particular segment or condition.": {
+      "ja": "ユーザーは特定のセグメントまたは条件に設定したルールに一致したときに退出します。",
+      "es": "Los usuarios salen cuando coinciden con las reglas que has establecido en un segmento o condición particular.",
+      "pt": "Os usuários saem quando correspondem às regras que você definiu em um segmento ou condição específica.",
+      "ko": "사용자는 특정 세그먼트 또는 조건에 설정한 규칙과 일치하면 종료됩니다."
+    },
+    "When should users exit this Journey?": {
+      "ja": "ユーザーはいつこのジャーニーを退出すべきですか？",
+      "es": "¿Cuándo deberían los usuarios salir de este Journey?",
+      "pt": "Quando os usuários devem sair deste Journey?",
+      "ko": "사용자가 언제 이 저니를 종료해야 하나요?"
+    },
+    "Your Journey will be become active at a specific time and date.": {
+      "ja": "ジャーニーは特定の日時にアクティブになります。",
+      "es": "Tu Journey se activará en una fecha y hora específicas.",
+      "pt": "Seu Journey ficará ativo em data e hora específicas.",
+      "ko": "저니는 특정 날짜 및 시간에 활성화됩니다."
+    },
+    "Your Journey will become active as soon as you set it live.": {
+      "ja": "ジャーニーはライブ化するとすぐにアクティブになります。",
+      "es": "Tu Journey se activará tan pronto como lo pongas en vivo.",
+      "pt": "Seu Journey ficará ativo assim que você o tornar ativo.",
+      "ko": "라이브로 설정하는 즉시 저니가 활성화됩니다."
+    },
+    "Your Journey will stay active indefinitely.": {
+      "ja": "ジャーニーは無期限にアクティブのままです。",
+      "es": "Tu Journey permanecerá activo indefinidamente.",
+      "pt": "Seu Journey permanecerá ativo indefinidamente.",
+      "ko": "저니는 무기한 활성 상태로 유지됩니다."
+    },
+    "Your Journey will stop on specific time and date.": {
+      "ja": "ジャーニーは特定の日時に停止します。",
+      "es": "Tu Journey se detendrá en una fecha y hora específicas.",
+      "pt": "Seu Journey será interrompido em data e hora específicas.",
+      "ko": "저니는 특정 날짜 및 시간에 중지됩니다."
+    },
+    "ends": {
+      "ja": "終了",
+      "es": "finaliza",
+      "pt": "termina",
+      "ko": "종료"
+    },
+    "notification timer": {
+      "ja": "通知タイマー",
+      "es": "temporizador de notificación",
+      "pt": "temporizador de notificação",
+      "ko": "알림 타이머"
+    },
+    "starts": {
+      "ja": "開始",
+      "es": "comienza",
+      "pt": "começa",
+      "ko": "시작"
+    },
+    "Build your own Journey from the ground up.": {
+      "ja": "独自のジャーニーをゼロから構築。",
+      "es": "Construye tu propio Journey desde cero.",
+      "pt": "Construa seu próprio Journey do zero.",
+      "ko": "나만의 저니를 처음부터 구축하세요."
+    },
+    "Choose a Journey to start": {
+      "ja": "開始するジャーニーを選択",
+      "es": "Elige un Journey para empezar",
+      "pt": "Escolha um Journey para começar",
+      "ko": "시작할 저니 선택"
+    },
+    "Describe the purpose of this Journey...": {
+      "ja": "このジャーニーの目的を記述...",
+      "es": "Describe el propósito de este Journey...",
+      "pt": "Descreva o propósito deste Journey...",
+      "ko": "이 저니의 목적을 설명하세요..."
+    },
+    "Description": {
+      "ja": "説明",
+      "es": "Descripción",
+      "pt": "Descrição",
+      "ko": "설명"
+    },
+    "Journey Name": {
+      "ja": "ジャーニー名",
+      "es": "Nombre del Journey",
+      "pt": "Nome do Journey",
+      "ko": "저니 이름"
+    },
+    "My Journey": {
+      "ja": "マイジャーニー",
+      "es": "Mi Journey",
+      "pt": "Meu Journey",
+      "ko": "내 저니"
+    },
+    "Name and describe your Journey": {
+      "ja": "ジャーニーに名前を付けて説明",
+      "es": "Nombra y describe tu Journey",
+      "pt": "Nomeie e descreva seu Journey",
+      "ko": "저니의 이름을 짓고 설명하세요"
+    },
+    "(v1)": {
+      "ja": "(v1)",
+      "es": "(v1)",
+      "pt": "(v1)",
+      "ko": "(v1)"
+    },
+    "(v2)": {
+      "ja": "(v2)",
+      "es": "(v2)",
+      "pt": "(v2)",
+      "ko": "(v2)"
+    },
+    "Consistent Naming": {
+      "ja": "一貫した命名",
+      "es": "Nomenclatura consistente",
+      "pt": "Nomenclatura consistente",
+      "ko": "일관된 이름 지정"
+    },
+    "Current user permissions do not allow this action.": {
+      "ja": "現在のユーザー権限ではこの操作は許可されていません。",
+      "es": "Los permisos del usuario actual no permiten esta acción.",
+      "pt": "As permissões do usuário atual não permitem esta ação.",
+      "ko": "현재 사용자 권한으로는 이 작업이 허용되지 않습니다."
+    },
+    "Legacy Format": {
+      "ja": "レガシー形式",
+      "es": "Formato heredado",
+      "pt": "Formato antigo",
+      "ko": "레거시 형식"
+    },
+    "New Format": {
+      "ja": "新しい形式",
+      "es": "Formato nuevo",
+      "pt": "Formato novo",
+      "ko": "새 형식"
+    },
+    "Recommended": {
+      "ja": "推奨",
+      "es": "Recomendado",
+      "pt": "Recomendado",
+      "ko": "추천"
+    },
+    "Simpler Structure": {
+      "ja": "よりシンプルな構造",
+      "es": "Estructura más simple",
+      "pt": "Estrutura mais simples",
+      "ko": "더 간단한 구조"
+    },
+    "updated CSV format": {
+      "ja": "更新されたCSV形式",
+      "es": "formato CSV actualizado",
+      "pt": "formato CSV atualizado",
+      "ko": "업데이트된 CSV 형식"
     }
   },
   "patterns": [
