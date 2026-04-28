@@ -6509,6 +6509,186 @@
       "es": "formato CSV actualizado",
       "pt": "formato CSV atualizado",
       "ko": "업데이트된 CSV 형식"
+    },
+    "Untitled Message": {
+      "ja": "無題のメッセージ",
+      "es": "Mensaje sin título",
+      "pt": "Mensagem sem título",
+      "ko": "제목 없는 메시지"
+    },
+    "Deliver immediately": {
+      "ja": "すぐに配信",
+      "es": "Entregar inmediatamente",
+      "pt": "Entregar imediatamente",
+      "ko": "즉시 전달"
+    },
+    "or paste URL": {
+      "ja": "またはURLを貼り付け",
+      "es": "o pega la URL",
+      "pt": "ou cole a URL",
+      "ko": "또는 URL 붙여넣기"
+    },
+    "Refine": {
+      "ja": "洗練",
+      "es": "Refinar",
+      "pt": "Refinar",
+      "ko": "다듬기"
+    },
+    "Action ID 1": {
+      "ja": "アクションID 1",
+      "es": "ID de acción 1",
+      "pt": "ID de ação 1",
+      "ko": "액션 ID 1"
+    },
+    "Add Button": {
+      "ja": "ボタンを追加",
+      "es": "Agregar botón",
+      "pt": "Adicionar botão",
+      "ko": "버튼 추가"
+    },
+    "Button Label 1": {
+      "ja": "ボタンラベル 1",
+      "es": "Etiqueta del botón 1",
+      "pt": "Rótulo do botão 1",
+      "ko": "버튼 라벨 1"
+    },
+    "Category": {
+      "ja": "カテゴリ",
+      "es": "Categoría",
+      "pt": "Categoria",
+      "ko": "카테고리"
+    },
+    "Icon": {
+      "ja": "アイコン",
+      "es": "Icono",
+      "pt": "Ícone",
+      "ko": "아이콘"
+    },
+    "Remove Action 1": {
+      "ja": "アクション1を削除",
+      "es": "Quitar acción 1",
+      "pt": "Remover ação 1",
+      "ko": "액션 1 제거"
+    },
+    "e.g. Accept": {
+      "ja": "例: 承諾",
+      "es": "p. ej. Aceptar",
+      "pt": "ex.: Aceitar",
+      "ko": "예: 수락"
+    },
+    "or paste resource name or URL": {
+      "ja": "またはリソース名やURLを貼り付け",
+      "es": "o pega el nombre de recurso o URL",
+      "pt": "ou cole o nome do recurso ou URL",
+      "ko": "또는 리소스 이름이나 URL 붙여넣기"
+    },
+    "(Created in App)": {
+      "ja": "(アプリで作成)",
+      "es": "(Creado en la app)",
+      "pt": "(Criado no app)",
+      "ko": "(앱에서 생성됨)"
+    },
+    "(recommended)": {
+      "ja": "(推奨)",
+      "es": "(recomendado)",
+      "pt": "(recomendado)",
+      "ko": "(권장)"
+    },
+    "0 (lowest priority)": {
+      "ja": "0 (最低優先度)",
+      "es": "0 (prioridad más baja)",
+      "pt": "0 (prioridade mais baixa)",
+      "ko": "0 (최저 우선순위)"
+    },
+    "4. Delivery Schedule": {
+      "ja": "4. 配信スケジュール",
+      "es": "4. Programación de entrega",
+      "pt": "4. Agendamento de entrega",
+      "ko": "4. 전달 일정"
+    },
+    "5 per minute": {
+      "ja": "毎分5件",
+      "es": "5 por minuto",
+      "pt": "5 por minuto",
+      "ko": "분당 5건"
+    },
+    "Accent Color": {
+      "ja": "アクセントカラー",
+      "es": "Color de acento",
+      "pt": "Cor de destaque",
+      "ko": "강조 색상"
+    },
+    "Action Icon Path 1": {
+      "ja": "アクションアイコンパス 1",
+      "es": "Ruta del icono de acción 1",
+      "pt": "Caminho do ícone de ação 1",
+      "ko": "액션 아이콘 경로 1"
+    },
+    "Add Field": {
+      "ja": "フィールドを追加",
+      "es": "Agregar campo",
+      "pt": "Adicionar campo",
+      "ko": "필드 추가"
+    },
+    "Add Languages": {
+      "ja": "言語を追加",
+      "es": "Agregar idiomas",
+      "pt": "Adicionar idiomas",
+      "ko": "언어 추가"
+    },
+    "Begin typing to try our new AI refine feature": {
+      "ja": "新しいAI洗練機能を試すには入力を開始してください",
+      "es": "Empieza a escribir para probar nuestra nueva función de refinamiento con IA",
+      "pt": "Comece a digitar para experimentar nosso novo recurso de refinamento de IA",
+      "ko": "새로운 AI 다듬기 기능을 사용해보려면 입력을 시작하세요"
+    },
+    "Big Picture": {
+      "ja": "ビッグピクチャー",
+      "es": "Imagen grande",
+      "pt": "Imagem grande",
+      "ko": "큰 그림"
+    },
+    "Chrome Action Buttons": {
+      "ja": "Chromeアクションボタン",
+      "es": "Botones de acción de Chrome",
+      "pt": "Botões de ação do Chrome",
+      "ko": "Chrome 액션 버튼"
+    },
+    "Collapse ID": {
+      "ja": "折りたたみID",
+      "es": "ID de colapso",
+      "pt": "ID de recolhimento",
+      "ko": "접기 ID"
+    },
+    "Content available": {
+      "ja": "コンテンツ利用可能",
+      "es": "Contenido disponible",
+      "pt": "Conteúdo disponível",
+      "ko": "콘텐츠 사용 가능"
+    },
+    "Critical": {
+      "ja": "クリティカル",
+      "es": "Crítico",
+      "pt": "Crítico",
+      "ko": "중요"
+    },
+    "Default is a bell icon (resource name)": {
+      "ja": "デフォルトはベルアイコン（リソース名）",
+      "es": "El predeterminado es un icono de campana (nombre de recurso)",
+      "pt": "O padrão é um ícone de sino (nome do recurso)",
+      "ko": "기본값은 종 아이콘 (리소스 이름)"
+    },
+    "Default is device's default": {
+      "ja": "デフォルトはデバイスの既定値",
+      "es": "El predeterminado es el predeterminado del dispositivo",
+      "pt": "O padrão é o padrão do dispositivo",
+      "ko": "기본값은 기기의 기본값"
+    },
+    "Different URL for web/app": {
+      "ja": "ウェブ/アプリで異なるURL",
+      "es": "URL diferente para web/aplicación",
+      "pt": "URL diferente para web/app",
+      "ko": "웹/앱용 다른 URL"
     }
   },
   "patterns": [
@@ -7005,6 +7185,15 @@
         "es": "Gráfico de barras con {1} barras.",
         "pt": "Gráfico de barras com {1} barras.",
         "ko": "{1}개의 막대가 있는 막대 차트."
+      }
+    },
+    {
+      "match": "^Platforms \\((\\d+)/(\\d+) selected\\)$",
+      "translations": {
+        "ja": "プラットフォーム ({1}/{2}選択中)",
+        "es": "Plataformas ({1}/{2} seleccionadas)",
+        "pt": "Plataformas ({1}/{2} selecionadas)",
+        "ko": "플랫폼 ({1}/{2}개 선택됨)"
       }
     }
   ]
