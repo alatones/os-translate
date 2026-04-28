@@ -6689,6 +6689,186 @@
       "es": "URL diferente para web/aplicación",
       "pt": "URL diferente para web/app",
       "ko": "웹/앱용 다른 URL"
+    },
+    "Device's default (filename.extension)": {
+      "ja": "デバイスの既定値 (ファイル名.拡張子)",
+      "es": "El predeterminado del dispositivo (nombredearchivo.extensión)",
+      "pt": "O padrão do dispositivo (nomedoarquivo.extensão)",
+      "ko": "기기의 기본값 (파일명.확장자)"
+    },
+    "Don't set": {
+      "ja": "設定しない",
+      "es": "No establecer",
+      "pt": "Não definir",
+      "ko": "설정하지 않음"
+    },
+    "Field 1": {
+      "ja": "フィールド 1",
+      "es": "Campo 1",
+      "pt": "Campo 1",
+      "ko": "필드 1"
+    },
+    "Global image upload input": {
+      "ja": "グローバル画像アップロード入力",
+      "es": "Entrada de carga de imagen global",
+      "pt": "Entrada de upload de imagem global",
+      "ko": "글로벌 이미지 업로드 입력"
+    },
+    "Group Key": {
+      "ja": "グループキー",
+      "es": "Clave de grupo",
+      "pt": "Chave do grupo",
+      "ko": "그룹 키"
+    },
+    "High": {
+      "ja": "高",
+      "es": "Alta",
+      "pt": "Alta",
+      "ko": "높음"
+    },
+    "High importance": {
+      "ja": "高い重要度",
+      "es": "Alta importancia",
+      "pt": "Alta importância",
+      "ko": "높은 중요도"
+    },
+    "Icon URL 1": {
+      "ja": "アイコンURL 1",
+      "es": "URL del icono 1",
+      "pt": "URL do ícone 1",
+      "ko": "아이콘 URL 1"
+    },
+    "Increase by": {
+      "ja": "増分",
+      "es": "Aumentar en",
+      "pt": "Aumentar em",
+      "ko": "증가시킬 양"
+    },
+    "LED Color": {
+      "ja": "LEDの色",
+      "es": "Color del LED",
+      "pt": "Cor do LED",
+      "ko": "LED 색상"
+    },
+    "Large Icon": {
+      "ja": "大きいアイコン",
+      "es": "Icono grande",
+      "pt": "Ícone grande",
+      "ko": "큰 아이콘"
+    },
+    "Launch URL 1": {
+      "ja": "起動URL 1",
+      "es": "URL de lanzamiento 1",
+      "pt": "URL de lançamento 1",
+      "ko": "실행 URL 1"
+    },
+    "Media": {
+      "ja": "メディア",
+      "es": "Medios",
+      "pt": "Mídia",
+      "ko": "미디어"
+    },
+    "Message (Any/English)": {
+      "ja": "メッセージ (Any/英語)",
+      "es": "Mensaje (cualquiera/inglés)",
+      "pt": "Mensagem (qualquer/inglês)",
+      "ko": "메시지 (Any/영어)"
+    },
+    "Message input": {
+      "ja": "メッセージ入力",
+      "es": "Entrada del mensaje",
+      "pt": "Entrada da mensagem",
+      "ko": "메시지 입력"
+    },
+    "None": {
+      "ja": "なし",
+      "es": "Ninguno",
+      "pt": "Nenhum",
+      "ko": "없음"
+    },
+    "Notification Interruption Level": {
+      "ja": "通知の割り込みレベル",
+      "es": "Nivel de interrupción de la notificación",
+      "pt": "Nível de interrupção da notificação",
+      "ko": "알림 중단 수준"
+    },
+    "Passive": {
+      "ja": "パッシブ",
+      "es": "Pasivo",
+      "pt": "Passivo",
+      "ko": "수동"
+    },
+    "Private": {
+      "ja": "非公開",
+      "es": "Privado",
+      "pt": "Privado",
+      "ko": "비공개"
+    },
+    "Public": {
+      "ja": "公開",
+      "es": "Público",
+      "pt": "Público",
+      "ko": "공개"
+    },
+    "Remove Field 1": {
+      "ja": "フィールド1を削除",
+      "es": "Quitar campo 1",
+      "pt": "Remover campo 1",
+      "ko": "필드 1 제거"
+    },
+    "Review and Send": {
+      "ja": "確認して送信",
+      "es": "Revisar y enviar",
+      "pt": "Revisar e enviar",
+      "ko": "검토 후 발송"
+    },
+    "Select media": {
+      "ja": "メディアを選択",
+      "es": "Seleccionar medios",
+      "pt": "Selecionar mídia",
+      "ko": "미디어 선택"
+    },
+    "Send to": {
+      "ja": "送信先",
+      "es": "Enviar a",
+      "pt": "Enviar para",
+      "ko": "발송 대상"
+    },
+    "Send to Apple Web": {
+      "ja": "Apple Webに送信",
+      "es": "Enviar a Apple Web",
+      "pt": "Enviar para Apple Web",
+      "ko": "Apple Web에 발송"
+    },
+    "Send to Apple iOS": {
+      "ja": "Apple iOSに送信",
+      "es": "Enviar a Apple iOS",
+      "pt": "Enviar para Apple iOS",
+      "ko": "Apple iOS에 발송"
+    },
+    "Send to Edge": {
+      "ja": "Edgeに送信",
+      "es": "Enviar a Edge",
+      "pt": "Enviar para Edge",
+      "ko": "Edge에 발송"
+    },
+    "Send to Google Android": {
+      "ja": "Google Androidに送信",
+      "es": "Enviar a Google Android",
+      "pt": "Enviar para Google Android",
+      "ko": "Google Android에 발송"
+    },
+    "Send to Google Chrome": {
+      "ja": "Google Chromeに送信",
+      "es": "Enviar a Google Chrome",
+      "pt": "Enviar para Google Chrome",
+      "ko": "Google Chrome에 발송"
+    },
+    "Send to Mozilla Firefox": {
+      "ja": "Mozilla Firefoxに送信",
+      "es": "Enviar a Mozilla Firefox",
+      "pt": "Enviar para Mozilla Firefox",
+      "ko": "Mozilla Firefox에 발송"
     }
   },
   "patterns": [
