@@ -5789,6 +5789,186 @@
       "es": "Ancho",
       "pt": "Largura",
       "ko": "너비"
+    },
+    "Loading Message and App Info. Please wait a moment...": {
+      "ja": "メッセージとアプリ情報を読み込み中。しばらくお待ちください...",
+      "es": "Cargando información del mensaje y la app. Espera un momento...",
+      "pt": "Carregando mensagem e informações do app. Aguarde um momento...",
+      "ko": "메시지 및 앱 정보를 로드하는 중입니다. 잠시만 기다려 주세요..."
+    },
+    "Multiple times": {
+      "ja": "複数回",
+      "es": "Varias veces",
+      "pt": "Várias vezes",
+      "ko": "여러 번"
+    },
+    "New In-App Message": {
+      "ja": "新しいインアプリメッセージ",
+      "es": "Nuevo mensaje in-app",
+      "pt": "Nova mensagem in-app",
+      "ko": "새 인앱 메시지"
+    },
+    "On app open": {
+      "ja": "アプリ起動時",
+      "es": "Al abrir la aplicación",
+      "pt": "Ao abrir o aplicativo",
+      "ko": "앱 열 때"
+    },
+    "Only once": {
+      "ja": "1回のみ",
+      "es": "Solo una vez",
+      "pt": "Apenas uma vez",
+      "ko": "한 번만"
+    },
+    "Portrait orientation": {
+      "ja": "縦向き",
+      "es": "Orientación vertical",
+      "pt": "Orientação retrato",
+      "ko": "세로 방향"
+    },
+    "Review & set live": {
+      "ja": "確認してライブ化",
+      "es": "Revisar y publicar",
+      "pt": "Revisar e ativar",
+      "ko": "검토 및 라이브 설정"
+    },
+    "Show forever": {
+      "ja": "常に表示",
+      "es": "Mostrar siempre",
+      "pt": "Mostrar para sempre",
+      "ko": "항상 표시"
+    },
+    "Show to all users": {
+      "ja": "すべてのユーザーに表示",
+      "es": "Mostrar a todos los usuarios",
+      "pt": "Mostrar a todos os usuários",
+      "ko": "모든 사용자에게 표시"
+    },
+    "Show to particular Segment(s)": {
+      "ja": "特定のセグメントに表示",
+      "es": "Mostrar a segmento(s) específico(s)",
+      "pt": "Mostrar a segmento(s) específico(s)",
+      "ko": "특정 세그먼트에 표시"
+    },
+    "Show until dismissed": {
+      "ja": "閉じるまで表示",
+      "es": "Mostrar hasta que se descarte",
+      "pt": "Mostrar até ser descartado",
+      "ko": "닫을 때까지 표시"
+    },
+    "Start showing": {
+      "ja": "表示開始",
+      "es": "Comenzar a mostrar",
+      "pt": "Iniciar exibição",
+      "ko": "표시 시작"
+    },
+    "Stop showing": {
+      "ja": "表示停止",
+      "es": "Detener exhibición",
+      "pt": "Parar exibição",
+      "ko": "표시 중지"
+    },
+    "Switch editor": {
+      "ja": "エディターを切り替え",
+      "es": "Cambiar de editor",
+      "pt": "Alternar editor",
+      "ko": "편집기 전환"
+    },
+    "Text": {
+      "ja": "テキスト",
+      "es": "Texto",
+      "pt": "Texto",
+      "ko": "텍스트"
+    },
+    "Text 1": {
+      "ja": "テキスト1",
+      "es": "Texto 1",
+      "pt": "Texto 1",
+      "ko": "텍스트 1"
+    },
+    "Visual editing with image and text blocks.": {
+      "ja": "画像とテキストブロックでの視覚編集。",
+      "es": "Edición visual con bloques de imagen y texto.",
+      "pt": "Edição visual com blocos de imagem e texto.",
+      "ko": "이미지 및 텍스트 블록을 사용한 시각적 편집."
+    },
+    "When certain conditions are satisfied during the session": {
+      "ja": "セッション中に特定の条件が満たされたとき",
+      "es": "Cuando se cumplan ciertas condiciones durante la sesión",
+      "pt": "Quando certas condições forem satisfeitas durante a sessão",
+      "ko": "세션 중 특정 조건이 충족될 때"
+    },
+    "When should this message dismiss?": {
+      "ja": "このメッセージはいつ閉じますか？",
+      "es": "¿Cuándo debería descartarse este mensaje?",
+      "pt": "Quando esta mensagem deve ser descartada?",
+      "ko": "이 메시지를 언제 닫아야 하나요?"
+    },
+    "When should users see this message?": {
+      "ja": "ユーザーはいつこのメッセージを見るべきですか？",
+      "es": "¿Cuándo deberían ver los usuarios este mensaje?",
+      "pt": "Quando os usuários devem ver esta mensagem?",
+      "ko": "사용자가 언제 이 메시지를 봐야 하나요?"
+    },
+    "Add block": {
+      "ja": "ブロックを追加",
+      "es": "Agregar bloque",
+      "pt": "Adicionar bloco",
+      "ko": "블록 추가"
+    },
+    "Allow iframe JavaScript execution": {
+      "ja": "iframeのJavaScript実行を許可",
+      "es": "Permitir la ejecución de JavaScript en iframes",
+      "pt": "Permitir execução de JavaScript em iframes",
+      "ko": "iframe JavaScript 실행 허용"
+    },
+    "Bottom": {
+      "ja": "下",
+      "es": "Inferior",
+      "pt": "Inferior",
+      "ko": "아래"
+    },
+    "Center": {
+      "ja": "中央",
+      "es": "Centro",
+      "pt": "Centro",
+      "ko": "중앙"
+    },
+    "Expand editor": {
+      "ja": "エディターを展開",
+      "es": "Expandir editor",
+      "pt": "Expandir editor",
+      "ko": "편집기 펼치기"
+    },
+    "Full": {
+      "ja": "フル",
+      "es": "Completa",
+      "pt": "Completa",
+      "ko": "전체"
+    },
+    "Light mode": {
+      "ja": "ライトモード",
+      "es": "Modo claro",
+      "pt": "Modo claro",
+      "ko": "라이트 모드"
+    },
+    "Portrait": {
+      "ja": "縦向き",
+      "es": "Vertical",
+      "pt": "Retrato",
+      "ko": "세로"
+    },
+    "Top": {
+      "ja": "上",
+      "es": "Superior",
+      "pt": "Superior",
+      "ko": "위"
+    },
+    "In-App JS library": {
+      "ja": "インアプリJSライブラリ",
+      "es": "Biblioteca JS in-app",
+      "pt": "Biblioteca JS in-app",
+      "ko": "인앱 JS 라이브러리"
     }
   },
   "patterns": [
