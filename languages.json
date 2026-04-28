@@ -5147,6 +5147,186 @@
       "es": "Nombre de campaña o nombre interno",
       "pt": "Nome da campanha ou nome interno",
       "ko": "캠페인 이름 또는 내부 이름"
+    },
+    "Custom time per user timezone": {
+      "ja": "ユーザーのタイムゾーンに合わせた時間",
+      "es": "Hora personalizada según la zona horaria del usuario",
+      "pt": "Horário personalizado por fuso horário do usuário",
+      "ko": "사용자 시간대별 사용자 정의 시간"
+    },
+    "Dynamic Content": {
+      "ja": "ダイナミックコンテンツ",
+      "es": "Contenido dinámico",
+      "pt": "Conteúdo dinâmico",
+      "ko": "동적 콘텐츠"
+    },
+    "Email preheader text": {
+      "ja": "メールのプリヘッダーテキスト",
+      "es": "Texto del preencabezado del correo",
+      "pt": "Texto do preheader do email",
+      "ko": "이메일 프리헤더 텍스트"
+    },
+    "Email subject line": {
+      "ja": "メールの件名",
+      "es": "Línea de asunto del correo",
+      "pt": "Linha de assunto do email",
+      "ko": "이메일 제목 줄"
+    },
+    "Email users": {
+      "ja": "メールユーザー",
+      "es": "Usuarios de correo",
+      "pt": "Usuários de email",
+      "ko": "이메일 사용자"
+    },
+    "Event Filters Documentation": {
+      "ja": "イベントフィルター文書",
+      "es": "Documentación de filtros de eventos",
+      "pt": "Documentação de filtros de eventos",
+      "ko": "이벤트 필터 문서"
+    },
+    "Exclude Segment": {
+      "ja": "セグメントを除外",
+      "es": "Excluir segmento",
+      "pt": "Excluir segmento",
+      "ko": "세그먼트 제외"
+    },
+    "Goal Documentation": {
+      "ja": "目標文書",
+      "es": "Documentación de objetivos",
+      "pt": "Documentação de metas",
+      "ko": "목표 문서"
+    },
+    "Immediately": {
+      "ja": "即時",
+      "es": "Inmediatamente",
+      "pt": "Imediatamente",
+      "ko": "즉시"
+    },
+    "Include Segment": {
+      "ja": "セグメントを含める",
+      "es": "Incluir segmento",
+      "pt": "Incluir segmento",
+      "ko": "세그먼트 포함"
+    },
+    "Include sending to unsubscribed users": {
+      "ja": "購読解除済みユーザーへの送信を含める",
+      "es": "Incluir envío a usuarios no suscritos",
+      "pt": "Incluir envio para usuários não inscritos",
+      "ko": "구독 취소한 사용자에게도 발송 포함"
+    },
+    "Manage segments here.": {
+      "ja": "ここでセグメントを管理。",
+      "es": "Administra los segmentos aquí.",
+      "pt": "Gerencie segmentos aqui.",
+      "ko": "여기에서 세그먼트를 관리하세요."
+    },
+    "Message Events and Tags": {
+      "ja": "メッセージイベントとタグ",
+      "es": "Eventos y etiquetas de mensajes",
+      "pt": "Eventos e tags de mensagens",
+      "ko": "메시지 이벤트 및 태그"
+    },
+    "Message Name": {
+      "ja": "メッセージ名",
+      "es": "Nombre del mensaje",
+      "pt": "Nome da mensagem",
+      "ko": "메시지 이름"
+    },
+    "Message will send right away": {
+      "ja": "メッセージはすぐに送信されます",
+      "es": "El mensaje se enviará de inmediato",
+      "pt": "A mensagem será enviada imediatamente",
+      "ko": "메시지가 즉시 발송됩니다"
+    },
+    "Preheader Text": {
+      "ja": "プリヘッダーテキスト",
+      "es": "Texto del preencabezado",
+      "pt": "Texto do preheader",
+      "ko": "프리헤더 텍스트"
+    },
+    "Preview Mode": {
+      "ja": "プレビューモード",
+      "es": "Modo de vista previa",
+      "pt": "Modo de visualização",
+      "ko": "미리보기 모드"
+    },
+    "Reply-To Email": {
+      "ja": "返信先メール",
+      "es": "Correo de respuesta",
+      "pt": "Email de resposta",
+      "ko": "회신 이메일"
+    },
+    "Review & Send": {
+      "ja": "確認して送信",
+      "es": "Revisar y enviar",
+      "pt": "Revisar e enviar",
+      "ko": "검토 및 발송"
+    },
+    "SMS": {
+      "ja": "SMS",
+      "es": "SMS",
+      "pt": "SMS",
+      "ko": "SMS"
+    },
+    "Save as Template": {
+      "ja": "テンプレートとして保存",
+      "es": "Guardar como plantilla",
+      "pt": "Salvar como modelo",
+      "ko": "템플릿으로 저장"
+    },
+    "Search or create labels...": {
+      "ja": "ラベルを検索または作成...",
+      "es": "Buscar o crear etiquetas...",
+      "pt": "Pesquisar ou criar rótulos...",
+      "ko": "라벨 검색 또는 만들기..."
+    },
+    "Segments that use": {
+      "ja": "これを使用するセグメント:",
+      "es": "Segmentos que usan",
+      "pt": "Segmentos que usam",
+      "ko": "사용하는 세그먼트"
+    },
+    "Segments using": {
+      "ja": "これを使用するセグメント",
+      "es": "Segmentos que usan",
+      "pt": "Segmentos usando",
+      "ko": "사용 중인 세그먼트"
+    },
+    "Select Segment": {
+      "ja": "セグメントを選択",
+      "es": "Seleccionar segmento",
+      "pt": "Selecionar segmento",
+      "ko": "세그먼트 선택"
+    },
+    "Send With Auto Warm Up": {
+      "ja": "自動ウォームアップで送信",
+      "es": "Enviar con calentamiento automático",
+      "pt": "Enviar com aquecimento automático",
+      "ko": "자동 워밍업으로 발송"
+    },
+    "Send to everyone at the same time": {
+      "ja": "全員に同時に送信",
+      "es": "Enviar a todos al mismo tiempo",
+      "pt": "Enviar a todos ao mesmo tempo",
+      "ko": "모두에게 동시에 발송"
+    },
+    "Set a Message Goal": {
+      "ja": "メッセージの目標を設定",
+      "es": "Establecer un objetivo de mensaje",
+      "pt": "Definir uma meta de mensagem",
+      "ko": "메시지 목표 설정"
+    },
+    "Set a target metric to measure this message's success.": {
+      "ja": "このメッセージの成功を測定する目標指標を設定。",
+      "es": "Establece una métrica objetivo para medir el éxito de este mensaje.",
+      "pt": "Defina uma métrica alvo para medir o sucesso desta mensagem.",
+      "ko": "이 메시지의 성공을 측정할 목표 지표를 설정하세요."
+    },
+    "Specific Time": {
+      "ja": "特定の時刻",
+      "es": "Hora específica",
+      "pt": "Horário específico",
+      "ko": "특정 시간"
     }
   },
   "patterns": [
@@ -5607,6 +5787,33 @@
         "es": "Etiquetas ({1}/{2})",
         "pt": "Rótulos ({1}/{2})",
         "ko": "라벨 ({1}/{2})"
+      }
+    },
+    {
+      "match": "^Screenshot of (.+) email design template$",
+      "translations": {
+        "ja": "{1}メールデザインテンプレートのスクリーンショット",
+        "es": "Captura de pantalla de la plantilla de diseño de correo {1}",
+        "pt": "Captura de tela do modelo de design de email {1}",
+        "ko": "{1} 이메일 디자인 템플릿 스크린샷"
+      }
+    },
+    {
+      "match": "^Screenshot of (.+) iam design template$",
+      "translations": {
+        "ja": "{1}インアプリデザインテンプレートのスクリーンショット",
+        "es": "Captura de pantalla de la plantilla de diseño in-app {1}",
+        "pt": "Captura de tela do modelo de design in-app {1}",
+        "ko": "{1} 인앱 디자인 템플릿 스크린샷"
+      }
+    },
+    {
+      "match": "^Screenshot of (.+) sms design template$",
+      "translations": {
+        "ja": "{1}SMSデザインテンプレートのスクリーンショット",
+        "es": "Captura de pantalla de la plantilla de diseño SMS {1}",
+        "pt": "Captura de tela do modelo de design SMS {1}",
+        "ko": "{1} SMS 디자인 템플릿 스크린샷"
       }
     }
   ]
