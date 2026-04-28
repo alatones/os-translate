@@ -5609,6 +5609,186 @@
       "es": "Vista previa del mensaje in-app de OneSignal",
       "pt": "Pré-visualização da mensagem in-app do OneSignal",
       "ko": "OneSignal 인앱 메시지 미리보기"
+    },
+    "4. Triggers": {
+      "ja": "4. トリガー",
+      "es": "4. Disparadores",
+      "pt": "4. Gatilhos",
+      "ko": "4. 트리거"
+    },
+    "5. Schedule": {
+      "ja": "5. スケジュール",
+      "es": "5. Programación",
+      "pt": "5. Programação",
+      "ko": "5. 일정"
+    },
+    "Alternate close icon": {
+      "ja": "代替の閉じるアイコン",
+      "es": "Icono de cerrar alternativo",
+      "pt": "Ícone de fechar alternativo",
+      "ko": "대체 닫기 아이콘"
+    },
+    "Background": {
+      "ja": "背景",
+      "es": "Fondo",
+      "pt": "Fundo",
+      "ko": "배경"
+    },
+    "Background color": {
+      "ja": "背景色",
+      "es": "Color de fondo",
+      "pt": "Cor de fundo",
+      "ko": "배경색"
+    },
+    "Background image": {
+      "ja": "背景画像",
+      "es": "Imagen de fondo",
+      "pt": "Imagem de fundo",
+      "ko": "배경 이미지"
+    },
+    "Border color": {
+      "ja": "ボーダーの色",
+      "es": "Color del borde",
+      "pt": "Cor da borda",
+      "ko": "테두리 색상"
+    },
+    "Border weight": {
+      "ja": "ボーダーの太さ",
+      "es": "Grosor del borde",
+      "pt": "Espessura da borda",
+      "ko": "테두리 두께"
+    },
+    "Button 1": {
+      "ja": "ボタン1",
+      "es": "Botón 1",
+      "pt": "Botão 1",
+      "ko": "버튼 1"
+    },
+    "Button background": {
+      "ja": "ボタンの背景",
+      "es": "Fondo del botón",
+      "pt": "Fundo do botão",
+      "ko": "버튼 배경"
+    },
+    "Button text": {
+      "ja": "ボタンのテキスト",
+      "es": "Texto del botón",
+      "pt": "Texto do botão",
+      "ko": "버튼 텍스트"
+    },
+    "Click Here": {
+      "ja": "ここをクリック",
+      "es": "Haz clic aquí",
+      "pt": "Clique aqui",
+      "ko": "여기를 클릭"
+    },
+    "Close button": {
+      "ja": "閉じるボタン",
+      "es": "Botón de cerrar",
+      "pt": "Botão de fechar",
+      "ko": "닫기 버튼"
+    },
+    "Color": {
+      "ja": "色",
+      "es": "Color",
+      "pt": "Cor",
+      "ko": "색상"
+    },
+    "Corner radius": {
+      "ja": "角の丸み",
+      "es": "Radio de la esquina",
+      "pt": "Raio do canto",
+      "ko": "모서리 반경"
+    },
+    "Dismiss after certain amount of time": {
+      "ja": "一定時間後に閉じる",
+      "es": "Descartar después de cierto tiempo",
+      "pt": "Descartar após determinado tempo",
+      "ko": "일정 시간 후 닫기"
+    },
+    "Drop shadow X": {
+      "ja": "ドロップシャドウX",
+      "es": "Sombra paralela X",
+      "pt": "Sombra projetada X",
+      "ko": "그림자 X"
+    },
+    "Drop shadow Y": {
+      "ja": "ドロップシャドウY",
+      "es": "Sombra paralela Y",
+      "pt": "Sombra projetada Y",
+      "ko": "그림자 Y"
+    },
+    "Drop shadow blur": {
+      "ja": "ドロップシャドウのぼかし",
+      "es": "Desenfoque de la sombra",
+      "pt": "Desfoque da sombra",
+      "ko": "그림자 흐림"
+    },
+    "Drop shadow color": {
+      "ja": "ドロップシャドウの色",
+      "es": "Color de la sombra",
+      "pt": "Cor da sombra",
+      "ko": "그림자 색상"
+    },
+    "Drop shadow spread": {
+      "ja": "ドロップシャドウの広がり",
+      "es": "Extensión de la sombra",
+      "pt": "Espalhamento da sombra",
+      "ko": "그림자 확산"
+    },
+    "Every time trigger conditions are satisfied": {
+      "ja": "トリガー条件が満たされるたびに",
+      "es": "Cada vez que se cumplan las condiciones del disparador",
+      "pt": "Cada vez que as condições do gatilho forem satisfeitas",
+      "ko": "트리거 조건이 충족될 때마다"
+    },
+    "Font color": {
+      "ja": "フォントの色",
+      "es": "Color de la fuente",
+      "pt": "Cor da fonte",
+      "ko": "글꼴 색상"
+    },
+    "Heading": {
+      "ja": "見出し",
+      "es": "Encabezado",
+      "pt": "Cabeçalho",
+      "ko": "제목"
+    },
+    "Height": {
+      "ja": "高さ",
+      "es": "Alto",
+      "pt": "Altura",
+      "ko": "높이"
+    },
+    "How often do you want to show this message?": {
+      "ja": "このメッセージを表示する頻度はどれくらいですか？",
+      "es": "¿Con qué frecuencia quieres mostrar este mensaje?",
+      "pt": "Com que frequência você deseja exibir esta mensagem?",
+      "ko": "이 메시지를 얼마나 자주 표시할까요?"
+    },
+    "Image": {
+      "ja": "画像",
+      "es": "Imagen",
+      "pt": "Imagem",
+      "ko": "이미지"
+    },
+    "Image 1": {
+      "ja": "画像1",
+      "es": "Imagen 1",
+      "pt": "Imagem 1",
+      "ko": "이미지 1"
+    },
+    "Padding": {
+      "ja": "パディング",
+      "es": "Relleno",
+      "pt": "Preenchimento",
+      "ko": "안쪽 여백"
+    },
+    "Width": {
+      "ja": "幅",
+      "es": "Ancho",
+      "pt": "Largura",
+      "ko": "너비"
     }
   },
   "patterns": [
