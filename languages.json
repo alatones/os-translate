@@ -8303,6 +8303,186 @@
       "es": "es cuando un usuario no abre tu app directamente desde un mensaje, sino dentro de un período de tiempo establecido después de que se recibió ese mensaje.",
       "pt": "é quando um usuário não abre seu app diretamente a partir de uma mensagem, mas sim em um período de tempo determinado após o recebimento dessa mensagem.",
       "ko": "사용자가 메시지에서 직접 앱을 열지 않고, 메시지를 받은 후 정해진 시간 내에 앱을 여는 경우입니다."
+    },
+    "1 Requested mail action aborted, mailbox not found": {
+      "ja": "1 要求されたメール処理が中止されました。メールボックスが見つかりません",
+      "es": "1 Acción de correo solicitada cancelada, buzón no encontrado",
+      "pt": "1 Ação de correio solicitada cancelada, caixa de correio não encontrada",
+      "ko": "1 요청된 메일 작업이 중단됨, 메일함을 찾을 수 없음"
+    },
+    "Bounced": {
+      "ja": "バウンス",
+      "es": "Rebotado",
+      "pt": "Devolvido",
+      "ko": "반송됨"
+    },
+    "Manually added": {
+      "ja": "手動で追加",
+      "es": "Agregado manualmente",
+      "pt": "Adicionado manualmente",
+      "ko": "수동으로 추가됨"
+    },
+    "Search by email": {
+      "ja": "メールで検索",
+      "es": "Buscar por correo",
+      "pt": "Pesquisar por email",
+      "ko": "이메일로 검색"
+    },
+    "To manage your suppression list, go to": {
+      "ja": "サプレッションリストを管理するには、次に移動してください:",
+      "es": "Para administrar tu lista de supresión, ve a",
+      "pt": "Para gerenciar sua lista de supressão, acesse",
+      "ko": "수신 거부 목록을 관리하려면 다음으로 이동하세요"
+    },
+    "Add Email": {
+      "ja": "メールを追加",
+      "es": "Agregar correo",
+      "pt": "Adicionar email",
+      "ko": "이메일 추가"
+    },
+    "Bounce Rate": {
+      "ja": "バウンス率",
+      "es": "Tasa de rebote",
+      "pt": "Taxa de devolução",
+      "ko": "반송률"
+    },
+    "Domain": {
+      "ja": "ドメイン",
+      "es": "Dominio",
+      "pt": "Domínio",
+      "ko": "도메인"
+    },
+    "Last 24 hours": {
+      "ja": "過去24時間",
+      "es": "Últimas 24 horas",
+      "pt": "Últimas 24 horas",
+      "ko": "지난 24시간"
+    },
+    "Mailgun Credentials": {
+      "ja": "Mailgun資格情報",
+      "es": "Credenciales de Mailgun",
+      "pt": "Credenciais do Mailgun",
+      "ko": "Mailgun 자격 증명"
+    },
+    "Manually Added": {
+      "ja": "手動で追加",
+      "es": "Agregado manualmente",
+      "pt": "Adicionado manualmente",
+      "ko": "수동으로 추가됨"
+    },
+    "OneSignal only provides suppression management for users using OneSignal email.": {
+      "ja": "OneSignalはOneSignalメールを使用しているユーザーに対してのみサプレッション管理を提供します。",
+      "es": "OneSignal solo proporciona administración de supresión para los usuarios que utilizan correo de OneSignal.",
+      "pt": "O OneSignal fornece gerenciamento de supressão apenas para usuários que usam o email do OneSignal.",
+      "ko": "OneSignal은 OneSignal 이메일을 사용하는 사용자에게만 수신 거부 관리를 제공합니다."
+    },
+    "OneSignal rates your reputation based on the bounce rate and spam rate of your emails. The spam rates do not include spam reports from Gmail. To see Gmail spam reports, setup Google postmaster.": {
+      "ja": "OneSignalはメールのバウンス率とスパム率に基づいて評判を評価します。スパム率にはGmailからのスパム報告は含まれません。Gmailのスパム報告を確認するには、Google Postmasterを設定してください。",
+      "es": "OneSignal califica tu reputación según la tasa de rebote y la tasa de spam de tus correos. Las tasas de spam no incluyen los informes de spam de Gmail. Para ver los informes de spam de Gmail, configura Google Postmaster.",
+      "pt": "O OneSignal avalia sua reputação com base na taxa de devolução e na taxa de spam de seus emails. As taxas de spam não incluem relatórios de spam do Gmail. Para ver os relatórios de spam do Gmail, configure o Google Postmaster.",
+      "ko": "OneSignal은 이메일의 반송률 및 스팸률을 기준으로 평판을 평가합니다. 스팸률에는 Gmail의 스팸 신고가 포함되지 않습니다. Gmail 스팸 신고를 보려면 Google Postmaster를 설정하세요."
+    },
+    "Password": {
+      "ja": "パスワード",
+      "es": "Contraseña",
+      "pt": "Senha",
+      "ko": "비밀번호"
+    },
+    "Private API Key": {
+      "ja": "プライベートAPIキー",
+      "es": "Clave API privada",
+      "pt": "Chave de API privada",
+      "ko": "비공개 API 키"
+    },
+    "Reason": {
+      "ja": "理由",
+      "es": "Motivo",
+      "pt": "Motivo",
+      "ko": "사유"
+    },
+    "Remove All": {
+      "ja": "すべて削除",
+      "es": "Quitar todo",
+      "pt": "Remover tudo",
+      "ko": "모두 제거"
+    },
+    "Reported as Spam": {
+      "ja": "スパムとして報告された",
+      "es": "Reportado como spam",
+      "pt": "Reportado como spam",
+      "ko": "스팸으로 신고됨"
+    },
+    "Reported as Spam Rate": {
+      "ja": "スパム報告率",
+      "es": "Tasa de reportes como spam",
+      "pt": "Taxa de denúncias como spam",
+      "ko": "스팸 신고율"
+    },
+    "Reputation Rates": {
+      "ja": "評判率",
+      "es": "Tasas de reputación",
+      "pt": "Taxas de reputação",
+      "ko": "평판 비율"
+    },
+    "SMTP Login": {
+      "ja": "SMTPログイン",
+      "es": "Inicio de sesión SMTP",
+      "pt": "Login SMTP",
+      "ko": "SMTP 로그인"
+    },
+    "Setup Google Postmaster Documentation": {
+      "ja": "Google Postmasterの設定文書",
+      "es": "Documentación para configurar Google Postmaster",
+      "pt": "Documentação para configurar o Google Postmaster",
+      "ko": "Google Postmaster 설정 문서"
+    },
+    "API Keys": {
+      "ja": "APIキー",
+      "es": "Claves API",
+      "pt": "Chaves de API",
+      "ko": "API 키"
+    },
+    "Add Key": {
+      "ja": "キーを追加",
+      "es": "Agregar clave",
+      "pt": "Adicionar chave",
+      "ko": "키 추가"
+    },
+    "Anyone who has your REST API key will be able to send notifications from your app. Do not expose the REST API key in your application code. Do not share it on GitHub or anywhere else online.": {
+      "ja": "REST APIキーを持っている人は誰でもあなたのアプリから通知を送信できます。REST APIキーをアプリケーションコードに公開しないでください。GitHubやその他のオンライン上で共有しないでください。",
+      "es": "Cualquiera que tenga tu clave de API REST podrá enviar notificaciones desde tu app. No expongas la clave de API REST en el código de tu aplicación. No la compartas en GitHub ni en otros lugares en línea.",
+      "pt": "Qualquer pessoa que tenha sua chave de API REST poderá enviar notificações do seu app. Não exponha a chave de API REST no código da sua aplicação. Não a compartilhe no GitHub nem em outros lugares online.",
+      "ko": "REST API 키를 가진 사람은 누구나 앱에서 알림을 발송할 수 있습니다. 애플리케이션 코드에 REST API 키를 노출하지 마세요. GitHub나 다른 온라인 장소에서 공유하지 마세요."
+    },
+    "Copy App ID": {
+      "ja": "アプリIDをコピー",
+      "es": "Copiar ID de app",
+      "pt": "Copiar ID do app",
+      "ko": "앱 ID 복사"
+    },
+    "Copy Email Template Address": {
+      "ja": "メールテンプレートアドレスをコピー",
+      "es": "Copiar dirección de plantilla de correo",
+      "pt": "Copiar endereço de modelo de email",
+      "ko": "이메일 템플릿 주소 복사"
+    },
+    "Data Warehouse Integration": {
+      "ja": "データウェアハウス統合",
+      "es": "Integración con Data Warehouse",
+      "pt": "Integração com Data Warehouse",
+      "ko": "데이터 웨어하우스 통합"
+    },
+    "Forwarded Email Templates": {
+      "ja": "転送されたメールテンプレート",
+      "es": "Plantillas de correo reenviadas",
+      "pt": "Modelos de email encaminhados",
+      "ko": "전달된 이메일 템플릿"
+    },
+    "Generate New Email Address": {
+      "ja": "新しいメールアドレスを生成",
+      "es": "Generar nueva dirección de correo",
+      "pt": "Gerar novo endereço de email",
+      "ko": "새 이메일 주소 생성"
     }
   },
   "patterns": [
