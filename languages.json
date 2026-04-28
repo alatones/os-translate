@@ -7769,6 +7769,72 @@
       "es": "Sin alias",
       "pt": "Sem aliases",
       "ko": "별칭 없음"
+    },
+    "No custom events": {
+      "ja": "カスタムイベントなし",
+      "es": "Sin eventos personalizados",
+      "pt": "Sem eventos personalizados",
+      "ko": "사용자 정의 이벤트 없음"
+    },
+    "No device records": {
+      "ja": "デバイス記録なし",
+      "es": "Sin registros de dispositivos",
+      "pt": "Sem registros de dispositivo",
+      "ko": "기기 기록 없음"
+    },
+    "No events": {
+      "ja": "イベントなし",
+      "es": "Sin eventos",
+      "pt": "Sem eventos",
+      "ko": "이벤트 없음"
+    },
+    "No journeys": {
+      "ja": "ジャーニーなし",
+      "es": "Sin Journeys",
+      "pt": "Sem Journeys",
+      "ko": "저니 없음"
+    },
+    "No message events": {
+      "ja": "メッセージイベントなし",
+      "es": "Sin eventos de mensajes",
+      "pt": "Sem eventos de mensagens",
+      "ko": "메시지 이벤트 없음"
+    },
+    "No subscriptions": {
+      "ja": "購読なし",
+      "es": "Sin suscripciones",
+      "pt": "Sem assinaturas",
+      "ko": "구독 없음"
+    },
+    "Phone": {
+      "ja": "電話",
+      "es": "Teléfono",
+      "pt": "Telefone",
+      "ko": "전화"
+    },
+    "Total session duration": {
+      "ja": "合計セッション時間",
+      "es": "Duración total de la sesión",
+      "pt": "Duração total da sessão",
+      "ko": "총 세션 시간"
+    },
+    "Total sessions": {
+      "ja": "合計セッション数",
+      "es": "Total de sesiones",
+      "pt": "Total de sessões",
+      "ko": "총 세션"
+    },
+    "User has not been in any Journey": {
+      "ja": "ユーザーはどのジャーニーにも参加していません",
+      "es": "El usuario no ha estado en ningún Journey",
+      "pt": "O usuário não esteve em nenhum Journey",
+      "ko": "사용자가 어떤 저니에도 참여하지 않았습니다"
+    },
+    "View all": {
+      "ja": "すべて表示",
+      "es": "Ver todo",
+      "pt": "Ver tudo",
+      "ko": "전체 보기"
     }
   },
   "patterns": [
