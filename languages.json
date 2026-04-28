@@ -7589,6 +7589,186 @@
       "es": "Correo del remitente",
       "pt": "Email do remetente",
       "ko": "발신자 이메일"
+    },
+    "Sender Name": {
+      "ja": "送信者名",
+      "es": "Nombre del remitente",
+      "pt": "Nome do remetente",
+      "ko": "발신자 이름"
+    },
+    "Sender name you want shown": {
+      "ja": "表示したい送信者名",
+      "es": "Nombre del remitente que quieres mostrar",
+      "pt": "Nome do remetente que você deseja exibir",
+      "ko": "표시하려는 발신자 이름"
+    },
+    "New Push Template": {
+      "ja": "新しいプッシュテンプレート",
+      "es": "Nueva plantilla de push",
+      "pt": "Novo modelo de push",
+      "ko": "새 푸시 템플릿"
+    },
+    "Consider looking on the": {
+      "ja": "次を確認してみてください:",
+      "es": "Considera buscar en el",
+      "pt": "Considere procurar no",
+      "ko": "다음을 확인해 보세요:"
+    },
+    "Search bar showing empty results": {
+      "ja": "検索バーで結果が空",
+      "es": "Barra de búsqueda mostrando resultados vacíos",
+      "pt": "Barra de pesquisa mostrando resultados vazios",
+      "ko": "검색창에 비어 있는 결과가 표시됨"
+    },
+    "We could not find the Template you were looking for.": {
+      "ja": "お探しのテンプレートが見つかりませんでした。",
+      "es": "No pudimos encontrar la plantilla que estabas buscando.",
+      "pt": "Não conseguimos encontrar o modelo que você estava procurando.",
+      "ko": "찾으시는 템플릿을 찾을 수 없습니다."
+    },
+    "template index": {
+      "ja": "テンプレート一覧",
+      "es": "índice de plantillas",
+      "pt": "índice de modelos",
+      "ko": "템플릿 인덱스"
+    },
+    "Add Additional Media": {
+      "ja": "追加のメディアを追加",
+      "es": "Agregar medios adicionales",
+      "pt": "Adicionar mídia adicional",
+      "ko": "추가 미디어 추가"
+    },
+    "Default Brand Logo": {
+      "ja": "デフォルトのブランドロゴ",
+      "es": "Logotipo de marca predeterminado",
+      "pt": "Logotipo de marca padrão",
+      "ko": "기본 브랜드 로고"
+    },
+    "Insert Trackable Link": {
+      "ja": "追跡可能なリンクを挿入",
+      "es": "Insertar enlace rastreable",
+      "pt": "Inserir link rastreável",
+      "ko": "추적 가능한 링크 삽입"
+    },
+    "New SMS / RCS Template": {
+      "ja": "新しいSMS / RCSテンプレート",
+      "es": "Nueva plantilla SMS / RCS",
+      "pt": "Novo modelo SMS / RCS",
+      "ko": "새 SMS / RCS 템플릿"
+    },
+    "Your Brand Here": {
+      "ja": "ここにブランドを",
+      "es": "Tu marca aquí",
+      "pt": "Sua marca aqui",
+      "ko": "여기에 브랜드 표시"
+    },
+    "Spanish": {
+      "ja": "スペイン語",
+      "es": "Español",
+      "pt": "Espanhol",
+      "ko": "스페인어"
+    },
+    "Activity": {
+      "ja": "活動",
+      "es": "Actividad",
+      "pt": "Atividade",
+      "ko": "활동"
+    },
+    "Refresh": {
+      "ja": "更新",
+      "es": "Actualizar",
+      "pt": "Atualizar",
+      "ko": "새로 고침"
+    },
+    "Timestamp": {
+      "ja": "タイムスタンプ",
+      "es": "Marca de tiempo",
+      "pt": "Marca de tempo",
+      "ko": "타임스탬프"
+    },
+    "You'll see data here when there's user activity.": {
+      "ja": "ユーザー活動があると、ここにデータが表示されます。",
+      "es": "Verás datos aquí cuando haya actividad del usuario.",
+      "pt": "Você verá dados aqui quando houver atividade do usuário.",
+      "ko": "사용자 활동이 있을 때 여기에 데이터가 표시됩니다."
+    },
+    "Message events": {
+      "ja": "メッセージイベント",
+      "es": "Eventos de mensajes",
+      "pt": "Eventos de mensagens",
+      "ko": "메시지 이벤트"
+    },
+    "No Recent Activity": {
+      "ja": "最近の活動なし",
+      "es": "Sin actividad reciente",
+      "pt": "Sem atividade recente",
+      "ko": "최근 활동 없음"
+    },
+    "Refreshing...": {
+      "ja": "更新中...",
+      "es": "Actualizando...",
+      "pt": "Atualizando...",
+      "ko": "새로 고치는 중..."
+    },
+    "Search by journey name": {
+      "ja": "ジャーニー名で検索",
+      "es": "Buscar por nombre de Journey",
+      "pt": "Pesquisar por nome do Journey",
+      "ko": "저니 이름으로 검색"
+    },
+    "Search by key or value": {
+      "ja": "キーまたは値で検索",
+      "es": "Buscar por clave o valor",
+      "pt": "Pesquisar por chave ou valor",
+      "ko": "키 또는 값으로 검색"
+    },
+    "Aliases": {
+      "ja": "エイリアス",
+      "es": "Alias",
+      "pt": "Aliases",
+      "ko": "별칭"
+    },
+    "Custom events": {
+      "ja": "カスタムイベント",
+      "es": "Eventos personalizados",
+      "pt": "Eventos personalizados",
+      "ko": "사용자 정의 이벤트"
+    },
+    "Data tags": {
+      "ja": "データタグ",
+      "es": "Etiquetas de datos",
+      "pt": "Tags de dados",
+      "ko": "데이터 태그"
+    },
+    "Devices": {
+      "ja": "デバイス",
+      "es": "Dispositivos",
+      "pt": "Dispositivos",
+      "ko": "기기"
+    },
+    "Event log": {
+      "ja": "イベントログ",
+      "es": "Registro de eventos",
+      "pt": "Registro de eventos",
+      "ko": "이벤트 로그"
+    },
+    "Learn more about Journeys.": {
+      "ja": "ジャーニーの詳細を確認。",
+      "es": "Más información sobre Journeys.",
+      "pt": "Saiba mais sobre Journeys.",
+      "ko": "저니에 대해 자세히 알아보세요."
+    },
+    "Location Point": {
+      "ja": "位置ポイント",
+      "es": "Punto de ubicación",
+      "pt": "Ponto de localização",
+      "ko": "위치 지점"
+    },
+    "No aliases": {
+      "ja": "エイリアスなし",
+      "es": "Sin alias",
+      "pt": "Sem aliases",
+      "ko": "별칭 없음"
     }
   },
   "patterns": [
@@ -8103,6 +8283,24 @@
         "es": "Primera sesión hace menos de {1} horas",
         "pt": "Primeira sessão há menos de {1} horas",
         "ko": "첫 번째 세션이 {1}시간 미만 전"
+      }
+    },
+    {
+      "match": "^(\\d+) months? ago$",
+      "translations": {
+        "ja": "{1}ヶ月前",
+        "es": "hace {1} mes(es)",
+        "pt": "há {1} mês(es)",
+        "ko": "{1}개월 전"
+      }
+    },
+    {
+      "match": "^(\\d+)/(\\d+) characters used \\(estimated\\)$",
+      "translations": {
+        "ja": "{1}/{2}文字使用 (推定)",
+        "es": "{1}/{2} caracteres usados (estimado)",
+        "pt": "{1}/{2} caracteres usados (estimado)",
+        "ko": "{1}/{2}자 사용 (추정)"
       }
     }
   ]
