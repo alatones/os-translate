@@ -7943,6 +7943,186 @@
       "es": "crear una nueva plantilla aquí",
       "pt": "criar um novo modelo aqui",
       "ko": "여기서 새 템플릿 만들기"
+    },
+    "Collapse row": {
+      "ja": "行を折りたたむ",
+      "es": "Contraer fila",
+      "pt": "Recolher linha",
+      "ko": "행 접기"
+    },
+    "Copy code": {
+      "ja": "コードをコピー",
+      "es": "Copiar código",
+      "pt": "Copiar código",
+      "ko": "코드 복사"
+    },
+    "Open Data menu": {
+      "ja": "データメニューを開く",
+      "es": "Abrir menú de datos",
+      "pt": "Abrir menu de dados",
+      "ko": "데이터 메뉴 열기"
+    },
+    "Awaiting Double Opt-In": {
+      "ja": "ダブルオプトイン待機中",
+      "es": "Esperando doble opt-in",
+      "pt": "Aguardando opt-in duplo",
+      "ko": "이중 옵트인 대기 중"
+    },
+    "Italian": {
+      "ja": "イタリア語",
+      "es": "Italiano",
+      "pt": "Italiano",
+      "ko": "이탈리아어"
+    },
+    ".wav, .aiff, .caf": {
+      "ja": ".wav、.aiff、.caf",
+      "es": ".wav, .aiff, .caf",
+      "pt": ".wav, .aiff, .caf",
+      "ko": ".wav, .aiff, .caf"
+    },
+    "Amplitude is": {
+      "ja": "Amplitude:",
+      "es": "Amplitude es",
+      "pt": "Amplitude é",
+      "ko": "Amplitude:"
+    },
+    "Journey Updated": {
+      "ja": "ジャーニーが更新されました",
+      "es": "Journey actualizado",
+      "pt": "Journey atualizado",
+      "ko": "저니가 업데이트됨"
+    },
+    "Journey Created": {
+      "ja": "ジャーニーが作成されました",
+      "es": "Journey creado",
+      "pt": "Journey criado",
+      "ko": "저니가 생성됨"
+    },
+    "Editor": {
+      "ja": "エディター",
+      "es": "Editor",
+      "pt": "Editor",
+      "ko": "편집자"
+    },
+    "Search by Email": {
+      "ja": "メールで検索",
+      "es": "Buscar por correo",
+      "pt": "Pesquisar por email",
+      "ko": "이메일로 검색"
+    },
+    "App role": {
+      "ja": "アプリの役割",
+      "es": "Rol de app",
+      "pt": "Função no app",
+      "ko": "앱 역할"
+    },
+    "Date & time": {
+      "ja": "日付と時刻",
+      "es": "Fecha y hora",
+      "pt": "Data e hora",
+      "ko": "날짜 및 시간"
+    },
+    "Export Created": {
+      "ja": "エクスポートが作成されました",
+      "es": "Exportación creada",
+      "pt": "Exportação criada",
+      "ko": "내보내기 생성됨"
+    },
+    "Item name": {
+      "ja": "項目名",
+      "es": "Nombre del elemento",
+      "pt": "Nome do item",
+      "ko": "항목 이름"
+    },
+    "Item type": {
+      "ja": "項目タイプ",
+      "es": "Tipo de elemento",
+      "pt": "Tipo de item",
+      "ko": "항목 유형"
+    },
+    "Last 48 hours": {
+      "ja": "過去48時間",
+      "es": "Últimas 48 horas",
+      "pt": "Últimas 48 horas",
+      "ko": "지난 48시간"
+    },
+    "Segment Created": {
+      "ja": "セグメントが作成されました",
+      "es": "Segmento creado",
+      "pt": "Segmento criado",
+      "ko": "세그먼트 생성됨"
+    },
+    "Source": {
+      "ja": "ソース",
+      "es": "Fuente",
+      "pt": "Origem",
+      "ko": "소스"
+    },
+    "Template Created": {
+      "ja": "テンプレートが作成されました",
+      "es": "Plantilla creada",
+      "pt": "Modelo criado",
+      "ko": "템플릿 생성됨"
+    },
+    "User action": {
+      "ja": "ユーザーアクション",
+      "es": "Acción del usuario",
+      "pt": "Ação do usuário",
+      "ko": "사용자 작업"
+    },
+    "Disable App": {
+      "ja": "アプリを無効化",
+      "es": "Desactivar app",
+      "pt": "Desativar app",
+      "ko": "앱 비활성화"
+    },
+    "You may disable this app to prevent new and scheduled notifications from being delivered. Apps you manually disable can be instantly re-enabled at any time.": {
+      "ja": "このアプリを無効化すると、新規および予約済みの通知が配信されなくなります。手動で無効化したアプリはいつでもすぐに再有効化できます。",
+      "es": "Puedes desactivar esta app para evitar que se envíen notificaciones nuevas y programadas. Las apps que desactives manualmente pueden volver a activarse al instante en cualquier momento.",
+      "pt": "Você pode desativar este app para evitar que notificações novas e agendadas sejam entregues. Apps que você desativar manualmente podem ser reativados instantaneamente a qualquer momento.",
+      "ko": "이 앱을 비활성화하면 새 알림 및 예약된 알림이 전달되지 않습니다. 수동으로 비활성화한 앱은 언제든지 즉시 다시 활성화할 수 있습니다."
+    },
+    "Add Channel": {
+      "ja": "チャネルを追加",
+      "es": "Agregar canal",
+      "pt": "Adicionar canal",
+      "ko": "채널 추가"
+    },
+    "Allow push throttle override on creation": {
+      "ja": "作成時にプッシュスロットルの上書きを許可",
+      "es": "Permitir anulación de la limitación de push al crear",
+      "pt": "Permitir substituição de limite de push na criação",
+      "ko": "생성 시 푸시 쓰로틀 재정의 허용"
+    },
+    "Campaign": {
+      "ja": "キャンペーン",
+      "es": "Campaña",
+      "pt": "Campanha",
+      "ko": "캠페인"
+    },
+    "Medium": {
+      "ja": "メディア",
+      "es": "Medio",
+      "pt": "Meio",
+      "ko": "매체"
+    },
+    "Messages per minute": {
+      "ja": "毎分のメッセージ数",
+      "es": "Mensajes por minuto",
+      "pt": "Mensagens por minuto",
+      "ko": "분당 메시지 수"
+    },
+    "Save UTM Settings": {
+      "ja": "UTM設定を保存",
+      "es": "Guardar configuración UTM",
+      "pt": "Salvar configurações de UTM",
+      "ko": "UTM 설정 저장"
+    },
+    "This limit will be set for each individual push message unless you override it on creation": {
+      "ja": "この制限は、作成時に上書きしない限り、個別のプッシュメッセージごとに設定されます",
+      "es": "Este límite se aplicará a cada mensaje push individual a menos que lo anules al crearlo",
+      "pt": "Esse limite será aplicado a cada mensagem push individual a menos que você o substitua na criação",
+      "ko": "생성 시 재정의하지 않는 한, 이 제한은 각 푸시 메시지에 개별적으로 적용됩니다"
     }
   },
   "patterns": [
@@ -8583,6 +8763,24 @@
         "es": "{1} por mes",
         "pt": "{1} por mês",
         "ko": "{1}/월"
+      }
+    },
+    {
+      "match": "^First Session greater than (\\d+) hours ago$",
+      "translations": {
+        "ja": "最初のセッションから{1}時間以上",
+        "es": "Primera sesión hace más de {1} horas",
+        "pt": "Primeira sessão há mais de {1} horas",
+        "ko": "첫 번째 세션이 {1}시간 이상 전"
+      }
+    },
+    {
+      "match": "^Showing audit logs from (.+) to now$",
+      "translations": {
+        "ja": "{1}から現在までの監査ログを表示",
+        "es": "Mostrando registros de auditoría desde {1} hasta ahora",
+        "pt": "Mostrando logs de auditoria de {1} até agora",
+        "ko": "{1}부터 현재까지의 감사 로그 표시"
       }
     }
   ]
