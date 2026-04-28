@@ -4823,6 +4823,132 @@
       "es": "Seleccionar organización",
       "pt": "Selecionar organização",
       "ko": "조직 선택"
+    },
+    "Remove Media": {
+      "ja": "メディアを削除",
+      "es": "Quitar medios",
+      "pt": "Remover mídia",
+      "ko": "미디어 제거"
+    },
+    "TAKE A TOUR": {
+      "ja": "ツアーを開始",
+      "es": "INICIAR RECORRIDO",
+      "pt": "INICIAR TOUR",
+      "ko": "둘러보기"
+    },
+    "Tooltip anchor": {
+      "ja": "ツールチップのアンカー",
+      "es": "Ancla del tooltip",
+      "pt": "Âncora do tooltip",
+      "ko": "툴팁 앵커"
+    },
+    "Custom Events let you track and respond to user activity in your app or website.": {
+      "ja": "カスタムイベントを使うとアプリやウェブサイトでのユーザー活動を追跡して反応できます。",
+      "es": "Los eventos personalizados te permiten rastrear y responder a la actividad de los usuarios en tu aplicación o sitio web.",
+      "pt": "Os eventos personalizados permitem que você rastreie e responda à atividade do usuário em seu aplicativo ou site.",
+      "ko": "사용자 정의 이벤트를 통해 앱 또는 웹사이트의 사용자 활동을 추적하고 응답할 수 있습니다."
+    },
+    "Last updated": {
+      "ja": "最終更新",
+      "es": "Última actualización",
+      "pt": "Última atualização",
+      "ko": "마지막 업데이트"
+    },
+    "Track all message events": {
+      "ja": "すべてのメッセージイベントを追跡",
+      "es": "Rastrear todos los eventos de mensajes",
+      "pt": "Rastrear todos os eventos de mensagem",
+      "ko": "모든 메시지 이벤트 추적"
+    },
+    "Failed Permanently": {
+      "ja": "完全に失敗",
+      "es": "Fallido permanentemente",
+      "pt": "Falhou permanentemente",
+      "ko": "영구 실패"
+    },
+    "Successful": {
+      "ja": "成功",
+      "es": "Exitoso",
+      "pt": "Bem-sucedido",
+      "ko": "성공"
+    },
+    "4xx Responses": {
+      "ja": "4xx応答",
+      "es": "Respuestas 4xx",
+      "pt": "Respostas 4xx",
+      "ko": "4xx 응답"
+    },
+    "5xx Responses": {
+      "ja": "5xx応答",
+      "es": "Respuestas 5xx",
+      "pt": "Respostas 5xx",
+      "ko": "5xx 응답"
+    },
+    "Add stat": {
+      "ja": "統計を追加",
+      "es": "Agregar estadística",
+      "pt": "Adicionar estatística",
+      "ko": "통계 추가"
+    },
+    "Delivery Statistics for All Time": {
+      "ja": "全期間の配信統計",
+      "es": "Estadísticas de entrega de todos los tiempos",
+      "pt": "Estatísticas de entrega de todo o tempo",
+      "ko": "전체 기간의 전달 통계"
+    },
+    "Errors": {
+      "ja": "エラー",
+      "es": "Errores",
+      "pt": "Erros",
+      "ko": "오류"
+    },
+    "Events": {
+      "ja": "イベント",
+      "es": "Eventos",
+      "pt": "Eventos",
+      "ko": "이벤트"
+    },
+    "Logs": {
+      "ja": "ログ",
+      "es": "Registros",
+      "pt": "Registros",
+      "ko": "로그"
+    },
+    "Method": {
+      "ja": "メソッド",
+      "es": "Método",
+      "pt": "Método",
+      "ko": "메서드"
+    },
+    "Permanent Failure": {
+      "ja": "永続的な失敗",
+      "es": "Falla permanente",
+      "pt": "Falha permanente",
+      "ko": "영구 실패"
+    },
+    "Remove Permanent Failure filter": {
+      "ja": "永続的な失敗フィルターを削除",
+      "es": "Quitar filtro de falla permanente",
+      "pt": "Remover filtro de falha permanente",
+      "ko": "영구 실패 필터 제거"
+    },
+    "Remove Sent filter": {
+      "ja": "送信済みフィルターを削除",
+      "es": "Quitar filtro de enviados",
+      "pt": "Remover filtro de enviados",
+      "ko": "발송 필터 제거"
+    },
+    "Remove Success filter": {
+      "ja": "成功フィルターを削除",
+      "es": "Quitar filtro de éxito",
+      "pt": "Remover filtro de sucesso",
+      "ko": "성공 필터 제거"
+    },
+    "Timeouts": {
+      "ja": "タイムアウト",
+      "es": "Tiempos de espera",
+      "pt": "Tempos limite",
+      "ko": "타임아웃"
     }
   },
   "patterns": [
@@ -5220,6 +5346,42 @@
         "es": "{1} dic",
         "pt": "{1} dez",
         "ko": "12월 {1}일"
+      }
+    },
+    {
+      "match": "^Active \\((\\d+)\\)$",
+      "translations": {
+        "ja": "アクティブ ({1})",
+        "es": "Activo ({1})",
+        "pt": "Ativo ({1})",
+        "ko": "활성 ({1})"
+      }
+    },
+    {
+      "match": "^All \\((\\d+)\\)$",
+      "translations": {
+        "ja": "すべて ({1})",
+        "es": "Todo ({1})",
+        "pt": "Tudo ({1})",
+        "ko": "전체 ({1})"
+      }
+    },
+    {
+      "match": "^Disabled \\((\\d+)\\)$",
+      "translations": {
+        "ja": "無効 ({1})",
+        "es": "Deshabilitado ({1})",
+        "pt": "Desabilitado ({1})",
+        "ko": "비활성화됨 ({1})"
+      }
+    },
+    {
+      "match": "^Inactive \\((\\d+)\\)$",
+      "translations": {
+        "ja": "非アクティブ ({1})",
+        "es": "Inactivo ({1})",
+        "pt": "Inativo ({1})",
+        "ko": "비활성 ({1})"
       }
     }
   ]
