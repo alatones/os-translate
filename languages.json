@@ -6149,6 +6149,186 @@
       "es": "Los usuarios solo pueden entrar al Journey una vez",
       "pt": "Os usuários só podem entrar no Journey uma vez",
       "ko": "사용자는 저니에 한 번만 진입할 수 있습니다"
+    },
+    "Users in the chosen segment will start your Journey": {
+      "ja": "選択したセグメントのユーザーがあなたのジャーニーを開始します",
+      "es": "Los usuarios del segmento elegido iniciarán tu Journey",
+      "pt": "Os usuários no segmento escolhido iniciarão seu Journey",
+      "ko": "선택한 세그먼트의 사용자가 저니를 시작합니다"
+    },
+    "Zoom In": {
+      "ja": "拡大",
+      "es": "Acercar",
+      "pt": "Aproximar",
+      "ko": "확대"
+    },
+    "Zoom Out": {
+      "ja": "縮小",
+      "es": "Alejar",
+      "pt": "Afastar",
+      "ko": "축소"
+    },
+    "excluded": {
+      "ja": "除外",
+      "es": "excluido",
+      "pt": "excluído",
+      "ko": "제외됨"
+    },
+    "from this Journey?": {
+      "ja": "をこのジャーニーから？",
+      "es": "¿de este Journey?",
+      "pt": "deste Journey?",
+      "ko": "이 저니에서?"
+    },
+    "in this Journey?": {
+      "ja": "をこのジャーニーに？",
+      "es": "¿en este Journey?",
+      "pt": "neste Journey?",
+      "ko": "이 저니에?"
+    },
+    "included": {
+      "ja": "含む",
+      "es": "incluido",
+      "pt": "incluído",
+      "ko": "포함됨"
+    },
+    "Add Properties": {
+      "ja": "プロパティを追加",
+      "es": "Agregar propiedades",
+      "pt": "Adicionar propriedades",
+      "ko": "속성 추가"
+    },
+    "Are you sure you want to leave?": {
+      "ja": "本当に離れますか？",
+      "es": "¿Seguro que quieres salir?",
+      "pt": "Tem certeza de que deseja sair?",
+      "ko": "정말 나가시겠습니까?"
+    },
+    "Control Panel": {
+      "ja": "コントロールパネル",
+      "es": "Panel de control",
+      "pt": "Painel de controle",
+      "ko": "제어판"
+    },
+    "Custom Event List": {
+      "ja": "カスタムイベント一覧",
+      "es": "Lista de eventos personalizados",
+      "pt": "Lista de eventos personalizados",
+      "ko": "사용자 정의 이벤트 목록"
+    },
+    "Custom Event Name": {
+      "ja": "カスタムイベント名",
+      "es": "Nombre del evento personalizado",
+      "pt": "Nome do evento personalizado",
+      "ko": "사용자 정의 이벤트 이름"
+    },
+    "Enter custom event name": {
+      "ja": "カスタムイベント名を入力",
+      "es": "Ingresar nombre del evento personalizado",
+      "pt": "Inserir nome do evento personalizado",
+      "ko": "사용자 정의 이벤트 이름 입력"
+    },
+    "Event-triggered Journeys create a new user instance each time the trigger event fires. This means a user may be in the Journey multiple times at once.": {
+      "ja": "イベントトリガーのジャーニーは、トリガーイベントが発生するたびに新しいユーザーインスタンスを作成します。つまり、ユーザーが同時に複数のジャーニーに参加することがあります。",
+      "es": "Los Journeys disparados por eventos crean una nueva instancia de usuario cada vez que el evento disparador se activa. Esto significa que un usuario puede estar en el Journey varias veces a la vez.",
+      "pt": "Os Journeys disparados por eventos criam uma nova instância de usuário cada vez que o evento gatilho é disparado. Isso significa que um usuário pode estar no Journey várias vezes ao mesmo tempo.",
+      "ko": "이벤트 트리거 저니는 트리거 이벤트가 발생할 때마다 새로운 사용자 인스턴스를 생성합니다. 즉, 사용자가 동시에 여러 번 저니에 참여할 수 있습니다."
+    },
+    "Filter by property": {
+      "ja": "プロパティでフィルター",
+      "es": "Filtrar por propiedad",
+      "pt": "Filtrar por propriedade",
+      "ko": "속성으로 필터링"
+    },
+    "It looks like you're still working on this. Changes you made may not be saved if you leave now.": {
+      "ja": "まだ作業中のようです。今離れると変更が保存されない場合があります。",
+      "es": "Parece que aún estás trabajando en esto. Los cambios realizados pueden no guardarse si sales ahora.",
+      "pt": "Parece que você ainda está trabalhando nisso. As alterações feitas podem não ser salvas se sair agora.",
+      "ko": "아직 작업 중인 것 같습니다. 지금 나가면 변경 사항이 저장되지 않을 수 있습니다."
+    },
+    "Journey description": {
+      "ja": "ジャーニーの説明",
+      "es": "Descripción del Journey",
+      "pt": "Descrição do Journey",
+      "ko": "저니 설명"
+    },
+    "Journey name": {
+      "ja": "ジャーニー名",
+      "es": "Nombre del Journey",
+      "pt": "Nome do Journey",
+      "ko": "저니 이름"
+    },
+    "Journey saved!": {
+      "ja": "ジャーニーを保存しました！",
+      "es": "¡Journey guardado!",
+      "pt": "Journey salvo!",
+      "ko": "저니가 저장되었습니다!"
+    },
+    "Keep editing": {
+      "ja": "編集を続ける",
+      "es": "Seguir editando",
+      "pt": "Continuar editando",
+      "ko": "계속 편집"
+    },
+    "Leave": {
+      "ja": "離れる",
+      "es": "Salir",
+      "pt": "Sair",
+      "ko": "나가기"
+    },
+    "Meet a certain condition": {
+      "ja": "特定の条件を満たす",
+      "es": "Cumplir cierta condición",
+      "pt": "Atender a uma certa condição",
+      "ko": "특정 조건 충족"
+    },
+    "Mini Map": {
+      "ja": "ミニマップ",
+      "es": "Minimapa",
+      "pt": "Minimapa",
+      "ko": "미니맵"
+    },
+    "More Options": {
+      "ja": "その他のオプション",
+      "es": "Más opciones",
+      "pt": "Mais opções",
+      "ko": "추가 옵션"
+    },
+    "Never stops": {
+      "ja": "停止しない",
+      "es": "Nunca se detiene",
+      "pt": "Nunca para",
+      "ko": "멈추지 않음"
+    },
+    "Saving...": {
+      "ja": "保存中...",
+      "es": "Guardando...",
+      "pt": "Salvando...",
+      "ko": "저장 중..."
+    },
+    "Schedule a start date and time": {
+      "ja": "開始日時を予約",
+      "es": "Programar fecha y hora de inicio",
+      "pt": "Agendar data e hora de início",
+      "ko": "시작 날짜 및 시간 예약"
+    },
+    "Schedule an end date and time": {
+      "ja": "終了日時を予約",
+      "es": "Programar fecha y hora de fin",
+      "pt": "Agendar data e hora de término",
+      "ko": "종료 날짜 및 시간 예약"
+    },
+    "Set Live": {
+      "ja": "ライブ化",
+      "es": "Activar",
+      "pt": "Ativar",
+      "ko": "라이브 설정"
+    },
+    "Set a Journey Goal": {
+      "ja": "ジャーニー目標を設定",
+      "es": "Establecer un objetivo de Journey",
+      "pt": "Definir uma meta de Journey",
+      "ko": "저니 목표 설정"
     }
   },
   "patterns": [
