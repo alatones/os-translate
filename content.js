@@ -91,12 +91,24 @@
     return null;
   }
 
+  // Normalize typographic quotes to ASCII before lookup. The dashboard
+  // renders curly apostrophes/quotes ('what's ahead', "Hi there") in some
+  // copy and straight ones elsewhere — without this, "what's" with U+2019
+  // would miss "what's" with U+0027 in the dictionary even though the
+  // strings are visually identical.
+  function normalizeQuotes(s) {
+    return s
+      .replace(/[‘’ʼ]/g, "'")
+      .replace(/[“”]/g, '"');
+  }
+
   function translateString(raw) {
     if (typeof raw !== "string" || !raw) return null;
     const trimmed = raw.trim();
     if (!trimmed) return null;
-    let translated = lookup.get(trimmed);
-    if (translated === undefined) translated = applyPattern(trimmed);
+    const key = normalizeQuotes(trimmed);
+    let translated = lookup.get(key);
+    if (translated === undefined) translated = applyPattern(key);
     if (translated === undefined || translated === null) {
       trackMissed(trimmed);
       return null;
