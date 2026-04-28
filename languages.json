@@ -5441,6 +5441,174 @@
       "es": "Guardar y salir",
       "pt": "Salvar e sair",
       "ko": "저장 후 종료"
+    },
+    "Block editor": {
+      "ja": "ブロックエディター",
+      "es": "Editor de bloques",
+      "pt": "Editor de blocos",
+      "ko": "블록 편집기"
+    },
+    "Fold line": {
+      "ja": "行を折りたたむ",
+      "es": "Plegar línea",
+      "pt": "Recolher linha",
+      "ko": "줄 접기"
+    },
+    "Advanced options": {
+      "ja": "詳細オプション",
+      "es": "Opciones avanzadas",
+      "pt": "Opções avançadas",
+      "ko": "고급 옵션"
+    },
+    "Add click action": {
+      "ja": "クリックアクションを追加",
+      "es": "Agregar acción de clic",
+      "pt": "Adicionar ação de clique",
+      "ko": "클릭 액션 추가"
+    },
+    "Margin bottom": {
+      "ja": "下のマージン",
+      "es": "Margen inferior",
+      "pt": "Margem inferior",
+      "ko": "아래쪽 여백"
+    },
+    "Margin left": {
+      "ja": "左のマージン",
+      "es": "Margen izquierdo",
+      "pt": "Margem esquerda",
+      "ko": "왼쪽 여백"
+    },
+    "Margin right": {
+      "ja": "右のマージン",
+      "es": "Margen derecho",
+      "pt": "Margem direita",
+      "ko": "오른쪽 여백"
+    },
+    "Margin top": {
+      "ja": "上のマージン",
+      "es": "Margen superior",
+      "pt": "Margem superior",
+      "ko": "위쪽 여백"
+    },
+    "Text alignment": {
+      "ja": "テキストの配置",
+      "es": "Alineación del texto",
+      "pt": "Alinhamento do texto",
+      "ko": "텍스트 정렬"
+    },
+    "Dismiss on click": {
+      "ja": "クリックで閉じる",
+      "es": "Descartar al hacer clic",
+      "pt": "Descartar ao clicar",
+      "ko": "클릭 시 닫기"
+    },
+    "Image upload input": {
+      "ja": "画像アップロード入力",
+      "es": "Entrada de carga de imagen",
+      "pt": "Entrada de upload de imagem",
+      "ko": "이미지 업로드 입력"
+    },
+    "Select image": {
+      "ja": "画像を選択",
+      "es": "Seleccionar imagen",
+      "pt": "Selecionar imagem",
+      "ko": "이미지 선택"
+    },
+    "or paste local path or URL": {
+      "ja": "またはローカルパスやURLを貼り付け",
+      "es": "o pega la ruta local o URL",
+      "pt": "ou cole o caminho local ou URL",
+      "ko": "또는 로컬 경로나 URL 붙여넣기"
+    },
+    "Center aligned": {
+      "ja": "中央揃え",
+      "es": "Centrado",
+      "pt": "Centralizado",
+      "ko": "가운데 정렬"
+    },
+    "Font family": {
+      "ja": "フォントファミリー",
+      "es": "Familia de fuentes",
+      "pt": "Família de fontes",
+      "ko": "글꼴 종류"
+    },
+    "Font size": {
+      "ja": "フォントサイズ",
+      "es": "Tamaño de fuente",
+      "pt": "Tamanho da fonte",
+      "ko": "글꼴 크기"
+    },
+    "Format": {
+      "ja": "フォーマット",
+      "es": "Formato",
+      "pt": "Formato",
+      "ko": "서식"
+    },
+    "Left aligned": {
+      "ja": "左揃え",
+      "es": "Alineado a la izquierda",
+      "pt": "Alinhado à esquerda",
+      "ko": "왼쪽 정렬"
+    },
+    "Right aligned": {
+      "ja": "右揃え",
+      "es": "Alineado a la derecha",
+      "pt": "Alinhado à direita",
+      "ko": "오른쪽 정렬"
+    },
+    "Specific time": {
+      "ja": "特定の時刻",
+      "es": "Hora específica",
+      "pt": "Horário específico",
+      "ko": "특정 시간"
+    },
+    "System Font (Default)": {
+      "ja": "システムフォント (デフォルト)",
+      "es": "Fuente del sistema (predeterminada)",
+      "pt": "Fonte do sistema (padrão)",
+      "ko": "시스템 글꼴 (기본)"
+    },
+    "Text formatting": {
+      "ja": "テキスト書式",
+      "es": "Formato de texto",
+      "pt": "Formatação de texto",
+      "ko": "텍스트 서식"
+    },
+    "Toggle bold": {
+      "ja": "太字を切り替え",
+      "es": "Alternar negrita",
+      "pt": "Alternar negrito",
+      "ko": "굵게 전환"
+    },
+    "Toggle italic": {
+      "ja": "斜体を切り替え",
+      "es": "Alternar cursiva",
+      "pt": "Alternar itálico",
+      "ko": "기울임 전환"
+    },
+    "Toggle underline": {
+      "ja": "下線を切り替え",
+      "es": "Alternar subrayado",
+      "pt": "Alternar sublinhado",
+      "ko": "밑줄 전환"
+    },
+    "Unfold line": {
+      "ja": "行を展開",
+      "es": "Desplegar línea",
+      "pt": "Expandir linha",
+      "ko": "줄 펼치기"
+    },
+    "Clear input": {
+      "ja": "入力をクリア",
+      "es": "Borrar entrada",
+      "pt": "Limpar entrada",
+      "ko": "입력 지우기"
+    },
+    "Onesignal in app message preview": {
+      "ja": "OneSignalインアプリメッセージのプレビュー",
+      "es": "Vista previa del mensaje in-app de OneSignal",
+      "pt": "Pré-visualização da mensagem in-app do OneSignal",
+      "ko": "OneSignal 인앱 메시지 미리보기"
     }
   },
   "patterns": [
