@@ -7883,6 +7883,66 @@
       "es": "Último evento recibido:",
       "pt": "Último evento recebido:",
       "ko": "마지막 수신 이벤트:"
+    },
+    "3. Delivery Schedule": {
+      "ja": "3. 配信スケジュール",
+      "es": "3. Programación de entrega",
+      "pt": "3. Agendamento de entrega",
+      "ko": "3. 전달 일정"
+    },
+    "After a certain amount of time": {
+      "ja": "一定時間後",
+      "es": "Después de cierto tiempo",
+      "pt": "Após um determinado tempo",
+      "ko": "일정 시간 후"
+    },
+    "Deliver to users more than once?": {
+      "ja": "ユーザーに複数回配信しますか？",
+      "es": "¿Entregar a los usuarios más de una vez?",
+      "pt": "Entregar aos usuários mais de uma vez?",
+      "ko": "사용자에게 여러 번 전달하시겠습니까?"
+    },
+    "If the user returns to the app": {
+      "ja": "ユーザーがアプリに戻った場合",
+      "es": "Si el usuario regresa a la aplicación",
+      "pt": "Se o usuário retornar ao aplicativo",
+      "ko": "사용자가 앱으로 돌아오면"
+    },
+    "Make Active": {
+      "ja": "アクティブにする",
+      "es": "Hacer activo",
+      "pt": "Tornar ativo",
+      "ko": "활성화"
+    },
+    "My Message": {
+      "ja": "マイメッセージ",
+      "es": "Mi mensaje",
+      "pt": "Minha mensagem",
+      "ko": "내 메시지"
+    },
+    "Select...": {
+      "ja": "選択...",
+      "es": "Seleccionar...",
+      "pt": "Selecionar...",
+      "ko": "선택..."
+    },
+    "Send Test": {
+      "ja": "テストを送信",
+      "es": "Enviar prueba",
+      "pt": "Enviar teste",
+      "ko": "테스트 발송"
+    },
+    "What template do you want to send?": {
+      "ja": "どのテンプレートを送信しますか？",
+      "es": "¿Qué plantilla quieres enviar?",
+      "pt": "Qual modelo você quer enviar?",
+      "ko": "어떤 템플릿을 발송하시겠습니까?"
+    },
+    "create a new template here": {
+      "ja": "ここで新しいテンプレートを作成",
+      "es": "crear una nueva plantilla aquí",
+      "pt": "criar um novo modelo aqui",
+      "ko": "여기서 새 템플릿 만들기"
     }
   },
   "patterns": [
@@ -8469,6 +8529,60 @@
         "es": "{1} por mes)",
         "pt": "{1} por mês)",
         "ko": "{1}/월)"
+      }
+    },
+    {
+      "match": "^(\\d+) per day$",
+      "translations": {
+        "ja": "{1}/日",
+        "es": "{1} por día",
+        "pt": "{1} por dia",
+        "ko": "{1}/일"
+      }
+    },
+    {
+      "match": "^(\\d+) per hour$",
+      "translations": {
+        "ja": "{1}/時間",
+        "es": "{1} por hora",
+        "pt": "{1} por hora",
+        "ko": "{1}/시간"
+      }
+    },
+    {
+      "match": "^(\\d+) per minute$",
+      "translations": {
+        "ja": "{1}/分",
+        "es": "{1} por minuto",
+        "pt": "{1} por minuto",
+        "ko": "{1}/분"
+      }
+    },
+    {
+      "match": "^(\\d+) per second$",
+      "translations": {
+        "ja": "{1}/秒",
+        "es": "{1} por segundo",
+        "pt": "{1} por segundo",
+        "ko": "{1}/초"
+      }
+    },
+    {
+      "match": "^(\\d+) per week$",
+      "translations": {
+        "ja": "{1}/週",
+        "es": "{1} por semana",
+        "pt": "{1} por semana",
+        "ko": "{1}/주"
+      }
+    },
+    {
+      "match": "^(\\d+) per month$",
+      "translations": {
+        "ja": "{1}/月",
+        "es": "{1} por mes",
+        "pt": "{1} por mês",
+        "ko": "{1}/월"
       }
     }
   ]
