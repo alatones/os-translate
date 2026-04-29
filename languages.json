@@ -13672,7 +13672,8 @@
         "pt": "{1} dias",
         "ko": "{1}일",
         "fr": "{1} jours",
-        "tr": "{1} gün"
+        "tr": "{1} gün",
+        "zh-CN": "{1} 天"
       }
     },
     {
@@ -13683,7 +13684,8 @@
         "pt": "{1} horas",
         "ko": "{1}시간",
         "fr": "{1} heures",
-        "tr": "{1} saat"
+        "tr": "{1} saat",
+        "zh-CN": "{1} 小时"
       }
     },
     {
@@ -13694,7 +13696,8 @@
         "pt": "{1} minutos",
         "ko": "{1}분",
         "fr": "{1} minutes",
-        "tr": "{1} dakika"
+        "tr": "{1} dakika",
+        "zh-CN": "{1} 分钟"
       }
     },
     {
@@ -13705,7 +13708,8 @@
         "pt": "{1} meses",
         "ko": "{1}개월",
         "fr": "{1} mois",
-        "tr": "{1} ay"
+        "tr": "{1} ay",
+        "zh-CN": "{1} 个月"
       }
     },
     {
@@ -13716,7 +13720,8 @@
         "pt": "Últimos {1} dias",
         "ko": "최근 {1}일",
         "fr": "Derniers {1} jours",
-        "tr": "Son {1} gün"
+        "tr": "Son {1} gün",
+        "zh-CN": "最近 {1} 天"
       }
     },
     {
@@ -13727,7 +13732,8 @@
         "pt": "{1} selecionados",
         "ko": "{1}개 선택됨",
         "fr": "{1} sélectionnés",
-        "tr": "{1} seçildi"
+        "tr": "{1} seçildi",
+        "zh-CN": "已选择 {1} 项"
       }
     },
     {
@@ -13738,7 +13744,8 @@
         "pt": "{1} segmentos selecionados",
         "ko": "{1}개 세그먼트 선택됨",
         "fr": "{1} segments sélectionnés",
-        "tr": "{1} segment seçildi"
+        "tr": "{1} segment seçildi",
+        "zh-CN": "已选择 {1} 个 Segment"
       }
     },
     {
@@ -13749,7 +13756,8 @@
         "pt": "{1} mensagens enviadas",
         "ko": "{1}개 메시지 발송됨",
         "fr": "{1} messages envoyés",
-        "tr": "{1} mesaj gönderildi"
+        "tr": "{1} mesaj gönderildi",
+        "zh-CN": "已发送 {1} 条消息"
       }
     },
     {
@@ -13760,7 +13768,8 @@
         "pt": "Mostrando {1}–{2} de {3}",
         "ko": "{3}개 중 {1}–{2} 표시",
         "fr": "Affichage {1}–{2} sur {3}",
-        "tr": "{3} kayıttan {1}–{2} arası gösteriliyor"
+        "tr": "{3} kayıttan {1}–{2} arası gösteriliyor",
+        "zh-CN": "显示第 {1}–{2} 项，共 {3} 项"
       }
     },
     {
@@ -13771,7 +13780,8 @@
         "pt": "Página {1}",
         "ko": "{1}페이지",
         "fr": "Page {1}",
-        "tr": "Sayfa {1}"
+        "tr": "Sayfa {1}",
+        "zh-CN": "第 {1} 页"
       }
     },
     {
@@ -13782,7 +13792,8 @@
         "pt": "Você está na página {1}",
         "ko": "현재 {1}페이지",
         "fr": "Vous êtes sur la page {1}",
-        "tr": "Şu anda sayfa {1}'desiniz"
+        "tr": "Şu anda sayfa {1}'desiniz",
+        "zh-CN": "您当前位于第 {1} 页"
       }
     },
     {
@@ -13793,7 +13804,8 @@
         "pt": "há {1} hora(s)",
         "ko": "{1}시간 전",
         "fr": "il y a {1} heures",
-        "tr": "{1} saat önce"
+        "tr": "{1} saat önce",
+        "zh-CN": "{1} 小时前"
       }
     },
     {
@@ -13804,7 +13816,8 @@
         "pt": "há {1} minuto(s)",
         "ko": "{1}분 전",
         "fr": "il y a {1} minutes",
-        "tr": "{1} dakika önce"
+        "tr": "{1} dakika önce",
+        "zh-CN": "{1} 分钟前"
       }
     },
     {
@@ -13815,7 +13828,8 @@
         "pt": "há {1} dia(s)",
         "ko": "{1}일 전",
         "fr": "il y a {1} jours",
-        "tr": "{1} gün önce"
+        "tr": "{1} gün önce",
+        "zh-CN": "{1} 天前"
       }
     },
     {
@@ -13826,7 +13840,8 @@
         "pt": "últimos {1} dias",
         "ko": "최근 {1}일",
         "fr": "derniers {1} jours",
-        "tr": "son {1} gün"
+        "tr": "son {1} gün",
+        "zh-CN": "最近 {1} 天"
       }
     },
     {
@@ -13837,7 +13852,8 @@
         "pt": "{1} jan",
         "ko": "1월 {1}일",
         "fr": "{1} janvier",
-        "tr": "{1} oca"
+        "tr": "{1} oca",
+        "zh-CN": "1月 {1} 日"
       }
     },
     {
@@ -13848,7 +13864,8 @@
         "pt": "{1} fev",
         "ko": "2월 {1}일",
         "fr": "{1} février",
-        "tr": "{1} şub"
+        "tr": "{1} şub",
+        "zh-CN": "2月 {1} 日"
       }
     },
     {
@@ -13859,7 +13876,8 @@
         "pt": "{1} mar",
         "ko": "3월 {1}일",
         "fr": "{1} mars",
-        "tr": "{1} mar"
+        "tr": "{1} mar",
+        "zh-CN": "3月 {1} 日"
       }
     },
     {
@@ -13870,7 +13888,8 @@
         "pt": "{1} abr",
         "ko": "4월 {1}일",
         "fr": "{1} avril",
-        "tr": "{1} nis"
+        "tr": "{1} nis",
+        "zh-CN": "4月 {1} 日"
       }
     },
     {
@@ -13881,7 +13900,8 @@
         "pt": "{1} mai",
         "ko": "5월 {1}일",
         "fr": "{1} mai",
-        "tr": "{1} may"
+        "tr": "{1} may",
+        "zh-CN": "5月 {1} 日"
       }
     },
     {
@@ -13892,7 +13912,8 @@
         "pt": "{1} jun",
         "ko": "6월 {1}일",
         "fr": "{1} juin",
-        "tr": "{1} haz"
+        "tr": "{1} haz",
+        "zh-CN": "6月 {1} 日"
       }
     },
     {
@@ -13903,7 +13924,8 @@
         "pt": "{1} jul",
         "ko": "7월 {1}일",
         "fr": "{1} juillet",
-        "tr": "{1} tem"
+        "tr": "{1} tem",
+        "zh-CN": "7月 {1} 日"
       }
     },
     {
@@ -13914,7 +13936,8 @@
         "pt": "{1} ago",
         "ko": "8월 {1}일",
         "fr": "{1} août",
-        "tr": "{1} ağu"
+        "tr": "{1} ağu",
+        "zh-CN": "8月 {1} 日"
       }
     },
     {
@@ -13925,7 +13948,8 @@
         "pt": "{1} set",
         "ko": "9월 {1}일",
         "fr": "{1} septembre",
-        "tr": "{1} eyl"
+        "tr": "{1} eyl",
+        "zh-CN": "9月 {1} 日"
       }
     },
     {
@@ -13936,7 +13960,8 @@
         "pt": "{1} out",
         "ko": "10월 {1}일",
         "fr": "{1} octobre",
-        "tr": "{1} eki"
+        "tr": "{1} eki",
+        "zh-CN": "10月 {1} 日"
       }
     },
     {
@@ -13947,7 +13972,8 @@
         "pt": "{1} nov",
         "ko": "11월 {1}일",
         "fr": "{1} novembre",
-        "tr": "{1} kas"
+        "tr": "{1} kas",
+        "zh-CN": "11月 {1} 日"
       }
     },
     {
@@ -13958,7 +13984,8 @@
         "pt": "{1} dez",
         "ko": "12월 {1}일",
         "fr": "{1} décembre",
-        "tr": "{1} ara"
+        "tr": "{1} ara",
+        "zh-CN": "12月 {1} 日"
       }
     },
     {
@@ -13969,7 +13996,8 @@
         "pt": "Última sessão há menos de {1} horas",
         "ko": "마지막 세션이 {1}시간 미만 전",
         "fr": "Dernière session il y a moins de {1} heures",
-        "tr": "Son oturum {1} saatten daha yakın"
+        "tr": "Son oturum {1} saatten daha yakın",
+        "zh-CN": "最近会话不到 {1} 小时前"
       }
     },
     {
@@ -13980,7 +14008,8 @@
         "pt": "Última sessão há mais de {1} horas",
         "ko": "마지막 세션이 {1}시간 이상 전",
         "fr": "Dernière session il y a plus de {1} heures",
-        "tr": "Son oturum {1} saatten daha eski"
+        "tr": "Son oturum {1} saatten daha eski",
+        "zh-CN": "最近会话超过 {1} 小时前"
       }
     },
     {
@@ -13991,7 +14020,8 @@
         "pt": "Contagem de sessões maior que {1}",
         "ko": "세션 수가 {1}회 초과",
         "fr": "Nombre de sessions supérieur à {1}",
-        "tr": "Oturum sayısı {1}'den fazla"
+        "tr": "Oturum sayısı {1}'den fazla",
+        "zh-CN": "会话数超过 {1}"
       }
     },
     {
@@ -14002,7 +14032,8 @@
         "pt": "{1}% das mensagens enviadas",
         "ko": "메시지의 {1}% 발송됨",
         "fr": "{1} % des messages envoyés",
-        "tr": "%{1} mesaj gönderildi"
+        "tr": "%{1} mesaj gönderildi",
+        "zh-CN": "{1}% 的消息已发送"
       }
     },
     {
@@ -14013,7 +14044,8 @@
         "pt": "Com um limite de ~{1} por minuto.",
         "ko": "분당 ~{1}건 제한.",
         "fr": "Avec une limite de ~{1} par minute.",
-        "tr": "Dakikada ~{1} sınırıyla."
+        "tr": "Dakikada ~{1} sınırıyla.",
+        "zh-CN": "限制为每分钟约 {1} 条。"
       }
     },
     {
@@ -14024,7 +14056,8 @@
         "pt": "{1} jan",
         "ko": "1월 {1}일",
         "fr": "{1} janv",
-        "tr": "{1} oca"
+        "tr": "{1} oca",
+        "zh-CN": "1月 {1} 日"
       }
     },
     {
@@ -14035,7 +14068,8 @@
         "pt": "{1} fev",
         "ko": "2월 {1}일",
         "fr": "{1} fév",
-        "tr": "{1} şub"
+        "tr": "{1} şub",
+        "zh-CN": "2月 {1} 日"
       }
     },
     {
@@ -14046,7 +14080,8 @@
         "pt": "{1} mar",
         "ko": "3월 {1}일",
         "fr": "{1} mars",
-        "tr": "{1} mar"
+        "tr": "{1} mar",
+        "zh-CN": "3月 {1} 日"
       }
     },
     {
@@ -14057,7 +14092,8 @@
         "pt": "{1} abr",
         "ko": "4월 {1}일",
         "fr": "{1} avr",
-        "tr": "{1} nis"
+        "tr": "{1} nis",
+        "zh-CN": "4月 {1} 日"
       }
     },
     {
@@ -14068,7 +14104,8 @@
         "pt": "{1} mai",
         "ko": "5월 {1}일",
         "fr": "{1} mai",
-        "tr": "{1} may"
+        "tr": "{1} may",
+        "zh-CN": "5月 {1} 日"
       }
     },
     {
@@ -14079,7 +14116,8 @@
         "pt": "{1} jun",
         "ko": "6월 {1}일",
         "fr": "{1} juin",
-        "tr": "{1} haz"
+        "tr": "{1} haz",
+        "zh-CN": "6月 {1} 日"
       }
     },
     {
@@ -14090,7 +14128,8 @@
         "pt": "{1} jul",
         "ko": "7월 {1}일",
         "fr": "{1} juil",
-        "tr": "{1} tem"
+        "tr": "{1} tem",
+        "zh-CN": "7月 {1} 日"
       }
     },
     {
@@ -14101,7 +14140,8 @@
         "pt": "{1} ago",
         "ko": "8월 {1}일",
         "fr": "{1} août",
-        "tr": "{1} ağu"
+        "tr": "{1} ağu",
+        "zh-CN": "8月 {1} 日"
       }
     },
     {
@@ -14112,7 +14152,8 @@
         "pt": "{1} set",
         "ko": "9월 {1}일",
         "fr": "{1} sept",
-        "tr": "{1} eyl"
+        "tr": "{1} eyl",
+        "zh-CN": "9月 {1} 日"
       }
     },
     {
@@ -14123,7 +14164,8 @@
         "pt": "{1} out",
         "ko": "10월 {1}일",
         "fr": "{1} oct",
-        "tr": "{1} eki"
+        "tr": "{1} eki",
+        "zh-CN": "10月 {1} 日"
       }
     },
     {
@@ -14134,7 +14176,8 @@
         "pt": "{1} nov",
         "ko": "11월 {1}일",
         "fr": "{1} nov",
-        "tr": "{1} kas"
+        "tr": "{1} kas",
+        "zh-CN": "11月 {1} 日"
       }
     },
     {
@@ -14145,7 +14188,8 @@
         "pt": "{1} dez",
         "ko": "12월 {1}일",
         "fr": "{1} déc",
-        "tr": "{1} ara"
+        "tr": "{1} ara",
+        "zh-CN": "12月 {1} 日"
       }
     },
     {
@@ -14156,7 +14200,8 @@
         "pt": "Ativo ({1})",
         "ko": "활성 ({1})",
         "fr": "Actif ({1})",
-        "tr": "Aktif ({1})"
+        "tr": "Aktif ({1})",
+        "zh-CN": "活跃 ({1})"
       }
     },
     {
@@ -14167,7 +14212,8 @@
         "pt": "Tudo ({1})",
         "ko": "전체 ({1})",
         "fr": "Tout ({1})",
-        "tr": "Tümü ({1})"
+        "tr": "Tümü ({1})",
+        "zh-CN": "全部 ({1})"
       }
     },
     {
@@ -14178,7 +14224,8 @@
         "pt": "Desabilitado ({1})",
         "ko": "비활성화됨 ({1})",
         "fr": "Désactivé ({1})",
-        "tr": "Devre dışı ({1})"
+        "tr": "Devre dışı ({1})",
+        "zh-CN": "已禁用 ({1})"
       }
     },
     {
@@ -14189,7 +14236,8 @@
         "pt": "Inativo ({1})",
         "ko": "비활성 ({1})",
         "fr": "Inactif ({1})",
-        "tr": "Pasif ({1})"
+        "tr": "Pasif ({1})",
+        "zh-CN": "不活跃 ({1})"
       }
     },
     {
@@ -14200,7 +14248,8 @@
         "pt": "há mais de {1} dias",
         "ko": "{1}일 이전",
         "fr": "il y a plus de {1} jours",
-        "tr": "{1} günden daha eski"
+        "tr": "{1} günden daha eski",
+        "zh-CN": "{1} 天前以上"
       }
     },
     {
@@ -14211,7 +14260,8 @@
         "pt": "{1} resultados disponíveis.",
         "ko": "{1}개의 결과가 있습니다.",
         "fr": "{1} résultats disponibles.",
-        "tr": "{1} sonuç mevcut."
+        "tr": "{1} sonuç mevcut.",
+        "zh-CN": "{1} 条结果可用。"
       }
     },
     {
@@ -14222,7 +14272,8 @@
         "pt": "Rótulos ({1}/{2})",
         "ko": "라벨 ({1}/{2})",
         "fr": "Étiquettes ({1}/{2})",
-        "tr": "Etiketler ({1}/{2})"
+        "tr": "Etiketler ({1}/{2})",
+        "zh-CN": "标签 ({1}/{2})"
       }
     },
     {
@@ -14233,7 +14284,8 @@
         "pt": "Captura de tela do modelo de design de email {1}",
         "ko": "{1} 이메일 디자인 템플릿 스크린샷",
         "fr": "Capture d'écran du modèle de design email {1}",
-        "tr": "{1} email tasarım şablonunun ekran görüntüsü"
+        "tr": "{1} email tasarım şablonunun ekran görüntüsü",
+        "zh-CN": "{1} Email 设计模板的截图"
       }
     },
     {
@@ -14244,7 +14296,8 @@
         "pt": "Captura de tela do modelo de design in-app {1}",
         "ko": "{1} 인앱 디자인 템플릿 스크린샷",
         "fr": "Capture d'écran du modèle de design in-app {1}",
-        "tr": "{1} in-app tasarım şablonunun ekran görüntüsü"
+        "tr": "{1} in-app tasarım şablonunun ekran görüntüsü",
+        "zh-CN": "{1} 应用内设计模板的截图"
       }
     },
     {
@@ -14255,7 +14308,8 @@
         "pt": "Captura de tela do modelo de design SMS {1}",
         "ko": "{1} SMS 디자인 템플릿 스크린샷",
         "fr": "Capture d'écran du modèle de design SMS {1}",
-        "tr": "{1} SMS tasarım şablonunun ekran görüntüsü"
+        "tr": "{1} SMS tasarım şablonunun ekran görüntüsü",
+        "zh-CN": "{1} SMS 设计模板的截图"
       }
     },
     {
@@ -14266,7 +14320,8 @@
         "pt": "Gráfico de barras com {1} barras.",
         "ko": "{1}개의 막대가 있는 막대 차트.",
         "fr": "Graphique à barres avec {1} barres.",
-        "tr": "{1} sütunlu çubuk grafik."
+        "tr": "{1} sütunlu çubuk grafik.",
+        "zh-CN": "包含 {1} 个柱形的条形图。"
       }
     },
     {
@@ -14277,7 +14332,8 @@
         "pt": "Plataformas ({1}/{2} selecionadas)",
         "ko": "플랫폼 ({1}/{2}개 선택됨)",
         "fr": "Plateformes ({1}/{2} sélectionnées)",
-        "tr": "Platformlar ({1}/{2} seçildi)"
+        "tr": "Platformlar ({1}/{2} seçildi)",
+        "zh-CN": "平台（已选择 {1}/{2}）"
       }
     },
     {
@@ -14288,7 +14344,8 @@
         "pt": "Primeira sessão há menos de {1} horas",
         "ko": "첫 번째 세션이 {1}시간 미만 전",
         "fr": "Première session il y a moins de {1} heures",
-        "tr": "İlk oturum {1} saatten daha yakın"
+        "tr": "İlk oturum {1} saatten daha yakın",
+        "zh-CN": "首次会话不到 {1} 小时前"
       }
     },
     {
@@ -14299,7 +14356,8 @@
         "pt": "há {1} mês(es)",
         "ko": "{1}개월 전",
         "fr": "il y a {1} mois",
-        "tr": "{1} ay önce"
+        "tr": "{1} ay önce",
+        "zh-CN": "{1} 个月前"
       }
     },
     {
@@ -14310,7 +14368,8 @@
         "pt": "{1}/{2} caracteres usados (estimado)",
         "ko": "{1}/{2}자 사용 (추정)",
         "fr": "{1}/{2} caractères utilisés (estimé)",
-        "tr": "{1}/{2} karakter kullanıldı (tahmini)"
+        "tr": "{1}/{2} karakter kullanıldı (tahmini)",
+        "zh-CN": "已使用 {1}/{2} 个字符（估计）"
       }
     },
     {
@@ -14321,7 +14380,8 @@
         "pt": "{1} por dia)",
         "ko": "{1}/일)",
         "fr": "{1} par jour)",
-        "tr": "günde {1})"
+        "tr": "günde {1})",
+        "zh-CN": "每天 {1}）"
       }
     },
     {
@@ -14332,7 +14392,8 @@
         "pt": "{1} por hora)",
         "ko": "{1}/시간)",
         "fr": "{1} par heure)",
-        "tr": "saatte {1})"
+        "tr": "saatte {1})",
+        "zh-CN": "每小时 {1}）"
       }
     },
     {
@@ -14343,7 +14404,8 @@
         "pt": "{1} por minuto)",
         "ko": "{1}/분)",
         "fr": "{1} par minute)",
-        "tr": "dakikada {1})"
+        "tr": "dakikada {1})",
+        "zh-CN": "每分钟 {1}）"
       }
     },
     {
@@ -14354,7 +14416,8 @@
         "pt": "{1} por segundo)",
         "ko": "{1}/초)",
         "fr": "{1} par seconde)",
-        "tr": "saniyede {1})"
+        "tr": "saniyede {1})",
+        "zh-CN": "每秒 {1}）"
       }
     },
     {
@@ -14365,7 +14428,8 @@
         "pt": "{1} por semana)",
         "ko": "{1}/주)",
         "fr": "{1} par semaine)",
-        "tr": "haftada {1})"
+        "tr": "haftada {1})",
+        "zh-CN": "每周 {1}）"
       }
     },
     {
@@ -14376,7 +14440,8 @@
         "pt": "{1} por mês)",
         "ko": "{1}/월)",
         "fr": "{1} par mois)",
-        "tr": "ayda {1})"
+        "tr": "ayda {1})",
+        "zh-CN": "每月 {1}）"
       }
     },
     {
@@ -14387,7 +14452,8 @@
         "pt": "{1} por dia",
         "ko": "{1}/일",
         "fr": "{1} par jour",
-        "tr": "günde {1}"
+        "tr": "günde {1}",
+        "zh-CN": "每天 {1}"
       }
     },
     {
@@ -14398,7 +14464,8 @@
         "pt": "{1} por hora",
         "ko": "{1}/시간",
         "fr": "{1} par heure",
-        "tr": "saatte {1}"
+        "tr": "saatte {1}",
+        "zh-CN": "每小时 {1}"
       }
     },
     {
@@ -14409,7 +14476,8 @@
         "pt": "{1} por minuto",
         "ko": "{1}/분",
         "fr": "{1} par minute",
-        "tr": "dakikada {1}"
+        "tr": "dakikada {1}",
+        "zh-CN": "每分钟 {1}"
       }
     },
     {
@@ -14420,7 +14488,8 @@
         "pt": "{1} por segundo",
         "ko": "{1}/초",
         "fr": "{1} par seconde",
-        "tr": "saniyede {1}"
+        "tr": "saniyede {1}",
+        "zh-CN": "每秒 {1}"
       }
     },
     {
@@ -14431,7 +14500,8 @@
         "pt": "{1} por semana",
         "ko": "{1}/주",
         "fr": "{1} par semaine",
-        "tr": "haftada {1}"
+        "tr": "haftada {1}",
+        "zh-CN": "每周 {1}"
       }
     },
     {
@@ -14442,7 +14512,8 @@
         "pt": "{1} por mês",
         "ko": "{1}/월",
         "fr": "{1} par mois",
-        "tr": "ayda {1}"
+        "tr": "ayda {1}",
+        "zh-CN": "每月 {1}"
       }
     },
     {
@@ -14453,7 +14524,8 @@
         "pt": "Primeira sessão há mais de {1} horas",
         "ko": "첫 번째 세션이 {1}시간 이상 전",
         "fr": "Première session il y a plus de {1} heures",
-        "tr": "İlk oturum {1} saatten daha eski"
+        "tr": "İlk oturum {1} saatten daha eski",
+        "zh-CN": "首次会话超过 {1} 小时前"
       }
     },
     {
@@ -14464,7 +14536,8 @@
         "pt": "Mostrando logs de auditoria de {1} até agora",
         "ko": "{1}부터 현재까지의 감사 로그 표시",
         "fr": "Affichage des journaux d'audit de {1} à maintenant",
-        "tr": "{1} tarihinden şimdiye kadar denetim günlükleri gösteriliyor"
+        "tr": "{1} tarihinden şimdiye kadar denetim günlükleri gösteriliyor",
+        "zh-CN": "显示从 {1} 至今的审计日志"
       }
     }
   ]
