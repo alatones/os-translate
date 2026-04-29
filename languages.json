@@ -3165,7 +3165,8 @@
       "pt": "Pausado",
       "ko": "일시 정지됨",
       "fr": "Suspendu",
-      "tr": "Duraklatıldı"
+      "tr": "Duraklatıldı",
+      "zh-CN": "已暂停"
     },
     "per page": {
       "es": "por página",
@@ -3173,7 +3174,8 @@
       "pt": "por página",
       "ko": "페이지당",
       "fr": "par page",
-      "tr": "sayfa başına"
+      "tr": "sayfa başına",
+      "zh-CN": "每页"
     },
     "Percentage": {
       "es": "Porcentaje",
@@ -3181,7 +3183,8 @@
       "pt": "Percentual",
       "ko": "비율",
       "fr": "Pourcentage",
-      "tr": "Yüzde"
+      "tr": "Yüzde",
+      "zh-CN": "百分比"
     },
     "Phone Number": {
       "es": "Número de teléfono",
@@ -3189,7 +3192,8 @@
       "pt": "Número de telefone",
       "ko": "전화번호",
       "fr": "Numéro de téléphone",
-      "tr": "Telefon numarası"
+      "tr": "Telefon numarası",
+      "zh-CN": "电话号码"
     },
     "Phone number": {
       "es": "Número de teléfono",
@@ -3197,7 +3201,8 @@
       "pt": "Número de telefone",
       "ko": "전화번호",
       "fr": "Numéro de téléphone",
-      "tr": "Telefon numarası"
+      "tr": "Telefon numarası",
+      "zh-CN": "电话号码"
     },
     "Plan": {
       "es": "Plan",
@@ -3205,7 +3210,8 @@
       "pt": "Plano",
       "ko": "플랜",
       "fr": "Plan",
-      "tr": "Plan"
+      "tr": "Plan",
+      "zh-CN": "套餐"
     },
     "Platform": {
       "es": "Plataforma",
@@ -3213,7 +3219,8 @@
       "pt": "Plataforma",
       "ko": "플랫폼",
       "fr": "Plateforme",
-      "tr": "Platform"
+      "tr": "Platform",
+      "zh-CN": "平台"
     },
     "Platforms": {
       "es": "Plataformas",
@@ -3221,7 +3228,8 @@
       "pt": "Plataformas",
       "ko": "플랫폼",
       "fr": "Plateformes",
-      "tr": "Platformlar"
+      "tr": "Platformlar",
+      "zh-CN": "平台"
     },
     "Platforms set up and message settings": {
       "es": "Configuración de plataformas y mensajes",
@@ -3229,7 +3237,8 @@
       "pt": "Configuração de plataformas e mensagens",
       "ko": "플랫폼 설정 및 메시지 설정",
       "fr": "Configuration des plateformes et paramètres de messages",
-      "tr": "Platform kurulumu ve mesaj ayarları"
+      "tr": "Platform kurulumu ve mesaj ayarları",
+      "zh-CN": "平台设置和消息设置"
     },
     "Preheader": {
       "es": "Encabezado previo",
@@ -3237,7 +3246,8 @@
       "pt": "Pré-cabeçalho",
       "ko": "프리헤더",
       "fr": "Pré-en-tête",
-      "tr": "Ön başlık"
+      "tr": "Ön başlık",
+      "zh-CN": "预览头"
     },
     "Prev": {
       "es": "Anterior",
@@ -3245,7 +3255,8 @@
       "pt": "Anterior",
       "ko": "이전",
       "fr": "Préc",
-      "tr": "Önc"
+      "tr": "Önc",
+      "zh-CN": "上"
     },
     "Preview": {
       "es": "Vista previa",
@@ -3253,7 +3264,8 @@
       "pt": "Visualizar",
       "ko": "미리보기",
       "fr": "Aperçu",
-      "tr": "Önizleme"
+      "tr": "Önizleme",
+      "zh-CN": "预览"
     },
     "Previous": {
       "es": "Anterior",
@@ -3261,7 +3273,8 @@
       "pt": "Anterior",
       "ko": "이전",
       "fr": "Précédent",
-      "tr": "Önceki"
+      "tr": "Önceki",
+      "zh-CN": "上一步"
     },
     "Previous page": {
       "es": "Página anterior",
@@ -3269,7 +3282,8 @@
       "pt": "Página anterior",
       "ko": "이전 페이지",
       "fr": "Page précédente",
-      "tr": "Önceki sayfa"
+      "tr": "Önceki sayfa",
+      "zh-CN": "上一页"
     },
     "Priority": {
       "es": "Prioridad",
@@ -3277,7 +3291,8 @@
       "pt": "Prioridade",
       "ko": "우선순위",
       "fr": "Priorité",
-      "tr": "Öncelik"
+      "tr": "Öncelik",
+      "zh-CN": "优先级"
     },
     "Processed Events": {
       "es": "Eventos procesados",
@@ -3285,7 +3300,8 @@
       "pt": "Eventos processados",
       "ko": "처리된 이벤트",
       "fr": "Événements traités",
-      "tr": "İşlenen etkinlikler"
+      "tr": "İşlenen etkinlikler",
+      "zh-CN": "已处理事件"
     },
     "Processing": {
       "es": "Procesando",
@@ -3293,7 +3309,8 @@
       "pt": "Processando",
       "ko": "처리 중",
       "fr": "Traitement",
-      "tr": "İşleniyor"
+      "tr": "İşleniyor",
+      "zh-CN": "处理中"
     },
     "Profile": {
       "es": "Perfil",
@@ -3301,7 +3318,8 @@
       "pt": "Perfil",
       "ko": "프로필",
       "fr": "Profil",
-      "tr": "Profil"
+      "tr": "Profil",
+      "zh-CN": "个人资料"
     },
     "Promotional": {
       "es": "Promocional",
@@ -3309,7 +3327,8 @@
       "pt": "Promocional",
       "ko": "프로모션",
       "fr": "Promotionnel",
-      "tr": "Promosyon"
+      "tr": "Promosyon",
+      "zh-CN": "营销"
     },
     "Publish": {
       "es": "Publicar",
@@ -3317,7 +3336,8 @@
       "pt": "Publicar",
       "ko": "게시",
       "fr": "Publier",
-      "tr": "Yayınla"
+      "tr": "Yayınla",
+      "zh-CN": "发布"
     },
     "Purchases": {
       "es": "Compras",
@@ -3325,7 +3345,8 @@
       "pt": "Compras",
       "ko": "구매",
       "fr": "Achats",
-      "tr": "Satın almalar"
+      "tr": "Satın almalar",
+      "zh-CN": "购买"
     },
     "Push": {
       "es": "Push",
@@ -3333,7 +3354,8 @@
       "pt": "Push",
       "ko": "푸시",
       "fr": "Push",
-      "tr": "Push"
+      "tr": "Push",
+      "zh-CN": "Push"
     },
     "Push & In-App": {
       "es": "Push e In-App",
@@ -3341,7 +3363,8 @@
       "pt": "Push e In-App",
       "ko": "푸시 및 인앱",
       "fr": "Push et In-App",
-      "tr": "Push ve In-App"
+      "tr": "Push ve In-App",
+      "zh-CN": "Push 和 In-App"
     },
     "Push Notifications": {
       "es": "Notificaciones push",
@@ -3349,7 +3372,8 @@
       "pt": "Notificações push",
       "ko": "푸시 알림",
       "fr": "Notifications push",
-      "tr": "Push bildirimleri"
+      "tr": "Push bildirimleri",
+      "zh-CN": "Push 通知"
     },
     "Push token": {
       "es": "Token push",
@@ -3357,7 +3381,8 @@
       "pt": "Token push",
       "ko": "푸시 토큰",
       "fr": "Token push",
-      "tr": "Push token"
+      "tr": "Push token",
+      "zh-CN": "Push 令牌"
     },
     "Queued": {
       "es": "En cola",
@@ -3365,7 +3390,8 @@
       "pt": "Na fila",
       "ko": "대기 중",
       "fr": "En file d'attente",
-      "tr": "Kuyrukta"
+      "tr": "Kuyrukta",
+      "zh-CN": "已排队"
     },
     "Quickstart your Journey": {
       "es": "Inicia rápidamente tu Journey",
@@ -3373,7 +3399,8 @@
       "pt": "Inicie rapidamente seu Journey",
       "ko": "저니 빠른 시작",
       "fr": "Démarrer rapidement votre Journey",
-      "tr": "Journey'inizi hızlıca başlatın"
+      "tr": "Journey'inizi hızlıca başlatın",
+      "zh-CN": "快速启动您的 Journey"
     },
     "Reach targeted audience based on user properties or events from data tags": {
       "es": "Alcanza audiencias específicas según propiedades o eventos de etiquetas de datos",
@@ -3381,7 +3408,8 @@
       "pt": "Alcance público segmentado com base em propriedades ou eventos de data tags",
       "ko": "데이터 태그의 사용자 속성 또는 이벤트를 기반으로 대상에게 도달하세요",
       "fr": "Atteignez une audience ciblée selon les propriétés des utilisateurs ou les événements des tags de données",
-      "tr": "Kullanıcı özellikleri veya veri etiketlerinden gelen etkinliklere göre hedef kitleye ulaşın"
+      "tr": "Kullanıcı özellikleri veya veri etiketlerinden gelen etkinliklere göre hedef kitleye ulaşın",
+      "zh-CN": "根据用户属性或数据标签事件触达目标受众"
     },
     "Real-time data for timely messages": {
       "es": "Datos en tiempo real para mensajes oportunos",
@@ -3389,7 +3417,8 @@
       "pt": "Dados em tempo real para mensagens oportunas",
       "ko": "시의적절한 메시지를 위한 실시간 데이터",
       "fr": "Données en temps réel pour des messages opportuns",
-      "tr": "Zamanında mesajlar için gerçek zamanlı veriler"
+      "tr": "Zamanında mesajlar için gerçek zamanlı veriler",
+      "zh-CN": "实时数据助力及时消息"
     },
     "Received Events": {
       "es": "Eventos recibidos",
@@ -3397,7 +3426,8 @@
       "pt": "Eventos recebidos",
       "ko": "수신된 이벤트",
       "fr": "Événements reçus",
-      "tr": "Alınan etkinlikler"
+      "tr": "Alınan etkinlikler",
+      "zh-CN": "已接收事件"
     },
     "Recipients": {
       "es": "Destinatarios",
@@ -3405,7 +3435,8 @@
       "pt": "Destinatários",
       "ko": "수신자",
       "fr": "Destinataires",
-      "tr": "Alıcılar"
+      "tr": "Alıcılar",
+      "zh-CN": "收件人"
     },
     "Refresh List": {
       "es": "Actualizar lista",
@@ -3413,7 +3444,8 @@
       "pt": "Atualizar lista",
       "ko": "목록 새로 고침",
       "fr": "Actualiser la liste",
-      "tr": "Listeyi yenile"
+      "tr": "Listeyi yenile",
+      "zh-CN": "刷新列表"
     },
     "Regional Audience": {
       "es": "Audiencia regional",
@@ -3421,7 +3453,8 @@
       "pt": "Público regional",
       "ko": "지역 대상",
       "fr": "Audience régionale",
-      "tr": "Bölgesel hedef kitle"
+      "tr": "Bölgesel hedef kitle",
+      "zh-CN": "区域受众"
     },
     "Relative:": {
       "es": "Relativa:",
@@ -3429,7 +3462,8 @@
       "pt": "Relativa:",
       "ko": "상대적:",
       "fr": "Relatif :",
-      "tr": "Göreli:"
+      "tr": "Göreli:",
+      "zh-CN": "相对:"
     },
     "Remove": {
       "es": "Quitar",
@@ -3437,7 +3471,8 @@
       "pt": "Remover",
       "ko": "제거",
       "fr": "Retirer",
-      "tr": "Kaldır"
+      "tr": "Kaldır",
+      "zh-CN": "移除"
     },
     "Reply-To Address": {
       "es": "Dirección de respuesta",
@@ -3445,7 +3480,8 @@
       "pt": "Endereço de resposta",
       "ko": "회신 주소",
       "fr": "Adresse de réponse",
-      "tr": "Yanıt adresi"
+      "tr": "Yanıt adresi",
+      "zh-CN": "回复地址"
     },
     "Report": {
       "es": "Informe",
@@ -3453,7 +3489,8 @@
       "pt": "Relatório",
       "ko": "보고서",
       "fr": "Rapport",
-      "tr": "Rapor"
+      "tr": "Rapor",
+      "zh-CN": "报告"
     },
     "Required": {
       "es": "Obligatorio",
@@ -3461,7 +3498,8 @@
       "pt": "Obrigatório",
       "ko": "필수",
       "fr": "Obligatoire",
-      "tr": "Zorunlu"
+      "tr": "Zorunlu",
+      "zh-CN": "必填"
     },
     "Required field": {
       "es": "Campo obligatorio",
@@ -3469,7 +3507,8 @@
       "pt": "Campo obrigatório",
       "ko": "필수 항목",
       "fr": "Champ obligatoire",
-      "tr": "Zorunlu alan"
+      "tr": "Zorunlu alan",
+      "zh-CN": "必填字段"
     },
     "Resend": {
       "es": "Reenviar",
@@ -3477,7 +3516,8 @@
       "pt": "Reenviar",
       "ko": "재발송",
       "fr": "Renvoyer",
-      "tr": "Yeniden gönder"
+      "tr": "Yeniden gönder",
+      "zh-CN": "重新发送"
     },
     "REST API Key": {
       "es": "Clave REST API",
@@ -3485,7 +3525,8 @@
       "pt": "Chave REST API",
       "ko": "REST API 키",
       "fr": "Clé d'API REST",
-      "tr": "REST API anahtarı"
+      "tr": "REST API anahtarı",
+      "zh-CN": "REST API 密钥"
     },
     "Results": {
       "es": "Resultados",
@@ -3493,7 +3534,8 @@
       "pt": "Resultados",
       "ko": "결과",
       "fr": "Résultats",
-      "tr": "Sonuçlar"
+      "tr": "Sonuçlar",
+      "zh-CN": "结果"
     },
     "Resume": {
       "es": "Reanudar",
@@ -3501,7 +3543,8 @@
       "pt": "Retomar",
       "ko": "재개",
       "fr": "Reprendre",
-      "tr": "Devam ettir"
+      "tr": "Devam ettir",
+      "zh-CN": "继续"
     },
     "Role": {
       "es": "Rol",
@@ -3509,7 +3552,8 @@
       "pt": "Função",
       "ko": "역할",
       "fr": "Rôle",
-      "tr": "Rol"
+      "tr": "Rol",
+      "zh-CN": "角色"
     },
     "Rooted": {
       "es": "Rooteado",
@@ -3517,7 +3561,8 @@
       "pt": "Com root",
       "ko": "루팅됨",
       "fr": "Rooté",
-      "tr": "Root'lu"
+      "tr": "Root'lu",
+      "zh-CN": "已 Root"
     },
     "rows per page": {
       "es": "filas por página",
@@ -3525,7 +3570,8 @@
       "pt": "linhas por página",
       "ko": "페이지당 행 수",
       "fr": "lignes par page",
-      "tr": "sayfa başına satır"
+      "tr": "sayfa başına satır",
+      "zh-CN": "每页行数"
     },
     "Safari": {
       "es": "Safari",
@@ -3533,7 +3579,8 @@
       "pt": "Safari",
       "ko": "사파리",
       "fr": "Safari",
-      "tr": "Safari"
+      "tr": "Safari",
+      "zh-CN": "Safari"
     },
     "Sat": {
       "es": "Sáb",
@@ -3541,7 +3588,8 @@
       "pt": "Sáb",
       "ko": "토",
       "fr": "Sam",
-      "tr": "Cmt"
+      "tr": "Cmt",
+      "zh-CN": "周六"
     },
     "Save": {
       "es": "Guardar",
@@ -3549,7 +3597,8 @@
       "pt": "Salvar",
       "ko": "저장",
       "fr": "Enregistrer",
-      "tr": "Kaydet"
+      "tr": "Kaydet",
+      "zh-CN": "保存"
     },
     "Save as Draft": {
       "es": "Guardar como borrador",
@@ -3557,7 +3606,8 @@
       "pt": "Salvar como rascunho",
       "ko": "초안으로 저장",
       "fr": "Enregistrer comme brouillon",
-      "tr": "Taslak olarak kaydet"
+      "tr": "Taslak olarak kaydet",
+      "zh-CN": "保存为草稿"
     },
     "Save Changes": {
       "es": "Guardar cambios",
