@@ -475,7 +475,7 @@
       "ko": "클릭률"
     },
     "Clicked": {
-      "es": "Clics",
+      "es": "Clicado",
       "ja": "クリック数",
       "pt": "Cliques",
       "ko": "클릭됨"
@@ -553,31 +553,31 @@
       "ko": "확인 수"
     },
     "Confirmed Delivered": {
-      "es": "Entregado confirmado",
+      "es": "Entrega confirmada",
       "ja": "受信確認済み",
       "pt": "Entregue confirmado",
       "ko": "수신 확인"
     },
     "Confirmed receipt": {
-      "es": "Recibo confirmado",
+      "es": "Recepción confirmada",
       "ja": "受信確認",
       "pt": "Recebimento confirmado",
       "ko": "수신 확인"
     },
     "Confirmed receipt CTR": {
-      "es": "CTR de recibo confirmado",
+      "es": "CTR de recepción confirmada",
       "ja": "受信確認後クリック率",
       "pt": "CTR de recebimento confirmado",
       "ko": "수신 확인 클릭률"
     },
     "Confirmed receipt rate": {
-      "es": "Tasa de recibo confirmado",
+      "es": "Tasa de recepción confirmada",
       "ja": "受信確認率",
       "pt": "Taxa de recebimento confirmado",
       "ko": "수신 확인율"
     },
     "Confirmed receipt:": {
-      "es": "Confirmaciones:",
+      "es": "Recepción confirmada:",
       "ja": "受信確認：",
       "pt": "Confirmações:",
       "ko": "수신 확인:"
@@ -2701,7 +2701,7 @@
       "ko": "클릭됨 표시"
     },
     "Show Confirmed receipt": {
-      "es": "Mostrar confirmaciones de recepción",
+      "es": "Mostrar recepción confirmada",
       "ja": "受信確認数を表示",
       "pt": "Mostrar confirmações de recebimento",
       "ko": "수신 확인 표시"
