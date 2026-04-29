@@ -8413,350 +8413,400 @@
       "es": "Programar fecha y hora de inicio",
       "pt": "Agendar data e hora de início",
       "ko": "시작 날짜 및 시간 예약",
-      "fr": "Planifier une date et heure de début"
+      "fr": "Planifier une date et heure de début",
+      "tr": "Başlangıç tarihi ve saati planla"
     },
     "Schedule an end date and time": {
       "ja": "終了日時を予約",
       "es": "Programar fecha y hora de fin",
       "pt": "Agendar data e hora de término",
       "ko": "종료 날짜 및 시간 예약",
-      "fr": "Planifier une date et heure de fin"
+      "fr": "Planifier une date et heure de fin",
+      "tr": "Bitiş tarihi ve saati planla"
     },
     "Set Live": {
       "ja": "ライブ化",
       "es": "Activar",
       "pt": "Ativar",
       "ko": "라이브 설정",
-      "fr": "Mettre en ligne"
+      "fr": "Mettre en ligne",
+      "tr": "Yayına al"
     },
     "Set a Journey Goal": {
       "ja": "ジャーニー目標を設定",
       "es": "Establecer un objetivo de Journey",
       "pt": "Definir uma meta de Journey",
       "ko": "저니 목표 설정",
-      "fr": "Définir un objectif de Journey"
+      "fr": "Définir un objectif de Journey",
+      "tr": "Journey hedefi belirle"
     },
     "Set a target metric to measure this": {
       "ja": "これを測定する目標指標を設定",
       "es": "Establecer una métrica objetivo para medir esto",
       "pt": "Definir uma métrica alvo para medir isso",
       "ko": "이를 측정할 목표 지표 설정",
-      "fr": "Définissez une métrique cible pour mesurer cela"
+      "fr": "Définissez une métrique cible pour mesurer cela",
+      "tr": "Bunu ölçmek için hedef metrik belirleyin"
     },
     "Start immediately": {
       "ja": "即時開始",
       "es": "Iniciar inmediatamente",
       "pt": "Iniciar imediatamente",
       "ko": "즉시 시작",
-      "fr": "Démarrer immédiatement"
+      "fr": "Démarrer immédiatement",
+      "tr": "Hemen başla"
     },
     "The journey is the reward.": {
       "ja": "ジャーニーそのものが報酬です。",
       "es": "El journey es la recompensa.",
       "pt": "O journey é a recompensa.",
       "ko": "여정 자체가 보상입니다.",
-      "fr": "Le parcours est la récompense."
+      "fr": "Le parcours est la récompense.",
+      "tr": "Yolculuğun kendisi ödüldür."
     },
     "They moved through the entire Journey": {
       "ja": "ジャーニー全体を通過したとき",
       "es": "Pasaron por todo el Journey",
       "pt": "Passaram por todo o Journey",
       "ko": "전체 저니를 통과했을 때",
-      "fr": "Ils ont parcouru le Journey en entier"
+      "fr": "Ils ont parcouru le Journey en entier",
+      "tr": "Tüm Journey'i tamamladılar"
     },
     "Users exit when they have moved through the full Journey.": {
       "ja": "ユーザーはジャーニー全体を通過したときに退出します。",
       "es": "Los usuarios salen cuando han pasado por todo el Journey.",
       "pt": "Os usuários saem quando passaram por todo o Journey.",
       "ko": "사용자는 전체 저니를 통과하면 종료됩니다.",
-      "fr": "Les utilisateurs sortent lorsqu'ils ont parcouru tout le Journey."
+      "fr": "Les utilisateurs sortent lorsqu'ils ont parcouru tout le Journey.",
+      "tr": "Kullanıcılar tüm Journey'i tamamladıklarında çıkarlar."
     },
     "Users exit when they match the rules you have set on a particular segment or condition.": {
       "ja": "ユーザーは特定のセグメントまたは条件に設定したルールに一致したときに退出します。",
       "es": "Los usuarios salen cuando coinciden con las reglas que has establecido en un segmento o condición particular.",
       "pt": "Os usuários saem quando correspondem às regras que você definiu em um segmento ou condição específica.",
       "ko": "사용자는 특정 세그먼트 또는 조건에 설정한 규칙과 일치하면 종료됩니다.",
-      "fr": "Les utilisateurs sortent lorsqu'ils correspondent aux règles que vous avez définies sur un segment ou une condition particulière."
+      "fr": "Les utilisateurs sortent lorsqu'ils correspondent aux règles que vous avez définies sur un segment ou une condition particulière.",
+      "tr": "Kullanıcılar, belirli bir segment veya koşulda belirlediğiniz kurallarla eşleştiğinde çıkarlar."
     },
     "When should users exit this Journey?": {
       "ja": "ユーザーはいつこのジャーニーを退出すべきですか？",
       "es": "¿Cuándo deberían los usuarios salir de este Journey?",
       "pt": "Quando os usuários devem sair deste Journey?",
       "ko": "사용자가 언제 이 저니를 종료해야 하나요?",
-      "fr": "Quand les utilisateurs doivent-ils sortir de ce Journey ?"
+      "fr": "Quand les utilisateurs doivent-ils sortir de ce Journey ?",
+      "tr": "Kullanıcılar bu Journey'den ne zaman çıkmalı?"
     },
     "Your Journey will be become active at a specific time and date.": {
       "ja": "ジャーニーは特定の日時にアクティブになります。",
       "es": "Tu Journey se activará en una fecha y hora específicas.",
       "pt": "Seu Journey ficará ativo em data e hora específicas.",
       "ko": "저니는 특정 날짜 및 시간에 활성화됩니다.",
-      "fr": "Votre Journey deviendra actif à une date et heure précises."
+      "fr": "Votre Journey deviendra actif à une date et heure précises.",
+      "tr": "Journey'iniz belirli bir tarih ve saatte aktif olacak."
     },
     "Your Journey will become active as soon as you set it live.": {
       "ja": "ジャーニーはライブ化するとすぐにアクティブになります。",
       "es": "Tu Journey se activará tan pronto como lo pongas en vivo.",
       "pt": "Seu Journey ficará ativo assim que você o tornar ativo.",
       "ko": "라이브로 설정하는 즉시 저니가 활성화됩니다.",
-      "fr": "Votre Journey deviendra actif dès que vous le mettrez en ligne."
+      "fr": "Votre Journey deviendra actif dès que vous le mettrez en ligne.",
+      "tr": "Journey'iniz yayına aldığınız anda aktif olacak."
     },
     "Your Journey will stay active indefinitely.": {
       "ja": "ジャーニーは無期限にアクティブのままです。",
       "es": "Tu Journey permanecerá activo indefinidamente.",
       "pt": "Seu Journey permanecerá ativo indefinidamente.",
       "ko": "저니는 무기한 활성 상태로 유지됩니다.",
-      "fr": "Votre Journey restera actif indéfiniment."
+      "fr": "Votre Journey restera actif indéfiniment.",
+      "tr": "Journey'iniz süresiz olarak aktif kalacak."
     },
     "Your Journey will stop on specific time and date.": {
       "ja": "ジャーニーは特定の日時に停止します。",
       "es": "Tu Journey se detendrá en una fecha y hora específicas.",
       "pt": "Seu Journey será interrompido em data e hora específicas.",
       "ko": "저니는 특정 날짜 및 시간에 중지됩니다.",
-      "fr": "Votre Journey s'arrêtera à une date et heure précises."
+      "fr": "Votre Journey s'arrêtera à une date et heure précises.",
+      "tr": "Journey'iniz belirli bir tarih ve saatte duracak."
     },
     "ends": {
       "ja": "終了",
       "es": "finaliza",
       "pt": "termina",
       "ko": "종료",
-      "fr": "se termine"
+      "fr": "se termine",
+      "tr": "biter"
     },
     "notification timer": {
       "ja": "通知タイマー",
       "es": "temporizador de notificación",
       "pt": "temporizador de notificação",
       "ko": "알림 타이머",
-      "fr": "minuteur de notification"
+      "fr": "minuteur de notification",
+      "tr": "bildirim zamanlayıcısı"
     },
     "starts": {
       "ja": "開始",
       "es": "comienza",
       "pt": "começa",
       "ko": "시작",
-      "fr": "commence"
+      "fr": "commence",
+      "tr": "başlar"
     },
     "Build your own Journey from the ground up.": {
       "ja": "独自のジャーニーをゼロから構築。",
       "es": "Construye tu propio Journey desde cero.",
       "pt": "Construa seu próprio Journey do zero.",
       "ko": "나만의 저니를 처음부터 구축하세요.",
-      "fr": "Construisez votre propre Journey de A à Z."
+      "fr": "Construisez votre propre Journey de A à Z.",
+      "tr": "Kendi Journey'inizi sıfırdan oluşturun."
     },
     "Choose a Journey to start": {
       "ja": "開始するジャーニーを選択",
       "es": "Elige un Journey para empezar",
       "pt": "Escolha um Journey para começar",
       "ko": "시작할 저니 선택",
-      "fr": "Choisissez un Journey pour commencer"
+      "fr": "Choisissez un Journey pour commencer",
+      "tr": "Başlamak için bir Journey seçin"
     },
     "Describe the purpose of this Journey...": {
       "ja": "このジャーニーの目的を記述...",
       "es": "Describe el propósito de este Journey...",
       "pt": "Descreva o propósito deste Journey...",
       "ko": "이 저니의 목적을 설명하세요...",
-      "fr": "Décrivez le but de ce Journey..."
+      "fr": "Décrivez le but de ce Journey...",
+      "tr": "Bu Journey'in amacını açıklayın..."
     },
     "Description": {
       "ja": "説明",
       "es": "Descripción",
       "pt": "Descrição",
       "ko": "설명",
-      "fr": "Description"
+      "fr": "Description",
+      "tr": "Açıklama"
     },
     "Journey Name": {
       "ja": "ジャーニー名",
       "es": "Nombre del Journey",
       "pt": "Nome do Journey",
       "ko": "저니 이름",
-      "fr": "Nom du Journey"
+      "fr": "Nom du Journey",
+      "tr": "Journey adı"
     },
     "My Journey": {
       "ja": "マイジャーニー",
       "es": "Mi Journey",
       "pt": "Meu Journey",
       "ko": "내 저니",
-      "fr": "Mon Journey"
+      "fr": "Mon Journey",
+      "tr": "Journey'im"
     },
     "Name and describe your Journey": {
       "ja": "ジャーニーに名前を付けて説明",
       "es": "Nombra y describe tu Journey",
       "pt": "Nomeie e descreva seu Journey",
       "ko": "저니의 이름을 짓고 설명하세요",
-      "fr": "Nommez et décrivez votre Journey"
+      "fr": "Nommez et décrivez votre Journey",
+      "tr": "Journey'inize ad verin ve açıklayın"
     },
     "(v1)": {
       "ja": "(v1)",
       "es": "(v1)",
       "pt": "(v1)",
       "ko": "(v1)",
-      "fr": "(v1)"
+      "fr": "(v1)",
+      "tr": "(v1)"
     },
     "(v2)": {
       "ja": "(v2)",
       "es": "(v2)",
       "pt": "(v2)",
       "ko": "(v2)",
-      "fr": "(v2)"
+      "fr": "(v2)",
+      "tr": "(v2)"
     },
     "Consistent Naming": {
       "ja": "一貫した命名",
       "es": "Nomenclatura consistente",
       "pt": "Nomenclatura consistente",
       "ko": "일관된 이름 지정",
-      "fr": "Nommage cohérent"
+      "fr": "Nommage cohérent",
+      "tr": "Tutarlı adlandırma"
     },
     "Current user permissions do not allow this action.": {
       "ja": "現在のユーザー権限ではこの操作は許可されていません。",
       "es": "Los permisos del usuario actual no permiten esta acción.",
       "pt": "As permissões do usuário atual não permitem esta ação.",
       "ko": "현재 사용자 권한으로는 이 작업이 허용되지 않습니다.",
-      "fr": "Les autorisations de l'utilisateur actuel ne permettent pas cette action."
+      "fr": "Les autorisations de l'utilisateur actuel ne permettent pas cette action.",
+      "tr": "Mevcut kullanıcı izinleri bu işleme izin vermiyor."
     },
     "Legacy Format": {
       "ja": "レガシー形式",
       "es": "Formato heredado",
       "pt": "Formato antigo",
       "ko": "레거시 형식",
-      "fr": "Ancien format"
+      "fr": "Ancien format",
+      "tr": "Eski format"
     },
     "New Format": {
       "ja": "新しい形式",
       "es": "Formato nuevo",
       "pt": "Formato novo",
       "ko": "새 형식",
-      "fr": "Nouveau format"
+      "fr": "Nouveau format",
+      "tr": "Yeni format"
     },
     "Recommended": {
       "ja": "推奨",
       "es": "Recomendado",
       "pt": "Recomendado",
       "ko": "추천",
-      "fr": "Recommandé"
+      "fr": "Recommandé",
+      "tr": "Önerilen"
     },
     "Simpler Structure": {
       "ja": "よりシンプルな構造",
       "es": "Estructura más simple",
       "pt": "Estrutura mais simples",
       "ko": "더 간단한 구조",
-      "fr": "Structure plus simple"
+      "fr": "Structure plus simple",
+      "tr": "Daha basit yapı"
     },
     "updated CSV format": {
       "ja": "更新されたCSV形式",
       "es": "formato CSV actualizado",
       "pt": "formato CSV atualizado",
       "ko": "업데이트된 CSV 형식",
-      "fr": "format CSV mis à jour"
+      "fr": "format CSV mis à jour",
+      "tr": "güncellenmiş CSV formatı"
     },
     "Untitled Message": {
       "ja": "無題のメッセージ",
       "es": "Mensaje sin título",
       "pt": "Mensagem sem título",
       "ko": "제목 없는 메시지",
-      "fr": "Message sans titre"
+      "fr": "Message sans titre",
+      "tr": "Adsız mesaj"
     },
     "Deliver immediately": {
       "ja": "すぐに配信",
       "es": "Entregar inmediatamente",
       "pt": "Entregar imediatamente",
       "ko": "즉시 전달",
-      "fr": "Livrer immédiatement"
+      "fr": "Livrer immédiatement",
+      "tr": "Hemen teslim et"
     },
     "or paste URL": {
       "ja": "またはURLを貼り付け",
       "es": "o pega la URL",
       "pt": "ou cole a URL",
       "ko": "또는 URL 붙여넣기",
-      "fr": "ou collez une URL"
+      "fr": "ou collez une URL",
+      "tr": "veya URL yapıştırın"
     },
     "Refine": {
       "ja": "洗練",
       "es": "Refinar",
       "pt": "Refinar",
       "ko": "다듬기",
-      "fr": "Affiner"
+      "fr": "Affiner",
+      "tr": "İyileştir"
     },
     "Action ID 1": {
       "ja": "アクションID 1",
       "es": "ID de acción 1",
       "pt": "ID de ação 1",
       "ko": "액션 ID 1",
-      "fr": "ID d'action 1"
+      "fr": "ID d'action 1",
+      "tr": "Eylem ID 1"
     },
     "Add Button": {
       "ja": "ボタンを追加",
       "es": "Agregar botón",
       "pt": "Adicionar botão",
       "ko": "버튼 추가",
-      "fr": "Ajouter un bouton"
+      "fr": "Ajouter un bouton",
+      "tr": "Düğme ekle"
     },
     "Button Label 1": {
       "ja": "ボタンラベル 1",
       "es": "Etiqueta del botón 1",
       "pt": "Rótulo do botão 1",
       "ko": "버튼 라벨 1",
-      "fr": "Libellé du bouton 1"
+      "fr": "Libellé du bouton 1",
+      "tr": "Düğme etiketi 1"
     },
     "Category": {
       "ja": "カテゴリ",
       "es": "Categoría",
       "pt": "Categoria",
       "ko": "카테고리",
-      "fr": "Catégorie"
+      "fr": "Catégorie",
+      "tr": "Kategori"
     },
     "Icon": {
       "ja": "アイコン",
       "es": "Icono",
       "pt": "Ícone",
       "ko": "아이콘",
-      "fr": "Icône"
+      "fr": "Icône",
+      "tr": "Simge"
     },
     "Remove Action 1": {
       "ja": "アクション1を削除",
       "es": "Quitar acción 1",
       "pt": "Remover ação 1",
       "ko": "액션 1 제거",
-      "fr": "Retirer l'action 1"
+      "fr": "Retirer l'action 1",
+      "tr": "Eylem 1'i kaldır"
     },
     "e.g. Accept": {
       "ja": "例: 承諾",
       "es": "p. ej. Aceptar",
       "pt": "ex.: Aceitar",
       "ko": "예: 수락",
-      "fr": "par ex. Accepter"
+      "fr": "par ex. Accepter",
+      "tr": "örn. Kabul et"
     },
     "or paste resource name or URL": {
       "ja": "またはリソース名やURLを貼り付け",
       "es": "o pega el nombre de recurso o URL",
       "pt": "ou cole o nome do recurso ou URL",
       "ko": "또는 리소스 이름이나 URL 붙여넣기",
-      "fr": "ou collez un nom de ressource ou une URL"
+      "fr": "ou collez un nom de ressource ou une URL",
+      "tr": "veya kaynak adı ya da URL yapıştırın"
     },
     "(Created in App)": {
       "ja": "(アプリで作成)",
       "es": "(Creado en la app)",
       "pt": "(Criado no app)",
       "ko": "(앱에서 생성됨)",
-      "fr": "(Créé dans l'app)"
+      "fr": "(Créé dans l'app)",
+      "tr": "(Uygulamada oluşturuldu)"
     },
     "(recommended)": {
       "ja": "(推奨)",
       "es": "(recomendado)",
       "pt": "(recomendado)",
       "ko": "(권장)",
-      "fr": "(recommandé)"
+      "fr": "(recommandé)",
+      "tr": "(önerilen)"
     },
     "0 (lowest priority)": {
       "ja": "0 (最低優先度)",
       "es": "0 (prioridad más baja)",
       "pt": "0 (prioridade mais baixa)",
       "ko": "0 (최저 우선순위)",
-      "fr": "0 (priorité la plus basse)"
+      "fr": "0 (priorité la plus basse)",
+      "tr": "0 (en düşük öncelik)"
     },
     "4. Delivery Schedule": {
       "ja": "4. 配信スケジュール",
       "es": "4. Programación de entrega",
       "pt": "4. Agendamento de entrega",
       "ko": "4. 전달 일정",
-      "fr": "4. Planification d'envoi"
+      "fr": "4. Planification d'envoi",
+      "tr": "4. Gönderim planı"
     },
     "5 per minute": {
       "ja": "毎分5件",
