@@ -2,32 +2,54 @@
 
 A Manifest V3 Chrome/Edge extension that translates the OneSignal admin
 dashboard (`https://dashboard.onesignal.com`) into non-English languages.
-Ships with Japanese and Spanish out of the box, plus a placeholder for
-Portuguese.
+Ships with **Japanese, Spanish, Portuguese (BR), and Korean** out of the
+box — each at full coverage of the same ~1,500 dashboard strings.
 
 The extension only runs on the OneSignal dashboard — no other sites are
 touched and no browsing data is collected.
 
 ## Install (Load Unpacked)
 
-1. Clone this repo.
+1. Get the source onto your machine. Pick whichever option you're
+   comfortable with:
+
+   **Option A — Download ZIP (no git required).**
+   On the GitHub repo page, click the green **Code** button →
+   **Download ZIP**. Unzip the file somewhere you'll remember (e.g.
+   `~/Downloads/Translate-os-main`). The folder you point Chrome at
+   in step 4 is the unzipped folder.
+
+   **Option B — Clone with git.**
+   ```sh
+   git clone <repo-url>
+   ```
+
 2. Open `chrome://extensions` (or `edge://extensions`).
-3. Enable **Developer mode**.
-4. Click **Load unpacked** and point at the repo root.
+3. Enable **Developer mode** (toggle in the top-right).
+4. Click **Load unpacked** and point at the unzipped folder (Option A)
+   or the cloned repo root (Option B).
 5. Visit <https://dashboard.onesignal.com>. Japanese is the default.
 6. Click the extension icon to switch languages.
+
+> **Updating later:** if you used Option A, download a fresh ZIP and
+> repeat — Chrome will pick up the new files after you click the
+> reload icon on the extension card. If you used Option B, run
+> `git pull` then click reload.
 
 ## Supported Languages
 
 Language codes follow ISO 639-1.
 
-| Code | Language   | Status                     |
-| ---- | ---------- | -------------------------- |
-| `en` | English    | Passthrough (no changes)   |
-| `ja` | Japanese   | ~724 dashboard terms + patterns |
-| `es` | Spanish    | ~724 dashboard terms + patterns |
-| `pt` | Portuguese | ~724 dashboard terms + patterns |
-| `ko` | Korean     | ~724 dashboard terms + patterns |
+| Code | Language       | Coverage                                  |
+| ---- | -------------- | ----------------------------------------- |
+| `en` | English        | Passthrough (no changes)                  |
+| `ja` | Japanese       | 1,517 terms + 73 patterns                 |
+| `es` | Spanish        | 1,517 terms + 73 patterns (LATAM-neutral) |
+| `pt` | Portuguese     | 1,517 terms + 73 patterns (BR — pt-BR)    |
+| `ko` | Korean         | 1,517 terms + 73 patterns                 |
+
+Each language ships with terminology locked to a glossary (see below) and
+register conventions documented in `style/<lang>.md`.
 
 ## How Persistence Works
 
@@ -131,8 +153,14 @@ This shape is optimized for maintenance:
    ```
 2. In the `translations` object, add `"fr": "..."` to whichever terms
    you want to translate. Leave the rest — those show English.
-3. Reload the extension from `chrome://extensions`. The popup dropdown
+3. Add `"fr": "..."` entries to each term in `glossary.json` so locked
+   terminology applies to the new language too.
+4. Drop a `style/fr.md` addendum covering register, punctuation,
+   length budgets, and right-vs-wrong examples per UI role. Use one
+   of the existing addenda as a template.
+5. Reload the extension from `chrome://extensions`. The popup dropdown
    picks up the new language automatically.
+6. Run `./validate.py` to confirm 0 blocking violations.
 
 ### Adding a New Term
 
@@ -144,7 +172,10 @@ One edit, one file:
 }
 ```
 
-No other files to touch.
+If the new term contains a glossary-locked English word (Journey,
+Segment, Send, etc.), the locked translation **must** appear in the
+target — `./validate.py` enforces this. If you're introducing a term
+that's likely to recur, add it to `glossary.json` in the same commit.
 
 ## Regex Patterns (for dynamic strings)
 
@@ -195,22 +226,35 @@ free.
 
 **Sent:**
 
-- Active language code (`ja` / `es` / `pt`).
+- Active language code (`ja` / `es` / `pt` / `ko`).
 - The English string itself.
 - How many times it was seen on this install.
 - URL **pathname only**, with any segment that looks like an ID
   (16+ chars) replaced by `:id`. Example:
   `/apps/6d9b1f09-.../messages/push/new` → `/apps/:id/messages/push/new`.
 
+**Filtered before queuing** (see `content.js:couldBeUI`):
+
+- Anything containing `@`, `http(s)://`, long digit runs, or base64-
+  shaped tokens (PII signal).
+- UUIDs, IPv6 addresses, ISO/slash timestamps, timezone identifiers,
+  bare 2-letter country codes.
+- Snake_case / kebab-case attribute names (`user_id`, `tag-name`).
+- Markdown links (`[text](url)`).
+- Strings shorter than 3 or longer than 200 characters.
+- Highcharts metadata: tooltip dates ("Mon, Apr 7", "Fri Apr 10 (UTC)"),
+  data labels (anything starting `Apr 1, 2026, …`), full dates with
+  year, "Line chart with N bars", "End of interactive chart", etc.
+- Liquid template fragments (`{{ user.id }}`, `{% if %}`).
+- Device-version names (`macOS (26.2)`, `Simulator iPhone (26.2)`).
+- `External ID: <value>` labels.
+- 3rd-party widget chrome (`Intercom`, `_hjSafeContext`).
+- Strings the translator already wrote (own-write feedback loop guard).
+
 **Never sent:**
 
 - Full URLs, query strings, hashes.
 - User IDs, install IDs, cookies, auth headers.
-- Strings containing `@`, `http(s)://`, long digit runs, or base64-shaped
-  tokens. These are filtered client-side before the string is even queued.
-- Strings shorter than 2 or longer than 80 characters.
-- Strings seen fewer than 3 times on the install (debounces one-off
-  dynamic content).
 
 Users can view the full pending queue in a bundled page — popup →
 **View what's queued →** — to see exactly what would be sent, and can
@@ -318,6 +362,81 @@ changes filtered to the allowlist. When React re-renders, new nodes and
 changed attributes are re-translated automatically. Bursts of mutations
 are batched with `requestAnimationFrame` so we don't thrash during rapid
 re-renders.
+
+**Curly-quote normalization.** The dashboard renders typographic
+apostrophes (`’`) in some copy and ASCII (`'`) elsewhere. Before lookup,
+the trimmed string is normalized — `‘ ’ ʼ` → `'` and `“ ”` → `"` — so
+"what's" with U+2019 still hits the dictionary key "what's" with U+0027.
+Output keeps the user-visible original quotes (we splice the translated
+value back into the un-normalized raw).
+
+**Extension-context guard.** When Chrome reloads the extension (load-
+unpacked refresh, version bump, browser update), content scripts on
+already-loaded pages keep running but every `chrome.*` call throws
+`"Extension context invalidated"`. The script detects this via
+`chrome.runtime.id` and tears itself down — disconnects the observer,
+clears pending timers, drops queued nodes — so the page doesn't error-
+spam. Page reload restores fresh translation.
+
+## Translation Engineering
+
+Translation work in this repo is governed by four artifacts:
+
+- **`STYLE_GUIDE.md`** — the global rules. Resolves the most common
+  tension (consistency vs UI-role-aware variation) explicitly: same
+  English source + same UI role = same translation. Defines the role
+  taxonomy (button / label / heading / tooltip / status / empty-state /
+  nav / a11y / placeholder).
+- **`glossary.json`** — locked English-to-target mappings for ~68
+  high-frequency terms (Journey, Segment, Subscription, Notification,
+  Save/Send/Delete/etc., status states, channel names). Values can be
+  a single string or an array of acceptable forms — the array form
+  covers grammatical variants like Spanish `Filtrar` (verb) /
+  `Filtro` (noun) both being correct for "Filter" depending on
+  context. Per-term `_skip_keys` lists exempt specific source strings
+  where the term appears in a different sense (e.g. Twilio Segment
+  the company vs OneSignal Segment the feature).
+- **`style/<lang>.md`** — per-language addenda. Each one codifies the
+  language-specific decisions the global guide defers:
+  - `style/ja.md`: 体言止め for buttons / labels / status; です／ます
+    for tooltips and full sentences. 全角 punctuation rules. Length
+    budgets.
+  - `style/es.md`: LATAM-neutral lexicon. tú (never usted, never vos).
+    Buttons in infinitive form. Required `¿` / `¡` opening punctuation.
+  - `style/pt.md`: pt-BR (never pt-PT). você (never tu). Salvar /
+    Excluir / Configurações (BR; not Guardar / Apagar / Ajustes).
+  - `style/ko.md`: 합쇼체 for tooltips and long copy. 명사형 for
+    buttons. Never 해요체. Length budgets target ≤ 6 chars for
+    button labels.
+- **`CLAUDE.md`** — always-loaded project instructions for AI-assisted
+  edits. Routes future sessions to the style guide and glossary
+  before they touch `languages.json`.
+
+### Validator
+
+`./validate.py` checks four mechanical rules:
+
+1. **Glossary** — every entry whose English source contains a glossary
+   term must have at least one of the locked target form(s) in every
+   language's translation (case-insensitive substring).
+2. **Pattern regex** — each pattern's `match` compiles as valid regex.
+3. **Pattern capture** — every `{N}` in a pattern template points to a
+   real capture group in the regex.
+4. **Curly quotes** — output translation values use ASCII straight
+   quotes (the dashboard side is normalized at lookup; the dict stays
+   ASCII for portability).
+
+Plus an informational `untranslated` report — entries where target ==
+English source. Often intentional for brand names (`API`, `Android`,
+`A/B`) but worth a glance.
+
+```sh
+./validate.py             # full output, exits non-zero on violations
+./validate.py --quiet     # totals only
+./validate.py --limit 0   # print every violation, no truncation
+```
+
+**Required to pass before commit:** `Blocking: 0 violation(s)`.
 
 ## File Map
 

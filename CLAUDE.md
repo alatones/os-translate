@@ -24,3 +24,29 @@ per-term `_skip_keys` list for English sources where the term appears in a
 different sense (e.g. "Segment" the company vs the OneSignal feature). When
 adding a new entry that triggers a glossary violation in good faith, prefer
 adding an alt or `_skip_keys` over loosening the check.
+
+## Keep README.md in sync
+
+After any **major** change, update `README.md` so it reflects the current
+state of the extension. Major changes include:
+
+- New supported language, or shifts in coverage that affect the language
+  table.
+- New filters or behavior changes in `content.js` that users would notice
+  (e.g. the curly-quote normalization layer, extension-context teardown).
+- Changes to the missed-string ledger schema, filter list, or thresholds
+  in `couldBeUI`.
+- New top-level files (validator, style guide, glossary, etc.) — these
+  belong in the File Map and usually need a section explaining what they
+  are.
+- Workflow changes (how to add a language, how to add a term, how to
+  report feedback).
+
+Routine fixes (a typo here, a single new translation entry) don't need
+README updates. Use judgement: if a new contributor reading the README
+would be surprised by what they find in the code, the README is stale.
+
+When you do update `README.md`, keep it concise and prefer editing in
+place over appending. Cross-link to the relevant artifact (CLAUDE.md,
+STYLE_GUIDE.md, glossary.json, style/<lang>.md, validate.py) rather than
+duplicating their content.

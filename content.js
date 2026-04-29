@@ -75,6 +75,42 @@
   const MISSED_KEY_SEP = "";
   let missedFlushTimer = 0;
 
+  // Chrome MV3 invalidates the extension context when the extension is
+  // reloaded (load-unpacked refresh, version bump, browser update). The
+  // content script keeps running on already-loaded pages but every chrome.*
+  // call throws "Extension context invalidated". Once that happens we
+  // disconnect the observer and stop scheduling work — there's no recovery
+  // without a page reload.
+  function isExtensionAlive() {
+    try {
+      return Boolean(chrome && chrome.runtime && chrome.runtime.id);
+    } catch (e) {
+      return false;
+    }
+  }
+
+  function isContextInvalidatedError(err) {
+    return (
+      err &&
+      typeof err.message === "string" &&
+      err.message.includes("Extension context invalidated")
+    );
+  }
+
+  function teardown() {
+    stopObserver();
+    if (missedFlushTimer) {
+      clearTimeout(missedFlushTimer);
+      missedFlushTimer = 0;
+    }
+    if (rafId) {
+      cancelAnimationFrame(rafId);
+      rafId = 0;
+    }
+    pendingNodes = new Set();
+    missedSession.clear();
+  }
+
   function shouldSkip(textNode) {
     const parent = textNode.parentNode;
     if (!parent || parent.nodeType !== Node.ELEMENT_NODE) return true;
@@ -173,21 +209,33 @@
 
   function flushMissed() {
     missedFlushTimer = 0;
+    if (!isExtensionAlive()) return teardown();
     const promote = [];
     for (const [s, count] of missedSession.entries()) {
       if (count >= MISSED_SEEN_THRESHOLD) promote.push([s, count]);
     }
     if (promote.length === 0) return;
     const path = pathKey();
-    chrome.storage.local.get({ ledger: {} }, (out) => {
-      const ledger = out.ledger || {};
-      for (const [s, count] of promote) {
-        const key = [activeLang, path, s].join(MISSED_KEY_SEP);
-        ledger[key] = (ledger[key] || 0) + count;
-        missedSession.delete(s);
-      }
-      chrome.storage.local.set({ ledger });
-    });
+    try {
+      chrome.storage.local.get({ ledger: {} }, (out) => {
+        if (!isExtensionAlive()) return teardown();
+        const ledger = out.ledger || {};
+        for (const [s, count] of promote) {
+          const key = [activeLang, path, s].join(MISSED_KEY_SEP);
+          ledger[key] = (ledger[key] || 0) + count;
+          missedSession.delete(s);
+        }
+        try {
+          chrome.storage.local.set({ ledger });
+        } catch (err) {
+          if (isContextInvalidatedError(err)) return teardown();
+          throw err;
+        }
+      });
+    } catch (err) {
+      if (isContextInvalidatedError(err)) return teardown();
+      throw err;
+    }
   }
 
   function translateAttributes(el) {
@@ -275,6 +323,7 @@
     if (observer) observer.disconnect();
     if (lookup.size === 0 && compiledPatterns.length === 0) return; // English / empty dictionary: do nothing.
     observer = new MutationObserver((mutations) => {
+      if (!isExtensionAlive()) return teardown();
       for (const m of mutations) {
         if (m.type === "childList") {
           m.addedNodes.forEach((n) => schedule(n));
