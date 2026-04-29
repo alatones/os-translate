@@ -3213,350 +3213,400 @@
       "ja": "変更を保存",
       "pt": "Salvar alterações",
       "ko": "변경사항 저장",
-      "fr": "Enregistrer les modifications"
+      "fr": "Enregistrer les modifications",
+      "tr": "Değişiklikleri kaydet"
     },
     "Saving": {
       "es": "Guardando",
       "ja": "保存中",
       "pt": "Salvando",
       "ko": "저장 중",
-      "fr": "Enregistrement"
+      "fr": "Enregistrement",
+      "tr": "Kaydediliyor"
     },
     "Schedule": {
       "es": "Programación",
       "ja": "スケジュール",
       "pt": "Agendamento",
       "ko": "일정",
-      "fr": "Planification"
+      "fr": "Planification",
+      "tr": "Planlama"
     },
     "Schedule for Later": {
       "es": "Programar para después",
       "ja": "後でスケジュール",
       "pt": "Agendar para depois",
       "ko": "나중에 예약",
-      "fr": "Planifier pour plus tard"
+      "fr": "Planifier pour plus tard",
+      "tr": "Daha sonrası için planla"
     },
     "Scheduled": {
       "es": "Programado",
       "ja": "スケジュール済み",
       "pt": "Agendado",
       "ko": "예약됨",
-      "fr": "Planifié"
+      "fr": "Planifié",
+      "tr": "Planlandı"
     },
     "Scheduled Messages": {
       "es": "Mensajes programados",
       "ja": "スケジュール済みメッセージ",
       "pt": "Mensagens agendadas",
       "ko": "예약된 메시지",
-      "fr": "Messages planifiés"
+      "fr": "Messages planifiés",
+      "tr": "Planlanan mesajlar"
     },
     "SDK": {
       "es": "SDK",
       "ja": "SDK",
       "pt": "SDK",
       "ko": "SDK",
-      "fr": "SDK"
+      "fr": "SDK",
+      "tr": "SDK"
     },
     "SDK version": {
       "es": "Versión del SDK",
       "ja": "SDKバージョン",
       "pt": "Versão do SDK",
       "ko": "SDK 버전",
-      "fr": "Version du SDK"
+      "fr": "Version du SDK",
+      "tr": "SDK sürümü"
     },
     "SDKs": {
       "es": "SDKs",
       "ja": "SDK",
       "pt": "SDKs",
       "ko": "SDK",
-      "fr": "SDK"
+      "fr": "SDK",
+      "tr": "SDK'ler"
     },
     "SDKs Guide": {
       "es": "Guía de SDKs",
       "ja": "SDKガイド",
       "pt": "Guia de SDKs",
       "ko": "SDK 가이드",
-      "fr": "Guide des SDK"
+      "fr": "Guide des SDK",
+      "tr": "SDK kılavuzu"
     },
     "Search": {
       "es": "Buscar",
       "ja": "検索",
       "pt": "Pesquisar",
       "ko": "검색",
-      "fr": "Rechercher"
+      "fr": "Rechercher",
+      "tr": "Ara"
     },
     "Search apps": {
       "es": "Buscar apps",
       "ja": "アプリを検索",
       "pt": "Pesquisar apps",
       "ko": "앱 검색",
-      "fr": "Rechercher des apps"
+      "fr": "Rechercher des apps",
+      "tr": "Uygulamalarda ara"
     },
     "Search by name": {
       "es": "Buscar por nombre",
       "ja": "名前で検索",
       "pt": "Pesquisar por nome",
       "ko": "이름으로 검색",
-      "fr": "Rechercher par nom"
+      "fr": "Rechercher par nom",
+      "tr": "Ada göre ara"
     },
     "Search event names": {
       "es": "Buscar nombres de eventos",
       "ja": "イベント名を検索",
       "pt": "Pesquisar nomes de eventos",
       "ko": "이벤트 이름 검색",
-      "fr": "Rechercher des noms d'événements"
+      "fr": "Rechercher des noms d'événements",
+      "tr": "Etkinlik adlarında ara"
     },
     "Search term": {
       "es": "Término de búsqueda",
       "ja": "検索キーワード",
       "pt": "Termo de pesquisa",
       "ko": "검색어",
-      "fr": "Terme de recherche"
+      "fr": "Terme de recherche",
+      "tr": "Arama terimi"
     },
     "Search…": {
       "es": "Buscar…",
       "ja": "検索…",
       "pt": "Pesquisar…",
       "ko": "검색…",
-      "fr": "Rechercher…"
+      "fr": "Rechercher…",
+      "tr": "Ara…"
     },
     "Secret": {
       "es": "Secreto",
       "ja": "シークレット",
       "pt": "Segredo",
       "ko": "시크릿",
-      "fr": "Secret"
+      "fr": "Secret",
+      "tr": "Gizli"
     },
     "Segment": {
       "es": "Segmento",
       "ja": "セグメント",
       "pt": "Segmento",
       "ko": "세그먼트",
-      "fr": "Segment"
+      "fr": "Segment",
+      "tr": "Segment"
     },
     "Segment Name": {
       "es": "Nombre del segmento",
       "ja": "セグメント名",
       "pt": "Nome do segmento",
       "ko": "세그먼트 이름",
-      "fr": "Nom du segment"
+      "fr": "Nom du segment",
+      "tr": "Segment adı"
     },
     "Segments": {
       "es": "Segmentos",
       "ja": "セグメント",
       "pt": "Segmentos",
       "ko": "세그먼트",
-      "fr": "Segments"
+      "fr": "Segments",
+      "tr": "Segmentler"
     },
     "Select": {
       "es": "Seleccionar",
       "ja": "選択",
       "pt": "Selecionar",
       "ko": "선택",
-      "fr": "Sélectionner"
+      "fr": "Sélectionner",
+      "tr": "Seç"
     },
     "Select all": {
       "es": "Seleccionar todo",
       "ja": "すべて選択",
       "pt": "Selecionar tudo",
       "ko": "전체 선택",
-      "fr": "Tout sélectionner"
+      "fr": "Tout sélectionner",
+      "tr": "Tümünü seç"
     },
     "Send": {
       "es": "Enviar",
       "ja": "送信",
       "pt": "Enviar",
       "ko": "발송",
-      "fr": "Envoyer"
+      "fr": "Envoyer",
+      "tr": "Gönder"
     },
     "Send at": {
       "es": "Enviar el",
       "ja": "送信日時",
       "pt": "Enviar em",
       "ko": "발송 시간",
-      "fr": "Envoyer le"
+      "fr": "Envoyer le",
+      "tr": "Gönderim zamanı"
     },
     "Send Immediately": {
       "es": "Enviar inmediatamente",
       "ja": "即時送信",
       "pt": "Enviar imediatamente",
       "ko": "즉시 발송",
-      "fr": "Envoyer immédiatement"
+      "fr": "Envoyer immédiatement",
+      "tr": "Hemen gönder"
     },
     "Send Test Email": {
       "es": "Enviar email de prueba",
       "ja": "テストメールを送信",
       "pt": "Enviar email de teste",
       "ko": "테스트 이메일 발송",
-      "fr": "Envoyer un email de test"
+      "fr": "Envoyer un email de test",
+      "tr": "Test emaili gönder"
     },
     "Send Test Push": {
       "es": "Enviar push de prueba",
       "ja": "テストプッシュを送信",
       "pt": "Enviar push de teste",
       "ko": "테스트 푸시 발송",
-      "fr": "Envoyer un push de test"
+      "fr": "Envoyer un push de test",
+      "tr": "Test push'u gönder"
     },
     "Send to All Subscribers": {
       "es": "Enviar a todos los suscriptores",
       "ja": "全購読者に送信",
       "pt": "Enviar para todos os assinantes",
       "ko": "모든 구독자에게 발송",
-      "fr": "Envoyer à tous les abonnés"
+      "fr": "Envoyer à tous les abonnés",
+      "tr": "Tüm abonelere gönder"
     },
     "Sender": {
       "es": "Remitente",
       "ja": "送信者",
       "pt": "Remetente",
       "ko": "발신자",
-      "fr": "Expéditeur"
+      "fr": "Expéditeur",
+      "tr": "Gönderen"
     },
     "Senders": {
       "es": "Remitentes",
       "ja": "送信者",
       "pt": "Remetentes",
       "ko": "발신자",
-      "fr": "Expéditeurs"
+      "fr": "Expéditeurs",
+      "tr": "Gönderenler"
     },
     "Senders & configuration": {
       "es": "Remitentes y configuración",
       "ja": "送信者と設定",
       "pt": "Remetentes e configuração",
       "ko": "발신자 및 구성",
-      "fr": "Expéditeurs et configuration"
+      "fr": "Expéditeurs et configuration",
+      "tr": "Gönderenler ve yapılandırma"
     },
     "Senders, suppressions & configuration": {
       "es": "Remitentes, supresiones y configuración",
       "ja": "送信者、抑制と設定",
       "pt": "Remetentes, supressões e configuração",
       "ko": "발신자, 수신 거부 및 구성",
-      "fr": "Expéditeurs, suppressions et configuration"
+      "fr": "Expéditeurs, suppressions et configuration",
+      "tr": "Gönderenler, engelliler ve yapılandırma"
     },
     "Sending": {
       "es": "Enviando",
       "ja": "送信中",
       "pt": "Enviando",
       "ko": "발송 중",
-      "fr": "Envoi en cours"
+      "fr": "Envoi en cours",
+      "tr": "Gönderiliyor"
     },
     "Sent": {
       "es": "Enviado",
       "ja": "送信済み",
       "pt": "Enviado",
       "ko": "발송됨",
-      "fr": "Envoyé"
+      "fr": "Envoyé",
+      "tr": "Gönderildi"
     },
     "Sent at": {
       "es": "Enviado el",
       "ja": "送信日時",
       "pt": "Enviado em",
       "ko": "발송 시간",
-      "fr": "Envoyé le"
+      "fr": "Envoyé le",
+      "tr": "Gönderim zamanı"
     },
     "Sent Messages": {
       "es": "Mensajes enviados",
       "ja": "送信済みメッセージ",
       "pt": "Mensagens enviadas",
       "ko": "발송된 메시지",
-      "fr": "Messages envoyés"
+      "fr": "Messages envoyés",
+      "tr": "Gönderilen mesajlar"
     },
     "Sep": {
       "es": "sep",
       "ja": "9月",
       "pt": "set",
       "ko": "9월",
-      "fr": "sep"
+      "fr": "sep",
+      "tr": "eyl"
     },
     "September": {
       "es": "septiembre",
       "ja": "9月",
       "pt": "setembro",
       "ko": "9월",
-      "fr": "septembre"
+      "fr": "septembre",
+      "tr": "eylül"
     },
     "Session Count": {
       "es": "Sesiones",
       "ja": "セッション数",
       "pt": "Sessões",
       "ko": "세션 수",
-      "fr": "Nombre de sessions"
+      "fr": "Nombre de sessions",
+      "tr": "Oturum sayısı"
     },
     "Sessions": {
       "es": "Sesiones",
       "ja": "セッション",
       "pt": "Sessões",
       "ko": "세션",
-      "fr": "Sessions"
+      "fr": "Sessions",
+      "tr": "Oturumlar"
     },
     "Sessions (count)": {
       "es": "Sesiones (recuento)",
       "ja": "セッション（カウント）",
       "pt": "Sessões (contagem)",
       "ko": "세션 수",
-      "fr": "Sessions (nombre)"
+      "fr": "Sessions (nombre)",
+      "tr": "Oturumlar (sayı)"
     },
     "Sessions:": {
       "es": "Sesiones:",
       "ja": "セッション数：",
       "pt": "Sessões:",
       "ko": "세션:",
-      "fr": "Sessions :"
+      "fr": "Sessions :",
+      "tr": "Oturumlar:"
     },
     "Set up security and API keys": {
       "es": "Configurar seguridad y claves API",
       "ja": "セキュリティとAPIキーの設定",
       "pt": "Configurar segurança e chaves de API",
       "ko": "보안 및 API 키 설정",
-      "fr": "Configurer la sécurité et les clés d'API"
+      "fr": "Configurer la sécurité et les clés d'API",
+      "tr": "Güvenlik ve API anahtarlarını ayarlayın"
     },
     "Settings": {
       "es": "Ajustes",
       "ja": "設定",
       "pt": "Configurações",
       "ko": "설정",
-      "fr": "Paramètres"
+      "fr": "Paramètres",
+      "tr": "Ayarlar"
     },
     "Show all outcomes": {
       "es": "Mostrar todos los resultados",
       "ja": "すべてのアウトカムを表示",
       "pt": "Mostrar todos os resultados",
       "ko": "모든 결과 표시",
-      "fr": "Afficher tous les résultats"
+      "fr": "Afficher tous les résultats",
+      "tr": "Tüm sonuçları göster"
     },
     "Show Attempted": {
       "es": "Mostrar intentados",
       "ja": "試行数を表示",
       "pt": "Mostrar tentativas",
       "ko": "시도됨 표시",
-      "fr": "Afficher les tentatives"
+      "fr": "Afficher les tentatives",
+      "tr": "Denenenleri göster"
     },
     "Show Attempted Events": {
       "es": "Mostrar eventos intentados",
       "ja": "試行イベント数を表示",
       "pt": "Mostrar eventos tentados",
       "ko": "시도된 이벤트 표시",
-      "fr": "Afficher les événements tentés"
+      "fr": "Afficher les événements tentés",
+      "tr": "Denenen etkinlikleri göster"
     },
     "Show Attempted Updates": {
       "es": "Mostrar actualizaciones intentadas",
       "ja": "試行更新数を表示",
       "pt": "Mostrar atualizações tentadas",
       "ko": "시도된 업데이트 표시",
-      "fr": "Afficher les mises à jour tentées"
+      "fr": "Afficher les mises à jour tentées",
+      "tr": "Denenen güncellemeleri göster"
     },
     "Show Clicked": {
       "es": "Mostrar clics",
       "ja": "クリック数を表示",
       "pt": "Mostrar cliques",
       "ko": "클릭됨 표시",
-      "fr": "Afficher les clics"
+      "fr": "Afficher les clics",
+      "tr": "Tıklananları göster"
     },
     "Show Confirmed receipt": {
       "es": "Mostrar recepción confirmada",
       "ja": "受信確認数を表示",
       "pt": "Mostrar recebimento confirmado",
       "ko": "수신 확인 표시",
-      "fr": "Afficher la réception confirmée"
+      "fr": "Afficher la réception confirmée",
+      "tr": "Alındı onaylananları göster"
     },
     "Show Delivered": {
       "es": "Mostrar entregados",
