@@ -331,6 +331,12 @@ popup.js         Saves language, manages opt-in, first-run disclosure
 queue.html       Full-page viewer for the local missed-string queue
 queue.js         Reads chrome.storage.local, renders by lang/path, manual send/clear
 styles.css       CJK-friendly typography (line-height, font stack)
+
+CLAUDE.md        Always-loaded instructions for AI-assisted edits
+STYLE_GUIDE.md   Global translation rules (UI roles, quotes, brand handling)
+glossary.json    Locked English-to-target term mappings (with grammatical alts)
+style/<lang>.md  Per-language addenda (register, punctuation, length budgets)
+validate.py      Mechanical conformance check; must report 0 blocking violations
 ```
 
 ## Known Limitations
