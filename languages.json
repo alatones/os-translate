@@ -413,350 +413,400 @@
       "ja": "監査ログ",
       "pt": "Logs de auditoria",
       "ko": "감사 로그",
-      "fr": "Journaux d'audit"
+      "fr": "Journaux d'audit",
+      "tr": "Denetim günlükleri"
     },
     "Aug": {
       "es": "ago",
       "ja": "8月",
       "pt": "ago",
       "ko": "8월",
-      "fr": "août"
+      "fr": "août",
+      "tr": "ağu"
     },
     "August": {
       "es": "agosto",
       "ja": "8月",
       "pt": "agosto",
       "ko": "8월",
-      "fr": "août"
+      "fr": "août",
+      "tr": "ağustos"
     },
     "Automated": {
       "es": "Automatizado",
       "ja": "自動化",
       "pt": "Automatizado",
       "ko": "자동화됨",
-      "fr": "Automatisé"
+      "fr": "Automatisé",
+      "tr": "Otomatik"
     },
     "automated": {
       "es": "automatizado",
       "ja": "自動",
       "pt": "automatizado",
       "ko": "자동화됨",
-      "fr": "automatisé"
+      "fr": "automatisé",
+      "tr": "otomatik"
     },
     "Automated Messages": {
       "es": "Mensajes automatizados",
       "ja": "自動メッセージ",
       "pt": "Mensagens automatizadas",
       "ko": "자동화 메시지",
-      "fr": "Messages automatisés"
+      "fr": "Messages automatisés",
+      "tr": "Otomatik mesajlar"
     },
     "Automation": {
       "es": "Automatización",
       "ja": "オートメーション",
       "pt": "Automação",
       "ko": "자동화",
-      "fr": "Automatisation"
+      "fr": "Automatisation",
+      "tr": "Otomasyon"
     },
     "Average": {
       "es": "Promedio",
       "ja": "平均",
       "pt": "Média",
       "ko": "평균",
-      "fr": "Moyenne"
+      "fr": "Moyenne",
+      "tr": "Ortalama"
     },
     "Back": {
       "es": "Volver",
       "ja": "戻る",
       "pt": "Voltar",
       "ko": "뒤로",
-      "fr": "Retour"
+      "fr": "Retour",
+      "tr": "Geri"
     },
     "Badge": {
       "es": "Insignia",
       "ja": "バッジ",
       "pt": "Emblema",
       "ko": "배지",
-      "fr": "Badge"
+      "fr": "Badge",
+      "tr": "Rozet"
     },
     "Banner": {
       "es": "Banner",
       "ja": "バナー",
       "pt": "Banner",
       "ko": "배너",
-      "fr": "Bannière"
+      "fr": "Bannière",
+      "tr": "Banner"
     },
     "Blog": {
       "es": "Blog",
       "ja": "ブログ",
       "pt": "Blog",
       "ko": "블로그",
-      "fr": "Blog"
+      "fr": "Blog",
+      "tr": "Blog"
     },
     "Branch": {
       "es": "Rama",
       "ja": "分岐",
       "pt": "Ramificação",
       "ko": "분기",
-      "fr": "Branche"
+      "fr": "Branche",
+      "tr": "Şube"
     },
     "Calendar": {
       "es": "Calendario",
       "ja": "カレンダー",
       "pt": "Calendário",
       "ko": "달력",
-      "fr": "Calendrier"
+      "fr": "Calendrier",
+      "tr": "Takvim"
     },
     "Cancel": {
       "es": "Cancelar",
       "ja": "キャンセル",
       "pt": "Cancelar",
       "ko": "취소",
-      "fr": "Annuler"
+      "fr": "Annuler",
+      "tr": "İptal"
     },
     "Canceled": {
       "es": "Cancelado",
       "ja": "キャンセル済み",
       "pt": "Cancelado",
       "ko": "취소됨",
-      "fr": "Annulé"
+      "fr": "Annulé",
+      "tr": "İptal edildi"
     },
     "Careers": {
       "es": "Empleo",
       "ja": "採用情報",
       "pt": "Carreiras",
       "ko": "채용",
-      "fr": "Carrières"
+      "fr": "Carrières",
+      "tr": "Kariyer"
     },
     "Catalog": {
       "es": "Catálogo",
       "ja": "カタログ",
       "pt": "Catálogo",
       "ko": "카탈로그",
-      "fr": "Catalogue"
+      "fr": "Catalogue",
+      "tr": "Katalog"
     },
     "Changes saved": {
       "es": "Cambios guardados",
       "ja": "変更が保存されました",
       "pt": "Alterações salvas",
       "ko": "변경사항 저장됨",
-      "fr": "Modifications enregistrées"
+      "fr": "Modifications enregistrées",
+      "tr": "Değişiklikler kaydedildi"
     },
     "Channel": {
       "es": "Canal",
       "ja": "チャネル",
       "pt": "Canal",
       "ko": "채널",
-      "fr": "Canal"
+      "fr": "Canal",
+      "tr": "Kanal"
     },
     "Channels": {
       "es": "Canales",
       "ja": "チャネル",
       "pt": "Canais",
       "ko": "채널",
-      "fr": "Canaux"
+      "fr": "Canaux",
+      "tr": "Kanallar"
     },
     "Character Count": {
       "es": "Conteo de caracteres",
       "ja": "文字数",
       "pt": "Contagem de caracteres",
       "ko": "문자 수",
-      "fr": "Nombre de caractères"
+      "fr": "Nombre de caractères",
+      "tr": "Karakter sayısı"
     },
     "Chart": {
       "es": "Gráfico",
       "ja": "グラフ",
       "pt": "Gráfico",
       "ko": "차트",
-      "fr": "Graphique"
+      "fr": "Graphique",
+      "tr": "Grafik"
     },
     "Chrome": {
       "es": "Chrome",
       "ja": "Chrome",
       "pt": "Chrome",
       "ko": "크롬",
-      "fr": "Chrome"
+      "fr": "Chrome",
+      "tr": "Chrome"
     },
     "City": {
       "es": "Ciudad",
       "ja": "市区町村",
       "pt": "Cidade",
       "ko": "도시",
-      "fr": "Ville"
+      "fr": "Ville",
+      "tr": "Şehir"
     },
     "Clear": {
       "es": "Limpiar",
       "ja": "クリア",
       "pt": "Limpar",
       "ko": "지우기",
-      "fr": "Effacer"
+      "fr": "Effacer",
+      "tr": "Temizle"
     },
     "Click-through Rate": {
       "es": "Tasa de clics",
       "ja": "クリック率",
       "pt": "Taxa de cliques",
       "ko": "클릭률",
-      "fr": "Taux de clics"
+      "fr": "Taux de clics",
+      "tr": "Tıklama oranı"
     },
     "Click-through rate": {
       "es": "Tasa de clics",
       "ja": "クリック率",
       "pt": "Taxa de cliques",
       "ko": "클릭률",
-      "fr": "Taux de clics"
+      "fr": "Taux de clics",
+      "tr": "Tıklama oranı"
     },
     "Clicked": {
       "es": "Clicado",
       "ja": "クリック数",
       "pt": "Clicado",
       "ko": "클릭됨",
-      "fr": "Cliqué"
+      "fr": "Cliqué",
+      "tr": "Tıklandı"
     },
     "Clicked:": {
       "es": "Clics:",
       "ja": "クリック済み：",
       "pt": "Cliques:",
       "ko": "클릭:",
-      "fr": "Cliqué :"
+      "fr": "Cliqué :",
+      "tr": "Tıklandı:"
     },
     "Clicks": {
       "es": "Clics",
       "ja": "クリック数",
       "pt": "Cliques",
       "ko": "클릭",
-      "fr": "Clics"
+      "fr": "Clics",
+      "tr": "Tıklamalar"
     },
     "Clicks (count)": {
       "es": "Clics (recuento)",
       "ja": "クリック数（カウント）",
       "pt": "Cliques (contagem)",
       "ko": "클릭 수",
-      "fr": "Clics (nombre)"
+      "fr": "Clics (nombre)",
+      "tr": "Tıklamalar (sayı)"
     },
     "Clicks:": {
       "es": "Clics:",
       "ja": "クリック数：",
       "pt": "Cliques:",
       "ko": "클릭:",
-      "fr": "Clics :"
+      "fr": "Clics :",
+      "tr": "Tıklamalar:"
     },
     "Close": {
       "es": "Cerrar",
       "ja": "閉じる",
       "pt": "Fechar",
       "ko": "닫기",
-      "fr": "Fermer"
+      "fr": "Fermer",
+      "tr": "Kapat"
     },
     "Communicate different value props and incentives to get your users back.": {
       "es": "Comunica diferentes propuestas de valor e incentivos para recuperar a tus usuarios.",
       "ja": "異なる価値提案やインセンティブを伝えてユーザーを呼び戻します。",
       "pt": "Comunique diferentes propostas de valor e incentivos para reconquistar seus usuários.",
       "ko": "사용자를 다시 유도하기 위한 다양한 가치 제안과 인센티브를 전달하세요.",
-      "fr": "Communiquez différentes propositions de valeur et incitations pour faire revenir vos utilisateurs."
+      "fr": "Communiquez différentes propositions de valeur et incitations pour faire revenir vos utilisateurs.",
+      "tr": "Kullanıcılarınızı geri kazanmak için farklı değer önerileri ve teşvikler iletin."
     },
     "Compare to": {
       "es": "Comparar con",
       "ja": "比較対象",
       "pt": "Comparar com",
       "ko": "비교 대상",
-      "fr": "Comparer à"
+      "fr": "Comparer à",
+      "tr": "Karşılaştır"
     },
     "Completed": {
       "es": "Completado",
       "ja": "完了",
       "pt": "Concluído",
       "ko": "완료됨",
-      "fr": "Terminé"
+      "fr": "Terminé",
+      "tr": "Tamamlandı"
     },
     "Confirm": {
       "es": "Confirmar",
       "ja": "確認",
       "pt": "Confirmar",
       "ko": "확인",
-      "fr": "Confirmer"
+      "fr": "Confirmer",
+      "tr": "Onayla"
     },
     "Confirm and Send": {
       "es": "Confirmar y enviar",
       "ja": "確認して送信",
       "pt": "Confirmar e enviar",
       "ko": "확인 및 발송",
-      "fr": "Confirmer et envoyer"
+      "fr": "Confirmer et envoyer",
+      "tr": "Onayla ve gönder"
     },
     "Confirmed": {
       "es": "Confirmado",
       "ja": "確認済み",
       "pt": "Confirmado",
       "ko": "확인됨",
-      "fr": "Confirmé"
+      "fr": "Confirmé",
+      "tr": "Onaylandı"
     },
     "Confirmed (count)": {
       "es": "Confirmado (recuento)",
       "ja": "確認済み（カウント）",
       "pt": "Confirmado (contagem)",
       "ko": "확인 수",
-      "fr": "Confirmé (nombre)"
+      "fr": "Confirmé (nombre)",
+      "tr": "Onaylandı (sayı)"
     },
     "Confirmed Delivered": {
       "es": "Entrega confirmada",
       "ja": "受信確認済み",
       "pt": "Entrega confirmada",
       "ko": "전달 확인",
-      "fr": "Livraison confirmée"
+      "fr": "Livraison confirmée",
+      "tr": "Teslim onaylandı"
     },
     "Confirmed receipt": {
       "es": "Recepción confirmada",
       "ja": "受信確認",
       "pt": "Recebimento confirmado",
       "ko": "수신 확인",
-      "fr": "Réception confirmée"
+      "fr": "Réception confirmée",
+      "tr": "Alındı onaylandı"
     },
     "Confirmed receipt CTR": {
       "es": "CTR de recepción confirmada",
       "ja": "受信確認後クリック率",
       "pt": "CTR de recebimento confirmado",
       "ko": "수신 확인 클릭률",
-      "fr": "CTR de réception confirmée"
+      "fr": "CTR de réception confirmée",
+      "tr": "Alındı onaylandı CTR"
     },
     "Confirmed receipt rate": {
       "es": "Tasa de recepción confirmada",
       "ja": "受信確認率",
       "pt": "Taxa de recebimento confirmado",
       "ko": "수신 확인율",
-      "fr": "Taux de réception confirmée"
+      "fr": "Taux de réception confirmée",
+      "tr": "Alındı onaylandı oranı"
     },
     "Confirmed receipt:": {
       "es": "Recepción confirmada:",
       "ja": "受信確認：",
       "pt": "Recebimento confirmado:",
       "ko": "수신 확인:",
-      "fr": "Réception confirmée :"
+      "fr": "Réception confirmée :",
+      "tr": "Alındı onaylandı:"
     },
     "Confirmed:": {
       "es": "Confirmados:",
       "ja": "確認済み：",
       "pt": "Confirmados:",
       "ko": "확인:",
-      "fr": "Confirmés :"
+      "fr": "Confirmés :",
+      "tr": "Onaylandı:"
     },
     "Connect with new contacts that joined in the past 3 hours": {
       "es": "Conecta con nuevos contactos de las últimas 3 horas",
       "ja": "過去3時間に参加した新規コンタクトにリーチ",
       "pt": "Conecte-se com novos contatos das últimas 3 horas",
       "ko": "최근 3시간 내에 가입한 새 연락처에 연결하세요",
-      "fr": "Connectez-vous avec les nouveaux contacts ajoutés depuis 3 heures"
+      "fr": "Connectez-vous avec les nouveaux contacts ajoutés depuis 3 heures",
+      "tr": "Son 3 saatte katılan yeni kişilerle bağlantı kurun"
     },
     "Connected": {
       "es": "Conectado",
       "ja": "接続済み",
       "pt": "Conectado",
       "ko": "연결됨",
-      "fr": "Connecté"
+      "fr": "Connecté",
+      "tr": "Bağlandı"
     },
     "Connections": {
       "es": "Conexiones",
       "ja": "接続",
       "pt": "Conexões",
       "ko": "연결",
-      "fr": "Connexions"
+      "fr": "Connexions",
+      "tr": "Bağlantılar"
     },
     "Contact your active audience from a specified country": {
       "es": "Contacta tu audiencia activa de un país específico",
