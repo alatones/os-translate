@@ -2990,97 +2990,113 @@
       "es": "Remitente",
       "ja": "送信者",
       "pt": "Remetente",
-      "ko": "발신자"
+      "ko": "발신자",
+      "fr": "Expéditeur"
     },
     "Senders": {
       "es": "Remitentes",
       "ja": "送信者",
       "pt": "Remetentes",
-      "ko": "발신자"
+      "ko": "발신자",
+      "fr": "Expéditeurs"
     },
     "Senders & configuration": {
       "es": "Remitentes y configuración",
       "ja": "送信者と設定",
       "pt": "Remetentes e configuração",
-      "ko": "발신자 및 구성"
+      "ko": "발신자 및 구성",
+      "fr": "Expéditeurs et configuration"
     },
     "Senders, suppressions & configuration": {
       "es": "Remitentes, supresiones y configuración",
       "ja": "送信者、抑制と設定",
       "pt": "Remetentes, supressões e configuração",
-      "ko": "발신자, 수신 거부 및 구성"
+      "ko": "발신자, 수신 거부 및 구성",
+      "fr": "Expéditeurs, suppressions et configuration"
     },
     "Sending": {
       "es": "Enviando",
       "ja": "送信中",
       "pt": "Enviando",
-      "ko": "발송 중"
+      "ko": "발송 중",
+      "fr": "Envoi en cours"
     },
     "Sent": {
       "es": "Enviado",
       "ja": "送信済み",
       "pt": "Enviado",
-      "ko": "발송됨"
+      "ko": "발송됨",
+      "fr": "Envoyé"
     },
     "Sent at": {
       "es": "Enviado el",
       "ja": "送信日時",
       "pt": "Enviado em",
-      "ko": "발송 시간"
+      "ko": "발송 시간",
+      "fr": "Envoyé le"
     },
     "Sent Messages": {
       "es": "Mensajes enviados",
       "ja": "送信済みメッセージ",
       "pt": "Mensagens enviadas",
-      "ko": "발송된 메시지"
+      "ko": "발송된 메시지",
+      "fr": "Messages envoyés"
     },
     "Sep": {
       "es": "sep",
       "ja": "9月",
       "pt": "set",
-      "ko": "9월"
+      "ko": "9월",
+      "fr": "sep"
     },
     "September": {
       "es": "septiembre",
       "ja": "9月",
       "pt": "setembro",
-      "ko": "9월"
+      "ko": "9월",
+      "fr": "septembre"
     },
     "Session Count": {
       "es": "Sesiones",
       "ja": "セッション数",
       "pt": "Sessões",
-      "ko": "세션 수"
+      "ko": "세션 수",
+      "fr": "Nombre de sessions"
     },
     "Sessions": {
       "es": "Sesiones",
       "ja": "セッション",
       "pt": "Sessões",
-      "ko": "세션"
+      "ko": "세션",
+      "fr": "Sessions"
     },
     "Sessions (count)": {
       "es": "Sesiones (recuento)",
       "ja": "セッション（カウント）",
       "pt": "Sessões (contagem)",
-      "ko": "세션 수"
+      "ko": "세션 수",
+      "fr": "Sessions (nombre)"
     },
     "Sessions:": {
       "es": "Sesiones:",
       "ja": "セッション数：",
       "pt": "Sessões:",
-      "ko": "세션:"
+      "ko": "세션:",
+      "fr": "Sessions :"
     },
     "Set up security and API keys": {
       "es": "Configurar seguridad y claves API",
       "ja": "セキュリティとAPIキーの設定",
       "pt": "Configurar segurança e chaves de API",
-      "ko": "보안 및 API 키 설정"
+      "ko": "보안 및 API 키 설정",
+      "fr": "Configurer la sécurité et les clés d'API"
     },
     "Settings": {
       "es": "Ajustes",
       "ja": "設定",
       "pt": "Configurações",
-      "ko": "설정"
+      "ko": "설정",
+      "fr": "Paramètres"
     },
     "Show all outcomes": {
       "es": "Mostrar todos los resultados",
@@ -3092,43 +3108,50 @@
       "es": "Mostrar intentados",
       "ja": "試行数を表示",
       "pt": "Mostrar tentativas",
-      "ko": "시도됨 표시"
+      "ko": "시도됨 표시",
+      "fr": "Afficher les tentatives"
     },
     "Show Attempted Events": {
       "es": "Mostrar eventos intentados",
       "ja": "試行イベント数を表示",
       "pt": "Mostrar eventos tentados",
-      "ko": "시도된 이벤트 표시"
+      "ko": "시도된 이벤트 표시",
+      "fr": "Afficher les événements tentés"
     },
     "Show Attempted Updates": {
       "es": "Mostrar actualizaciones intentadas",
       "ja": "試行更新数を表示",
       "pt": "Mostrar atualizações tentadas",
-      "ko": "시도된 업데이트 표시"
+      "ko": "시도된 업데이트 표시",
+      "fr": "Afficher les mises à jour tentées"
     },
     "Show Clicked": {
       "es": "Mostrar clics",
       "ja": "クリック数を表示",
       "pt": "Mostrar cliques",
-      "ko": "클릭됨 표시"
+      "ko": "클릭됨 표시",
+      "fr": "Afficher les clics"
     },
     "Show Confirmed receipt": {
       "es": "Mostrar recepción confirmada",
       "ja": "受信確認数を表示",
       "pt": "Mostrar recebimento confirmado",
-      "ko": "수신 확인 표시"
+      "ko": "수신 확인 표시",
+      "fr": "Afficher la réception confirmée"
     },
     "Show Delivered": {
       "es": "Mostrar entregados",
       "ja": "配信数を表示",
       "pt": "Mostrar entregues",
-      "ko": "전달됨 표시"
+      "ko": "전달됨 표시",
+      "fr": "Afficher les livrés"
     },
     "Show Delivered Events": {
       "es": "Mostrar eventos entregados",
       "ja": "配信イベント数を表示",
       "pt": "Mostrar eventos entregues",
-      "ko": "전달된 이벤트 표시"
+      "ko": "전달된 이벤트 표시",
+      "fr": "Afficher les événements livrés"
     },
     "Show Exported Events": {
       "es": "Mostrar eventos exportados",
@@ -3802,7 +3825,8 @@
       "ja": "プッシュをセットアップ",
       "es": "Configurar push",
       "pt": "Configurar push",
-      "ko": "푸시 설정"
+      "ko": "푸시 설정",
+      "fr": "Configurer le push"
     },
     "Push setup documentation": {
       "ja": "プッシュセットアップドキュメント",
@@ -3822,7 +3846,8 @@
       "ja": "メッセージチャネルを設定",
       "es": "Configura tus canales de mensajería",
       "pt": "Configure seus canais de mensagens",
-      "ko": "메시지 채널 설정"
+      "ko": "메시지 채널 설정",
+      "fr": "Configurer vos canaux de messagerie"
     },
     "Create your first message": {
       "ja": "最初のメッセージを作成",
@@ -4273,19 +4298,22 @@
       "ja": "自信を持って送信",
       "es": "Envía con confianza",
       "pt": "Envie com confiança",
-      "ko": "자신 있게 발송하세요"
+      "ko": "자신 있게 발송하세요",
+      "fr": "Envoyer en toute confiance"
     },
     "Set the email address your messages will come from": {
       "ja": "メッセージの送信元メールアドレスを設定",
       "es": "Establece la dirección de email desde la que se enviarán tus mensajes",
       "pt": "Defina o endereço de e-mail do qual suas mensagens serão enviadas",
-      "ko": "메시지가 발송될 이메일 주소를 설정하세요"
+      "ko": "메시지가 발송될 이메일 주소를 설정하세요",
+      "fr": "Définissez l'adresse email depuis laquelle vos messages seront envoyés"
     },
     "Set up your email sender and domain": {
       "ja": "メールの送信者とドメインを設定",
       "es": "Configura tu remitente de email y dominio",
       "pt": "Configure seu remetente de e-mail e domínio",
-      "ko": "이메일 발신자 및 도메인 설정"
+      "ko": "이메일 발신자 및 도메인 설정",
+      "fr": "Configurer votre expéditeur email et votre domaine"
     },
     "Start sending to your audience. You're all set to send emails!": {
       "ja": "オーディエンスへの送信を開始します。メールを送信する準備が整いました！",
@@ -4338,7 +4366,8 @@
       "ja": "アプリ内をセットアップ",
       "es": "Configurar In-App",
       "pt": "Configurar In-App",
-      "ko": "인앱 설정"
+      "ko": "인앱 설정",
+      "fr": "Configurer In-App"
     },
     "Automate onboarding, re-engagement, and more": {
       "ja": "オンボーディング、再エンゲージメントなどを自動化する",
@@ -4449,7 +4478,8 @@
       "ja": "プッシュとメールのメッセージ基準を設定",
       "es": "Establece estándares de mensajes para push y email",
       "pt": "Defina padrões de mensagens para push e e-mail",
-      "ko": "푸시 및 이메일 메시지 표준 설정"
+      "ko": "푸시 및 이메일 메시지 표준 설정",
+      "fr": "Définissez des standards de messages pour push et email"
     },
     "Your app is limited to 500,000 email sends a month. If you need help with your limit, contact our Support team.": {
       "ja": "アプリは月に50万件のメール送信に制限されています。制限についてご質問がある場合は、サポートチームにお問い合わせください。",
@@ -4524,7 +4554,8 @@
       "ja": "送信済みメッセージのドキュメント",
       "es": "Documentación de mensajes enviados",
       "pt": "Documentação de mensagens enviadas",
-      "ko": "발송 메시지 문서"
+      "ko": "발송 메시지 문서",
+      "fr": "Documentation des messages envoyés"
     },
     "Active Subscriptions": {
       "ja": "アクティブな購読",
@@ -4639,7 +4670,8 @@
       "ja": "セットアップ",
       "es": "Configurar",
       "pt": "Configurar",
-      "ko": "설정"
+      "ko": "설정",
+      "fr": "Configurer"
     },
     "Data Feeds allow you to dynamically fetch data from your APIs at send time.": {
       "ja": "データフィードを使用すると、送信時にAPIからデータを動的に取得できます。",
@@ -4876,7 +4908,8 @@
       "ja": "SMS / RCSをセットアップ",
       "es": "Configurar SMS / RCS",
       "pt": "Configurar SMS / RCS",
-      "ko": "SMS / RCS 설정"
+      "ko": "SMS / RCS 설정",
+      "fr": "Configurer SMS / RCS"
     },
     "Texts that work": {
       "ja": "効果的なテキストメッセージ",
@@ -4964,7 +4997,8 @@
       "ja": "セットアップガイド",
       "es": "Guía de configuración",
       "pt": "Guia de configuração",
-      "ko": "설정 가이드"
+      "ko": "설정 가이드",
+      "fr": "Guide de configuration"
     },
     "User avatar": {
       "ja": "ユーザーアバター",
@@ -5303,7 +5337,8 @@
       "ja": "セグメントに送信",
       "es": "Enviar a segmentos",
       "pt": "Enviar a segmentos",
-      "ko": "세그먼트에 발송"
+      "ko": "세그먼트에 발송",
+      "fr": "Envoyer à des segments"
     },
     "Start sending": {
       "ja": "発送開始",
@@ -5970,19 +6005,22 @@
       "ja": "全員に同時に送信",
       "es": "Enviar a todos al mismo tiempo",
       "pt": "Enviar a todos ao mesmo tempo",
-      "ko": "모두에게 동시에 발송"
+      "ko": "모두에게 동시에 발송",
+      "fr": "Envoyer à tout le monde en même temps"
     },
     "Set a Message Goal": {
       "ja": "メッセージの目標を設定",
       "es": "Establecer un objetivo de mensaje",
       "pt": "Definir uma meta de mensagem",
-      "ko": "메시지 목표 설정"
+      "ko": "메시지 목표 설정",
+      "fr": "Définir un objectif de message"
     },
     "Set a target metric to measure this message's success.": {
       "ja": "このメッセージの成功を測定する目標指標を設定。",
       "es": "Establece una métrica objetivo para medir el éxito de este mensaje.",
       "pt": "Defina uma métrica alvo para medir o sucesso desta mensagem.",
-      "ko": "이 메시지의 성공을 측정할 목표 지표를 설정하세요."
+      "ko": "이 메시지의 성공을 측정할 목표 지표를 설정하세요.",
+      "fr": "Définissez une métrique cible pour mesurer le succès de ce message."
     },
     "Specific Time": {
       "ja": "特定の時刻",
@@ -7095,19 +7133,22 @@
       "ja": "ライブ化",
       "es": "Activar",
       "pt": "Ativar",
-      "ko": "라이브 설정"
+      "ko": "라이브 설정",
+      "fr": "Mettre en ligne"
     },
     "Set a Journey Goal": {
       "ja": "ジャーニー目標を設定",
       "es": "Establecer un objetivo de Journey",
       "pt": "Definir uma meta de Journey",
-      "ko": "저니 목표 설정"
+      "ko": "저니 목표 설정",
+      "fr": "Définir un objectif de Journey"
     },
     "Set a target metric to measure this": {
       "ja": "これを測定する目標指標を設定",
       "es": "Establecer una métrica objetivo para medir esto",
       "pt": "Definir uma métrica alvo para medir isso",
-      "ko": "이를 측정할 목표 지표 설정"
+      "ko": "이를 측정할 목표 지표 설정",
+      "fr": "Définissez une métrique cible pour mesurer cela"
     },
     "Start immediately": {
       "ja": "即時開始",
@@ -7710,25 +7751,29 @@
       "ja": "Mozilla Firefoxに送信",
       "es": "Enviar a Mozilla Firefox",
       "pt": "Enviar para Mozilla Firefox",
-      "ko": "Mozilla Firefox에 발송"
+      "ko": "Mozilla Firefox에 발송",
+      "fr": "Envoyer vers Mozilla Firefox"
     },
     "Send to Windows": {
       "ja": "Windowsに送信",
       "es": "Enviar a Windows",
       "pt": "Enviar para Windows",
-      "ko": "Windows에 발송"
+      "ko": "Windows에 발송",
+      "fr": "Envoyer vers Windows"
     },
     "Send to particular segment(s)": {
       "ja": "特定のセグメントに送信",
       "es": "Enviar a segmento(s) específico(s)",
       "pt": "Enviar a segmento(s) específico(s)",
-      "ko": "특정 세그먼트에 발송"
+      "ko": "특정 세그먼트에 발송",
+      "fr": "Envoyer à des segments spécifiques"
     },
     "Set to": {
       "ja": "設定:",
       "es": "Establecer en",
       "pt": "Definir como",
-      "ko": "설정값"
+      "ko": "설정값",
+      "fr": "Définir sur"
     },
     "Small Icon": {
       "ja": "小さいアイコン",
@@ -8498,19 +8543,22 @@
       "ja": "送信元メール",
       "es": "Correo del remitente",
       "pt": "Email do remetente",
-      "ko": "발신자 이메일"
+      "ko": "발신자 이메일",
+      "fr": "Email de l'expéditeur"
     },
     "Sender Name": {
       "ja": "送信者名",
       "es": "Nombre del remitente",
       "pt": "Nome do remetente",
-      "ko": "발신자 이름"
+      "ko": "발신자 이름",
+      "fr": "Nom de l'expéditeur"
     },
     "Sender name you want shown": {
       "ja": "表示したい送信者名",
       "es": "Nombre del remitente que quieres mostrar",
       "pt": "Nome do remetente que você deseja exibir",
-      "ko": "표시하려는 발신자 이름"
+      "ko": "표시하려는 발신자 이름",
+      "fr": "Nom d'expéditeur à afficher"
     },
     "New Push Template": {
       "ja": "新しいプッシュテンプレート",
@@ -9267,7 +9315,8 @@
       "ja": "認証済み送信者を設定",
       "es": "Configurar remitente autenticado",
       "pt": "Configurar remetente autenticado",
-      "ko": "인증된 발신자 설정"
+      "ko": "인증된 발신자 설정",
+      "fr": "Configurer un expéditeur authentifié"
     },
     "Super-User": {
       "ja": "スーパーユーザー",
@@ -9455,7 +9504,8 @@
       "ja": "Google Postmasterの設定文書",
       "es": "Documentación para configurar Google Postmaster",
       "pt": "Documentação para configurar o Google Postmaster",
-      "ko": "Google Postmaster 설정 문서"
+      "ko": "Google Postmaster 설정 문서",
+      "fr": "Documentation de configuration Google Postmaster"
     },
     "API Keys": {
       "ja": "APIキー",
