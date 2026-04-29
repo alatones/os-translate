@@ -2813,350 +2813,400 @@
       "ja": "一時停止中",
       "pt": "Pausado",
       "ko": "일시 정지됨",
-      "fr": "Suspendu"
+      "fr": "Suspendu",
+      "tr": "Duraklatıldı"
     },
     "per page": {
       "es": "por página",
       "ja": "件 / ページ",
       "pt": "por página",
       "ko": "페이지당",
-      "fr": "par page"
+      "fr": "par page",
+      "tr": "sayfa başına"
     },
     "Percentage": {
       "es": "Porcentaje",
       "ja": "割合",
       "pt": "Percentual",
       "ko": "비율",
-      "fr": "Pourcentage"
+      "fr": "Pourcentage",
+      "tr": "Yüzde"
     },
     "Phone Number": {
       "es": "Número de teléfono",
       "ja": "電話番号",
       "pt": "Número de telefone",
       "ko": "전화번호",
-      "fr": "Numéro de téléphone"
+      "fr": "Numéro de téléphone",
+      "tr": "Telefon numarası"
     },
     "Phone number": {
       "es": "Número de teléfono",
       "ja": "電話番号",
       "pt": "Número de telefone",
       "ko": "전화번호",
-      "fr": "Numéro de téléphone"
+      "fr": "Numéro de téléphone",
+      "tr": "Telefon numarası"
     },
     "Plan": {
       "es": "Plan",
       "ja": "プラン",
       "pt": "Plano",
       "ko": "플랜",
-      "fr": "Plan"
+      "fr": "Plan",
+      "tr": "Plan"
     },
     "Platform": {
       "es": "Plataforma",
       "ja": "プラットフォーム",
       "pt": "Plataforma",
       "ko": "플랫폼",
-      "fr": "Plateforme"
+      "fr": "Plateforme",
+      "tr": "Platform"
     },
     "Platforms": {
       "es": "Plataformas",
       "ja": "プラットフォーム",
       "pt": "Plataformas",
       "ko": "플랫폼",
-      "fr": "Plateformes"
+      "fr": "Plateformes",
+      "tr": "Platformlar"
     },
     "Platforms set up and message settings": {
       "es": "Configuración de plataformas y mensajes",
       "ja": "プラットフォームのセットアップとメッセージ設定",
       "pt": "Configuração de plataformas e mensagens",
       "ko": "플랫폼 설정 및 메시지 설정",
-      "fr": "Configuration des plateformes et paramètres de messages"
+      "fr": "Configuration des plateformes et paramètres de messages",
+      "tr": "Platform kurulumu ve mesaj ayarları"
     },
     "Preheader": {
       "es": "Encabezado previo",
       "ja": "プリヘッダー",
       "pt": "Pré-cabeçalho",
       "ko": "프리헤더",
-      "fr": "Pré-en-tête"
+      "fr": "Pré-en-tête",
+      "tr": "Ön başlık"
     },
     "Prev": {
       "es": "Anterior",
       "ja": "前へ",
       "pt": "Anterior",
       "ko": "이전",
-      "fr": "Préc"
+      "fr": "Préc",
+      "tr": "Önc"
     },
     "Preview": {
       "es": "Vista previa",
       "ja": "プレビュー",
       "pt": "Visualizar",
       "ko": "미리보기",
-      "fr": "Aperçu"
+      "fr": "Aperçu",
+      "tr": "Önizleme"
     },
     "Previous": {
       "es": "Anterior",
       "ja": "前へ",
       "pt": "Anterior",
       "ko": "이전",
-      "fr": "Précédent"
+      "fr": "Précédent",
+      "tr": "Önceki"
     },
     "Previous page": {
       "es": "Página anterior",
       "ja": "前のページ",
       "pt": "Página anterior",
       "ko": "이전 페이지",
-      "fr": "Page précédente"
+      "fr": "Page précédente",
+      "tr": "Önceki sayfa"
     },
     "Priority": {
       "es": "Prioridad",
       "ja": "優先度",
       "pt": "Prioridade",
       "ko": "우선순위",
-      "fr": "Priorité"
+      "fr": "Priorité",
+      "tr": "Öncelik"
     },
     "Processed Events": {
       "es": "Eventos procesados",
       "ja": "処理済みイベント数",
       "pt": "Eventos processados",
       "ko": "처리된 이벤트",
-      "fr": "Événements traités"
+      "fr": "Événements traités",
+      "tr": "İşlenen etkinlikler"
     },
     "Processing": {
       "es": "Procesando",
       "ja": "処理中",
       "pt": "Processando",
       "ko": "처리 중",
-      "fr": "Traitement"
+      "fr": "Traitement",
+      "tr": "İşleniyor"
     },
     "Profile": {
       "es": "Perfil",
       "ja": "プロフィール",
       "pt": "Perfil",
       "ko": "프로필",
-      "fr": "Profil"
+      "fr": "Profil",
+      "tr": "Profil"
     },
     "Promotional": {
       "es": "Promocional",
       "ja": "プロモーション",
       "pt": "Promocional",
       "ko": "프로모션",
-      "fr": "Promotionnel"
+      "fr": "Promotionnel",
+      "tr": "Promosyon"
     },
     "Publish": {
       "es": "Publicar",
       "ja": "公開",
       "pt": "Publicar",
       "ko": "게시",
-      "fr": "Publier"
+      "fr": "Publier",
+      "tr": "Yayınla"
     },
     "Purchases": {
       "es": "Compras",
       "ja": "購入数",
       "pt": "Compras",
       "ko": "구매",
-      "fr": "Achats"
+      "fr": "Achats",
+      "tr": "Satın almalar"
     },
     "Push": {
       "es": "Push",
       "ja": "プッシュ",
       "pt": "Push",
       "ko": "푸시",
-      "fr": "Push"
+      "fr": "Push",
+      "tr": "Push"
     },
     "Push & In-App": {
       "es": "Push e In-App",
       "ja": "プッシュ & アプリ内",
       "pt": "Push e In-App",
       "ko": "푸시 및 인앱",
-      "fr": "Push et In-App"
+      "fr": "Push et In-App",
+      "tr": "Push ve In-App"
     },
     "Push Notifications": {
       "es": "Notificaciones push",
       "ja": "プッシュ通知",
       "pt": "Notificações push",
       "ko": "푸시 알림",
-      "fr": "Notifications push"
+      "fr": "Notifications push",
+      "tr": "Push bildirimleri"
     },
     "Push token": {
       "es": "Token push",
       "ja": "プッシュトークン",
       "pt": "Token push",
       "ko": "푸시 토큰",
-      "fr": "Token push"
+      "fr": "Token push",
+      "tr": "Push token"
     },
     "Queued": {
       "es": "En cola",
       "ja": "キュー中",
       "pt": "Na fila",
       "ko": "대기 중",
-      "fr": "En file d'attente"
+      "fr": "En file d'attente",
+      "tr": "Kuyrukta"
     },
     "Quickstart your Journey": {
       "es": "Inicia rápidamente tu Journey",
       "ja": "ジャーニーをクイックスタート",
       "pt": "Inicie rapidamente seu Journey",
       "ko": "저니 빠른 시작",
-      "fr": "Démarrer rapidement votre Journey"
+      "fr": "Démarrer rapidement votre Journey",
+      "tr": "Journey'inizi hızlıca başlatın"
     },
     "Reach targeted audience based on user properties or events from data tags": {
       "es": "Alcanza audiencias específicas según propiedades o eventos de etiquetas de datos",
       "ja": "データタグのユーザープロパティやイベントに基づいてターゲットオーディエンスにリーチ",
       "pt": "Alcance público segmentado com base em propriedades ou eventos de data tags",
       "ko": "데이터 태그의 사용자 속성 또는 이벤트를 기반으로 대상에게 도달하세요",
-      "fr": "Atteignez une audience ciblée selon les propriétés des utilisateurs ou les événements des tags de données"
+      "fr": "Atteignez une audience ciblée selon les propriétés des utilisateurs ou les événements des tags de données",
+      "tr": "Kullanıcı özellikleri veya veri etiketlerinden gelen etkinliklere göre hedef kitleye ulaşın"
     },
     "Real-time data for timely messages": {
       "es": "Datos en tiempo real para mensajes oportunos",
       "ja": "タイムリーなメッセージのためのリアルタイムデータ",
       "pt": "Dados em tempo real para mensagens oportunas",
       "ko": "시의적절한 메시지를 위한 실시간 데이터",
-      "fr": "Données en temps réel pour des messages opportuns"
+      "fr": "Données en temps réel pour des messages opportuns",
+      "tr": "Zamanında mesajlar için gerçek zamanlı veriler"
     },
     "Received Events": {
       "es": "Eventos recibidos",
       "ja": "受信イベント数",
       "pt": "Eventos recebidos",
       "ko": "수신된 이벤트",
-      "fr": "Événements reçus"
+      "fr": "Événements reçus",
+      "tr": "Alınan etkinlikler"
     },
     "Recipients": {
       "es": "Destinatarios",
       "ja": "受信者数",
       "pt": "Destinatários",
       "ko": "수신자",
-      "fr": "Destinataires"
+      "fr": "Destinataires",
+      "tr": "Alıcılar"
     },
     "Refresh List": {
       "es": "Actualizar lista",
       "ja": "リストを更新",
       "pt": "Atualizar lista",
       "ko": "목록 새로 고침",
-      "fr": "Actualiser la liste"
+      "fr": "Actualiser la liste",
+      "tr": "Listeyi yenile"
     },
     "Regional Audience": {
       "es": "Audiencia regional",
       "ja": "地域オーディエンス",
       "pt": "Público regional",
       "ko": "지역 대상",
-      "fr": "Audience régionale"
+      "fr": "Audience régionale",
+      "tr": "Bölgesel hedef kitle"
     },
     "Relative:": {
       "es": "Relativa:",
       "ja": "相対時間：",
       "pt": "Relativa:",
       "ko": "상대적:",
-      "fr": "Relatif :"
+      "fr": "Relatif :",
+      "tr": "Göreli:"
     },
     "Remove": {
       "es": "Quitar",
       "ja": "削除",
       "pt": "Remover",
       "ko": "제거",
-      "fr": "Retirer"
+      "fr": "Retirer",
+      "tr": "Kaldır"
     },
     "Reply-To Address": {
       "es": "Dirección de respuesta",
       "ja": "返信先アドレス",
       "pt": "Endereço de resposta",
       "ko": "회신 주소",
-      "fr": "Adresse de réponse"
+      "fr": "Adresse de réponse",
+      "tr": "Yanıt adresi"
     },
     "Report": {
       "es": "Informe",
       "ja": "レポート",
       "pt": "Relatório",
       "ko": "보고서",
-      "fr": "Rapport"
+      "fr": "Rapport",
+      "tr": "Rapor"
     },
     "Required": {
       "es": "Obligatorio",
       "ja": "必須",
       "pt": "Obrigatório",
       "ko": "필수",
-      "fr": "Obligatoire"
+      "fr": "Obligatoire",
+      "tr": "Zorunlu"
     },
     "Required field": {
       "es": "Campo obligatorio",
       "ja": "必須フィールド",
       "pt": "Campo obrigatório",
       "ko": "필수 항목",
-      "fr": "Champ obligatoire"
+      "fr": "Champ obligatoire",
+      "tr": "Zorunlu alan"
     },
     "Resend": {
       "es": "Reenviar",
       "ja": "再送信",
       "pt": "Reenviar",
       "ko": "재발송",
-      "fr": "Renvoyer"
+      "fr": "Renvoyer",
+      "tr": "Yeniden gönder"
     },
     "REST API Key": {
       "es": "Clave REST API",
       "ja": "REST APIキー",
       "pt": "Chave REST API",
       "ko": "REST API 키",
-      "fr": "Clé d'API REST"
+      "fr": "Clé d'API REST",
+      "tr": "REST API anahtarı"
     },
     "Results": {
       "es": "Resultados",
       "ja": "結果",
       "pt": "Resultados",
       "ko": "결과",
-      "fr": "Résultats"
+      "fr": "Résultats",
+      "tr": "Sonuçlar"
     },
     "Resume": {
       "es": "Reanudar",
       "ja": "再開",
       "pt": "Retomar",
       "ko": "재개",
-      "fr": "Reprendre"
+      "fr": "Reprendre",
+      "tr": "Devam ettir"
     },
     "Role": {
       "es": "Rol",
       "ja": "ロール",
       "pt": "Função",
       "ko": "역할",
-      "fr": "Rôle"
+      "fr": "Rôle",
+      "tr": "Rol"
     },
     "Rooted": {
       "es": "Rooteado",
       "ja": "ルート化済み",
       "pt": "Com root",
       "ko": "루팅됨",
-      "fr": "Rooté"
+      "fr": "Rooté",
+      "tr": "Root'lu"
     },
     "rows per page": {
       "es": "filas por página",
       "ja": "行 / ページ",
       "pt": "linhas por página",
       "ko": "페이지당 행 수",
-      "fr": "lignes par page"
+      "fr": "lignes par page",
+      "tr": "sayfa başına satır"
     },
     "Safari": {
       "es": "Safari",
       "ja": "Safari",
       "pt": "Safari",
       "ko": "사파리",
-      "fr": "Safari"
+      "fr": "Safari",
+      "tr": "Safari"
     },
     "Sat": {
       "es": "Sáb",
       "ja": "土",
       "pt": "Sáb",
       "ko": "토",
-      "fr": "Sam"
+      "fr": "Sam",
+      "tr": "Cmt"
     },
     "Save": {
       "es": "Guardar",
       "ja": "保存",
       "pt": "Salvar",
       "ko": "저장",
-      "fr": "Enregistrer"
+      "fr": "Enregistrer",
+      "tr": "Kaydet"
     },
     "Save as Draft": {
       "es": "Guardar como borrador",
       "ja": "下書きとして保存",
       "pt": "Salvar como rascunho",
       "ko": "초안으로 저장",
-      "fr": "Enregistrer comme brouillon"
+      "fr": "Enregistrer comme brouillon",
+      "tr": "Taslak olarak kaydet"
     },
     "Save Changes": {
       "es": "Guardar cambios",
