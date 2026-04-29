@@ -207,37 +207,43 @@
       "es": "Orígenes permitidos",
       "ja": "許可されたオリジン",
       "pt": "Origens permitidas",
-      "ko": "허용된 출처"
+      "ko": "허용된 출처",
+      "fr": "Origines autorisées"
     },
     "Alternatives": {
       "es": "Alternativas",
       "ja": "代替手段",
       "pt": "Alternativas",
-      "ko": "대안"
+      "ko": "대안",
+      "fr": "Alternatives"
     },
     "Amount Spent": {
       "es": "Monto gastado",
       "ja": "消費金額",
       "pt": "Valor gasto",
-      "ko": "지출 금액"
+      "ko": "지출 금액",
+      "fr": "Montant dépensé"
     },
     "Android": {
       "es": "Android",
       "ja": "Android",
       "pt": "Android",
-      "ko": "안드로이드"
+      "ko": "안드로이드",
+      "fr": "Android"
     },
     "Announce and send follow-up reminders for sales.": {
       "es": "Anuncia y envía recordatorios de seguimiento para ventas.",
       "ja": "セール告知とフォローアップリマインダーを送信。",
       "pt": "Anuncie e envie lembretes de acompanhamento para vendas.",
-      "ko": "영업을 위한 공지 및 후속 알림을 보내세요."
+      "ko": "영업을 위한 공지 및 후속 알림을 보내세요.",
+      "fr": "Annoncez et envoyez des rappels de suivi pour les ventes."
     },
     "Any/English": {
       "es": "Cualquiera/Inglés",
       "ja": "任意/英語",
       "pt": "Qualquer/Inglês",
-      "ko": "모두/영어"
+      "ko": "모두/영어",
+      "fr": "Tout/Anglais"
     },
     "API": {
       "es": "API",
@@ -257,109 +263,127 @@
       "es": "ID de la app",
       "ja": "アプリID",
       "pt": "ID do app",
-      "ko": "앱 ID"
+      "ko": "앱 ID",
+      "fr": "ID de l'app"
     },
     "App Name": {
       "es": "Nombre de la app",
       "ja": "アプリ名",
       "pt": "Nome do app",
-      "ko": "앱 이름"
+      "ko": "앱 이름",
+      "fr": "Nom de l'app"
     },
     "App Version": {
       "es": "Versión de la app",
       "ja": "アプリバージョン",
       "pt": "Versão do app",
-      "ko": "앱 버전"
+      "ko": "앱 버전",
+      "fr": "Version de l'app"
     },
     "App version": {
       "es": "Versión de la app",
       "ja": "アプリバージョン",
       "pt": "Versão do app",
-      "ko": "앱 버전"
+      "ko": "앱 버전",
+      "fr": "Version de l'app"
     },
     "Apply": {
       "es": "Aplicar",
       "ja": "適用",
       "pt": "Aplicar",
-      "ko": "적용"
+      "ko": "적용",
+      "fr": "Appliquer"
     },
     "Apr": {
       "es": "abr",
       "ja": "4月",
       "pt": "abr",
-      "ko": "4월"
+      "ko": "4월",
+      "fr": "avr"
     },
     "April": {
       "es": "abril",
       "ja": "4月",
       "pt": "abril",
-      "ko": "4월"
+      "ko": "4월",
+      "fr": "avril"
     },
     "Archive": {
       "es": "Archivar",
       "ja": "アーカイブ",
       "pt": "Arquivar",
-      "ko": "보관"
+      "ko": "보관",
+      "fr": "Archiver"
     },
     "Archived": {
       "es": "Archivado",
       "ja": "アーカイブ済み",
       "pt": "Arquivado",
-      "ko": "보관됨"
+      "ko": "보관됨",
+      "fr": "Archivé"
     },
     "Are you sure?": {
       "es": "¿Estás seguro?",
       "ja": "よろしいですか？",
       "pt": "Tem certeza?",
-      "ko": "정말 하시겠습니까?"
+      "ko": "정말 하시겠습니까?",
+      "fr": "Êtes-vous sûr ?"
     },
     "Attempted": {
       "es": "Intentados",
       "ja": "試行数",
       "pt": "Tentativas",
-      "ko": "시도됨"
+      "ko": "시도됨",
+      "fr": "Tentés"
     },
     "Attempted Events": {
       "es": "Eventos intentados",
       "ja": "試行イベント数",
       "pt": "Eventos tentados",
-      "ko": "시도된 이벤트"
+      "ko": "시도된 이벤트",
+      "fr": "Événements tentés"
     },
     "Attempted Updates": {
       "es": "Actualizaciones intentadas",
       "ja": "試行済み更新",
       "pt": "Atualizações tentadas",
-      "ko": "시도된 업데이트"
+      "ko": "시도된 업데이트",
+      "fr": "Mises à jour tentées"
     },
     "Audience": {
       "es": "Audiencia",
       "ja": "オーディエンス",
       "pt": "Público",
-      "ko": "대상"
+      "ko": "대상",
+      "fr": "Audience"
     },
     "Audit Logs": {
       "es": "Registros de auditoría",
       "ja": "監査ログ",
       "pt": "Logs de auditoria",
-      "ko": "감사 로그"
+      "ko": "감사 로그",
+      "fr": "Journaux d'audit"
     },
     "Aug": {
       "es": "ago",
       "ja": "8月",
       "pt": "ago",
-      "ko": "8월"
+      "ko": "8월",
+      "fr": "août"
     },
     "August": {
       "es": "agosto",
       "ja": "8月",
       "pt": "agosto",
-      "ko": "8월"
+      "ko": "8월",
+      "fr": "août"
     },
     "Automated": {
       "es": "Automatizado",
       "ja": "自動化",
       "pt": "Automatizado",
-      "ko": "자동화됨"
+      "ko": "자동화됨",
+      "fr": "Automatisé"
     },
     "automated": {
       "es": "automatizado",
@@ -371,7 +395,8 @@
       "es": "Mensajes automatizados",
       "ja": "自動メッセージ",
       "pt": "Mensagens automatizadas",
-      "ko": "자동화 메시지"
+      "ko": "자동화 메시지",
+      "fr": "Messages automatisés"
     },
     "Automation": {
       "es": "Automatización",
@@ -3765,7 +3790,8 @@
       "ja": "ドメインを認証",
       "es": "Autenticar dominio",
       "pt": "Autenticar domínio",
-      "ko": "도메인 인증"
+      "ko": "도메인 인증",
+      "fr": "Authentifier le domaine"
     },
     "Verify account": {
       "ja": "アカウントを確認",
@@ -3903,13 +3929,15 @@
       "ja": "オンボーディング、再エンゲージメントなどを自動化する",
       "es": "Automatiza el onboarding, la reactivación y más",
       "pt": "Automatize onboarding, reengajamento e muito mais",
-      "ko": "온보딩, 재참여 등을 자동화하세요"
+      "ko": "온보딩, 재참여 등을 자동화하세요",
+      "fr": "Automatisez l'onboarding, la réactivation, et plus"
     },
     "Automate personalized messaging": {
       "ja": "パーソナライズされたメッセージを自動化",
       "es": "Automatiza la mensajería personalizada",
       "pt": "Automatize o envio de mensagens personalizadas",
-      "ko": "개인화된 메시지 자동화"
+      "ko": "개인화된 메시지 자동화",
+      "fr": "Automatisez la messagerie personnalisée"
     },
     "Avoid starting from scratch for every campaign": {
       "ja": "キャンペーンのたびにゼロから始める手間をなくす",
@@ -4489,7 +4517,8 @@
       "ja": "Apple iOS",
       "es": "Apple iOS",
       "pt": "Apple iOS",
-      "ko": "Apple iOS"
+      "ko": "Apple iOS",
+      "fr": "Apple iOS"
     },
     "Google Chrome": {
       "ja": "Google Chrome",
@@ -4575,13 +4604,15 @@
       "ja": "オーディエンスの活動",
       "es": "Actividad de la audiencia",
       "pt": "Atividade do público",
-      "ko": "대상 활동"
+      "ko": "대상 활동",
+      "fr": "Activité de l'audience"
     },
     "Audience activity is no longer available after 30 days": {
       "ja": "オーディエンスの活動は30日経過後は表示されません",
       "es": "La actividad de la audiencia ya no está disponible después de 30 días",
       "pt": "A atividade do público não está mais disponível após 30 dias",
-      "ko": "대상 활동은 30일 이후 더 이상 제공되지 않습니다"
+      "ko": "대상 활동은 30일 이후 더 이상 제공되지 않습니다",
+      "fr": "L'activité de l'audience n'est plus disponible après 30 jours"
     },
     "Badges": {
       "ja": "バッジ",
@@ -4815,7 +4846,8 @@
       "ja": "アプリ使用状況",
       "es": "Uso de la aplicación",
       "pt": "Uso do aplicativo",
-      "ko": "앱 사용량"
+      "ko": "앱 사용량",
+      "fr": "Utilisation de l'app"
     },
     "Billing": {
       "ja": "請求",
@@ -5186,7 +5218,8 @@
       "ja": "ラベルを割り当て",
       "es": "Asignar etiquetas",
       "pt": "Atribuir rótulos",
-      "ko": "라벨 지정"
+      "ko": "라벨 지정",
+      "fr": "Attribuer des étiquettes"
     },
     "Beta": {
       "ja": "ベータ",
@@ -5682,7 +5715,8 @@
       "ja": "代替の閉じるアイコン",
       "es": "Icono de cerrar alternativo",
       "pt": "Ícone de fechar alternativo",
-      "ko": "대체 닫기 아이콘"
+      "ko": "대체 닫기 아이콘",
+      "fr": "Icône de fermeture alternative"
     },
     "Background": {
       "ja": "背景",
@@ -5977,7 +6011,8 @@
       "ja": "iframeのJavaScript実行を許可",
       "es": "Permitir la ejecución de JavaScript en iframes",
       "pt": "Permitir execução de JavaScript em iframes",
-      "ko": "iframe JavaScript 실행 허용"
+      "ko": "iframe JavaScript 실행 허용",
+      "fr": "Autoriser l'exécution de JavaScript dans les iframes"
     },
     "Bottom": {
       "ja": "下",
@@ -6037,7 +6072,8 @@
       "ja": "オーディエンスセグメント",
       "es": "Segmento de audiencia",
       "pt": "Segmento de público",
-      "ko": "대상 세그먼트"
+      "ko": "대상 세그먼트",
+      "fr": "Segment d'audience"
     },
     "Click to toggle": {
       "ja": "クリックで切り替え",
@@ -6261,7 +6297,8 @@
       "ja": "本当に離れますか？",
       "es": "¿Seguro que quieres salir?",
       "pt": "Tem certeza de que deseja sair?",
-      "ko": "정말 나가시겠습니까?"
+      "ko": "정말 나가시겠습니까?",
+      "fr": "Voulez-vous vraiment quitter ?"
     },
     "Control Panel": {
       "ja": "コントロールパネル",
@@ -7283,7 +7320,8 @@
       "ja": "アプリケーションレベルの使用状況",
       "es": "Uso a nivel de aplicación",
       "pt": "Uso em nível de aplicativo",
-      "ko": "애플리케이션 수준 사용량"
+      "ko": "애플리케이션 수준 사용량",
+      "fr": "Utilisation au niveau de l'application"
     },
     "Billable Email Sends": {
       "ja": "課金対象のメール送信",
@@ -7581,7 +7619,8 @@
       "ja": "APNsデリゲートが発火しませんでした",
       "es": "APNs Delegate nunca se disparó",
       "pt": "APNs Delegate nunca foi disparado",
-      "ko": "APNs Delegate가 실행되지 않음"
+      "ko": "APNs Delegate가 실행되지 않음",
+      "fr": "APNs Delegate ne s'est jamais déclenché"
     },
     "Email Template": {
       "ja": "メールテンプレート",
@@ -8070,7 +8109,8 @@
       "ja": "Amplitude:",
       "es": "Amplitude es",
       "pt": "Amplitude é",
-      "ko": "Amplitude:"
+      "ko": "Amplitude:",
+      "fr": "Amplitude est"
     },
     "Journey Updated": {
       "ja": "ジャーニーが更新されました",
@@ -8100,7 +8140,8 @@
       "ja": "アプリの役割",
       "es": "Rol de app",
       "pt": "Função no app",
-      "ko": "앱 역할"
+      "ko": "앱 역할",
+      "fr": "Rôle de l'app"
     },
     "Date & time": {
       "ja": "日付と時刻",
@@ -8179,7 +8220,8 @@
       "ja": "作成時にプッシュスロットルの上書きを許可",
       "es": "Permitir anulación de la limitación de push al crear",
       "pt": "Permitir substituição de limite de push na criação",
-      "ko": "생성 시 푸시 쓰로틀 재정의 허용"
+      "ko": "생성 시 푸시 쓰로틀 재정의 허용",
+      "fr": "Autoriser le remplacement de la limitation push à la création"
     },
     "Campaign": {
       "ja": "キャンペーン",
@@ -8243,31 +8285,36 @@
       "ja": "Amazon Fire",
       "es": "Amazon Fire",
       "pt": "Amazon Fire",
-      "ko": "Amazon Fire"
+      "ko": "Amazon Fire",
+      "fr": "Amazon Fire"
     },
     "Android Notification Channels": {
       "ja": "Android通知チャネル",
       "es": "Canales de notificación de Android",
       "pt": "Canais de notificação do Android",
-      "ko": "Android 알림 채널"
+      "ko": "Android 알림 채널",
+      "fr": "Canaux de notification Android"
     },
     "Apple iOS (APNs)": {
       "ja": "Apple iOS (APNs)",
       "es": "Apple iOS (APNs)",
       "pt": "Apple iOS (APNs)",
-      "ko": "Apple iOS (APNs)"
+      "ko": "Apple iOS (APNs)",
+      "fr": "Apple iOS (APNs)"
     },
     "Authentication": {
       "ja": "認証",
       "es": "Autenticación",
       "pt": "Autenticação",
-      "ko": "인증"
+      "ko": "인증",
+      "fr": "Authentification"
     },
     "Automatically limit push notifications": {
       "ja": "プッシュ通知を自動的に制限",
       "es": "Limitar automáticamente las notificaciones push",
       "pt": "Limitar automaticamente as notificações push",
-      "ko": "푸시 알림 자동 제한"
+      "ko": "푸시 알림 자동 제한",
+      "fr": "Limiter automatiquement les notifications push"
     },
     "Bundle ID": {
       "ja": "バンドルID",
@@ -8547,7 +8594,8 @@
       "ja": "REST APIキーを持っている人は誰でもあなたのアプリから通知を送信できます。REST APIキーをアプリケーションコードに公開しないでください。GitHubやその他のオンライン上で共有しないでください。",
       "es": "Cualquiera que tenga tu clave de API REST podrá enviar notificaciones desde tu app. No expongas la clave de API REST en el código de tu aplicación. No la compartas en GitHub ni en otros lugares en línea.",
       "pt": "Qualquer pessoa que tenha sua chave de API REST poderá enviar notificações do seu app. Não exponha a chave de API REST no código da sua aplicação. Não a compartilhe no GitHub nem em outros lugares online.",
-      "ko": "REST API 키를 가진 사람은 누구나 앱에서 알림을 발송할 수 있습니다. 애플리케이션 코드에 REST API 키를 노출하지 마세요. GitHub나 다른 온라인 장소에서 공유하지 마세요."
+      "ko": "REST API 키를 가진 사람은 누구나 앱에서 알림을 발송할 수 있습니다. 애플리케이션 코드에 REST API 키를 노출하지 마세요. GitHub나 다른 온라인 장소에서 공유하지 마세요.",
+      "fr": "Toute personne disposant de votre clé d'API REST pourra envoyer des notifications depuis votre app. N'exposez pas la clé d'API REST dans le code de votre application. Ne la partagez pas sur GitHub ni ailleurs en ligne."
     },
     "Copy App ID": {
       "ja": "アプリIDをコピー",
@@ -9007,7 +9055,8 @@
       "ja": "自動応答",
       "es": "Respuesta automática",
       "pt": "Resposta automática",
-      "ko": "자동 응답"
+      "ko": "자동 응답",
+      "fr": "Réponse automatique"
     },
     "When we receive unrecognized keywords from a phone number, we'll automatically reply with this template.": {
       "ja": "電話番号から認識されないキーワードを受信すると、このテンプレートで自動的に返信します。",
@@ -9067,7 +9116,8 @@
       "ja": "英数字",
       "es": "Alfanumérico",
       "pt": "Alfanumérico",
-      "ko": "영숫자"
+      "ko": "영숫자",
+      "fr": "Alphanumérique"
     },
     "Long Code": {
       "ja": "ロングコード",
