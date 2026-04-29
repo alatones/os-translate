@@ -1910,91 +1910,106 @@
       "es": "Agrega usuarios con emails o números de teléfono",
       "ja": "メールアドレスまたは電話番号でユーザーを手動追加",
       "pt": "Adicione usuários com emails ou números de telefone",
-      "ko": "이메일 또는 전화번호로 사용자 직접 추가"
+      "ko": "이메일 또는 전화번호로 사용자 직접 추가",
+      "fr": "Ajoutez manuellement des utilisateurs avec emails ou numéros de téléphone"
     },
     "Mar": {
       "es": "mar",
       "ja": "3月",
       "pt": "mar",
-      "ko": "3월"
+      "ko": "3월",
+      "fr": "mar"
     },
     "March": {
       "es": "marzo",
       "ja": "3月",
       "pt": "março",
-      "ko": "3월"
+      "ko": "3월",
+      "fr": "mars"
     },
     "Maximum": {
       "es": "Máximo",
       "ja": "最大",
       "pt": "Máximo",
-      "ko": "최대"
+      "ko": "최대",
+      "fr": "Maximum"
     },
     "May": {
       "es": "mayo",
       "ja": "5月",
       "pt": "maio",
-      "ko": "5월"
+      "ko": "5월",
+      "fr": "mai"
     },
     "Message": {
       "es": "Mensaje",
       "ja": "メッセージ",
       "pt": "Mensagem",
-      "ko": "메시지"
+      "ko": "메시지",
+      "fr": "Message"
     },
     "Message Content": {
       "es": "Contenido del mensaje",
       "ja": "メッセージ内容",
       "pt": "Conteúdo da mensagem",
-      "ko": "메시지 내용"
+      "ko": "메시지 내용",
+      "fr": "Contenu du message"
     },
     "Message Event Delivery": {
       "es": "Entrega de eventos de mensajes",
       "ja": "メッセージイベント配信",
       "pt": "Entrega de eventos de mensagens",
-      "ko": "메시지 이벤트 전달"
+      "ko": "메시지 이벤트 전달",
+      "fr": "Livraison d'événements de message"
     },
     "Message Title": {
       "es": "Título del mensaje",
       "ja": "メッセージタイトル",
       "pt": "Título da mensagem",
-      "ko": "메시지 제목"
+      "ko": "메시지 제목",
+      "fr": "Titre du message"
     },
     "Message type": {
       "es": "Tipo de mensaje",
       "ja": "メッセージタイプ",
       "pt": "Tipo de mensagem",
-      "ko": "메시지 유형"
+      "ko": "메시지 유형",
+      "fr": "Type de message"
     },
     "Messages": {
       "es": "Mensajes",
       "ja": "メッセージ",
       "pt": "Mensagens",
-      "ko": "메시지"
+      "ko": "메시지",
+      "fr": "Messages"
     },
     "Minimum": {
       "es": "Mínimo",
       "ja": "最小",
       "pt": "Mínimo",
-      "ko": "최소"
+      "ko": "최소",
+      "fr": "Minimum"
     },
     "Mobile (MAU)": {
       "es": "Móvil (MAU)",
       "ja": "モバイル（MAU）",
       "pt": "Mobile (MAU)",
-      "ko": "모바일 (MAU)"
+      "ko": "모바일 (MAU)",
+      "fr": "Mobile (MAU)"
     },
     "Modal": {
       "es": "Modal",
       "ja": "モーダル",
       "pt": "Modal",
-      "ko": "모달"
+      "ko": "모달",
+      "fr": "Modale"
     },
     "Mon": {
       "es": "Lun",
       "ja": "月",
       "pt": "Seg",
-      "ko": "월"
+      "ko": "월",
+      "fr": "Lun"
     },
     "Month": {
       "es": "Mes",
@@ -4311,7 +4326,8 @@
       "ja": "メッセージ：すべて",
       "es": "Mensajes: Todos",
       "pt": "Mensagens: Todos",
-      "ko": "메시지: 전체"
+      "ko": "메시지: 전체",
+      "fr": "Messages : Tous"
     },
     "Once you schedule a campaign, it will show up here": {
       "ja": "キャンペーンをスケジュールすると、ここに表示されます",
@@ -5020,25 +5036,29 @@
       "ja": "メッセージID",
       "es": "ID del mensaje",
       "pt": "ID da mensagem",
-      "ko": "메시지 ID"
+      "ko": "메시지 ID",
+      "fr": "ID du message"
     },
     "Message Statistics": {
       "ja": "メッセージ統計",
       "es": "Estadísticas del mensaje",
       "pt": "Estatísticas da mensagem",
-      "ko": "메시지 통계"
+      "ko": "메시지 통계",
+      "fr": "Statistiques du message"
     },
     "Message name": {
       "ja": "メッセージ名",
       "es": "Nombre del mensaje",
       "pt": "Nome da mensagem",
-      "ko": "메시지 이름"
+      "ko": "메시지 이름",
+      "fr": "Nom du message"
     },
     "Message settings": {
       "ja": "メッセージ設定",
       "es": "Configuración del mensaje",
       "pt": "Configurações da mensagem",
-      "ko": "메시지 설정"
+      "ko": "메시지 설정",
+      "fr": "Paramètres du message"
     },
     "Mutable Content": {
       "ja": "可変コンテンツ",
@@ -5306,7 +5326,8 @@
       "ja": "メソッド",
       "es": "Método",
       "pt": "Método",
-      "ko": "메서드"
+      "ko": "메서드",
+      "fr": "Méthode"
     },
     "Permanent Failure": {
       "ja": "永続的な失敗",
@@ -5642,19 +5663,22 @@
       "ja": "メッセージイベントとタグ",
       "es": "Eventos y etiquetas de mensajes",
       "pt": "Eventos e tags de mensagens",
-      "ko": "메시지 이벤트 및 태그"
+      "ko": "메시지 이벤트 및 태그",
+      "fr": "Événements et tags de message"
     },
     "Message Name": {
       "ja": "メッセージ名",
       "es": "Nombre del mensaje",
       "pt": "Nome da mensagem",
-      "ko": "메시지 이름"
+      "ko": "메시지 이름",
+      "fr": "Nom du message"
     },
     "Message will send right away": {
       "ja": "メッセージはすぐに送信されます",
       "es": "El mensaje se enviará de inmediato",
       "pt": "A mensagem será enviada imediatamente",
-      "ko": "메시지가 즉시 발송됩니다"
+      "ko": "메시지가 즉시 발송됩니다",
+      "fr": "Le message sera envoyé immédiatement"
     },
     "Preheader Text": {
       "ja": "プリヘッダーテキスト",
@@ -5847,13 +5871,15 @@
       "ja": "APIまたはWordPressプラグインを通じて送信されたメッセージは次で確認できます:",
       "es": "Los mensajes enviados a través de nuestra API o el plugin de WordPress se pueden encontrar en",
       "pt": "As mensagens enviadas pela nossa API ou plugin do WordPress podem ser encontradas em",
-      "ko": "API 또는 WordPress 플러그인을 통해 발송된 메시지는 다음에서 확인할 수 있습니다"
+      "ko": "API 또는 WordPress 플러그인을 통해 발송된 메시지는 다음에서 확인할 수 있습니다",
+      "fr": "Les messages envoyés via notre API ou le plugin WordPress se trouvent dans"
     },
     "Messages sent through our API can be found in": {
       "ja": "APIを通じて送信されたメッセージは次で確認できます:",
       "es": "Los mensajes enviados a través de nuestra API se pueden encontrar en",
       "pt": "As mensagens enviadas pela nossa API podem ser encontradas em",
-      "ko": "API를 통해 발송된 메시지는 다음에서 확인할 수 있습니다"
+      "ko": "API를 통해 발송된 메시지는 다음에서 확인할 수 있습니다",
+      "fr": "Les messages envoyés via notre API se trouvent dans"
     },
     "Save & Exit": {
       "ja": "保存して終了",
@@ -5893,25 +5919,29 @@
       "ja": "下のマージン",
       "es": "Margen inferior",
       "pt": "Margem inferior",
-      "ko": "아래쪽 여백"
+      "ko": "아래쪽 여백",
+      "fr": "Marge inférieure"
     },
     "Margin left": {
       "ja": "左のマージン",
       "es": "Margen izquierdo",
       "pt": "Margem esquerda",
-      "ko": "왼쪽 여백"
+      "ko": "왼쪽 여백",
+      "fr": "Marge gauche"
     },
     "Margin right": {
       "ja": "右のマージン",
       "es": "Margen derecho",
       "pt": "Margem direita",
-      "ko": "오른쪽 여백"
+      "ko": "오른쪽 여백",
+      "fr": "Marge droite"
     },
     "Margin top": {
       "ja": "上のマージン",
       "es": "Margen superior",
       "pt": "Margem superior",
-      "ko": "위쪽 여백"
+      "ko": "위쪽 여백",
+      "fr": "Marge supérieure"
     },
     "Text alignment": {
       "ja": "テキストの配置",
@@ -6477,7 +6507,8 @@
       "ja": "分",
       "es": "Minuto",
       "pt": "Minuto",
-      "ko": "분"
+      "ko": "분",
+      "fr": "Minute"
     },
     "What segment(s) should be": {
       "ja": "どのセグメントが",
@@ -6778,13 +6809,15 @@
       "ja": "特定の条件を満たす",
       "es": "Cumplir cierta condición",
       "pt": "Atender a uma certa condição",
-      "ko": "특정 조건 충족"
+      "ko": "특정 조건 충족",
+      "fr": "Remplir une certaine condition"
     },
     "Mini Map": {
       "ja": "ミニマップ",
       "es": "Minimapa",
       "pt": "Minimapa",
-      "ko": "미니맵"
+      "ko": "미니맵",
+      "fr": "Mini-carte"
     },
     "More Options": {
       "ja": "その他のオプション",
@@ -7310,19 +7343,22 @@
       "ja": "メディア",
       "es": "Medios",
       "pt": "Mídia",
-      "ko": "미디어"
+      "ko": "미디어",
+      "fr": "Média"
     },
     "Message (Any/English)": {
       "ja": "メッセージ (Any/英語)",
       "es": "Mensaje (cualquiera/inglés)",
       "pt": "Mensagem (qualquer/inglês)",
-      "ko": "메시지 (Any/영어)"
+      "ko": "메시지 (Any/영어)",
+      "fr": "Message (Tout/Anglais)"
     },
     "Message input": {
       "ja": "メッセージ入力",
       "es": "Entrada del mensaje",
       "pt": "Entrada da mensagem",
-      "ko": "메시지 입력"
+      "ko": "메시지 입력",
+      "fr": "Saisie du message"
     },
     "None": {
       "ja": "なし",
@@ -7633,7 +7669,8 @@
       "ja": "メッセージイベント",
       "es": "Evento de mensaje",
       "pt": "Evento de mensagem",
-      "ko": "메시지 이벤트"
+      "ko": "메시지 이벤트",
+      "fr": "Événement de message"
     },
     "Name of segment": {
       "ja": "セグメント名",
@@ -8292,7 +8329,8 @@
       "ja": "メッセージイベント",
       "es": "Eventos de mensajes",
       "pt": "Eventos de mensagens",
-      "ko": "메시지 이벤트"
+      "ko": "메시지 이벤트",
+      "fr": "Événements de message"
     },
     "No Recent Activity": {
       "ja": "最近の活動なし",
@@ -8734,13 +8772,15 @@
       "ja": "メディア",
       "es": "Medio",
       "pt": "Meio",
-      "ko": "매체"
+      "ko": "매체",
+      "fr": "Moyen"
     },
     "Messages per minute": {
       "ja": "毎分のメッセージ数",
       "es": "Mensajes por minuto",
       "pt": "Mensagens por minuto",
-      "ko": "분당 메시지 수"
+      "ko": "분당 메시지 수",
+      "fr": "Messages par minute"
     },
     "Save UTM Settings": {
       "ja": "UTM設定を保存",
@@ -8970,7 +9010,8 @@
       "ja": "手動で追加",
       "es": "Agregado manualmente",
       "pt": "Adicionado manualmente",
-      "ko": "수동으로 추가됨"
+      "ko": "수동으로 추가됨",
+      "fr": "Ajouté manuellement"
     },
     "Search by email": {
       "ja": "メールで検索",
@@ -9295,7 +9336,8 @@
       "ja": "ユーザーあたりの最大プッシュ通知数",
       "es": "Máximo de notificaciones push por usuario",
       "pt": "Máximo de notificações push por usuário",
-      "ko": "사용자당 최대 푸시 알림 수"
+      "ko": "사용자당 최대 푸시 알림 수",
+      "fr": "Maximum de notifications push par utilisateur"
     },
     "Per Day": {
       "ja": "1日あたり",
@@ -9326,7 +9368,8 @@
       "ja": "メッセージ返信テンプレート",
       "es": "Plantilla de respuesta de mensajes",
       "pt": "Modelo de resposta de mensagens",
-      "ko": "메시지 회신 템플릿"
+      "ko": "메시지 회신 템플릿",
+      "fr": "Modèle de réponse au message"
     },
     "Keyword": {
       "ja": "キーワード",
@@ -9339,13 +9382,15 @@
       "ja": "メッセージ返信プレビュー",
       "es": "Vista previa de respuesta de mensajes",
       "pt": "Pré-visualização de resposta de mensagens",
-      "ko": "메시지 회신 미리보기"
+      "ko": "메시지 회신 미리보기",
+      "fr": "Aperçu de la réponse au message"
     },
     "Message Reply": {
       "ja": "メッセージ返信",
       "es": "Respuesta de mensaje",
       "pt": "Resposta de mensagem",
-      "ko": "메시지 회신"
+      "ko": "메시지 회신",
+      "fr": "Réponse au message"
     },
     "Everyone": {
       "ja": "全員",
@@ -9414,19 +9459,22 @@
       "ja": "このOneSignalアプリで許可される秒あたりの最大メッセージ数 (MPS) は、お客様のTwilio信頼スコアと使用している送信者タイプによって異なります。",
       "es": "El máximo de mensajes por segundo (MPS) permitido en esta app de OneSignal depende del puntaje de confianza de Twilio del cliente y los tipos de remitente que utiliza.",
       "pt": "O máximo de mensagens por segundo (MPS) permitido neste app do OneSignal depende da pontuação de confiança Twilio do cliente e dos tipos de remetente em uso.",
-      "ko": "이 OneSignal 앱에서 허용되는 초당 최대 메시지 수(MPS)는 고객의 Twilio 신뢰 점수와 고객이 사용하는 발신자 유형에 따라 다릅니다."
+      "ko": "이 OneSignal 앱에서 허용되는 초당 최대 메시지 수(MPS)는 고객의 Twilio 신뢰 점수와 고객이 사용하는 발신자 유형에 따라 다릅니다.",
+      "fr": "Le nombre maximum de messages par seconde (MPS) autorisé sur cette app OneSignal dépend du score de confiance Twilio du client et des types d'expéditeur utilisés par le client."
     },
     "Message Prompt Preview": {
       "ja": "メッセージプロンプトプレビュー",
       "es": "Vista previa del mensaje de aviso",
       "pt": "Pré-visualização do prompt de mensagem",
-      "ko": "메시지 프롬프트 미리보기"
+      "ko": "메시지 프롬프트 미리보기",
+      "fr": "Aperçu de l'invite du message"
     },
     "Message Prompt Template": {
       "ja": "メッセージプロンプトテンプレート",
       "es": "Plantilla de mensaje de aviso",
       "pt": "Modelo de prompt de mensagem",
-      "ko": "메시지 프롬프트 템플릿"
+      "ko": "메시지 프롬프트 템플릿",
+      "fr": "Modèle d'invite de message"
     },
     "OFF": {
       "ja": "オフ",
@@ -9720,7 +9768,8 @@
       "ja": "メンバーアクション",
       "es": "Acciones de miembro",
       "pt": "Ações de membro",
-      "ko": "멤버 작업"
+      "ko": "멤버 작업",
+      "fr": "Actions du membre"
     },
     "Team Member": {
       "ja": "チームメンバー",
@@ -9795,7 +9844,8 @@
       "ja": "メンバー",
       "es": "Miembro",
       "pt": "Membro",
-      "ko": "멤버"
+      "ko": "멤버",
+      "fr": "Membre"
     },
     "Org role": {
       "ja": "組織での役割",
