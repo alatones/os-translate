@@ -6813,350 +6813,400 @@
       "es": "4. Objetivo del mensaje",
       "pt": "4. Meta da mensagem",
       "ko": "4. 메시지 목표",
-      "fr": "4. Objectif du message"
+      "fr": "4. Objectif du message",
+      "tr": "4. Mesaj hedefi"
     },
     "5. Delivery Schedule": {
       "ja": "5. 配信スケジュール",
       "es": "5. Programación de entrega",
       "pt": "5. Agendamento de entrega",
       "ko": "5. 전달 일정",
-      "fr": "5. Planification d'envoi"
+      "fr": "5. Planification d'envoi",
+      "tr": "5. Gönderim planı"
     },
     "Additional options": {
       "ja": "追加オプション",
       "es": "Opciones adicionales",
       "pt": "Opções adicionais",
       "ko": "추가 옵션",
-      "fr": "Options supplémentaires"
+      "fr": "Options supplémentaires",
+      "tr": "Ek seçenekler"
     },
     "A/B Test": {
       "ja": "A/Bテスト",
       "es": "Prueba A/B",
       "pt": "Teste A/B",
       "ko": "A/B 테스트",
-      "fr": "Test A/B"
+      "fr": "Test A/B",
+      "tr": "A/B testi"
     },
     "Assign labels": {
       "ja": "ラベルを割り当て",
       "es": "Asignar etiquetas",
       "pt": "Atribuir rótulos",
       "ko": "라벨 지정",
-      "fr": "Attribuer des étiquettes"
+      "fr": "Attribuer des étiquettes",
+      "tr": "Etiket ata"
     },
     "Beta": {
       "ja": "ベータ",
       "es": "Beta",
       "pt": "Beta",
       "ko": "베타",
-      "fr": "Bêta"
+      "fr": "Bêta",
+      "tr": "Beta"
     },
     "Campaign Name or Internal Name": {
       "ja": "キャンペーン名または内部名",
       "es": "Nombre de campaña o nombre interno",
       "pt": "Nome da campanha ou nome interno",
       "ko": "캠페인 이름 또는 내부 이름",
-      "fr": "Nom de la campagne ou nom interne"
+      "fr": "Nom de la campagne ou nom interne",
+      "tr": "Kampanya adı veya dahili ad"
     },
     "Custom time per user timezone": {
       "ja": "ユーザーのタイムゾーンに合わせた時間",
       "es": "Hora personalizada según la zona horaria del usuario",
       "pt": "Horário personalizado por fuso horário do usuário",
       "ko": "사용자 시간대별 사용자 정의 시간",
-      "fr": "Heure personnalisée selon le fuseau horaire de l'utilisateur"
+      "fr": "Heure personnalisée selon le fuseau horaire de l'utilisateur",
+      "tr": "Kullanıcı saat dilimine göre özel zaman"
     },
     "Dynamic Content": {
       "ja": "ダイナミックコンテンツ",
       "es": "Contenido dinámico",
       "pt": "Conteúdo dinâmico",
       "ko": "동적 콘텐츠",
-      "fr": "Contenu dynamique"
+      "fr": "Contenu dynamique",
+      "tr": "Dinamik içerik"
     },
     "Email preheader text": {
       "ja": "メールのプリヘッダーテキスト",
       "es": "Texto del preencabezado del correo",
       "pt": "Texto do preheader do email",
       "ko": "이메일 프리헤더 텍스트",
-      "fr": "Texte du pré-en-tête de l'email"
+      "fr": "Texte du pré-en-tête de l'email",
+      "tr": "Email ön başlık metni"
     },
     "Email subject line": {
       "ja": "メールの件名",
       "es": "Línea de asunto del correo",
       "pt": "Linha de assunto do email",
       "ko": "이메일 제목 줄",
-      "fr": "Ligne d'objet de l'email"
+      "fr": "Ligne d'objet de l'email",
+      "tr": "Email konu satırı"
     },
     "Email users": {
       "ja": "メールユーザー",
       "es": "Usuarios de correo",
       "pt": "Usuários de email",
       "ko": "이메일 사용자",
-      "fr": "Utilisateurs email"
+      "fr": "Utilisateurs email",
+      "tr": "Email kullanıcıları"
     },
     "Event Filters Documentation": {
       "ja": "イベントフィルター文書",
       "es": "Documentación de filtros de eventos",
       "pt": "Documentação de filtros de eventos",
       "ko": "이벤트 필터 문서",
-      "fr": "Documentation des filtres d'événements"
+      "fr": "Documentation des filtres d'événements",
+      "tr": "Etkinlik filtreleri dokümantasyonu"
     },
     "Exclude Segment": {
       "ja": "セグメントを除外",
       "es": "Excluir segmento",
       "pt": "Excluir segmento",
       "ko": "세그먼트 제외",
-      "fr": "Exclure le segment"
+      "fr": "Exclure le segment",
+      "tr": "Segmenti hariç tut"
     },
     "Goal Documentation": {
       "ja": "目標文書",
       "es": "Documentación de objetivos",
       "pt": "Documentação de metas",
       "ko": "목표 문서",
-      "fr": "Documentation des objectifs"
+      "fr": "Documentation des objectifs",
+      "tr": "Hedef dokümantasyonu"
     },
     "Immediately": {
       "ja": "即時",
       "es": "Inmediatamente",
       "pt": "Imediatamente",
       "ko": "즉시",
-      "fr": "Immédiatement"
+      "fr": "Immédiatement",
+      "tr": "Hemen"
     },
     "Include Segment": {
       "ja": "セグメントを含める",
       "es": "Incluir segmento",
       "pt": "Incluir segmento",
       "ko": "세그먼트 포함",
-      "fr": "Inclure le segment"
+      "fr": "Inclure le segment",
+      "tr": "Segmenti dahil et"
     },
     "Include sending to unsubscribed users": {
       "ja": "購読解除済みユーザーへの送信を含める",
       "es": "Incluir envío a usuarios no suscritos",
       "pt": "Incluir envio para usuários não inscritos",
       "ko": "구독 취소한 사용자에게도 발송 포함",
-      "fr": "Inclure l'envoi aux utilisateurs désinscrits"
+      "fr": "Inclure l'envoi aux utilisateurs désinscrits",
+      "tr": "Abonelikten çıkan kullanıcılara göndermeyi dahil et"
     },
     "Manage segments here.": {
       "ja": "ここでセグメントを管理。",
       "es": "Administra los segmentos aquí.",
       "pt": "Gerencie segmentos aqui.",
       "ko": "여기에서 세그먼트를 관리하세요.",
-      "fr": "Gérez les segments ici."
+      "fr": "Gérez les segments ici.",
+      "tr": "Segmentleri buradan yönetin."
     },
     "Message Events and Tags": {
       "ja": "メッセージイベントとタグ",
       "es": "Eventos y etiquetas de mensajes",
       "pt": "Eventos e tags de mensagens",
       "ko": "메시지 이벤트 및 태그",
-      "fr": "Événements et tags de message"
+      "fr": "Événements et tags de message",
+      "tr": "Mesaj etkinlikleri ve etiketler"
     },
     "Message Name": {
       "ja": "メッセージ名",
       "es": "Nombre del mensaje",
       "pt": "Nome da mensagem",
       "ko": "메시지 이름",
-      "fr": "Nom du message"
+      "fr": "Nom du message",
+      "tr": "Mesaj adı"
     },
     "Message will send right away": {
       "ja": "メッセージはすぐに送信されます",
       "es": "El mensaje se enviará de inmediato",
       "pt": "A mensagem será enviada imediatamente",
       "ko": "메시지가 즉시 발송됩니다",
-      "fr": "Le message sera envoyé immédiatement"
+      "fr": "Le message sera envoyé immédiatement",
+      "tr": "Mesaj hemen gönderilecek"
     },
     "Preheader Text": {
       "ja": "プリヘッダーテキスト",
       "es": "Texto del preencabezado",
       "pt": "Texto do preheader",
       "ko": "프리헤더 텍스트",
-      "fr": "Texte du pré-en-tête"
+      "fr": "Texte du pré-en-tête",
+      "tr": "Ön başlık metni"
     },
     "Preview Mode": {
       "ja": "プレビューモード",
       "es": "Modo de vista previa",
       "pt": "Modo de visualização",
       "ko": "미리보기 모드",
-      "fr": "Mode aperçu"
+      "fr": "Mode aperçu",
+      "tr": "Önizleme modu"
     },
     "Reply-To Email": {
       "ja": "返信先メール",
       "es": "Correo de respuesta",
       "pt": "Email de resposta",
       "ko": "회신 이메일",
-      "fr": "Email de réponse"
+      "fr": "Email de réponse",
+      "tr": "Yanıt emaili"
     },
     "Review & Send": {
       "ja": "確認して送信",
       "es": "Revisar y enviar",
       "pt": "Revisar e enviar",
       "ko": "검토 및 발송",
-      "fr": "Vérifier et envoyer"
+      "fr": "Vérifier et envoyer",
+      "tr": "İncele ve gönder"
     },
     "SMS": {
       "ja": "SMS",
       "es": "SMS",
       "pt": "SMS",
       "ko": "SMS",
-      "fr": "SMS"
+      "fr": "SMS",
+      "tr": "SMS"
     },
     "Save as Template": {
       "ja": "テンプレートとして保存",
       "es": "Guardar como plantilla",
       "pt": "Salvar como modelo",
       "ko": "템플릿으로 저장",
-      "fr": "Enregistrer comme modèle"
+      "fr": "Enregistrer comme modèle",
+      "tr": "Şablon olarak kaydet"
     },
     "Search or create labels...": {
       "ja": "ラベルを検索または作成...",
       "es": "Buscar o crear etiquetas...",
       "pt": "Pesquisar ou criar rótulos...",
       "ko": "라벨 검색 또는 만들기...",
-      "fr": "Rechercher ou créer des étiquettes..."
+      "fr": "Rechercher ou créer des étiquettes...",
+      "tr": "Etiket ara veya oluştur..."
     },
     "Segments that use": {
       "ja": "これを使用するセグメント:",
       "es": "Segmentos que usan",
       "pt": "Segmentos que usam",
       "ko": "사용하는 세그먼트",
-      "fr": "Segments qui utilisent"
+      "fr": "Segments qui utilisent",
+      "tr": "Kullanan segmentler"
     },
     "Segments using": {
       "ja": "これを使用するセグメント",
       "es": "Segmentos que usan",
       "pt": "Segmentos usando",
       "ko": "사용 중인 세그먼트",
-      "fr": "Segments utilisant"
+      "fr": "Segments utilisant",
+      "tr": "Kullanan segmentler"
     },
     "Select Segment": {
       "ja": "セグメントを選択",
       "es": "Seleccionar segmento",
       "pt": "Selecionar segmento",
       "ko": "세그먼트 선택",
-      "fr": "Sélectionner un segment"
+      "fr": "Sélectionner un segment",
+      "tr": "Segment seç"
     },
     "Send With Auto Warm Up": {
       "ja": "自動ウォームアップで送信",
       "es": "Enviar con calentamiento automático",
       "pt": "Enviar com aquecimento automático",
       "ko": "자동 워밍업으로 발송",
-      "fr": "Envoyer avec préchauffe automatique"
+      "fr": "Envoyer avec préchauffe automatique",
+      "tr": "Otomatik ısıtmayla gönder"
     },
     "Send to everyone at the same time": {
       "ja": "全員に同時に送信",
       "es": "Enviar a todos al mismo tiempo",
       "pt": "Enviar a todos ao mesmo tempo",
       "ko": "모두에게 동시에 발송",
-      "fr": "Envoyer à tout le monde en même temps"
+      "fr": "Envoyer à tout le monde en même temps",
+      "tr": "Herkese aynı anda gönder"
     },
     "Set a Message Goal": {
       "ja": "メッセージの目標を設定",
       "es": "Establecer un objetivo de mensaje",
       "pt": "Definir uma meta de mensagem",
       "ko": "메시지 목표 설정",
-      "fr": "Définir un objectif de message"
+      "fr": "Définir un objectif de message",
+      "tr": "Mesaj hedefi belirleyin"
     },
     "Set a target metric to measure this message's success.": {
       "ja": "このメッセージの成功を測定する目標指標を設定。",
       "es": "Establece una métrica objetivo para medir el éxito de este mensaje.",
       "pt": "Defina uma métrica alvo para medir o sucesso desta mensagem.",
       "ko": "이 메시지의 성공을 측정할 목표 지표를 설정하세요.",
-      "fr": "Définissez une métrique cible pour mesurer le succès de ce message."
+      "fr": "Définissez une métrique cible pour mesurer le succès de ce message.",
+      "tr": "Bu mesajın başarısını ölçmek için bir hedef metrik belirleyin."
     },
     "Specific Time": {
       "ja": "特定の時刻",
       "es": "Hora específica",
       "pt": "Horário específico",
       "ko": "특정 시간",
-      "fr": "Heure spécifique"
+      "fr": "Heure spécifique",
+      "tr": "Belirli zaman"
     },
     "Subject": {
       "ja": "件名",
       "es": "Asunto",
       "pt": "Assunto",
       "ko": "제목",
-      "fr": "Objet"
+      "fr": "Objet",
+      "tr": "Konu"
     },
     "Total Users": {
       "ja": "全ユーザー",
       "es": "Total de usuarios",
       "pt": "Total de usuários",
       "ko": "총 사용자",
-      "fr": "Total des utilisateurs"
+      "fr": "Total des utilisateurs",
+      "tr": "Toplam kullanıcı"
     },
     "Track link clicks": {
       "ja": "リンククリックを追跡",
       "es": "Rastrear clics en enlaces",
       "pt": "Rastrear cliques em links",
       "ko": "링크 클릭 추적",
-      "fr": "Suivre les clics sur les liens"
+      "fr": "Suivre les clics sur les liens",
+      "tr": "Bağlantı tıklamalarını izle"
     },
     "Web push Subscriptions": {
       "ja": "Webプッシュ購読",
       "es": "Suscripciones de push web",
       "pt": "Assinaturas de push web",
       "ko": "웹 푸시 구독",
-      "fr": "Abonnements push web"
+      "fr": "Abonnements push web",
+      "tr": "Web push abonelikleri"
     },
     "When should this message start sending?": {
       "ja": "このメッセージはいつ送信を開始しますか？",
       "es": "¿Cuándo debería comenzar a enviarse este mensaje?",
       "pt": "Quando esta mensagem deve começar a ser enviada?",
       "ko": "이 메시지를 언제 발송 시작해야 하나요?",
-      "fr": "Quand ce message doit-il commencer à être envoyé ?"
+      "fr": "Quand ce message doit-il commencer à être envoyé ?",
+      "tr": "Bu mesaj ne zaman gönderilmeye başlanmalı?"
     },
     "When should users receive this message?": {
       "ja": "ユーザーはいつこのメッセージを受信しますか？",
       "es": "¿Cuándo deberían los usuarios recibir este mensaje?",
       "pt": "Quando os usuários devem receber esta mensagem?",
       "ko": "사용자가 언제 이 메시지를 받아야 하나요?",
-      "fr": "Quand les utilisateurs doivent-ils recevoir ce message ?"
+      "fr": "Quand les utilisateurs doivent-ils recevoir ce message ?",
+      "tr": "Kullanıcılar bu mesajı ne zaman almalı?"
     },
     "You also have": {
       "ja": "次もあります:",
       "es": "También tienes",
       "pt": "Você também tem",
       "ko": "또한 다음도 있습니다",
-      "fr": "Vous avez également"
+      "fr": "Vous avez également",
+      "tr": "Ayrıca şunlara sahipsiniz:"
     },
     "and cannot be included or excluded alongside other segments.": {
       "ja": "、他のセグメントと一緒に含めたり除外したりすることはできません。",
       "es": "y no puede incluirse o excluirse junto con otros segmentos.",
       "pt": "e não pode ser incluído ou excluído junto a outros segmentos.",
       "ko": "다른 세그먼트와 함께 포함하거나 제외할 수 없습니다.",
-      "fr": "et ne peut pas être inclus ni exclu avec d'autres segments."
+      "fr": "et ne peut pas être inclus ni exclu avec d'autres segments.",
+      "tr": "ve diğer segmentlerle birlikte dahil edilemez veya hariç tutulamaz."
     },
     "and cannot be used in the exclusion list.": {
       "ja": "、除外リストには使用できません。",
       "es": "y no puede usarse en la lista de exclusión.",
       "pt": "e não pode ser usado na lista de exclusão.",
       "ko": "제외 목록에서 사용할 수 없습니다.",
-      "fr": "et ne peut pas être utilisé dans la liste d'exclusion."
+      "fr": "et ne peut pas être utilisé dans la liste d'exclusion.",
+      "tr": "ve hariç tutma listesinde kullanılamaz."
     },
     "are in early-access,": {
       "ja": "は早期アクセス中、",
       "es": "están en acceso temprano,",
       "pt": "estão em acesso antecipado,",
       "ko": "얼리 액세스 중,",
-      "fr": "sont en accès anticipé,"
+      "fr": "sont en accès anticipé,",
+      "tr": "erken erişimdedir,"
     },
     "are user-based": {
       "ja": "はユーザーベース",
       "es": "están basados en usuarios",
       "pt": "são baseados em usuários",
       "ko": "사용자 기반",
-      "fr": "sont basés sur l'utilisateur"
+      "fr": "sont basés sur l'utilisateur",
+      "tr": "kullanıcı tabanlıdır"
     },
     "message events": {
       "ja": "メッセージイベント",
       "es": "eventos de mensajes",
       "pt": "eventos de mensagens",
       "ko": "메시지 이벤트",
-      "fr": "événements de message"
+      "fr": "événements de message",
+      "tr": "mesaj etkinlikleri"
     },
     "paused or processing segments.": {
       "ja": "一時停止中または処理中のセグメント。",
       "es": "segmentos en pausa o en procesamiento.",
       "pt": "segmentos em pausa ou processamento.",
       "ko": "일시 중지 또는 처리 중인 세그먼트.",
-      "fr": "segments en pause ou en cours de traitement."
+      "fr": "segments en pause ou en cours de traitement.",
+      "tr": "duraklatılmış veya işlenmekte olan segmentler."
     },
     "should": {
       "ja": "次の場合",

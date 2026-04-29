@@ -1153,7 +1153,9 @@
       "tr": [
         "Teslim edildi",
         "Teslim",
-        "teslim"
+        "teslim",
+        "Gönderim",
+        "gönderim"
       ]
     },
     "Delivery": {
@@ -1176,7 +1178,9 @@
       "tr": [
         "Teslim",
         "teslim",
-        "Teslimat"
+        "Teslimat",
+        "Gönderim",
+        "gönderim"
       ]
     },
     "Delivery Rate": {
