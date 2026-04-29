@@ -3102,7 +3102,8 @@
       "es": "Mostrar todos los resultados",
       "ja": "すべてのアウトカムを表示",
       "pt": "Mostrar todos os resultados",
-      "ko": "모든 결과 표시"
+      "ko": "모든 결과 표시",
+      "fr": "Afficher tous les résultats"
     },
     "Show Attempted": {
       "es": "Mostrar intentados",
@@ -3157,61 +3158,71 @@
       "es": "Mostrar eventos exportados",
       "ja": "エクスポートイベント数を表示",
       "pt": "Mostrar eventos exportados",
-      "ko": "내보낸 이벤트 표시"
+      "ko": "내보낸 이벤트 표시",
+      "fr": "Afficher les événements exportés"
     },
     "Show Processed Events": {
       "es": "Mostrar eventos procesados",
       "ja": "処理済みイベント数を表示",
       "pt": "Mostrar eventos processados",
-      "ko": "처리된 이벤트 표시"
+      "ko": "처리된 이벤트 표시",
+      "fr": "Afficher les événements traités"
     },
     "Show Received Events": {
       "es": "Mostrar eventos recibidos",
       "ja": "受信イベント数を表示",
       "pt": "Mostrar eventos recebidos",
-      "ko": "수신된 이벤트 표시"
+      "ko": "수신된 이벤트 표시",
+      "fr": "Afficher les événements reçus"
     },
     "Show Successful Updates": {
       "es": "Mostrar actualizaciones exitosas",
       "ja": "成功した更新数を表示",
       "pt": "Mostrar atualizações bem-sucedidas",
-      "ko": "성공적인 업데이트 표시"
+      "ko": "성공적인 업데이트 표시",
+      "fr": "Afficher les mises à jour réussies"
     },
     "Show Total subscribed": {
       "es": "Mostrar total de suscritos",
       "ja": "購読者総数を表示",
       "pt": "Mostrar total de inscritos",
-      "ko": "총 구독 수 표시"
+      "ko": "총 구독 수 표시",
+      "fr": "Afficher le total des abonnés"
     },
     "Show Unsubscribed": {
       "es": "Mostrar cancelaciones",
       "ja": "購読解除数を表示",
       "pt": "Mostrar cancelamentos",
-      "ko": "구독 취소 표시"
+      "ko": "구독 취소 표시",
+      "fr": "Afficher les désinscriptions"
     },
     "Show/hide columns": {
       "es": "Mostrar/ocultar columnas",
       "ja": "列の表示/非表示",
       "pt": "Mostrar/ocultar colunas",
-      "ko": "열 표시/숨기기"
+      "ko": "열 표시/숨기기",
+      "fr": "Afficher / masquer les colonnes"
     },
     "Showing": {
       "es": "Mostrando",
       "ja": "表示中",
       "pt": "Mostrando",
-      "ko": "표시 중"
+      "ko": "표시 중",
+      "fr": "Affichage"
     },
     "Sign Out": {
       "es": "Cerrar sesión",
       "ja": "サインアウト",
       "pt": "Sair",
-      "ko": "로그아웃"
+      "ko": "로그아웃",
+      "fr": "Se déconnecter"
     },
     "Site URL": {
       "es": "URL del sitio",
       "ja": "サイトURL",
       "pt": "URL do site",
-      "ko": "사이트 URL"
+      "ko": "사이트 URL",
+      "fr": "URL du site"
     },
     "SMS / RCS": {
       "es": "SMS / RCS",
@@ -3224,67 +3235,78 @@
       "es": "Sonido",
       "ja": "サウンド",
       "pt": "Som",
-      "ko": "소리"
+      "ko": "소리",
+      "fr": "Son"
     },
     "Sources": {
       "es": "Fuentes",
       "ja": "ソース",
       "pt": "Fontes",
-      "ko": "소스"
+      "ko": "소스",
+      "fr": "Sources"
     },
     "Started": {
       "es": "Iniciado",
       "ja": "開始済み",
       "pt": "Iniciado",
-      "ko": "시작됨"
+      "ko": "시작됨",
+      "fr": "Démarré"
     },
     "Stats": {
       "es": "Estadísticas",
       "ja": "統計",
       "pt": "Estatísticas",
-      "ko": "통계"
+      "ko": "통계",
+      "fr": "Statistiques"
     },
     "Status": {
       "es": "Estado",
       "ja": "ステータス",
       "pt": "Status",
-      "ko": "상태"
+      "ko": "상태",
+      "fr": "Statut"
     },
     "Status details": {
       "es": "Detalles del estado",
       "ja": "ステータス詳細",
       "pt": "Detalhes do status",
-      "ko": "상태 세부 정보"
+      "ko": "상태 세부 정보",
+      "fr": "Détails du statut"
     },
     "Status page": {
       "es": "Página de estado",
       "ja": "ステータスページ",
       "pt": "Página de status",
-      "ko": "상태 페이지"
+      "ko": "상태 페이지",
+      "fr": "Page de statut"
     },
     "Step": {
       "es": "Paso",
       "ja": "ステップ",
       "pt": "Etapa",
-      "ko": "단계"
+      "ko": "단계",
+      "fr": "Étape"
     },
     "Stop": {
       "es": "Detener",
       "ja": "停止",
       "pt": "Parar",
-      "ko": "중지"
+      "ko": "중지",
+      "fr": "Arrêter"
     },
     "Storage count": {
       "es": "Recuento de almacenamiento",
       "ja": "ストレージカウント",
       "pt": "Contagem de armazenamento",
-      "ko": "저장 수"
+      "ko": "저장 수",
+      "fr": "Nombre de stockage"
     },
     "Storage duration": {
       "es": "Duración de almacenamiento",
       "ja": "ストレージ期間",
       "pt": "Duração de armazenamento",
-      "ko": "저장 기간"
+      "ko": "저장 기간",
+      "fr": "Durée de stockage"
     },
     "Subject Line": {
       "es": "Asunto",
@@ -3800,7 +3822,8 @@
       "ja": "常にユーザーの意識に残る",
       "es": "Mantente en la mente de tus usuarios",
       "pt": "Mantenha-se presente na mente dos seus usuários",
-      "ko": "항상 기억되세요"
+      "ko": "항상 기억되세요",
+      "fr": "Restez dans l'esprit de vos utilisateurs"
     },
     "Visible and timely messages bring your users back": {
       "ja": "タイムリーなメッセージでユーザーを引き戻す",
@@ -4089,13 +4112,15 @@
       "ja": "ストレージ",
       "es": "Almacenamiento",
       "pt": "Armazenamento",
-      "ko": "저장소"
+      "ko": "저장소",
+      "fr": "Stockage"
     },
     "Spreadsheet": {
       "ja": "スプレッドシート",
       "es": "Hoja de cálculo",
       "pt": "Planilha",
-      "ko": "스프레드시트"
+      "ko": "스프레드시트",
+      "fr": "Tableur"
     },
     "Add Integration": {
       "ja": "インテグレーションを追加",
@@ -4319,7 +4344,8 @@
       "ja": "オーディエンスへの送信を開始します。メールを送信する準備が整いました！",
       "es": "Comienza a enviar a tu audiencia. ¡Estás listo para enviar emails!",
       "pt": "Comece a enviar para o seu público. Você está pronto para enviar e-mails!",
-      "ko": "대상에게 발송을 시작하세요. 이메일 발송 준비가 완료되었습니다!"
+      "ko": "대상에게 발송을 시작하세요. 이메일 발송 준비가 완료되었습니다!",
+      "fr": "Commencez à envoyer à votre audience. Vous êtes prêt à envoyer des emails !"
     },
     "We'll check if everything's set up correctly": {
       "ja": "すべてが正しく設定されているか確認します",
@@ -5344,7 +5370,8 @@
       "ja": "発送開始",
       "es": "Iniciar envío",
       "pt": "Iniciar envio",
-      "ko": "발송 시작"
+      "ko": "발송 시작",
+      "fr": "Commencer l'envoi"
     },
     "Subtitle": {
       "ja": "サブタイトル",
@@ -5646,13 +5673,15 @@
       "ja": "事前構築済みのデザインから始める",
       "es": "Comenzar desde un diseño prediseñado",
       "pt": "Começar a partir de um design pronto",
-      "ko": "사전 제작된 디자인으로 시작"
+      "ko": "사전 제작된 디자인으로 시작",
+      "fr": "Partir d'un design prêt à l'emploi"
     },
     "Start from scratch": {
       "ja": "最初から作成",
       "es": "Comenzar desde cero",
       "pt": "Começar do zero",
-      "ko": "처음부터 시작"
+      "ko": "처음부터 시작",
+      "fr": "Partir de zéro"
     },
     "This integration does not track delivery statistics.": {
       "ja": "この統合は配信統計を追跡しません。",
@@ -6026,7 +6055,8 @@
       "ja": "特定の時刻",
       "es": "Hora específica",
       "pt": "Horário específico",
-      "ko": "특정 시간"
+      "ko": "특정 시간",
+      "fr": "Heure spécifique"
     },
     "Subject": {
       "ja": "件名",
@@ -6281,7 +6311,8 @@
       "ja": "特定の時刻",
       "es": "Hora específica",
       "pt": "Horário específico",
-      "ko": "특정 시간"
+      "ko": "특정 시간",
+      "fr": "Heure spécifique"
     },
     "System Font (Default)": {
       "ja": "システムフォント (デフォルト)",
@@ -6595,37 +6626,43 @@
       "ja": "常に表示",
       "es": "Mostrar siempre",
       "pt": "Mostrar para sempre",
-      "ko": "항상 표시"
+      "ko": "항상 표시",
+      "fr": "Afficher en permanence"
     },
     "Show to all users": {
       "ja": "すべてのユーザーに表示",
       "es": "Mostrar a todos los usuarios",
       "pt": "Mostrar a todos os usuários",
-      "ko": "모든 사용자에게 표시"
+      "ko": "모든 사용자에게 표시",
+      "fr": "Afficher à tous les utilisateurs"
     },
     "Show to particular Segment(s)": {
       "ja": "特定のセグメントに表示",
       "es": "Mostrar a segmento(s) específico(s)",
       "pt": "Mostrar a segmento(s) específico(s)",
-      "ko": "특정 세그먼트에 표시"
+      "ko": "특정 세그먼트에 표시",
+      "fr": "Afficher à des segments spécifiques"
     },
     "Show until dismissed": {
       "ja": "閉じるまで表示",
       "es": "Mostrar hasta que se descarte",
       "pt": "Mostrar até ser descartado",
-      "ko": "닫을 때까지 표시"
+      "ko": "닫을 때까지 표시",
+      "fr": "Afficher jusqu'à fermeture"
     },
     "Start showing": {
       "ja": "表示開始",
       "es": "Comenzar a mostrar",
       "pt": "Iniciar exibição",
-      "ko": "표시 시작"
+      "ko": "표시 시작",
+      "fr": "Commencer l'affichage"
     },
     "Stop showing": {
       "ja": "表示停止",
       "es": "Detener exhibición",
       "pt": "Parar exibição",
-      "ko": "표시 중지"
+      "ko": "표시 중지",
+      "fr": "Arrêter l'affichage"
     },
     "Switch editor": {
       "ja": "エディターを切り替え",
@@ -6902,19 +6939,22 @@
       "ja": "カスタムイベントが発生したらジャーニーを開始",
       "es": "Inicia tu journey cuando ocurra un evento personalizado",
       "pt": "Inicie seu journey quando um evento personalizado ocorrer",
-      "ko": "사용자 정의 이벤트가 발생할 때 저니 시작"
+      "ko": "사용자 정의 이벤트가 발생할 때 저니 시작",
+      "fr": "Démarrez votre Journey lorsqu'un événement personnalisé se produit"
     },
     "Start:": {
       "ja": "開始:",
       "es": "Inicio:",
       "pt": "Início:",
-      "ko": "시작:"
+      "ko": "시작:",
+      "fr": "Début :"
     },
     "Stop:": {
       "ja": "終了:",
       "es": "Fin:",
       "pt": "Fim:",
-      "ko": "종료:"
+      "ko": "종료:",
+      "fr": "Fin :"
     },
     "There is still work to do": {
       "ja": "まだやるべきことがあります",
@@ -7154,7 +7194,8 @@
       "ja": "即時開始",
       "es": "Iniciar inmediatamente",
       "pt": "Iniciar imediatamente",
-      "ko": "즉시 시작"
+      "ko": "즉시 시작",
+      "fr": "Démarrer immédiatement"
     },
     "The journey is the reward.": {
       "ja": "ジャーニーそのものが報酬です。",
@@ -7330,7 +7371,8 @@
       "ja": "よりシンプルな構造",
       "es": "Estructura más simple",
       "pt": "Estrutura mais simples",
-      "ko": "더 간단한 구조"
+      "ko": "더 간단한 구조",
+      "fr": "Structure plus simple"
     },
     "updated CSV format": {
       "ja": "更新されたCSV形式",
@@ -7779,7 +7821,8 @@
       "ja": "小さいアイコン",
       "es": "Icono pequeño",
       "pt": "Ícone pequeno",
-      "ko": "작은 아이콘"
+      "ko": "작은 아이콘",
+      "fr": "Petite icône"
     },
     "Subtitle (Any/English)": {
       "ja": "サブタイトル (Any/英語)",
@@ -8004,7 +8047,8 @@
       "ja": "フィルターを追加するとオーディエンス数が表示されます",
       "es": "Comienza a agregar filtros para ver el conteo de la audiencia",
       "pt": "Comece a adicionar filtros para ver a contagem do público",
-      "ko": "필터를 추가하면 대상 수가 표시됩니다"
+      "ko": "필터를 추가하면 대상 수가 표시됩니다",
+      "fr": "Commencez à ajouter des filtres pour voir le nombre d'audience"
     },
     "Subscription records in this segment must meet these rules:": {
       "ja": "このセグメントの購読レコードは次のルールを満たす必要があります:",
@@ -8403,7 +8447,8 @@
       "ja": "ゼロから始めるか、",
       "es": "Comenzar desde cero o",
       "pt": "Começar do zero ou",
-      "ko": "처음부터 시작하거나"
+      "ko": "처음부터 시작하거나",
+      "fr": "Partir de zéro ou"
     },
     "You haven't added any dynamic content yet": {
       "ja": "まだダイナミックコンテンツを追加していません",
@@ -8631,7 +8676,8 @@
       "ja": "スペイン語",
       "es": "Español",
       "pt": "Espanhol",
-      "ko": "스페인어"
+      "ko": "스페인어",
+      "fr": "Espagnol"
     },
     "Activity": {
       "ja": "活動",
@@ -9075,7 +9121,8 @@
       "ja": "ソース",
       "es": "Fuente",
       "pt": "Origem",
-      "ko": "소스"
+      "ko": "소스",
+      "fr": "Source"
     },
     "Template Created": {
       "ja": "テンプレートが作成されました",
@@ -9732,7 +9779,8 @@
       "ja": "追跡を停止",
       "es": "Dejar de rastrear",
       "pt": "Parar de rastrear",
-      "ko": "추적 중지"
+      "ko": "추적 중지",
+      "fr": "Arrêter le suivi"
     },
     "Keywords": {
       "ja": "キーワード",
@@ -9947,7 +9995,8 @@
       "ja": "開始",
       "es": "Iniciar",
       "pt": "Iniciar",
-      "ko": "시작"
+      "ko": "시작",
+      "fr": "Démarrer"
     },
     "Subscription Keyword Response": {
       "ja": "購読キーワードの応答",
@@ -10058,7 +10107,8 @@
       "ja": "パスワードを表示",
       "es": "Mostrar contraseña",
       "pt": "Mostrar senha",
-      "ko": "비밀번호 표시"
+      "ko": "비밀번호 표시",
+      "fr": "Afficher le mot de passe"
     },
     "Twilio Account SID": {
       "ja": "Twilioアカウントsid",
