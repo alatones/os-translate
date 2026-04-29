@@ -20,7 +20,10 @@
       "es": "Journeys",
       "pt": "Journeys",
       "ko": "저니",
-      "fr": "Journeys"
+      "fr": [
+        "Journeys",
+        "Journey"
+      ]
     },
     "Segment": {
       "ja": "セグメント",
@@ -68,7 +71,10 @@
         "assinatura"
       ],
       "ko": "구독",
-      "fr": "Abonnements"
+      "fr": [
+        "Abonnements",
+        "Abonnement"
+      ]
     },
     "Subscriber": {
       "ja": "購読者",

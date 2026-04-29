@@ -2211,31 +2211,36 @@
       "es": "Sin datos",
       "ja": "データなし",
       "pt": "Sem dados",
-      "ko": "데이터 없음"
+      "ko": "데이터 없음",
+      "fr": "Aucune donnée"
     },
     "No metrics collected": {
       "es": "No hay métricas recopiladas",
       "ja": "メトリクスが収集されていません",
       "pt": "Nenhuma métrica coletada",
-      "ko": "수집된 지표 없음"
+      "ko": "수집된 지표 없음",
+      "fr": "Aucune métrique collectée"
     },
     "No recipients": {
       "es": "Sin destinatarios",
       "ja": "受信者なし",
       "pt": "Sem destinatários",
-      "ko": "수신자 없음"
+      "ko": "수신자 없음",
+      "fr": "Aucun destinataire"
     },
     "No results": {
       "es": "Sin resultados",
       "ja": "結果なし",
       "pt": "Sem resultados",
-      "ko": "결과 없음"
+      "ko": "결과 없음",
+      "fr": "Aucun résultat"
     },
     "No results found": {
       "es": "No se encontraron resultados",
       "ja": "結果が見つかりません",
       "pt": "Nenhum resultado encontrado",
-      "ko": "결과를 찾을 수 없음"
+      "ko": "결과를 찾을 수 없음",
+      "fr": "Aucun résultat trouvé"
     },
     "not exists": {
       "es": "no existe",
@@ -2247,49 +2252,57 @@
       "es": "No suscrito",
       "ja": "未登録",
       "pt": "Não inscrito",
-      "ko": "구독하지 않음"
+      "ko": "구독하지 않음",
+      "fr": "Non abonné"
     },
     "Notification": {
       "es": "Notificación",
       "ja": "通知",
       "pt": "Notificação",
-      "ko": "알림"
+      "ko": "알림",
+      "fr": "Notification"
     },
     "Notification Permission": {
       "es": "Permiso de notificación",
       "ja": "通知許可",
       "pt": "Permissão de notificação",
-      "ko": "알림 권한"
+      "ko": "알림 권한",
+      "fr": "Autorisation de notification"
     },
     "Notifications": {
       "es": "Notificaciones",
       "ja": "通知",
       "pt": "Notificações",
-      "ko": "알림"
+      "ko": "알림",
+      "fr": "Notifications"
     },
     "Nov": {
       "es": "nov",
       "ja": "11月",
       "pt": "nov",
-      "ko": "11월"
+      "ko": "11월",
+      "fr": "nov"
     },
     "November": {
       "es": "noviembre",
       "ja": "11月",
       "pt": "novembro",
-      "ko": "11월"
+      "ko": "11월",
+      "fr": "novembre"
     },
     "Oct": {
       "es": "oct",
       "ja": "10月",
       "pt": "out",
-      "ko": "10월"
+      "ko": "10월",
+      "fr": "oct"
     },
     "October": {
       "es": "octubre",
       "ja": "10月",
       "pt": "outubro",
-      "ko": "10월"
+      "ko": "10월",
+      "fr": "octobre"
     },
     "of": {
       "es": "de",
@@ -2301,19 +2314,22 @@
       "es": "Incorporación",
       "ja": "オンボーディング",
       "pt": "Integração",
-      "ko": "온보딩"
+      "ko": "온보딩",
+      "fr": "Onboarding"
     },
     "OneSignal AI": {
       "es": "OneSignal AI",
       "ja": "OneSignal AI",
       "pt": "OneSignal AI",
-      "ko": "OneSignal AI"
+      "ko": "OneSignal AI",
+      "fr": "OneSignal AI"
     },
     "OneSignal ID": {
       "es": "OneSignal ID",
       "ja": "OneSignal ID",
       "pt": "OneSignal ID",
-      "ko": "OneSignal ID"
+      "ko": "OneSignal ID",
+      "fr": "OneSignal ID"
     },
     "Open Rate": {
       "es": "Tasa de apertura",
@@ -3866,7 +3882,8 @@
       "ja": "通知 Alt+T",
       "es": "Notificaciones Alt+T",
       "pt": "Notificações Alt+T",
-      "ko": "알림 Alt+T"
+      "ko": "알림 Alt+T",
+      "fr": "Notifications Alt+T"
     },
     "Event Stream documentation": {
       "ja": "イベントストリームのドキュメント",
@@ -3975,7 +3992,8 @@
       "ja": "コンテンツがありません",
       "es": "Sin contenido",
       "pt": "Sem conteúdo",
-      "ko": "내용 없음"
+      "ko": "내용 없음",
+      "fr": "Aucun contenu"
     },
     "When you configure an integration, its status will be displayed here.": {
       "ja": "インテグレーションを設定すると、そのステータスがここに表示されます。",
@@ -4202,7 +4220,8 @@
       "ja": "開発リソースやアプリのリリースは不要",
       "es": "No se requieren recursos de desarrollo ni lanzamiento de app",
       "pt": "Nenhum recurso de desenvolvedor ou lançamento de app necessário",
-      "ko": "개발자 리소스나 앱 배포 없이 가능"
+      "ko": "개발자 리소스나 앱 배포 없이 가능",
+      "fr": "Aucune ressource de développement ni publication d'app requise"
     },
     "Set Up In-App": {
       "ja": "アプリ内をセットアップ",
@@ -4362,13 +4381,15 @@
       "ja": "キャンペーンをスケジュールすると、ここに表示されます",
       "es": "Una vez que programes una campaña, aparecerá aquí",
       "pt": "Quando você agendar uma campanha, ela aparecerá aqui",
-      "ko": "캠페인을 예약하면 여기에 표시됩니다"
+      "ko": "캠페인을 예약하면 여기에 표시됩니다",
+      "fr": "Une fois une campagne planifiée, elle apparaîtra ici"
     },
     "Once you send a campaign, it will show up here": {
       "ja": "キャンペーンを送信すると、ここに表示されます",
       "es": "Una vez que envíes una campaña, aparecerá aquí",
       "pt": "Quando você enviar uma campanha, ela aparecerá aqui",
-      "ko": "캠페인을 발송하면 여기에 표시됩니다"
+      "ko": "캠페인을 발송하면 여기에 표시됩니다",
+      "fr": "Une fois une campagne envoyée, elle apparaîtra ici"
     },
     "Recently sent messages, all in one place": {
       "ja": "最近送信したメッセージをすべて一か所で確認",
@@ -4753,13 +4774,15 @@
       "ja": "OneSignalロゴ",
       "es": "Logotipo de OneSignal",
       "pt": "Logotipo da OneSignal",
-      "ko": "OneSignal 로고"
+      "ko": "OneSignal 로고",
+      "fr": "Logo OneSignal"
     },
     "OneSignal logo": {
       "ja": "OneSignalロゴ",
       "es": "Logotipo de OneSignal",
       "pt": "Logotipo da OneSignal",
-      "ko": "OneSignal 로고"
+      "ko": "OneSignal 로고",
+      "fr": "Logo OneSignal"
     },
     "Remove Clicks filter": {
       "ja": "クリックフィルターを削除",
@@ -5103,7 +5126,8 @@
       "ja": "通常",
       "es": "Normal",
       "pt": "Normal",
-      "ko": "보통"
+      "ko": "보통",
+      "fr": "Normal"
     },
     "Public - Always show the contents on the lockscreen.": {
       "ja": "公開 - ロック画面に常にコンテンツを表示する。",
@@ -5432,7 +5456,8 @@
       "ja": "OneSignalクイックスタートデザイン",
       "es": "Diseños de inicio rápido de OneSignal",
       "pt": "Designs de início rápido do OneSignal",
-      "ko": "OneSignal 빠른 시작 디자인"
+      "ko": "OneSignal 빠른 시작 디자인",
+      "fr": "Modèles de démarrage rapide OneSignal"
     },
     "Start from a pre-built design": {
       "ja": "事前構築済みのデザインから始める",
@@ -6104,7 +6129,8 @@
       "ja": "OneSignalインアプリメッセージのプレビュー",
       "es": "Vista previa del mensaje in-app de OneSignal",
       "pt": "Pré-visualização da mensagem in-app do OneSignal",
-      "ko": "OneSignal 인앱 메시지 미리보기"
+      "ko": "OneSignal 인앱 메시지 미리보기",
+      "fr": "Aperçu du message in-app OneSignal"
     },
     "4. Triggers": {
       "ja": "4. トリガー",
@@ -6339,13 +6365,15 @@
       "ja": "アプリ起動時",
       "es": "Al abrir la aplicación",
       "pt": "Ao abrir o aplicativo",
-      "ko": "앱 열 때"
+      "ko": "앱 열 때",
+      "fr": "À l'ouverture de l'app"
     },
     "Only once": {
       "ja": "1回のみ",
       "es": "Solo una vez",
       "pt": "Apenas uma vez",
-      "ko": "한 번만"
+      "ko": "한 번만",
+      "fr": "Une seule fois"
     },
     "Portrait orientation": {
       "ja": "縦向き",
@@ -6634,7 +6662,8 @@
       "ja": "このジャーニーが公開されたら、今後セグメントに一致するユーザーのみを含める。",
       "es": "Incluir solo usuarios que coincidan con segmento(s) en el futuro una vez que este journey esté activo.",
       "pt": "Inclua apenas usuários que correspondam a(os) segmento(s) no futuro depois que este journey estiver ativo.",
-      "ko": "이 저니가 라이브된 후 향후 세그먼트와 일치하는 사용자만 포함합니다."
+      "ko": "이 저니가 라이브된 후 향후 세그먼트와 일치하는 사용자만 포함합니다.",
+      "fr": "Inclure uniquement les utilisateurs correspondant au(x) segment(s) à l'avenir, une fois ce Journey en ligne."
     },
     "Re-Entry Rules": {
       "ja": "再開始ルール",
@@ -7406,13 +7435,15 @@
       "ja": "なし",
       "es": "Ninguno",
       "pt": "Nenhum",
-      "ko": "없음"
+      "ko": "없음",
+      "fr": "Aucun"
     },
     "Notification Interruption Level": {
       "ja": "通知の割り込みレベル",
       "es": "Nivel de interrupción de la notificación",
       "pt": "Nível de interrupção da notificação",
-      "ko": "알림 중단 수준"
+      "ko": "알림 중단 수준",
+      "fr": "Niveau d'interruption de la notification"
     },
     "Passive": {
       "ja": "パッシブ",
@@ -8383,7 +8414,8 @@
       "ja": "最近の活動なし",
       "es": "Sin actividad reciente",
       "pt": "Sem atividade recente",
-      "ko": "최근 활동 없음"
+      "ko": "최근 활동 없음",
+      "fr": "Aucune activité récente"
     },
     "Refreshing...": {
       "ja": "更新中...",
@@ -8456,43 +8488,50 @@
       "ja": "エイリアスなし",
       "es": "Sin alias",
       "pt": "Sem aliases",
-      "ko": "별칭 없음"
+      "ko": "별칭 없음",
+      "fr": "Aucun alias"
     },
     "No custom events": {
       "ja": "カスタムイベントなし",
       "es": "Sin eventos personalizados",
       "pt": "Sem eventos personalizados",
-      "ko": "사용자 정의 이벤트 없음"
+      "ko": "사용자 정의 이벤트 없음",
+      "fr": "Aucun événement personnalisé"
     },
     "No device records": {
       "ja": "デバイス記録なし",
       "es": "Sin registros de dispositivos",
       "pt": "Sem registros de dispositivo",
-      "ko": "기기 기록 없음"
+      "ko": "기기 기록 없음",
+      "fr": "Aucun enregistrement d'appareil"
     },
     "No events": {
       "ja": "イベントなし",
       "es": "Sin eventos",
       "pt": "Sem eventos",
-      "ko": "이벤트 없음"
+      "ko": "이벤트 없음",
+      "fr": "Aucun événement"
     },
     "No journeys": {
       "ja": "ジャーニーなし",
       "es": "Sin Journeys",
       "pt": "Sem Journeys",
-      "ko": "저니 없음"
+      "ko": "저니 없음",
+      "fr": "Aucun Journey"
     },
     "No message events": {
       "ja": "メッセージイベントなし",
       "es": "Sin eventos de mensajes",
       "pt": "Sem eventos de mensagens",
-      "ko": "메시지 이벤트 없음"
+      "ko": "메시지 이벤트 없음",
+      "fr": "Aucun événement de message"
     },
     "No subscriptions": {
       "ja": "購読なし",
       "es": "Sin suscripciones",
       "pt": "Sem assinaturas",
-      "ko": "구독 없음"
+      "ko": "구독 없음",
+      "fr": "Aucun abonnement"
     },
     "Phone": {
       "ja": "電話",
@@ -8660,7 +8699,8 @@
       "ja": "データメニューを開く",
       "es": "Abrir menú de datos",
       "pt": "Abrir menu de dados",
-      "ko": "데이터 메뉴 열기"
+      "ko": "데이터 메뉴 열기",
+      "fr": "Ouvrir le menu Données"
     },
     "Awaiting Double Opt-In": {
       "ja": "ダブルオプトイン待機中",
@@ -8973,7 +9013,8 @@
       "ja": "通知チャネルはAndroid 8.0 (APIレベル26) の機能で、ユーザーが通知をより細かく制御できます。",
       "es": "Los canales de notificación son una función de Android 8.0 (API nivel 26) que permite a los usuarios un control más fino sobre las notificaciones.",
       "pt": "Os canais de notificação são um recurso do Android 8.0 (nível de API 26) que dá aos usuários um controle mais detalhado sobre as notificações.",
-      "ko": "알림 채널은 Android 8.0 (API 레벨 26) 기능으로, 사용자가 알림을 더 세밀하게 제어할 수 있습니다."
+      "ko": "알림 채널은 Android 8.0 (API 레벨 26) 기능으로, 사용자가 알림을 더 세밀하게 제어할 수 있습니다.",
+      "fr": "Les canaux de notification sont une fonctionnalité d'Android 8.0 (niveau API 26) qui offre aux utilisateurs un contrôle plus fin sur les notifications."
     },
     "Push Frequency Capping": {
       "ja": "プッシュ頻度制限",
@@ -9120,13 +9161,15 @@
       "ja": "OneSignalはOneSignalメールを使用しているユーザーに対してのみサプレッション管理を提供します。",
       "es": "OneSignal solo proporciona gestión de supresión para los usuarios que utilizan correo de OneSignal.",
       "pt": "O OneSignal fornece gerenciamento de supressão apenas para usuários que usam o email do OneSignal.",
-      "ko": "OneSignal은 OneSignal 이메일을 사용하는 사용자에게만 수신 거부 관리를 제공합니다."
+      "ko": "OneSignal은 OneSignal 이메일을 사용하는 사용자에게만 수신 거부 관리를 제공합니다.",
+      "fr": "OneSignal ne fournit la gestion de suppression que pour les utilisateurs d'OneSignal email."
     },
     "OneSignal rates your reputation based on the bounce rate and spam rate of your emails. The spam rates do not include spam reports from Gmail. To see Gmail spam reports, setup Google postmaster.": {
       "ja": "OneSignalはメールのバウンス率とスパム率に基づいて評判を評価します。スパム率にはGmailからのスパム報告は含まれません。Gmailのスパム報告を確認するには、Google Postmasterを設定してください。",
       "es": "OneSignal califica tu reputación según la tasa de rebote y la tasa de spam de tus correos. Las tasas de spam no incluyen los informes de spam de Gmail. Para ver los informes de spam de Gmail, configura Google Postmaster.",
       "pt": "O OneSignal avalia sua reputação com base na taxa de devolução e na taxa de spam de seus emails. As taxas de spam não incluem relatórios de spam do Gmail. Para ver os relatórios de spam do Gmail, configure o Google Postmaster.",
-      "ko": "OneSignal은 이메일의 반송률 및 스팸률을 기준으로 평판을 평가합니다. 스팸률에는 Gmail의 스팸 신고가 포함되지 않습니다. Gmail 스팸 신고를 보려면 Google Postmaster를 설정하세요."
+      "ko": "OneSignal은 이메일의 반송률 및 스팸률을 기준으로 평판을 평가합니다. 스팸률에는 Gmail의 스팸 신고가 포함되지 않습니다. Gmail 스팸 신고를 보려면 Google Postmaster를 설정하세요.",
+      "fr": "OneSignal évalue votre réputation en fonction du taux de rebond et du taux de spam de vos emails. Les taux de spam n'incluent pas les signalements de Gmail. Pour voir les signalements de spam de Gmail, configurez Google Postmaster."
     },
     "Password": {
       "ja": "パスワード",
@@ -9284,7 +9327,8 @@
       "ja": "OneSignalアプリID",
       "es": "ID de app de OneSignal",
       "pt": "ID do app OneSignal",
-      "ko": "OneSignal 앱 ID"
+      "ko": "OneSignal 앱 ID",
+      "fr": "ID de l'app OneSignal"
     },
     "Require authentication for API push notifications (recommended)": {
       "ja": "APIプッシュ通知に認証を要求 (推奨)",
@@ -9327,13 +9371,15 @@
       "ja": "グループが作成されていません。通知チャネルを追加するにはグループを作成してください",
       "es": "No se han creado grupos. Crea un grupo para agregar canales de notificación",
       "pt": "Nenhum grupo criado. Crie um grupo para adicionar canais de notificação",
-      "ko": "그룹이 생성되지 않았습니다. 알림 채널을 추가하려면 그룹을 만드세요"
+      "ko": "그룹이 생성되지 않았습니다. 알림 채널을 추가하려면 그룹을 만드세요",
+      "fr": "Aucun groupe créé. Créez un groupe pour ajouter des canaux de notification"
     },
     "Notification Updates in Android Oreo": {
       "ja": "Android Oreoにおける通知の更新",
       "es": "Actualizaciones de notificaciones en Android Oreo",
       "pt": "Atualizações de notificação no Android Oreo",
-      "ko": "Android Oreo의 알림 업데이트"
+      "ko": "Android Oreo의 알림 업데이트",
+      "fr": "Mises à jour des notifications dans Android Oreo"
     },
     "Outcomes Tracking": {
       "ja": "結果追跡",
@@ -9530,13 +9576,15 @@
       "ja": "オフ",
       "es": "OFF",
       "pt": "OFF",
-      "ko": "꺼짐"
+      "ko": "꺼짐",
+      "fr": "OFF"
     },
     "OneSignal SMS": {
       "ja": "OneSignal SMS",
       "es": "OneSignal SMS",
       "pt": "OneSignal SMS",
-      "ko": "OneSignal SMS"
+      "ko": "OneSignal SMS",
+      "fr": "OneSignal SMS"
     },
     "Opt-Out": {
       "ja": "オプトアウト",
@@ -9748,7 +9796,8 @@
       "ja": "メッセージ返信を受信できません",
       "es": "No recibe respuestas de mensajes",
       "pt": "Não recebe respostas de mensagens",
-      "ko": "메시지 회신을 수신하지 못함"
+      "ko": "메시지 회신을 수신하지 못함",
+      "fr": "Ne reçoit pas de réponses aux messages"
     },
     "Alphanumeric": {
       "ja": "英数字",
@@ -9794,7 +9843,8 @@
       "ja": "OneSignalはOneSignalメールを使用しているユーザーに対してのみ評判管理を提供します。",
       "es": "OneSignal solo proporciona gestión de reputación para los usuarios que utilizan correo de OneSignal.",
       "pt": "O OneSignal fornece gerenciamento de reputação apenas para usuários que usam o email do OneSignal.",
-      "ko": "OneSignal은 OneSignal 이메일을 사용하는 사용자에게만 평판 관리를 제공합니다."
+      "ko": "OneSignal은 OneSignal 이메일을 사용하는 사용자에게만 평판 관리를 제공합니다.",
+      "fr": "OneSignal ne fournit la gestion de réputation que pour les utilisateurs d'OneSignal email."
     },
     "SMS / RCS Settings": {
       "ja": "SMS / RCS設定",
