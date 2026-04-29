@@ -5,7 +5,8 @@
     "pt": "Português — Portuguese",
     "ko": "한국어 — Korean",
     "fr": "Français — French",
-    "tr": "Türkçe — Turkish"
+    "tr": "Türkçe — Turkish",
+    "zh-CN": "简体中文 — Simplified Chinese"
   },
   "translations": {
     "+ Create...": {
