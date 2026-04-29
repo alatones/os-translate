@@ -1610,157 +1610,183 @@
       "es": "Journey",
       "ja": "ジャーニー",
       "pt": "Journey",
-      "ko": "저니"
+      "ko": "저니",
+      "fr": "Journey"
     },
     "Journey Webhook": {
       "es": "Webhook de Journey",
       "ja": "ジャーニーWebhook",
       "pt": "Webhook de Journey",
-      "ko": "저니 웹훅"
+      "ko": "저니 웹훅",
+      "fr": "Webhook Journey"
     },
     "Journey Webhooks": {
       "es": "Webhooks de Journey",
       "ja": "ジャーニーWebhook",
       "pt": "Webhooks de Journey",
-      "ko": "저니 웹훅"
+      "ko": "저니 웹훅",
+      "fr": "Webhooks Journey"
     },
     "Journeys": {
       "es": "Journeys",
       "ja": "ジャーニー",
       "pt": "Journeys",
-      "ko": "저니"
+      "ko": "저니",
+      "fr": "Journeys"
     },
     "Jul": {
       "es": "jul",
       "ja": "7月",
       "pt": "jul",
-      "ko": "7월"
+      "ko": "7월",
+      "fr": "juil"
     },
     "July": {
       "es": "julio",
       "ja": "7月",
       "pt": "julho",
-      "ko": "7월"
+      "ko": "7월",
+      "fr": "juillet"
     },
     "Jump forward": {
       "es": "Avanzar",
       "ja": "先へ進む",
       "pt": "Avançar",
-      "ko": "앞으로 이동"
+      "ko": "앞으로 이동",
+      "fr": "Avancer"
     },
     "Jun": {
       "es": "jun",
       "ja": "6月",
       "pt": "jun",
-      "ko": "6월"
+      "ko": "6월",
+      "fr": "juin"
     },
     "June": {
       "es": "junio",
       "ja": "6月",
       "pt": "junho",
-      "ko": "6월"
+      "ko": "6월",
+      "fr": "juin"
     },
     "Key": {
       "es": "Clave",
       "ja": "キー",
       "pt": "Chave",
-      "ko": "키"
+      "ko": "키",
+      "fr": "Clé"
     },
     "Keys & IDs": {
       "es": "Claves e IDs",
       "ja": "キーとID",
       "pt": "Chaves e IDs",
-      "ko": "키 및 ID"
+      "ko": "키 및 ID",
+      "fr": "Clés et ID"
     },
     "Labels": {
       "es": "Etiquetas",
       "ja": "ラベル",
       "pt": "Rótulos",
-      "ko": "라벨"
+      "ko": "라벨",
+      "fr": "Étiquettes"
     },
     "Language": {
       "es": "Idioma",
       "ja": "言語",
       "pt": "Idioma",
-      "ko": "언어"
+      "ko": "언어",
+      "fr": "Langue"
     },
     "Language code": {
       "es": "Código de idioma",
       "ja": "言語コード",
       "pt": "Código de idioma",
-      "ko": "언어 코드"
+      "ko": "언어 코드",
+      "fr": "Code de langue"
     },
     "Large Image": {
       "es": "Imagen grande",
       "ja": "大きな画像",
       "pt": "Imagem grande",
-      "ko": "큰 이미지"
+      "ko": "큰 이미지",
+      "fr": "Grande image"
     },
     "Last activated": {
       "es": "Última activación",
       "ja": "最終有効化",
       "pt": "Última ativação",
-      "ko": "마지막 활성화"
+      "ko": "마지막 활성화",
+      "fr": "Dernière activation"
     },
     "Last Active": {
       "es": "Última actividad",
       "ja": "最終アクティブ",
       "pt": "Última atividade",
-      "ko": "마지막 활성"
+      "ko": "마지막 활성",
+      "fr": "Dernière activité"
     },
     "Last active": {
       "es": "Última actividad",
       "ja": "最終アクティブ",
       "pt": "Última atividade",
-      "ko": "마지막 활성"
+      "ko": "마지막 활성",
+      "fr": "Dernière activité"
     },
     "Last month": {
       "es": "Mes pasado",
       "ja": "先月",
       "pt": "Mês passado",
-      "ko": "지난달"
+      "ko": "지난달",
+      "fr": "Mois dernier"
     },
     "Last received": {
       "es": "Última recepción",
       "ja": "最終受信",
       "pt": "Último recebido",
-      "ko": "마지막 수신"
+      "ko": "마지막 수신",
+      "fr": "Dernière réception"
     },
     "Last sent": {
       "es": "Último envío",
       "ja": "最終送信",
       "pt": "Último envio",
-      "ko": "마지막 발송"
+      "ko": "마지막 발송",
+      "fr": "Dernier envoi"
     },
     "Last Session": {
       "es": "Última sesión",
       "ja": "最終セッション",
       "pt": "Última sessão",
-      "ko": "마지막 세션"
+      "ko": "마지막 세션",
+      "fr": "Dernière session"
     },
     "Last session": {
       "es": "Última sesión",
       "ja": "最終セッション",
       "pt": "Última sessão",
-      "ko": "마지막 세션"
+      "ko": "마지막 세션",
+      "fr": "Dernière session"
     },
     "Last Sync": {
       "es": "Última sincronización",
       "ja": "最終同期",
       "pt": "Última sincronização",
-      "ko": "마지막 동기화"
+      "ko": "마지막 동기화",
+      "fr": "Dernière synchronisation"
     },
     "Last unsubscribed": {
       "es": "Última cancelación",
       "ja": "最終購読解除",
       "pt": "Último cancelamento",
-      "ko": "마지막 구독 취소"
+      "ko": "마지막 구독 취소",
+      "fr": "Dernière désinscription"
     },
     "Last Updated": {
       "es": "Última actualización",
       "ja": "最終更新",
       "pt": "Última atualização",
-      "ko": "마지막 업데이트"
+      "ko": "마지막 업데이트",
+      "fr": "Dernière mise à jour"
     },
     "Launch CSV Importer": {
       "es": "Iniciar importador CSV",
@@ -3930,7 +3956,8 @@
       "ja": "ジャーニーWebhookは、OneSignalジャーニーからサーバーや外部サービスにHTTPリクエストを送信します。",
       "es": "Los Journey Webhooks envían solicitudes HTTP desde OneSignal Journeys a tus servidores o servicios externos.",
       "pt": "Os Journey Webhooks enviam solicitações HTTP dos Journeys do OneSignal para seus servidores ou serviços externos.",
-      "ko": "저니 웹훅은 OneSignal 저니에서 서버 또는 외부 서비스로 HTTP 요청을 전송합니다."
+      "ko": "저니 웹훅은 OneSignal 저니에서 서버 또는 외부 서비스로 HTTP 요청을 전송합니다.",
+      "fr": "Les Journey Webhooks envoient des requêtes HTTP depuis OneSignal Journeys vers vos serveurs ou services externes."
     },
     "Orchestrate messages across platforms (e.g., WhatsApp, direct mail) by configuring a webhook for a Journey": {
       "ja": "ジャーニーのWebhookを設定して、複数のプラットフォーム（例：WhatsApp、ダイレクトメール）でメッセージを調整する",
@@ -4189,7 +4216,8 @@
       "ja": "ジャーニーのドキュメント",
       "es": "Documentación de Journeys",
       "pt": "Documentação de Journeys",
-      "ko": "저니 문서"
+      "ko": "저니 문서",
+      "fr": "Documentation Journeys"
     },
     "New Automated Email": {
       "ja": "新しい自動メール",
@@ -4251,13 +4279,15 @@
       "ja": "キャンペーン全体の配信率を監視",
       "es": "Controla la capacidad de entrega en todas tus campañas",
       "pt": "Monitore a capacidade de entrega em todas as campanhas",
-      "ko": "캠페인 전체의 전달률을 모니터링하세요"
+      "ko": "캠페인 전체의 전달률을 모니터링하세요",
+      "fr": "Surveillez la délivrabilité sur l'ensemble de vos campagnes"
     },
     "Keep an eye on what's ahead": {
       "ja": "今後の予定を確認",
       "es": "Mantén un ojo en lo que viene",
       "pt": "Fique de olho no que está por vir",
-      "ko": "앞으로 있을 일을 주시하세요"
+      "ko": "앞으로 있을 일을 주시하세요",
+      "fr": "Restez attentif à ce qui arrive"
     },
     "Messages: All": {
       "ja": "メッセージ：すべて",
@@ -4380,7 +4410,8 @@
       "ja": "ユーザーを把握",
       "es": "Conoce a tus usuarios",
       "pt": "Conheça seus usuários",
-      "ko": "사용자를 파악하세요"
+      "ko": "사용자를 파악하세요",
+      "fr": "Connaissez vos utilisateurs"
     },
     "Manage user profiles": {
       "ja": "ユーザープロフィールを管理",
@@ -6486,13 +6517,15 @@
       "ja": "ジャーニー文書",
       "es": "Documentación de Journey",
       "pt": "Documentação de Journey",
-      "ko": "저니 문서"
+      "ko": "저니 문서",
+      "fr": "Documentation Journey"
     },
     "Journey Settings": {
       "ja": "ジャーニー設定",
       "es": "Configuración de Journey",
       "pt": "Configurações de Journey",
-      "ko": "저니 설정"
+      "ko": "저니 설정",
+      "fr": "Paramètres du Journey"
     },
     "Only include users that match segment(s) in the future once this journey is live.": {
       "ja": "このジャーニーが公開されたら、今後セグメントに一致するユーザーのみを含める。",
@@ -6675,25 +6708,29 @@
       "ja": "ジャーニーの説明",
       "es": "Descripción del Journey",
       "pt": "Descrição do Journey",
-      "ko": "저니 설명"
+      "ko": "저니 설명",
+      "fr": "Description du Journey"
     },
     "Journey name": {
       "ja": "ジャーニー名",
       "es": "Nombre del Journey",
       "pt": "Nome do Journey",
-      "ko": "저니 이름"
+      "ko": "저니 이름",
+      "fr": "Nom du Journey"
     },
     "Journey saved!": {
       "ja": "ジャーニーを保存しました！",
       "es": "¡Journey guardado!",
       "pt": "Journey salvo!",
-      "ko": "저니가 저장되었습니다!"
+      "ko": "저니가 저장되었습니다!",
+      "fr": "Journey enregistré !"
     },
     "Keep editing": {
       "ja": "編集を続ける",
       "es": "Seguir editando",
       "pt": "Continuar editando",
-      "ko": "계속 편집"
+      "ko": "계속 편집",
+      "fr": "Continuer la modification"
     },
     "Leave": {
       "ja": "離れる",
@@ -6871,7 +6908,8 @@
       "ja": "ジャーニー名",
       "es": "Nombre del Journey",
       "pt": "Nome do Journey",
-      "ko": "저니 이름"
+      "ko": "저니 이름",
+      "fr": "Nom du Journey"
     },
     "My Journey": {
       "ja": "マイジャーニー",
@@ -7214,13 +7252,15 @@
       "ja": "LEDの色",
       "es": "Color del LED",
       "pt": "Cor do LED",
-      "ko": "LED 색상"
+      "ko": "LED 색상",
+      "fr": "Couleur de la LED"
     },
     "Large Icon": {
       "ja": "大きいアイコン",
       "es": "Icono grande",
       "pt": "Ícone grande",
-      "ko": "큰 아이콘"
+      "ko": "큰 아이콘",
+      "fr": "Grande icône"
     },
     "Launch URL 1": {
       "ja": "起動URL 1",
@@ -8406,7 +8446,8 @@
       "ja": "最後に受信したイベント:",
       "es": "Último evento recibido:",
       "pt": "Último evento recebido:",
-      "ko": "마지막 수신 이벤트:"
+      "ko": "마지막 수신 이벤트:",
+      "fr": "Dernier événement reçu :"
     },
     "3. Delivery Schedule": {
       "ja": "3. 配信スケジュール",
@@ -8524,13 +8565,15 @@
       "ja": "ジャーニーが更新されました",
       "es": "Journey actualizado",
       "pt": "Journey atualizado",
-      "ko": "저니가 업데이트됨"
+      "ko": "저니가 업데이트됨",
+      "fr": "Journey mis à jour"
     },
     "Journey Created": {
       "ja": "ジャーニーが作成されました",
       "es": "Journey creado",
       "pt": "Journey criado",
-      "ko": "저니가 생성됨"
+      "ko": "저니가 생성됨",
+      "fr": "Journey créé"
     },
     "Editor": {
       "ja": "エディター",
@@ -8584,7 +8627,8 @@
       "ja": "過去48時間",
       "es": "Últimas 48 horas",
       "pt": "Últimas 48 horas",
-      "ko": "지난 48시간"
+      "ko": "지난 48시간",
+      "fr": "Dernières 48 heures"
     },
     "Segment Created": {
       "ja": "セグメントが作成されました",
@@ -8923,7 +8967,8 @@
       "ja": "過去24時間",
       "es": "Últimas 24 horas",
       "pt": "Últimas 24 horas",
-      "ko": "지난 24시간"
+      "ko": "지난 24시간",
+      "fr": "Dernières 24 heures"
     },
     "Mailgun Credentials": {
       "ja": "Mailgun資格情報",
@@ -9084,7 +9129,8 @@
       "ja": "キーID",
       "es": "ID de clave",
       "pt": "ID da chave",
-      "ko": "키 ID"
+      "ko": "키 ID",
+      "fr": "ID de clé"
     },
     "Legacy API Key": {
       "ja": "レガシーAPIキー",
@@ -9220,7 +9266,8 @@
       "ja": "キーワード",
       "es": "Palabras clave",
       "pt": "Palavras-chave",
-      "ko": "키워드"
+      "ko": "키워드",
+      "fr": "Mots-clés"
     },
     "Thanks for subscribing to OneSignal! Msg & data rates may apply. Reply STOP to unsubscribe and HELP for more info.": {
       "ja": "OneSignalにご登録いただきありがとうございます！メッセージおよびデータ料金がかかる場合があります。登録解除はSTOP、詳細はHELPと返信してください。",
@@ -9238,7 +9285,8 @@
       "ja": "キーワード",
       "es": "Palabra clave",
       "pt": "Palavra-chave",
-      "ko": "키워드"
+      "ko": "키워드",
+      "fr": "Mot-clé"
     },
     "Message Reply Preview": {
       "ja": "メッセージ返信プレビュー",
@@ -9305,7 +9353,8 @@
       "ja": "キーワードは、購読済みの電話番号からキーワードを受信したときに自動的に返信を送信します。",
       "es": "Las palabras clave envían automáticamente una respuesta cuando se recibe una palabra clave desde un número de teléfono suscrito.",
       "pt": "As palavras-chave enviam automaticamente uma resposta quando uma palavra-chave é recebida de um número de telefone inscrito.",
-      "ko": "키워드는 구독한 전화번호에서 키워드를 수신하면 자동으로 회신을 보냅니다."
+      "ko": "키워드는 구독한 전화번호에서 키워드를 수신하면 자동으로 회신을 보냅니다.",
+      "fr": "Les mots-clés envoient automatiquement une réponse lorsqu'un mot-clé est reçu depuis un numéro de téléphone abonné."
     },
     "MMS Throughput": {
       "ja": "MMSスループット",
@@ -9683,7 +9732,8 @@
       "ja": "最終サインイン",
       "es": "Último inicio de sesión",
       "pt": "Último login",
-      "ko": "마지막 로그인"
+      "ko": "마지막 로그인",
+      "fr": "Dernière connexion"
     },
     "Login method": {
       "ja": "ログイン方法",
