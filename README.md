@@ -2,8 +2,8 @@
 
 A Manifest V3 Chrome/Edge extension that translates the OneSignal admin
 dashboard (`https://dashboard.onesignal.com`) into non-English languages.
-Ships with **Japanese, Spanish, Portuguese (BR), and Korean** out of the
-box — each at full coverage of the same ~1,500 dashboard strings.
+Ships with **Japanese, Spanish, Portuguese (BR), Korean, and French** out
+of the box — each at full coverage of the same ~1,500 dashboard strings.
 
 The extension only runs on the OneSignal dashboard — no other sites are
 touched and no browsing data is collected.
@@ -47,6 +47,7 @@ Language codes follow ISO 639-1.
 | `es` | Spanish        | 1,517 terms + 73 patterns (LATAM-neutral) |
 | `pt` | Portuguese     | 1,517 terms + 73 patterns (BR — pt-BR)    |
 | `ko` | Korean         | 1,517 terms + 73 patterns                 |
+| `fr` | French         | 1,517 terms + 73 patterns (vous, infinitive buttons) |
 
 Each language ships with terminology locked to a glossary (see below) and
 register conventions documented in `style/<lang>.md`.
