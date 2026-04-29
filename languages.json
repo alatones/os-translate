@@ -81,109 +81,127 @@
       "es": "Actividad de",
       "ja": "アクティビティ：",
       "pt": "Atividade de",
-      "ko": "활동 내역:"
+      "ko": "활동 내역:",
+      "fr": "Activité pour"
     },
     "Add": {
       "es": "Agregar",
       "ja": "追加",
       "pt": "Adicionar",
-      "ko": "추가"
+      "ko": "추가",
+      "fr": "Ajouter"
     },
     "Add data through mobile or web SDKs": {
       "es": "Agrega datos a través de SDKs móviles o web",
       "ja": "モバイルまたはウェブSDKでデータを追加",
       "pt": "Adicione dados via SDKs móveis ou web",
-      "ko": "모바일 또는 웹 SDK를 통해 데이터 추가"
+      "ko": "모바일 또는 웹 SDK를 통해 데이터 추가",
+      "fr": "Ajoutez des données via les SDK mobile ou web"
     },
     "Add Filter": {
       "es": "Agregar filtro",
       "ja": "フィルターを追加",
       "pt": "Adicionar filtro",
-      "ko": "필터 추가"
+      "ko": "필터 추가",
+      "fr": "Ajouter un filtre"
     },
     "Add filter": {
       "es": "Agregar filtro",
       "ja": "フィルターを追加",
       "pt": "Adicionar filtro",
-      "ko": "필터 추가"
+      "ko": "필터 추가",
+      "fr": "Ajouter un filtre"
     },
     "Add outcome": {
       "es": "Agregar resultado",
       "ja": "アウトカムを追加",
       "pt": "Adicionar resultado",
-      "ko": "결과 추가"
+      "ko": "결과 추가",
+      "fr": "Ajouter un résultat"
     },
     "Add Segment": {
       "es": "Agregar segmento",
       "ja": "セグメントを追加",
       "pt": "Adicionar segmento",
-      "ko": "세그먼트 추가"
+      "ko": "세그먼트 추가",
+      "fr": "Ajouter un segment"
     },
     "Add User": {
       "es": "Agregar usuario",
       "ja": "ユーザーを追加",
       "pt": "Adicionar usuário",
-      "ko": "사용자 추가"
+      "ko": "사용자 추가",
+      "fr": "Ajouter un utilisateur"
     },
     "Add Webhook": {
       "es": "Agregar webhook",
       "ja": "Webhookを追加",
       "pt": "Adicionar webhook",
-      "ko": "웹훅 추가"
+      "ko": "웹훅 추가",
+      "fr": "Ajouter un webhook"
     },
     "Additional Data": {
       "es": "Datos adicionales",
       "ja": "追加データ",
       "pt": "Dados adicionais",
-      "ko": "추가 데이터"
+      "ko": "추가 데이터",
+      "fr": "Données supplémentaires"
     },
     "Additional Settings": {
       "es": "Configuración adicional",
       "ja": "詳細設定",
       "pt": "Configurações adicionais",
-      "ko": "추가 설정"
+      "ko": "추가 설정",
+      "fr": "Paramètres supplémentaires"
     },
     "Admin": {
       "es": "Administrador",
       "ja": "管理者",
       "pt": "Administrador",
-      "ko": "관리자"
+      "ko": "관리자",
+      "fr": "Administrateur"
     },
     "All": {
       "es": "Todo",
       "ja": "すべて",
       "pt": "Tudo",
-      "ko": "전체"
+      "ko": "전체",
+      "fr": "Tout"
     },
     "All Apps": {
       "es": "Todas las apps",
       "ja": "全アプリ",
       "pt": "Todos os apps",
-      "ko": "모든 앱"
+      "ko": "모든 앱",
+      "fr": "Toutes les apps"
     },
     "All Platforms": {
       "es": "Todas las plataformas",
       "ja": "全プラットフォーム",
       "pt": "Todas as plataformas",
-      "ko": "모든 플랫폼"
+      "ko": "모든 플랫폼",
+      "fr": "Toutes les plateformes"
     },
     "All Time": {
       "es": "Todo el tiempo",
       "ja": "全期間",
       "pt": "Todo o período",
-      "ko": "전체 기간"
+      "ko": "전체 기간",
+      "fr": "Depuis le début"
     },
     "All Users": {
       "es": "Todos los usuarios",
       "ja": "全ユーザー",
       "pt": "Todos os usuários",
-      "ko": "모든 사용자"
+      "ko": "모든 사용자",
+      "fr": "Tous les utilisateurs"
     },
     "All-time count": {
       "es": "Recuento total",
       "ja": "累計カウント",
       "pt": "Contagem total",
-      "ko": "전체 기간 수"
+      "ko": "전체 기간 수",
+      "fr": "Total cumulé"
     },
     "Allowed Origins": {
       "es": "Orígenes permitidos",
@@ -3449,7 +3467,8 @@
       "ja": "ユーザーと購読を追加",
       "es": "Agrega tus usuarios y suscripciones",
       "pt": "Adicione seus usuários e assinaturas",
-      "ko": "사용자 및 구독 추가"
+      "ko": "사용자 및 구독 추가",
+      "fr": "Ajoutez vos utilisateurs et abonnements"
     },
     "Bring your users back with mobile and web push.": {
       "ja": "モバイルとウェブのプッシュ通知でユーザーを呼び戻します。",
@@ -3643,7 +3662,8 @@
       "ja": "インテグレーションを追加",
       "es": "Agregar integración",
       "pt": "Adicionar integração",
-      "ko": "통합 추가"
+      "ko": "통합 추가",
+      "fr": "Ajouter une intégration"
     },
     "Search integrations...": {
       "ja": "インテグレーションを検索...",
@@ -4052,13 +4072,15 @@
       "ja": "すべてのメール購読",
       "es": "Todas las suscripciones de email",
       "pt": "Todas as assinaturas de e-mail",
-      "ko": "모든 이메일 구독"
+      "ko": "모든 이메일 구독",
+      "fr": "Tous les abonnements email"
     },
     "All SMS Subscriptions": {
       "ja": "すべてのSMS購読",
       "es": "Todas las suscripciones de SMS",
       "pt": "Todas as assinaturas de SMS",
-      "ko": "모든 SMS 구독"
+      "ko": "모든 SMS 구독",
+      "fr": "Tous les abonnements SMS"
     },
     "Device Type is Email": {
       "ja": "デバイスタイプがメール",
@@ -4208,7 +4230,8 @@
       "ja": "テスト購読を追加",
       "es": "Agregar suscripciones de prueba",
       "pt": "Adicionar assinaturas de teste",
-      "ko": "테스트 구독 추가"
+      "ko": "테스트 구독 추가",
+      "fr": "Ajouter des abonnements de test"
     },
     "Confirm emails are pixel-perfect": {
       "ja": "メールがピクセルパーフェクトであることを確認",
@@ -4538,13 +4561,15 @@
       "ja": "詳細設定",
       "es": "Configuración avanzada",
       "pt": "Configurações avançadas",
-      "ko": "고급 설정"
+      "ko": "고급 설정",
+      "fr": "Paramètres avancés"
     },
     "All Active Users": {
       "ja": "すべてのアクティブユーザー",
       "es": "Todos los usuarios activos",
       "pt": "Todos os usuários ativos",
-      "ko": "모든 활성 사용자"
+      "ko": "모든 활성 사용자",
+      "fr": "Tous les utilisateurs actifs"
     },
     "Audience activity": {
       "ja": "オーディエンスの活動",
@@ -4906,7 +4931,8 @@
       "ja": "統計を追加",
       "es": "Agregar estadística",
       "pt": "Adicionar estatística",
-      "ko": "통계 추가"
+      "ko": "통계 추가",
+      "fr": "Ajouter une statistique"
     },
     "Delivery Statistics for All Time": {
       "ja": "全期間の配信統計",
@@ -5146,7 +5172,8 @@
       "ja": "追加オプション",
       "es": "Opciones adicionales",
       "pt": "Opções adicionais",
-      "ko": "추가 옵션"
+      "ko": "추가 옵션",
+      "fr": "Options supplémentaires"
     },
     "A/B Test": {
       "ja": "A/Bテスト",
@@ -5483,13 +5510,15 @@
       "ja": "詳細オプション",
       "es": "Opciones avanzadas",
       "pt": "Opções avançadas",
-      "ko": "고급 옵션"
+      "ko": "고급 옵션",
+      "fr": "Options avancées"
     },
     "Add click action": {
       "ja": "クリックアクションを追加",
       "es": "Agregar acción de clic",
       "pt": "Adicionar ação de clique",
-      "ko": "클릭 액션 추가"
+      "ko": "클릭 액션 추가",
+      "fr": "Ajouter une action de clic"
     },
     "Margin bottom": {
       "ja": "下のマージン",
@@ -5941,7 +5970,8 @@
       "ja": "ブロックを追加",
       "es": "Agregar bloque",
       "pt": "Adicionar bloco",
-      "ko": "블록 추가"
+      "ko": "블록 추가",
+      "fr": "Ajouter un bloc"
     },
     "Allow iframe JavaScript execution": {
       "ja": "iframeのJavaScript実行を許可",
@@ -6043,7 +6073,8 @@
       "ja": "説明を追加...",
       "es": "Agregar una descripción...",
       "pt": "Adicionar uma descrição...",
-      "ko": "설명 추가..."
+      "ko": "설명 추가...",
+      "fr": "Ajouter une description..."
     },
     "Goals": {
       "ja": "目標",
@@ -6223,7 +6254,8 @@
       "ja": "プロパティを追加",
       "es": "Agregar propiedades",
       "pt": "Adicionar propriedades",
-      "ko": "속성 추가"
+      "ko": "속성 추가",
+      "fr": "Ajouter des propriétés"
     },
     "Are you sure you want to leave?": {
       "ja": "本当に離れますか？",
@@ -6574,7 +6606,8 @@
       "ja": "ボタンを追加",
       "es": "Agregar botón",
       "pt": "Adicionar botão",
-      "ko": "버튼 추가"
+      "ko": "버튼 추가",
+      "fr": "Ajouter un bouton"
     },
     "Button Label 1": {
       "ja": "ボタンラベル 1",
@@ -6665,13 +6698,15 @@
       "ja": "フィールドを追加",
       "es": "Agregar campo",
       "pt": "Adicionar campo",
-      "ko": "필드 추가"
+      "ko": "필드 추가",
+      "fr": "Ajouter un champ"
     },
     "Add Languages": {
       "ja": "言語を追加",
       "es": "Agregar idiomas",
       "pt": "Adicionar idiomas",
-      "ko": "언어 추가"
+      "ko": "언어 추가",
+      "fr": "Ajouter des langues"
     },
     "Begin typing to try our new AI refine feature": {
       "ja": "新しいAI洗練機能を試すには入力を開始してください",
@@ -7061,7 +7096,8 @@
       "ja": "ORを追加",
       "es": "Agregar O",
       "pt": "Adicionar OU",
-      "ko": "OR 추가"
+      "ko": "OR 추가",
+      "fr": "Ajouter OU"
     },
     "Country the device was in the last time it communicated with our servers": {
       "ja": "デバイスが最後にサーバーと通信した時の所在国",
@@ -7343,7 +7379,8 @@
       "ja": "アクションを追加",
       "es": "Agregar acción",
       "pt": "Adicionar ação",
-      "ko": "액션 추가"
+      "ko": "액션 추가",
+      "fr": "Ajouter une action"
     },
     "Basic": {
       "ja": "ベーシック",
@@ -7679,7 +7716,8 @@
       "ja": "追加のメディアを追加",
       "es": "Agregar medios adicionales",
       "pt": "Adicionar mídia adicional",
-      "ko": "추가 미디어 추가"
+      "ko": "추가 미디어 추가",
+      "fr": "Ajouter des médias supplémentaires"
     },
     "Default Brand Logo": {
       "ja": "デフォルトのブランドロゴ",
@@ -7770,7 +7808,8 @@
       "ja": "エイリアス",
       "es": "Alias",
       "pt": "Aliases",
-      "ko": "별칭"
+      "ko": "별칭",
+      "fr": "Alias"
     },
     "Custom events": {
       "ja": "カスタムイベント",
@@ -7939,7 +7978,8 @@
       "ja": "一定時間後",
       "es": "Después de cierto tiempo",
       "pt": "Após um determinado tempo",
-      "ko": "일정 시간 후"
+      "ko": "일정 시간 후",
+      "fr": "Au bout d'un certain délai"
     },
     "Deliver to users more than once?": {
       "ja": "ユーザーに複数回配信しますか？",
@@ -8132,7 +8172,8 @@
       "ja": "チャネルを追加",
       "es": "Agregar canal",
       "pt": "Adicionar canal",
-      "ko": "채널 추가"
+      "ko": "채널 추가",
+      "fr": "Ajouter un canal"
     },
     "Allow push throttle override on creation": {
       "ja": "作成時にプッシュスロットルの上書きを許可",
@@ -8195,7 +8236,8 @@
       "ja": "グループを追加",
       "es": "Agregar grupo",
       "pt": "Adicionar grupo",
-      "ko": "그룹 추가"
+      "ko": "그룹 추가",
+      "fr": "Ajouter un groupe"
     },
     "Amazon Fire": {
       "ja": "Amazon Fire",
@@ -8388,7 +8430,8 @@
       "ja": "メールを追加",
       "es": "Agregar correo",
       "pt": "Adicionar email",
-      "ko": "이메일 추가"
+      "ko": "이메일 추가",
+      "fr": "Ajouter un email"
     },
     "Bounce Rate": {
       "ja": "バウンス率",
@@ -8497,7 +8540,8 @@
       "ja": "キーを追加",
       "es": "Agregar clave",
       "pt": "Adicionar chave",
-      "ko": "키 추가"
+      "ko": "키 추가",
+      "fr": "Ajouter une clé"
     },
     "Anyone who has your REST API key will be able to send notifications from your app. Do not expose the REST API key in your application code. Do not share it on GitHub or anywhere else online.": {
       "ja": "REST APIキーを持っている人は誰でもあなたのアプリから通知を送信できます。REST APIキーをアプリケーションコードに公開しないでください。GitHubやその他のオンライン上で共有しないでください。",
@@ -8737,19 +8781,22 @@
       "ja": "キーワードを追加",
       "es": "Agregar palabra clave",
       "pt": "Adicionar palavra-chave",
-      "ko": "키워드 추가"
+      "ko": "키워드 추가",
+      "fr": "Ajouter un mot-clé"
     },
     "Add Text-To-Subscribe Keyword": {
       "ja": "テキスト購読キーワードを追加",
       "es": "Agregar palabra clave de suscripción por texto",
       "pt": "Adicionar palavra-chave de inscrição por texto",
-      "ko": "텍스트 구독 키워드 추가"
+      "ko": "텍스트 구독 키워드 추가",
+      "fr": "Ajouter un mot-clé d'inscription par SMS"
     },
     "Additional Opt-Out Actions": {
       "ja": "追加のオプトアウトアクション",
       "es": "Acciones adicionales de exclusión",
       "pt": "Ações adicionais de exclusão",
-      "ko": "추가 옵트아웃 작업"
+      "ko": "추가 옵트아웃 작업",
+      "fr": "Actions de désinscription supplémentaires"
     },
     "Contract is OneSignal managed": {
       "ja": "契約はOneSignal管理",
@@ -8953,7 +9000,8 @@
       "ja": "自動応答を追加",
       "es": "Agregar respuesta automática",
       "pt": "Adicionar resposta automática",
-      "ko": "자동 응답 추가"
+      "ko": "자동 응답 추가",
+      "fr": "Ajouter une réponse automatique"
     },
     "Auto-Responder": {
       "ja": "自動応答",
@@ -9109,13 +9157,15 @@
       "ja": "すべてのログイン方法",
       "es": "Todos los métodos de inicio de sesión",
       "pt": "Todos os métodos de login",
-      "ko": "모든 로그인 방법"
+      "ko": "모든 로그인 방법",
+      "fr": "Toutes les méthodes de connexion"
     },
     "All Roles": {
       "ja": "すべての役割",
       "es": "Todos los roles",
       "pt": "Todas as funções",
-      "ko": "모든 역할"
+      "ko": "모든 역할",
+      "fr": "Tous les rôles"
     },
     "Invite to App": {
       "ja": "アプリに招待",
