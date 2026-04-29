@@ -640,67 +640,78 @@
       "es": "Confirmado (recuento)",
       "ja": "確認済み（カウント）",
       "pt": "Confirmado (contagem)",
-      "ko": "확인 수"
+      "ko": "확인 수",
+      "fr": "Confirmé (nombre)"
     },
     "Confirmed Delivered": {
       "es": "Entrega confirmada",
       "ja": "受信確認済み",
       "pt": "Entrega confirmada",
-      "ko": "전달 확인"
+      "ko": "전달 확인",
+      "fr": "Livraison confirmée"
     },
     "Confirmed receipt": {
       "es": "Recepción confirmada",
       "ja": "受信確認",
       "pt": "Recebimento confirmado",
-      "ko": "수신 확인"
+      "ko": "수신 확인",
+      "fr": "Réception confirmée"
     },
     "Confirmed receipt CTR": {
       "es": "CTR de recepción confirmada",
       "ja": "受信確認後クリック率",
       "pt": "CTR de recebimento confirmado",
-      "ko": "수신 확인 클릭률"
+      "ko": "수신 확인 클릭률",
+      "fr": "CTR de réception confirmée"
     },
     "Confirmed receipt rate": {
       "es": "Tasa de recepción confirmada",
       "ja": "受信確認率",
       "pt": "Taxa de recebimento confirmado",
-      "ko": "수신 확인율"
+      "ko": "수신 확인율",
+      "fr": "Taux de réception confirmée"
     },
     "Confirmed receipt:": {
       "es": "Recepción confirmada:",
       "ja": "受信確認：",
       "pt": "Recebimento confirmado:",
-      "ko": "수신 확인:"
+      "ko": "수신 확인:",
+      "fr": "Réception confirmée :"
     },
     "Confirmed:": {
       "es": "Confirmados:",
       "ja": "確認済み：",
       "pt": "Confirmados:",
-      "ko": "확인:"
+      "ko": "확인:",
+      "fr": "Confirmés :"
     },
     "Connect with new contacts that joined in the past 3 hours": {
       "es": "Conecta con nuevos contactos de las últimas 3 horas",
       "ja": "過去3時間に参加した新規コンタクトにリーチ",
       "pt": "Conecte-se com novos contatos das últimas 3 horas",
-      "ko": "최근 3시간 내에 가입한 새 연락처에 연결하세요"
+      "ko": "최근 3시간 내에 가입한 새 연락처에 연결하세요",
+      "fr": "Connectez-vous avec les nouveaux contacts ajoutés depuis 3 heures"
     },
     "Connected": {
       "es": "Conectado",
       "ja": "接続済み",
       "pt": "Conectado",
-      "ko": "연결됨"
+      "ko": "연결됨",
+      "fr": "Connecté"
     },
     "Connections": {
       "es": "Conexiones",
       "ja": "接続",
       "pt": "Conexões",
-      "ko": "연결"
+      "ko": "연결",
+      "fr": "Connexions"
     },
     "Contact your active audience from a specified country": {
       "es": "Contacta tu audiencia activa de un país específico",
       "ja": "指定した国のアクティブオーディエンスに連絡",
       "pt": "Contate seu público ativo de um país específico",
-      "ko": "특정 국가의 활성 대상에게 연락하세요"
+      "ko": "특정 국가의 활성 대상에게 연락하세요",
+      "fr": "Contactez votre audience active d'un pays spécifique"
     },
     "contains": {
       "es": "contiene",
@@ -712,91 +723,106 @@
       "es": "Continuar",
       "ja": "続ける",
       "pt": "Continuar",
-      "ko": "계속"
+      "ko": "계속",
+      "fr": "Continuer"
     },
     "Continue Setup": {
       "es": "Continuar configuración",
       "ja": "セットアップを続ける",
       "pt": "Continuar configuração",
-      "ko": "설정 계속"
+      "ko": "설정 계속",
+      "fr": "Continuer la configuration"
     },
     "Conversion": {
       "es": "Conversión",
       "ja": "コンバージョン",
       "pt": "Conversão",
-      "ko": "전환"
+      "ko": "전환",
+      "fr": "Conversion"
     },
     "Copied to clipboard": {
       "es": "Copiado al portapapeles",
       "ja": "クリップボードにコピーしました",
       "pt": "Copiado para a área de transferência",
-      "ko": "클립보드에 복사됨"
+      "ko": "클립보드에 복사됨",
+      "fr": "Copié dans le presse-papiers"
     },
     "Copy": {
       "es": "Copiar",
       "ja": "コピー",
       "pt": "Copiar",
-      "ko": "복사"
+      "ko": "복사",
+      "fr": "Copier"
     },
     "Count": {
       "es": "Recuento",
       "ja": "カウント",
       "pt": "Contagem",
-      "ko": "수"
+      "ko": "수",
+      "fr": "Nombre"
     },
     "Country": {
       "es": "País",
       "ja": "国",
       "pt": "País",
-      "ko": "국가"
+      "ko": "국가",
+      "fr": "Pays"
     },
     "Create": {
       "es": "Crear",
       "ja": "作成",
       "pt": "Criar",
-      "ko": "만들기"
+      "ko": "만들기",
+      "fr": "Créer"
     },
     "Create Segment": {
       "es": "Crear segmento",
       "ja": "セグメントを作成",
       "pt": "Criar segmento",
-      "ko": "세그먼트 만들기"
+      "ko": "세그먼트 만들기",
+      "fr": "Créer un segment"
     },
     "Create Template": {
       "es": "Crear plantilla",
       "ja": "テンプレートを作成",
       "pt": "Criar modelo",
-      "ko": "템플릿 만들기"
+      "ko": "템플릿 만들기",
+      "fr": "Créer un modèle"
     },
     "Create...": {
       "es": "Crear...",
       "ja": "作成...",
       "pt": "Criar...",
-      "ko": "만들기..."
+      "ko": "만들기...",
+      "fr": "Créer..."
     },
     "Created": {
       "es": "Creado",
       "ja": "作成日",
       "pt": "Criado",
-      "ko": "생성됨"
+      "ko": "생성됨",
+      "fr": "Créé"
     },
     "Created At": {
       "es": "Creado el",
       "ja": "作成日時",
       "pt": "Criado em",
-      "ko": "생성일시"
+      "ko": "생성일시",
+      "fr": "Créé le"
     },
     "Created at": {
       "es": "Creado el",
       "ja": "作成日時",
       "pt": "Criado em",
-      "ko": "생성일시"
+      "ko": "생성일시",
+      "fr": "Créé le"
     },
     "Created by": {
       "es": "Creado por",
       "ja": "作成者",
       "pt": "Criado por",
-      "ko": "생성자"
+      "ko": "생성자",
+      "fr": "Créé par"
     },
     "CSV": {
       "es": "CSV",
@@ -3504,7 +3530,8 @@
       "ja": "最初のメッセージを作成",
       "es": "Crea tu primer mensaje",
       "pt": "Crie sua primeira mensagem",
-      "ko": "첫 번째 메시지 만들기"
+      "ko": "첫 번째 메시지 만들기",
+      "fr": "Créez votre premier message"
     },
     "Import users": {
       "ja": "ユーザーをインポート",
@@ -3542,7 +3569,8 @@
       "ja": "コードなしでプロフェッショナルなメールを作成。",
       "es": "Crea correos electrónicos profesionales y sofisticados sin código.",
       "pt": "Crie e-mails profissionais sofisticados sem código.",
-      "ko": "코딩 없이 전문적인 이메일을 작성하세요."
+      "ko": "코딩 없이 전문적인 이메일을 작성하세요.",
+      "fr": "Créez des emails professionnels élaborés sans code."
     },
     "Directly reach your audience in an effective, mobile-first way.": {
       "ja": "モバイルファーストな方法で効果的にオーディエンスに直接リーチ。",
@@ -3760,13 +3788,15 @@
       "ja": "インテグレーションを接続",
       "es": "Conectar integración",
       "pt": "Conectar integração",
-      "ko": "통합 연결"
+      "ko": "통합 연결",
+      "fr": "Connecter une intégration"
     },
     "Connect Journeys to other systems": {
       "ja": "ジャーニーを他のシステムに接続",
       "es": "Conectar Journeys a otros sistemas",
       "pt": "Conectar Journeys a outros sistemas",
-      "ko": "저니를 다른 시스템에 연결하세요"
+      "ko": "저니를 다른 시스템에 연결하세요",
+      "fr": "Connecter Journeys à d'autres systèmes"
     },
     "Gain real-time insights within the Events List": {
       "ja": "イベントリスト内でリアルタイムのインサイトを取得",
@@ -3845,7 +3875,8 @@
       "ja": "送信者を作成",
       "es": "Crear remitente",
       "pt": "Criar remetente",
-      "ko": "발신자 만들기"
+      "ko": "발신자 만들기",
+      "fr": "Créer un expéditeur"
     },
     "Read blog": {
       "ja": "ブログを読む",
@@ -4013,7 +4044,8 @@
       "ja": "再利用可能なメッセージを作成",
       "es": "Crea mensajes reutilizables",
       "pt": "Crie mensagens reutilizáveis",
-      "ko": "재사용 가능한 메시지 만들기"
+      "ko": "재사용 가능한 메시지 만들기",
+      "fr": "Créez des messages réutilisables"
     },
     "Dismiss": {
       "ja": "閉じる",
@@ -4689,13 +4721,15 @@
       "ja": "コンテンツ利用可能",
       "es": "Contenido disponible",
       "pt": "Conteúdo disponível",
-      "ko": "콘텐츠 사용 가능"
+      "ko": "콘텐츠 사용 가능",
+      "fr": "Contenu disponible"
     },
     "Copy to clipboard": {
       "ja": "クリップボードにコピー",
       "es": "Copiar al portapapeles",
       "pt": "Copiar para a área de transferência",
-      "ko": "클립보드에 복사"
+      "ko": "클립보드에 복사",
+      "fr": "Copier dans le presse-papiers"
     },
     "Deliveries by platform": {
       "ja": "プラットフォーム別の配信",
@@ -5859,7 +5893,8 @@
       "ja": "角の丸み",
       "es": "Radio de la esquina",
       "pt": "Raio do canto",
-      "ko": "모서리 반경"
+      "ko": "모서리 반경",
+      "fr": "Rayon des coins"
     },
     "Dismiss after certain amount of time": {
       "ja": "一定時間後に閉じる",
@@ -6380,7 +6415,8 @@
       "ja": "コントロールパネル",
       "es": "Panel de control",
       "pt": "Painel de controle",
-      "ko": "제어판"
+      "ko": "제어판",
+      "fr": "Panneau de contrôle"
     },
     "Custom Event List": {
       "ja": "カスタムイベント一覧",
@@ -6648,7 +6684,8 @@
       "ja": "一貫した命名",
       "es": "Nomenclatura consistente",
       "pt": "Nomenclatura consistente",
-      "ko": "일관된 이름 지정"
+      "ko": "일관된 이름 지정",
+      "fr": "Nommage cohérent"
     },
     "Current user permissions do not allow this action.": {
       "ja": "現在のユーザー権限ではこの操作は許可されていません。",
@@ -6857,13 +6894,15 @@
       "ja": "コンテンツ利用可能",
       "es": "Contenido disponible",
       "pt": "Conteúdo disponível",
-      "ko": "콘텐츠 사용 가능"
+      "ko": "콘텐츠 사용 가능",
+      "fr": "Contenu disponible"
     },
     "Critical": {
       "ja": "クリティカル",
       "es": "Crítico",
       "pt": "Crítico",
-      "ko": "중요"
+      "ko": "중요",
+      "fr": "Critique"
     },
     "Default is a bell icon (resource name)": {
       "ja": "デフォルトはベルアイコン（リソース名）",
@@ -7224,7 +7263,8 @@
       "ja": "デバイスが最後にサーバーと通信した時の所在国",
       "es": "País en que estaba el dispositivo la última vez que se comunicó con nuestros servidores",
       "pt": "País em que o dispositivo estava na última vez que se comunicou com nossos servidores",
-      "ko": "기기가 서버와 마지막으로 통신했을 때의 국가"
+      "ko": "기기가 서버와 마지막으로 통신했을 때의 국가",
+      "fr": "Pays où se trouvait l'appareil lors de sa dernière communication avec nos serveurs"
     },
     "Custom tags you have added to the User record": {
       "ja": "ユーザーレコードに追加したカスタムタグ",
@@ -7517,13 +7557,15 @@
       "ja": "料金ガイド",
       "es": "Guía de costos",
       "pt": "Guia de custos",
-      "ko": "비용 가이드"
+      "ko": "비용 가이드",
+      "fr": "Guide des tarifs"
     },
     "Create carousel": {
       "ja": "カルーセルを作成",
       "es": "Crear carrusel",
       "pt": "Criar carrossel",
-      "ko": "캐러셀 만들기"
+      "ko": "캐러셀 만들기",
+      "fr": "Créer un carrousel"
     },
     "Global:": {
       "ja": "グローバル:",
@@ -7607,7 +7649,8 @@
       "ja": "お問い合わせ",
       "es": "Contáctanos",
       "pt": "Fale conosco",
-      "ko": "문의하기"
+      "ko": "문의하기",
+      "fr": "Nous contacter"
     },
     "1. Format a CSV": {
       "ja": "1. CSVをフォーマット",
@@ -7634,7 +7677,8 @@
       "ja": "次をコピー＆ペーストしてください",
       "es": "Copia y pega lo siguiente",
       "pt": "Copie e cole o seguinte",
-      "ko": "다음을 복사하여 붙여넣기"
+      "ko": "다음을 복사하여 붙여넣기",
+      "fr": "Copiez et collez ce qui suit"
     },
     "Dynamic Content documentation": {
       "ja": "ダイナミックコンテンツ文書",
@@ -7820,7 +7864,8 @@
       "ja": "次を確認してみてください:",
       "es": "Considera buscar en el",
       "pt": "Considere procurar no",
-      "ko": "다음을 확인해 보세요:"
+      "ko": "다음을 확인해 보세요:",
+      "fr": "Pensez à consulter le"
     },
     "Search bar showing empty results": {
       "ja": "検索バーで結果が空",
@@ -8168,7 +8213,8 @@
       "ja": "コードをコピー",
       "es": "Copiar código",
       "pt": "Copiar código",
-      "ko": "코드 복사"
+      "ko": "코드 복사",
+      "fr": "Copier le code"
     },
     "Open Data menu": {
       "ja": "データメニューを開く",
@@ -8698,13 +8744,15 @@
       "ja": "アプリIDをコピー",
       "es": "Copiar ID de app",
       "pt": "Copiar ID do app",
-      "ko": "앱 ID 복사"
+      "ko": "앱 ID 복사",
+      "fr": "Copier l'ID de l'app"
     },
     "Copy Email Template Address": {
       "ja": "メールテンプレートアドレスをコピー",
       "es": "Copiar dirección de plantilla de correo",
       "pt": "Copiar endereço de modelo de email",
-      "ko": "이메일 템플릿 주소 복사"
+      "ko": "이메일 템플릿 주소 복사",
+      "fr": "Copier l'adresse du modèle email"
     },
     "Data Warehouse Integration": {
       "ja": "データウェアハウス統合",
@@ -8949,7 +8997,8 @@
       "ja": "契約はOneSignal管理",
       "es": "El contrato es administrado por OneSignal",
       "pt": "O contrato é gerenciado pelo OneSignal",
-      "ko": "계약은 OneSignal에서 관리"
+      "ko": "계약은 OneSignal에서 관리",
+      "fr": "Contrat géré par OneSignal"
     },
     "Double Opt-In": {
       "ja": "ダブルオプトイン",
@@ -9240,7 +9289,8 @@
       "ja": "同意管理",
       "es": "Gestión de consentimiento",
       "pt": "Gestão de consentimento",
-      "ko": "동의 관리"
+      "ko": "동의 관리",
+      "fr": "Gestion du consentement"
     },
     "Email reputation is only available for OneSignal email, see your ESP provider or email reputation tools.": {
       "ja": "メールの評判はOneSignalメールでのみ利用可能です。詳しくはESPプロバイダーまたはメール評判ツールをご確認ください。",
