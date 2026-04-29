@@ -2013,350 +2013,400 @@
       "ja": "最終送信",
       "pt": "Último envio",
       "ko": "마지막 발송",
-      "fr": "Dernier envoi"
+      "fr": "Dernier envoi",
+      "tr": "Son gönderim"
     },
     "Last Session": {
       "es": "Última sesión",
       "ja": "最終セッション",
       "pt": "Última sessão",
       "ko": "마지막 세션",
-      "fr": "Dernière session"
+      "fr": "Dernière session",
+      "tr": "Son oturum"
     },
     "Last session": {
       "es": "Última sesión",
       "ja": "最終セッション",
       "pt": "Última sessão",
       "ko": "마지막 세션",
-      "fr": "Dernière session"
+      "fr": "Dernière session",
+      "tr": "Son oturum"
     },
     "Last Sync": {
       "es": "Última sincronización",
       "ja": "最終同期",
       "pt": "Última sincronização",
       "ko": "마지막 동기화",
-      "fr": "Dernière synchronisation"
+      "fr": "Dernière synchronisation",
+      "tr": "Son senkronizasyon"
     },
     "Last unsubscribed": {
       "es": "Última cancelación",
       "ja": "最終購読解除",
       "pt": "Último cancelamento",
       "ko": "마지막 구독 취소",
-      "fr": "Dernière désinscription"
+      "fr": "Dernière désinscription",
+      "tr": "Son abonelikten çıkma"
     },
     "Last Updated": {
       "es": "Última actualización",
       "ja": "最終更新",
       "pt": "Última atualização",
       "ko": "마지막 업데이트",
-      "fr": "Dernière mise à jour"
+      "fr": "Dernière mise à jour",
+      "tr": "Son güncelleme"
     },
     "Launch CSV Importer": {
       "es": "Iniciar importador CSV",
       "ja": "CSVインポーターを起動",
       "pt": "Iniciar importador CSV",
       "ko": "CSV 가져오기 실행",
-      "fr": "Lancer l'importateur CSV"
+      "fr": "Lancer l'importateur CSV",
+      "tr": "CSV içe aktarıcısını başlat"
     },
     "Launch URL": {
       "es": "URL de destino",
       "ja": "起動URL",
       "pt": "URL de destino",
       "ko": "실행 URL",
-      "fr": "URL de lancement"
+      "fr": "URL de lancement",
+      "tr": "Başlatma URL'si"
     },
     "less than": {
       "es": "menor que",
       "ja": "より小さい",
       "pt": "menor que",
       "ko": "미만",
-      "fr": "inférieur à"
+      "fr": "inférieur à",
+      "tr": "küçüktür"
     },
     "Live Activities": {
       "es": "Actividades en vivo",
       "ja": "ライブアクティビティ",
       "pt": "Atividades ao vivo",
       "ko": "라이브 액티비티",
-      "fr": "Live Activities"
+      "fr": "Live Activities",
+      "tr": "Live Activities"
     },
     "Live Activity": {
       "es": "Actividad en vivo",
       "ja": "ライブアクティビティ",
       "pt": "Atividade ao vivo",
       "ko": "라이브 액티비티",
-      "fr": "Live Activity"
+      "fr": "Live Activity",
+      "tr": "Live Activity"
     },
     "Load More": {
       "es": "Cargar más",
       "ja": "さらに読み込む",
       "pt": "Carregar mais",
       "ko": "더 보기",
-      "fr": "Charger plus"
+      "fr": "Charger plus",
+      "tr": "Daha fazla yükle"
     },
     "Load segment count": {
       "es": "Cargar recuento de segmentos",
       "ja": "セグメント数を読み込む",
       "pt": "Carregar contagem de segmentos",
       "ko": "세그먼트 수 로드",
-      "fr": "Charger le décompte du segment"
+      "fr": "Charger le décompte du segment",
+      "tr": "Segment sayısını yükle"
     },
     "Loading": {
       "es": "Cargando",
       "ja": "読み込み中",
       "pt": "Carregando",
       "ko": "로딩 중",
-      "fr": "Chargement"
+      "fr": "Chargement",
+      "tr": "Yükleniyor"
     },
     "Loading…": {
       "es": "Cargando…",
       "ja": "読み込み中…",
       "pt": "Carregando…",
       "ko": "로딩 중…",
-      "fr": "Chargement…"
+      "fr": "Chargement…",
+      "tr": "Yükleniyor…"
     },
     "Local (EDT):": {
       "es": "Local (EDT):",
       "ja": "現地時間（EDT）：",
       "pt": "Local (EDT):",
       "ko": "현지 시간 (EDT):",
-      "fr": "Local (EDT) :"
+      "fr": "Local (EDT) :",
+      "tr": "Yerel (EDT):"
     },
     "Local:": {
       "es": "Local:",
       "ja": "現地時間：",
       "pt": "Local:",
       "ko": "현지:",
-      "fr": "Local :"
+      "fr": "Local :",
+      "tr": "Yerel:"
     },
     "Location": {
       "es": "Ubicación",
       "ja": "位置情報",
       "pt": "Localização",
       "ko": "위치",
-      "fr": "Emplacement"
+      "fr": "Emplacement",
+      "tr": "Konum"
     },
     "Location point": {
       "es": "Punto de ubicación",
       "ja": "位置情報ポイント",
       "pt": "Ponto de localização",
       "ko": "위치 지점",
-      "fr": "Point d'emplacement"
+      "fr": "Point d'emplacement",
+      "tr": "Konum noktası"
     },
     "Manage App": {
       "es": "Administrar app",
       "ja": "アプリを管理",
       "pt": "Gerenciar app",
       "ko": "앱 관리",
-      "fr": "Gérer l'app"
+      "fr": "Gérer l'app",
+      "tr": "Uygulamayı yönet"
     },
     "Manage or invite team members": {
       "es": "Administrar o invitar miembros del equipo",
       "ja": "チームメンバーの管理と招待",
       "pt": "Gerenciar ou convidar membros da equipe",
       "ko": "팀원 관리 또는 초대",
-      "fr": "Gérer ou inviter des membres de l'équipe"
+      "fr": "Gérer ou inviter des membres de l'équipe",
+      "tr": "Ekip üyelerini yönetin veya davet edin"
     },
     "Manage this app": {
       "es": "Administrar esta app",
       "ja": "このアプリを管理",
       "pt": "Gerenciar este app",
       "ko": "이 앱 관리",
-      "fr": "Gérer cette app"
+      "fr": "Gérer cette app",
+      "tr": "Bu uygulamayı yönet"
     },
     "Manually Add": {
       "es": "Agregar manualmente",
       "ja": "手動追加",
       "pt": "Adicionar manualmente",
       "ko": "수동 추가",
-      "fr": "Ajouter manuellement"
+      "fr": "Ajouter manuellement",
+      "tr": "Manuel olarak ekle"
     },
     "Manually add users with emails or phone numbers": {
       "es": "Agrega usuarios con emails o números de teléfono",
       "ja": "メールアドレスまたは電話番号でユーザーを手動追加",
       "pt": "Adicione usuários com emails ou números de telefone",
       "ko": "이메일 또는 전화번호로 사용자 직접 추가",
-      "fr": "Ajoutez manuellement des utilisateurs avec emails ou numéros de téléphone"
+      "fr": "Ajoutez manuellement des utilisateurs avec emails ou numéros de téléphone",
+      "tr": "Email veya telefon numarasıyla manuel olarak kullanıcı ekleyin"
     },
     "Mar": {
       "es": "mar",
       "ja": "3月",
       "pt": "mar",
       "ko": "3월",
-      "fr": "mar"
+      "fr": "mar",
+      "tr": "mar"
     },
     "March": {
       "es": "marzo",
       "ja": "3月",
       "pt": "março",
       "ko": "3월",
-      "fr": "mars"
+      "fr": "mars",
+      "tr": "mart"
     },
     "Maximum": {
       "es": "Máximo",
       "ja": "最大",
       "pt": "Máximo",
       "ko": "최대",
-      "fr": "Maximum"
+      "fr": "Maximum",
+      "tr": "Maksimum"
     },
     "May": {
       "es": "mayo",
       "ja": "5月",
       "pt": "maio",
       "ko": "5월",
-      "fr": "mai"
+      "fr": "mai",
+      "tr": "mayıs"
     },
     "Message": {
       "es": "Mensaje",
       "ja": "メッセージ",
       "pt": "Mensagem",
       "ko": "메시지",
-      "fr": "Message"
+      "fr": "Message",
+      "tr": "Mesaj"
     },
     "Message Content": {
       "es": "Contenido del mensaje",
       "ja": "メッセージ内容",
       "pt": "Conteúdo da mensagem",
       "ko": "메시지 내용",
-      "fr": "Contenu du message"
+      "fr": "Contenu du message",
+      "tr": "Mesaj içeriği"
     },
     "Message Event Delivery": {
       "es": "Entrega de eventos de mensajes",
       "ja": "メッセージイベント配信",
       "pt": "Entrega de eventos de mensagens",
       "ko": "메시지 이벤트 전달",
-      "fr": "Livraison d'événements de message"
+      "fr": "Livraison d'événements de message",
+      "tr": "Mesaj etkinliği teslimatı"
     },
     "Message Title": {
       "es": "Título del mensaje",
       "ja": "メッセージタイトル",
       "pt": "Título da mensagem",
       "ko": "메시지 제목",
-      "fr": "Titre du message"
+      "fr": "Titre du message",
+      "tr": "Mesaj başlığı"
     },
     "Message type": {
       "es": "Tipo de mensaje",
       "ja": "メッセージタイプ",
       "pt": "Tipo de mensagem",
       "ko": "메시지 유형",
-      "fr": "Type de message"
+      "fr": "Type de message",
+      "tr": "Mesaj türü"
     },
     "Messages": {
       "es": "Mensajes",
       "ja": "メッセージ",
       "pt": "Mensagens",
       "ko": "메시지",
-      "fr": "Messages"
+      "fr": "Messages",
+      "tr": "Mesajlar"
     },
     "Minimum": {
       "es": "Mínimo",
       "ja": "最小",
       "pt": "Mínimo",
       "ko": "최소",
-      "fr": "Minimum"
+      "fr": "Minimum",
+      "tr": "Minimum"
     },
     "Mobile (MAU)": {
       "es": "Móvil (MAU)",
       "ja": "モバイル（MAU）",
       "pt": "Mobile (MAU)",
       "ko": "모바일 (MAU)",
-      "fr": "Mobile (MAU)"
+      "fr": "Mobile (MAU)",
+      "tr": "Mobil (MAU)"
     },
     "Modal": {
       "es": "Modal",
       "ja": "モーダル",
       "pt": "Modal",
       "ko": "모달",
-      "fr": "Modale"
+      "fr": "Modale",
+      "tr": "Modal"
     },
     "Mon": {
       "es": "Lun",
       "ja": "月",
       "pt": "Seg",
       "ko": "월",
-      "fr": "Lun"
+      "fr": "Lun",
+      "tr": "Pzt"
     },
     "Month": {
       "es": "Mes",
       "ja": "月",
       "pt": "Mês",
       "ko": "월",
-      "fr": "Mois"
+      "fr": "Mois",
+      "tr": "Ay"
     },
     "More information": {
       "es": "Más información",
       "ja": "詳細情報",
       "pt": "Mais informações",
       "ko": "추가 정보",
-      "fr": "Plus d'informations"
+      "fr": "Plus d'informations",
+      "tr": "Daha fazla bilgi"
     },
     "N/A": {
       "es": "N/D",
       "ja": "N/A",
       "pt": "N/D",
       "ko": "해당 없음",
-      "fr": "N/D"
+      "fr": "N/D",
+      "tr": "Yok"
     },
     "Name": {
       "es": "Nombre",
       "ja": "名前",
       "pt": "Nome",
       "ko": "이름",
-      "fr": "Nom"
+      "fr": "Nom",
+      "tr": "Ad"
     },
     "Never": {
       "es": "Nunca",
       "ja": "なし",
       "pt": "Nunca",
       "ko": "없음",
-      "fr": "Jamais"
+      "fr": "Jamais",
+      "tr": "Hiçbir zaman"
     },
     "Never Subscribed": {
       "es": "Nunca suscrito",
       "ja": "未購読",
       "pt": "Nunca inscrito",
       "ko": "구독한 적 없음",
-      "fr": "Jamais abonné"
+      "fr": "Jamais abonné",
+      "tr": "Hiç abone olmadı"
     },
     "New App/Website": {
       "es": "Nueva app/sitio web",
       "ja": "新規アプリ/ウェブサイト",
       "pt": "Novo app/site",
       "ko": "새 앱/웹사이트",
-      "fr": "Nouvelle app / nouveau site web"
+      "fr": "Nouvelle app / nouveau site web",
+      "tr": "Yeni uygulama/web sitesi"
     },
     "New Automated Message": {
       "es": "Nuevo mensaje automatizado",
       "ja": "新規自動メッセージ",
       "pt": "Nova mensagem automatizada",
       "ko": "새 자동화 메시지",
-      "fr": "Nouveau message automatisé"
+      "fr": "Nouveau message automatisé",
+      "tr": "Yeni otomatik mesaj"
     },
     "New Data Feed": {
       "es": "Nueva fuente de datos",
       "ja": "新規データフィード",
       "pt": "Novo feed de dados",
       "ko": "새 데이터 피드",
-      "fr": "Nouveau flux de données"
+      "fr": "Nouveau flux de données",
+      "tr": "Yeni veri akışı"
     },
     "New Email": {
       "es": "Nuevo email",
       "ja": "新規メール",
       "pt": "Novo email",
       "ko": "새 이메일",
-      "fr": "Nouvel email"
+      "fr": "Nouvel email",
+      "tr": "Yeni email"
     },
     "New email": {
       "es": "Nuevo email",
       "ja": "新規メール",
       "pt": "Novo email",
       "ko": "새 이메일",
-      "fr": "Nouvel email"
+      "fr": "Nouvel email",
+      "tr": "Yeni email"
     },
     "New Event Stream": {
       "es": "Nuevo flujo de eventos",
       "ja": "新規イベントストリーム",
       "pt": "Novo fluxo de eventos",
       "ko": "새 이벤트 스트림",
-      "fr": "Nouveau flux d'événements"
+      "fr": "Nouveau flux d'événements",
+      "tr": "Yeni etkinlik akışı"
     },
     "New In-App": {
       "es": "Nuevo In-App",
