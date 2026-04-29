@@ -6765,7 +6765,8 @@
       "pt": "Windows",
       "ko": "Windows",
       "fr": "Windows",
-      "tr": "Windows"
+      "tr": "Windows",
+      "zh-CN": "Windows"
     },
     "macOS": {
       "ja": "macOS",
@@ -6773,7 +6774,8 @@
       "pt": "macOS",
       "ko": "macOS",
       "fr": "macOS",
-      "tr": "macOS"
+      "tr": "macOS",
+      "zh-CN": "macOS"
     },
     "Advanced Settings": {
       "ja": "詳細設定",
@@ -6781,7 +6783,8 @@
       "pt": "Configurações avançadas",
       "ko": "고급 설정",
       "fr": "Paramètres avancés",
-      "tr": "Gelişmiş ayarlar"
+      "tr": "Gelişmiş ayarlar",
+      "zh-CN": "高级设置"
     },
     "All Active Users": {
       "ja": "すべてのアクティブユーザー",
@@ -6789,7 +6792,8 @@
       "pt": "Todos os usuários ativos",
       "ko": "모든 활성 사용자",
       "fr": "Tous les utilisateurs actifs",
-      "tr": "Tüm aktif kullanıcılar"
+      "tr": "Tüm aktif kullanıcılar",
+      "zh-CN": "所有活跃用户"
     },
     "Audience activity": {
       "ja": "オーディエンスの活動",
@@ -6797,7 +6801,8 @@
       "pt": "Atividade do público",
       "ko": "대상 활동",
       "fr": "Activité de l'audience",
-      "tr": "Hedef kitle etkinliği"
+      "tr": "Hedef kitle etkinliği",
+      "zh-CN": "受众活动"
     },
     "Audience activity is no longer available after 30 days": {
       "ja": "オーディエンスの活動は30日経過後は表示されません",
@@ -6805,7 +6810,8 @@
       "pt": "A atividade do público não está mais disponível após 30 dias",
       "ko": "대상 활동은 30일 이후 더 이상 제공되지 않습니다",
       "fr": "L'activité de l'audience n'est plus disponible après 30 jours",
-      "tr": "Hedef kitle etkinliği 30 gün sonra artık mevcut değildir"
+      "tr": "Hedef kitle etkinliği 30 gün sonra artık mevcut değildir",
+      "zh-CN": "受众活动数据 30 天后不再可用"
     },
     "Badges": {
       "ja": "バッジ",
@@ -6813,7 +6819,8 @@
       "pt": "Distintivos",
       "ko": "배지",
       "fr": "Badges",
-      "tr": "Rozetler"
+      "tr": "Rozetler",
+      "zh-CN": "徽章"
     },
     "Capped": {
       "ja": "制限あり",
@@ -6821,7 +6828,8 @@
       "pt": "Limitado",
       "ko": "제한됨",
       "fr": "Plafonné",
-      "tr": "Sınırlı"
+      "tr": "Sınırlı",
+      "zh-CN": "已限制"
     },
     "Channel Mode": {
       "ja": "チャネルモード",
@@ -6829,7 +6837,8 @@
       "pt": "Modo de canal",
       "ko": "채널 모드",
       "fr": "Mode du canal",
-      "tr": "Kanal modu"
+      "tr": "Kanal modu",
+      "zh-CN": "渠道模式"
     },
     "Content Available": {
       "ja": "コンテンツ利用可能",
@@ -6837,7 +6846,8 @@
       "pt": "Conteúdo disponível",
       "ko": "콘텐츠 사용 가능",
       "fr": "Contenu disponible",
-      "tr": "İçerik mevcut"
+      "tr": "İçerik mevcut",
+      "zh-CN": "内容可用"
     },
     "Copy to clipboard": {
       "ja": "クリップボードにコピー",
@@ -6845,7 +6855,8 @@
       "pt": "Copiar para a área de transferência",
       "ko": "클립보드에 복사",
       "fr": "Copier dans le presse-papiers",
-      "tr": "Panoya kopyala"
+      "tr": "Panoya kopyala",
+      "zh-CN": "复制到剪贴板"
     },
     "Deliveries by platform": {
       "ja": "プラットフォーム別の配信",
@@ -6853,7 +6864,8 @@
       "pt": "Entregas por plataforma",
       "ko": "플랫폼별 전달",
       "fr": "Livraisons par plateforme",
-      "tr": "Platforma göre teslimatlar"
+      "tr": "Platforma göre teslimatlar",
+      "zh-CN": "按平台分组送达"
     },
     "Delivery time": {
       "ja": "配信時刻",
@@ -6861,7 +6873,8 @@
       "pt": "Hora de entrega",
       "ko": "전달 시간",
       "fr": "Heure de livraison",
-      "tr": "Teslim zamanı"
+      "tr": "Teslim zamanı",
+      "zh-CN": "送达时间"
     },
     "Did not click": {
       "ja": "クリックなし",
@@ -6869,7 +6882,8 @@
       "pt": "Não clicou",
       "ko": "클릭하지 않음",
       "fr": "N'a pas cliqué",
-      "tr": "Tıklamadı"
+      "tr": "Tıklamadı",
+      "zh-CN": "未点击"
     },
     "Did not confirm receipt": {
       "ja": "受信未確認",
@@ -6877,7 +6891,8 @@
       "pt": "Não confirmou recebimento",
       "ko": "수신 확인하지 않음",
       "fr": "N'a pas confirmé la réception",
-      "tr": "Alındıyı onaylamadı"
+      "tr": "Alındıyı onaylamadı",
+      "zh-CN": "未确认接收"
     },
     "False": {
       "ja": "偽",
@@ -6885,7 +6900,8 @@
       "pt": "Falso",
       "ko": "거짓",
       "fr": "Faux",
-      "tr": "Yanlış"
+      "tr": "Yanlış",
+      "zh-CN": "假"
     },
     "True": {
       "ja": "真",
@@ -6893,7 +6909,8 @@
       "pt": "Verdadeiro",
       "ko": "참",
       "fr": "Vrai",
-      "tr": "Doğru"
+      "tr": "Doğru",
+      "zh-CN": "真"
     },
     "Influenced opens": {
       "ja": "影響を受けた開封",
@@ -6901,7 +6918,8 @@
       "pt": "Aberturas influenciadas",
       "ko": "영향받아 열림",
       "fr": "Ouvertures influencées",
-      "tr": "Etkilenen açılmalar"
+      "tr": "Etkilenen açılmalar",
+      "zh-CN": "受影响的打开"
     },
     "Interruption Level": {
       "ja": "割り込みレベル",
@@ -6909,7 +6927,8 @@
       "pt": "Nível de interrupção",
       "ko": "중단 수준",
       "fr": "Niveau d'interruption",
-      "tr": "Kesinti düzeyi"
+      "tr": "Kesinti düzeyi",
+      "zh-CN": "中断级别"
     },
     "Leave unchanged": {
       "ja": "変更しない",
@@ -6917,7 +6936,8 @@
       "pt": "Manter inalterado",
       "ko": "변경하지 않음",
       "fr": "Laisser inchangé",
-      "tr": "Değişiklik yapma"
+      "tr": "Değişiklik yapma",
+      "zh-CN": "保持不变"
     },
     "Loading Goal...": {
       "ja": "目標を読み込み中...",
@@ -6925,7 +6945,8 @@
       "pt": "Carregando objetivo...",
       "ko": "목표 로딩 중...",
       "fr": "Chargement de l'objectif...",
-      "tr": "Hedef yükleniyor..."
+      "tr": "Hedef yükleniyor...",
+      "zh-CN": "正在加载目标..."
     },
     "Loading notification. Please wait a moment...": {
       "ja": "通知を読み込んでいます。しばらくお待ちください...",
@@ -6933,7 +6954,8 @@
       "pt": "Carregando notificação. Aguarde um momento...",
       "ko": "알림을 로드하는 중입니다. 잠시만 기다려 주세요...",
       "fr": "Chargement de la notification. Patientez un instant...",
-      "tr": "Bildirim yükleniyor. Lütfen bir an bekleyin..."
+      "tr": "Bildirim yükleniyor. Lütfen bir an bekleyin...",
+      "zh-CN": "正在加载通知。请稍候..."
     },
     "Lockscreen Visibility": {
       "ja": "ロック画面の表示",
@@ -6941,7 +6963,8 @@
       "pt": "Visibilidade na tela de bloqueio",
       "ko": "잠금 화면 표시",
       "fr": "Visibilité de l'écran de verrouillage",
-      "tr": "Kilit ekranı görünürlüğü"
+      "tr": "Kilit ekranı görünürlüğü",
+      "zh-CN": "锁屏可见性"
     },
     "Message ID": {
       "ja": "メッセージID",
@@ -6949,7 +6972,8 @@
       "pt": "ID da mensagem",
       "ko": "메시지 ID",
       "fr": "ID du message",
-      "tr": "Mesaj ID"
+      "tr": "Mesaj ID",
+      "zh-CN": "消息 ID"
     },
     "Message Statistics": {
       "ja": "メッセージ統計",
@@ -6957,7 +6981,8 @@
       "pt": "Estatísticas da mensagem",
       "ko": "메시지 통계",
       "fr": "Statistiques du message",
-      "tr": "Mesaj istatistikleri"
+      "tr": "Mesaj istatistikleri",
+      "zh-CN": "消息统计"
     },
     "Message name": {
       "ja": "メッセージ名",
@@ -6965,7 +6990,8 @@
       "pt": "Nome da mensagem",
       "ko": "메시지 이름",
       "fr": "Nom du message",
-      "tr": "Mesaj adı"
+      "tr": "Mesaj adı",
+      "zh-CN": "消息名称"
     },
     "Message settings": {
       "ja": "メッセージ設定",
@@ -6973,7 +6999,8 @@
       "pt": "Configurações da mensagem",
       "ko": "메시지 설정",
       "fr": "Paramètres du message",
-      "tr": "Mesaj ayarları"
+      "tr": "Mesaj ayarları",
+      "zh-CN": "消息设置"
     },
     "Mutable Content": {
       "ja": "可変コンテンツ",
@@ -6981,7 +7008,8 @@
       "pt": "Conteúdo mutável",
       "ko": "변경 가능 콘텐츠",
       "fr": "Contenu modifiable",
-      "tr": "Değiştirilebilir içerik"
+      "tr": "Değiştirilebilir içerik",
+      "zh-CN": "可变内容"
     },
     "Normal": {
       "ja": "通常",
@@ -6989,7 +7017,8 @@
       "pt": "Normal",
       "ko": "보통",
       "fr": "Normal",
-      "tr": "Normal"
+      "tr": "Normal",
+      "zh-CN": "普通"
     },
     "Public - Always show the contents on the lockscreen.": {
       "ja": "公開 - ロック画面に常にコンテンツを表示する。",
@@ -6997,7 +7026,8 @@
       "pt": "Público - Sempre mostrar o conteúdo na tela de bloqueio.",
       "ko": "공개 - 잠금 화면에 항상 콘텐츠를 표시합니다.",
       "fr": "Public - Toujours afficher le contenu sur l'écran de verrouillage.",
-      "tr": "Genel - İçeriği her zaman kilit ekranında göster."
+      "tr": "Genel - İçeriği her zaman kilit ekranında göster.",
+      "zh-CN": "公开 - 始终在锁屏上显示内容。"
     },
     "Realtime Message Data": {
       "ja": "リアルタイムメッセージデータ",
@@ -7005,7 +7035,8 @@
       "pt": "Dados da mensagem em tempo real",
       "ko": "실시간 메시지 데이터",
       "fr": "Données de message en temps réel",
-      "tr": "Gerçek zamanlı mesaj verileri"
+      "tr": "Gerçek zamanlı mesaj verileri",
+      "zh-CN": "实时消息数据"
     },
     "Relevance Score": {
       "ja": "関連度スコア",
@@ -7013,7 +7044,8 @@
       "pt": "Pontuação de relevância",
       "ko": "관련성 점수",
       "fr": "Score de pertinence",
-      "tr": "İlgi puanı"
+      "tr": "İlgi puanı",
+      "zh-CN": "相关性评分"
     },
     "Remaining": {
       "ja": "残り",
@@ -7021,7 +7053,8 @@
       "pt": "Restante",
       "ko": "남음",
       "fr": "Restant",
-      "tr": "Kalan"
+      "tr": "Kalan",
+      "zh-CN": "剩余"
     },
     "Send a Retargeted Message": {
       "ja": "リターゲティングメッセージを送信",
@@ -7029,7 +7062,8 @@
       "pt": "Enviar uma mensagem de retargeting",
       "ko": "리타겟팅 메시지 발송",
       "fr": "Envoyer un message de retargeting",
-      "tr": "Yeniden hedeflenmiş mesaj gönder"
+      "tr": "Yeniden hedeflenmiş mesaj gönder",
+      "zh-CN": "发送再营销消息"
     },
     "Send to segments": {
       "ja": "セグメントに送信",
@@ -7037,7 +7071,8 @@
       "pt": "Enviar a segmentos",
       "ko": "세그먼트에 발송",
       "fr": "Envoyer à des segments",
-      "tr": "Segmentlere gönder"
+      "tr": "Segmentlere gönder",
+      "zh-CN": "发送给 Segment"
     },
     "Start sending": {
       "ja": "発送開始",
@@ -7045,7 +7080,8 @@
       "pt": "Iniciar envio",
       "ko": "발송 시작",
       "fr": "Commencer l'envoi",
-      "tr": "Göndermeye başla"
+      "tr": "Göndermeye başla",
+      "zh-CN": "开始发送"
     },
     "Subtitle": {
       "ja": "サブタイトル",
@@ -7053,7 +7089,8 @@
       "pt": "Subtítulo",
       "ko": "부제목",
       "fr": "Sous-titre",
-      "tr": "Alt başlık"
+      "tr": "Alt başlık",
+      "zh-CN": "副标题"
     },
     "Throttling": {
       "ja": "スロットリング",
@@ -7061,7 +7098,8 @@
       "pt": "Limitação",
       "ko": "쓰로틀링",
       "fr": "Limitation",
-      "tr": "Sınırlama"
+      "tr": "Sınırlama",
+      "zh-CN": "限速"
     },
     "Time To Live": {
       "ja": "有効期間",
@@ -7069,7 +7107,8 @@
       "pt": "Tempo de vida",
       "ko": "유효 시간",
       "fr": "Durée de vie",
-      "tr": "Yaşam süresi"
+      "tr": "Yaşam süresi",
+      "zh-CN": "存活时间"
     },
     "Title": {
       "ja": "タイトル",
@@ -7077,7 +7116,8 @@
       "pt": "Título",
       "ko": "제목",
       "fr": "Titre",
-      "tr": "Başlık"
+      "tr": "Başlık",
+      "zh-CN": "标题"
     },
     "Total clicks": {
       "ja": "総クリック数",
@@ -7085,7 +7125,8 @@
       "pt": "Total de cliques",
       "ko": "총 클릭 수",
       "fr": "Total des clics",
-      "tr": "Toplam tıklama"
+      "tr": "Toplam tıklama",
+      "zh-CN": "总点击"
     },
     "Total number of recipients": {
       "ja": "受信者総数",
@@ -7093,7 +7134,8 @@
       "pt": "Número total de destinatários",
       "ko": "총 수신자 수",
       "fr": "Nombre total de destinataires",
-      "tr": "Toplam alıcı sayısı"
+      "tr": "Toplam alıcı sayısı",
+      "zh-CN": "收件人总数"
     },
     "now": {
       "ja": "今",
@@ -7101,7 +7143,8 @@
       "pt": "agora",
       "ko": "방금",
       "fr": "maintenant",
-      "tr": "şimdi"
+      "tr": "şimdi",
+      "zh-CN": "现在"
     },
     "New Segment": {
       "ja": "新しいセグメント",
@@ -7109,7 +7152,8 @@
       "pt": "Novo segmento",
       "ko": "새 세그먼트",
       "fr": "Nouveau segment",
-      "tr": "Yeni segment"
+      "tr": "Yeni segment",
+      "zh-CN": "新 Segment"
     },
     "App usage": {
       "ja": "アプリ使用状況",
@@ -7117,7 +7161,8 @@
       "pt": "Uso do aplicativo",
       "ko": "앱 사용량",
       "fr": "Utilisation de l'app",
-      "tr": "Uygulama kullanımı"
+      "tr": "Uygulama kullanımı",
+      "zh-CN": "应用使用情况"
     },
     "Billing": {
       "ja": "請求",
@@ -7125,7 +7170,8 @@
       "pt": "Cobrança",
       "ko": "청구",
       "fr": "Facturation",
-      "tr": "Faturalama"
+      "tr": "Faturalama",
+      "zh-CN": "账单"
     },
     "Enterprise": {
       "ja": "エンタープライズ",
@@ -7133,7 +7179,8 @@
       "pt": "Enterprise",
       "ko": "엔터프라이즈",
       "fr": "Enterprise",
-      "tr": "Enterprise"
+      "tr": "Enterprise",
+      "zh-CN": "Enterprise"
     },
     "Invite team members": {
       "ja": "チームメンバーを招待",
@@ -7141,7 +7188,8 @@
       "pt": "Convidar membros da equipe",
       "ko": "팀원 초대",
       "fr": "Inviter des membres de l'équipe",
-      "tr": "Ekip üyeleri davet et"
+      "tr": "Ekip üyeleri davet et",
+      "zh-CN": "邀请团队成员"
     },
     "Log out": {
       "ja": "ログアウト",
@@ -7149,7 +7197,8 @@
       "pt": "Sair",
       "ko": "로그아웃",
       "fr": "Se déconnecter",
-      "tr": "Oturumu kapat"
+      "tr": "Oturumu kapat",
+      "zh-CN": "退出登录"
     },
     "Manage account": {
       "ja": "アカウント管理",
@@ -7157,7 +7206,8 @@
       "pt": "Gerenciar conta",
       "ko": "계정 관리",
       "fr": "Gérer le compte",
-      "tr": "Hesabı yönet"
+      "tr": "Hesabı yönet",
+      "zh-CN": "管理账户"
     },
     "Search for an app": {
       "ja": "アプリを検索",
