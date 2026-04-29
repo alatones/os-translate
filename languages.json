@@ -11213,350 +11213,400 @@
       "es": "Reportado como spam",
       "pt": "Reportado como spam",
       "ko": "스팸으로 신고됨",
-      "fr": "Signalé comme spam"
+      "fr": "Signalé comme spam",
+      "tr": "Spam olarak bildirildi"
     },
     "Reported as Spam Rate": {
       "ja": "スパム報告率",
       "es": "Tasa de reportes como spam",
       "pt": "Taxa de denúncias como spam",
       "ko": "스팸 신고율",
-      "fr": "Taux de signalement spam"
+      "fr": "Taux de signalement spam",
+      "tr": "Spam olarak bildirilme oranı"
     },
     "Reputation Rates": {
       "ja": "評判率",
       "es": "Tasas de reputación",
       "pt": "Taxas de reputação",
       "ko": "평판 비율",
-      "fr": "Taux de réputation"
+      "fr": "Taux de réputation",
+      "tr": "İtibar oranları"
     },
     "SMTP Login": {
       "ja": "SMTPログイン",
       "es": "Inicio de sesión SMTP",
       "pt": "Login SMTP",
       "ko": "SMTP 로그인",
-      "fr": "Identifiant SMTP"
+      "fr": "Identifiant SMTP",
+      "tr": "SMTP girişi"
     },
     "Setup Google Postmaster Documentation": {
       "ja": "Google Postmasterの設定文書",
       "es": "Documentación para configurar Google Postmaster",
       "pt": "Documentação para configurar o Google Postmaster",
       "ko": "Google Postmaster 설정 문서",
-      "fr": "Documentation de configuration Google Postmaster"
+      "fr": "Documentation de configuration Google Postmaster",
+      "tr": "Google Postmaster kurulum dokümantasyonu"
     },
     "API Keys": {
       "ja": "APIキー",
       "es": "Claves API",
       "pt": "Chaves de API",
       "ko": "API 키",
-      "fr": "Clés API"
+      "fr": "Clés API",
+      "tr": "API anahtarları"
     },
     "Add Key": {
       "ja": "キーを追加",
       "es": "Agregar clave",
       "pt": "Adicionar chave",
       "ko": "키 추가",
-      "fr": "Ajouter une clé"
+      "fr": "Ajouter une clé",
+      "tr": "Anahtar ekle"
     },
     "Anyone who has your REST API key will be able to send notifications from your app. Do not expose the REST API key in your application code. Do not share it on GitHub or anywhere else online.": {
       "ja": "REST APIキーを持っている人は誰でもあなたのアプリから通知を送信できます。REST APIキーをアプリケーションコードに公開しないでください。GitHubやその他のオンライン上で共有しないでください。",
       "es": "Cualquiera que tenga tu clave de API REST podrá enviar notificaciones desde tu app. No expongas la clave de API REST en el código de tu aplicación. No la compartas en GitHub ni en otros lugares en línea.",
       "pt": "Qualquer pessoa que tenha sua chave de API REST poderá enviar notificações do seu app. Não exponha a chave de API REST no código da sua aplicação. Não a compartilhe no GitHub nem em outros lugares online.",
       "ko": "REST API 키를 가진 사람은 누구나 앱에서 알림을 발송할 수 있습니다. 애플리케이션 코드에 REST API 키를 노출하지 마세요. GitHub나 다른 온라인 장소에서 공유하지 마세요.",
-      "fr": "Toute personne disposant de votre clé d'API REST pourra envoyer des notifications depuis votre app. N'exposez pas la clé d'API REST dans le code de votre application. Ne la partagez pas sur GitHub ni ailleurs en ligne."
+      "fr": "Toute personne disposant de votre clé d'API REST pourra envoyer des notifications depuis votre app. N'exposez pas la clé d'API REST dans le code de votre application. Ne la partagez pas sur GitHub ni ailleurs en ligne.",
+      "tr": "REST API anahtarınıza sahip olan herkes uygulamanızdan bildirim gönderebilecektir. REST API anahtarınızı uygulama kodunuzda açıkta bırakmayın. GitHub'da veya internetin başka bir yerinde paylaşmayın."
     },
     "Copy App ID": {
       "ja": "アプリIDをコピー",
       "es": "Copiar ID de app",
       "pt": "Copiar ID do app",
       "ko": "앱 ID 복사",
-      "fr": "Copier l'ID de l'app"
+      "fr": "Copier l'ID de l'app",
+      "tr": "Uygulama ID'sini kopyala"
     },
     "Copy Email Template Address": {
       "ja": "メールテンプレートアドレスをコピー",
       "es": "Copiar dirección de plantilla de correo",
       "pt": "Copiar endereço de modelo de email",
       "ko": "이메일 템플릿 주소 복사",
-      "fr": "Copier l'adresse du modèle email"
+      "fr": "Copier l'adresse du modèle email",
+      "tr": "Email şablonu adresini kopyala"
     },
     "Data Warehouse Integration": {
       "ja": "データウェアハウス統合",
       "es": "Integración con Data Warehouse",
       "pt": "Integração com Data Warehouse",
       "ko": "데이터 웨어하우스 통합",
-      "fr": "Intégration Data Warehouse"
+      "fr": "Intégration Data Warehouse",
+      "tr": "Data Warehouse entegrasyonu"
     },
     "Forwarded Email Templates": {
       "ja": "転送されたメールテンプレート",
       "es": "Plantillas de correo reenviadas",
       "pt": "Modelos de email encaminhados",
       "ko": "전달된 이메일 템플릿",
-      "fr": "Modèles email transférés"
+      "fr": "Modèles email transférés",
+      "tr": "Yönlendirilen email şablonları"
     },
     "Generate New Email Address": {
       "ja": "新しいメールアドレスを生成",
       "es": "Generar nueva dirección de correo",
       "pt": "Gerar novo endereço de email",
       "ko": "새 이메일 주소 생성",
-      "fr": "Générer une nouvelle adresse email"
+      "fr": "Générer une nouvelle adresse email",
+      "tr": "Yeni email adresi oluştur"
     },
     "Identity Verification for email + external_id (recommended)": {
       "ja": "メール + external_id用の本人確認 (推奨)",
       "es": "Verificación de identidad para correo + external_id (recomendado)",
       "pt": "Verificação de identidade para email + external_id (recomendado)",
       "ko": "이메일 + external_id 신원 확인 (권장)",
-      "fr": "Vérification d'identité pour email + external_id (recommandé)"
+      "fr": "Vérification d'identité pour email + external_id (recommandé)",
+      "tr": "email + external_id için kimlik doğrulama (önerilen)"
     },
     "If you are using an email from an external source it is strongly recommended that you change any existing links and images to point to new resources you host instead.": {
       "ja": "外部ソースからのメールを使用している場合は、既存のリンクや画像をホストする新しいリソースに変更することを強くお勧めします。",
       "es": "Si utilizas un correo de una fuente externa, te recomendamos enfáticamente que cambies todos los enlaces e imágenes existentes para que apunten a nuevos recursos alojados por ti.",
       "pt": "Se você está usando um email de uma fonte externa, é altamente recomendável que altere todos os links e imagens existentes para apontar para novos recursos hospedados por você.",
       "ko": "외부 소스의 이메일을 사용하는 경우 기존의 모든 링크 및 이미지를 직접 호스팅하는 새 리소스를 가리키도록 변경하는 것이 좋습니다.",
-      "fr": "Si vous utilisez un email d'une source externe, il est fortement recommandé de modifier tous les liens et images existants pour qu'ils pointent vers de nouvelles ressources que vous hébergez vous-même."
+      "fr": "Si vous utilisez un email d'une source externe, il est fortement recommandé de modifier tous les liens et images existants pour qu'ils pointent vers de nouvelles ressources que vous hébergez vous-même.",
+      "tr": "Harici bir kaynaktan email kullanıyorsanız, mevcut tüm bağlantı ve görselleri kendi barındırdığınız yeni kaynaklara yönlendirecek şekilde değiştirmeniz şiddetle önerilir."
     },
     "Incoming Email Templates": {
       "ja": "受信メールテンプレート",
       "es": "Plantillas de correo entrantes",
       "pt": "Modelos de email recebidos",
       "ko": "수신 이메일 템플릿",
-      "fr": "Modèles email entrants"
+      "fr": "Modèles email entrants",
+      "tr": "Gelen email şablonları"
     },
     "Key ID": {
       "ja": "キーID",
       "es": "ID de clave",
       "pt": "ID da chave",
       "ko": "키 ID",
-      "fr": "ID de clé"
+      "fr": "ID de clé",
+      "tr": "Anahtar ID"
     },
     "Legacy API Key": {
       "ja": "レガシーAPIキー",
       "es": "Clave de API heredada",
       "pt": "Chave de API antiga",
       "ko": "레거시 API 키",
-      "fr": "Ancienne clé d'API"
+      "fr": "Ancienne clé d'API",
+      "tr": "Eski API anahtarı"
     },
     "NOTE: only HTML emails are currently accepted - text-only emails should be created manually in the dashboard via copy and paste.": {
       "ja": "注意: 現在はHTMLメールのみが受け付けられています。テキストのみのメールは、コピー＆ペーストでダッシュボードに手動で作成してください。",
       "es": "NOTA: actualmente solo se aceptan correos HTML; los correos de solo texto se deben crear manualmente en el panel mediante copiar y pegar.",
       "pt": "OBSERVAÇÃO: atualmente são aceitos apenas emails HTML — emails apenas com texto devem ser criados manualmente no painel através de copiar e colar.",
       "ko": "참고: 현재 HTML 이메일만 허용됩니다. 텍스트 전용 이메일은 대시보드에서 복사하여 붙여넣어 수동으로 만들어야 합니다.",
-      "fr": "NOTE : seuls les emails HTML sont actuellement acceptés. Les emails en texte seul doivent être créés manuellement dans le tableau de bord par copier-coller."
+      "fr": "NOTE : seuls les emails HTML sont actuellement acceptés. Les emails en texte seul doivent être créés manuellement dans le tableau de bord par copier-coller.",
+      "tr": "NOT: şu anda yalnızca HTML email'ler kabul edilir; düz metin email'ler panoda kopyalayıp yapıştırarak manuel olarak oluşturulmalıdır."
     },
     "OneSignal App ID": {
       "ja": "OneSignalアプリID",
       "es": "ID de app de OneSignal",
       "pt": "ID do app OneSignal",
       "ko": "OneSignal 앱 ID",
-      "fr": "ID de l'app OneSignal"
+      "fr": "ID de l'app OneSignal",
+      "tr": "OneSignal uygulama ID"
     },
     "Require authentication for API push notifications (recommended)": {
       "ja": "APIプッシュ通知に認証を要求 (推奨)",
       "es": "Requerir autenticación para notificaciones push de API (recomendado)",
       "pt": "Exigir autenticação para notificações push de API (recomendado)",
       "ko": "API 푸시 알림에 인증 요구 (권장)",
-      "fr": "Exiger l'authentification pour les notifications push API (recommandé)"
+      "fr": "Exiger l'authentification pour les notifications push API (recommandé)",
+      "tr": "API push bildirimleri için kimlik doğrulama gereksin (önerilen)"
     },
     "Rest API Key documentation": {
       "ja": "REST APIキー文書",
       "es": "Documentación de la clave API REST",
       "pt": "Documentação da chave de API REST",
       "ko": "REST API 키 문서",
-      "fr": "Documentation de la clé d'API REST"
+      "fr": "Documentation de la clé d'API REST",
+      "tr": "REST API anahtarı dokümantasyonu"
     },
     "Treat your API key like a password.": {
       "ja": "APIキーはパスワードと同じように扱ってください。",
       "es": "Trata tu clave API como una contraseña.",
       "pt": "Trate sua chave de API como uma senha.",
       "ko": "API 키를 비밀번호처럼 취급하세요.",
-      "fr": "Traitez votre clé d'API comme un mot de passe."
+      "fr": "Traitez votre clé d'API comme un mot de passe.",
+      "tr": "API anahtarınızı bir şifre gibi koruyun."
     },
     "Unique Email Template Email Address": {
       "ja": "一意のメールテンプレートメールアドレス",
       "es": "Dirección de correo única para plantilla de correo",
       "pt": "Endereço único de email para modelo de email",
       "ko": "고유한 이메일 템플릿 이메일 주소",
-      "fr": "Adresse email unique du modèle email"
+      "fr": "Adresse email unique du modèle email",
+      "tr": "Benzersiz email şablonu email adresi"
     },
     "Updated at": {
       "ja": "更新日時",
       "es": "Actualizado el",
       "pt": "Atualizado em",
       "ko": "업데이트 시간",
-      "fr": "Mis à jour le"
+      "fr": "Mis à jour le",
+      "tr": "Güncelleme tarihi"
     },
     "Frequency Capping": {
       "ja": "頻度制限",
       "es": "Límite de frecuencia",
       "pt": "Limite de frequência",
       "ko": "빈도 제한",
-      "fr": "Plafonnement de fréquence"
+      "fr": "Plafonnement de fréquence",
+      "tr": "Frekans sınırı"
     },
     "No groups created. Create a group to add notification channels": {
       "ja": "グループが作成されていません。通知チャネルを追加するにはグループを作成してください",
       "es": "No se han creado grupos. Crea un grupo para agregar canales de notificación",
       "pt": "Nenhum grupo criado. Crie um grupo para adicionar canais de notificação",
       "ko": "그룹이 생성되지 않았습니다. 알림 채널을 추가하려면 그룹을 만드세요",
-      "fr": "Aucun groupe créé. Créez un groupe pour ajouter des canaux de notification"
+      "fr": "Aucun groupe créé. Créez un groupe pour ajouter des canaux de notification",
+      "tr": "Hiç grup oluşturulmamış. Bildirim kanalı eklemek için bir grup oluşturun"
     },
     "Notification Updates in Android Oreo": {
       "ja": "Android Oreoにおける通知の更新",
       "es": "Actualizaciones de notificaciones en Android Oreo",
       "pt": "Atualizações de notificação no Android Oreo",
       "ko": "Android Oreo의 알림 업데이트",
-      "fr": "Mises à jour des notifications dans Android Oreo"
+      "fr": "Mises à jour des notifications dans Android Oreo",
+      "tr": "Android Oreo'da bildirim güncellemeleri"
     },
     "Outcomes Tracking": {
       "ja": "結果追跡",
       "es": "Seguimiento de resultados",
       "pt": "Rastreamento de resultados",
       "ko": "결과 추적",
-      "fr": "Suivi des résultats"
+      "fr": "Suivi des résultats",
+      "tr": "Sonuç izleme"
     },
     "Push & In-App Settings": {
       "ja": "プッシュおよびインアプリ設定",
       "es": "Configuración de push e in-app",
       "pt": "Configurações de push e in-app",
       "ko": "푸시 및 인앱 설정",
-      "fr": "Paramètres Push et In-App"
+      "fr": "Paramètres Push et In-App",
+      "tr": "Push ve In-App ayarları"
     },
     "Channels Documentation": {
       "ja": "チャネル文書",
       "es": "Documentación de canales",
       "pt": "Documentação de canais",
       "ko": "채널 문서",
-      "fr": "Documentation des canaux"
+      "fr": "Documentation des canaux",
+      "tr": "Kanal dokümantasyonu"
     },
     "Cap the amount of messages users receive": {
       "ja": "ユーザーが受信するメッセージ数を制限",
       "es": "Limita la cantidad de mensajes que reciben los usuarios",
       "pt": "Limita a quantidade de mensagens que os usuários recebem",
       "ko": "사용자가 받는 메시지 수 제한",
-      "fr": "Plafonnez le nombre de messages que les utilisateurs reçoivent"
+      "fr": "Plafonnez le nombre de messages que les utilisateurs reçoivent",
+      "tr": "Kullanıcıların aldığı mesaj miktarını sınırlayın"
     },
     "Hide Outcomes that you no longer want to track from your reports.": {
       "ja": "追跡を必要としなくなった結果をレポートから非表示にします。",
       "es": "Oculta de tus informes los resultados que ya no quieres rastrear.",
       "pt": "Oculte dos seus relatórios os resultados que você não deseja mais rastrear.",
       "ko": "더 이상 추적하지 않을 결과를 보고서에서 숨깁니다.",
-      "fr": "Masquez les résultats que vous ne souhaitez plus suivre dans vos rapports."
+      "fr": "Masquez les résultats que vous ne souhaitez plus suivre dans vos rapports.",
+      "tr": "Artık izlemek istemediğiniz sonuçları raporlarınızdan gizleyin."
     },
     "Learn how to track custom Outcomes": {
       "ja": "カスタム結果を追跡する方法を学ぶ",
       "es": "Aprende a rastrear resultados personalizados",
       "pt": "Saiba como rastrear resultados personalizados",
       "ko": "사용자 정의 결과를 추적하는 방법 알아보기",
-      "fr": "Apprenez à suivre les résultats personnalisés"
+      "fr": "Apprenez à suivre les résultats personnalisés",
+      "tr": "Özel sonuçları nasıl izleyeceğinizi öğrenin"
     },
     "Line chart depicting analytics for two messages": {
       "ja": "2つのメッセージの分析を表す折れ線グラフ",
       "es": "Gráfico de líneas que muestra el análisis de dos mensajes",
       "pt": "Gráfico de linha que mostra análises de duas mensagens",
       "ko": "두 메시지의 분석을 나타내는 선 차트",
-      "fr": "Graphique linéaire des analyses pour deux messages"
+      "fr": "Graphique linéaire des analyses pour deux messages",
+      "tr": "İki mesaj için analizleri gösteren çizgi grafik"
     },
     "Max push notifications per user": {
       "ja": "ユーザーあたりの最大プッシュ通知数",
       "es": "Máximo de notificaciones push por usuario",
       "pt": "Máximo de notificações push por usuário",
       "ko": "사용자당 최대 푸시 알림 수",
-      "fr": "Maximum de notifications push par utilisateur"
+      "fr": "Maximum de notifications push par utilisateur",
+      "tr": "Kullanıcı başına maksimum push bildirimi"
     },
     "Per Day": {
       "ja": "1日あたり",
       "es": "Por día",
       "pt": "Por dia",
       "ko": "일별",
-      "fr": "Par jour"
+      "fr": "Par jour",
+      "tr": "Günlük"
     },
     "Stop Tracking": {
       "ja": "追跡を停止",
       "es": "Dejar de rastrear",
       "pt": "Parar de rastrear",
       "ko": "추적 중지",
-      "fr": "Arrêter le suivi"
+      "fr": "Arrêter le suivi",
+      "tr": "İzlemeyi durdur"
     },
     "Keywords": {
       "ja": "キーワード",
       "es": "Palabras clave",
       "pt": "Palavras-chave",
       "ko": "키워드",
-      "fr": "Mots-clés"
+      "fr": "Mots-clés",
+      "tr": "Anahtar kelimeler"
     },
     "Thanks for subscribing to OneSignal! Msg & data rates may apply. Reply STOP to unsubscribe and HELP for more info.": {
       "ja": "OneSignalにご登録いただきありがとうございます！メッセージおよびデータ料金がかかる場合があります。登録解除はSTOP、詳細はHELPと返信してください。",
       "es": "¡Gracias por suscribirte a OneSignal! Pueden aplicar tarifas de mensaje y datos. Responde STOP para darte de baja o HELP para más información.",
       "pt": "Obrigado por se inscrever no OneSignal! Podem ser aplicadas taxas de mensagem e dados. Responda STOP para cancelar a inscrição ou HELP para mais informações.",
       "ko": "OneSignal 구독에 감사드립니다! 메시지 및 데이터 요금이 부과될 수 있습니다. 구독 해지는 STOP, 자세한 정보는 HELP를 회신하세요.",
-      "fr": "Merci de votre inscription à OneSignal ! Frais de message et données possibles. Répondez STOP pour vous désabonner ou HELP pour plus d'infos."
+      "fr": "Merci de votre inscription à OneSignal ! Frais de message et données possibles. Répondez STOP pour vous désabonner ou HELP pour plus d'infos.",
+      "tr": "OneSignal'e abone olduğunuz için teşekkürler! Mesaj ve veri ücretleri uygulanabilir. Abonelikten çıkmak için STOP, daha fazla bilgi için HELP yanıtlayın."
     },
     "Message Reply Template": {
       "ja": "メッセージ返信テンプレート",
       "es": "Plantilla de respuesta de mensajes",
       "pt": "Modelo de resposta de mensagens",
       "ko": "메시지 회신 템플릿",
-      "fr": "Modèle de réponse au message"
+      "fr": "Modèle de réponse au message",
+      "tr": "Mesaj yanıt şablonu"
     },
     "Keyword": {
       "ja": "キーワード",
       "es": "Palabra clave",
       "pt": "Palavra-chave",
       "ko": "키워드",
-      "fr": "Mot-clé"
+      "fr": "Mot-clé",
+      "tr": "Anahtar kelime"
     },
     "Message Reply Preview": {
       "ja": "メッセージ返信プレビュー",
       "es": "Vista previa de respuesta de mensajes",
       "pt": "Pré-visualização de resposta de mensagens",
       "ko": "메시지 회신 미리보기",
-      "fr": "Aperçu de la réponse au message"
+      "fr": "Aperçu de la réponse au message",
+      "tr": "Mesaj yanıt önizlemesi"
     },
     "Message Reply": {
       "ja": "メッセージ返信",
       "es": "Respuesta de mensaje",
       "pt": "Resposta de mensagem",
       "ko": "메시지 회신",
-      "fr": "Réponse au message"
+      "fr": "Réponse au message",
+      "tr": "Mesaj yanıtı"
     },
     "Everyone": {
       "ja": "全員",
       "es": "Todos",
       "pt": "Todos",
       "ko": "모두",
-      "fr": "Tout le monde"
+      "fr": "Tout le monde",
+      "tr": "Herkes"
     },
     "Help": {
       "ja": "ヘルプ",
       "es": "Ayuda",
       "pt": "Ajuda",
       "ko": "도움말",
-      "fr": "Aide"
+      "fr": "Aide",
+      "tr": "Yardım"
     },
     "Add Keyword": {
       "ja": "キーワードを追加",
       "es": "Agregar palabra clave",
       "pt": "Adicionar palavra-chave",
       "ko": "키워드 추가",
-      "fr": "Ajouter un mot-clé"
+      "fr": "Ajouter un mot-clé",
+      "tr": "Anahtar kelime ekle"
     },
     "Add Text-To-Subscribe Keyword": {
       "ja": "テキスト購読キーワードを追加",
       "es": "Agregar palabra clave de suscripción por texto",
       "pt": "Adicionar palavra-chave de inscrição por texto",
       "ko": "텍스트 구독 키워드 추가",
-      "fr": "Ajouter un mot-clé d'inscription par SMS"
+      "fr": "Ajouter un mot-clé d'inscription par SMS",
+      "tr": "SMS ile abone olma anahtar kelimesi ekle"
     },
     "Additional Opt-Out Actions": {
       "ja": "追加のオプトアウトアクション",
       "es": "Acciones adicionales de exclusión",
       "pt": "Ações adicionais de exclusão",
       "ko": "추가 옵트아웃 작업",
-      "fr": "Actions de désinscription supplémentaires"
+      "fr": "Actions de désinscription supplémentaires",
+      "tr": "Ek abonelikten çıkma eylemleri"
     },
     "Contract is OneSignal managed": {
       "ja": "契約はOneSignal管理",
       "es": "El contrato es administrado por OneSignal",
       "pt": "O contrato é gerenciado pelo OneSignal",
       "ko": "계약은 OneSignal에서 관리",
-      "fr": "Contrat géré par OneSignal"
+      "fr": "Contrat géré par OneSignal",
+      "tr": "Sözleşme OneSignal tarafından yönetiliyor"
     },
     "Double Opt-In": {
       "ja": "ダブルオプトイン",
