@@ -3557,7 +3557,8 @@
       "es": "Total de registros",
       "ja": "合計レコード数",
       "pt": "Total de registros",
-      "ko": "총 기록 수"
+      "ko": "총 기록 수",
+      "fr": "Total des enregistrements"
     },
     "Total Sent": {
       "es": "Total enviados",
@@ -3570,7 +3571,8 @@
       "es": "Total suscritos",
       "ja": "合計購読数",
       "pt": "Total de inscritos",
-      "ko": "총 구독 수"
+      "ko": "총 구독 수",
+      "fr": "Total des abonnés"
     },
     "Total Subscribers": {
       "es": "Total de suscriptores",
@@ -3583,13 +3585,15 @@
       "es": "Total de suscriptores web push",
       "ja": "Webプッシュ購読者数合計",
       "pt": "Total de assinantes web push",
-      "ko": "총 웹 푸시 구독자"
+      "ko": "총 웹 푸시 구독자",
+      "fr": "Total des abonnés push web"
     },
     "Trigger": {
       "es": "Disparador",
       "ja": "トリガー",
       "pt": "Gatilho",
-      "ko": "트리거"
+      "ko": "트리거",
+      "fr": "Déclencheur"
     },
     "true": {
       "es": "verdadero",
@@ -3608,67 +3612,78 @@
       "es": "Mar",
       "ja": "火",
       "pt": "Ter",
-      "ko": "화"
+      "ko": "화",
+      "fr": "Mar"
     },
     "Type": {
       "es": "Tipo",
       "ja": "タイプ",
       "pt": "Tipo",
-      "ko": "유형"
+      "ko": "유형",
+      "fr": "Type"
     },
     "Unarchive": {
       "es": "Desarchivar",
       "ja": "アーカイブ解除",
       "pt": "Desarquivar",
-      "ko": "보관 취소"
+      "ko": "보관 취소",
+      "fr": "Désarchiver"
     },
     "Unattributed": {
       "es": "Sin atribución",
       "ja": "未帰属",
       "pt": "Não atribuído",
-      "ko": "미귀속"
+      "ko": "미귀속",
+      "fr": "Non attribué"
     },
     "Unconfirmed": {
       "es": "Sin confirmar",
       "ja": "未確認",
       "pt": "Não confirmado",
-      "ko": "확인되지 않음"
+      "ko": "확인되지 않음",
+      "fr": "Non confirmé"
     },
     "Unknown": {
       "es": "Desconocido",
       "ja": "不明",
       "pt": "Desconhecido",
-      "ko": "알 수 없음"
+      "ko": "알 수 없음",
+      "fr": "Inconnu"
     },
     "Unpublish": {
       "es": "Despublicar",
       "ja": "非公開化",
       "pt": "Cancelar publicação",
-      "ko": "게시 취소"
+      "ko": "게시 취소",
+      "fr": "Dépublier"
     },
     "Unsubscribe rate": {
       "es": "Tasa de cancelación",
       "ja": "購読解除率",
       "pt": "Taxa de cancelamento",
-      "ko": "구독 취소율"
+      "ko": "구독 취소율",
+      "fr": "Taux de désinscription"
     },
     "Unsubscribed": {
       "es": "Cancelado",
       "ja": "購読解除",
       "pt": "Cancelado",
-      "ko": "구독 취소됨"
+      "ko": "구독 취소됨",
+      "fr": "Désinscrit"
     },
     "Unsubscribed:": {
       "es": "Cancelaciones:",
       "ja": "購読解除：",
       "pt": "Cancelamentos:",
-      "ko": "구독 취소:"
+      "ko": "구독 취소:",
+      "fr": "Désinscriptions :"
     },
     "Update": {
       "es": "Actualizar",
       "ja": "更新",
       "pt": "Atualizar",
-      "ko": "업데이트"
+      "ko": "업데이트",
+      "fr": "Mettre à jour"
     },
     "Update/Import Users": {
       "es": "Actualizar/importar usuarios",
@@ -3692,7 +3707,8 @@
       "es": "URL",
       "ja": "URL",
       "pt": "URL",
-      "ko": "URL"
+      "ko": "URL",
+      "fr": "URL"
     },
     "Usage": {
       "es": "Uso",
@@ -3734,13 +3750,15 @@
       "es": "UTC",
       "ja": "UTC",
       "pt": "UTC",
-      "ko": "UTC"
+      "ko": "UTC",
+      "fr": "UTC"
     },
     "UTC:": {
       "es": "UTC:",
       "ja": "UTC：",
       "pt": "UTC:",
-      "ko": "UTC:"
+      "ko": "UTC:",
+      "fr": "UTC :"
     },
     "Value": {
       "es": "Valor",
@@ -3880,7 +3898,8 @@
       "ja": "リアルタイムの更新・アラートなどをプッシュ数の制限なく配信",
       "es": "Push ilimitado para actualizaciones en tiempo real, alertas y más",
       "pt": "Push ilimitado para atualizações em tempo real, alertas e muito mais",
-      "ko": "실시간 업데이트, 알림 등을 위한 무제한 푸시"
+      "ko": "실시간 업데이트, 알림 등을 위한 무제한 푸시",
+      "fr": "Push illimité pour les mises à jour en temps réel, alertes et plus"
     },
     "Set Up Push": {
       "ja": "プッシュをセットアップ",
@@ -4256,13 +4275,15 @@
       "ja": "カスタムイベントのプレビューを見る",
       "es": "Ver una vista previa de los eventos personalizados",
       "pt": "Ver uma prévia dos eventos personalizados",
-      "ko": "사용자 정의 이벤트 미리보기 둘러보기"
+      "ko": "사용자 정의 이벤트 미리보기 둘러보기",
+      "fr": "Voir un aperçu des événements personnalisés"
     },
     "Trigger profile updates or events in other tools based on customer movement through a Journey": {
       "ja": "ジャーニーにおける顧客の動きに基づいて、他のツールでプロフィール更新やイベントをトリガーする",
       "es": "Activa actualizaciones de perfil o eventos en otras herramientas según el movimiento del cliente en un Journey",
       "pt": "Acione atualizações de perfil ou eventos em outras ferramentas com base no movimento do cliente em um Journey",
-      "ko": "저니를 통한 고객 이동을 기반으로 다른 도구에서 프로필 업데이트 또는 이벤트를 트리거하세요"
+      "ko": "저니를 통한 고객 이동을 기반으로 다른 도구에서 프로필 업데이트 또는 이벤트를 트리거하세요",
+      "fr": "Déclenchez des mises à jour de profil ou des événements dans d'autres outils en fonction du parcours du client dans un Journey"
     },
     "Webhooks documentation": {
       "ja": "Webhooksドキュメント",
@@ -4676,7 +4697,8 @@
       "ja": "購読合計",
       "es": "Suscripciones totales",
       "pt": "Total de assinaturas",
-      "ko": "총 구독 수"
+      "ko": "총 구독 수",
+      "fr": "Total des abonnements"
     },
     "Search by name or keywords": {
       "ja": "名前またはキーワードで検索",
@@ -4689,7 +4711,8 @@
       "ja": "クイックスタートセグメントをお試しください",
       "es": "Prueba uno de nuestros segmentos de inicio rápido",
       "pt": "Experimente um de nossos segmentos de início rápido",
-      "ko": "빠른 시작 세그먼트 중 하나를 시도해 보세요"
+      "ko": "빠른 시작 세그먼트 중 하나를 시도해 보세요",
+      "fr": "Essayez un de nos segments de démarrage rapide"
     },
     "Export a list of users": {
       "ja": "ユーザーリストをエクスポート",
@@ -4798,7 +4821,8 @@
       "ja": "オーディエンスを理解",
       "es": "Entiende a tu audiencia",
       "pt": "Entenda seu público",
-      "ko": "대상을 이해하세요"
+      "ko": "대상을 이해하세요",
+      "fr": "Comprenez votre audience"
     },
     "View recent activity and preferences": {
       "ja": "最近のアクティビティと設定を表示",
@@ -5283,7 +5307,8 @@
       "ja": "真",
       "es": "Verdadero",
       "pt": "Verdadeiro",
-      "ko": "참"
+      "ko": "참",
+      "fr": "Vrai"
     },
     "Influenced opens": {
       "ja": "影響を受けた開封",
@@ -5450,13 +5475,15 @@
       "ja": "総クリック数",
       "es": "Total de clics",
       "pt": "Total de cliques",
-      "ko": "총 클릭 수"
+      "ko": "총 클릭 수",
+      "fr": "Total des clics"
     },
     "Total number of recipients": {
       "ja": "受信者総数",
       "es": "Número total de destinatarios",
       "pt": "Número total de destinatários",
-      "ko": "총 수신자 수"
+      "ko": "총 수신자 수",
+      "fr": "Nombre total de destinataires"
     },
     "now": {
       "ja": "今",
@@ -5573,7 +5600,8 @@
       "ja": "すべてのメッセージイベントを追跡",
       "es": "Rastrear todos los eventos de mensajes",
       "pt": "Rastrear todos os eventos de mensagem",
-      "ko": "모든 메시지 이벤트 추적"
+      "ko": "모든 메시지 이벤트 추적",
+      "fr": "Suivre tous les événements de message"
     },
     "Failed Permanently": {
       "ja": "完全に失敗",
@@ -6124,13 +6152,15 @@
       "ja": "全ユーザー",
       "es": "Total de usuarios",
       "pt": "Total de usuários",
-      "ko": "총 사용자"
+      "ko": "총 사용자",
+      "fr": "Total des utilisateurs"
     },
     "Track link clicks": {
       "ja": "リンククリックを追跡",
       "es": "Rastrear clics en enlaces",
       "pt": "Rastrear cliques em links",
-      "ko": "링크 클릭 추적"
+      "ko": "링크 클릭 추적",
+      "fr": "Suivre les clics sur les liens"
     },
     "Web push Subscriptions": {
       "ja": "Webプッシュ購読",
@@ -6410,7 +6440,8 @@
       "ja": "行を展開",
       "es": "Desplegar línea",
       "pt": "Expandir linha",
-      "ko": "줄 펼치기"
+      "ko": "줄 펼치기",
+      "fr": "Déplier la ligne"
     },
     "Clear input": {
       "ja": "入力をクリア",
@@ -7033,7 +7064,8 @@
       "ja": "トリガー:",
       "es": "Disparador:",
       "pt": "Gatilho:",
-      "ko": "트리거:"
+      "ko": "트리거:",
+      "fr": "Déclencheur :"
     },
     "User has moved through the entire Journey": {
       "ja": "ユーザーがジャーニー全体を通過しました",
@@ -7453,7 +7485,8 @@
       "ja": "無題のメッセージ",
       "es": "Mensaje sin título",
       "pt": "Mensagem sem título",
-      "ko": "제목 없는 메시지"
+      "ko": "제목 없는 메시지",
+      "fr": "Message sans titre"
     },
     "Deliver immediately": {
       "ja": "すぐに配信",
@@ -8173,7 +8206,8 @@
       "ja": "デバイスがあなたのアプリまたはウェブサイトを開いた合計回数",
       "es": "Número total de veces que el dispositivo ha abierto tu app o sitio web",
       "pt": "Número total de vezes que o dispositivo abriu seu app ou site",
-      "ko": "기기가 앱 또는 웹사이트를 연 총 횟수"
+      "ko": "기기가 앱 또는 웹사이트를 연 총 횟수",
+      "fr": "Nombre total de fois où l'appareil a ouvert votre app ou site web"
     },
     "User Tag": {
       "ja": "ユーザータグ",
@@ -8427,7 +8461,8 @@
       "ja": "米国:",
       "es": "EE. UU.:",
       "pt": "EUA:",
-      "ko": "미국:"
+      "ko": "미국:",
+      "fr": "États-Unis :"
     },
     "Your message here": {
       "ja": "ここにメッセージを入力",
@@ -8937,13 +8972,15 @@
       "ja": "合計セッション時間",
       "es": "Duración total de la sesión",
       "pt": "Duração total da sessão",
-      "ko": "총 세션 시간"
+      "ko": "총 세션 시간",
+      "fr": "Durée totale de session"
     },
     "Total sessions": {
       "ja": "合計セッション数",
       "es": "Total de sesiones",
       "pt": "Total de sessões",
-      "ko": "총 세션"
+      "ko": "총 세션",
+      "fr": "Total des sessions"
     },
     "User has not been in any Journey": {
       "ja": "ユーザーはどのジャーニーにも参加していません",
@@ -8988,7 +9025,8 @@
       "ja": "ジャーニーを試す",
       "es": "Probar Journeys",
       "pt": "Experimentar Journeys",
-      "ko": "저니 사용해보기"
+      "ko": "저니 사용해보기",
+      "fr": "Essayer Journeys"
     },
     "New Automated Push": {
       "ja": "新しい自動プッシュ",
@@ -9473,13 +9511,15 @@
       "ja": "自動UTMタグ付けを有効化",
       "es": "Activar etiquetado UTM automático",
       "pt": "Ativar marcação UTM automática",
-      "ko": "자동 UTM 태그 켜기"
+      "ko": "자동 UTM 태그 켜기",
+      "fr": "Activer le marquage UTM automatique"
     },
     "UTM Settings": {
       "ja": "UTM設定",
       "es": "Configuración UTM",
       "pt": "Configurações de UTM",
-      "ko": "UTM 설정"
+      "ko": "UTM 설정",
+      "fr": "Paramètres UTM"
     },
     "Windows (UWP)": {
       "ja": "Windows (UWP)",
@@ -9770,13 +9810,15 @@
       "ja": "APIキーはパスワードと同じように扱ってください。",
       "es": "Trata tu clave API como una contraseña.",
       "pt": "Trate sua chave de API como uma senha.",
-      "ko": "API 키를 비밀번호처럼 취급하세요."
+      "ko": "API 키를 비밀번호처럼 취급하세요.",
+      "fr": "Traitez votre clé d'API comme un mot de passe."
     },
     "Unique Email Template Email Address": {
       "ja": "一意のメールテンプレートメールアドレス",
       "es": "Dirección de correo única para plantilla de correo",
       "pt": "Endereço único de email para modelo de email",
-      "ko": "고유한 이메일 템플릿 이메일 주소"
+      "ko": "고유한 이메일 템플릿 이메일 주소",
+      "fr": "Adresse email unique du modèle email"
     },
     "Updated at": {
       "ja": "更新日時",
@@ -10110,19 +10152,22 @@
       "ja": "UNSTOP",
       "es": "UNSTOP",
       "pt": "UNSTOP",
-      "ko": "UNSTOP"
+      "ko": "UNSTOP",
+      "fr": "UNSTOP"
     },
     "UNSUBSCRIBE": {
       "ja": "UNSUBSCRIBE",
       "es": "UNSUBSCRIBE",
       "pt": "UNSUBSCRIBE",
-      "ko": "UNSUBSCRIBE"
+      "ko": "UNSUBSCRIBE",
+      "fr": "UNSUBSCRIBE"
     },
     "Unsubscribe user across all Senders is": {
       "ja": "すべての送信者でユーザーの登録解除:",
       "es": "Cancelar la suscripción del usuario en todos los remitentes es",
       "pt": "Cancelar a inscrição do usuário em todos os remetentes é",
-      "ko": "모든 발신자에서 사용자 구독 해지:"
+      "ko": "모든 발신자에서 사용자 구독 해지:",
+      "fr": "La désinscription de l'utilisateur sur tous les expéditeurs est"
     },
     "When we receive help keywords, we'll reply with more information.": {
       "ja": "ヘルプキーワードを受信すると、詳細情報を返信します。",
@@ -10210,19 +10255,22 @@
       "ja": "Twilioアカウントsid",
       "es": "SID de cuenta de Twilio",
       "pt": "SID da conta Twilio",
-      "ko": "Twilio 계정 SID"
+      "ko": "Twilio 계정 SID",
+      "fr": "SID de compte Twilio"
     },
     "Twilio Auth Token": {
       "ja": "Twilio認証トークン",
       "es": "Token de autenticación de Twilio",
       "pt": "Token de autenticação Twilio",
-      "ko": "Twilio 인증 토큰"
+      "ko": "Twilio 인증 토큰",
+      "fr": "Token d'authentification Twilio"
     },
     "Twilio Credentials": {
       "ja": "Twilio資格情報",
       "es": "Credenciales de Twilio",
       "pt": "Credenciais do Twilio",
-      "ko": "Twilio 자격 증명"
+      "ko": "Twilio 자격 증명",
+      "fr": "Identifiants Twilio"
     },
     "e.g. 12345678": {
       "ja": "例: 12345678",
@@ -10268,7 +10316,8 @@
       "ja": "すべてのWebhookを更新",
       "es": "Actualizar todos los webhooks",
       "pt": "Atualizar todos os webhooks",
-      "ko": "모든 웹훅 업데이트"
+      "ko": "모든 웹훅 업데이트",
+      "fr": "Mettre à jour tous les webhooks"
     },
     "Consent Management": {
       "ja": "同意管理",
@@ -10407,7 +10456,8 @@
       "ja": "失敗",
       "es": "Sin éxito",
       "pt": "Sem êxito",
-      "ko": "실패"
+      "ko": "실패",
+      "fr": "Échec"
     }
   },
   "patterns": [
