@@ -10,12 +10,31 @@ touched and no browsing data is collected.
 
 ## Install (Load Unpacked)
 
-1. Clone this repo.
+1. Get the source onto your machine. Pick whichever option you're
+   comfortable with:
+
+   **Option A — Download ZIP (no git required).**
+   On the GitHub repo page, click the green **Code** button →
+   **Download ZIP**. Unzip the file somewhere you'll remember (e.g.
+   `~/Downloads/Translate-os-main`). The folder you point Chrome at
+   in step 4 is the unzipped folder.
+
+   **Option B — Clone with git.**
+   ```sh
+   git clone <repo-url>
+   ```
+
 2. Open `chrome://extensions` (or `edge://extensions`).
-3. Enable **Developer mode**.
-4. Click **Load unpacked** and point at the repo root.
+3. Enable **Developer mode** (toggle in the top-right).
+4. Click **Load unpacked** and point at the unzipped folder (Option A)
+   or the cloned repo root (Option B).
 5. Visit <https://dashboard.onesignal.com>. Japanese is the default.
 6. Click the extension icon to switch languages.
+
+> **Updating later:** if you used Option A, download a fresh ZIP and
+> repeat — Chrome will pick up the new files after you click the
+> reload icon on the extension card. If you used Option B, run
+> `git pull` then click reload.
 
 ## Supported Languages
 
