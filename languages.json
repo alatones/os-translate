@@ -10013,350 +10013,400 @@
       "es": "Plantilla de correo",
       "pt": "Modelo de email",
       "ko": "이메일 템플릿",
-      "fr": "Modèle email"
+      "fr": "Modèle email",
+      "tr": "Email şablonu"
     },
     "Push Template": {
       "ja": "プッシュテンプレート",
       "es": "Plantilla de push",
       "pt": "Modelo de push",
       "ko": "푸시 템플릿",
-      "fr": "Modèle de push"
+      "fr": "Modèle de push",
+      "tr": "Push şablonu"
     },
     "SMS / RCS Template": {
       "ja": "SMS / RCSテンプレート",
       "es": "Plantilla SMS / RCS",
       "pt": "Modelo SMS / RCS",
       "ko": "SMS / RCS 템플릿",
-      "fr": "Modèle SMS / RCS"
+      "fr": "Modèle SMS / RCS",
+      "tr": "SMS / RCS şablonu"
     },
     "Template": {
       "ja": "テンプレート",
       "es": "Plantilla",
       "pt": "Modelo",
       "ko": "템플릿",
-      "fr": "Modèle"
+      "fr": "Modèle",
+      "tr": "Şablon"
     },
     "AI-generated Push Template": {
       "ja": "AI生成プッシュテンプレート",
       "es": "Plantilla de push generada por IA",
       "pt": "Modelo de push gerado por IA",
       "ko": "AI 생성 푸시 템플릿",
-      "fr": "Modèle de push généré par IA"
+      "fr": "Modèle de push généré par IA",
+      "tr": "Yapay zeka tarafından oluşturulan push şablonu"
     },
     "Blank Push Template": {
       "ja": "空のプッシュテンプレート",
       "es": "Plantilla de push en blanco",
       "pt": "Modelo de push em branco",
       "ko": "빈 푸시 템플릿",
-      "fr": "Modèle de push vierge"
+      "fr": "Modèle de push vierge",
+      "tr": "Boş push şablonu"
     },
     "Blank SMS / RCS Template": {
       "ja": "空のSMS / RCSテンプレート",
       "es": "Plantilla SMS / RCS en blanco",
       "pt": "Modelo SMS / RCS em branco",
       "ko": "빈 SMS / RCS 템플릿",
-      "fr": "Modèle SMS / RCS vierge"
+      "fr": "Modèle SMS / RCS vierge",
+      "tr": "Boş SMS / RCS şablonu"
     },
     "1. Sender": {
       "ja": "1. 送信者",
       "es": "1. Remitente",
       "pt": "1. Remetente",
       "ko": "1. 발신자",
-      "fr": "1. Expéditeur"
+      "fr": "1. Expéditeur",
+      "tr": "1. Gönderen"
     },
     "2. Message": {
       "ja": "2. メッセージ",
       "es": "2. Mensaje",
       "pt": "2. Mensagem",
       "ko": "2. 메시지",
-      "fr": "2. Message"
+      "fr": "2. Message",
+      "tr": "2. Mesaj"
     },
     "HTML Editor": {
       "ja": "HTMLエディター",
       "es": "Editor HTML",
       "pt": "Editor HTML",
       "ko": "HTML 편집기",
-      "fr": "Éditeur HTML"
+      "fr": "Éditeur HTML",
+      "tr": "HTML düzenleyici"
     },
     "New Email Template": {
       "ja": "新しいメールテンプレート",
       "es": "Nueva plantilla de correo",
       "pt": "Novo modelo de email",
       "ko": "새 이메일 템플릿",
-      "fr": "Nouveau modèle email"
+      "fr": "Nouveau modèle email",
+      "tr": "Yeni email şablonu"
     },
     "Personalization": {
       "ja": "パーソナライゼーション",
       "es": "Personalización",
       "pt": "Personalização",
       "ko": "개인화",
-      "fr": "Personnalisation"
+      "fr": "Personnalisation",
+      "tr": "Kişiselleştirme"
     },
     "Select your editing experience:": {
       "ja": "編集エクスペリエンスを選択:",
       "es": "Selecciona tu experiencia de edición:",
       "pt": "Selecione sua experiência de edição:",
       "ko": "편집 환경 선택:",
-      "fr": "Sélectionnez votre expérience d'édition :"
+      "fr": "Sélectionnez votre expérience d'édition :",
+      "tr": "Düzenleme deneyiminizi seçin:"
     },
     "Sender Email": {
       "ja": "送信元メール",
       "es": "Correo del remitente",
       "pt": "Email do remetente",
       "ko": "발신자 이메일",
-      "fr": "Email de l'expéditeur"
+      "fr": "Email de l'expéditeur",
+      "tr": "Gönderen emaili"
     },
     "Sender Name": {
       "ja": "送信者名",
       "es": "Nombre del remitente",
       "pt": "Nome do remetente",
       "ko": "발신자 이름",
-      "fr": "Nom de l'expéditeur"
+      "fr": "Nom de l'expéditeur",
+      "tr": "Gönderen adı"
     },
     "Sender name you want shown": {
       "ja": "表示したい送信者名",
       "es": "Nombre del remitente que quieres mostrar",
       "pt": "Nome do remetente que você deseja exibir",
       "ko": "표시하려는 발신자 이름",
-      "fr": "Nom d'expéditeur à afficher"
+      "fr": "Nom d'expéditeur à afficher",
+      "tr": "Gösterilmesini istediğiniz gönderen adı"
     },
     "New Push Template": {
       "ja": "新しいプッシュテンプレート",
       "es": "Nueva plantilla de push",
       "pt": "Novo modelo de push",
       "ko": "새 푸시 템플릿",
-      "fr": "Nouveau modèle de push"
+      "fr": "Nouveau modèle de push",
+      "tr": "Yeni push şablonu"
     },
     "Consider looking on the": {
       "ja": "次を確認してみてください:",
       "es": "Considera buscar en el",
       "pt": "Considere procurar no",
       "ko": "다음을 확인해 보세요:",
-      "fr": "Pensez à consulter le"
+      "fr": "Pensez à consulter le",
+      "tr": "Şuna bakmayı düşünün:"
     },
     "Search bar showing empty results": {
       "ja": "検索バーで結果が空",
       "es": "Barra de búsqueda mostrando resultados vacíos",
       "pt": "Barra de pesquisa mostrando resultados vazios",
       "ko": "검색창에 비어 있는 결과가 표시됨",
-      "fr": "Barre de recherche affichant des résultats vides"
+      "fr": "Barre de recherche affichant des résultats vides",
+      "tr": "Boş sonuçlar gösteren arama çubuğu"
     },
     "We could not find the Template you were looking for.": {
       "ja": "お探しのテンプレートが見つかりませんでした。",
       "es": "No pudimos encontrar la plantilla que estabas buscando.",
       "pt": "Não conseguimos encontrar o modelo que você estava procurando.",
       "ko": "찾으시는 템플릿을 찾을 수 없습니다.",
-      "fr": "Nous n'avons pas trouvé le modèle que vous cherchiez."
+      "fr": "Nous n'avons pas trouvé le modèle que vous cherchiez.",
+      "tr": "Aradığınız şablonu bulamadık."
     },
     "template index": {
       "ja": "テンプレート一覧",
       "es": "índice de plantillas",
       "pt": "índice de modelos",
       "ko": "템플릿 인덱스",
-      "fr": "index des modèles"
+      "fr": "index des modèles",
+      "tr": "şablon dizini"
     },
     "Add Additional Media": {
       "ja": "追加のメディアを追加",
       "es": "Agregar medios adicionales",
       "pt": "Adicionar mídia adicional",
       "ko": "추가 미디어 추가",
-      "fr": "Ajouter des médias supplémentaires"
+      "fr": "Ajouter des médias supplémentaires",
+      "tr": "Ek medya ekle"
     },
     "Default Brand Logo": {
       "ja": "デフォルトのブランドロゴ",
       "es": "Logotipo de marca predeterminado",
       "pt": "Logotipo de marca padrão",
       "ko": "기본 브랜드 로고",
-      "fr": "Logo de marque par défaut"
+      "fr": "Logo de marque par défaut",
+      "tr": "Varsayılan marka logosu"
     },
     "Insert Trackable Link": {
       "ja": "追跡可能なリンクを挿入",
       "es": "Insertar enlace rastreable",
       "pt": "Inserir link rastreável",
       "ko": "추적 가능한 링크 삽입",
-      "fr": "Insérer un lien traçable"
+      "fr": "Insérer un lien traçable",
+      "tr": "İzlenebilir bağlantı ekle"
     },
     "New SMS / RCS Template": {
       "ja": "新しいSMS / RCSテンプレート",
       "es": "Nueva plantilla SMS / RCS",
       "pt": "Novo modelo SMS / RCS",
       "ko": "새 SMS / RCS 템플릿",
-      "fr": "Nouveau modèle SMS / RCS"
+      "fr": "Nouveau modèle SMS / RCS",
+      "tr": "Yeni SMS / RCS şablonu"
     },
     "Your Brand Here": {
       "ja": "ここにブランドを",
       "es": "Tu marca aquí",
       "pt": "Sua marca aqui",
       "ko": "여기에 브랜드 표시",
-      "fr": "Votre marque ici"
+      "fr": "Votre marque ici",
+      "tr": "Markanız burada"
     },
     "Spanish": {
       "ja": "スペイン語",
       "es": "Español",
       "pt": "Espanhol",
       "ko": "스페인어",
-      "fr": "Espagnol"
+      "fr": "Espagnol",
+      "tr": "İspanyolca"
     },
     "Activity": {
       "ja": "活動",
       "es": "Actividad",
       "pt": "Atividade",
       "ko": "활동",
-      "fr": "Activité"
+      "fr": "Activité",
+      "tr": "Etkinlik"
     },
     "Refresh": {
       "ja": "更新",
       "es": "Actualizar",
       "pt": "Atualizar",
       "ko": "새로 고침",
-      "fr": "Actualiser"
+      "fr": "Actualiser",
+      "tr": "Yenile"
     },
     "Timestamp": {
       "ja": "タイムスタンプ",
       "es": "Marca de tiempo",
       "pt": "Marca de tempo",
       "ko": "타임스탬프",
-      "fr": "Horodatage"
+      "fr": "Horodatage",
+      "tr": "Zaman damgası"
     },
     "You'll see data here when there's user activity.": {
       "ja": "ユーザー活動があると、ここにデータが表示されます。",
       "es": "Verás datos aquí cuando haya actividad del usuario.",
       "pt": "Você verá dados aqui quando houver atividade do usuário.",
       "ko": "사용자 활동이 있을 때 여기에 데이터가 표시됩니다.",
-      "fr": "Vous verrez des données ici lorsqu'il y aura de l'activité utilisateur."
+      "fr": "Vous verrez des données ici lorsqu'il y aura de l'activité utilisateur.",
+      "tr": "Kullanıcı etkinliği olduğunda verileri burada göreceksiniz."
     },
     "Message events": {
       "ja": "メッセージイベント",
       "es": "Eventos de mensajes",
       "pt": "Eventos de mensagens",
       "ko": "메시지 이벤트",
-      "fr": "Événements de message"
+      "fr": "Événements de message",
+      "tr": "Mesaj etkinlikleri"
     },
     "No Recent Activity": {
       "ja": "最近の活動なし",
       "es": "Sin actividad reciente",
       "pt": "Sem atividade recente",
       "ko": "최근 활동 없음",
-      "fr": "Aucune activité récente"
+      "fr": "Aucune activité récente",
+      "tr": "Son etkinlik yok"
     },
     "Refreshing...": {
       "ja": "更新中...",
       "es": "Actualizando...",
       "pt": "Atualizando...",
       "ko": "새로 고치는 중...",
-      "fr": "Actualisation..."
+      "fr": "Actualisation...",
+      "tr": "Yenileniyor..."
     },
     "Search by journey name": {
       "ja": "ジャーニー名で検索",
       "es": "Buscar por nombre de Journey",
       "pt": "Pesquisar por nome do Journey",
       "ko": "저니 이름으로 검색",
-      "fr": "Rechercher par nom de Journey"
+      "fr": "Rechercher par nom de Journey",
+      "tr": "Journey adına göre ara"
     },
     "Search by key or value": {
       "ja": "キーまたは値で検索",
       "es": "Buscar por clave o valor",
       "pt": "Pesquisar por chave ou valor",
       "ko": "키 또는 값으로 검색",
-      "fr": "Rechercher par clé ou valeur"
+      "fr": "Rechercher par clé ou valeur",
+      "tr": "Anahtar veya değere göre ara"
     },
     "Aliases": {
       "ja": "エイリアス",
       "es": "Alias",
       "pt": "Aliases",
       "ko": "별칭",
-      "fr": "Alias"
+      "fr": "Alias",
+      "tr": "Takma adlar"
     },
     "Custom events": {
       "ja": "カスタムイベント",
       "es": "Eventos personalizados",
       "pt": "Eventos personalizados",
       "ko": "사용자 정의 이벤트",
-      "fr": "Événements personnalisés"
+      "fr": "Événements personnalisés",
+      "tr": "Özel etkinlikler"
     },
     "Data tags": {
       "ja": "データタグ",
       "es": "Etiquetas de datos",
       "pt": "Tags de dados",
       "ko": "데이터 태그",
-      "fr": "Tags de données"
+      "fr": "Tags de données",
+      "tr": "Veri etiketleri"
     },
     "Devices": {
       "ja": "デバイス",
       "es": "Dispositivos",
       "pt": "Dispositivos",
       "ko": "기기",
-      "fr": "Appareils"
+      "fr": "Appareils",
+      "tr": "Cihazlar"
     },
     "Event log": {
       "ja": "イベントログ",
       "es": "Registro de eventos",
       "pt": "Registro de eventos",
       "ko": "이벤트 로그",
-      "fr": "Journal d'événements"
+      "fr": "Journal d'événements",
+      "tr": "Etkinlik günlüğü"
     },
     "Learn more about Journeys.": {
       "ja": "ジャーニーの詳細を確認。",
       "es": "Más información sobre Journeys.",
       "pt": "Saiba mais sobre Journeys.",
       "ko": "저니에 대해 자세히 알아보세요.",
-      "fr": "En savoir plus sur Journeys."
+      "fr": "En savoir plus sur Journeys.",
+      "tr": "Journeys hakkında daha fazla bilgi edinin."
     },
     "Location Point": {
       "ja": "位置ポイント",
       "es": "Punto de ubicación",
       "pt": "Ponto de localização",
       "ko": "위치 지점",
-      "fr": "Point d'emplacement"
+      "fr": "Point d'emplacement",
+      "tr": "Konum noktası"
     },
     "No aliases": {
       "ja": "エイリアスなし",
       "es": "Sin alias",
       "pt": "Sem aliases",
       "ko": "별칭 없음",
-      "fr": "Aucun alias"
+      "fr": "Aucun alias",
+      "tr": "Takma ad yok"
     },
     "No custom events": {
       "ja": "カスタムイベントなし",
       "es": "Sin eventos personalizados",
       "pt": "Sem eventos personalizados",
       "ko": "사용자 정의 이벤트 없음",
-      "fr": "Aucun événement personnalisé"
+      "fr": "Aucun événement personnalisé",
+      "tr": "Özel etkinlik yok"
     },
     "No device records": {
       "ja": "デバイス記録なし",
       "es": "Sin registros de dispositivos",
       "pt": "Sem registros de dispositivo",
       "ko": "기기 기록 없음",
-      "fr": "Aucun enregistrement d'appareil"
+      "fr": "Aucun enregistrement d'appareil",
+      "tr": "Cihaz kaydı yok"
     },
     "No events": {
       "ja": "イベントなし",
       "es": "Sin eventos",
       "pt": "Sem eventos",
       "ko": "이벤트 없음",
-      "fr": "Aucun événement"
+      "fr": "Aucun événement",
+      "tr": "Etkinlik yok"
     },
     "No journeys": {
       "ja": "ジャーニーなし",
       "es": "Sin Journeys",
       "pt": "Sem Journeys",
       "ko": "저니 없음",
-      "fr": "Aucun Journey"
+      "fr": "Aucun Journey",
+      "tr": "Journey yok"
     },
     "No message events": {
       "ja": "メッセージイベントなし",
       "es": "Sin eventos de mensajes",
       "pt": "Sem eventos de mensagens",
       "ko": "메시지 이벤트 없음",
-      "fr": "Aucun événement de message"
+      "fr": "Aucun événement de message",
+      "tr": "Mesaj etkinliği yok"
     },
     "No subscriptions": {
       "ja": "購読なし",
       "es": "Sin suscripciones",
       "pt": "Sem assinaturas",
       "ko": "구독 없음",
-      "fr": "Aucun abonnement"
+      "fr": "Aucun abonnement",
+      "tr": "Abonelik yok"
     },
     "Phone": {
       "ja": "電話",
