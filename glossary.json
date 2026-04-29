@@ -1,5 +1,5 @@
 {
-  "_comment": "Locked English-to-target term mappings. Wherever the term appears in languages.json — standalone OR as a substantive component of a compound string — use the locked translation here. New entries that introduce a competing rendering are wrong; either use the lock or update glossary.json (and re-translate every existing occurrence) in the same commit. See STYLE_GUIDE.md.",
+  "_comment": "Locked English-to-target term mappings. Wherever the term appears in languages.json — standalone OR as a substantive component of a compound string — use the locked translation here. Values may be a single string OR an array of acceptable forms (covers grammatical variants like 'Filtrar' verb + 'Filtro' noun). New entries that introduce a competing rendering are wrong; either use the lock or update glossary.json (and re-translate every existing occurrence) in the same commit. See STYLE_GUIDE.md.",
   "_version": 1,
   "terms": {
     "Journey": {
@@ -29,13 +29,13 @@
       "ko": "세그먼트"
     },
     "Subscription": {
-      "ja": "サブスクリプション",
+      "ja": "購読",
       "es": "Suscripción",
       "pt": "Assinatura",
       "ko": "구독"
     },
     "Subscriptions": {
-      "ja": "サブスクリプション",
+      "ja": "購読",
       "es": "Suscripciones",
       "pt": "Assinaturas",
       "ko": "구독"
@@ -80,12 +80,29 @@
     },
     "Email": {
       "ja": "メール",
-      "es": "Email",
-      "pt": "Email",
+      "es": [
+        "Email",
+        "Correo",
+        "correo"
+      ],
+      "pt": [
+        "Email",
+        "email"
+      ],
       "ko": "이메일"
     },
-    "SMS": {"ja": "SMS", "es": "SMS", "pt": "SMS", "ko": "SMS"},
-    "RCS": {"ja": "RCS", "es": "RCS", "pt": "RCS", "ko": "RCS"},
+    "SMS": {
+      "ja": "SMS",
+      "es": "SMS",
+      "pt": "SMS",
+      "ko": "SMS"
+    },
+    "RCS": {
+      "ja": "RCS",
+      "es": "RCS",
+      "pt": "RCS",
+      "ko": "RCS"
+    },
     "Live Activity": {
       "ja": "ライブアクティビティ",
       "es": "Live Activity",
@@ -186,42 +203,382 @@
       "pt": "Notificações",
       "ko": "알림"
     },
-    "Save": {"ja": "保存", "es": "Guardar", "pt": "Salvar", "ko": "저장"},
-    "Send": {"ja": "送信", "es": "Enviar", "pt": "Enviar", "ko": "발송"},
-    "Sent": {"ja": "送信済み", "es": "Enviado", "pt": "Enviado", "ko": "발송됨"},
-    "Delete": {"ja": "削除", "es": "Eliminar", "pt": "Excluir", "ko": "삭제"},
-    "Edit": {"ja": "編集", "es": "Editar", "pt": "Editar", "ko": "편집"},
-    "Cancel": {"ja": "キャンセル", "es": "Cancelar", "pt": "Cancelar", "ko": "취소"},
-    "Confirm": {"ja": "確認", "es": "Confirmar", "pt": "Confirmar", "ko": "확인"},
-    "Create": {"ja": "作成", "es": "Crear", "pt": "Criar", "ko": "만들기"},
-    "Add": {"ja": "追加", "es": "Agregar", "pt": "Adicionar", "ko": "추가"},
-    "Remove": {"ja": "削除", "es": "Quitar", "pt": "Remover", "ko": "제거"},
-    "Update": {"ja": "更新", "es": "Actualizar", "pt": "Atualizar", "ko": "업데이트"},
-    "Import": {"ja": "インポート", "es": "Importar", "pt": "Importar", "ko": "가져오기"},
-    "Export": {"ja": "エクスポート", "es": "Exportar", "pt": "Exportar", "ko": "내보내기"},
-    "Settings": {"ja": "設定", "es": "Ajustes", "pt": "Configurações", "ko": "설정"},
-    "Search": {"ja": "検索", "es": "Buscar", "pt": "Pesquisar", "ko": "검색"},
-    "Filter": {"ja": "フィルター", "es": "Filtro", "pt": "Filtro", "ko": "필터"},
-    "Filters": {"ja": "フィルター", "es": "Filtros", "pt": "Filtros", "ko": "필터"},
-    "Active": {"ja": "アクティブ", "es": "Activo", "pt": "Ativo", "ko": "활성"},
-    "Inactive": {"ja": "非アクティブ", "es": "Inactivo", "pt": "Inativo", "ko": "비활성"},
-    "Disabled": {"ja": "無効", "es": "Deshabilitado", "pt": "Desativado", "ko": "비활성화됨"},
-    "Paused": {"ja": "一時停止中", "es": "Pausado", "pt": "Pausado", "ko": "일시 정지됨"},
-    "Failed": {"ja": "失敗", "es": "Fallido", "pt": "Com falha", "ko": "실패됨"},
-    "Draft": {"ja": "下書き", "es": "Borrador", "pt": "Rascunho", "ko": "초안"},
-    "Archived": {"ja": "アーカイブ済み", "es": "Archivado", "pt": "Arquivado", "ko": "보관됨"},
-    "Completed": {"ja": "完了", "es": "Completado", "pt": "Concluído", "ko": "완료됨"},
-    "Delivered": {"ja": "配信済み", "es": "Entregado", "pt": "Entregue", "ko": "전달됨"},
-    "Delivery": {"ja": "配信", "es": "Entrega", "pt": "Entrega", "ko": "전달"},
-    "Delivery Rate": {"ja": "配信率", "es": "Tasa de entrega", "pt": "Taxa de entrega", "ko": "전달률"},
-    "Click-through Rate": {"ja": "クリック率", "es": "Tasa de clics", "pt": "Taxa de cliques", "ko": "클릭률"},
-    "CTR": {"ja": "CTR", "es": "CTR", "pt": "CTR", "ko": "CTR"},
-    "Open Rate": {"ja": "開封率", "es": "Tasa de apertura", "pt": "Taxa de abertura", "ko": "열람률"},
-    "Conversion": {"ja": "コンバージョン", "es": "Conversión", "pt": "Conversão", "ko": "전환"},
-    "Recipients": {"ja": "受信者数", "es": "Destinatarios", "pt": "Destinatários", "ko": "수신자"},
-    "Sender": {"ja": "送信者", "es": "Remitente", "pt": "Remetente", "ko": "발신자"},
-    "Senders": {"ja": "送信者", "es": "Remitentes", "pt": "Remetentes", "ko": "발신자"},
-    "App": {"ja": "アプリ", "es": "App", "pt": "App", "ko": "앱"},
-    "Apps": {"ja": "アプリ", "es": "Apps", "pt": "Apps", "ko": "앱"}
+    "Save": {
+      "ja": "保存",
+      "es": [
+        "Guardar",
+        "Guardado"
+      ],
+      "pt": [
+        "Salvar",
+        "Salvo"
+      ],
+      "ko": "저장"
+    },
+    "Send": {
+      "ja": "送信",
+      "es": [
+        "Enviar",
+        "envío",
+        "envíos"
+      ],
+      "pt": [
+        "Enviar",
+        "envio",
+        "envios"
+      ],
+      "ko": "발송"
+    },
+    "Sent": {
+      "ja": "送信済み",
+      "es": [
+        "Enviado",
+        "Enviada",
+        "envío",
+        "envíos"
+      ],
+      "pt": [
+        "Enviado",
+        "Enviada",
+        "envio",
+        "envios"
+      ],
+      "ko": "발송됨"
+    },
+    "Delete": {
+      "ja": "削除",
+      "es": [
+        "Eliminar",
+        "Eliminación",
+        "Eliminado"
+      ],
+      "pt": [
+        "Excluir",
+        "Exclusão",
+        "Excluído"
+      ],
+      "ko": "삭제"
+    },
+    "Edit": {
+      "ja": "編集",
+      "es": [
+        "Editar",
+        "Edición",
+        "Editado"
+      ],
+      "pt": [
+        "Editar",
+        "Edição",
+        "Editado"
+      ],
+      "ko": "편집"
+    },
+    "Cancel": {
+      "ja": "キャンセル",
+      "es": "Cancelar",
+      "pt": "Cancelar",
+      "ko": "취소"
+    },
+    "Confirm": {
+      "ja": "確認",
+      "es": "Confirmar",
+      "pt": "Confirmar",
+      "ko": "확인"
+    },
+    "Create": {
+      "ja": "作成",
+      "es": "Crear",
+      "pt": "Criar",
+      "ko": "만들기"
+    },
+    "Add": {
+      "ja": "追加",
+      "es": "Agregar",
+      "pt": "Adicionar",
+      "ko": "추가"
+    },
+    "Remove": {
+      "ja": "削除",
+      "es": "Quitar",
+      "pt": "Remover",
+      "ko": "제거"
+    },
+    "Update": {
+      "ja": "更新",
+      "es": [
+        "Actualizar",
+        "Actualización",
+        "Actualizado"
+      ],
+      "pt": [
+        "Atualizar",
+        "Atualização",
+        "Atualizado"
+      ],
+      "ko": "업데이트"
+    },
+    "Import": {
+      "ja": "インポート",
+      "es": [
+        "Importar",
+        "Importación",
+        "Importado"
+      ],
+      "pt": [
+        "Importar",
+        "Importação",
+        "Importado"
+      ],
+      "ko": "가져오기"
+    },
+    "Export": {
+      "ja": "エクスポート",
+      "es": [
+        "Exportar",
+        "Exportación",
+        "Exportado"
+      ],
+      "pt": [
+        "Exportar",
+        "Exportação",
+        "Exportado"
+      ],
+      "ko": "내보내기"
+    },
+    "Settings": {
+      "ja": "設定",
+      "es": [
+        "Ajustes",
+        "Configuración"
+      ],
+      "pt": "Configurações",
+      "ko": "설정"
+    },
+    "Search": {
+      "ja": "検索",
+      "es": "Buscar",
+      "pt": "Pesquisar",
+      "ko": "검색"
+    },
+    "Filter": {
+      "ja": "フィルター",
+      "es": [
+        "Filtro",
+        "Filtrar"
+      ],
+      "pt": [
+        "Filtro",
+        "Filtrar"
+      ],
+      "ko": "필터"
+    },
+    "Filters": {
+      "ja": "フィルター",
+      "es": [
+        "Filtros",
+        "Filtrar"
+      ],
+      "pt": [
+        "Filtros",
+        "Filtrar"
+      ],
+      "ko": "필터"
+    },
+    "Active": {
+      "ja": "アクティブ",
+      "es": [
+        "Activo",
+        "Activos",
+        "Activa",
+        "Activas"
+      ],
+      "pt": [
+        "Ativo",
+        "Ativos",
+        "Ativa",
+        "Ativas"
+      ],
+      "ko": "활성"
+    },
+    "Inactive": {
+      "ja": "非アクティブ",
+      "es": [
+        "Inactivo",
+        "Inactivos",
+        "Inactiva",
+        "Inactivas"
+      ],
+      "pt": [
+        "Inativo",
+        "Inativos",
+        "Inativa",
+        "Inativas"
+      ],
+      "ko": "비활성"
+    },
+    "Disabled": {
+      "ja": "無効",
+      "es": "Deshabilitado",
+      "pt": "Desativado",
+      "ko": "비활성화됨"
+    },
+    "Paused": {
+      "ja": "一時停止中",
+      "es": "Pausado",
+      "pt": "Pausado",
+      "ko": "일시 정지됨"
+    },
+    "Failed": {
+      "ja": "失敗",
+      "es": [
+        "Fallido",
+        "Fallidos",
+        "Fallida",
+        "Fallidas",
+        "Falló"
+      ],
+      "pt": [
+        "Com falha",
+        "Falha",
+        "Falhou"
+      ],
+      "ko": "실패됨"
+    },
+    "Draft": {
+      "ja": "下書き",
+      "es": "Borrador",
+      "pt": "Rascunho",
+      "ko": "초안"
+    },
+    "Archived": {
+      "ja": "アーカイブ済み",
+      "es": "Archivado",
+      "pt": "Arquivado",
+      "ko": "보관됨"
+    },
+    "Completed": {
+      "ja": "完了",
+      "es": [
+        "Completado",
+        "Completados",
+        "Completada",
+        "Completadas"
+      ],
+      "pt": [
+        "Concluído",
+        "Concluídos",
+        "Concluída",
+        "Concluídas"
+      ],
+      "ko": "완료됨"
+    },
+    "Delivered": {
+      "ja": "配信済み",
+      "es": [
+        "Entregado",
+        "Entregada"
+      ],
+      "pt": [
+        "Entregue",
+        "Entregues"
+      ],
+      "ko": "전달됨"
+    },
+    "Delivery": {
+      "ja": "配信",
+      "es": [
+        "Entrega",
+        "Entregar"
+      ],
+      "pt": [
+        "Entrega",
+        "Entregar"
+      ],
+      "ko": "전달"
+    },
+    "Delivery Rate": {
+      "ja": "配信率",
+      "es": "Tasa de entrega",
+      "pt": "Taxa de entrega",
+      "ko": "전달률"
+    },
+    "Click-through Rate": {
+      "ja": "クリック率",
+      "es": "Tasa de clics",
+      "pt": "Taxa de cliques",
+      "ko": "클릭률"
+    },
+    "CTR": {
+      "ja": "CTR",
+      "es": "CTR",
+      "pt": "CTR",
+      "ko": "CTR"
+    },
+    "Open Rate": {
+      "ja": "開封率",
+      "es": "Tasa de apertura",
+      "pt": "Taxa de abertura",
+      "ko": "열람률"
+    },
+    "Conversion": {
+      "ja": "コンバージョン",
+      "es": [
+        "Conversión",
+        "Conversiones"
+      ],
+      "pt": [
+        "Conversão",
+        "Conversões"
+      ],
+      "ko": "전환"
+    },
+    "Recipients": {
+      "ja": "受信者数",
+      "es": [
+        "Destinatarios",
+        "Destinatario"
+      ],
+      "pt": [
+        "Destinatários",
+        "Destinatário"
+      ],
+      "ko": "수신자"
+    },
+    "Sender": {
+      "ja": "送信者",
+      "es": [
+        "Remitente",
+        "Remitentes"
+      ],
+      "pt": [
+        "Remetente",
+        "Remetentes"
+      ],
+      "ko": "발신자"
+    },
+    "Senders": {
+      "ja": "送信者",
+      "es": [
+        "Remitentes",
+        "Remitente"
+      ],
+      "pt": [
+        "Remetentes",
+        "Remetente"
+      ],
+      "ko": "발신자"
+    },
+    "App": {
+      "ja": "アプリ",
+      "es": "App",
+      "pt": "App",
+      "ko": "앱"
+    },
+    "Apps": {
+      "ja": "アプリ",
+      "es": "Apps",
+      "pt": "Apps",
+      "ko": "앱"
+    }
   }
 }
