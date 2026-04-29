@@ -15,7 +15,8 @@
       "pt": "+ Criar...",
       "ko": "+ 만들기...",
       "fr": "+ Créer...",
-      "tr": "+ Oluştur..."
+      "tr": "+ Oluştur...",
+      "zh-CN": "+ 创建..."
     },
     "A/B": {
       "es": "A/B",
@@ -23,7 +24,8 @@
       "pt": "A/B",
       "ko": "A/B",
       "fr": "A/B",
-      "tr": "A/B"
+      "tr": "A/B",
+      "zh-CN": "A/B"
     },
     "A/B Tests": {
       "es": "Pruebas A/B",
@@ -31,7 +33,8 @@
       "pt": "Testes A/B",
       "ko": "A/B 테스트",
       "fr": "Tests A/B",
-      "tr": "A/B testleri"
+      "tr": "A/B testleri",
+      "zh-CN": "A/B 测试"
     },
     "A/B tests": {
       "es": "Pruebas A/B",
@@ -39,7 +42,8 @@
       "pt": "Testes A/B",
       "ko": "A/B 테스트",
       "fr": "Tests A/B",
-      "tr": "A/B testleri"
+      "tr": "A/B testleri",
+      "zh-CN": "A/B 测试"
     },
     "Account": {
       "es": "Cuenta",
@@ -47,7 +51,8 @@
       "pt": "Conta",
       "ko": "계정",
       "fr": "Compte",
-      "tr": "Hesap"
+      "tr": "Hesap",
+      "zh-CN": "账户"
     },
     "Action Buttons": {
       "es": "Botones de acción",
@@ -55,7 +60,8 @@
       "pt": "Botões de ação",
       "ko": "액션 버튼",
       "fr": "Boutons d'action",
-      "tr": "İşlem düğmeleri"
+      "tr": "İşlem düğmeleri",
+      "zh-CN": "操作按钮"
     },
     "Actions": {
       "es": "Acciones",
@@ -63,7 +69,8 @@
       "pt": "Ações",
       "ko": "작업",
       "fr": "Actions",
-      "tr": "İşlemler"
+      "tr": "İşlemler",
+      "zh-CN": "操作"
     },
     "Activate": {
       "es": "Activar",
@@ -71,7 +78,8 @@
       "pt": "Ativar",
       "ko": "활성화",
       "fr": "Activer",
-      "tr": "Etkinleştir"
+      "tr": "Etkinleştir",
+      "zh-CN": "激活"
     },
     "Active": {
       "es": "Activo",
@@ -79,7 +87,8 @@
       "pt": "Ativo",
       "ko": "활성",
       "fr": "Actif",
-      "tr": "Aktif"
+      "tr": "Aktif",
+      "zh-CN": "活跃"
     },
     "Active Audience": {
       "es": "Audiencia activa",
@@ -87,7 +96,8 @@
       "pt": "Público ativo",
       "ko": "활성 대상",
       "fr": "Audience active",
-      "tr": "Aktif hedef kitle"
+      "tr": "Aktif hedef kitle",
+      "zh-CN": "活跃受众"
     },
     "Activity for": {
       "es": "Actividad de",
@@ -95,7 +105,8 @@
       "pt": "Atividade de",
       "ko": "활동 내역:",
       "fr": "Activité pour",
-      "tr": "Etkinlik:"
+      "tr": "Etkinlik:",
+      "zh-CN": "活动:"
     },
     "Add": {
       "es": "Agregar",
@@ -103,7 +114,8 @@
       "pt": "Adicionar",
       "ko": "추가",
       "fr": "Ajouter",
-      "tr": "Ekle"
+      "tr": "Ekle",
+      "zh-CN": "添加"
     },
     "Add data through mobile or web SDKs": {
       "es": "Agrega datos a través de SDKs móviles o web",
@@ -111,7 +123,8 @@
       "pt": "Adicione dados via SDKs móveis ou web",
       "ko": "모바일 또는 웹 SDK를 통해 데이터 추가",
       "fr": "Ajoutez des données via les SDK mobile ou web",
-      "tr": "Mobil veya web SDK'leri aracılığıyla veri ekleyin"
+      "tr": "Mobil veya web SDK'leri aracılığıyla veri ekleyin",
+      "zh-CN": "通过移动或 Web SDK 添加数据"
     },
     "Add Filter": {
       "es": "Agregar filtro",
@@ -119,7 +132,8 @@
       "pt": "Adicionar filtro",
       "ko": "필터 추가",
       "fr": "Ajouter un filtre",
-      "tr": "Filtre ekle"
+      "tr": "Filtre ekle",
+      "zh-CN": "添加筛选"
     },
     "Add filter": {
       "es": "Agregar filtro",
@@ -127,7 +141,8 @@
       "pt": "Adicionar filtro",
       "ko": "필터 추가",
       "fr": "Ajouter un filtre",
-      "tr": "Filtre ekle"
+      "tr": "Filtre ekle",
+      "zh-CN": "添加筛选"
     },
     "Add outcome": {
       "es": "Agregar resultado",
@@ -135,7 +150,8 @@
       "pt": "Adicionar resultado",
       "ko": "결과 추가",
       "fr": "Ajouter un résultat",
-      "tr": "Sonuç ekle"
+      "tr": "Sonuç ekle",
+      "zh-CN": "添加结果"
     },
     "Add Segment": {
       "es": "Agregar segmento",
@@ -143,7 +159,8 @@
       "pt": "Adicionar segmento",
       "ko": "세그먼트 추가",
       "fr": "Ajouter un segment",
-      "tr": "Segment ekle"
+      "tr": "Segment ekle",
+      "zh-CN": "添加 Segment"
     },
     "Add User": {
       "es": "Agregar usuario",
@@ -151,7 +168,8 @@
       "pt": "Adicionar usuário",
       "ko": "사용자 추가",
       "fr": "Ajouter un utilisateur",
-      "tr": "Kullanıcı ekle"
+      "tr": "Kullanıcı ekle",
+      "zh-CN": "添加用户"
     },
     "Add Webhook": {
       "es": "Agregar webhook",
@@ -159,7 +177,8 @@
       "pt": "Adicionar webhook",
       "ko": "웹훅 추가",
       "fr": "Ajouter un webhook",
-      "tr": "Webhook ekle"
+      "tr": "Webhook ekle",
+      "zh-CN": "添加 Webhook"
     },
     "Additional Data": {
       "es": "Datos adicionales",
@@ -167,7 +186,8 @@
       "pt": "Dados adicionais",
       "ko": "추가 데이터",
       "fr": "Données supplémentaires",
-      "tr": "Ek veriler"
+      "tr": "Ek veriler",
+      "zh-CN": "附加数据"
     },
     "Additional Settings": {
       "es": "Configuración adicional",
@@ -175,7 +195,8 @@
       "pt": "Configurações adicionais",
       "ko": "추가 설정",
       "fr": "Paramètres supplémentaires",
-      "tr": "Ek ayarlar"
+      "tr": "Ek ayarlar",
+      "zh-CN": "附加设置"
     },
     "Admin": {
       "es": "Administrador",
@@ -183,7 +204,8 @@
       "pt": "Administrador",
       "ko": "관리자",
       "fr": "Administrateur",
-      "tr": "Yönetici"
+      "tr": "Yönetici",
+      "zh-CN": "管理员"
     },
     "All": {
       "es": "Todo",
@@ -191,7 +213,8 @@
       "pt": "Tudo",
       "ko": "전체",
       "fr": "Tout",
-      "tr": "Tümü"
+      "tr": "Tümü",
+      "zh-CN": "全部"
     },
     "All Apps": {
       "es": "Todas las apps",
@@ -199,7 +222,8 @@
       "pt": "Todos os apps",
       "ko": "모든 앱",
       "fr": "Toutes les apps",
-      "tr": "Tüm uygulamalar"
+      "tr": "Tüm uygulamalar",
+      "zh-CN": "所有应用"
     },
     "All Platforms": {
       "es": "Todas las plataformas",
@@ -207,7 +231,8 @@
       "pt": "Todas as plataformas",
       "ko": "모든 플랫폼",
       "fr": "Toutes les plateformes",
-      "tr": "Tüm platformlar"
+      "tr": "Tüm platformlar",
+      "zh-CN": "所有平台"
     },
     "All Time": {
       "es": "Todo el tiempo",
@@ -215,7 +240,8 @@
       "pt": "Todo o período",
       "ko": "전체 기간",
       "fr": "Depuis le début",
-      "tr": "Tüm zamanlar"
+      "tr": "Tüm zamanlar",
+      "zh-CN": "所有时间"
     },
     "All Users": {
       "es": "Todos los usuarios",
@@ -223,7 +249,8 @@
       "pt": "Todos os usuários",
       "ko": "모든 사용자",
       "fr": "Tous les utilisateurs",
-      "tr": "Tüm kullanıcılar"
+      "tr": "Tüm kullanıcılar",
+      "zh-CN": "所有用户"
     },
     "All-time count": {
       "es": "Recuento total",
@@ -231,7 +258,8 @@
       "pt": "Contagem total",
       "ko": "전체 기간 수",
       "fr": "Total cumulé",
-      "tr": "Toplam sayı"
+      "tr": "Toplam sayı",
+      "zh-CN": "全部时间计数"
     },
     "Allowed Origins": {
       "es": "Orígenes permitidos",
@@ -239,7 +267,8 @@
       "pt": "Origens permitidas",
       "ko": "허용된 출처",
       "fr": "Origines autorisées",
-      "tr": "İzin verilen kaynaklar"
+      "tr": "İzin verilen kaynaklar",
+      "zh-CN": "允许的来源"
     },
     "Alternatives": {
       "es": "Alternativas",
@@ -247,7 +276,8 @@
       "pt": "Alternativas",
       "ko": "대안",
       "fr": "Alternatives",
-      "tr": "Alternatifler"
+      "tr": "Alternatifler",
+      "zh-CN": "备选项"
     },
     "Amount Spent": {
       "es": "Monto gastado",
@@ -255,7 +285,8 @@
       "pt": "Valor gasto",
       "ko": "지출 금액",
       "fr": "Montant dépensé",
-      "tr": "Harcanan tutar"
+      "tr": "Harcanan tutar",
+      "zh-CN": "已花费金额"
     },
     "Android": {
       "es": "Android",
@@ -263,7 +294,8 @@
       "pt": "Android",
       "ko": "안드로이드",
       "fr": "Android",
-      "tr": "Android"
+      "tr": "Android",
+      "zh-CN": "Android"
     },
     "Announce and send follow-up reminders for sales.": {
       "es": "Anuncia y envía recordatorios de seguimiento para ventas.",
@@ -271,7 +303,8 @@
       "pt": "Anuncie e envie lembretes de acompanhamento para vendas.",
       "ko": "영업을 위한 공지 및 후속 알림을 보내세요.",
       "fr": "Annoncez et envoyez des rappels de suivi pour les ventes.",
-      "tr": "Satışlar için duyuru yapın ve takip hatırlatıcıları gönderin."
+      "tr": "Satışlar için duyuru yapın ve takip hatırlatıcıları gönderin.",
+      "zh-CN": "为销售活动发布公告并发送后续提醒。"
     },
     "Any/English": {
       "es": "Cualquiera/Inglés",
@@ -279,7 +312,8 @@
       "pt": "Qualquer/Inglês",
       "ko": "모두/영어",
       "fr": "Tout/Anglais",
-      "tr": "Herhangi biri/İngilizce"
+      "tr": "Herhangi biri/İngilizce",
+      "zh-CN": "任意/英语"
     },
     "API": {
       "es": "API",
@@ -287,7 +321,8 @@
       "pt": "API",
       "ko": "API",
       "fr": "API",
-      "tr": "API"
+      "tr": "API",
+      "zh-CN": "API"
     },
     "API Reference": {
       "es": "Referencia de API",
@@ -295,7 +330,8 @@
       "pt": "Referência de API",
       "ko": "API 레퍼런스",
       "fr": "Référence API",
-      "tr": "API referansı"
+      "tr": "API referansı",
+      "zh-CN": "API 参考"
     },
     "App ID": {
       "es": "ID de la app",
@@ -303,7 +339,8 @@
       "pt": "ID do app",
       "ko": "앱 ID",
       "fr": "ID de l'app",
-      "tr": "Uygulama ID"
+      "tr": "Uygulama ID",
+      "zh-CN": "应用 ID"
     },
     "App Name": {
       "es": "Nombre de la app",
@@ -311,7 +348,8 @@
       "pt": "Nome do app",
       "ko": "앱 이름",
       "fr": "Nom de l'app",
-      "tr": "Uygulama adı"
+      "tr": "Uygulama adı",
+      "zh-CN": "应用名称"
     },
     "App Version": {
       "es": "Versión de la app",
@@ -319,7 +357,8 @@
       "pt": "Versão do app",
       "ko": "앱 버전",
       "fr": "Version de l'app",
-      "tr": "Uygulama sürümü"
+      "tr": "Uygulama sürümü",
+      "zh-CN": "应用版本"
     },
     "App version": {
       "es": "Versión de la app",
@@ -327,7 +366,8 @@
       "pt": "Versão do app",
       "ko": "앱 버전",
       "fr": "Version de l'app",
-      "tr": "Uygulama sürümü"
+      "tr": "Uygulama sürümü",
+      "zh-CN": "应用版本"
     },
     "Apply": {
       "es": "Aplicar",
@@ -335,7 +375,8 @@
       "pt": "Aplicar",
       "ko": "적용",
       "fr": "Appliquer",
-      "tr": "Uygula"
+      "tr": "Uygula",
+      "zh-CN": "应用"
     },
     "Apr": {
       "es": "abr",
@@ -343,7 +384,8 @@
       "pt": "abr",
       "ko": "4월",
       "fr": "avr",
-      "tr": "nis"
+      "tr": "nis",
+      "zh-CN": "4月"
     },
     "April": {
       "es": "abril",
@@ -351,7 +393,8 @@
       "pt": "abril",
       "ko": "4월",
       "fr": "avril",
-      "tr": "nisan"
+      "tr": "nisan",
+      "zh-CN": "4月"
     },
     "Archive": {
       "es": "Archivar",
@@ -359,7 +402,8 @@
       "pt": "Arquivar",
       "ko": "보관",
       "fr": "Archiver",
-      "tr": "Arşivle"
+      "tr": "Arşivle",
+      "zh-CN": "归档"
     },
     "Archived": {
       "es": "Archivado",
@@ -367,7 +411,8 @@
       "pt": "Arquivado",
       "ko": "보관됨",
       "fr": "Archivé",
-      "tr": "Arşivlendi"
+      "tr": "Arşivlendi",
+      "zh-CN": "已归档"
     },
     "Are you sure?": {
       "es": "¿Estás seguro?",
@@ -375,7 +420,8 @@
       "pt": "Tem certeza?",
       "ko": "정말 하시겠습니까?",
       "fr": "Êtes-vous sûr ?",
-      "tr": "Emin misiniz?"
+      "tr": "Emin misiniz?",
+      "zh-CN": "确定要继续吗？"
     },
     "Attempted": {
       "es": "Intentados",
@@ -383,7 +429,8 @@
       "pt": "Tentativas",
       "ko": "시도됨",
       "fr": "Tentés",
-      "tr": "Denendi"
+      "tr": "Denendi",
+      "zh-CN": "已尝试"
     },
     "Attempted Events": {
       "es": "Eventos intentados",
@@ -391,7 +438,8 @@
       "pt": "Eventos tentados",
       "ko": "시도된 이벤트",
       "fr": "Événements tentés",
-      "tr": "Denenen etkinlikler"
+      "tr": "Denenen etkinlikler",
+      "zh-CN": "尝试的事件"
     },
     "Attempted Updates": {
       "es": "Actualizaciones intentadas",
@@ -399,7 +447,8 @@
       "pt": "Atualizações tentadas",
       "ko": "시도된 업데이트",
       "fr": "Mises à jour tentées",
-      "tr": "Denenen güncellemeler"
+      "tr": "Denenen güncellemeler",
+      "zh-CN": "尝试的更新"
     },
     "Audience": {
       "es": "Audiencia",
@@ -407,7 +456,8 @@
       "pt": "Público",
       "ko": "대상",
       "fr": "Audience",
-      "tr": "Hedef kitle"
+      "tr": "Hedef kitle",
+      "zh-CN": "受众"
     },
     "Audit Logs": {
       "es": "Registros de auditoría",
