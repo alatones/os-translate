@@ -477,7 +477,7 @@
     "Clicked": {
       "es": "Clicado",
       "ja": "クリック数",
-      "pt": "Cliques",
+      "pt": "Clicado",
       "ko": "클릭됨"
     },
     "Clicked:": {
@@ -555,7 +555,7 @@
     "Confirmed Delivered": {
       "es": "Entrega confirmada",
       "ja": "受信確認済み",
-      "pt": "Entregue confirmado",
+      "pt": "Entrega confirmada",
       "ko": "수신 확인"
     },
     "Confirmed receipt": {
@@ -579,7 +579,7 @@
     "Confirmed receipt:": {
       "es": "Recepción confirmada:",
       "ja": "受信確認：",
-      "pt": "Confirmações:",
+      "pt": "Recebimento confirmado:",
       "ko": "수신 확인:"
     },
     "Confirmed:": {
@@ -2043,13 +2043,13 @@
     "Opted In": {
       "es": "Aceptado",
       "ja": "オプトイン済み",
-      "pt": "Inscrito",
+      "pt": "Aceito",
       "ko": "동의함"
     },
     "Opted Out": {
       "es": "Excluido",
       "ja": "オプトアウト済み",
-      "pt": "Cancelado",
+      "pt": "Excluído",
       "ko": "거부함"
     },
     "Optional": {
@@ -2703,7 +2703,7 @@
     "Show Confirmed receipt": {
       "es": "Mostrar recepción confirmada",
       "ja": "受信確認数を表示",
-      "pt": "Mostrar confirmações de recebimento",
+      "pt": "Mostrar recebimento confirmado",
       "ko": "수신 확인 표시"
     },
     "Show Delivered": {
@@ -2865,7 +2865,7 @@
     "Subscriber Opted Out": {
       "es": "Suscriptor excluido",
       "ja": "購読者がオプトアウト",
-      "pt": "Assinante optou por sair",
+      "pt": "Assinante excluído",
       "ko": "구독자 거부"
     },
     "Subscription Date": {
