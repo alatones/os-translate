@@ -10813,350 +10813,400 @@
       "es": "Mensajes por minuto",
       "pt": "Mensagens por minuto",
       "ko": "분당 메시지 수",
-      "fr": "Messages par minute"
+      "fr": "Messages par minute",
+      "tr": "Dakikada mesaj"
     },
     "Save UTM Settings": {
       "ja": "UTM設定を保存",
       "es": "Guardar configuración UTM",
       "pt": "Salvar configurações de UTM",
       "ko": "UTM 설정 저장",
-      "fr": "Enregistrer les paramètres UTM"
+      "fr": "Enregistrer les paramètres UTM",
+      "tr": "UTM ayarlarını kaydet"
     },
     "This limit will be set for each individual push message unless you override it on creation": {
       "ja": "この制限は、作成時に上書きしない限り、個別のプッシュメッセージごとに設定されます",
       "es": "Este límite se aplicará a cada mensaje push individual a menos que lo anules al crearlo",
       "pt": "Esse limite será aplicado a cada mensagem push individual a menos que você o substitua na criação",
       "ko": "생성 시 재정의하지 않는 한, 이 제한은 각 푸시 메시지에 개별적으로 적용됩니다",
-      "fr": "Cette limite sera appliquée à chaque message push individuel sauf si vous la remplacez à la création"
+      "fr": "Cette limite sera appliquée à chaque message push individuel sauf si vous la remplacez à la création",
+      "tr": "Bu limit, oluşturma sırasında geçersiz kılmadığınız sürece her bir push mesajı için ayrı ayrı uygulanır"
     },
     ".p8 Auth Key": {
       "ja": ".p8認証キー",
       "es": "Clave de autenticación .p8",
       "pt": "Chave de autenticação .p8",
       "ko": ".p8 인증 키",
-      "fr": "Clé d'authentification .p8"
+      "fr": "Clé d'authentification .p8",
+      "tr": ".p8 kimlik doğrulama anahtarı"
     },
     "60 Minutes": {
       "ja": "60分",
       "es": "60 minutos",
       "pt": "60 minutos",
       "ko": "60분",
-      "fr": "60 minutes"
+      "fr": "60 minutes",
+      "tr": "60 dakika"
     },
     "Active Platforms": {
       "ja": "アクティブなプラットフォーム",
       "es": "Plataformas activas",
       "pt": "Plataformas ativas",
       "ko": "활성 플랫폼",
-      "fr": "Plateformes actives"
+      "fr": "Plateformes actives",
+      "tr": "Aktif platformlar"
     },
     "Add Group": {
       "ja": "グループを追加",
       "es": "Agregar grupo",
       "pt": "Adicionar grupo",
       "ko": "그룹 추가",
-      "fr": "Ajouter un groupe"
+      "fr": "Ajouter un groupe",
+      "tr": "Grup ekle"
     },
     "Amazon Fire": {
       "ja": "Amazon Fire",
       "es": "Amazon Fire",
       "pt": "Amazon Fire",
       "ko": "Amazon Fire",
-      "fr": "Amazon Fire"
+      "fr": "Amazon Fire",
+      "tr": "Amazon Fire"
     },
     "Android Notification Channels": {
       "ja": "Android通知チャネル",
       "es": "Canales de notificación de Android",
       "pt": "Canais de notificação do Android",
       "ko": "Android 알림 채널",
-      "fr": "Canaux de notification Android"
+      "fr": "Canaux de notification Android",
+      "tr": "Android bildirim kanalları"
     },
     "Apple iOS (APNs)": {
       "ja": "Apple iOS (APNs)",
       "es": "Apple iOS (APNs)",
       "pt": "Apple iOS (APNs)",
       "ko": "Apple iOS (APNs)",
-      "fr": "Apple iOS (APNs)"
+      "fr": "Apple iOS (APNs)",
+      "tr": "Apple iOS (APNs)"
     },
     "Authentication": {
       "ja": "認証",
       "es": "Autenticación",
       "pt": "Autenticação",
       "ko": "인증",
-      "fr": "Authentification"
+      "fr": "Authentification",
+      "tr": "Kimlik doğrulama"
     },
     "Automatically limit push notifications": {
       "ja": "プッシュ通知を自動的に制限",
       "es": "Limitar automáticamente las notificaciones push",
       "pt": "Limitar automaticamente as notificações push",
       "ko": "푸시 알림 자동 제한",
-      "fr": "Limiter automatiquement les notifications push"
+      "fr": "Limiter automatiquement les notifications push",
+      "tr": "Push bildirimlerini otomatik olarak sınırla"
     },
     "Bundle ID": {
       "ja": "バンドルID",
       "es": "ID del paquete",
       "pt": "ID do pacote",
       "ko": "번들 ID",
-      "fr": "Bundle ID"
+      "fr": "Bundle ID",
+      "tr": "Bundle ID"
     },
     "Channels documentation.": {
       "ja": "チャネル文書。",
       "es": "Documentación de canales.",
       "pt": "Documentação de canais.",
       "ko": "채널 문서.",
-      "fr": "Documentation des canaux."
+      "fr": "Documentation des canaux.",
+      "tr": "Kanal dokümantasyonu."
     },
     "Chrome Extensions": {
       "ja": "Chrome拡張機能",
       "es": "Extensiones de Chrome",
       "pt": "Extensões do Chrome",
       "ko": "Chrome 확장 프로그램",
-      "fr": "Extensions Chrome"
+      "fr": "Extensions Chrome",
+      "tr": "Chrome uzantıları"
     },
     "Google Android (FCM)": {
       "ja": "Google Android (FCM)",
       "es": "Google Android (FCM)",
       "pt": "Google Android (FCM)",
       "ko": "Google Android (FCM)",
-      "fr": "Google Android (FCM)"
+      "fr": "Google Android (FCM)",
+      "tr": "Google Android (FCM)"
     },
     "Huawei Android (HMS)": {
       "ja": "Huawei Android (HMS)",
       "es": "Huawei Android (HMS)",
       "pt": "Huawei Android (HMS)",
       "ko": "Huawei Android (HMS)",
-      "fr": "Huawei Android (HMS)"
+      "fr": "Huawei Android (HMS)",
+      "tr": "Huawei Android (HMS)"
     },
     "Inactive Platforms": {
       "ja": "非アクティブなプラットフォーム",
       "es": "Plataformas inactivas",
       "pt": "Plataformas inativas",
       "ko": "비활성 플랫폼",
-      "fr": "Plateformes inactives"
+      "fr": "Plateformes inactives",
+      "tr": "Pasif platformlar"
     },
     "Influenced Open": {
       "ja": "影響を受けた開封",
       "es": "Apertura influenciada",
       "pt": "Abertura influenciada",
       "ko": "영향받은 열람",
-      "fr": "Ouverture influencée"
+      "fr": "Ouverture influencée",
+      "tr": "Etkilenen açılma"
     },
     "Influenced Opens documentation.": {
       "ja": "影響を受けた開封の文書。",
       "es": "Documentación de aperturas influenciadas.",
       "pt": "Documentação de aberturas influenciadas.",
       "ko": "영향받은 열람 문서.",
-      "fr": "Documentation des ouvertures influencées."
+      "fr": "Documentation des ouvertures influencées.",
+      "tr": "Etkilenen açılmalar dokümantasyonu."
     },
     "Influenced time period": {
       "ja": "影響期間",
       "es": "Período de influencia",
       "pt": "Período de influência",
       "ko": "영향 기간",
-      "fr": "Période d'influence"
+      "fr": "Période d'influence",
+      "tr": "Etki dönemi"
     },
     "Notification channels are an Android 8.0 (API level 26) feature which gives users finer control over notifications.": {
       "ja": "通知チャネルはAndroid 8.0 (APIレベル26) の機能で、ユーザーが通知をより細かく制御できます。",
       "es": "Los canales de notificación son una función de Android 8.0 (API nivel 26) que permite a los usuarios un control más fino sobre las notificaciones.",
       "pt": "Os canais de notificação são um recurso do Android 8.0 (nível de API 26) que dá aos usuários um controle mais detalhado sobre as notificações.",
       "ko": "알림 채널은 Android 8.0 (API 레벨 26) 기능으로, 사용자가 알림을 더 세밀하게 제어할 수 있습니다.",
-      "fr": "Les canaux de notification sont une fonctionnalité d'Android 8.0 (niveau API 26) qui offre aux utilisateurs un contrôle plus fin sur les notifications."
+      "fr": "Les canaux de notification sont une fonctionnalité d'Android 8.0 (niveau API 26) qui offre aux utilisateurs un contrôle plus fin sur les notifications.",
+      "tr": "Bildirim kanalları, kullanıcılara bildirimler üzerinde daha hassas denetim sağlayan bir Android 8.0 (API düzeyi 26) özelliğidir."
     },
     "Push Frequency Capping": {
       "ja": "プッシュ頻度制限",
       "es": "Límite de frecuencia de push",
       "pt": "Limite de frequência de push",
       "ko": "푸시 빈도 제한",
-      "fr": "Plafonnement de fréquence du push"
+      "fr": "Plafonnement de fréquence du push",
+      "tr": "Push frekans sınırı"
     },
     "Push Throttling": {
       "ja": "プッシュスロットリング",
       "es": "Limitación de push",
       "pt": "Limitação de push",
       "ko": "푸시 쓰로틀링",
-      "fr": "Limitation du push"
+      "fr": "Limitation du push",
+      "tr": "Push sınırlaması"
     },
     "Reply-To": {
       "ja": "返信先",
       "es": "Responder a",
       "pt": "Responder a",
       "ko": "회신 받는 곳",
-      "fr": "Répondre à"
+      "fr": "Répondre à",
+      "tr": "Yanıt adresi"
     },
     "Reputation": {
       "ja": "評判",
       "es": "Reputación",
       "pt": "Reputação",
       "ko": "평판",
-      "fr": "Réputation"
+      "fr": "Réputation",
+      "tr": "İtibar"
     },
     "Set Up Authenticated Sender": {
       "ja": "認証済み送信者を設定",
       "es": "Configurar remitente autenticado",
       "pt": "Configurar remetente autenticado",
       "ko": "인증된 발신자 설정",
-      "fr": "Configurer un expéditeur authentifié"
+      "fr": "Configurer un expéditeur authentifié",
+      "tr": "Kimlik doğrulamalı gönderen kur"
     },
     "Super-User": {
       "ja": "スーパーユーザー",
       "es": "Superusuario",
       "pt": "Superusuário",
       "ko": "슈퍼 사용자",
-      "fr": "Super-utilisateur"
+      "fr": "Super-utilisateur",
+      "tr": "Süper kullanıcı"
     },
     "Suppressions": {
       "ja": "サプレッション",
       "es": "Supresiones",
       "pt": "Supressões",
       "ko": "수신 거부",
-      "fr": "Suppressions"
+      "fr": "Suppressions",
+      "tr": "Engelliler"
     },
     "Turn on automated UTM tagging": {
       "ja": "自動UTMタグ付けを有効化",
       "es": "Activar etiquetado UTM automático",
       "pt": "Ativar marcação UTM automática",
       "ko": "자동 UTM 태그 켜기",
-      "fr": "Activer le marquage UTM automatique"
+      "fr": "Activer le marquage UTM automatique",
+      "tr": "Otomatik UTM etiketlemeyi aç"
     },
     "UTM Settings": {
       "ja": "UTM設定",
       "es": "Configuración UTM",
       "pt": "Configurações de UTM",
       "ko": "UTM 설정",
-      "fr": "Paramètres UTM"
+      "fr": "Paramètres UTM",
+      "tr": "UTM ayarları"
     },
     "Windows (UWP)": {
       "ja": "Windows (UWP)",
       "es": "Windows (UWP)",
       "pt": "Windows (UWP)",
       "ko": "Windows (UWP)",
-      "fr": "Windows (UWP)"
+      "fr": "Windows (UWP)",
+      "tr": "Windows (UWP)"
     },
     "is when a user doesn't tap into your app directly from a message, but rather within a set time period after that message was received.": {
       "ja": "は、ユーザーがメッセージから直接アプリを開かず、そのメッセージを受け取った後の所定の期間内にアプリを開いた場合のことです。",
       "es": "es cuando un usuario no abre tu app directamente desde un mensaje, sino dentro de un período de tiempo establecido después de que se recibió ese mensaje.",
       "pt": "é quando um usuário não abre seu app diretamente a partir de uma mensagem, mas sim em um período de tempo determinado após o recebimento dessa mensagem.",
       "ko": "사용자가 메시지에서 직접 앱을 열지 않고, 메시지를 받은 후 정해진 시간 내에 앱을 여는 경우입니다.",
-      "fr": "désigne le cas où un utilisateur n'ouvre pas votre app directement depuis un message, mais plutôt dans une période de temps définie après la réception de ce message."
+      "fr": "désigne le cas où un utilisateur n'ouvre pas votre app directement depuis un message, mais plutôt dans une période de temps définie après la réception de ce message.",
+      "tr": "kullanıcının uygulamanıza doğrudan bir mesajdan değil, o mesajın alınmasından sonraki belirli bir süre içinde girmesidir."
     },
     "1 Requested mail action aborted, mailbox not found": {
       "ja": "1 要求されたメール処理が中止されました。メールボックスが見つかりません",
       "es": "1 Acción de correo solicitada cancelada, buzón no encontrado",
       "pt": "1 Ação de correio solicitada cancelada, caixa de correio não encontrada",
       "ko": "1 요청된 메일 작업이 중단됨, 메일함을 찾을 수 없음",
-      "fr": "1 Action mail demandée annulée, boîte aux lettres introuvable"
+      "fr": "1 Action mail demandée annulée, boîte aux lettres introuvable",
+      "tr": "1 İstenen email eylemi iptal edildi, posta kutusu bulunamadı"
     },
     "Bounced": {
       "ja": "バウンス",
       "es": "Rebotado",
       "pt": "Devolvido",
       "ko": "반송됨",
-      "fr": "Rejeté"
+      "fr": "Rejeté",
+      "tr": "Geri döndü"
     },
     "Manually added": {
       "ja": "手動で追加",
       "es": "Agregado manualmente",
       "pt": "Adicionado manualmente",
       "ko": "수동으로 추가됨",
-      "fr": "Ajouté manuellement"
+      "fr": "Ajouté manuellement",
+      "tr": "Manuel olarak eklendi"
     },
     "Search by email": {
       "ja": "メールで検索",
       "es": "Buscar por correo",
       "pt": "Pesquisar por email",
       "ko": "이메일로 검색",
-      "fr": "Rechercher par email"
+      "fr": "Rechercher par email",
+      "tr": "Email'e göre ara"
     },
     "To manage your suppression list, go to": {
       "ja": "サプレッションリストを管理するには、次に移動してください:",
       "es": "Para administrar tu lista de supresión, ve a",
       "pt": "Para gerenciar sua lista de supressão, acesse",
       "ko": "수신 거부 목록을 관리하려면 다음으로 이동하세요",
-      "fr": "Pour gérer votre liste de suppression, allez à"
+      "fr": "Pour gérer votre liste de suppression, allez à",
+      "tr": "Engelli listenizi yönetmek için şuraya gidin:"
     },
     "Add Email": {
       "ja": "メールを追加",
       "es": "Agregar correo",
       "pt": "Adicionar email",
       "ko": "이메일 추가",
-      "fr": "Ajouter un email"
+      "fr": "Ajouter un email",
+      "tr": "Email ekle"
     },
     "Bounce Rate": {
       "ja": "バウンス率",
       "es": "Tasa de rebote",
       "pt": "Taxa de devolução",
       "ko": "반송률",
-      "fr": "Taux de rebond"
+      "fr": "Taux de rebond",
+      "tr": "Geri dönüş oranı"
     },
     "Domain": {
       "ja": "ドメイン",
       "es": "Dominio",
       "pt": "Domínio",
       "ko": "도메인",
-      "fr": "Domaine"
+      "fr": "Domaine",
+      "tr": "Etki alanı"
     },
     "Last 24 hours": {
       "ja": "過去24時間",
       "es": "Últimas 24 horas",
       "pt": "Últimas 24 horas",
       "ko": "지난 24시간",
-      "fr": "Dernières 24 heures"
+      "fr": "Dernières 24 heures",
+      "tr": "Son 24 saat"
     },
     "Mailgun Credentials": {
       "ja": "Mailgun資格情報",
       "es": "Credenciales de Mailgun",
       "pt": "Credenciais do Mailgun",
       "ko": "Mailgun 자격 증명",
-      "fr": "Identifiants Mailgun"
+      "fr": "Identifiants Mailgun",
+      "tr": "Mailgun kimlik bilgileri"
     },
     "Manually Added": {
       "ja": "手動で追加",
       "es": "Agregado manualmente",
       "pt": "Adicionado manualmente",
       "ko": "수동으로 추가됨",
-      "fr": "Ajouté manuellement"
+      "fr": "Ajouté manuellement",
+      "tr": "Manuel olarak eklendi"
     },
     "OneSignal only provides suppression management for users using OneSignal email.": {
       "ja": "OneSignalはOneSignalメールを使用しているユーザーに対してのみサプレッション管理を提供します。",
       "es": "OneSignal solo proporciona gestión de supresión para los usuarios que utilizan correo de OneSignal.",
       "pt": "O OneSignal fornece gerenciamento de supressão apenas para usuários que usam o email do OneSignal.",
       "ko": "OneSignal은 OneSignal 이메일을 사용하는 사용자에게만 수신 거부 관리를 제공합니다.",
-      "fr": "OneSignal ne fournit la gestion de suppression que pour les utilisateurs d'OneSignal email."
+      "fr": "OneSignal ne fournit la gestion de suppression que pour les utilisateurs d'OneSignal email.",
+      "tr": "OneSignal yalnızca OneSignal email kullanan kullanıcılar için engelli yönetimi sağlar."
     },
     "OneSignal rates your reputation based on the bounce rate and spam rate of your emails. The spam rates do not include spam reports from Gmail. To see Gmail spam reports, setup Google postmaster.": {
       "ja": "OneSignalはメールのバウンス率とスパム率に基づいて評判を評価します。スパム率にはGmailからのスパム報告は含まれません。Gmailのスパム報告を確認するには、Google Postmasterを設定してください。",
       "es": "OneSignal califica tu reputación según la tasa de rebote y la tasa de spam de tus correos. Las tasas de spam no incluyen los informes de spam de Gmail. Para ver los informes de spam de Gmail, configura Google Postmaster.",
       "pt": "O OneSignal avalia sua reputação com base na taxa de devolução e na taxa de spam de seus emails. As taxas de spam não incluem relatórios de spam do Gmail. Para ver os relatórios de spam do Gmail, configure o Google Postmaster.",
       "ko": "OneSignal은 이메일의 반송률 및 스팸률을 기준으로 평판을 평가합니다. 스팸률에는 Gmail의 스팸 신고가 포함되지 않습니다. Gmail 스팸 신고를 보려면 Google Postmaster를 설정하세요.",
-      "fr": "OneSignal évalue votre réputation en fonction du taux de rebond et du taux de spam de vos emails. Les taux de spam n'incluent pas les signalements de Gmail. Pour voir les signalements de spam de Gmail, configurez Google Postmaster."
+      "fr": "OneSignal évalue votre réputation en fonction du taux de rebond et du taux de spam de vos emails. Les taux de spam n'incluent pas les signalements de Gmail. Pour voir les signalements de spam de Gmail, configurez Google Postmaster.",
+      "tr": "OneSignal, itibarınızı email'lerinizin geri dönüş oranı ve spam oranına göre değerlendirir. Spam oranları Gmail'den gelen spam raporlarını içermez. Gmail spam raporlarını görmek için Google postmaster'ı kurun."
     },
     "Password": {
       "ja": "パスワード",
       "es": "Contraseña",
       "pt": "Senha",
       "ko": "비밀번호",
-      "fr": "Mot de passe"
+      "fr": "Mot de passe",
+      "tr": "Şifre"
     },
     "Private API Key": {
       "ja": "プライベートAPIキー",
       "es": "Clave API privada",
       "pt": "Chave de API privada",
       "ko": "비공개 API 키",
-      "fr": "Clé d'API privée"
+      "fr": "Clé d'API privée",
+      "tr": "Özel API anahtarı"
     },
     "Reason": {
       "ja": "理由",
       "es": "Motivo",
       "pt": "Motivo",
       "ko": "사유",
-      "fr": "Motif"
+      "fr": "Motif",
+      "tr": "Neden"
     },
     "Remove All": {
       "ja": "すべて削除",
       "es": "Quitar todo",
       "pt": "Remover tudo",
       "ko": "모두 제거",
-      "fr": "Tout retirer"
+      "fr": "Tout retirer",
+      "tr": "Tümünü kaldır"
     },
     "Reported as Spam": {
       "ja": "スパムとして報告された",
