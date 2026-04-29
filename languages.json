@@ -1391,37 +1391,43 @@
       "es": "Vie",
       "ja": "金",
       "pt": "Sex",
-      "ko": "금"
+      "ko": "금",
+      "fr": "Ven"
     },
     "From Address": {
       "es": "Dirección del remitente",
       "ja": "送信元アドレス",
       "pt": "Endereço do remetente",
-      "ko": "발신 주소"
+      "ko": "발신 주소",
+      "fr": "Adresse de l'expéditeur"
     },
     "From Name": {
       "es": "Nombre del remitente",
       "ja": "送信者名",
       "pt": "Nome do remetente",
-      "ko": "발신자 이름"
+      "ko": "발신자 이름",
+      "fr": "Nom de l'expéditeur"
     },
     "Full Screen": {
       "es": "Pantalla completa",
       "ja": "全画面",
       "pt": "Tela cheia",
-      "ko": "전체 화면"
+      "ko": "전체 화면",
+      "fr": "Plein écran"
     },
     "General": {
       "es": "General",
       "ja": "一般",
       "pt": "Geral",
-      "ko": "일반"
+      "ko": "일반",
+      "fr": "Général"
     },
     "Global outcomes": {
       "es": "Resultados globales",
       "ja": "グローバルアウトカム",
       "pt": "Resultados globais",
-      "ko": "전체 결과"
+      "ko": "전체 결과",
+      "fr": "Résultats globaux"
     },
     "greater than": {
       "es": "mayor que",
@@ -1439,7 +1445,8 @@
       "es": "ID",
       "ja": "ID",
       "pt": "ID",
-      "ko": "ID"
+      "ko": "ID",
+      "fr": "ID"
     },
     "Import": {
       "es": "Importar",
@@ -1553,7 +1560,8 @@
       "es": "Dirección IP",
       "ja": "IPアドレス",
       "pt": "Endereço IP",
-      "ko": "IP 주소"
+      "ko": "IP 주소",
+      "fr": "Adresse IP"
     },
     "is": {
       "es": "es igual a",
@@ -3594,7 +3602,8 @@
       "ja": "こんにちは！さっそく始めましょう",
       "es": "¡Hola! Empecemos",
       "pt": "Olá! Vamos começar",
-      "ko": "안녕하세요! 시작해봅시다"
+      "ko": "안녕하세요! 시작해봅시다",
+      "fr": "Bonjour ! Commençons"
     },
     "Set up your messaging channels": {
       "ja": "メッセージチャネルを設定",
@@ -3885,13 +3894,15 @@
       "ja": "イベントリスト内でリアルタイムのインサイトを取得",
       "es": "Obtén información en tiempo real en la lista de eventos",
       "pt": "Obtenha insights em tempo real na lista de eventos",
-      "ko": "이벤트 목록에서 실시간 인사이트를 얻으세요"
+      "ko": "이벤트 목록에서 실시간 인사이트를 얻으세요",
+      "fr": "Obtenez des insights en temps réel dans la liste des événements"
     },
     "Harness the Power of Event Data": {
       "ja": "イベントデータのパワーを活用",
       "es": "Aprovecha el poder de los datos de eventos",
       "pt": "Aproveite o poder dos dados de eventos",
-      "ko": "이벤트 데이터의 힘을 활용하세요"
+      "ko": "이벤트 데이터의 힘을 활용하세요",
+      "fr": "Exploitez la puissance des données d'événements"
     },
     "Journey Webhooks send HTTP requests from OneSignal Journeys to your servers or external services.": {
       "ja": "ジャーニーWebhookは、OneSignalジャーニーからサーバーや外部サービスにHTTPリクエストを送信します。",
@@ -3992,7 +4003,8 @@
       "ja": "メールを始める",
       "es": "Comenzar con email",
       "pt": "Começar com e-mail",
-      "ko": "이메일 시작하기"
+      "ko": "이메일 시작하기",
+      "fr": "Démarrer avec l'email"
     },
     "Learn how to warm up your domain to ensure reliable email performance.": {
       "ja": "安定したメールパフォーマンスを確保するためのドメインウォームアップの方法を確認。",
@@ -4059,7 +4071,8 @@
       "ja": "ユーザーを価値の高いアクションとコンバージョンへ誘導",
       "es": "Guía a los usuarios hacia acciones de alto valor y conversiones",
       "pt": "Guie os usuários para ações de alto valor e conversões",
-      "ko": "사용자를 고가치 행동과 전환으로 안내하세요"
+      "ko": "사용자를 고가치 행동과 전환으로 안내하세요",
+      "fr": "Guidez les utilisateurs vers des actions à forte valeur et des conversions"
     },
     "In-App setup documentation": {
       "ja": "アプリ内セットアップドキュメント",
@@ -4145,7 +4158,8 @@
       "ja": "メッセージングを次のレベルに引き上げる準備ができたら、新しい自動化ツール「ジャーニー」をご活用ください。",
       "es": "Si estás listo para llevar tu mensajería al siguiente nivel, descubre Journeys, nuestra nueva herramienta de automatización.",
       "pt": "Se você está pronto para levar suas mensagens ao próximo nível, confira o Journeys, nossa nova ferramenta de automação.",
-      "ko": "메시지를 다음 단계로 끌어올릴 준비가 되었다면 새로운 자동화 도구인 저니를 확인하세요."
+      "ko": "메시지를 다음 단계로 끌어올릴 준비가 되었다면 새로운 자동화 도구인 저니를 확인하세요.",
+      "fr": "Si vous êtes prêt à passer votre messagerie au niveau supérieur, découvrez Journeys, notre nouvel outil d'automatisation."
     },
     "Journeys documentation": {
       "ja": "ジャーニーのドキュメント",
@@ -4532,19 +4546,22 @@
       "ja": "ブランドをロック画面に表示",
       "es": "Lleva tu marca a la pantalla de bloqueo",
       "pt": "Coloque sua marca na tela de bloqueio",
-      "ko": "잠금 화면에 브랜드를 표시하세요"
+      "ko": "잠금 화면에 브랜드를 표시하세요",
+      "fr": "Faites apparaître votre marque sur l'écran de verrouillage"
     },
     "Great for real-time, transactional, or time-bound updates": {
       "ja": "リアルタイム・トランザクション・期間限定の更新に最適",
       "es": "Ideal para actualizaciones en tiempo real, transaccionales o con límite de tiempo",
       "pt": "Ótimo para atualizações em tempo real, transacionais ou com prazo determinado",
-      "ko": "실시간, 거래 또는 시간 제한 업데이트에 적합합니다"
+      "ko": "실시간, 거래 또는 시간 제한 업데이트에 적합합니다",
+      "fr": "Idéal pour les mises à jour en temps réel, transactionnelles ou limitées dans le temps"
     },
     "Highly engaging and visible on premium device surfaces like the Lock Screen or Dynamic Island": {
       "ja": "ロック画面やダイナミックアイランドなどのプレミアムデバイスサーフェスで高いエンゲージメントと視認性を実現",
       "es": "Muy atractivo y visible en superficies premium del dispositivo como la pantalla de bloqueo o el Dynamic Island",
       "pt": "Altamente envolvente e visível em superfícies premium do dispositivo, como a tela de bloqueio ou a Dynamic Island",
-      "ko": "잠금 화면이나 Dynamic Island와 같은 프리미엄 기기 인터페이스에서 높은 참여도와 가시성을 제공합니다"
+      "ko": "잠금 화면이나 Dynamic Island와 같은 프리미엄 기기 인터페이스에서 높은 참여도와 가시성을 제공합니다",
+      "fr": "Très engageant et visible sur les surfaces premium des appareils comme l'écran de verrouillage ou Dynamic Island"
     },
     "Open in Figma": {
       "ja": "Figmaで開く",
@@ -4695,7 +4712,8 @@
       "ja": "Google Android",
       "es": "Google Android",
       "pt": "Google Android",
-      "ko": "Google Android"
+      "ko": "Google Android",
+      "fr": "Google Android"
     },
     "Apple iOS": {
       "ja": "Apple iOS",
@@ -4708,7 +4726,8 @@
       "ja": "Google Chrome",
       "es": "Google Chrome",
       "pt": "Google Chrome",
-      "ko": "Google Chrome"
+      "ko": "Google Chrome",
+      "fr": "Google Chrome"
     },
     "Mozilla Firefox": {
       "ja": "Mozilla Firefox",
@@ -5322,7 +5341,8 @@
       "ja": "HTMLエディター",
       "es": "Editor HTML",
       "pt": "Editor HTML",
-      "ko": "HTML 편집기"
+      "ko": "HTML 편집기",
+      "fr": "Éditeur HTML"
     },
     "Multi-link click tracking": {
       "ja": "マルチリンククリック追跡",
@@ -5495,7 +5515,8 @@
       "ja": "目標文書",
       "es": "Documentación de objetivos",
       "pt": "Documentação de metas",
-      "ko": "목표 문서"
+      "ko": "목표 문서",
+      "fr": "Documentation des objectifs"
     },
     "Immediately": {
       "ja": "即時",
@@ -5813,7 +5834,8 @@
       "ja": "画像アップロード入力",
       "es": "Entrada de carga de imagen",
       "pt": "Entrada de upload de imagem",
-      "ko": "이미지 업로드 입력"
+      "ko": "이미지 업로드 입력",
+      "fr": "Entrée de téléversement d'image"
     },
     "Select image": {
       "ja": "画像を選択",
@@ -6087,31 +6109,36 @@
       "ja": "見出し",
       "es": "Encabezado",
       "pt": "Cabeçalho",
-      "ko": "제목"
+      "ko": "제목",
+      "fr": "Titre"
     },
     "Height": {
       "ja": "高さ",
       "es": "Alto",
       "pt": "Altura",
-      "ko": "높이"
+      "ko": "높이",
+      "fr": "Hauteur"
     },
     "How often do you want to show this message?": {
       "ja": "このメッセージを表示する頻度はどれくらいですか？",
       "es": "¿Con qué frecuencia quieres mostrar este mensaje?",
       "pt": "Com que frequência você deseja exibir esta mensagem?",
-      "ko": "이 메시지를 얼마나 자주 표시할까요?"
+      "ko": "이 메시지를 얼마나 자주 표시할까요?",
+      "fr": "À quelle fréquence souhaitez-vous afficher ce message ?"
     },
     "Image": {
       "ja": "画像",
       "es": "Imagen",
       "pt": "Imagem",
-      "ko": "이미지"
+      "ko": "이미지",
+      "fr": "Image"
     },
     "Image 1": {
       "ja": "画像1",
       "es": "Imagen 1",
       "pt": "Imagem 1",
-      "ko": "이미지 1"
+      "ko": "이미지 1",
+      "fr": "Image 1"
     },
     "Padding": {
       "ja": "パディング",
@@ -6284,7 +6311,8 @@
       "ja": "フル",
       "es": "Completa",
       "pt": "Completa",
-      "ko": "전체"
+      "ko": "전체",
+      "fr": "Complet"
     },
     "Light mode": {
       "ja": "ライトモード",
@@ -6342,7 +6370,8 @@
       "ja": "時",
       "es": "Hora",
       "pt": "Hora",
-      "ko": "시"
+      "ko": "시",
+      "fr": "Heure"
     },
     "Minute": {
       "ja": "分",
@@ -6367,7 +6396,8 @@
       "ja": "目標",
       "es": "Objetivos",
       "pt": "Metas",
-      "ko": "목표"
+      "ko": "목표",
+      "fr": "Objectifs"
     },
     "Choose date and time": {
       "ja": "日付と時刻を選択",
@@ -6415,7 +6445,8 @@
       "ja": "今後の追加のみ",
       "es": "Solo adiciones futuras",
       "pt": "Apenas adições futuras",
-      "ko": "향후 추가만"
+      "ko": "향후 추가만",
+      "fr": "Ajouts futurs uniquement"
     },
     "Journey Documentation": {
       "ja": "ジャーニー文書",
@@ -6934,7 +6965,8 @@
       "ja": "アイコン",
       "es": "Icono",
       "pt": "Ícone",
-      "ko": "아이콘"
+      "ko": "아이콘",
+      "fr": "Icône"
     },
     "Remove Action 1": {
       "ja": "アクション1を削除",
@@ -7105,31 +7137,36 @@
       "ja": "グローバル画像アップロード入力",
       "es": "Entrada de carga de imagen global",
       "pt": "Entrada de upload de imagem global",
-      "ko": "글로벌 이미지 업로드 입력"
+      "ko": "글로벌 이미지 업로드 입력",
+      "fr": "Entrée globale de téléversement d'image"
     },
     "Group Key": {
       "ja": "グループキー",
       "es": "Clave de grupo",
       "pt": "Chave do grupo",
-      "ko": "그룹 키"
+      "ko": "그룹 키",
+      "fr": "Clé de groupe"
     },
     "High": {
       "ja": "高",
       "es": "Alta",
       "pt": "Alta",
-      "ko": "높음"
+      "ko": "높음",
+      "fr": "Élevée"
     },
     "High importance": {
       "ja": "高い重要度",
       "es": "Alta importancia",
       "pt": "Alta importância",
-      "ko": "높은 중요도"
+      "ko": "높은 중요도",
+      "fr": "Importance élevée"
     },
     "Icon URL 1": {
       "ja": "アイコンURL 1",
       "es": "URL del icono 1",
       "pt": "URL do ícone 1",
-      "ko": "아이콘 URL 1"
+      "ko": "아이콘 URL 1",
+      "fr": "URL de l'icône 1"
     },
     "Increase by": {
       "ja": "増分",
@@ -7748,7 +7785,8 @@
       "ja": "グローバル:",
       "es": "Global:",
       "pt": "Global:",
-      "ko": "글로벌:"
+      "ko": "글로벌:",
+      "fr": "Global :"
     },
     "Local path or URL to image": {
       "ja": "画像へのローカルパスまたはURL",
@@ -7814,7 +7852,8 @@
       "ja": "送信元",
       "es": "Desde",
       "pt": "De",
-      "ko": "발신자"
+      "ko": "발신자",
+      "fr": "De"
     },
     "Upload": {
       "ja": "アップロード",
@@ -7998,7 +8037,8 @@
       "ja": "HTMLエディター",
       "es": "Editor HTML",
       "pt": "Editor HTML",
-      "ko": "HTML 편집기"
+      "ko": "HTML 편집기",
+      "fr": "Éditeur HTML"
     },
     "New Email Template": {
       "ja": "新しいメールテンプレート",
@@ -8320,7 +8360,8 @@
       "ja": "HubSpot統合メトリクス",
       "es": "Métricas de integración con HubSpot",
       "pt": "Métricas de integração com HubSpot",
-      "ko": "HubSpot 통합 지표"
+      "ko": "HubSpot 통합 지표",
+      "fr": "Métriques d'intégration HubSpot"
     },
     "Last event received:": {
       "ja": "最後に受信したイベント:",
@@ -8353,7 +8394,8 @@
       "ja": "ユーザーがアプリに戻った場合",
       "es": "Si el usuario regresa a la aplicación",
       "pt": "Se o usuário retornar ao aplicativo",
-      "ko": "사용자가 앱으로 돌아오면"
+      "ko": "사용자가 앱으로 돌아오면",
+      "fr": "Si l'utilisateur revient sur l'app"
     },
     "Make Active": {
       "ja": "アクティブにする",
@@ -8672,13 +8714,15 @@
       "ja": "Google Android (FCM)",
       "es": "Google Android (FCM)",
       "pt": "Google Android (FCM)",
-      "ko": "Google Android (FCM)"
+      "ko": "Google Android (FCM)",
+      "fr": "Google Android (FCM)"
     },
     "Huawei Android (HMS)": {
       "ja": "Huawei Android (HMS)",
       "es": "Huawei Android (HMS)",
       "pt": "Huawei Android (HMS)",
-      "ko": "Huawei Android (HMS)"
+      "ko": "Huawei Android (HMS)",
+      "fr": "Huawei Android (HMS)"
     },
     "Inactive Platforms": {
       "ja": "非アクティブなプラットフォーム",
@@ -8966,19 +9010,22 @@
       "ja": "新しいメールアドレスを生成",
       "es": "Generar nueva dirección de correo",
       "pt": "Gerar novo endereço de email",
-      "ko": "새 이메일 주소 생성"
+      "ko": "새 이메일 주소 생성",
+      "fr": "Générer une nouvelle adresse email"
     },
     "Identity Verification for email + external_id (recommended)": {
       "ja": "メール + external_id用の本人確認 (推奨)",
       "es": "Verificación de identidad para correo + external_id (recomendado)",
       "pt": "Verificação de identidade para email + external_id (recomendado)",
-      "ko": "이메일 + external_id 신원 확인 (권장)"
+      "ko": "이메일 + external_id 신원 확인 (권장)",
+      "fr": "Vérification d'identité pour email + external_id (recommandé)"
     },
     "If you are using an email from an external source it is strongly recommended that you change any existing links and images to point to new resources you host instead.": {
       "ja": "外部ソースからのメールを使用している場合は、既存のリンクや画像をホストする新しいリソースに変更することを強くお勧めします。",
       "es": "Si utilizas un correo de una fuente externa, te recomendamos enfáticamente que cambies todos los enlaces e imágenes existentes para que apunten a nuevos recursos alojados por ti.",
       "pt": "Se você está usando um email de uma fonte externa, é altamente recomendável que altere todos os links e imagens existentes para apontar para novos recursos hospedados por você.",
-      "ko": "외부 소스의 이메일을 사용하는 경우 기존의 모든 링크 및 이미지를 직접 호스팅하는 새 리소스를 가리키도록 변경하는 것이 좋습니다."
+      "ko": "외부 소스의 이메일을 사용하는 경우 기존의 모든 링크 및 이미지를 직접 호스팅하는 새 리소스를 가리키도록 변경하는 것이 좋습니다.",
+      "fr": "Si vous utilisez un email d'une source externe, il est fortement recommandé de modifier tous les liens et images existants pour qu'ils pointent vers de nouvelles ressources que vous hébergez vous-même."
     },
     "Incoming Email Templates": {
       "ja": "受信メールテンプレート",
@@ -9089,7 +9136,8 @@
       "ja": "追跡を必要としなくなった結果をレポートから非表示にします。",
       "es": "Oculta de tus informes los resultados que ya no quieres rastrear.",
       "pt": "Oculte dos seus relatórios os resultados que você não deseja mais rastrear.",
-      "ko": "더 이상 추적하지 않을 결과를 보고서에서 숨깁니다."
+      "ko": "더 이상 추적하지 않을 결과를 보고서에서 숨깁니다.",
+      "fr": "Masquez les résultats que vous ne souhaitez plus suivre dans vos rapports."
     },
     "Learn how to track custom Outcomes": {
       "ja": "カスタム結果を追跡する方法を学ぶ",
@@ -9168,7 +9216,8 @@
       "ja": "ヘルプ",
       "es": "Ayuda",
       "pt": "Ajuda",
-      "ko": "도움말"
+      "ko": "도움말",
+      "fr": "Aide"
     },
     "Add Keyword": {
       "ja": "キーワードを追加",
@@ -9545,7 +9594,8 @@
       "ja": "HELP",
       "es": "HELP",
       "pt": "HELP",
-      "ko": "HELP"
+      "ko": "HELP",
+      "fr": "HELP"
     },
     "Invited": {
       "ja": "招待済み",
