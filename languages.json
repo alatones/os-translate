@@ -1566,7 +1566,7 @@
       "pt": "Primeira atividade",
       "ko": "첫 활성",
       "fr": "Première activité",
-      "tr": "İlk aktiflik"
+      "tr": "İlk aktivite"
     },
     "First Session": {
       "es": "Primera sesión",
@@ -1613,350 +1613,400 @@
       "ja": "送信者名",
       "pt": "Nome do remetente",
       "ko": "발신자 이름",
-      "fr": "Nom de l'expéditeur"
+      "fr": "Nom de l'expéditeur",
+      "tr": "Gönderen adı"
     },
     "Full Screen": {
       "es": "Pantalla completa",
       "ja": "全画面",
       "pt": "Tela cheia",
       "ko": "전체 화면",
-      "fr": "Plein écran"
+      "fr": "Plein écran",
+      "tr": "Tam ekran"
     },
     "General": {
       "es": "General",
       "ja": "一般",
       "pt": "Geral",
       "ko": "일반",
-      "fr": "Général"
+      "fr": "Général",
+      "tr": "Genel"
     },
     "Global outcomes": {
       "es": "Resultados globales",
       "ja": "グローバルアウトカム",
       "pt": "Resultados globais",
       "ko": "전체 결과",
-      "fr": "Résultats globaux"
+      "fr": "Résultats globaux",
+      "tr": "Genel sonuçlar"
     },
     "greater than": {
       "es": "mayor que",
       "ja": "より大きい",
       "pt": "maior que",
       "ko": "초과",
-      "fr": "supérieur à"
+      "fr": "supérieur à",
+      "tr": "büyüktür"
     },
     "icon for prebuilt": {
       "es": "ícono predefinido",
       "ja": "既定アイコン",
       "pt": "ícone predefinido",
       "ko": "사전 제작 아이콘",
-      "fr": "icône prédéfinie"
+      "fr": "icône prédéfinie",
+      "tr": "hazır şablon simgesi"
     },
     "ID": {
       "es": "ID",
       "ja": "ID",
       "pt": "ID",
       "ko": "ID",
-      "fr": "ID"
+      "fr": "ID",
+      "tr": "ID"
     },
     "Import": {
       "es": "Importar",
       "ja": "インポート",
       "pt": "Importar",
       "ko": "가져오기",
-      "fr": "Importer"
+      "fr": "Importer",
+      "tr": "İçe aktar"
     },
     "Import data tags": {
       "es": "Importar etiquetas de datos",
       "ja": "データタグをインポート",
       "pt": "Importar data tags",
       "ko": "데이터 태그 가져오기",
-      "fr": "Importer des tags de données"
+      "fr": "Importer des tags de données",
+      "tr": "Veri etiketlerini içe aktar"
     },
     "Import Users": {
       "es": "Importar usuarios",
       "ja": "ユーザーをインポート",
       "pt": "Importar usuários",
       "ko": "사용자 가져오기",
-      "fr": "Importer des utilisateurs"
+      "fr": "Importer des utilisateurs",
+      "tr": "Kullanıcıları içe aktar"
     },
     "Impressions": {
       "es": "Impresiones",
       "ja": "インプレッション",
       "pt": "Impressões",
       "ko": "노출 수",
-      "fr": "Impressions"
+      "fr": "Impressions",
+      "tr": "Gösterimler"
     },
     "In Progress": {
       "es": "En progreso",
       "ja": "処理中",
       "pt": "Em andamento",
       "ko": "진행 중",
-      "fr": "En cours"
+      "fr": "En cours",
+      "tr": "Devam ediyor"
     },
     "In-App": {
       "es": "In-App",
       "ja": "アプリ内",
       "pt": "In-App",
       "ko": "인앱",
-      "fr": "In-App"
+      "fr": "In-App",
+      "tr": "In-App"
     },
     "In-App Messages": {
       "es": "Mensajes In-App",
       "ja": "アプリ内メッセージ",
       "pt": "Mensagens In-App",
       "ko": "인앱 메시지",
-      "fr": "Messages In-App"
+      "fr": "Messages In-App",
+      "tr": "In-App mesajları"
     },
     "Inactive": {
       "es": "Inactivo",
       "ja": "非アクティブ",
       "pt": "Inativo",
       "ko": "비활성",
-      "fr": "Inactif"
+      "fr": "Inactif",
+      "tr": "Pasif"
     },
     "Inbound": {
       "es": "Entrante",
       "ja": "インバウンド",
       "pt": "Entrada",
       "ko": "인바운드",
-      "fr": "Entrant"
+      "fr": "Entrant",
+      "tr": "Gelen"
     },
     "Include Segments": {
       "es": "Incluir segmentos",
       "ja": "セグメントを含む",
       "pt": "Incluir segmentos",
       "ko": "세그먼트 포함",
-      "fr": "Inclure les segments"
+      "fr": "Inclure les segments",
+      "tr": "Segmentleri dahil et"
     },
     "Influenced": {
       "es": "Influenciado",
       "ja": "影響あり",
       "pt": "Influenciado",
       "ko": "영향받음",
-      "fr": "Influencé"
+      "fr": "Influencé",
+      "tr": "Etkilenen"
     },
     "Influenced Opens": {
       "es": "Aperturas influenciadas",
       "ja": "影響を受けた開封",
       "pt": "Aberturas influenciadas",
       "ko": "영향받아 열림",
-      "fr": "Ouvertures influencées"
+      "fr": "Ouvertures influencées",
+      "tr": "Etkilenen açılmalar"
     },
     "Info": {
       "es": "Info",
       "ja": "情報",
       "pt": "Info",
       "ko": "정보",
-      "fr": "Info"
+      "fr": "Info",
+      "tr": "Bilgi"
     },
     "Integrations": {
       "es": "Integraciones",
       "ja": "インテグレーション",
       "pt": "Integrações",
       "ko": "통합",
-      "fr": "Intégrations"
+      "fr": "Intégrations",
+      "tr": "Entegrasyonlar"
     },
     "Intelligent Delivery": {
       "es": "Entrega inteligente",
       "ja": "インテリジェント配信",
       "pt": "Entrega inteligente",
       "ko": "지능형 전달",
-      "fr": "Livraison intelligente"
+      "fr": "Livraison intelligente",
+      "tr": "Akıllı teslimat"
     },
     "Invite": {
       "es": "Invitar",
       "ja": "招待",
       "pt": "Convidar",
       "ko": "초대",
-      "fr": "Inviter"
+      "fr": "Inviter",
+      "tr": "Davet et"
     },
     "Invite User": {
       "es": "Invitar usuario",
       "ja": "ユーザーを招待",
       "pt": "Convidar usuário",
       "ko": "사용자 초대",
-      "fr": "Inviter un utilisateur"
+      "fr": "Inviter un utilisateur",
+      "tr": "Kullanıcı davet et"
     },
     "iOS": {
       "es": "iOS",
       "ja": "iOS",
       "pt": "iOS",
       "ko": "iOS",
-      "fr": "iOS"
+      "fr": "iOS",
+      "tr": "iOS"
     },
     "IP address": {
       "es": "Dirección IP",
       "ja": "IPアドレス",
       "pt": "Endereço IP",
       "ko": "IP 주소",
-      "fr": "Adresse IP"
+      "fr": "Adresse IP",
+      "tr": "IP adresi"
     },
     "is": {
       "es": "es igual a",
       "ja": "等しい",
       "pt": "é igual a",
       "ko": "같음",
-      "fr": "est"
+      "fr": "est",
+      "tr": "eşittir"
     },
     "is not": {
       "es": "no es igual a",
       "ja": "等しくない",
       "pt": "não é igual a",
       "ko": "같지 않음",
-      "fr": "n'est pas"
+      "fr": "n'est pas",
+      "tr": "eşit değildir"
     },
     "Jan": {
       "es": "ene",
       "ja": "1月",
       "pt": "jan",
       "ko": "1월",
-      "fr": "jan"
+      "fr": "jan",
+      "tr": "oca"
     },
     "January": {
       "es": "enero",
       "ja": "1月",
       "pt": "janeiro",
       "ko": "1월",
-      "fr": "janvier"
+      "fr": "janvier",
+      "tr": "ocak"
     },
     "Journey": {
       "es": "Journey",
       "ja": "ジャーニー",
       "pt": "Journey",
       "ko": "저니",
-      "fr": "Journey"
+      "fr": "Journey",
+      "tr": "Journey"
     },
     "Journey Webhook": {
       "es": "Webhook de Journey",
       "ja": "ジャーニーWebhook",
       "pt": "Webhook de Journey",
       "ko": "저니 웹훅",
-      "fr": "Webhook Journey"
+      "fr": "Webhook Journey",
+      "tr": "Journey Webhook"
     },
     "Journey Webhooks": {
       "es": "Webhooks de Journey",
       "ja": "ジャーニーWebhook",
       "pt": "Webhooks de Journey",
       "ko": "저니 웹훅",
-      "fr": "Webhooks Journey"
+      "fr": "Webhooks Journey",
+      "tr": "Journey Webhook'ları"
     },
     "Journeys": {
       "es": "Journeys",
       "ja": "ジャーニー",
       "pt": "Journeys",
       "ko": "저니",
-      "fr": "Journeys"
+      "fr": "Journeys",
+      "tr": "Journeys"
     },
     "Jul": {
       "es": "jul",
       "ja": "7月",
       "pt": "jul",
       "ko": "7월",
-      "fr": "juil"
+      "fr": "juil",
+      "tr": "tem"
     },
     "July": {
       "es": "julio",
       "ja": "7月",
       "pt": "julho",
       "ko": "7월",
-      "fr": "juillet"
+      "fr": "juillet",
+      "tr": "temmuz"
     },
     "Jump forward": {
       "es": "Avanzar",
       "ja": "先へ進む",
       "pt": "Avançar",
       "ko": "앞으로 이동",
-      "fr": "Avancer"
+      "fr": "Avancer",
+      "tr": "İleri atla"
     },
     "Jun": {
       "es": "jun",
       "ja": "6月",
       "pt": "jun",
       "ko": "6월",
-      "fr": "juin"
+      "fr": "juin",
+      "tr": "haz"
     },
     "June": {
       "es": "junio",
       "ja": "6月",
       "pt": "junho",
       "ko": "6월",
-      "fr": "juin"
+      "fr": "juin",
+      "tr": "haziran"
     },
     "Key": {
       "es": "Clave",
       "ja": "キー",
       "pt": "Chave",
       "ko": "키",
-      "fr": "Clé"
+      "fr": "Clé",
+      "tr": "Anahtar"
     },
     "Keys & IDs": {
       "es": "Claves e IDs",
       "ja": "キーとID",
       "pt": "Chaves e IDs",
       "ko": "키 및 ID",
-      "fr": "Clés et ID"
+      "fr": "Clés et ID",
+      "tr": "Anahtarlar ve ID'ler"
     },
     "Labels": {
       "es": "Etiquetas",
       "ja": "ラベル",
       "pt": "Rótulos",
       "ko": "라벨",
-      "fr": "Étiquettes"
+      "fr": "Étiquettes",
+      "tr": "Etiketler"
     },
     "Language": {
       "es": "Idioma",
       "ja": "言語",
       "pt": "Idioma",
       "ko": "언어",
-      "fr": "Langue"
+      "fr": "Langue",
+      "tr": "Dil"
     },
     "Language code": {
       "es": "Código de idioma",
       "ja": "言語コード",
       "pt": "Código de idioma",
       "ko": "언어 코드",
-      "fr": "Code de langue"
+      "fr": "Code de langue",
+      "tr": "Dil kodu"
     },
     "Large Image": {
       "es": "Imagen grande",
       "ja": "大きな画像",
       "pt": "Imagem grande",
       "ko": "큰 이미지",
-      "fr": "Grande image"
+      "fr": "Grande image",
+      "tr": "Büyük görsel"
     },
     "Last activated": {
       "es": "Última activación",
       "ja": "最終有効化",
       "pt": "Última ativação",
       "ko": "마지막 활성화",
-      "fr": "Dernière activation"
+      "fr": "Dernière activation",
+      "tr": "Son etkinleştirme"
     },
     "Last Active": {
       "es": "Última actividad",
       "ja": "最終アクティブ",
       "pt": "Última atividade",
       "ko": "마지막 활성",
-      "fr": "Dernière activité"
+      "fr": "Dernière activité",
+      "tr": "Son aktivite"
     },
     "Last active": {
       "es": "Última actividad",
       "ja": "最終アクティブ",
       "pt": "Última atividade",
       "ko": "마지막 활성",
-      "fr": "Dernière activité"
+      "fr": "Dernière activité",
+      "tr": "Son aktivite"
     },
     "Last month": {
       "es": "Mes pasado",
       "ja": "先月",
       "pt": "Mês passado",
       "ko": "지난달",
-      "fr": "Mois dernier"
+      "fr": "Mois dernier",
+      "tr": "Geçen ay"
     },
     "Last received": {
       "es": "Última recepción",
       "ja": "最終受信",
       "pt": "Último recebido",
       "ko": "마지막 수신",
-      "fr": "Dernière réception"
+      "fr": "Dernière réception",
+      "tr": "Son alınma"
     },
     "Last sent": {
       "es": "Último envío",

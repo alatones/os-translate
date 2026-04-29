@@ -795,7 +795,8 @@
         "İçe aktar",
         "İçeri aktar",
         "İçe Aktar",
-        "İçe aktarma"
+        "İçe aktarma",
+        "içe aktar"
       ]
     },
     "Export": {
@@ -958,7 +959,9 @@
       ],
       "tr": [
         "Aktif",
-        "aktif"
+        "aktif",
+        "Aktivite",
+        "aktivite"
       ]
     },
     "Inactive": {
