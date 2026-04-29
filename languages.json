@@ -1127,115 +1127,134 @@
       "es": "Duplicar",
       "ja": "複製",
       "pt": "Duplicar",
-      "ko": "복제"
+      "ko": "복제",
+      "fr": "Dupliquer"
     },
     "Edit": {
       "es": "Editar",
       "ja": "編集",
       "pt": "Editar",
-      "ko": "편집"
+      "ko": "편집",
+      "fr": "Modifier"
     },
     "Edit Segment": {
       "es": "Editar segmento",
       "ja": "セグメントを編集",
       "pt": "Editar segmento",
-      "ko": "세그먼트 편집"
+      "ko": "세그먼트 편집",
+      "fr": "Modifier le segment"
     },
     "Edit Template": {
       "es": "Editar plantilla",
       "ja": "テンプレートを編集",
       "pt": "Editar modelo",
-      "ko": "템플릿 편집"
+      "ko": "템플릿 편집",
+      "fr": "Modifier le modèle"
     },
     "Educate your users on how to maximize their value from your product.": {
       "es": "Educa a tus usuarios sobre cómo maximizar el valor de tu producto.",
       "ja": "製品から最大の価値を引き出す方法をユーザーに伝えます。",
       "pt": "Eduque seus usuários sobre como obter o máximo valor do seu produto.",
-      "ko": "사용자가 제품에서 최대한의 가치를 얻을 수 있도록 교육하세요."
+      "ko": "사용자가 제품에서 최대한의 가치를 얻을 수 있도록 교육하세요.",
+      "fr": "Apprenez à vos utilisateurs à tirer le meilleur parti de votre produit."
     },
     "Email": {
       "es": "Email",
       "ja": "メール",
       "pt": "Email",
-      "ko": "이메일"
+      "ko": "이메일",
+      "fr": "Email"
     },
     "Email Address": {
       "es": "Dirección de email",
       "ja": "メールアドレス",
       "pt": "Endereço de email",
-      "ko": "이메일 주소"
+      "ko": "이메일 주소",
+      "fr": "Adresse email"
     },
     "Email Settings": {
       "es": "Configuración de email",
       "ja": "メール設定",
       "pt": "Configurações de email",
-      "ko": "이메일 설정"
+      "ko": "이메일 설정",
+      "fr": "Paramètres email"
     },
     "Enable": {
       "es": "Habilitar",
       "ja": "有効化",
       "pt": "Ativar",
-      "ko": "활성화"
+      "ko": "활성화",
+      "fr": "Activer"
     },
     "End": {
       "es": "Fin",
       "ja": "終了",
       "pt": "Fim",
-      "ko": "종료"
+      "ko": "종료",
+      "fr": "Fin"
     },
     "Engage recently active contacts": {
       "es": "Contacta a usuarios activos recientemente",
       "ja": "最近アクティブなコンタクトにエンゲージ",
       "pt": "Engaje contatos recentemente ativos",
-      "ko": "최근 활동한 연락처와 소통하세요"
+      "ko": "최근 활동한 연락처와 소통하세요",
+      "fr": "Engagez les contacts récemment actifs"
     },
     "Engagement trends": {
       "es": "Tendencias de participación",
       "ja": "エンゲージメント推移",
       "pt": "Tendências de engajamento",
-      "ko": "참여 트렌드"
+      "ko": "참여 트렌드",
+      "fr": "Tendances d'engagement"
     },
     "Error": {
       "es": "Error",
       "ja": "エラー",
       "pt": "Erro",
-      "ko": "오류"
+      "ko": "오류",
+      "fr": "Erreur"
     },
     "Errored": {
       "es": "Con error",
       "ja": "エラー発生",
       "pt": "Com erro",
-      "ko": "오류 발생"
+      "ko": "오류 발생",
+      "fr": "En erreur"
     },
     "Event Activity": {
       "es": "Actividad de eventos",
       "ja": "イベントアクティビティ",
       "pt": "Atividade de eventos",
-      "ko": "이벤트 활동"
+      "ko": "이벤트 활동",
+      "fr": "Activité des événements"
     },
     "Event List": {
       "es": "Lista de eventos",
       "ja": "イベントリスト",
       "pt": "Lista de eventos",
-      "ko": "이벤트 목록"
+      "ko": "이벤트 목록",
+      "fr": "Liste des événements"
     },
     "Event name": {
       "es": "Nombre del evento",
       "ja": "イベント名",
       "pt": "Nome do evento",
-      "ko": "이벤트 이름"
+      "ko": "이벤트 이름",
+      "fr": "Nom de l'événement"
     },
     "Event Stream": {
       "es": "Flujo de eventos",
       "ja": "イベントストリーム",
       "pt": "Fluxo de eventos",
-      "ko": "이벤트 스트림"
+      "ko": "이벤트 스트림",
+      "fr": "Flux d'événements"
     },
     "Event Streams": {
       "es": "Flujos de eventos",
       "ja": "イベントストリーム",
       "pt": "Fluxos de eventos",
-      "ko": "이벤트 스트림"
+      "ko": "이벤트 스트림",
+      "fr": "Flux d'événements"
     },
     "Exclude Segments": {
       "es": "Excluir segmentos",
@@ -3533,7 +3552,8 @@
       "ja": "モバイルとウェブのプッシュを一か所で簡単に管理",
       "es": "Administra el push móvil y web fácilmente en un solo lugar",
       "pt": "Gerencie push móvel e web facilmente em um só lugar",
-      "ko": "모바일 및 웹 푸시를 한 곳에서 쉽게 관리하세요"
+      "ko": "모바일 및 웹 푸시를 한 곳에서 쉽게 관리하세요",
+      "fr": "Gérez facilement le push mobile et web depuis un seul endroit"
     },
     "Unlimited push for real-time updates, alerts, and more": {
       "ja": "リアルタイムの更新・アラートなどをプッシュ数の制限なく配信",
@@ -3640,7 +3660,8 @@
       "ja": "メール - アクティブ - クリックして設定を管理",
       "es": "Email - Activo - Haz clic para administrar la configuración",
       "pt": "Email - Ativo - Clique para gerenciar as configurações",
-      "ko": "이메일 - 활성 - 클릭하여 설정 관리"
+      "ko": "이메일 - 활성 - 클릭하여 설정 관리",
+      "fr": "Email - Actif - Cliquez pour gérer les paramètres"
     },
     "In-app messages - Not configured - Click to set up": {
       "ja": "アプリ内メッセージ - 未設定 - クリックしてセットアップ",
@@ -3718,13 +3739,15 @@
       "ja": "イベントストリームのドキュメント",
       "es": "Documentación de Event Stream",
       "pt": "Documentação de Event Stream",
-      "ko": "이벤트 스트림 문서"
+      "ko": "이벤트 스트림 문서",
+      "fr": "Documentation Event Stream"
     },
     "Event Streams send message data out of OneSignal in real-time to your chosen destination.": {
       "ja": "イベントストリームは、OneSignalのメッセージデータをリアルタイムで指定の宛先に送信します。",
       "es": "Los Event Streams envían datos de mensajes de OneSignal en tiempo real a tu destino elegido.",
       "pt": "Os Event Streams enviam dados de mensagens do OneSignal em tempo real para o seu destino escolhido.",
-      "ko": "이벤트 스트림은 OneSignal에서 선택한 대상으로 메시지 데이터를 실시간으로 전송합니다."
+      "ko": "이벤트 스트림은 OneSignal에서 선택한 대상으로 메시지 데이터를 실시간으로 전송합니다.",
+      "fr": "Les Event Streams envoient les données de messages depuis OneSignal en temps réel vers la destination de votre choix."
     },
     "Access detailed message delivery history and recipient data for your OneSignal notifications through our comprehensive API.": {
       "ja": "包括的なAPIを通じて、OneSignal通知の詳細なメッセージ配信履歴と受信者データにアクセスできます。",
@@ -3937,7 +3960,8 @@
       "ja": "メールプロバイダーを評価",
       "es": "Evalúa proveedores de email",
       "pt": "Avalie provedores de e-mail",
-      "ko": "이메일 공급업체 평가"
+      "ko": "이메일 공급업체 평가",
+      "fr": "Évaluer les fournisseurs d'email"
     },
     "Explore what matters most when picking an email platform for your business.": {
       "ja": "ビジネスに合ったメールプラットフォームを選ぶ際に重要なことを確認。",
@@ -4251,7 +4275,8 @@
       "ja": "エンゲージドな購読",
       "es": "Suscripciones con engagement",
       "pt": "Assinaturas com engajamento",
-      "ko": "참여 중인 구독"
+      "ko": "참여 중인 구독",
+      "fr": "Abonnements engagés"
     },
     "Inactive Subscriptions": {
       "ja": "非アクティブな購読",
@@ -4670,7 +4695,8 @@
       "ja": "Edge",
       "es": "Edge",
       "pt": "Edge",
-      "ko": "Edge"
+      "ko": "Edge",
+      "fr": "Edge"
     },
     "Web Push (Apple Web)": {
       "ja": "Webプッシュ (Apple Web)",
@@ -5003,7 +5029,8 @@
       "ja": "エンタープライズ",
       "es": "Enterprise",
       "pt": "Enterprise",
-      "ko": "엔터프라이즈"
+      "ko": "엔터프라이즈",
+      "fr": "Enterprise"
     },
     "Invite team members": {
       "ja": "チームメンバーを招待",
@@ -5122,13 +5149,15 @@
       "ja": "エラー",
       "es": "Errores",
       "pt": "Erros",
-      "ko": "오류"
+      "ko": "오류",
+      "fr": "Erreurs"
     },
     "Events": {
       "ja": "イベント",
       "es": "Eventos",
       "pt": "Eventos",
-      "ko": "이벤트"
+      "ko": "이벤트",
+      "fr": "Événements"
     },
     "Logs": {
       "ja": "ログ",
@@ -5246,7 +5275,8 @@
       "ja": "イベントID",
       "es": "ID de evento",
       "pt": "ID do evento",
-      "ko": "이벤트 ID"
+      "ko": "이벤트 ID",
+      "fr": "ID d'événement"
     },
     "Segment Not Found": {
       "ja": "セグメントが見つかりません",
@@ -5396,31 +5426,36 @@
       "ja": "ダイナミックコンテンツ",
       "es": "Contenido dinámico",
       "pt": "Conteúdo dinâmico",
-      "ko": "동적 콘텐츠"
+      "ko": "동적 콘텐츠",
+      "fr": "Contenu dynamique"
     },
     "Email preheader text": {
       "ja": "メールのプリヘッダーテキスト",
       "es": "Texto del preencabezado del correo",
       "pt": "Texto do preheader do email",
-      "ko": "이메일 프리헤더 텍스트"
+      "ko": "이메일 프리헤더 텍스트",
+      "fr": "Texte du pré-en-tête de l'email"
     },
     "Email subject line": {
       "ja": "メールの件名",
       "es": "Línea de asunto del correo",
       "pt": "Linha de assunto do email",
-      "ko": "이메일 제목 줄"
+      "ko": "이메일 제목 줄",
+      "fr": "Ligne d'objet de l'email"
     },
     "Email users": {
       "ja": "メールユーザー",
       "es": "Usuarios de correo",
       "pt": "Usuários de email",
-      "ko": "이메일 사용자"
+      "ko": "이메일 사용자",
+      "fr": "Utilisateurs email"
     },
     "Event Filters Documentation": {
       "ja": "イベントフィルター文書",
       "es": "Documentación de filtros de eventos",
       "pt": "Documentação de filtros de eventos",
-      "ko": "이벤트 필터 문서"
+      "ko": "이벤트 필터 문서",
+      "fr": "Documentation des filtres d'événements"
     },
     "Exclude Segment": {
       "ja": "セグメントを除外",
@@ -5991,13 +6026,15 @@
       "ja": "ドロップシャドウの色",
       "es": "Color de la sombra",
       "pt": "Cor da sombra",
-      "ko": "그림자 색상"
+      "ko": "그림자 색상",
+      "fr": "Couleur de l'ombre portée"
     },
     "Drop shadow spread": {
       "ja": "ドロップシャドウの広がり",
       "es": "Extensión de la sombra",
       "pt": "Espalhamento da sombra",
-      "ko": "그림자 확산"
+      "ko": "그림자 확산",
+      "fr": "Extension de l'ombre portée"
     },
     "Every time trigger conditions are satisfied": {
       "ja": "トリガー条件が満たされるたびに",
@@ -6261,7 +6298,8 @@
       "ja": "開始ルール",
       "es": "Reglas de entrada",
       "pt": "Regras de entrada",
-      "ko": "진입 규칙"
+      "ko": "진입 규칙",
+      "fr": "Règles d'entrée"
     },
     "Hour": {
       "ja": "時",
@@ -6319,7 +6357,8 @@
       "ja": "開始",
       "es": "Entrada",
       "pt": "Entrada",
-      "ko": "진입"
+      "ko": "진입",
+      "fr": "Entrée"
     },
     "Exit": {
       "ja": "終了",
@@ -6504,13 +6543,15 @@
       "ja": "カスタムイベント名を入力",
       "es": "Ingresar nombre del evento personalizado",
       "pt": "Inserir nome do evento personalizado",
-      "ko": "사용자 정의 이벤트 이름 입력"
+      "ko": "사용자 정의 이벤트 이름 입력",
+      "fr": "Saisir le nom de l'événement personnalisé"
     },
     "Event-triggered Journeys create a new user instance each time the trigger event fires. This means a user may be in the Journey multiple times at once.": {
       "ja": "イベントトリガーのジャーニーは、トリガーイベントが発生するたびに新しいユーザーインスタンスを作成します。つまり、ユーザーが同時に複数のジャーニーに参加することがあります。",
       "es": "Los Journeys disparados por eventos crean una nueva instancia de usuario cada vez que el evento disparador se activa. Esto significa que un usuario puede estar en el Journey varias veces a la vez.",
       "pt": "Os Journeys disparados por eventos criam uma nova instância de usuário cada vez que o evento gatilho é disparado. Isso significa que um usuário pode estar no Journey várias vezes ao mesmo tempo.",
-      "ko": "이벤트 트리거 저니는 트리거 이벤트가 발생할 때마다 새로운 사용자 인스턴스를 생성합니다. 즉, 사용자가 동시에 여러 번 저니에 참여할 수 있습니다."
+      "ko": "이벤트 트리거 저니는 트리거 이벤트가 발생할 때마다 새로운 사용자 인스턴스를 생성합니다. 즉, 사용자가 동시에 여러 번 저니에 참여할 수 있습니다.",
+      "fr": "Les Journeys déclenchés par événement créent une nouvelle instance utilisateur à chaque déclenchement de l'événement. Un même utilisateur peut donc être dans le Journey plusieurs fois simultanément."
     },
     "Filter by property": {
       "ja": "プロパティでフィルター",
@@ -7365,7 +7406,8 @@
       "ja": "早期アクセス",
       "es": "Acceso anticipado",
       "pt": "Acesso antecipado",
-      "ko": "얼리 액세스"
+      "ko": "얼리 액세스",
+      "fr": "Accès anticipé"
     },
     "Export as Image": {
       "ja": "画像として書き出し",
@@ -7558,7 +7600,8 @@
       "ja": "イベント数には、データウェアハウスエクスポートおよびイベントストリームの両方で処理された追跡対象イベントが含まれます。",
       "es": "El recuento de eventos incluye todos los eventos rastreados procesados tanto a través de exportaciones de data warehouse como de event streams.",
       "pt": "A contagem de eventos inclui todos os eventos rastreados processados por exportações de data warehouse e event streams.",
-      "ko": "이벤트 수에는 데이터 웨어하우스 내보내기 및 이벤트 스트림 모두를 통해 처리된 모든 추적 이벤트가 포함됩니다."
+      "ko": "이벤트 수에는 데이터 웨어하우스 내보내기 및 이벤트 스트림 모두를 통해 처리된 모든 추적 이벤트가 포함됩니다.",
+      "fr": "Le nombre d'événements inclut tous les événements suivis traités à la fois via les exports vers le data warehouse et les flux d'événements."
     },
     "Events Export Breakdown": {
       "ja": "イベントエクスポートの内訳",
@@ -7773,19 +7816,22 @@
       "ja": "ダイナミックコンテンツ文書",
       "es": "Documentación de contenido dinámico",
       "pt": "Documentação de conteúdo dinâmico",
-      "ko": "동적 콘텐츠 문서"
+      "ko": "동적 콘텐츠 문서",
+      "fr": "Documentation du contenu dynamique"
     },
     "Dynamic content allows you to build personalized messages with specific content for different audience groups. Using": {
       "ja": "ダイナミックコンテンツを使うと、オーディエンスグループごとに特定のコンテンツを使った個別化メッセージを作成できます。使用方法:",
       "es": "El contenido dinámico te permite crear mensajes personalizados con contenido específico para diferentes grupos de audiencia. Usando",
       "pt": "O conteúdo dinâmico permite construir mensagens personalizadas com conteúdo específico para diferentes grupos de público. Usando",
-      "ko": "동적 콘텐츠를 통해 다양한 대상 그룹에 맞춘 특정 콘텐츠로 개인화된 메시지를 만들 수 있습니다. 사용:"
+      "ko": "동적 콘텐츠를 통해 다양한 대상 그룹에 맞춘 특정 콘텐츠로 개인화된 메시지를 만들 수 있습니다. 사용:",
+      "fr": "Le contenu dynamique vous permet de créer des messages personnalisés avec du contenu spécifique pour différents groupes d'audience. En utilisant"
     },
     "Empty state portrayed as a ghost": {
       "ja": "ゴーストとして表現された空の状態",
       "es": "Estado vacío representado como un fantasma",
       "pt": "Estado vazio representado como um fantasma",
-      "ko": "유령으로 표현된 빈 상태"
+      "ko": "유령으로 표현된 빈 상태",
+      "fr": "État vide représenté par un fantôme"
     },
     "Fallback documentation": {
       "ja": "フォールバック文書",
@@ -7846,7 +7892,8 @@
       "ja": "メールテンプレート",
       "es": "Plantilla de correo",
       "pt": "Modelo de email",
-      "ko": "이메일 템플릿"
+      "ko": "이메일 템플릿",
+      "fr": "Modèle email"
     },
     "Push Template": {
       "ja": "プッシュテンプレート",
@@ -8099,7 +8146,8 @@
       "ja": "イベントログ",
       "es": "Registro de eventos",
       "pt": "Registro de eventos",
-      "ko": "이벤트 로그"
+      "ko": "이벤트 로그",
+      "fr": "Journal d'événements"
     },
     "Learn more about Journeys.": {
       "ja": "ジャーニーの詳細を確認。",
@@ -8360,7 +8408,8 @@
       "ja": "エディター",
       "es": "Editor",
       "pt": "Editor",
-      "ko": "편집자"
+      "ko": "편집자",
+      "fr": "Éditeur"
     },
     "Search by Email": {
       "ja": "メールで検索",
@@ -9396,7 +9445,8 @@
       "ja": "メールの評判はOneSignalメールでのみ利用可能です。詳しくはESPプロバイダーまたはメール評判ツールをご確認ください。",
       "es": "La reputación del correo solo está disponible para correo de OneSignal; consulta tu proveedor ESP o herramientas de reputación de correo.",
       "pt": "A reputação de email está disponível apenas para email do OneSignal; consulte seu provedor ESP ou ferramentas de reputação de email.",
-      "ko": "이메일 평판은 OneSignal 이메일에서만 사용할 수 있습니다. ESP 공급자 또는 이메일 평판 도구를 확인하세요."
+      "ko": "이메일 평판은 OneSignal 이메일에서만 사용할 수 있습니다. ESP 공급자 또는 이메일 평판 도구를 확인하세요.",
+      "fr": "La réputation email n'est disponible que pour OneSignal email ; consultez votre fournisseur ESP ou vos outils de réputation email."
     },
     "OneSignal only provides reputation management for users using OneSignal email.": {
       "ja": "OneSignalはOneSignalメールを使用しているユーザーに対してのみ評判管理を提供します。",
