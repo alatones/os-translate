@@ -2265,7 +2265,8 @@
       "pt": "Último envio",
       "ko": "마지막 발송",
       "fr": "Dernier envoi",
-      "tr": "Son gönderim"
+      "tr": "Son gönderim",
+      "zh-CN": "最近发送"
     },
     "Last Session": {
       "es": "Última sesión",
@@ -2273,7 +2274,8 @@
       "pt": "Última sessão",
       "ko": "마지막 세션",
       "fr": "Dernière session",
-      "tr": "Son oturum"
+      "tr": "Son oturum",
+      "zh-CN": "最近会话"
     },
     "Last session": {
       "es": "Última sesión",
@@ -2281,7 +2283,8 @@
       "pt": "Última sessão",
       "ko": "마지막 세션",
       "fr": "Dernière session",
-      "tr": "Son oturum"
+      "tr": "Son oturum",
+      "zh-CN": "最近会话"
     },
     "Last Sync": {
       "es": "Última sincronización",
@@ -2289,7 +2292,8 @@
       "pt": "Última sincronização",
       "ko": "마지막 동기화",
       "fr": "Dernière synchronisation",
-      "tr": "Son senkronizasyon"
+      "tr": "Son senkronizasyon",
+      "zh-CN": "最近同步"
     },
     "Last unsubscribed": {
       "es": "Última cancelación",
@@ -2297,7 +2301,8 @@
       "pt": "Último cancelamento",
       "ko": "마지막 구독 취소",
       "fr": "Dernière désinscription",
-      "tr": "Son abonelikten çıkma"
+      "tr": "Son abonelikten çıkma",
+      "zh-CN": "最近取消订阅"
     },
     "Last Updated": {
       "es": "Última actualización",
@@ -2305,7 +2310,8 @@
       "pt": "Última atualização",
       "ko": "마지막 업데이트",
       "fr": "Dernière mise à jour",
-      "tr": "Son güncelleme"
+      "tr": "Son güncelleme",
+      "zh-CN": "最近更新"
     },
     "Launch CSV Importer": {
       "es": "Iniciar importador CSV",
@@ -2313,7 +2319,8 @@
       "pt": "Iniciar importador CSV",
       "ko": "CSV 가져오기 실행",
       "fr": "Lancer l'importateur CSV",
-      "tr": "CSV içe aktarıcısını başlat"
+      "tr": "CSV içe aktarıcısını başlat",
+      "zh-CN": "启动 CSV 导入工具"
     },
     "Launch URL": {
       "es": "URL de destino",
@@ -2321,7 +2328,8 @@
       "pt": "URL de destino",
       "ko": "실행 URL",
       "fr": "URL de lancement",
-      "tr": "Başlatma URL'si"
+      "tr": "Başlatma URL'si",
+      "zh-CN": "启动 URL"
     },
     "less than": {
       "es": "menor que",
@@ -2329,7 +2337,8 @@
       "pt": "menor que",
       "ko": "미만",
       "fr": "inférieur à",
-      "tr": "küçüktür"
+      "tr": "küçüktür",
+      "zh-CN": "小于"
     },
     "Live Activities": {
       "es": "Actividades en vivo",
@@ -2337,7 +2346,8 @@
       "pt": "Atividades ao vivo",
       "ko": "라이브 액티비티",
       "fr": "Live Activities",
-      "tr": "Live Activities"
+      "tr": "Live Activities",
+      "zh-CN": "Live Activities"
     },
     "Live Activity": {
       "es": "Actividad en vivo",
@@ -2345,7 +2355,8 @@
       "pt": "Atividade ao vivo",
       "ko": "라이브 액티비티",
       "fr": "Live Activity",
-      "tr": "Live Activity"
+      "tr": "Live Activity",
+      "zh-CN": "Live Activity"
     },
     "Load More": {
       "es": "Cargar más",
@@ -2353,7 +2364,8 @@
       "pt": "Carregar mais",
       "ko": "더 보기",
       "fr": "Charger plus",
-      "tr": "Daha fazla yükle"
+      "tr": "Daha fazla yükle",
+      "zh-CN": "加载更多"
     },
     "Load segment count": {
       "es": "Cargar recuento de segmentos",
@@ -2361,7 +2373,8 @@
       "pt": "Carregar contagem de segmentos",
       "ko": "세그먼트 수 로드",
       "fr": "Charger le décompte du segment",
-      "tr": "Segment sayısını yükle"
+      "tr": "Segment sayısını yükle",
+      "zh-CN": "加载 Segment 数量"
     },
     "Loading": {
       "es": "Cargando",
@@ -2369,7 +2382,8 @@
       "pt": "Carregando",
       "ko": "로딩 중",
       "fr": "Chargement",
-      "tr": "Yükleniyor"
+      "tr": "Yükleniyor",
+      "zh-CN": "加载中"
     },
     "Loading…": {
       "es": "Cargando…",
@@ -2377,7 +2391,8 @@
       "pt": "Carregando…",
       "ko": "로딩 중…",
       "fr": "Chargement…",
-      "tr": "Yükleniyor…"
+      "tr": "Yükleniyor…",
+      "zh-CN": "加载中…"
     },
     "Local (EDT):": {
       "es": "Local (EDT):",
@@ -2385,7 +2400,8 @@
       "pt": "Local (EDT):",
       "ko": "현지 시간 (EDT):",
       "fr": "Local (EDT) :",
-      "tr": "Yerel (EDT):"
+      "tr": "Yerel (EDT):",
+      "zh-CN": "本地 (EDT):"
     },
     "Local:": {
       "es": "Local:",
@@ -2393,7 +2409,8 @@
       "pt": "Local:",
       "ko": "현지:",
       "fr": "Local :",
-      "tr": "Yerel:"
+      "tr": "Yerel:",
+      "zh-CN": "本地:"
     },
     "Location": {
       "es": "Ubicación",
@@ -2401,7 +2418,8 @@
       "pt": "Localização",
       "ko": "위치",
       "fr": "Emplacement",
-      "tr": "Konum"
+      "tr": "Konum",
+      "zh-CN": "位置"
     },
     "Location point": {
       "es": "Punto de ubicación",
@@ -2409,7 +2427,8 @@
       "pt": "Ponto de localização",
       "ko": "위치 지점",
       "fr": "Point d'emplacement",
-      "tr": "Konum noktası"
+      "tr": "Konum noktası",
+      "zh-CN": "位置点"
     },
     "Manage App": {
       "es": "Administrar app",
@@ -2417,7 +2436,8 @@
       "pt": "Gerenciar app",
       "ko": "앱 관리",
       "fr": "Gérer l'app",
-      "tr": "Uygulamayı yönet"
+      "tr": "Uygulamayı yönet",
+      "zh-CN": "管理应用"
     },
     "Manage or invite team members": {
       "es": "Administrar o invitar miembros del equipo",
@@ -2425,7 +2445,8 @@
       "pt": "Gerenciar ou convidar membros da equipe",
       "ko": "팀원 관리 또는 초대",
       "fr": "Gérer ou inviter des membres de l'équipe",
-      "tr": "Ekip üyelerini yönetin veya davet edin"
+      "tr": "Ekip üyelerini yönetin veya davet edin",
+      "zh-CN": "管理或邀请团队成员"
     },
     "Manage this app": {
       "es": "Administrar esta app",
@@ -2433,7 +2454,8 @@
       "pt": "Gerenciar este app",
       "ko": "이 앱 관리",
       "fr": "Gérer cette app",
-      "tr": "Bu uygulamayı yönet"
+      "tr": "Bu uygulamayı yönet",
+      "zh-CN": "管理此应用"
     },
     "Manually Add": {
       "es": "Agregar manualmente",
@@ -2441,7 +2463,8 @@
       "pt": "Adicionar manualmente",
       "ko": "수동 추가",
       "fr": "Ajouter manuellement",
-      "tr": "Manuel olarak ekle"
+      "tr": "Manuel olarak ekle",
+      "zh-CN": "手动添加"
     },
     "Manually add users with emails or phone numbers": {
       "es": "Agrega usuarios con emails o números de teléfono",
@@ -2449,7 +2472,8 @@
       "pt": "Adicione usuários com emails ou números de telefone",
       "ko": "이메일 또는 전화번호로 사용자 직접 추가",
       "fr": "Ajoutez manuellement des utilisateurs avec emails ou numéros de téléphone",
-      "tr": "Email veya telefon numarasıyla manuel olarak kullanıcı ekleyin"
+      "tr": "Email veya telefon numarasıyla manuel olarak kullanıcı ekleyin",
+      "zh-CN": "通过 Email 或电话号码手动添加用户"
     },
     "Mar": {
       "es": "mar",
@@ -2457,7 +2481,8 @@
       "pt": "mar",
       "ko": "3월",
       "fr": "mar",
-      "tr": "mar"
+      "tr": "mar",
+      "zh-CN": "3月"
     },
     "March": {
       "es": "marzo",
@@ -2465,7 +2490,8 @@
       "pt": "março",
       "ko": "3월",
       "fr": "mars",
-      "tr": "mart"
+      "tr": "mart",
+      "zh-CN": "3月"
     },
     "Maximum": {
       "es": "Máximo",
@@ -2473,7 +2499,8 @@
       "pt": "Máximo",
       "ko": "최대",
       "fr": "Maximum",
-      "tr": "Maksimum"
+      "tr": "Maksimum",
+      "zh-CN": "最大"
     },
     "May": {
       "es": "mayo",
@@ -2481,7 +2508,8 @@
       "pt": "maio",
       "ko": "5월",
       "fr": "mai",
-      "tr": "mayıs"
+      "tr": "mayıs",
+      "zh-CN": "5月"
     },
     "Message": {
       "es": "Mensaje",
@@ -2489,7 +2517,8 @@
       "pt": "Mensagem",
       "ko": "메시지",
       "fr": "Message",
-      "tr": "Mesaj"
+      "tr": "Mesaj",
+      "zh-CN": "消息"
     },
     "Message Content": {
       "es": "Contenido del mensaje",
@@ -2497,7 +2526,8 @@
       "pt": "Conteúdo da mensagem",
       "ko": "메시지 내용",
       "fr": "Contenu du message",
-      "tr": "Mesaj içeriği"
+      "tr": "Mesaj içeriği",
+      "zh-CN": "消息内容"
     },
     "Message Event Delivery": {
       "es": "Entrega de eventos de mensajes",
@@ -2505,7 +2535,8 @@
       "pt": "Entrega de eventos de mensagens",
       "ko": "메시지 이벤트 전달",
       "fr": "Livraison d'événements de message",
-      "tr": "Mesaj etkinliği teslimatı"
+      "tr": "Mesaj etkinliği teslimatı",
+      "zh-CN": "消息事件送达"
     },
     "Message Title": {
       "es": "Título del mensaje",
@@ -2513,7 +2544,8 @@
       "pt": "Título da mensagem",
       "ko": "메시지 제목",
       "fr": "Titre du message",
-      "tr": "Mesaj başlığı"
+      "tr": "Mesaj başlığı",
+      "zh-CN": "消息标题"
     },
     "Message type": {
       "es": "Tipo de mensaje",
@@ -2521,7 +2553,8 @@
       "pt": "Tipo de mensagem",
       "ko": "메시지 유형",
       "fr": "Type de message",
-      "tr": "Mesaj türü"
+      "tr": "Mesaj türü",
+      "zh-CN": "消息类型"
     },
     "Messages": {
       "es": "Mensajes",
@@ -2529,7 +2562,8 @@
       "pt": "Mensagens",
       "ko": "메시지",
       "fr": "Messages",
-      "tr": "Mesajlar"
+      "tr": "Mesajlar",
+      "zh-CN": "消息"
     },
     "Minimum": {
       "es": "Mínimo",
@@ -2537,7 +2571,8 @@
       "pt": "Mínimo",
       "ko": "최소",
       "fr": "Minimum",
-      "tr": "Minimum"
+      "tr": "Minimum",
+      "zh-CN": "最小"
     },
     "Mobile (MAU)": {
       "es": "Móvil (MAU)",
@@ -2545,7 +2580,8 @@
       "pt": "Mobile (MAU)",
       "ko": "모바일 (MAU)",
       "fr": "Mobile (MAU)",
-      "tr": "Mobil (MAU)"
+      "tr": "Mobil (MAU)",
+      "zh-CN": "移动 (MAU)"
     },
     "Modal": {
       "es": "Modal",
@@ -2553,7 +2589,8 @@
       "pt": "Modal",
       "ko": "모달",
       "fr": "Modale",
-      "tr": "Modal"
+      "tr": "Modal",
+      "zh-CN": "弹窗"
     },
     "Mon": {
       "es": "Lun",
@@ -2561,7 +2598,8 @@
       "pt": "Seg",
       "ko": "월",
       "fr": "Lun",
-      "tr": "Pzt"
+      "tr": "Pzt",
+      "zh-CN": "周一"
     },
     "Month": {
       "es": "Mes",
@@ -2569,7 +2607,8 @@
       "pt": "Mês",
       "ko": "월",
       "fr": "Mois",
-      "tr": "Ay"
+      "tr": "Ay",
+      "zh-CN": "月"
     },
     "More information": {
       "es": "Más información",
@@ -2577,7 +2616,8 @@
       "pt": "Mais informações",
       "ko": "추가 정보",
       "fr": "Plus d'informations",
-      "tr": "Daha fazla bilgi"
+      "tr": "Daha fazla bilgi",
+      "zh-CN": "更多信息"
     },
     "N/A": {
       "es": "N/D",
@@ -2585,7 +2625,8 @@
       "pt": "N/D",
       "ko": "해당 없음",
       "fr": "N/D",
-      "tr": "Yok"
+      "tr": "Yok",
+      "zh-CN": "无"
     },
     "Name": {
       "es": "Nombre",
@@ -2593,7 +2634,8 @@
       "pt": "Nome",
       "ko": "이름",
       "fr": "Nom",
-      "tr": "Ad"
+      "tr": "Ad",
+      "zh-CN": "名称"
     },
     "Never": {
       "es": "Nunca",
@@ -2601,7 +2643,8 @@
       "pt": "Nunca",
       "ko": "없음",
       "fr": "Jamais",
-      "tr": "Hiçbir zaman"
+      "tr": "Hiçbir zaman",
+      "zh-CN": "从不"
     },
     "Never Subscribed": {
       "es": "Nunca suscrito",
@@ -2609,7 +2652,8 @@
       "pt": "Nunca inscrito",
       "ko": "구독한 적 없음",
       "fr": "Jamais abonné",
-      "tr": "Hiç abone olmadı"
+      "tr": "Hiç abone olmadı",
+      "zh-CN": "从未订阅"
     },
     "New App/Website": {
       "es": "Nueva app/sitio web",
@@ -2617,7 +2661,8 @@
       "pt": "Novo app/site",
       "ko": "새 앱/웹사이트",
       "fr": "Nouvelle app / nouveau site web",
-      "tr": "Yeni uygulama/web sitesi"
+      "tr": "Yeni uygulama/web sitesi",
+      "zh-CN": "新应用/网站"
     },
     "New Automated Message": {
       "es": "Nuevo mensaje automatizado",
@@ -2625,7 +2670,8 @@
       "pt": "Nova mensagem automatizada",
       "ko": "새 자동화 메시지",
       "fr": "Nouveau message automatisé",
-      "tr": "Yeni otomatik mesaj"
+      "tr": "Yeni otomatik mesaj",
+      "zh-CN": "新自动化消息"
     },
     "New Data Feed": {
       "es": "Nueva fuente de datos",
@@ -2633,7 +2679,8 @@
       "pt": "Novo feed de dados",
       "ko": "새 데이터 피드",
       "fr": "Nouveau flux de données",
-      "tr": "Yeni veri akışı"
+      "tr": "Yeni veri akışı",
+      "zh-CN": "新数据源"
     },
     "New Email": {
       "es": "Nuevo email",
@@ -2641,7 +2688,8 @@
       "pt": "Novo email",
       "ko": "새 이메일",
       "fr": "Nouvel email",
-      "tr": "Yeni email"
+      "tr": "Yeni email",
+      "zh-CN": "新 Email"
     },
     "New email": {
       "es": "Nuevo email",
@@ -2649,7 +2697,8 @@
       "pt": "Novo email",
       "ko": "새 이메일",
       "fr": "Nouvel email",
-      "tr": "Yeni email"
+      "tr": "Yeni email",
+      "zh-CN": "新 Email"
     },
     "New Event Stream": {
       "es": "Nuevo flujo de eventos",
@@ -2657,7 +2706,8 @@
       "pt": "Novo fluxo de eventos",
       "ko": "새 이벤트 스트림",
       "fr": "Nouveau flux d'événements",
-      "tr": "Yeni etkinlik akışı"
+      "tr": "Yeni etkinlik akışı",
+      "zh-CN": "新事件流"
     },
     "New In-App": {
       "es": "Nuevo In-App",
