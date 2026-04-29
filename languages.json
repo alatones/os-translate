@@ -1260,7 +1260,8 @@
       "es": "Excluir segmentos",
       "ja": "セグメントを除外",
       "pt": "Excluir segmentos",
-      "ko": "세그먼트 제외"
+      "ko": "세그먼트 제외",
+      "fr": "Exclure les segments"
     },
     "exists": {
       "es": "existe",
@@ -1272,43 +1273,50 @@
       "es": "Expandir fila",
       "ja": "行を展開",
       "pt": "Expandir linha",
-      "ko": "행 확장"
+      "ko": "행 확장",
+      "fr": "Développer la ligne"
     },
     "Export": {
       "es": "Exportar",
       "ja": "エクスポート",
       "pt": "Exportar",
-      "ko": "내보내기"
+      "ko": "내보내기",
+      "fr": "Exporter"
     },
     "Exported Events": {
       "es": "Eventos exportados",
       "ja": "エクスポートイベント数",
       "pt": "Eventos exportados",
-      "ko": "내보낸 이벤트"
+      "ko": "내보낸 이벤트",
+      "fr": "Événements exportés"
     },
     "External ID": {
       "es": "ID externo",
       "ja": "外部ID",
       "pt": "ID externo",
-      "ko": "외부 ID"
+      "ko": "외부 ID",
+      "fr": "ID externe"
     },
     "Failed": {
       "es": "Fallido",
       "ja": "失敗",
       "pt": "Com falha",
-      "ko": "실패됨"
+      "ko": "실패됨",
+      "fr": "Échoué"
     },
     "Failed Events": {
       "es": "Eventos fallidos",
       "ja": "失敗イベント",
       "pt": "Eventos com falha",
-      "ko": "실패된 이벤트"
+      "ko": "실패된 이벤트",
+      "fr": "Événements échoués"
     },
     "Failed Updates": {
       "es": "Actualizaciones fallidas",
       "ja": "失敗した更新",
       "pt": "Atualizações com falha",
-      "ko": "실패된 업데이트"
+      "ko": "실패된 업데이트",
+      "fr": "Mises à jour échouées"
     },
     "false": {
       "es": "falso",
@@ -1320,55 +1328,64 @@
       "es": "feb",
       "ja": "2月",
       "pt": "fev",
-      "ko": "2월"
+      "ko": "2월",
+      "fr": "fév"
     },
     "February": {
       "es": "febrero",
       "ja": "2月",
       "pt": "fevereiro",
-      "ko": "2월"
+      "ko": "2월",
+      "fr": "février"
     },
     "Filter": {
       "es": "Filtro",
       "ja": "フィルター",
       "pt": "Filtro",
-      "ko": "필터"
+      "ko": "필터",
+      "fr": "Filtre"
     },
     "Filters": {
       "es": "Filtros",
       "ja": "フィルター",
       "pt": "Filtros",
-      "ko": "필터"
+      "ko": "필터",
+      "fr": "Filtres"
     },
     "Firefox": {
       "es": "Firefox",
       "ja": "Firefox",
       "pt": "Firefox",
-      "ko": "파이어폭스"
+      "ko": "파이어폭스",
+      "fr": "Firefox"
     },
     "First active": {
       "es": "Primera actividad",
       "ja": "初回アクティブ",
       "pt": "Primeira atividade",
-      "ko": "첫 활성"
+      "ko": "첫 활성",
+      "fr": "Première activité"
     },
     "First Session": {
       "es": "Primera sesión",
       "ja": "初回セッション",
       "pt": "Primeira sessão",
-      "ko": "첫 번째 세션"
+      "ko": "첫 번째 세션",
+      "fr": "Première session"
     },
     "First session": {
       "es": "Primera sesión",
       "ja": "初回セッション",
       "pt": "Primeira sessão",
-      "ko": "첫 번째 세션"
+      "ko": "첫 번째 세션",
+      "fr": "Première session"
     },
     "First-time Audience": {
       "es": "Audiencia nueva",
       "ja": "初回オーディエンス",
       "pt": "Público novo",
-      "ko": "신규 대상"
+      "ko": "신규 대상",
+      "fr": "Nouvelle audience"
     },
     "Fri": {
       "es": "Vie",
@@ -3954,7 +3971,8 @@
       "ja": "詳細を見る",
       "es": "Explorar más",
       "pt": "Explorar mais",
-      "ko": "더 알아보기"
+      "ko": "더 알아보기",
+      "fr": "En découvrir plus"
     },
     "Evaluate email providers": {
       "ja": "メールプロバイダーを評価",
@@ -3967,7 +3985,8 @@
       "ja": "ビジネスに合ったメールプラットフォームを選ぶ際に重要なことを確認。",
       "es": "Descubre qué es lo más importante al elegir una plataforma de email para tu negocio.",
       "pt": "Descubra o que mais importa ao escolher uma plataforma de e-mail para o seu negócio.",
-      "ko": "비즈니스에 맞는 이메일 플랫폼을 선택할 때 가장 중요한 것을 알아보세요."
+      "ko": "비즈니스에 맞는 이메일 플랫폼을 선택할 때 가장 중요한 것을 알아보세요.",
+      "fr": "Découvrez ce qui compte le plus pour choisir une plateforme email pour votre entreprise."
     },
     "Get started with email": {
       "ja": "メールを始める",
@@ -4180,13 +4199,15 @@
       "ja": "記録用のメッセージリストをエクスポート",
       "es": "Exporta una lista de mensajes para tus registros",
       "pt": "Exporte uma lista de mensagens para seus registros",
-      "ko": "기록을 위해 메시지 목록 내보내기"
+      "ko": "기록을 위해 메시지 목록 내보내기",
+      "fr": "Exportez une liste de messages pour vos archives"
     },
     "Filter by delivery method (dashboard, API)": {
       "ja": "配信方法（ダッシュボード、API）でフィルタリングする",
       "es": "Filtrar por método de entrega (dashboard, API)",
       "pt": "Filtrar por método de entrega (dashboard, API)",
-      "ko": "전달 방법 (대시보드, API)으로 필터링"
+      "ko": "전달 방법 (대시보드, API)으로 필터링",
+      "fr": "Filtrer par méthode de livraison (dashboard, API)"
     },
     "Keep an eye on deliverability across campaigns": {
       "ja": "キャンペーン全体の配信率を監視",
@@ -4306,7 +4327,8 @@
       "ja": "ユーザーリストをエクスポート",
       "es": "Exportar una lista de usuarios",
       "pt": "Exportar uma lista de usuários",
-      "ko": "사용자 목록 내보내기"
+      "ko": "사용자 목록 내보내기",
+      "fr": "Exporter une liste d'utilisateurs"
     },
     "Integrate SDK": {
       "ja": "SDKを統合",
@@ -4380,7 +4402,8 @@
       "ja": "プッシュ、メール、SMSの購読をエクスポートする",
       "es": "Exporta suscripciones de push, email y SMS",
       "pt": "Exporte assinaturas de push, e-mail e SMS",
-      "ko": "푸시, 이메일 및 SMS 구독 내보내기"
+      "ko": "푸시, 이메일 및 SMS 구독 내보내기",
+      "fr": "Exportez les abonnements pour push, email et SMS"
     },
     "See subscriber preferences at the channel level": {
       "ja": "チャネルレベルでの購読者の設定を確認",
@@ -4502,7 +4525,8 @@
       "ja": "ユースケースに合わせたメッセージングフローをプロトタイプするための既製コンポーネントを使って、FigmaでRCSを探索します。",
       "es": "Explora RCS en Figma con componentes listos para usar y prototipa flujos de mensajería adaptados a tu caso de uso.",
       "pt": "Explore o RCS no Figma com componentes prontos para prototipação de fluxos de mensagens personalizados para o seu caso de uso.",
-      "ko": "사용 사례에 맞게 조정된 메시지 흐름을 프로토타입화하기 위해 준비된 컴포넌트로 Figma에서 RCS를 탐색하세요."
+      "ko": "사용 사례에 맞게 조정된 메시지 흐름을 프로토타입화하기 위해 준비된 컴포넌트로 Figma에서 RCS를 탐색하세요.",
+      "fr": "Explorez RCS dans Figma avec des composants prêts à l'emploi pour prototyper des flux de messagerie adaptés à votre cas d'usage."
     },
     "Get your brand on the lock screen": {
       "ja": "ブランドをロック画面に表示",
@@ -4658,7 +4682,8 @@
       "ja": "失敗メッセージ",
       "es": "Mensaje de error",
       "pt": "Mensagem de falha",
-      "ko": "실패 메시지"
+      "ko": "실패 메시지",
+      "fr": "Message d'échec"
     },
     "Subscription status": {
       "ja": "購読状況",
@@ -4841,7 +4866,8 @@
       "ja": "偽",
       "es": "Falso",
       "pt": "Falso",
-      "ko": "거짓"
+      "ko": "거짓",
+      "fr": "Faux"
     },
     "True": {
       "ja": "真",
@@ -5109,7 +5135,8 @@
       "ja": "完全に失敗",
       "es": "Fallido permanentemente",
       "pt": "Falhou permanentemente",
-      "ko": "영구 실패"
+      "ko": "영구 실패",
+      "fr": "Échec permanent"
     },
     "Successful": {
       "ja": "成功",
@@ -5461,7 +5488,8 @@
       "ja": "セグメントを除外",
       "es": "Excluir segmento",
       "pt": "Excluir segmento",
-      "ko": "세그먼트 제외"
+      "ko": "세그먼트 제외",
+      "fr": "Exclure le segment"
     },
     "Goal Documentation": {
       "ja": "目標文書",
@@ -5695,7 +5723,8 @@
       "ja": "ナビゲーションを展開",
       "es": "Expandir navegación",
       "pt": "Expandir navegação",
-      "ko": "탐색 확장"
+      "ko": "탐색 확장",
+      "fr": "Développer la navigation"
     },
     "Messages sent through our API or WordPress Plugin can be found in": {
       "ja": "APIまたはWordPressプラグインを通じて送信されたメッセージは次で確認できます:",
@@ -5726,7 +5755,8 @@
       "ja": "行を折りたたむ",
       "es": "Plegar línea",
       "pt": "Recolher linha",
-      "ko": "줄 접기"
+      "ko": "줄 접기",
+      "fr": "Replier la ligne"
     },
     "Advanced options": {
       "ja": "詳細オプション",
@@ -5808,19 +5838,22 @@
       "ja": "フォントファミリー",
       "es": "Familia de fuentes",
       "pt": "Família de fontes",
-      "ko": "글꼴 종류"
+      "ko": "글꼴 종류",
+      "fr": "Famille de police"
     },
     "Font size": {
       "ja": "フォントサイズ",
       "es": "Tamaño de fuente",
       "pt": "Tamanho da fonte",
-      "ko": "글꼴 크기"
+      "ko": "글꼴 크기",
+      "fr": "Taille de la police"
     },
     "Format": {
       "ja": "フォーマット",
       "es": "Formato",
       "pt": "Formato",
-      "ko": "서식"
+      "ko": "서식",
+      "fr": "Format"
     },
     "Left aligned": {
       "ja": "左揃え",
@@ -6040,13 +6073,15 @@
       "ja": "トリガー条件が満たされるたびに",
       "es": "Cada vez que se cumplan las condiciones del disparador",
       "pt": "Cada vez que as condições do gatilho forem satisfeitas",
-      "ko": "트리거 조건이 충족될 때마다"
+      "ko": "트리거 조건이 충족될 때마다",
+      "fr": "À chaque fois que les conditions du déclencheur sont remplies"
     },
     "Font color": {
       "ja": "フォントの色",
       "es": "Color de la fuente",
       "pt": "Cor da fonte",
-      "ko": "글꼴 색상"
+      "ko": "글꼴 색상",
+      "fr": "Couleur de la police"
     },
     "Heading": {
       "ja": "見出し",
@@ -6242,7 +6277,8 @@
       "ja": "エディターを展開",
       "es": "Expandir editor",
       "pt": "Expandir editor",
-      "ko": "편집기 펼치기"
+      "ko": "편집기 펼치기",
+      "fr": "Agrandir l'éditeur"
     },
     "Full": {
       "ja": "フル",
@@ -6278,7 +6314,8 @@
       "ja": "終了ルール",
       "es": "Reglas de salida",
       "pt": "Regras de saída",
-      "ko": "종료 규칙"
+      "ko": "종료 규칙",
+      "fr": "Règles de sortie"
     },
     "Audience Segment": {
       "ja": "オーディエンスセグメント",
@@ -6364,13 +6401,15 @@
       "ja": "終了",
       "es": "Salida",
       "pt": "Saída",
-      "ko": "종료"
+      "ko": "종료",
+      "fr": "Sortie"
     },
     "Fit View": {
       "ja": "画面に合わせる",
       "es": "Ajustar vista",
       "pt": "Ajustar visualização",
-      "ko": "화면에 맞춤"
+      "ko": "화면에 맞춤",
+      "fr": "Ajuster la vue"
     },
     "Future additions only": {
       "ja": "今後の追加のみ",
@@ -6557,7 +6596,8 @@
       "ja": "プロパティでフィルター",
       "es": "Filtrar por propiedad",
       "pt": "Filtrar por propriedade",
-      "ko": "속성으로 필터링"
+      "ko": "속성으로 필터링",
+      "fr": "Filtrer par propriété"
     },
     "It looks like you're still working on this. Changes you made may not be saved if you leave now.": {
       "ja": "まだ作業中のようです。今離れると変更が保存されない場合があります。",
@@ -7058,7 +7098,8 @@
       "ja": "フィールド 1",
       "es": "Campo 1",
       "pt": "Campo 1",
-      "ko": "필드 1"
+      "ko": "필드 1",
+      "fr": "Champ 1"
     },
     "Global image upload input": {
       "ja": "グローバル画像アップロード入力",
@@ -7413,19 +7454,22 @@
       "ja": "画像として書き出し",
       "es": "Exportar como imagen",
       "pt": "Exportar como imagem",
-      "ko": "이미지로 내보내기"
+      "ko": "이미지로 내보내기",
+      "fr": "Exporter en image"
     },
     "Filter by custom events ingested through SDKs, integrations, or data sources": {
       "ja": "SDK、統合、またはデータソースから取り込まれたカスタムイベントでフィルター",
       "es": "Filtrar por eventos personalizados ingeridos a través de SDKs, integraciones o fuentes de datos",
       "pt": "Filtrar por eventos personalizados ingeridos via SDKs, integrações ou fontes de dados",
-      "ko": "SDK, 통합 또는 데이터 소스를 통해 수집된 사용자 정의 이벤트로 필터링"
+      "ko": "SDK, 통합 또는 데이터 소스를 통해 수집된 사용자 정의 이벤트로 필터링",
+      "fr": "Filtrer par événements personnalisés ingérés via SDK, intégrations ou sources de données"
     },
     "Filter by message interactions": {
       "ja": "メッセージインタラクションでフィルター",
       "es": "Filtrar por interacciones de mensajes",
       "pt": "Filtrar por interações de mensagens",
-      "ko": "메시지 상호 작용으로 필터링"
+      "ko": "메시지 상호 작용으로 필터링",
+      "fr": "Filtrer par interactions de message"
     },
     "Includes all test users, which can be set up in All Users page": {
       "ja": "すべてのテストユーザーを含みます。All Usersページで設定できます",
@@ -7607,7 +7651,8 @@
       "ja": "イベントエクスポートの内訳",
       "es": "Desglose de exportación de eventos",
       "pt": "Detalhamento de exportação de eventos",
-      "ko": "이벤트 내보내기 분석"
+      "ko": "이벤트 내보내기 분석",
+      "fr": "Détail de l'export d'événements"
     },
     "In-App Impressions": {
       "ja": "インアプリの表示回数",
@@ -7837,7 +7882,8 @@
       "ja": "フォールバック文書",
       "es": "Documentación de respaldo",
       "pt": "Documentação de fallback",
-      "ko": "폴백 문서"
+      "ko": "폴백 문서",
+      "fr": "Documentation de fallback"
     },
     "Start from scratch or": {
       "ja": "ゼロから始めるか、",
@@ -8435,7 +8481,8 @@
       "ja": "エクスポートが作成されました",
       "es": "Exportación creada",
       "pt": "Exportação criada",
-      "ko": "내보내기 생성됨"
+      "ko": "내보내기 생성됨",
+      "fr": "Export créé"
     },
     "Item name": {
       "ja": "項目名",
@@ -8912,7 +8959,8 @@
       "ja": "転送されたメールテンプレート",
       "es": "Plantillas de correo reenviadas",
       "pt": "Modelos de email encaminhados",
-      "ko": "전달된 이메일 템플릿"
+      "ko": "전달된 이메일 템플릿",
+      "fr": "Modèles email transférés"
     },
     "Generate New Email Address": {
       "ja": "新しいメールアドレスを生成",
@@ -8996,7 +9044,8 @@
       "ja": "頻度制限",
       "es": "Límite de frecuencia",
       "pt": "Limite de frequência",
-      "ko": "빈도 제한"
+      "ko": "빈도 제한",
+      "fr": "Plafonnement de fréquence"
     },
     "No groups created. Create a group to add notification channels": {
       "ja": "グループが作成されていません。通知チャネルを追加するにはグループを作成してください",
@@ -9112,7 +9161,8 @@
       "ja": "全員",
       "es": "Todos",
       "pt": "Todos",
-      "ko": "모두"
+      "ko": "모두",
+      "fr": "Tout le monde"
     },
     "Help": {
       "ja": "ヘルプ",
