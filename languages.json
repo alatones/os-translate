@@ -479,139 +479,162 @@
       "es": "Catálogo",
       "ja": "カタログ",
       "pt": "Catálogo",
-      "ko": "카탈로그"
+      "ko": "카탈로그",
+      "fr": "Catalogue"
     },
     "Changes saved": {
       "es": "Cambios guardados",
       "ja": "変更が保存されました",
       "pt": "Alterações salvas",
-      "ko": "변경사항 저장됨"
+      "ko": "변경사항 저장됨",
+      "fr": "Modifications enregistrées"
     },
     "Channel": {
       "es": "Canal",
       "ja": "チャネル",
       "pt": "Canal",
-      "ko": "채널"
+      "ko": "채널",
+      "fr": "Canal"
     },
     "Channels": {
       "es": "Canales",
       "ja": "チャネル",
       "pt": "Canais",
-      "ko": "채널"
+      "ko": "채널",
+      "fr": "Canaux"
     },
     "Character Count": {
       "es": "Conteo de caracteres",
       "ja": "文字数",
       "pt": "Contagem de caracteres",
-      "ko": "문자 수"
+      "ko": "문자 수",
+      "fr": "Nombre de caractères"
     },
     "Chart": {
       "es": "Gráfico",
       "ja": "グラフ",
       "pt": "Gráfico",
-      "ko": "차트"
+      "ko": "차트",
+      "fr": "Graphique"
     },
     "Chrome": {
       "es": "Chrome",
       "ja": "Chrome",
       "pt": "Chrome",
-      "ko": "크롬"
+      "ko": "크롬",
+      "fr": "Chrome"
     },
     "City": {
       "es": "Ciudad",
       "ja": "市区町村",
       "pt": "Cidade",
-      "ko": "도시"
+      "ko": "도시",
+      "fr": "Ville"
     },
     "Clear": {
       "es": "Limpiar",
       "ja": "クリア",
       "pt": "Limpar",
-      "ko": "지우기"
+      "ko": "지우기",
+      "fr": "Effacer"
     },
     "Click-through Rate": {
       "es": "Tasa de clics",
       "ja": "クリック率",
       "pt": "Taxa de cliques",
-      "ko": "클릭률"
+      "ko": "클릭률",
+      "fr": "Taux de clics"
     },
     "Click-through rate": {
       "es": "Tasa de clics",
       "ja": "クリック率",
       "pt": "Taxa de cliques",
-      "ko": "클릭률"
+      "ko": "클릭률",
+      "fr": "Taux de clics"
     },
     "Clicked": {
       "es": "Clicado",
       "ja": "クリック数",
       "pt": "Clicado",
-      "ko": "클릭됨"
+      "ko": "클릭됨",
+      "fr": "Cliqué"
     },
     "Clicked:": {
       "es": "Clics:",
       "ja": "クリック済み：",
       "pt": "Cliques:",
-      "ko": "클릭:"
+      "ko": "클릭:",
+      "fr": "Cliqué :"
     },
     "Clicks": {
       "es": "Clics",
       "ja": "クリック数",
       "pt": "Cliques",
-      "ko": "클릭"
+      "ko": "클릭",
+      "fr": "Clics"
     },
     "Clicks (count)": {
       "es": "Clics (recuento)",
       "ja": "クリック数（カウント）",
       "pt": "Cliques (contagem)",
-      "ko": "클릭 수"
+      "ko": "클릭 수",
+      "fr": "Clics (nombre)"
     },
     "Clicks:": {
       "es": "Clics:",
       "ja": "クリック数：",
       "pt": "Cliques:",
-      "ko": "클릭:"
+      "ko": "클릭:",
+      "fr": "Clics :"
     },
     "Close": {
       "es": "Cerrar",
       "ja": "閉じる",
       "pt": "Fechar",
-      "ko": "닫기"
+      "ko": "닫기",
+      "fr": "Fermer"
     },
     "Communicate different value props and incentives to get your users back.": {
       "es": "Comunica diferentes propuestas de valor e incentivos para recuperar a tus usuarios.",
       "ja": "異なる価値提案やインセンティブを伝えてユーザーを呼び戻します。",
       "pt": "Comunique diferentes propostas de valor e incentivos para reconquistar seus usuários.",
-      "ko": "사용자를 다시 유도하기 위한 다양한 가치 제안과 인센티브를 전달하세요."
+      "ko": "사용자를 다시 유도하기 위한 다양한 가치 제안과 인센티브를 전달하세요.",
+      "fr": "Communiquez différentes propositions de valeur et incitations pour faire revenir vos utilisateurs."
     },
     "Compare to": {
       "es": "Comparar con",
       "ja": "比較対象",
       "pt": "Comparar com",
-      "ko": "비교 대상"
+      "ko": "비교 대상",
+      "fr": "Comparer à"
     },
     "Completed": {
       "es": "Completado",
       "ja": "完了",
       "pt": "Concluído",
-      "ko": "완료됨"
+      "ko": "완료됨",
+      "fr": "Terminé"
     },
     "Confirm": {
       "es": "Confirmar",
       "ja": "確認",
       "pt": "Confirmar",
-      "ko": "확인"
+      "ko": "확인",
+      "fr": "Confirmer"
     },
     "Confirm and Send": {
       "es": "Confirmar y enviar",
       "ja": "確認して送信",
       "pt": "Confirmar e enviar",
-      "ko": "확인 및 발송"
+      "ko": "확인 및 발송",
+      "fr": "Confirmer et envoyer"
     },
     "Confirmed": {
       "es": "Confirmado",
       "ja": "確認済み",
       "pt": "Confirmado",
-      "ko": "확인됨"
+      "ko": "확인됨",
+      "fr": "Confirmé"
     },
     "Confirmed (count)": {
       "es": "Confirmado (recuento)",
@@ -3580,31 +3603,36 @@
       "ja": "オーディエンスメニューを閉じる",
       "es": "Cerrar menú de Audiencia",
       "pt": "Fechar menu de público",
-      "ko": "대상 메뉴 닫기"
+      "ko": "대상 메뉴 닫기",
+      "fr": "Fermer le menu Audience"
     },
     "Close Data menu": {
       "ja": "データメニューを閉じる",
       "es": "Cerrar menú de Datos",
       "pt": "Fechar menu de Dados",
-      "ko": "데이터 메뉴 닫기"
+      "ko": "데이터 메뉴 닫기",
+      "fr": "Fermer le menu Données"
     },
     "Close Delivery menu": {
       "ja": "配信メニューを閉じる",
       "es": "Cerrar menú de Entrega",
       "pt": "Fechar menu de Entrega",
-      "ko": "전달 메뉴 닫기"
+      "ko": "전달 메뉴 닫기",
+      "fr": "Fermer le menu Livraison"
     },
     "Close Messages menu": {
       "ja": "メッセージメニューを閉じる",
       "es": "Cerrar menú de Mensajes",
       "pt": "Fechar menu de Mensagens",
-      "ko": "메시지 메뉴 닫기"
+      "ko": "메시지 메뉴 닫기",
+      "fr": "Fermer le menu Messages"
     },
     "Collapse navigation": {
       "ja": "ナビゲーションを折りたたむ",
       "es": "Contraer navegación",
       "pt": "Recolher navegação",
-      "ko": "탐색 접기"
+      "ko": "탐색 접기",
+      "fr": "Réduire la navigation"
     },
     "Toggle navigation": {
       "ja": "ナビゲーションの切り替え",
@@ -3971,13 +3999,15 @@
       "ja": "ドラッグ＆ドロップのビジュアルビルダーで、チャネル・キャンペーン・メッセージングロジックを組み合わせる",
       "es": "Combina canales, campañas y lógica de mensajería en nuestro creador visual de arrastrar y soltar",
       "pt": "Combine canais, campanhas e lógica de mensagens em nosso construtor visual de arrastar e soltar",
-      "ko": "드래그 앤 드롭 시각적 빌더에서 채널, 캠페인 및 메시지 로직을 결합하세요"
+      "ko": "드래그 앤 드롭 시각적 빌더에서 채널, 캠페인 및 메시지 로직을 결합하세요",
+      "fr": "Combinez canaux, campagnes et logique de messagerie dans notre éditeur visuel par glisser-déposer"
     },
     "Combine push, email, SMS, and in-app in a single Journey": {
       "ja": "プッシュ、メール、SMS、アプリ内を1つのジャーニーに組み合わせる",
       "es": "Combina push, email, SMS y mensajes en la app en un solo Journey",
       "pt": "Combine push, e-mail, SMS e mensagens no app em um único Journey",
-      "ko": "단일 저니에서 푸시, 이메일, SMS 및 인앱을 결합하세요"
+      "ko": "단일 저니에서 푸시, 이메일, SMS 및 인앱을 결합하세요",
+      "fr": "Combinez push, email, SMS et in-app dans un seul Journey"
     },
     "Create reusable messages": {
       "ja": "再利用可能なメッセージを作成",
@@ -4281,7 +4311,8 @@
       "ja": "メールがピクセルパーフェクトであることを確認",
       "es": "Confirma que los emails son perfectos al píxel",
       "pt": "Confirme que os e-mails estão pixel-perfeitos",
-      "ko": "이메일이 완벽한지 확인하세요"
+      "ko": "이메일이 완벽한지 확인하세요",
+      "fr": "Confirmez que les emails sont au pixel près"
     },
     "Manage test subscriptions to preview and send test messages.": {
       "ja": "テスト購読を管理して、テストメッセージをプレビューおよび送信する。",
@@ -4337,7 +4368,8 @@
       "ja": "アプリ外でもモバイルファーストでユーザーとコミュニケーションを取る",
       "es": "Comunícate con enfoque mobile-first con usuarios fuera de tu app",
       "pt": "Comunique-se com foco em mobile com usuários fora do seu app",
-      "ko": "앱 외부의 사용자와 모바일 우선으로 소통하세요"
+      "ko": "앱 외부의 사용자와 모바일 우선으로 소통하세요",
+      "fr": "Communiquez en mobile-first avec les utilisateurs en dehors de votre app"
     },
     "Design RCS in Figma": {
       "ja": "FigmaでRCSをデザイン",
@@ -4650,7 +4682,8 @@
       "ja": "チャネルモード",
       "es": "Modo de canal",
       "pt": "Modo de canal",
-      "ko": "채널 모드"
+      "ko": "채널 모드",
+      "fr": "Mode du canal"
     },
     "Content Available": {
       "ja": "コンテンツ利用可能",
@@ -5636,7 +5669,8 @@
       "ja": "中央揃え",
       "es": "Centrado",
       "pt": "Centralizado",
-      "ko": "가운데 정렬"
+      "ko": "가운데 정렬",
+      "fr": "Aligné au centre"
     },
     "Font family": {
       "ja": "フォントファミリー",
@@ -5714,7 +5748,8 @@
       "ja": "入力をクリア",
       "es": "Borrar entrada",
       "pt": "Limpar entrada",
-      "ko": "입력 지우기"
+      "ko": "입력 지우기",
+      "fr": "Effacer l'entrée"
     },
     "Onesignal in app message preview": {
       "ja": "OneSignalインアプリメッセージのプレビュー",
@@ -5803,19 +5838,22 @@
       "ja": "ここをクリック",
       "es": "Haz clic aquí",
       "pt": "Clique aqui",
-      "ko": "여기를 클릭"
+      "ko": "여기를 클릭",
+      "fr": "Cliquez ici"
     },
     "Close button": {
       "ja": "閉じるボタン",
       "es": "Botón de cerrar",
       "pt": "Botão de fechar",
-      "ko": "닫기 버튼"
+      "ko": "닫기 버튼",
+      "fr": "Bouton de fermeture"
     },
     "Color": {
       "ja": "色",
       "es": "Color",
       "pt": "Cor",
-      "ko": "색상"
+      "ko": "색상",
+      "fr": "Couleur"
     },
     "Corner radius": {
       "ja": "角の丸み",
@@ -6058,7 +6096,8 @@
       "ja": "中央",
       "es": "Centro",
       "pt": "Centro",
-      "ko": "중앙"
+      "ko": "중앙",
+      "fr": "Centre"
     },
     "Expand editor": {
       "ja": "エディターを展開",
@@ -6113,7 +6152,8 @@
       "ja": "クリックで切り替え",
       "es": "Haz clic para alternar",
       "pt": "Clique para alternar",
-      "ko": "클릭하여 전환"
+      "ko": "클릭하여 전환",
+      "fr": "Cliquez pour basculer"
     },
     "Entry Rules": {
       "ja": "開始ルール",
@@ -6156,13 +6196,15 @@
       "ja": "日付と時刻を選択",
       "es": "Elegir fecha y hora",
       "pt": "Escolher data e hora",
-      "ko": "날짜 및 시간 선택"
+      "ko": "날짜 및 시간 선택",
+      "fr": "Choisir la date et l'heure"
     },
     "Choose when a Journey": {
       "ja": "ジャーニーをいつ",
       "es": "Elige cuándo un Journey",
       "pt": "Escolha quando um Journey",
-      "ko": "저니가 언제"
+      "ko": "저니가 언제",
+      "fr": "Choisissez quand un Journey"
     },
     "Custom Event": {
       "ja": "カスタムイベント",
@@ -6555,7 +6597,8 @@
       "ja": "開始するジャーニーを選択",
       "es": "Elige un Journey para empezar",
       "pt": "Escolha um Journey para começar",
-      "ko": "시작할 저니 선택"
+      "ko": "시작할 저니 선택",
+      "fr": "Choisissez un Journey pour commencer"
     },
     "Describe the purpose of this Journey...": {
       "ja": "このジャーニーの目的を記述...",
@@ -6692,7 +6735,8 @@
       "ja": "カテゴリ",
       "es": "Categoría",
       "pt": "Categoria",
-      "ko": "카테고리"
+      "ko": "카테고리",
+      "fr": "Catégorie"
     },
     "Icon": {
       "ja": "アイコン",
@@ -6799,13 +6843,15 @@
       "ja": "Chromeアクションボタン",
       "es": "Botones de acción de Chrome",
       "pt": "Botões de ação do Chrome",
-      "ko": "Chrome 액션 버튼"
+      "ko": "Chrome 액션 버튼",
+      "fr": "Boutons d'action Chrome"
     },
     "Collapse ID": {
       "ja": "折りたたみID",
       "es": "ID de colapso",
       "pt": "ID de recolhimento",
-      "ko": "접기 ID"
+      "ko": "접기 ID",
+      "fr": "ID de regroupement"
     },
     "Content available": {
       "ja": "コンテンツ利用可能",
@@ -8115,7 +8161,8 @@
       "ja": "行を折りたたむ",
       "es": "Contraer fila",
       "pt": "Recolher linha",
-      "ko": "행 접기"
+      "ko": "행 접기",
+      "fr": "Réduire la ligne"
     },
     "Copy code": {
       "ja": "コードをコピー",
@@ -8372,13 +8419,15 @@
       "ja": "チャネル文書。",
       "es": "Documentación de canales.",
       "pt": "Documentação de canais.",
-      "ko": "채널 문서."
+      "ko": "채널 문서.",
+      "fr": "Documentation des canaux."
     },
     "Chrome Extensions": {
       "ja": "Chrome拡張機能",
       "es": "Extensiones de Chrome",
       "pt": "Extensões do Chrome",
-      "ko": "Chrome 확장 프로그램"
+      "ko": "Chrome 확장 프로그램",
+      "fr": "Extensions Chrome"
     },
     "Google Android (FCM)": {
       "ja": "Google Android (FCM)",
@@ -8781,7 +8830,8 @@
       "ja": "チャネル文書",
       "es": "Documentación de canales",
       "pt": "Documentação de canais",
-      "ko": "채널 문서"
+      "ko": "채널 문서",
+      "fr": "Documentation des canaux"
     },
     "Cap the amount of messages users receive": {
       "ja": "ユーザーが受信するメッセージ数を制限",
