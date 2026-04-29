@@ -8565,7 +8565,8 @@
       "pt": "Sombra projetada X",
       "ko": "그림자 X",
       "fr": "Ombre portée X",
-      "tr": "Gölge X"
+      "tr": "Gölge X",
+      "zh-CN": "阴影 X"
     },
     "Drop shadow Y": {
       "ja": "ドロップシャドウY",
@@ -8573,7 +8574,8 @@
       "pt": "Sombra projetada Y",
       "ko": "그림자 Y",
       "fr": "Ombre portée Y",
-      "tr": "Gölge Y"
+      "tr": "Gölge Y",
+      "zh-CN": "阴影 Y"
     },
     "Drop shadow blur": {
       "ja": "ドロップシャドウのぼかし",
@@ -8581,7 +8583,8 @@
       "pt": "Desfoque da sombra",
       "ko": "그림자 흐림",
       "fr": "Flou de l'ombre portée",
-      "tr": "Gölge bulanıklığı"
+      "tr": "Gölge bulanıklığı",
+      "zh-CN": "阴影模糊"
     },
     "Drop shadow color": {
       "ja": "ドロップシャドウの色",
@@ -8589,7 +8592,8 @@
       "pt": "Cor da sombra",
       "ko": "그림자 색상",
       "fr": "Couleur de l'ombre portée",
-      "tr": "Gölge rengi"
+      "tr": "Gölge rengi",
+      "zh-CN": "阴影颜色"
     },
     "Drop shadow spread": {
       "ja": "ドロップシャドウの広がり",
@@ -8597,7 +8601,8 @@
       "pt": "Espalhamento da sombra",
       "ko": "그림자 확산",
       "fr": "Extension de l'ombre portée",
-      "tr": "Gölge yayılımı"
+      "tr": "Gölge yayılımı",
+      "zh-CN": "阴影扩散"
     },
     "Every time trigger conditions are satisfied": {
       "ja": "トリガー条件が満たされるたびに",
@@ -8605,7 +8610,8 @@
       "pt": "Cada vez que as condições do gatilho forem satisfeitas",
       "ko": "트리거 조건이 충족될 때마다",
       "fr": "À chaque fois que les conditions du déclencheur sont remplies",
-      "tr": "Tetikleyici koşulları her karşılandığında"
+      "tr": "Tetikleyici koşulları her karşılandığında",
+      "zh-CN": "每次满足触发条件时"
     },
     "Font color": {
       "ja": "フォントの色",
@@ -8613,7 +8619,8 @@
       "pt": "Cor da fonte",
       "ko": "글꼴 색상",
       "fr": "Couleur de la police",
-      "tr": "Yazı tipi rengi"
+      "tr": "Yazı tipi rengi",
+      "zh-CN": "字体颜色"
     },
     "Heading": {
       "ja": "見出し",
@@ -8621,7 +8628,8 @@
       "pt": "Cabeçalho",
       "ko": "제목",
       "fr": "Titre",
-      "tr": "Başlık"
+      "tr": "Başlık",
+      "zh-CN": "标题"
     },
     "Height": {
       "ja": "高さ",
@@ -8629,7 +8637,8 @@
       "pt": "Altura",
       "ko": "높이",
       "fr": "Hauteur",
-      "tr": "Yükseklik"
+      "tr": "Yükseklik",
+      "zh-CN": "高度"
     },
     "How often do you want to show this message?": {
       "ja": "このメッセージを表示する頻度はどれくらいですか？",
@@ -8637,7 +8646,8 @@
       "pt": "Com que frequência você deseja exibir esta mensagem?",
       "ko": "이 메시지를 얼마나 자주 표시할까요?",
       "fr": "À quelle fréquence souhaitez-vous afficher ce message ?",
-      "tr": "Bu mesajı ne sıklıkla göstermek istiyorsunuz?"
+      "tr": "Bu mesajı ne sıklıkla göstermek istiyorsunuz?",
+      "zh-CN": "您希望多久显示一次此消息？"
     },
     "Image": {
       "ja": "画像",
@@ -8645,7 +8655,8 @@
       "pt": "Imagem",
       "ko": "이미지",
       "fr": "Image",
-      "tr": "Görsel"
+      "tr": "Görsel",
+      "zh-CN": "图像"
     },
     "Image 1": {
       "ja": "画像1",
@@ -8653,7 +8664,8 @@
       "pt": "Imagem 1",
       "ko": "이미지 1",
       "fr": "Image 1",
-      "tr": "Görsel 1"
+      "tr": "Görsel 1",
+      "zh-CN": "图像 1"
     },
     "Padding": {
       "ja": "パディング",
@@ -8661,7 +8673,8 @@
       "pt": "Preenchimento",
       "ko": "안쪽 여백",
       "fr": "Marge intérieure",
-      "tr": "İç kenar boşluğu"
+      "tr": "İç kenar boşluğu",
+      "zh-CN": "内边距"
     },
     "Width": {
       "ja": "幅",
@@ -8669,7 +8682,8 @@
       "pt": "Largura",
       "ko": "너비",
       "fr": "Largeur",
-      "tr": "Genişlik"
+      "tr": "Genişlik",
+      "zh-CN": "宽度"
     },
     "Loading Message and App Info. Please wait a moment...": {
       "ja": "メッセージとアプリ情報を読み込み中。しばらくお待ちください...",
@@ -8677,7 +8691,8 @@
       "pt": "Carregando mensagem e informações do app. Aguarde um momento...",
       "ko": "메시지 및 앱 정보를 로드하는 중입니다. 잠시만 기다려 주세요...",
       "fr": "Chargement des informations du message et de l'app. Patientez un instant...",
-      "tr": "Mesaj ve uygulama bilgisi yükleniyor. Lütfen bir an bekleyin..."
+      "tr": "Mesaj ve uygulama bilgisi yükleniyor. Lütfen bir an bekleyin...",
+      "zh-CN": "正在加载消息和应用信息。请稍候..."
     },
     "Multiple times": {
       "ja": "複数回",
@@ -8685,7 +8700,8 @@
       "pt": "Várias vezes",
       "ko": "여러 번",
       "fr": "Plusieurs fois",
-      "tr": "Birden çok kez"
+      "tr": "Birden çok kez",
+      "zh-CN": "多次"
     },
     "New In-App Message": {
       "ja": "新しいインアプリメッセージ",
@@ -8693,7 +8709,8 @@
       "pt": "Nova mensagem in-app",
       "ko": "새 인앱 메시지",
       "fr": "Nouveau message In-App",
-      "tr": "Yeni in-app mesajı"
+      "tr": "Yeni in-app mesajı",
+      "zh-CN": "新 In-App 消息"
     },
     "On app open": {
       "ja": "アプリ起動時",
@@ -8701,7 +8718,8 @@
       "pt": "Ao abrir o aplicativo",
       "ko": "앱 열 때",
       "fr": "À l'ouverture de l'app",
-      "tr": "Uygulama açıldığında"
+      "tr": "Uygulama açıldığında",
+      "zh-CN": "应用打开时"
     },
     "Only once": {
       "ja": "1回のみ",
@@ -8709,7 +8727,8 @@
       "pt": "Apenas uma vez",
       "ko": "한 번만",
       "fr": "Une seule fois",
-      "tr": "Yalnızca bir kez"
+      "tr": "Yalnızca bir kez",
+      "zh-CN": "仅一次"
     },
     "Portrait orientation": {
       "ja": "縦向き",
@@ -8717,7 +8736,8 @@
       "pt": "Orientação retrato",
       "ko": "세로 방향",
       "fr": "Orientation portrait",
-      "tr": "Dikey yönlendirme"
+      "tr": "Dikey yönlendirme",
+      "zh-CN": "竖屏方向"
     },
     "Review & set live": {
       "ja": "確認してライブ化",
@@ -8725,7 +8745,8 @@
       "pt": "Revisar e ativar",
       "ko": "검토 및 라이브 설정",
       "fr": "Vérifier et publier",
-      "tr": "İncele ve yayına al"
+      "tr": "İncele ve yayına al",
+      "zh-CN": "审核并上线"
     },
     "Show forever": {
       "ja": "常に表示",
@@ -8733,7 +8754,8 @@
       "pt": "Mostrar para sempre",
       "ko": "항상 표시",
       "fr": "Afficher en permanence",
-      "tr": "Her zaman göster"
+      "tr": "Her zaman göster",
+      "zh-CN": "永久显示"
     },
     "Show to all users": {
       "ja": "すべてのユーザーに表示",
@@ -8741,7 +8763,8 @@
       "pt": "Mostrar a todos os usuários",
       "ko": "모든 사용자에게 표시",
       "fr": "Afficher à tous les utilisateurs",
-      "tr": "Tüm kullanıcılara göster"
+      "tr": "Tüm kullanıcılara göster",
+      "zh-CN": "显示给所有用户"
     },
     "Show to particular Segment(s)": {
       "ja": "特定のセグメントに表示",
@@ -8749,7 +8772,8 @@
       "pt": "Mostrar a segmento(s) específico(s)",
       "ko": "특정 세그먼트에 표시",
       "fr": "Afficher à des segments spécifiques",
-      "tr": "Belirli segment(ler)e göster"
+      "tr": "Belirli segment(ler)e göster",
+      "zh-CN": "显示给特定 Segment"
     },
     "Show until dismissed": {
       "ja": "閉じるまで表示",
@@ -8757,7 +8781,8 @@
       "pt": "Mostrar até ser descartado",
       "ko": "닫을 때까지 표시",
       "fr": "Afficher jusqu'à fermeture",
-      "tr": "Kapatılana kadar göster"
+      "tr": "Kapatılana kadar göster",
+      "zh-CN": "显示直到关闭"
     },
     "Start showing": {
       "ja": "表示開始",
@@ -8765,7 +8790,8 @@
       "pt": "Iniciar exibição",
       "ko": "표시 시작",
       "fr": "Commencer l'affichage",
-      "tr": "Göstermeye başla"
+      "tr": "Göstermeye başla",
+      "zh-CN": "开始显示"
     },
     "Stop showing": {
       "ja": "表示停止",
@@ -8773,7 +8799,8 @@
       "pt": "Parar exibição",
       "ko": "표시 중지",
       "fr": "Arrêter l'affichage",
-      "tr": "Göstermeyi durdur"
+      "tr": "Göstermeyi durdur",
+      "zh-CN": "停止显示"
     },
     "Switch editor": {
       "ja": "エディターを切り替え",
@@ -8781,7 +8808,8 @@
       "pt": "Alternar editor",
       "ko": "편집기 전환",
       "fr": "Changer d'éditeur",
-      "tr": "Düzenleyiciyi değiştir"
+      "tr": "Düzenleyiciyi değiştir",
+      "zh-CN": "切换编辑器"
     },
     "Text": {
       "ja": "テキスト",
@@ -8789,7 +8817,8 @@
       "pt": "Texto",
       "ko": "텍스트",
       "fr": "Texte",
-      "tr": "Metin"
+      "tr": "Metin",
+      "zh-CN": "文本"
     },
     "Text 1": {
       "ja": "テキスト1",
@@ -8797,7 +8826,8 @@
       "pt": "Texto 1",
       "ko": "텍스트 1",
       "fr": "Texte 1",
-      "tr": "Metin 1"
+      "tr": "Metin 1",
+      "zh-CN": "文本 1"
     },
     "Visual editing with image and text blocks.": {
       "ja": "画像とテキストブロックでの視覚編集。",
@@ -8805,7 +8835,8 @@
       "pt": "Edição visual com blocos de imagem e texto.",
       "ko": "이미지 및 텍스트 블록을 사용한 시각적 편집.",
       "fr": "Édition visuelle avec des blocs image et texte.",
-      "tr": "Görsel ve metin bloklarıyla görsel düzenleme."
+      "tr": "Görsel ve metin bloklarıyla görsel düzenleme.",
+      "zh-CN": "使用图像和文本块进行可视化编辑。"
     },
     "When certain conditions are satisfied during the session": {
       "ja": "セッション中に特定の条件が満たされたとき",
@@ -8813,7 +8844,8 @@
       "pt": "Quando certas condições forem satisfeitas durante a sessão",
       "ko": "세션 중 특정 조건이 충족될 때",
       "fr": "Lorsque certaines conditions sont remplies pendant la session",
-      "tr": "Oturum sırasında belirli koşullar karşılandığında"
+      "tr": "Oturum sırasında belirli koşullar karşılandığında",
+      "zh-CN": "会话期间满足特定条件时"
     },
     "When should this message dismiss?": {
       "ja": "このメッセージはいつ閉じますか？",
@@ -8821,7 +8853,8 @@
       "pt": "Quando esta mensagem deve ser descartada?",
       "ko": "이 메시지를 언제 닫아야 하나요?",
       "fr": "Quand ce message doit-il être fermé ?",
-      "tr": "Bu mesaj ne zaman kapatılmalı?"
+      "tr": "Bu mesaj ne zaman kapatılmalı?",
+      "zh-CN": "此消息何时关闭？"
     },
     "When should users see this message?": {
       "ja": "ユーザーはいつこのメッセージを見るべきですか？",
@@ -8829,7 +8862,8 @@
       "pt": "Quando os usuários devem ver esta mensagem?",
       "ko": "사용자가 언제 이 메시지를 봐야 하나요?",
       "fr": "Quand les utilisateurs doivent-ils voir ce message ?",
-      "tr": "Kullanıcılar bu mesajı ne zaman görmeli?"
+      "tr": "Kullanıcılar bu mesajı ne zaman görmeli?",
+      "zh-CN": "用户何时应看到此消息？"
     },
     "Add block": {
       "ja": "ブロックを追加",
@@ -8837,7 +8871,8 @@
       "pt": "Adicionar bloco",
       "ko": "블록 추가",
       "fr": "Ajouter un bloc",
-      "tr": "Blok ekle"
+      "tr": "Blok ekle",
+      "zh-CN": "添加块"
     },
     "Allow iframe JavaScript execution": {
       "ja": "iframeのJavaScript実行を許可",
@@ -8845,7 +8880,8 @@
       "pt": "Permitir execução de JavaScript em iframes",
       "ko": "iframe JavaScript 실행 허용",
       "fr": "Autoriser l'exécution de JavaScript dans les iframes",
-      "tr": "iframe JavaScript çalıştırmasına izin ver"
+      "tr": "iframe JavaScript çalıştırmasına izin ver",
+      "zh-CN": "允许 iframe 执行 JavaScript"
     },
     "Bottom": {
       "ja": "下",
@@ -8853,7 +8889,8 @@
       "pt": "Inferior",
       "ko": "아래",
       "fr": "Bas",
-      "tr": "Alt"
+      "tr": "Alt",
+      "zh-CN": "底部"
     },
     "Center": {
       "ja": "中央",
@@ -8861,7 +8898,8 @@
       "pt": "Centro",
       "ko": "중앙",
       "fr": "Centre",
-      "tr": "Orta"
+      "tr": "Orta",
+      "zh-CN": "中心"
     },
     "Expand editor": {
       "ja": "エディターを展開",
@@ -8869,7 +8907,8 @@
       "pt": "Expandir editor",
       "ko": "편집기 펼치기",
       "fr": "Agrandir l'éditeur",
-      "tr": "Düzenleyiciyi genişlet"
+      "tr": "Düzenleyiciyi genişlet",
+      "zh-CN": "展开编辑器"
     },
     "Full": {
       "ja": "フル",
@@ -8877,7 +8916,8 @@
       "pt": "Completa",
       "ko": "전체",
       "fr": "Complet",
-      "tr": "Tam"
+      "tr": "Tam",
+      "zh-CN": "全屏"
     },
     "Light mode": {
       "ja": "ライトモード",
@@ -8885,7 +8925,8 @@
       "pt": "Modo claro",
       "ko": "라이트 모드",
       "fr": "Mode clair",
-      "tr": "Açık mod"
+      "tr": "Açık mod",
+      "zh-CN": "浅色模式"
     },
     "Portrait": {
       "ja": "縦向き",
@@ -8893,7 +8934,8 @@
       "pt": "Retrato",
       "ko": "세로",
       "fr": "Portrait",
-      "tr": "Dikey"
+      "tr": "Dikey",
+      "zh-CN": "竖屏"
     },
     "Top": {
       "ja": "上",
@@ -8901,7 +8943,8 @@
       "pt": "Superior",
       "ko": "위",
       "fr": "Haut",
-      "tr": "Üst"
+      "tr": "Üst",
+      "zh-CN": "顶部"
     },
     "In-App JS library": {
       "ja": "インアプリJSライブラリ",
@@ -8909,7 +8952,8 @@
       "pt": "Biblioteca JS in-app",
       "ko": "인앱 JS 라이브러리",
       "fr": "Bibliothèque JS in-app",
-      "tr": "In-App JS kütüphanesi"
+      "tr": "In-App JS kütüphanesi",
+      "zh-CN": "In-App JS 库"
     },
     "Exit Rules": {
       "ja": "終了ルール",
@@ -8917,7 +8961,8 @@
       "pt": "Regras de saída",
       "ko": "종료 규칙",
       "fr": "Règles de sortie",
-      "tr": "Çıkış kuralları"
+      "tr": "Çıkış kuralları",
+      "zh-CN": "退出规则"
     },
     "Audience Segment": {
       "ja": "オーディエンスセグメント",
@@ -8925,7 +8970,8 @@
       "pt": "Segmento de público",
       "ko": "대상 세그먼트",
       "fr": "Segment d'audience",
-      "tr": "Hedef kitle segmenti"
+      "tr": "Hedef kitle segmenti",
+      "zh-CN": "受众 Segment"
     },
     "Click to toggle": {
       "ja": "クリックで切り替え",
@@ -8933,7 +8979,8 @@
       "pt": "Clique para alternar",
       "ko": "클릭하여 전환",
       "fr": "Cliquez pour basculer",
-      "tr": "Açıp kapatmak için tıklayın"
+      "tr": "Açıp kapatmak için tıklayın",
+      "zh-CN": "点击切换"
     },
     "Entry Rules": {
       "ja": "開始ルール",
@@ -8941,7 +8988,8 @@
       "pt": "Regras de entrada",
       "ko": "진입 규칙",
       "fr": "Règles d'entrée",
-      "tr": "Giriş kuralları"
+      "tr": "Giriş kuralları",
+      "zh-CN": "进入规则"
     },
     "Hour": {
       "ja": "時",
@@ -8949,7 +8997,8 @@
       "pt": "Hora",
       "ko": "시",
       "fr": "Heure",
-      "tr": "Saat"
+      "tr": "Saat",
+      "zh-CN": "小时"
     },
     "Minute": {
       "ja": "分",
@@ -8957,7 +9006,8 @@
       "pt": "Minuto",
       "ko": "분",
       "fr": "Minute",
-      "tr": "Dakika"
+      "tr": "Dakika",
+      "zh-CN": "分钟"
     },
     "What segment(s) should be": {
       "ja": "どのセグメントが",
