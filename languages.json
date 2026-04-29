@@ -10815,7 +10815,8 @@
       "pt": "Uso em nível de aplicativo",
       "ko": "애플리케이션 수준 사용량",
       "fr": "Utilisation au niveau de l'application",
-      "tr": "Uygulama düzeyinde kullanım"
+      "tr": "Uygulama düzeyinde kullanım",
+      "zh-CN": "应用级别使用情况"
     },
     "Billable Email Sends": {
       "ja": "課金対象のメール送信",
@@ -10823,7 +10824,8 @@
       "pt": "Envios de email faturáveis",
       "ko": "청구 가능한 이메일 발송",
       "fr": "Envois d'email facturables",
-      "tr": "Faturalanabilir email gönderimleri"
+      "tr": "Faturalanabilir email gönderimleri",
+      "zh-CN": "可计费 Email 发送"
     },
     "DWH": {
       "ja": "DWH",
@@ -10831,7 +10833,8 @@
       "pt": "DWH",
       "ko": "DWH",
       "fr": "DWH",
-      "tr": "DWH"
+      "tr": "DWH",
+      "zh-CN": "DWH"
     },
     "Data Warehouse Event Export": {
       "ja": "データウェアハウスイベントエクスポート",
@@ -10839,7 +10842,8 @@
       "pt": "Exportação de eventos de Data Warehouse",
       "ko": "데이터 웨어하우스 이벤트 내보내기",
       "fr": "Export d'événements vers Data Warehouse",
-      "tr": "Data Warehouse etkinlik dışa aktarımı"
+      "tr": "Data Warehouse etkinlik dışa aktarımı",
+      "zh-CN": "Data Warehouse 事件导出"
     },
     "Event counts include all tracked events processed through both data warehouse exports and event streams.": {
       "ja": "イベント数には、データウェアハウスエクスポートおよびイベントストリームの両方で処理された追跡対象イベントが含まれます。",
@@ -10847,7 +10851,8 @@
       "pt": "A contagem de eventos inclui todos os eventos rastreados processados por exportações de data warehouse e event streams.",
       "ko": "이벤트 수에는 데이터 웨어하우스 내보내기 및 이벤트 스트림 모두를 통해 처리된 모든 추적 이벤트가 포함됩니다.",
       "fr": "Le nombre d'événements inclut tous les événements suivis traités à la fois via les exports vers le data warehouse et les flux d'événements.",
-      "tr": "Etkinlik sayıları, hem data warehouse dışa aktarımları hem de event stream'ler aracılığıyla işlenen tüm izlenen etkinlikleri içerir."
+      "tr": "Etkinlik sayıları, hem data warehouse dışa aktarımları hem de event stream'ler aracılığıyla işlenen tüm izlenen etkinlikleri içerir.",
+      "zh-CN": "事件计数包括通过数据仓库导出和事件流处理的所有跟踪事件。"
     },
     "Events Export Breakdown": {
       "ja": "イベントエクスポートの内訳",
@@ -10855,7 +10860,8 @@
       "pt": "Detalhamento de exportação de eventos",
       "ko": "이벤트 내보내기 분석",
       "fr": "Détail de l'export d'événements",
-      "tr": "Etkinlik dışa aktarım dökümü"
+      "tr": "Etkinlik dışa aktarım dökümü",
+      "zh-CN": "事件导出明细"
     },
     "In-App Impressions": {
       "ja": "インアプリの表示回数",
@@ -10863,7 +10869,8 @@
       "pt": "Impressões in-app",
       "ko": "인앱 노출 수",
       "fr": "Impressions in-app",
-      "tr": "In-App gösterimleri"
+      "tr": "In-App gösterimleri",
+      "zh-CN": "In-App 展示"
     },
     "Next cycle starts on": {
       "ja": "次のサイクル開始日",
@@ -10871,7 +10878,8 @@
       "pt": "O próximo ciclo começa em",
       "ko": "다음 주기 시작일",
       "fr": "Le prochain cycle commence le",
-      "tr": "Sonraki dönem şu tarihte başlar:"
+      "tr": "Sonraki dönem şu tarihte başlar:",
+      "zh-CN": "下一周期开始于"
     },
     "Plan Type": {
       "ja": "プランタイプ",
@@ -10879,7 +10887,8 @@
       "pt": "Tipo de plano",
       "ko": "플랜 유형",
       "fr": "Type de plan",
-      "tr": "Plan türü"
+      "tr": "Plan türü",
+      "zh-CN": "套餐类型"
     },
     "Push Subscribers": {
       "ja": "プッシュ購読者",
@@ -10887,7 +10896,8 @@
       "pt": "Assinantes de push",
       "ko": "푸시 구독자",
       "fr": "Abonnés push",
-      "tr": "Push aboneleri"
+      "tr": "Push aboneleri",
+      "zh-CN": "Push 订阅者"
     },
     "See Breakdown": {
       "ja": "内訳を見る",
@@ -10895,7 +10905,8 @@
       "pt": "Ver detalhamento",
       "ko": "분석 보기",
       "fr": "Voir le détail",
-      "tr": "Dökümü görüntüle"
+      "tr": "Dökümü görüntüle",
+      "zh-CN": "查看明细"
     },
     "See pricing and feature comparison.": {
       "ja": "料金と機能の比較を見る。",
@@ -10903,7 +10914,8 @@
       "pt": "Ver comparação de preços e recursos.",
       "ko": "가격 및 기능 비교 보기.",
       "fr": "Voir la comparaison des tarifs et fonctionnalités.",
-      "tr": "Fiyat ve özellik karşılaştırmasını görüntüleyin."
+      "tr": "Fiyat ve özellik karşılaştırmasını görüntüleyin.",
+      "zh-CN": "查看价格和功能对比。"
     },
     "Streaming Events": {
       "ja": "ストリーミングイベント",
@@ -10911,7 +10923,8 @@
       "pt": "Eventos de streaming",
       "ko": "스트리밍 이벤트",
       "fr": "Événements en streaming",
-      "tr": "Akışlı etkinlikler"
+      "tr": "Akışlı etkinlikler",
+      "zh-CN": "流式事件"
     },
     "Subscription Cycle": {
       "ja": "購読サイクル",
@@ -10919,7 +10932,8 @@
       "pt": "Ciclo de assinatura",
       "ko": "구독 주기",
       "fr": "Cycle d'abonnement",
-      "tr": "Abonelik dönemi"
+      "tr": "Abonelik dönemi",
+      "zh-CN": "订阅周期"
     },
     "Blank SMS / RCS": {
       "ja": "空のSMS / RCS",
@@ -10927,7 +10941,8 @@
       "pt": "SMS / RCS em branco",
       "ko": "빈 SMS / RCS",
       "fr": "SMS / RCS vierge",
-      "tr": "Boş SMS / RCS"
+      "tr": "Boş SMS / RCS",
+      "zh-CN": "空白 SMS / RCS"
     },
     "Double opt-in": {
       "ja": "ダブルオプトイン",
@@ -10935,7 +10950,8 @@
       "pt": "Opt-in duplo",
       "ko": "이중 옵트인",
       "fr": "Double opt-in",
-      "tr": "Çift onay"
+      "tr": "Çift onay",
+      "zh-CN": "双重确认"
     },
     "Add action": {
       "ja": "アクションを追加",
@@ -10943,7 +10959,8 @@
       "pt": "Adicionar ação",
       "ko": "액션 추가",
       "fr": "Ajouter une action",
-      "tr": "Eylem ekle"
+      "tr": "Eylem ekle",
+      "zh-CN": "添加操作"
     },
     "Basic": {
       "ja": "ベーシック",
@@ -10951,7 +10968,8 @@
       "pt": "Básico",
       "ko": "기본",
       "fr": "Basique",
-      "tr": "Temel"
+      "tr": "Temel",
+      "zh-CN": "基础"
     },
     "Cost guide": {
       "ja": "料金ガイド",
@@ -10959,7 +10977,8 @@
       "pt": "Guia de custos",
       "ko": "비용 가이드",
       "fr": "Guide des tarifs",
-      "tr": "Maliyet kılavuzu"
+      "tr": "Maliyet kılavuzu",
+      "zh-CN": "费用指南"
     },
     "Create carousel": {
       "ja": "カルーセルを作成",
@@ -10967,7 +10986,8 @@
       "pt": "Criar carrossel",
       "ko": "캐러셀 만들기",
       "fr": "Créer un carrousel",
-      "tr": "Karusel oluştur"
+      "tr": "Karusel oluştur",
+      "zh-CN": "创建轮播"
     },
     "Global:": {
       "ja": "グローバル:",
@@ -10975,7 +10995,8 @@
       "pt": "Global:",
       "ko": "글로벌:",
       "fr": "Global :",
-      "tr": "Genel:"
+      "tr": "Genel:",
+      "zh-CN": "全球:"
     },
     "Local path or URL to image": {
       "ja": "画像へのローカルパスまたはURL",
@@ -10983,7 +11004,8 @@
       "pt": "Caminho local ou URL da imagem",
       "ko": "이미지의 로컬 경로 또는 URL",
       "fr": "Chemin local ou URL de l'image",
-      "tr": "Görsel için yerel yol veya URL"
+      "tr": "Görsel için yerel yol veya URL",
+      "zh-CN": "图像的本地路径或 URL"
     },
     "RCS": {
       "ja": "RCS",
@@ -10991,7 +11013,8 @@
       "pt": "RCS",
       "ko": "RCS",
       "fr": "RCS",
-      "tr": "RCS"
+      "tr": "RCS",
+      "zh-CN": "RCS"
     },
     "RCS billing documentation": {
       "ja": "RCS課金文書",
@@ -10999,7 +11022,8 @@
       "pt": "Documentação de cobrança RCS",
       "ko": "RCS 청구 문서",
       "fr": "Documentation de facturation RCS",
-      "tr": "RCS faturalama dokümantasyonu"
+      "tr": "RCS faturalama dokümantasyonu",
+      "zh-CN": "RCS 计费文档"
     },
     "Rich": {
       "ja": "リッチ",
@@ -11007,7 +11031,8 @@
       "pt": "Rich",
       "ko": "리치",
       "fr": "Enrichi",
-      "tr": "Zengin"
+      "tr": "Zengin",
+      "zh-CN": "富媒体"
     },
     "SMS fallback": {
       "ja": "SMSフォールバック",
@@ -11015,7 +11040,8 @@
       "pt": "Fallback SMS",
       "ko": "SMS 폴백",
       "fr": "Repli SMS",
-      "tr": "SMS yedek"
+      "tr": "SMS yedek",
+      "zh-CN": "SMS 回退"
     },
     "US:": {
       "ja": "米国:",
@@ -11023,7 +11049,8 @@
       "pt": "EUA:",
       "ko": "미국:",
       "fr": "États-Unis :",
-      "tr": "ABD:"
+      "tr": "ABD:",
+      "zh-CN": "美国:"
     },
     "Your message here": {
       "ja": "ここにメッセージを入力",
@@ -11031,7 +11058,8 @@
       "pt": "Sua mensagem aqui",
       "ko": "여기에 메시지 입력",
       "fr": "Votre message ici",
-      "tr": "Mesajınız burada"
+      "tr": "Mesajınız burada",
+      "zh-CN": "您的消息在此处"
     },
     "Your title here": {
       "ja": "ここにタイトルを入力",
@@ -11039,7 +11067,8 @@
       "pt": "Seu título aqui",
       "ko": "여기에 제목 입력",
       "fr": "Votre titre ici",
-      "tr": "Başlığınız burada"
+      "tr": "Başlığınız burada",
+      "zh-CN": "您的标题在此处"
     },
     "message": {
       "ja": "メッセージ",
@@ -11047,7 +11076,8 @@
       "pt": "mensagem",
       "ko": "메시지",
       "fr": "message",
-      "tr": "mesaj"
+      "tr": "mesaj",
+      "zh-CN": "消息"
     },
     "segment": {
       "ja": "セグメント",
@@ -11055,7 +11085,8 @@
       "pt": "segmento",
       "ko": "세그먼트",
       "fr": "segment",
-      "tr": "segment"
+      "tr": "segment",
+      "zh-CN": "segment"
     },
     "From": {
       "ja": "送信元",
@@ -11063,7 +11094,8 @@
       "pt": "De",
       "ko": "발신자",
       "fr": "De",
-      "tr": "Kimden"
+      "tr": "Kimden",
+      "zh-CN": "从"
     },
     "Upload": {
       "ja": "アップロード",
@@ -11071,7 +11103,8 @@
       "pt": "Enviar",
       "ko": "업로드",
       "fr": "Téléverser",
-      "tr": "Yükle"
+      "tr": "Yükle",
+      "zh-CN": "上传"
     },
     "Contact us": {
       "ja": "お問い合わせ",
@@ -11079,7 +11112,8 @@
       "pt": "Fale conosco",
       "ko": "문의하기",
       "fr": "Nous contacter",
-      "tr": "Bizimle iletişime geçin"
+      "tr": "Bizimle iletişime geçin",
+      "zh-CN": "联系我们"
     },
     "1. Format a CSV": {
       "ja": "1. CSVをフォーマット",
@@ -11087,7 +11121,8 @@
       "pt": "1. Formatar um CSV",
       "ko": "1. CSV 형식 지정",
       "fr": "1. Formater un CSV",
-      "tr": "1. Bir CSV biçimlendirin"
+      "tr": "1. Bir CSV biçimlendirin",
+      "zh-CN": "1. 格式化 CSV"
     },
     "2. Upload CSV": {
       "ja": "2. CSVをアップロード",
@@ -11095,7 +11130,8 @@
       "pt": "2. Carregar CSV",
       "ko": "2. CSV 업로드",
       "fr": "2. Importer le CSV",
-      "tr": "2. CSV yükleyin"
+      "tr": "2. CSV yükleyin",
+      "zh-CN": "2. 上传 CSV"
     },
     "3. Apply Liquid Syntax": {
       "ja": "3. Liquid構文を適用",
@@ -11103,7 +11139,8 @@
       "pt": "3. Aplicar sintaxe Liquid",
       "ko": "3. Liquid 구문 적용",
       "fr": "3. Appliquer la syntaxe Liquid",
-      "tr": "3. Liquid sözdizimini uygulayın"
+      "tr": "3. Liquid sözdizimini uygulayın",
+      "zh-CN": "3. 应用 Liquid 语法"
     },
     "Copy and paste the following": {
       "ja": "次をコピー＆ペーストしてください",
@@ -11111,7 +11148,8 @@
       "pt": "Copie e cole o seguinte",
       "ko": "다음을 복사하여 붙여넣기",
       "fr": "Copiez et collez ce qui suit",
-      "tr": "Aşağıdakini kopyalayıp yapıştırın"
+      "tr": "Aşağıdakini kopyalayıp yapıştırın",
+      "zh-CN": "复制并粘贴以下内容"
     },
     "Dynamic Content documentation": {
       "ja": "ダイナミックコンテンツ文書",
@@ -11119,7 +11157,8 @@
       "pt": "Documentação de conteúdo dinâmico",
       "ko": "동적 콘텐츠 문서",
       "fr": "Documentation du contenu dynamique",
-      "tr": "Dinamik içerik dokümantasyonu"
+      "tr": "Dinamik içerik dokümantasyonu",
+      "zh-CN": "动态内容文档"
     },
     "Dynamic content allows you to build personalized messages with specific content for different audience groups. Using": {
       "ja": "ダイナミックコンテンツを使うと、オーディエンスグループごとに特定のコンテンツを使った個別化メッセージを作成できます。使用方法:",
@@ -11127,7 +11166,8 @@
       "pt": "O conteúdo dinâmico permite construir mensagens personalizadas com conteúdo específico para diferentes grupos de público. Usando",
       "ko": "동적 콘텐츠를 통해 다양한 대상 그룹에 맞춘 특정 콘텐츠로 개인화된 메시지를 만들 수 있습니다. 사용:",
       "fr": "Le contenu dynamique vous permet de créer des messages personnalisés avec du contenu spécifique pour différents groupes d'audience. En utilisant",
-      "tr": "Dinamik içerik, farklı hedef kitle grupları için özel içerikle kişiselleştirilmiş mesajlar oluşturmanıza olanak tanır. Şunu kullanarak:"
+      "tr": "Dinamik içerik, farklı hedef kitle grupları için özel içerikle kişiselleştirilmiş mesajlar oluşturmanıza olanak tanır. Şunu kullanarak:",
+      "zh-CN": "动态内容让您能够为不同的受众群体构建带有特定内容的个性化消息。使用"
     },
     "Empty state portrayed as a ghost": {
       "ja": "ゴーストとして表現された空の状態",
@@ -11135,7 +11175,8 @@
       "pt": "Estado vazio representado como um fantasma",
       "ko": "유령으로 표현된 빈 상태",
       "fr": "État vide représenté par un fantôme",
-      "tr": "Hayalet olarak temsil edilen boş durum"
+      "tr": "Hayalet olarak temsil edilen boş durum",
+      "zh-CN": "以幽灵形象描绘的空状态"
     },
     "Fallback documentation": {
       "ja": "フォールバック文書",
@@ -11143,7 +11184,8 @@
       "pt": "Documentação de fallback",
       "ko": "폴백 문서",
       "fr": "Documentation de fallback",
-      "tr": "Yedek dokümantasyonu"
+      "tr": "Yedek dokümantasyonu",
+      "zh-CN": "回退文档"
     },
     "Start from scratch or": {
       "ja": "ゼロから始めるか、",
@@ -11151,7 +11193,8 @@
       "pt": "Começar do zero ou",
       "ko": "처음부터 시작하거나",
       "fr": "Partir de zéro ou",
-      "tr": "Sıfırdan başlayın ya da"
+      "tr": "Sıfırdan başlayın ya da",
+      "zh-CN": "从零开始或"
     },
     "You haven't added any dynamic content yet": {
       "ja": "まだダイナミックコンテンツを追加していません",
@@ -11159,7 +11202,8 @@
       "pt": "Você ainda não adicionou conteúdo dinâmico",
       "ko": "아직 동적 콘텐츠를 추가하지 않았습니다",
       "fr": "Vous n'avez encore ajouté aucun contenu dynamique",
-      "tr": "Henüz dinamik içerik eklemediniz"
+      "tr": "Henüz dinamik içerik eklemediniz",
+      "zh-CN": "您还没有添加任何动态内容"
     },
     "Your message will start sending immediately and your message throughput is 1 message per second.": {
       "ja": "メッセージは即時送信を開始し、スループットは毎秒1メッセージです。",
@@ -11167,7 +11211,8 @@
       "pt": "Sua mensagem começará a ser enviada imediatamente e a taxa de envio é 1 mensagem por segundo.",
       "ko": "메시지가 즉시 발송을 시작하며 처리량은 초당 1메시지입니다.",
       "fr": "Votre message commencera à être envoyé immédiatement et votre débit est de 1 message par seconde.",
-      "tr": "Mesajınız hemen gönderilmeye başlanacak ve mesaj iletim hızınız saniyede 1 mesajdır."
+      "tr": "Mesajınız hemen gönderilmeye başlanacak ve mesaj iletim hızınız saniyede 1 mesajdır.",
+      "zh-CN": "您的消息将立即开始发送，消息吞吐量为每秒 1 条消息。"
     },
     "if you need to increase your throughput": {
       "ja": "スループットを上げる必要がある場合",
@@ -11175,7 +11220,8 @@
       "pt": "se você precisa aumentar sua taxa",
       "ko": "처리량을 늘려야 할 경우",
       "fr": "si vous avez besoin d'augmenter votre débit",
-      "tr": "iletim hızınızı artırmanız gerekiyorsa"
+      "tr": "iletim hızınızı artırmanız gerekiyorsa",
+      "zh-CN": "如果您需要提高吞吐量"
     },
     "into the content body of your message. Replace the file name, section name, and user property with what you've uploaded. As always, be sure to set a fallback.": {
       "ja": "をメッセージ本文に入れます。ファイル名、セクション名、ユーザープロパティをアップロードしたものに置き換えてください。フォールバックを設定することを忘れないでください。",
@@ -11183,7 +11229,8 @@
       "pt": "no corpo do conteúdo da sua mensagem. Substitua o nome do arquivo, nome da seção e propriedade do usuário pelo que você fez upload. Como sempre, defina um fallback.",
       "ko": "를 메시지 본문에 넣으세요. 파일 이름, 섹션 이름 및 사용자 속성을 업로드한 내용으로 바꾸세요. 항상 폴백을 설정하세요.",
       "fr": "dans le corps du contenu de votre message. Remplacez le nom du fichier, le nom de la section et la propriété utilisateur par ce que vous avez téléversé. Comme toujours, pensez à définir une valeur de repli.",
-      "tr": "mesajınızın içerik gövdesine. Dosya adını, bölüm adını ve kullanıcı özelliğini yüklediğiniz içerikle değiştirin. Her zaman olduğu gibi, bir yedek belirlediğinizden emin olun."
+      "tr": "mesajınızın içerik gövdesine. Dosya adını, bölüm adını ve kullanıcı özelliğini yüklediğiniz içerikle değiştirin. Her zaman olduğu gibi, bir yedek belirlediğinizden emin olun.",
+      "zh-CN": "插入消息的内容主体。将文件名、章节名和用户属性替换为您上传的内容。一如既往，请务必设置回退值。"
     },
     "start from a template": {
       "ja": "テンプレートから開始",
@@ -11191,7 +11238,8 @@
       "pt": "começar a partir de um modelo",
       "ko": "템플릿에서 시작",
       "fr": "partir d'un modèle",
-      "tr": "şablondan başlayın"
+      "tr": "şablondan başlayın",
+      "zh-CN": "从模板开始"
     },
     "Select Segment...": {
       "ja": "セグメントを選択...",
@@ -11199,7 +11247,8 @@
       "pt": "Selecionar segmento...",
       "ko": "세그먼트 선택...",
       "fr": "Sélectionner un segment...",
-      "tr": "Segment seç..."
+      "tr": "Segment seç...",
+      "zh-CN": "选择 Segment..."
     },
     "Apns Delegate Never Fired": {
       "ja": "APNsデリゲートが発火しませんでした",
@@ -11207,7 +11256,8 @@
       "pt": "APNs Delegate nunca foi disparado",
       "ko": "APNs Delegate가 실행되지 않음",
       "fr": "APNs Delegate ne s'est jamais déclenché",
-      "tr": "APNs Delegate hiç tetiklenmedi"
+      "tr": "APNs Delegate hiç tetiklenmedi",
+      "zh-CN": "APNs Delegate 从未触发"
     },
     "Email Template": {
       "ja": "メールテンプレート",
