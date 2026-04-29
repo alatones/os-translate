@@ -1862,7 +1862,7 @@
     },
     "New Subscribers": {
       "es": "Nuevos suscriptores",
-      "ja": "新規登録者",
+      "ja": "新規購読者",
       "pt": "Novos assinantes",
       "ko": "신규 구독자"
     },
@@ -2570,7 +2570,7 @@
     },
     "Send to All Subscribers": {
       "es": "Enviar a todos los suscriptores",
-      "ja": "全登録者に送信",
+      "ja": "全購読者に送信",
       "pt": "Enviar para todos os assinantes",
       "ko": "모든 구독자에게 발송"
     },
@@ -2864,25 +2864,25 @@
     },
     "Subscriber Opted Out": {
       "es": "Suscriptor no participante",
-      "ja": "購読停止済み",
+      "ja": "購読者がオプトアウト",
       "pt": "Assinante optou por sair",
       "ko": "구독자 거부"
     },
     "Subscription Date": {
       "es": "Fecha de suscripción",
-      "ja": "登録日",
+      "ja": "購読日",
       "pt": "Data de inscrição",
       "ko": "구독 날짜"
     },
     "Subscription ID": {
       "es": "ID de suscripción",
-      "ja": "サブスクリプションID",
+      "ja": "購読ID",
       "pt": "ID de assinatura",
       "ko": "구독 ID"
     },
     "Subscription Records": {
       "es": "Registros de suscripción",
-      "ja": "サブスクリプション記録",
+      "ja": "購読記録",
       "pt": "Registros de assinaturas",
       "ko": "구독 기록"
     },
@@ -2894,7 +2894,7 @@
     },
     "Subscriptions": {
       "es": "Suscripciones",
-      "ja": "サブスクリプション",
+      "ja": "購読",
       "pt": "Assinaturas",
       "ko": "구독"
     },
@@ -2972,13 +2972,13 @@
     },
     "Test Subscription Records": {
       "es": "Registros de suscripciones de prueba",
-      "ja": "テストサブスクリプション記録",
+      "ja": "テスト購読記録",
       "pt": "Registros de assinaturas de teste",
       "ko": "테스트 구독 기록"
     },
     "Test Subscriptions": {
       "es": "Suscripciones de prueba",
-      "ja": "テストサブスクリプション",
+      "ja": "テスト購読",
       "pt": "Assinaturas de teste",
       "ko": "테스트 구독"
     },
@@ -3080,7 +3080,7 @@
     },
     "Total Subscribers": {
       "es": "Total de suscriptores",
-      "ja": "合計登録者数",
+      "ja": "合計購読者数",
       "pt": "Total de assinantes",
       "ko": "총 구독자"
     },
@@ -3284,7 +3284,7 @@
     },
     "View subscription & billing cycle usage": {
       "es": "Ver uso de suscripción y ciclo de facturación",
-      "ja": "サブスクリプションと請求サイクルの使用状況を表示",
+      "ja": "購読と請求サイクルの使用状況を表示",
       "pt": "Ver uso de assinatura e ciclo de faturamento",
       "ko": "구독 및 청구 주기 사용량 보기"
     },
@@ -3433,7 +3433,7 @@
       "ko": "인앱 메시지"
     },
     "Add your users & subscriptions": {
-      "ja": "ユーザーとサブスクリプションを追加する",
+      "ja": "ユーザーと購読を追加する",
       "es": "Agrega tus usuarios y suscripciones",
       "pt": "Adicione seus usuários e assinaturas",
       "ko": "사용자 및 구독 추가"
@@ -3457,7 +3457,7 @@
       "ko": "효과적인 모바일 우선 방식으로 고객에게 직접 도달하세요."
     },
     "Reach all active users, regardless of subscription status. (mobile apps only)": {
-      "ja": "サブスクリプションの状況に関わらず、すべてのアクティブユーザーにリーチします。（モバイルアプリのみ）",
+      "ja": "購読の状況に関わらず、すべてのアクティブユーザーにリーチします。（モバイルアプリのみ）",
       "es": "Llega a todos los usuarios activos, independientemente del estado de suscripción. (solo apps móviles)",
       "pt": "Alcance todos os usuários ativos, independentemente do status de assinatura. (somente apps móveis)",
       "ko": "구독 상태에 관계없이 모든 활성 사용자에게 도달하세요. (모바일 앱 전용)"
@@ -4027,19 +4027,19 @@
       "ko": "발송 메시지 문서"
     },
     "Active Subscriptions": {
-      "ja": "アクティブなサブスクリプション",
+      "ja": "アクティブな購読",
       "es": "Suscripciones activas",
       "pt": "Assinaturas ativas",
       "ko": "활성 구독"
     },
     "All Email Subscriptions": {
-      "ja": "すべてのメールサブスクリプション",
+      "ja": "すべてのメール購読",
       "es": "Todas las suscripciones de email",
       "pt": "Todas as assinaturas de e-mail",
       "ko": "모든 이메일 구독"
     },
     "All SMS Subscriptions": {
-      "ja": "すべてのSMSサブスクリプション",
+      "ja": "すべてのSMS購読",
       "es": "Todas las suscripciones de SMS",
       "pt": "Todas as assinaturas de SMS",
       "ko": "모든 SMS 구독"
@@ -4057,19 +4057,19 @@
       "ko": "기기 유형: SMS"
     },
     "Engaged Subscriptions": {
-      "ja": "エンゲージドなサブスクリプション",
+      "ja": "エンゲージドな購読",
       "es": "Suscripciones con engagement",
       "pt": "Assinaturas com engajamento",
       "ko": "참여 중인 구독"
     },
     "Inactive Subscriptions": {
-      "ja": "非アクティブなサブスクリプション",
+      "ja": "非アクティブな購読",
       "es": "Suscripciones inactivas",
       "pt": "Assinaturas inativas",
       "ko": "비활성 구독"
     },
     "Total Subscriptions": {
-      "ja": "サブスクリプション合計",
+      "ja": "購読合計",
       "es": "Suscripciones totales",
       "pt": "Total de assinaturas",
       "ko": "총 구독 수"
@@ -4159,7 +4159,7 @@
       "ko": "아직 데이터 피드가 설정되지 않았습니다"
     },
     "Export subscriptions for push, email, and SMS": {
-      "ja": "プッシュ、メール、SMSのサブスクリプションをエクスポートする",
+      "ja": "プッシュ、メール、SMSの購読をエクスポートする",
       "es": "Exporta suscripciones de push, email y SMS",
       "pt": "Exporte assinaturas de push, e-mail e SMS",
       "ko": "푸시, 이메일 및 SMS 구독 내보내기"
@@ -4171,7 +4171,7 @@
       "ko": "채널 수준에서 구독자 기본 설정 보기"
     },
     "Subscriptions documentation": {
-      "ja": "サブスクリプションのドキュメント",
+      "ja": "購読のドキュメント",
       "es": "Documentación de suscripciones",
       "pt": "Documentação de assinaturas",
       "ko": "구독 문서"
@@ -4189,7 +4189,7 @@
       "ko": "최근 활동 및 기본 설정 보기"
     },
     "Add Test Subscriptions": {
-      "ja": "テストサブスクリプションを追加する",
+      "ja": "テスト購読を追加する",
       "es": "Agregar suscripciones de prueba",
       "pt": "Adicionar assinaturas de teste",
       "ko": "테스트 구독 추가"
@@ -4201,7 +4201,7 @@
       "ko": "이메일이 완벽한지 확인하세요"
     },
     "Manage test subscriptions to preview and send test messages.": {
-      "ja": "テストサブスクリプションを管理して、テストメッセージをプレビューおよび送信する。",
+      "ja": "テスト購読を管理して、テストメッセージをプレビューおよび送信する。",
       "es": "Gestiona las suscripciones de prueba para previsualizar y enviar mensajes de prueba.",
       "pt": "Gerencie assinaturas de teste para visualizar e enviar mensagens de teste.",
       "ko": "테스트 메시지를 미리 보고 발송하기 위해 테스트 구독을 관리하세요."
@@ -4213,7 +4213,7 @@
       "ko": "완벽한 메시지 발송"
     },
     "Test Subscriptions documentation": {
-      "ja": "テストサブスクリプションのドキュメント",
+      "ja": "テスト購読のドキュメント",
       "es": "Documentación de suscripciones de prueba",
       "pt": "Documentação de assinaturas de teste",
       "ko": "테스트 구독 문서"
@@ -4711,7 +4711,7 @@
       "ko": "리타겟팅 메시지 발송"
     },
     "Send to segments": {
-      "ja": "セグメントに発送",
+      "ja": "セグメントに送信",
       "es": "Enviar a segmentos",
       "pt": "Enviar a segmentos",
       "ko": "세그먼트에 발송"

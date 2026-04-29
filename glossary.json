@@ -53,20 +53,29 @@
       "ko": "구독자"
     },
     "Outcome": {
-      "ja": "アウトカム",
+      "ja": [
+        "アウトカム",
+        "結果"
+      ],
       "es": "Resultado",
       "pt": "Resultado",
       "ko": "결과",
       "note": "ja uses loanword; es/pt/ko translate."
     },
     "Outcomes": {
-      "ja": "アウトカム",
+      "ja": [
+        "アウトカム",
+        "結果"
+      ],
       "es": "Resultados",
       "pt": "Resultados",
       "ko": "결과"
     },
     "In-App": {
-      "ja": "アプリ内",
+      "ja": [
+        "アプリ内",
+        "インアプリ"
+      ],
       "es": "In-App",
       "pt": "In-App",
       "ko": "인앱",
@@ -154,7 +163,10 @@
       "ko": "템플릿"
     },
     "Audience": {
-      "ja": "オーディエンス",
+      "ja": [
+        "オーディエンス",
+        "対象者"
+      ],
       "es": "Audiencia",
       "pt": "Audiência",
       "ko": "고객",
@@ -230,7 +242,10 @@
       "ko": "발송"
     },
     "Sent": {
-      "ja": "送信済み",
+      "ja": [
+        "送信済み",
+        "送信"
+      ],
       "es": [
         "Enviado",
         "Enviada",
@@ -332,7 +347,10 @@
       "ko": "가져오기"
     },
     "Export": {
-      "ja": "エクスポート",
+      "ja": [
+        "エクスポート",
+        "書き出し"
+      ],
       "es": [
         "Exportar",
         "Exportación",
@@ -361,7 +379,10 @@
       "ko": "검색"
     },
     "Filter": {
-      "ja": "フィルター",
+      "ja": [
+        "フィルター",
+        "フィルタリング"
+      ],
       "es": [
         "Filtro",
         "Filtrar"
@@ -373,7 +394,10 @@
       "ko": "필터"
     },
     "Filters": {
-      "ja": "フィルター",
+      "ja": [
+        "フィルター",
+        "フィルタリング"
+      ],
       "es": [
         "Filtros",
         "Filtrar"
@@ -473,7 +497,11 @@
       "ko": "완료됨"
     },
     "Delivered": {
-      "ja": "配信済み",
+      "ja": [
+        "配信済み",
+        "配信",
+        "受信"
+      ],
       "es": [
         "Entregado",
         "Entregada"
@@ -509,7 +537,10 @@
       "ko": "클릭률"
     },
     "CTR": {
-      "ja": "CTR",
+      "ja": [
+        "CTR",
+        "クリック率"
+      ],
       "es": "CTR",
       "pt": "CTR",
       "ko": "CTR"
@@ -545,7 +576,10 @@
       "ko": "수신자"
     },
     "Sender": {
-      "ja": "送信者",
+      "ja": [
+        "送信者",
+        "送信元"
+      ],
       "es": [
         "Remitente",
         "Remitentes"
@@ -557,7 +591,10 @@
       "ko": "발신자"
     },
     "Senders": {
-      "ja": "送信者",
+      "ja": [
+        "送信者",
+        "送信元"
+      ],
       "es": [
         "Remitentes",
         "Remitente"
