@@ -69,7 +69,11 @@
       ],
       "ko": "구독",
       "fr": "Abonnement",
-      "tr": "Abonelik"
+      "tr": [
+        "Abonelik",
+        "Aboneli",
+        "aboneli"
+      ]
     },
     "Subscriptions": {
       "ja": "購読",

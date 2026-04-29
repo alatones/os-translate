@@ -11613,469 +11613,536 @@
       "es": "Doble opt-in",
       "pt": "Opt-in duplo",
       "ko": "이중 옵트인",
-      "fr": "Double opt-in"
+      "fr": "Double opt-in",
+      "tr": "Çift onay"
     },
     "Keywords automatically send a reply when a keyword is received from a subscribed phone number.": {
       "ja": "キーワードは、購読済みの電話番号からキーワードを受信したときに自動的に返信を送信します。",
       "es": "Las palabras clave envían automáticamente una respuesta cuando se recibe una palabra clave desde un número de teléfono suscrito.",
       "pt": "As palavras-chave enviam automaticamente uma resposta quando uma palavra-chave é recebida de um número de telefone inscrito.",
       "ko": "키워드는 구독한 전화번호에서 키워드를 수신하면 자동으로 회신을 보냅니다.",
-      "fr": "Les mots-clés envoient automatiquement une réponse lorsqu'un mot-clé est reçu depuis un numéro de téléphone abonné."
+      "fr": "Les mots-clés envoient automatiquement une réponse lorsqu'un mot-clé est reçu depuis un numéro de téléphone abonné.",
+      "tr": "Anahtar kelimeler, abone bir telefon numarasından bir anahtar kelime alındığında otomatik olarak yanıt gönderir."
     },
     "MMS Throughput": {
       "ja": "MMSスループット",
       "es": "Capacidad de MMS",
       "pt": "Taxa de MMS",
       "ko": "MMS 처리량",
-      "fr": "Débit MMS"
+      "fr": "Débit MMS",
+      "tr": "MMS iletim hızı"
     },
     "Maximum messages per second (MPS) allowed on this OneSignal app depends on the customer's Twilio trust score and the sender types that the customer is using.": {
       "ja": "このOneSignalアプリで許可される秒あたりの最大メッセージ数 (MPS) は、お客様のTwilio信頼スコアと使用している送信者タイプによって異なります。",
       "es": "El máximo de mensajes por segundo (MPS) permitido en esta app de OneSignal depende del puntaje de confianza de Twilio del cliente y los tipos de remitente que utiliza.",
       "pt": "O máximo de mensagens por segundo (MPS) permitido neste app do OneSignal depende da pontuação de confiança Twilio do cliente e dos tipos de remetente em uso.",
       "ko": "이 OneSignal 앱에서 허용되는 초당 최대 메시지 수(MPS)는 고객의 Twilio 신뢰 점수와 고객이 사용하는 발신자 유형에 따라 다릅니다.",
-      "fr": "Le nombre maximum de messages par seconde (MPS) autorisé sur cette app OneSignal dépend du score de confiance Twilio du client et des types d'expéditeur utilisés par le client."
+      "fr": "Le nombre maximum de messages par seconde (MPS) autorisé sur cette app OneSignal dépend du score de confiance Twilio du client et des types d'expéditeur utilisés par le client.",
+      "tr": "Bu OneSignal uygulamasında izin verilen saniyedeki maksimum mesaj sayısı (MPS), müşterinin Twilio güven puanına ve kullandığı gönderen türlerine bağlıdır."
     },
     "Message Prompt Preview": {
       "ja": "メッセージプロンプトプレビュー",
       "es": "Vista previa del mensaje de aviso",
       "pt": "Pré-visualização do prompt de mensagem",
       "ko": "메시지 프롬프트 미리보기",
-      "fr": "Aperçu de l'invite du message"
+      "fr": "Aperçu de l'invite du message",
+      "tr": "Mesaj istem önizlemesi"
     },
     "Message Prompt Template": {
       "ja": "メッセージプロンプトテンプレート",
       "es": "Plantilla de mensaje de aviso",
       "pt": "Modelo de prompt de mensagem",
       "ko": "메시지 프롬프트 템플릿",
-      "fr": "Modèle d'invite de message"
+      "fr": "Modèle d'invite de message",
+      "tr": "Mesaj istem şablonu"
     },
     "OFF": {
       "ja": "オフ",
       "es": "OFF",
       "pt": "OFF",
       "ko": "꺼짐",
-      "fr": "OFF"
+      "fr": "OFF",
+      "tr": "KAPALI"
     },
     "OneSignal SMS": {
       "ja": "OneSignal SMS",
       "es": "OneSignal SMS",
       "pt": "OneSignal SMS",
       "ko": "OneSignal SMS",
-      "fr": "OneSignal SMS"
+      "fr": "OneSignal SMS",
+      "tr": "OneSignal SMS"
     },
     "Opt-Out": {
       "ja": "オプトアウト",
       "es": "Exclusión",
       "pt": "Cancelar inscrição",
       "ko": "옵트아웃",
-      "fr": "Désinscription"
+      "fr": "Désinscription",
+      "tr": "Abonelikten çık"
     },
     "Re-Subscribe": {
       "ja": "再購読",
       "es": "Volver a suscribir",
       "pt": "Reinscrever",
       "ko": "재구독",
-      "fr": "Se réabonner"
+      "fr": "Se réabonner",
+      "tr": "Yeniden abone ol"
     },
     "Reply STOP to unsubscribe. Msg&Data Rates May Apply.": {
       "ja": "購読解除はSTOPと返信してください。メッセージおよびデータ料金がかかる場合があります。",
       "es": "Responde STOP para darte de baja. Pueden aplicar tarifas de mensajes y datos.",
       "pt": "Responda STOP para cancelar a inscrição. Podem ser aplicadas taxas de mensagem e dados.",
       "ko": "구독 해지는 STOP을 회신하세요. 메시지 및 데이터 요금이 부과될 수 있습니다.",
-      "fr": "Répondez STOP pour vous désabonner. Frais de message et données possibles."
+      "fr": "Répondez STOP pour vous désabonner. Frais de message et données possibles.",
+      "tr": "Abonelikten çıkmak için STOP yanıtlayın. Mesaj ve veri ücretleri uygulanabilir."
     },
     "SMS Regulatory Compliance Documentation": {
       "ja": "SMS規制遵守文書",
       "es": "Documentación de cumplimiento normativo de SMS",
       "pt": "Documentação de conformidade regulatória SMS",
       "ko": "SMS 규제 준수 문서",
-      "fr": "Documentation de conformité réglementaire SMS"
+      "fr": "Documentation de conformité réglementaire SMS",
+      "tr": "SMS düzenleyici uyumluluk dokümantasyonu"
     },
     "SMS double opt in": {
       "ja": "SMSダブルオプトイン",
       "es": "Doble opt-in de SMS",
       "pt": "Opt-in duplo SMS",
       "ko": "SMS 이중 옵트인",
-      "fr": "Double opt-in SMS"
+      "fr": "Double opt-in SMS",
+      "tr": "SMS çift onay"
     },
     "START": {
       "ja": "START",
       "es": "START",
       "pt": "START",
       "ko": "START",
-      "fr": "START"
+      "fr": "START",
+      "tr": "START"
     },
     "STOP": {
       "ja": "STOP",
       "es": "STOP",
       "pt": "STOP",
       "ko": "STOP",
-      "fr": "STOP"
+      "fr": "STOP",
+      "tr": "STOP"
     },
     "SUBSCRIBE": {
       "ja": "SUBSCRIBE",
       "es": "SUBSCRIBE",
       "pt": "SUBSCRIBE",
       "ko": "SUBSCRIBE",
-      "fr": "SUBSCRIBE"
+      "fr": "SUBSCRIBE",
+      "tr": "SUBSCRIBE"
     },
     "Segmented by subscription status": {
       "ja": "購読状態別にセグメント化",
       "es": "Segmentado por estado de suscripción",
       "pt": "Segmentado por status de assinatura",
       "ko": "구독 상태별 세그먼트",
-      "fr": "Segmenté par statut d'abonnement"
+      "fr": "Segmenté par statut d'abonnement",
+      "tr": "Abonelik durumuna göre segmentlenmiş"
     },
     "Send Message Prompt is": {
       "ja": "メッセージプロンプト送信:",
       "es": "Enviar mensaje de aviso es",
       "pt": "Enviar prompt de mensagem é",
       "ko": "메시지 프롬프트 발송:",
-      "fr": "L'invite d'envoi de message est"
+      "fr": "L'invite d'envoi de message est",
+      "tr": "Mesaj istem gönderimi şu durumda:"
     },
     "Start": {
       "ja": "開始",
       "es": "Iniciar",
       "pt": "Iniciar",
       "ko": "시작",
-      "fr": "Démarrer"
+      "fr": "Démarrer",
+      "tr": "Başlat"
     },
     "Subscription Keyword Response": {
       "ja": "購読キーワードの応答",
       "es": "Respuesta de palabra clave de suscripción",
       "pt": "Resposta da palavra-chave de inscrição",
       "ko": "구독 키워드 응답",
-      "fr": "Réponse au mot-clé d'abonnement"
+      "fr": "Réponse au mot-clé d'abonnement",
+      "tr": "Abonelik anahtar kelimesi yanıtı"
     },
     "Text-To-Subscribe Keywords": {
       "ja": "テキスト購読キーワード",
       "es": "Palabras clave de suscripción por texto",
       "pt": "Palavras-chave de inscrição por texto",
       "ko": "텍스트 구독 키워드",
-      "fr": "Mots-clés d'inscription par SMS"
+      "fr": "Mots-clés d'inscription par SMS",
+      "tr": "SMS ile abone olma anahtar kelimeleri"
     },
     "UNSTOP": {
       "ja": "UNSTOP",
       "es": "UNSTOP",
       "pt": "UNSTOP",
       "ko": "UNSTOP",
-      "fr": "UNSTOP"
+      "fr": "UNSTOP",
+      "tr": "UNSTOP"
     },
     "UNSUBSCRIBE": {
       "ja": "UNSUBSCRIBE",
       "es": "UNSUBSCRIBE",
       "pt": "UNSUBSCRIBE",
       "ko": "UNSUBSCRIBE",
-      "fr": "UNSUBSCRIBE"
+      "fr": "UNSUBSCRIBE",
+      "tr": "UNSUBSCRIBE"
     },
     "Unsubscribe user across all Senders is": {
       "ja": "すべての送信者でユーザーの登録解除:",
       "es": "Cancelar la suscripción del usuario en todos los remitentes es",
       "pt": "Cancelar a inscrição do usuário em todos os remetentes é",
       "ko": "모든 발신자에서 사용자 구독 해지:",
-      "fr": "La désinscription de l'utilisateur sur tous les expéditeurs est"
+      "fr": "La désinscription de l'utilisateur sur tous les expéditeurs est",
+      "tr": "Tüm gönderenler genelinde kullanıcının aboneliği şu durumda:"
     },
     "When we receive help keywords, we'll reply with more information.": {
       "ja": "ヘルプキーワードを受信すると、詳細情報を返信します。",
       "es": "Cuando recibimos palabras clave de ayuda, responderemos con más información.",
       "pt": "Quando recebermos palavras-chave de ajuda, responderemos com mais informações.",
       "ko": "도움말 키워드를 수신하면 자세한 정보로 회신합니다.",
-      "fr": "Lorsque nous recevons des mots-clés d'aide, nous répondons avec plus d'informations."
+      "fr": "Lorsque nous recevons des mots-clés d'aide, nous répondons avec plus d'informations.",
+      "tr": "Yardım anahtar kelimeleri aldığımızda, daha fazla bilgiyle yanıt vereceğiz."
     },
     "When we receive opt-out keywords, we'll automatically add the user to the phone number or message service's blocklist.": {
       "ja": "オプトアウトキーワードを受信すると、ユーザーを電話番号またはメッセージサービスのブロックリストに自動的に追加します。",
       "es": "Cuando recibimos palabras clave de exclusión, agregaremos automáticamente al usuario a la lista de bloqueo del número de teléfono o servicio de mensajería.",
       "pt": "Quando recebermos palavras-chave de exclusão, adicionaremos automaticamente o usuário à lista de bloqueio do número de telefone ou serviço de mensagens.",
       "ko": "옵트아웃 키워드를 수신하면 사용자를 전화번호 또는 메시지 서비스의 차단 목록에 자동으로 추가합니다.",
-      "fr": "Lorsque nous recevons des mots-clés de désinscription, nous ajoutons automatiquement l'utilisateur à la liste de blocage du numéro de téléphone ou du service de messagerie."
+      "fr": "Lorsque nous recevons des mots-clés de désinscription, nous ajoutons automatiquement l'utilisateur à la liste de blocage du numéro de téléphone ou du service de messagerie.",
+      "tr": "Abonelikten çıkma anahtar kelimeleri aldığımızda, kullanıcıyı otomatik olarak telefon numarası veya mesaj servisinin engelli listesine ekleyeceğiz."
     },
     "When we receive text-to-subscribe keywords, we'll automatically subscribe a user. If the user doesn't exist, we'll create the subscription and subscribe the user.": {
       "ja": "テキスト購読キーワードを受信すると、ユーザーを自動的に購読登録します。ユーザーが存在しない場合は、購読を作成してユーザーを登録します。",
       "es": "Cuando recibimos palabras clave de suscripción por texto, suscribiremos automáticamente al usuario. Si el usuario no existe, crearemos la suscripción y suscribiremos al usuario.",
       "pt": "Quando recebermos palavras-chave de inscrição por texto, inscreveremos o usuário automaticamente. Se o usuário não existir, criaremos a inscrição e inscreveremos o usuário.",
       "ko": "텍스트 구독 키워드를 수신하면 자동으로 사용자를 구독시킵니다. 사용자가 존재하지 않는 경우 구독을 생성하고 사용자를 구독시킵니다.",
-      "fr": "Lorsque nous recevons des mots-clés d'inscription par SMS, nous inscrivons automatiquement l'utilisateur. Si l'utilisateur n'existe pas, nous créons l'abonnement et inscrivons l'utilisateur."
+      "fr": "Lorsque nous recevons des mots-clés d'inscription par SMS, nous inscrivons automatiquement l'utilisateur. Si l'utilisateur n'existe pas, nous créons l'abonnement et inscrivons l'utilisateur.",
+      "tr": "SMS ile abone olma anahtar kelimeleri aldığımızda, kullanıcıyı otomatik olarak abone yapacağız. Kullanıcı mevcut değilse, aboneliği oluşturup kullanıcıyı abone yapacağız."
     },
     "YES": {
       "ja": "YES",
       "es": "YES",
       "pt": "YES",
       "ko": "YES",
-      "fr": "YES"
+      "fr": "YES",
+      "tr": "YES"
     },
     "You have successfully been re-subscribed to messages from this number. Reply HELP for help. Reply STOP to unsubscribe. Msg&Data Rates May Apply.": {
       "ja": "この番号からのメッセージに再登録されました。ヘルプはHELP、登録解除はSTOPと返信してください。メッセージおよびデータ料金がかかる場合があります。",
       "es": "Te has vuelto a suscribir correctamente a los mensajes de este número. Responde HELP para obtener ayuda. Responde STOP para darte de baja. Pueden aplicar tarifas de mensajes y datos.",
       "pt": "Você foi reinscrito com sucesso nas mensagens deste número. Responda HELP para obter ajuda. Responda STOP para cancelar a inscrição. Podem ser aplicadas taxas de mensagem e dados.",
       "ko": "이 번호의 메시지에 다시 구독되었습니다. 도움말은 HELP, 구독 해지는 STOP을 회신하세요. 메시지 및 데이터 요금이 부과될 수 있습니다.",
-      "fr": "Vous avez été réabonné avec succès aux messages de ce numéro. Répondez HELP pour obtenir de l'aide. Répondez STOP pour vous désabonner. Frais de message et données possibles."
+      "fr": "Vous avez été réabonné avec succès aux messages de ce numéro. Répondez HELP pour obtenir de l'aide. Répondez STOP pour vous désabonner. Frais de message et données possibles.",
+      "tr": "Bu numaradan gelen mesajlara başarıyla yeniden abone oldunuz. Yardım için HELP, abonelikten çıkmak için STOP yanıtlayın. Mesaj ve veri ücretleri uygulanabilir."
     },
     "You have successfully been unsubscribed. You will not receive any more messages from this number. Reply START to resubscribe.": {
       "ja": "登録解除されました。この番号からのメッセージは今後届きません。再登録するにはSTARTと返信してください。",
       "es": "Te has dado de baja correctamente. Ya no recibirás más mensajes de este número. Responde START para volver a suscribirte.",
       "pt": "Você foi desinscrito com sucesso. Você não receberá mais mensagens deste número. Responda START para se inscrever novamente.",
       "ko": "구독이 해지되었습니다. 이 번호에서 더 이상 메시지를 받지 않습니다. 다시 구독하려면 START를 회신하세요.",
-      "fr": "Vous avez été désabonné avec succès. Vous ne recevrez plus de messages de ce numéro. Répondez START pour vous réabonner."
+      "fr": "Vous avez été désabonné avec succès. Vous ne recevrez plus de messages de ce numéro. Répondez START pour vous réabonner.",
+      "tr": "Aboneliğiniz başarıyla iptal edildi. Bu numaradan artık mesaj almayacaksınız. Yeniden abone olmak için START yanıtlayın."
     },
     "never subscribed users:": {
       "ja": "購読したことのないユーザー:",
       "es": "usuarios nunca suscritos:",
       "pt": "usuários nunca inscritos:",
       "ko": "구독한 적 없는 사용자:",
-      "fr": "utilisateurs jamais abonnés :"
+      "fr": "utilisateurs jamais abonnés :",
+      "tr": "hiç abone olmamış kullanıcılar:"
     },
     "subscribed users:": {
       "ja": "購読中のユーザー:",
       "es": "usuarios suscritos:",
       "pt": "usuários inscritos:",
       "ko": "구독한 사용자:",
-      "fr": "utilisateurs abonnés :"
+      "fr": "utilisateurs abonnés :",
+      "tr": "abone kullanıcılar:"
     },
     "Add Auto-Responder": {
       "ja": "自動応答を追加",
       "es": "Agregar respuesta automática",
       "pt": "Adicionar resposta automática",
       "ko": "자동 응답 추가",
-      "fr": "Ajouter une réponse automatique"
+      "fr": "Ajouter une réponse automatique",
+      "tr": "Otomatik yanıtlayıcı ekle"
     },
     "Auto-Responder": {
       "ja": "自動応答",
       "es": "Respuesta automática",
       "pt": "Resposta automática",
       "ko": "자동 응답",
-      "fr": "Réponse automatique"
+      "fr": "Réponse automatique",
+      "tr": "Otomatik yanıtlayıcı"
     },
     "When we receive unrecognized keywords from a phone number, we'll automatically reply with this template.": {
       "ja": "電話番号から認識されないキーワードを受信すると、このテンプレートで自動的に返信します。",
       "es": "Cuando recibimos palabras clave no reconocidas desde un número de teléfono, responderemos automáticamente con esta plantilla.",
       "pt": "Quando recebermos palavras-chave não reconhecidas de um número de telefone, responderemos automaticamente com este modelo.",
       "ko": "전화번호에서 인식되지 않은 키워드를 수신하면 이 템플릿으로 자동 회신합니다.",
-      "fr": "Lorsque nous recevons des mots-clés non reconnus depuis un numéro de téléphone, nous répondons automatiquement avec ce modèle."
+      "fr": "Lorsque nous recevons des mots-clés non reconnus depuis un numéro de téléphone, nous répondons automatiquement avec ce modèle.",
+      "tr": "Bir telefon numarasından tanınmayan anahtar kelimeler aldığımızda, otomatik olarak bu şablonla yanıt vereceğiz."
     },
     "Provider is": {
       "ja": "プロバイダー:",
       "es": "El proveedor es",
       "pt": "O provedor é",
       "ko": "공급자:",
-      "fr": "Le fournisseur est"
+      "fr": "Le fournisseur est",
+      "tr": "Sağlayıcı şudur:"
     },
     "Show password": {
       "ja": "パスワードを表示",
       "es": "Mostrar contraseña",
       "pt": "Mostrar senha",
       "ko": "비밀번호 표시",
-      "fr": "Afficher le mot de passe"
+      "fr": "Afficher le mot de passe",
+      "tr": "Şifreyi göster"
     },
     "Twilio Account SID": {
       "ja": "Twilioアカウントsid",
       "es": "SID de cuenta de Twilio",
       "pt": "SID da conta Twilio",
       "ko": "Twilio 계정 SID",
-      "fr": "SID de compte Twilio"
+      "fr": "SID de compte Twilio",
+      "tr": "Twilio hesap SID"
     },
     "Twilio Auth Token": {
       "ja": "Twilio認証トークン",
       "es": "Token de autenticación de Twilio",
       "pt": "Token de autenticação Twilio",
       "ko": "Twilio 인증 토큰",
-      "fr": "Token d'authentification Twilio"
+      "fr": "Token d'authentification Twilio",
+      "tr": "Twilio kimlik doğrulama token'ı"
     },
     "Twilio Credentials": {
       "ja": "Twilio資格情報",
       "es": "Credenciales de Twilio",
       "pt": "Credenciais do Twilio",
       "ko": "Twilio 자격 증명",
-      "fr": "Identifiants Twilio"
+      "fr": "Identifiants Twilio",
+      "tr": "Twilio kimlik bilgileri"
     },
     "e.g. 12345678": {
       "ja": "例: 12345678",
       "es": "p. ej. 12345678",
       "pt": "ex.: 12345678",
       "ko": "예: 12345678",
-      "fr": "par ex. 12345678"
+      "fr": "par ex. 12345678",
+      "tr": "örn. 12345678"
     },
     "e.g. abc123defg123456": {
       "ja": "例: abc123defg123456",
       "es": "p. ej. abc123defg123456",
       "pt": "ex.: abc123defg123456",
       "ko": "예: abc123defg123456",
-      "fr": "par ex. abc123defg123456"
+      "fr": "par ex. abc123defg123456",
+      "tr": "örn. abc123defg123456"
     },
     "Not Receiving Message Replies": {
       "ja": "メッセージ返信を受信できません",
       "es": "No recibe respuestas de mensajes",
       "pt": "Não recebe respostas de mensagens",
       "ko": "메시지 회신을 수신하지 못함",
-      "fr": "Ne reçoit pas de réponses aux messages"
+      "fr": "Ne reçoit pas de réponses aux messages",
+      "tr": "Mesaj yanıtları alınmıyor"
     },
     "Alphanumeric": {
       "ja": "英数字",
       "es": "Alfanumérico",
       "pt": "Alfanumérico",
       "ko": "영숫자",
-      "fr": "Alphanumérique"
+      "fr": "Alphanumérique",
+      "tr": "Alfanümerik"
     },
     "Long Code": {
       "ja": "ロングコード",
       "es": "Código largo",
       "pt": "Código longo",
       "ko": "롱 코드",
-      "fr": "Long Code"
+      "fr": "Long Code",
+      "tr": "Uzun kod"
     },
     "Toll Free": {
       "ja": "フリーダイヤル",
       "es": "Gratuito",
       "pt": "Gratuito",
       "ko": "수신자 부담",
-      "fr": "Numéro vert"
+      "fr": "Numéro vert",
+      "tr": "Ücretsiz"
     },
     "Update All Webhooks": {
       "ja": "すべてのWebhookを更新",
       "es": "Actualizar todos los webhooks",
       "pt": "Atualizar todos os webhooks",
       "ko": "모든 웹훅 업데이트",
-      "fr": "Mettre à jour tous les webhooks"
+      "fr": "Mettre à jour tous les webhooks",
+      "tr": "Tüm Webhook'ları güncelle"
     },
     "Consent Management": {
       "ja": "同意管理",
       "es": "Gestión de consentimiento",
       "pt": "Gestão de consentimento",
       "ko": "동의 관리",
-      "fr": "Gestion du consentement"
+      "fr": "Gestion du consentement",
+      "tr": "Onay yönetimi"
     },
     "Email reputation is only available for OneSignal email, see your ESP provider or email reputation tools.": {
       "ja": "メールの評判はOneSignalメールでのみ利用可能です。詳しくはESPプロバイダーまたはメール評判ツールをご確認ください。",
       "es": "La reputación del correo solo está disponible para correo de OneSignal; consulta tu proveedor ESP o herramientas de reputación de correo.",
       "pt": "A reputação de email está disponível apenas para email do OneSignal; consulte seu provedor ESP ou ferramentas de reputação de email.",
       "ko": "이메일 평판은 OneSignal 이메일에서만 사용할 수 있습니다. ESP 공급자 또는 이메일 평판 도구를 확인하세요.",
-      "fr": "La réputation email n'est disponible que pour OneSignal email ; consultez votre fournisseur ESP ou vos outils de réputation email."
+      "fr": "La réputation email n'est disponible que pour OneSignal email ; consultez votre fournisseur ESP ou vos outils de réputation email.",
+      "tr": "Email itibarı yalnızca OneSignal email için mevcuttur; ESP sağlayıcınıza veya email itibar araçlarına bakın."
     },
     "OneSignal only provides reputation management for users using OneSignal email.": {
       "ja": "OneSignalはOneSignalメールを使用しているユーザーに対してのみ評判管理を提供します。",
       "es": "OneSignal solo proporciona gestión de reputación para los usuarios que utilizan correo de OneSignal.",
       "pt": "O OneSignal fornece gerenciamento de reputação apenas para usuários que usam o email do OneSignal.",
       "ko": "OneSignal은 OneSignal 이메일을 사용하는 사용자에게만 평판 관리를 제공합니다.",
-      "fr": "OneSignal ne fournit la gestion de réputation que pour les utilisateurs d'OneSignal email."
+      "fr": "OneSignal ne fournit la gestion de réputation que pour les utilisateurs d'OneSignal email.",
+      "tr": "OneSignal yalnızca OneSignal email kullanan kullanıcılar için itibar yönetimi sağlar."
     },
     "SMS / RCS Settings": {
       "ja": "SMS / RCS設定",
       "es": "Configuración de SMS / RCS",
       "pt": "Configurações de SMS / RCS",
       "ko": "SMS / RCS 설정",
-      "fr": "Paramètres SMS / RCS"
+      "fr": "Paramètres SMS / RCS",
+      "tr": "SMS / RCS ayarları"
     },
     "Switch Providers": {
       "ja": "プロバイダーを切り替え",
       "es": "Cambiar de proveedor",
       "pt": "Alternar provedores",
       "ko": "공급자 전환",
-      "fr": "Changer de fournisseur"
+      "fr": "Changer de fournisseur",
+      "tr": "Sağlayıcıyı değiştir"
     },
     "To understand your reputation, see your ESP provider or email reputation tools": {
       "ja": "評判を確認するには、ESPプロバイダーまたはメール評判ツールをご確認ください",
       "es": "Para entender tu reputación, consulta tu proveedor ESP o herramientas de reputación de correo",
       "pt": "Para entender sua reputação, consulte seu provedor ESP ou ferramentas de reputação de email",
       "ko": "평판을 이해하려면 ESP 공급자 또는 이메일 평판 도구를 확인하세요",
-      "fr": "Pour comprendre votre réputation, consultez votre fournisseur ESP ou des outils de réputation email"
+      "fr": "Pour comprendre votre réputation, consultez votre fournisseur ESP ou des outils de réputation email",
+      "tr": "İtibarınızı anlamak için ESP sağlayıcınıza veya email itibar araçlarına bakın"
     },
     "Member actions": {
       "ja": "メンバーアクション",
       "es": "Acciones de miembro",
       "pt": "Ações de membro",
       "ko": "멤버 작업",
-      "fr": "Actions du membre"
+      "fr": "Actions du membre",
+      "tr": "Üye eylemleri"
     },
     "Team Member": {
       "ja": "チームメンバー",
       "es": "Miembro del equipo",
       "pt": "Membro da equipe",
       "ko": "팀원",
-      "fr": "Membre de l'équipe"
+      "fr": "Membre de l'équipe",
+      "tr": "Ekip üyesi"
     },
     "CANCEL": {
       "ja": "CANCEL",
       "es": "CANCEL",
       "pt": "CANCEL",
       "ko": "CANCEL",
-      "fr": "CANCEL"
+      "fr": "CANCEL",
+      "tr": "CANCEL"
     },
     "HELP": {
       "ja": "HELP",
       "es": "HELP",
       "pt": "HELP",
       "ko": "HELP",
-      "fr": "HELP"
+      "fr": "HELP",
+      "tr": "HELP"
     },
     "Invited": {
       "ja": "招待済み",
       "es": "Invitado",
       "pt": "Convidado",
       "ko": "초대됨",
-      "fr": "Invité"
+      "fr": "Invité",
+      "tr": "Davet edildi"
     },
     "All Login Methods": {
       "ja": "すべてのログイン方法",
       "es": "Todos los métodos de inicio de sesión",
       "pt": "Todos os métodos de login",
       "ko": "모든 로그인 방법",
-      "fr": "Toutes les méthodes de connexion"
+      "fr": "Toutes les méthodes de connexion",
+      "tr": "Tüm giriş yöntemleri"
     },
     "All Roles": {
       "ja": "すべての役割",
       "es": "Todos los roles",
       "pt": "Todas as funções",
       "ko": "모든 역할",
-      "fr": "Tous les rôles"
+      "fr": "Tous les rôles",
+      "tr": "Tüm roller"
     },
     "Invite to App": {
       "ja": "アプリに招待",
       "es": "Invitar a la app",
       "pt": "Convidar para o app",
       "ko": "앱에 초대",
-      "fr": "Inviter dans l'app"
+      "fr": "Inviter dans l'app",
+      "tr": "Uygulamaya davet et"
     },
     "JOURNEY": {
       "ja": "JOURNEY",
       "es": "JOURNEY",
       "pt": "JOURNEY",
       "ko": "JOURNEY",
-      "fr": "JOURNEY"
+      "fr": "JOURNEY",
+      "tr": "JOURNEY"
     },
     "Last sign in": {
       "ja": "最終サインイン",
       "es": "Último inicio de sesión",
       "pt": "Último login",
       "ko": "마지막 로그인",
-      "fr": "Dernière connexion"
+      "fr": "Dernière connexion",
+      "tr": "Son giriş"
     },
     "Login method": {
       "ja": "ログイン方法",
       "es": "Método de inicio de sesión",
       "pt": "Método de login",
       "ko": "로그인 방법",
-      "fr": "Méthode de connexion"
+      "fr": "Méthode de connexion",
+      "tr": "Giriş yöntemi"
     },
     "Member": {
       "ja": "メンバー",
       "es": "Miembro",
       "pt": "Membro",
       "ko": "멤버",
-      "fr": "Membre"
+      "fr": "Membre",
+      "tr": "Üye"
     },
     "Org role": {
       "ja": "組織での役割",
       "es": "Rol en la organización",
       "pt": "Função na organização",
       "ko": "조직 역할",
-      "fr": "Rôle dans l'organisation"
+      "fr": "Rôle dans l'organisation",
+      "tr": "Organizasyon rolü"
     },
     "Unsuccessful": {
       "ja": "失敗",
       "es": "Sin éxito",
       "pt": "Sem êxito",
       "ko": "실패",
-      "fr": "Échec"
+      "fr": "Échec",
+      "tr": "Başarısız"
     }
   },
   "patterns": [
