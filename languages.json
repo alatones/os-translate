@@ -1002,85 +1002,99 @@
       "es": "Entregado",
       "ja": "配信済み",
       "pt": "Entregue",
-      "ko": "전달됨"
+      "ko": "전달됨",
+      "fr": "Livré"
     },
     "Delivered Events": {
       "es": "Eventos entregados",
       "ja": "配信済みイベント",
       "pt": "Eventos entregues",
-      "ko": "전달된 이벤트"
+      "ko": "전달된 이벤트",
+      "fr": "Événements livrés"
     },
     "Delivery": {
       "es": "Entrega",
       "ja": "配信",
       "pt": "Entrega",
-      "ko": "전달"
+      "ko": "전달",
+      "fr": "Livraison"
     },
     "Delivery Rate": {
       "es": "Tasa de entrega",
       "ja": "配信率",
       "pt": "Taxa de entrega",
-      "ko": "전달률"
+      "ko": "전달률",
+      "fr": "Taux de livraison"
     },
     "Destination URL": {
       "es": "URL de destino",
       "ja": "送信先URL",
       "pt": "URL de destino",
-      "ko": "대상 URL"
+      "ko": "대상 URL",
+      "fr": "URL de destination"
     },
     "Details": {
       "es": "Detalles",
       "ja": "詳細",
       "pt": "Detalhes",
-      "ko": "세부 정보"
+      "ko": "세부 정보",
+      "fr": "Détails"
     },
     "Device": {
       "es": "Dispositivo",
       "ja": "デバイス",
       "pt": "Dispositivo",
-      "ko": "기기"
+      "ko": "기기",
+      "fr": "Appareil"
     },
     "Device Type": {
       "es": "Tipo de dispositivo",
       "ja": "デバイスタイプ",
       "pt": "Tipo de dispositivo",
-      "ko": "기기 유형"
+      "ko": "기기 유형",
+      "fr": "Type d'appareil"
     },
     "Direct": {
       "es": "Directo",
       "ja": "ダイレクト",
       "pt": "Direto",
-      "ko": "직접"
+      "ko": "직접",
+      "fr": "Direct"
     },
     "Disable": {
       "es": "Deshabilitar",
       "ja": "無効化",
       "pt": "Desativar",
-      "ko": "비활성화"
+      "ko": "비활성화",
+      "fr": "Désactiver"
     },
     "Disabled": {
       "es": "Deshabilitado",
       "ja": "無効",
       "pt": "Desativado",
-      "ko": "비활성화됨"
+      "ko": "비활성화됨",
+      "fr": "Désactivé"
     },
     "Discard": {
       "es": "Descartar",
       "ja": "破棄",
       "pt": "Descartar",
-      "ko": "취소"
+      "ko": "취소",
+      "fr": "Abandonner"
     },
     "Disconnected": {
       "es": "Desconectado",
       "ja": "未接続",
       "pt": "Desconectado",
-      "ko": "연결 해제됨"
+      "ko": "연결 해제됨",
+      "fr": "Déconnecté"
     },
     "Documentation": {
       "es": "Documentación",
       "ja": "ドキュメント",
       "pt": "Documentação",
-      "ko": "문서"
+      "ko": "문서",
+      "fr": "Documentation"
     },
     "does not contain": {
       "es": "no contiene",
@@ -1092,19 +1106,22 @@
       "es": "Listo",
       "ja": "完了",
       "pt": "Concluído",
-      "ko": "완료"
+      "ko": "완료",
+      "fr": "Terminé"
     },
     "Draft": {
       "es": "Borrador",
       "ja": "下書き",
       "pt": "Rascunho",
-      "ko": "초안"
+      "ko": "초안",
+      "fr": "Brouillon"
     },
     "Drafts": {
       "es": "Borradores",
       "ja": "下書き一覧",
       "pt": "Rascunhos",
-      "ko": "초안"
+      "ko": "초안",
+      "fr": "Brouillons"
     },
     "Duplicate": {
       "es": "Duplicar",
@@ -3598,7 +3615,8 @@
       "ja": "モバイルファーストな方法で効果的にオーディエンスに直接リーチ。",
       "es": "Llega a tu audiencia de manera efectiva y mobile-first.",
       "pt": "Alcance seu público de forma eficaz e com foco em mobile.",
-      "ko": "효과적인 모바일 우선 방식으로 대상에게 직접 도달하세요."
+      "ko": "효과적인 모바일 우선 방식으로 대상에게 직접 도달하세요.",
+      "fr": "Atteignez directement votre audience avec une approche mobile-first."
     },
     "Reach all active users, regardless of subscription status. (mobile apps only)": {
       "ja": "購読の状況に関わらず、すべてのアクティブユーザーにリーチします。（モバイルアプリのみ）",
@@ -4077,7 +4095,8 @@
       "ja": "閉じる",
       "es": "Descartar",
       "pt": "Descartar",
-      "ko": "닫기"
+      "ko": "닫기",
+      "fr": "Ignorer"
     },
     "If you're ready to take your messaging to the next level, check out Journeys, our new automation tool.": {
       "ja": "メッセージングを次のレベルに引き上げる準備ができたら、新しい自動化ツール「ジャーニー」をご活用ください。",
@@ -4218,13 +4237,15 @@
       "ja": "デバイスタイプがメール",
       "es": "El tipo de dispositivo es Email",
       "pt": "O tipo de dispositivo é E-mail",
-      "ko": "기기 유형: 이메일"
+      "ko": "기기 유형: 이메일",
+      "fr": "Type d'appareil : Email"
     },
     "Device Type is SMS": {
       "ja": "デバイスタイプがSMS",
       "es": "El tipo de dispositivo es SMS",
       "pt": "O tipo de dispositivo é SMS",
-      "ko": "기기 유형: SMS"
+      "ko": "기기 유형: SMS",
+      "fr": "Type d'appareil : SMS"
     },
     "Engaged Subscriptions": {
       "ja": "エンゲージドな購読",
@@ -4435,19 +4456,22 @@
       "ja": "FigmaでRCSをデザイン",
       "es": "Diseñar RCS en Figma",
       "pt": "Criar design de RCS no Figma",
-      "ko": "Figma에서 RCS 디자인"
+      "ko": "Figma에서 RCS 디자인",
+      "fr": "Concevoir RCS dans Figma"
     },
     "Discover RCS": {
       "ja": "RCSを知る",
       "es": "Descubrir RCS",
       "pt": "Descobrir o RCS",
-      "ko": "RCS 알아보기"
+      "ko": "RCS 알아보기",
+      "fr": "Découvrir RCS"
     },
     "Discover what RCS can do": {
       "ja": "RCSでできることを確認",
       "es": "Descubre qué puede hacer RCS",
       "pt": "Descubra o que o RCS pode fazer",
-      "ko": "RCS가 할 수 있는 것 알아보기"
+      "ko": "RCS가 할 수 있는 것 알아보기",
+      "fr": "Découvrir ce que RCS peut faire"
     },
     "Explore RCS in Figma with ready-made components to prototype messaging flows tailored to your use case.": {
       "ja": "ユースケースに合わせたメッセージングフローをプロトタイプするための既製コンポーネントを使って、FigmaでRCSを探索します。",
@@ -4763,25 +4787,29 @@
       "ja": "プラットフォーム別の配信",
       "es": "Entregas por plataforma",
       "pt": "Entregas por plataforma",
-      "ko": "플랫폼별 전달"
+      "ko": "플랫폼별 전달",
+      "fr": "Livraisons par plateforme"
     },
     "Delivery time": {
       "ja": "配信時刻",
       "es": "Hora de entrega",
       "pt": "Hora de entrega",
-      "ko": "전달 시간"
+      "ko": "전달 시간",
+      "fr": "Heure de livraison"
     },
     "Did not click": {
       "ja": "クリックなし",
       "es": "No hizo clic",
       "pt": "Não clicou",
-      "ko": "클릭하지 않음"
+      "ko": "클릭하지 않음",
+      "fr": "N'a pas cliqué"
     },
     "Did not confirm receipt": {
       "ja": "受信未確認",
       "es": "No confirmó recepción",
       "pt": "Não confirmou recebimento",
-      "ko": "수신 확인하지 않음"
+      "ko": "수신 확인하지 않음",
+      "fr": "N'a pas confirmé la réception"
     },
     "False": {
       "ja": "偽",
@@ -5087,7 +5115,8 @@
       "ja": "全期間の配信統計",
       "es": "Estadísticas de entrega de todos los tiempos",
       "pt": "Estatísticas de entrega de todo o tempo",
-      "ko": "전체 기간의 전달 통계"
+      "ko": "전체 기간의 전달 통계",
+      "fr": "Statistiques de livraison depuis le début"
     },
     "Errors": {
       "ja": "エラー",
@@ -5168,7 +5197,8 @@
       "ja": "ドロワー",
       "es": "Panel lateral",
       "pt": "Gaveta",
-      "ko": "드로어"
+      "ko": "드로어",
+      "fr": "Panneau latéral"
     },
     "Line chart depicting analytics": {
       "ja": "分析を表す折れ線グラフ",
@@ -5228,7 +5258,8 @@
       "ja": "ドラッグ＆ドロップエディター",
       "es": "Editor de arrastrar y soltar",
       "pt": "Editor de arrastar e soltar",
-      "ko": "드래그 앤 드롭 편집기"
+      "ko": "드래그 앤 드롭 편집기",
+      "fr": "Éditeur glisser-déposer"
     },
     "HTML editor": {
       "ja": "HTMLエディター",
@@ -5710,7 +5741,8 @@
       "ja": "クリックで閉じる",
       "es": "Descartar al hacer clic",
       "pt": "Descartar ao clicar",
-      "ko": "클릭 시 닫기"
+      "ko": "클릭 시 닫기",
+      "fr": "Ignorer au clic"
     },
     "Image upload input": {
       "ja": "画像アップロード入力",
@@ -5931,25 +5963,29 @@
       "ja": "一定時間後に閉じる",
       "es": "Descartar después de cierto tiempo",
       "pt": "Descartar após determinado tempo",
-      "ko": "일정 시간 후 닫기"
+      "ko": "일정 시간 후 닫기",
+      "fr": "Ignorer après un certain délai"
     },
     "Drop shadow X": {
       "ja": "ドロップシャドウX",
       "es": "Sombra paralela X",
       "pt": "Sombra projetada X",
-      "ko": "그림자 X"
+      "ko": "그림자 X",
+      "fr": "Ombre portée X"
     },
     "Drop shadow Y": {
       "ja": "ドロップシャドウY",
       "es": "Sombra paralela Y",
       "pt": "Sombra projetada Y",
-      "ko": "그림자 Y"
+      "ko": "그림자 Y",
+      "fr": "Ombre portée Y"
     },
     "Drop shadow blur": {
       "ja": "ドロップシャドウのぼかし",
       "es": "Desenfoque de la sombra",
       "pt": "Desfoque da sombra",
-      "ko": "그림자 흐림"
+      "ko": "그림자 흐림",
+      "fr": "Flou de l'ombre portée"
     },
     "Drop shadow color": {
       "ja": "ドロップシャドウの色",
@@ -6674,13 +6710,15 @@
       "ja": "このジャーニーの目的を記述...",
       "es": "Describe el propósito de este Journey...",
       "pt": "Descreva o propósito deste Journey...",
-      "ko": "이 저니의 목적을 설명하세요..."
+      "ko": "이 저니의 목적을 설명하세요...",
+      "fr": "Décrivez le but de ce Journey..."
     },
     "Description": {
       "ja": "説明",
       "es": "Descripción",
       "pt": "Descrição",
-      "ko": "설명"
+      "ko": "설명",
+      "fr": "Description"
     },
     "Journey Name": {
       "ja": "ジャーニー名",
@@ -6958,19 +6996,22 @@
       "ja": "ウェブ/アプリで異なるURL",
       "es": "URL diferente para web/aplicación",
       "pt": "URL diferente para web/app",
-      "ko": "웹/앱용 다른 URL"
+      "ko": "웹/앱용 다른 URL",
+      "fr": "URL différente pour web/app"
     },
     "Device's default (filename.extension)": {
       "ja": "デバイスの既定値 (ファイル名.拡張子)",
       "es": "El predeterminado del dispositivo (nombredearchivo.extensión)",
       "pt": "O padrão do dispositivo (nomedoarquivo.extensão)",
-      "ko": "기기의 기본값 (파일명.확장자)"
+      "ko": "기기의 기본값 (파일명.확장자)",
+      "fr": "Par défaut de l'appareil (nomdefichier.extension)"
     },
     "Don't set": {
       "ja": "設定しない",
       "es": "No establecer",
       "pt": "Não definir",
-      "ko": "설정하지 않음"
+      "ko": "설정하지 않음",
+      "fr": "Ne pas définir"
     },
     "Field 1": {
       "ja": "フィールド 1",
@@ -7276,7 +7317,8 @@
       "ja": "デバイスタイプはiOS",
       "es": "El tipo de dispositivo es iOS",
       "pt": "O tipo de dispositivo é iOS",
-      "ko": "기기 유형: iOS"
+      "ko": "기기 유형: iOS",
+      "fr": "Type d'appareil : iOS"
     },
     "Test Users is true": {
       "ja": "テストユーザーがtrue",
@@ -7288,7 +7330,8 @@
       "ja": "デバイスタイプはWebプッシュ (全ブラウザ)",
       "es": "El tipo de dispositivo es Web Push (todos los navegadores)",
       "pt": "O tipo de dispositivo é Web Push (todos os navegadores)",
-      "ko": "기기 유형: 웹 푸시 (모든 브라우저)"
+      "ko": "기기 유형: 웹 푸시 (모든 브라우저)",
+      "fr": "Type d'appareil : Web Push (tous navigateurs)"
     },
     "Add Or": {
       "ja": "ORを追加",
@@ -7315,7 +7358,8 @@
       "ja": "デバイスのオペレーティングシステム",
       "es": "Sistema operativo del dispositivo",
       "pt": "Sistema operacional do dispositivo",
-      "ko": "기기 운영 체제"
+      "ko": "기기 운영 체제",
+      "fr": "Système d'exploitation de l'appareil"
     },
     "Early Access": {
       "ja": "早期アクセス",
@@ -7581,7 +7625,8 @@
       "ja": "ダブルオプトイン",
       "es": "Doble opt-in",
       "pt": "Opt-in duplo",
-      "ko": "이중 옵트인"
+      "ko": "이중 옵트인",
+      "fr": "Double opt-in"
     },
     "Add action": {
       "ja": "アクションを追加",
@@ -8047,7 +8092,8 @@
       "ja": "デバイス",
       "es": "Dispositivos",
       "pt": "Dispositivos",
-      "ko": "기기"
+      "ko": "기기",
+      "fr": "Appareils"
     },
     "Event log": {
       "ja": "イベントログ",
@@ -8161,7 +8207,8 @@
       "ja": "ジャーニーの追加の自動化、チャネル、機能でエンゲージメントを高めます。",
       "es": "Aumenta el engagement con más automatizaciones, canales y funciones en Journeys.",
       "pt": "Aumente o engajamento com mais automações, canais e recursos em Journeys.",
-      "ko": "저니의 추가 자동화, 채널 및 기능으로 참여도를 높이세요."
+      "ko": "저니의 추가 자동화, 채널 및 기능으로 참여도를 높이세요.",
+      "fr": "Boostez l'engagement avec plus d'automatisations, de canaux et de fonctionnalités dans Journeys."
     },
     "Try Journeys": {
       "ja": "ジャーニーを試す",
@@ -8387,7 +8434,8 @@
       "ja": "アプリを無効化",
       "es": "Desactivar app",
       "pt": "Desativar app",
-      "ko": "앱 비활성화"
+      "ko": "앱 비활성화",
+      "fr": "Désactiver l'app"
     },
     "You may disable this app to prevent new and scheduled notifications from being delivered. Apps you manually disable can be instantly re-enabled at any time.": {
       "ja": "このアプリを無効化すると、新規および予約済みの通知が配信されなくなります。手動で無効化したアプリはいつでもすぐに再有効化できます。",
@@ -8682,7 +8730,8 @@
       "ja": "ドメイン",
       "es": "Dominio",
       "pt": "Domínio",
-      "ko": "도메인"
+      "ko": "도메인",
+      "fr": "Domaine"
     },
     "Last 24 hours": {
       "ja": "過去24時間",
@@ -9054,7 +9103,8 @@
       "ja": "ダブルオプトイン",
       "es": "Doble opt-in",
       "pt": "Opt-in duplo",
-      "ko": "이중 옵트인"
+      "ko": "이중 옵트인",
+      "fr": "Double opt-in"
     },
     "Keywords automatically send a reply when a keyword is received from a subscribed phone number.": {
       "ja": "キーワードは、購読済みの電話番号からキーワードを受信したときに自動的に返信を送信します。",
