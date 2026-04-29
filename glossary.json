@@ -624,7 +624,9 @@
       "fr": [
         "Importer",
         "Importation",
-        "Importé"
+        "Importé",
+        "Import",
+        "import"
       ]
     },
     "Export": {
@@ -648,7 +650,9 @@
       "fr": [
         "Exporter",
         "Exportation",
-        "Exporté"
+        "Exporté",
+        "Export",
+        "export"
       ]
     },
     "Settings": {

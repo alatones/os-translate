@@ -842,55 +842,64 @@
       "es": "Personalizado",
       "ja": "カスタム",
       "pt": "Personalizado",
-      "ko": "사용자 정의"
+      "ko": "사용자 정의",
+      "fr": "Personnalisé"
     },
     "Custom Audience": {
       "es": "Audiencia personalizada",
       "ja": "カスタムオーディエンス",
       "pt": "Público personalizado",
-      "ko": "맞춤 대상"
+      "ko": "맞춤 대상",
+      "fr": "Audience personnalisée"
     },
     "Custom Data": {
       "es": "Datos personalizados",
       "ja": "カスタムデータ",
       "pt": "Dados personalizados",
-      "ko": "사용자 정의 데이터"
+      "ko": "사용자 정의 데이터",
+      "fr": "Données personnalisées"
     },
     "Custom Events": {
       "es": "Eventos personalizados",
       "ja": "カスタムイベント",
       "pt": "Eventos personalizados",
-      "ko": "사용자 정의 이벤트"
+      "ko": "사용자 정의 이벤트",
+      "fr": "Événements personnalisés"
     },
     "Custom Range": {
       "es": "Rango personalizado",
       "ja": "カスタム範囲",
       "pt": "Período personalizado",
-      "ko": "사용자 정의 기간"
+      "ko": "사용자 정의 기간",
+      "fr": "Plage personnalisée"
     },
     "Dashboard": {
       "es": "Panel de control",
       "ja": "ダッシュボード",
       "pt": "Painel",
-      "ko": "대시보드"
+      "ko": "대시보드",
+      "fr": "Tableau de bord"
     },
     "Data": {
       "es": "Datos",
       "ja": "データ",
       "pt": "Dados",
-      "ko": "데이터"
+      "ko": "데이터",
+      "fr": "Données"
     },
     "Data Feeds": {
       "es": "Fuentes de datos",
       "ja": "データフィード",
       "pt": "Feeds de dados",
-      "ko": "데이터 피드"
+      "ko": "데이터 피드",
+      "fr": "Flux de données"
     },
     "Data Tags": {
       "es": "Etiquetas de datos",
       "ja": "データタグ",
       "pt": "Tags de dados",
-      "ko": "데이터 태그"
+      "ko": "데이터 태그",
+      "fr": "Tags de données"
     },
     "data tags": {
       "es": "etiquetas de datos",
@@ -902,79 +911,92 @@
       "es": "Fecha",
       "ja": "日付",
       "pt": "Data",
-      "ko": "날짜"
+      "ko": "날짜",
+      "fr": "Date"
     },
     "Date Range": {
       "es": "Rango de fechas",
       "ja": "日付範囲",
       "pt": "Intervalo de datas",
-      "ko": "날짜 범위"
+      "ko": "날짜 범위",
+      "fr": "Plage de dates"
     },
     "Date Sent": {
       "es": "Fecha de envío",
       "ja": "送信日",
       "pt": "Data de envio",
-      "ko": "발송 날짜"
+      "ko": "발송 날짜",
+      "fr": "Date d'envoi"
     },
     "Date timestamps are stored in UTC time (EDT is -04:00 from UTC)": {
       "es": "Las fechas se almacenan en UTC (EDT es -04:00 desde UTC)",
       "ja": "日付はUTC時刻で保存されています（EDTはUTCから-04:00）",
       "pt": "Datas são armazenadas em UTC (EDT é -04:00 do UTC)",
-      "ko": "날짜 타임스탬프는 UTC 기준으로 저장됩니다 (EDT는 UTC -04:00)"
+      "ko": "날짜 타임스탬프는 UTC 기준으로 저장됩니다 (EDT는 UTC -04:00)",
+      "fr": "Les horodatages sont stockés au format UTC (EDT est UTC -04:00)"
     },
     "Deactivate": {
       "es": "Desactivar",
       "ja": "無効化",
       "pt": "Desativar",
-      "ko": "비활성화"
+      "ko": "비활성화",
+      "fr": "Désactiver"
     },
     "Dec": {
       "es": "dic",
       "ja": "12月",
       "pt": "dez",
-      "ko": "12월"
+      "ko": "12월",
+      "fr": "déc"
     },
     "December": {
       "es": "diciembre",
       "ja": "12月",
       "pt": "dezembro",
-      "ko": "12월"
+      "ko": "12월",
+      "fr": "décembre"
     },
     "Default Language": {
       "es": "Idioma predeterminado",
       "ja": "デフォルト言語",
       "pt": "Idioma padrão",
-      "ko": "기본 언어"
+      "ko": "기본 언어",
+      "fr": "Langue par défaut"
     },
     "Delay": {
       "es": "Retraso",
       "ja": "遅延",
       "pt": "Atraso",
-      "ko": "지연"
+      "ko": "지연",
+      "fr": "Délai"
     },
     "Delete": {
       "es": "Eliminar",
       "ja": "削除",
       "pt": "Excluir",
-      "ko": "삭제"
+      "ko": "삭제",
+      "fr": "Supprimer"
     },
     "Delete App": {
       "es": "Eliminar app",
       "ja": "アプリを削除",
       "pt": "Excluir app",
-      "ko": "앱 삭제"
+      "ko": "앱 삭제",
+      "fr": "Supprimer l'app"
     },
     "Delete Segment": {
       "es": "Eliminar segmento",
       "ja": "セグメントを削除",
       "pt": "Excluir segmento",
-      "ko": "세그먼트 삭제"
+      "ko": "세그먼트 삭제",
+      "fr": "Supprimer le segment"
     },
     "Delete Template": {
       "es": "Eliminar plantilla",
       "ja": "テンプレートを削除",
       "pt": "Excluir modelo",
-      "ko": "템플릿 삭제"
+      "ko": "템플릿 삭제",
+      "fr": "Supprimer le modèle"
     },
     "Delivered": {
       "es": "Entregado",
@@ -3727,19 +3749,22 @@
       "ja": "データウェアハウス",
       "es": "Almacén de datos",
       "pt": "Armazém de dados",
-      "ko": "데이터 웨어하우스"
+      "ko": "데이터 웨어하우스",
+      "fr": "Entrepôt de données"
     },
     "Database": {
       "ja": "データベース",
       "es": "Base de datos",
       "pt": "Banco de dados",
-      "ko": "데이터베이스"
+      "ko": "데이터베이스",
+      "fr": "Base de données"
     },
     "Data Streaming": {
       "ja": "データストリーミング",
       "es": "Transmisión de datos",
       "pt": "Streaming de dados",
-      "ko": "데이터 스트리밍"
+      "ko": "데이터 스트리밍",
+      "fr": "Streaming de données"
     },
     "Storage": {
       "ja": "ストレージ",
@@ -3966,7 +3991,8 @@
       "ja": "アプリ体験をカスタマイズ",
       "es": "Personaliza las experiencias de la app",
       "pt": "Personalize as experiências do aplicativo",
-      "ko": "앱 경험 사용자화"
+      "ko": "앱 경험 사용자화",
+      "fr": "Personnalisez les expériences de l'app"
     },
     "Guide users to high-value actions and conversions": {
       "ja": "ユーザーを価値の高いアクションとコンバージョンへ誘導",
@@ -4276,13 +4302,15 @@
       "ja": "データフィードを使用すると、送信時にAPIからデータを動的に取得できます。",
       "es": "Los Data Feeds te permiten obtener datos de forma dinámica desde tus APIs en el momento del envío.",
       "pt": "Os Data Feeds permitem que você busque dados dinamicamente de suas APIs no momento do envio.",
-      "ko": "데이터 피드를 통해 발송 시 API에서 동적으로 데이터를 가져올 수 있습니다."
+      "ko": "데이터 피드를 통해 발송 시 API에서 동적으로 데이터를 가져올 수 있습니다.",
+      "fr": "Les Flux de données vous permettent de récupérer dynamiquement des données depuis vos API au moment de l'envoi."
     },
     "Data Feeds documentation": {
       "ja": "データフィードのドキュメント",
       "es": "Documentación de Data Feeds",
       "pt": "Documentação de Data Feeds",
-      "ko": "데이터 피드 문서"
+      "ko": "데이터 피드 문서",
+      "fr": "Documentation des Flux de données"
     },
     "Insert real-time, dynamic content from your data feeds directly into the template at the time of sending. This feature only applies to templates sent through Journeys.": {
       "ja": "送信時にデータフィードからリアルタイムの動的コンテンツをテンプレートに直接挿入します。この機能はジャーニー経由で送信されるテンプレートにのみ適用されます。",
@@ -5007,7 +5035,8 @@
       "ja": "カスタムイベントを使うとアプリやウェブサイトでのユーザー活動を追跡して反応できます。",
       "es": "Los eventos personalizados te permiten rastrear y responder a la actividad de los usuarios en tu aplicación o sitio web.",
       "pt": "Os eventos personalizados permitem que você rastreie e responda à atividade do usuário em seu aplicativo ou site.",
-      "ko": "사용자 정의 이벤트를 통해 앱 또는 웹사이트의 사용자 활동을 추적하고 응답할 수 있습니다."
+      "ko": "사용자 정의 이벤트를 통해 앱 또는 웹사이트의 사용자 활동을 추적하고 응답할 수 있습니다.",
+      "fr": "Les événements personnalisés vous permettent de suivre l'activité des utilisateurs dans votre app ou site web et d'y répondre."
     },
     "Last updated": {
       "ja": "最終更新",
@@ -5132,7 +5161,8 @@
       "ja": "カスタムイベント取り込み",
       "es": "Ingesta de eventos personalizados",
       "pt": "Ingestão de eventos personalizados",
-      "ko": "사용자 정의 이벤트 수집"
+      "ko": "사용자 정의 이벤트 수집",
+      "fr": "Ingestion d'événements personnalisés"
     },
     "Drawer": {
       "ja": "ドロワー",
@@ -5328,7 +5358,8 @@
       "ja": "ユーザーのタイムゾーンに合わせた時間",
       "es": "Hora personalizada según la zona horaria del usuario",
       "pt": "Horário personalizado por fuso horário do usuário",
-      "ko": "사용자 시간대별 사용자 정의 시간"
+      "ko": "사용자 시간대별 사용자 정의 시간",
+      "fr": "Heure personnalisée selon le fuseau horaire de l'utilisateur"
     },
     "Dynamic Content": {
       "ja": "ダイナミックコンテンツ",
@@ -6245,7 +6276,8 @@
       "ja": "カスタムイベント",
       "es": "Evento personalizado",
       "pt": "Evento personalizado",
-      "ko": "사용자 정의 이벤트"
+      "ko": "사용자 정의 이벤트",
+      "fr": "Événement personnalisé"
     },
     "Entrance": {
       "ja": "開始",
@@ -6422,13 +6454,15 @@
       "ja": "カスタムイベント一覧",
       "es": "Lista de eventos personalizados",
       "pt": "Lista de eventos personalizados",
-      "ko": "사용자 정의 이벤트 목록"
+      "ko": "사용자 정의 이벤트 목록",
+      "fr": "Liste des événements personnalisés"
     },
     "Custom Event Name": {
       "ja": "カスタムイベント名",
       "es": "Nombre del evento personalizado",
       "pt": "Nome do evento personalizado",
-      "ko": "사용자 정의 이벤트 이름"
+      "ko": "사용자 정의 이벤트 이름",
+      "fr": "Nom de l'événement personnalisé"
     },
     "Enter custom event name": {
       "ja": "カスタムイベント名を入力",
@@ -6691,7 +6725,8 @@
       "ja": "現在のユーザー権限ではこの操作は許可されていません。",
       "es": "Los permisos del usuario actual no permiten esta acción.",
       "pt": "As permissões do usuário atual não permitem esta ação.",
-      "ko": "현재 사용자 권한으로는 이 작업이 허용되지 않습니다."
+      "ko": "현재 사용자 권한으로는 이 작업이 허용되지 않습니다.",
+      "fr": "Les autorisations de l'utilisateur actuel ne permettent pas cette action."
     },
     "Legacy Format": {
       "ja": "レガシー形式",
@@ -6733,7 +6768,8 @@
       "ja": "すぐに配信",
       "es": "Entregar inmediatamente",
       "pt": "Entregar imediatamente",
-      "ko": "즉시 전달"
+      "ko": "즉시 전달",
+      "fr": "Livrer immédiatement"
     },
     "or paste URL": {
       "ja": "またはURLを貼り付け",
@@ -6908,13 +6944,15 @@
       "ja": "デフォルトはベルアイコン（リソース名）",
       "es": "El predeterminado es un icono de campana (nombre de recurso)",
       "pt": "O padrão é um ícone de sino (nome do recurso)",
-      "ko": "기본값은 종 아이콘 (리소스 이름)"
+      "ko": "기본값은 종 아이콘 (리소스 이름)",
+      "fr": "Par défaut, icône de cloche (nom de ressource)"
     },
     "Default is device's default": {
       "ja": "デフォルトはデバイスの既定値",
       "es": "El predeterminado es el predeterminado del dispositivo",
       "pt": "O padrão é o padrão do dispositivo",
-      "ko": "기본값은 기기의 기본값"
+      "ko": "기본값은 기기의 기본값",
+      "fr": "Par défaut, paramètre par défaut de l'appareil"
     },
     "Different URL for web/app": {
       "ja": "ウェブ/アプリで異なるURL",
@@ -7270,7 +7308,8 @@
       "ja": "ユーザーレコードに追加したカスタムタグ",
       "es": "Etiquetas personalizadas que has añadido al registro del usuario",
       "pt": "Tags personalizadas que você adicionou ao registro do usuário",
-      "ko": "사용자 기록에 추가한 사용자 정의 태그"
+      "ko": "사용자 기록에 추가한 사용자 정의 태그",
+      "fr": "Tags personnalisés que vous avez ajoutés à l'enregistrement utilisateur"
     },
     "Device operating system": {
       "ja": "デバイスのオペレーティングシステム",
@@ -7402,7 +7441,8 @@
       "ja": "現在の期間",
       "es": "Período actual",
       "pt": "Período atual",
-      "ko": "현재 기간"
+      "ko": "현재 기간",
+      "fr": "Période actuelle"
     },
     "Previous Period": {
       "ja": "前回の期間",
@@ -7414,13 +7454,15 @@
       "ja": "現在の期間:",
       "es": "Período actual:",
       "pt": "Período atual:",
-      "ko": "현재 기간:"
+      "ko": "현재 기간:",
+      "fr": "Période actuelle :"
     },
     "Current": {
       "ja": "現在",
       "es": "Actual",
       "pt": "Atual",
-      "ko": "현재"
+      "ko": "현재",
+      "fr": "Actuel"
     },
     "SMS / MMS / RCS Segments": {
       "ja": "SMS / MMS / RCSセグメント",
@@ -7458,13 +7500,15 @@
       "ja": "DWH",
       "es": "DWH",
       "pt": "DWH",
-      "ko": "DWH"
+      "ko": "DWH",
+      "fr": "DWH"
     },
     "Data Warehouse Event Export": {
       "ja": "データウェアハウスイベントエクスポート",
       "es": "Exportación de eventos de Data Warehouse",
       "pt": "Exportação de eventos de Data Warehouse",
-      "ko": "데이터 웨어하우스 이벤트 내보내기"
+      "ko": "데이터 웨어하우스 이벤트 내보내기",
+      "fr": "Export d'événements vers Data Warehouse"
     },
     "Event counts include all tracked events processed through both data warehouse exports and event streams.": {
       "ja": "イベント数には、データウェアハウスエクスポートおよびイベントストリームの両方で処理された追跡対象イベントが含まれます。",
@@ -7896,7 +7940,8 @@
       "ja": "デフォルトのブランドロゴ",
       "es": "Logotipo de marca predeterminado",
       "pt": "Logotipo de marca padrão",
-      "ko": "기본 브랜드 로고"
+      "ko": "기본 브랜드 로고",
+      "fr": "Logo de marque par défaut"
     },
     "Insert Trackable Link": {
       "ja": "追跡可能なリンクを挿入",
@@ -7988,13 +8033,15 @@
       "ja": "カスタムイベント",
       "es": "Eventos personalizados",
       "pt": "Eventos personalizados",
-      "ko": "사용자 정의 이벤트"
+      "ko": "사용자 정의 이벤트",
+      "fr": "Événements personnalisés"
     },
     "Data tags": {
       "ja": "データタグ",
       "es": "Etiquetas de datos",
       "pt": "Tags de dados",
-      "ko": "데이터 태그"
+      "ko": "데이터 태그",
+      "fr": "Tags de données"
     },
     "Devices": {
       "ja": "デバイス",
@@ -8158,7 +8205,8 @@
       "ja": "ユーザーに複数回配信しますか？",
       "es": "¿Entregar a los usuarios más de una vez?",
       "pt": "Entregar aos usuários mais de uma vez?",
-      "ko": "사용자에게 여러 번 전달하시겠습니까?"
+      "ko": "사용자에게 여러 번 전달하시겠습니까?",
+      "fr": "Livrer aux utilisateurs plus d'une fois ?"
     },
     "If the user returns to the app": {
       "ja": "ユーザーがアプリに戻った場合",
@@ -8284,7 +8332,8 @@
       "ja": "日付と時刻",
       "es": "Fecha y hora",
       "pt": "Data e hora",
-      "ko": "날짜 및 시간"
+      "ko": "날짜 및 시간",
+      "fr": "Date et heure"
     },
     "Export Created": {
       "ja": "エクスポートが作成されました",
@@ -8758,7 +8807,8 @@
       "ja": "データウェアハウス統合",
       "es": "Integración con Data Warehouse",
       "pt": "Integração com Data Warehouse",
-      "ko": "데이터 웨어하우스 통합"
+      "ko": "데이터 웨어하우스 통합",
+      "fr": "Intégration Data Warehouse"
     },
     "Forwarded Email Templates": {
       "ja": "転送されたメールテンプレート",
