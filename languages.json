@@ -4013,350 +4013,400 @@
       "ja": "時刻",
       "pt": "Hora",
       "ko": "시간",
-      "fr": "Heure"
+      "fr": "Heure",
+      "tr": "Saat"
     },
     "Time Zone": {
       "es": "Zona horaria",
       "ja": "タイムゾーン",
       "pt": "Fuso horário",
       "ko": "시간대",
-      "fr": "Fuseau horaire"
+      "fr": "Fuseau horaire",
+      "tr": "Saat dilimi"
     },
     "Timezone": {
       "es": "Zona horaria",
       "ja": "タイムゾーン",
       "pt": "Fuso horário",
       "ko": "시간대",
-      "fr": "Fuseau horaire"
+      "fr": "Fuseau horaire",
+      "tr": "Saat dilimi"
     },
     "Timezone ID": {
       "es": "ID de zona horaria",
       "ja": "タイムゾーンID",
       "pt": "ID de fuso horário",
       "ko": "시간대 ID",
-      "fr": "ID de fuseau horaire"
+      "fr": "ID de fuseau horaire",
+      "tr": "Saat dilimi ID"
     },
     "Today": {
       "es": "Hoy",
       "ja": "今日",
       "pt": "Hoje",
       "ko": "오늘",
-      "fr": "Aujourd'hui"
+      "fr": "Aujourd'hui",
+      "tr": "Bugün"
     },
     "Token": {
       "es": "Token",
       "ja": "トークン",
       "pt": "Token",
       "ko": "토큰",
-      "fr": "Token"
+      "fr": "Token",
+      "tr": "Token"
     },
     "Total": {
       "es": "Total",
       "ja": "合計",
       "pt": "Total",
       "ko": "합계",
-      "fr": "Total"
+      "fr": "Total",
+      "tr": "Toplam"
     },
     "Total Delivered": {
       "es": "Total entregados",
       "ja": "合計配信数",
       "pt": "Total entregues",
       "ko": "총 전달됨",
-      "fr": "Total livrés"
+      "fr": "Total livrés",
+      "tr": "Toplam teslim edilen"
     },
     "Total Recipients": {
       "es": "Total de destinatarios",
       "ja": "合計受信者数",
       "pt": "Total de destinatários",
       "ko": "총 수신자",
-      "fr": "Total des destinataires"
+      "fr": "Total des destinataires",
+      "tr": "Toplam alıcı"
     },
     "Total records": {
       "es": "Total de registros",
       "ja": "合計レコード数",
       "pt": "Total de registros",
       "ko": "총 기록 수",
-      "fr": "Total des enregistrements"
+      "fr": "Total des enregistrements",
+      "tr": "Toplam kayıt"
     },
     "Total Sent": {
       "es": "Total enviados",
       "ja": "合計送信数",
       "pt": "Total enviados",
       "ko": "총 발송됨",
-      "fr": "Total envoyés"
+      "fr": "Total envoyés",
+      "tr": "Toplam gönderim"
     },
     "Total subscribed": {
       "es": "Total suscritos",
       "ja": "合計購読数",
       "pt": "Total de inscritos",
       "ko": "총 구독 수",
-      "fr": "Total des abonnés"
+      "fr": "Total des abonnés",
+      "tr": "Toplam abone"
     },
     "Total Subscribers": {
       "es": "Total de suscriptores",
       "ja": "合計購読者数",
       "pt": "Total de assinantes",
       "ko": "총 구독자",
-      "fr": "Total des abonnés"
+      "fr": "Total des abonnés",
+      "tr": "Toplam aboneler"
     },
     "Total web push subscribers": {
       "es": "Total de suscriptores web push",
       "ja": "Webプッシュ購読者数合計",
       "pt": "Total de assinantes web push",
       "ko": "총 웹 푸시 구독자",
-      "fr": "Total des abonnés push web"
+      "fr": "Total des abonnés push web",
+      "tr": "Toplam web push aboneleri"
     },
     "Trigger": {
       "es": "Disparador",
       "ja": "トリガー",
       "pt": "Gatilho",
       "ko": "트리거",
-      "fr": "Déclencheur"
+      "fr": "Déclencheur",
+      "tr": "Tetikleyici"
     },
     "true": {
       "es": "verdadero",
       "ja": "はい",
       "pt": "verdadeiro",
       "ko": "참",
-      "fr": "vrai"
+      "fr": "vrai",
+      "tr": "doğru"
     },
     "TTL": {
       "es": "TTL",
       "ja": "TTL",
       "pt": "TTL",
       "ko": "TTL",
-      "fr": "TTL"
+      "fr": "TTL",
+      "tr": "TTL"
     },
     "Tue": {
       "es": "Mar",
       "ja": "火",
       "pt": "Ter",
       "ko": "화",
-      "fr": "Mar"
+      "fr": "Mar",
+      "tr": "Sal"
     },
     "Type": {
       "es": "Tipo",
       "ja": "タイプ",
       "pt": "Tipo",
       "ko": "유형",
-      "fr": "Type"
+      "fr": "Type",
+      "tr": "Tür"
     },
     "Unarchive": {
       "es": "Desarchivar",
       "ja": "アーカイブ解除",
       "pt": "Desarquivar",
       "ko": "보관 취소",
-      "fr": "Désarchiver"
+      "fr": "Désarchiver",
+      "tr": "Arşivden çıkar"
     },
     "Unattributed": {
       "es": "Sin atribución",
       "ja": "未帰属",
       "pt": "Não atribuído",
       "ko": "미귀속",
-      "fr": "Non attribué"
+      "fr": "Non attribué",
+      "tr": "Atfedilmemiş"
     },
     "Unconfirmed": {
       "es": "Sin confirmar",
       "ja": "未確認",
       "pt": "Não confirmado",
       "ko": "확인되지 않음",
-      "fr": "Non confirmé"
+      "fr": "Non confirmé",
+      "tr": "Onaylanmamış"
     },
     "Unknown": {
       "es": "Desconocido",
       "ja": "不明",
       "pt": "Desconhecido",
       "ko": "알 수 없음",
-      "fr": "Inconnu"
+      "fr": "Inconnu",
+      "tr": "Bilinmiyor"
     },
     "Unpublish": {
       "es": "Despublicar",
       "ja": "非公開化",
       "pt": "Cancelar publicação",
       "ko": "게시 취소",
-      "fr": "Dépublier"
+      "fr": "Dépublier",
+      "tr": "Yayından kaldır"
     },
     "Unsubscribe rate": {
       "es": "Tasa de cancelación",
       "ja": "購読解除率",
       "pt": "Taxa de cancelamento",
       "ko": "구독 취소율",
-      "fr": "Taux de désinscription"
+      "fr": "Taux de désinscription",
+      "tr": "Abonelikten çıkma oranı"
     },
     "Unsubscribed": {
       "es": "Cancelado",
       "ja": "購読解除",
       "pt": "Cancelado",
       "ko": "구독 취소됨",
-      "fr": "Désinscrit"
+      "fr": "Désinscrit",
+      "tr": "Abonelikten çıktı"
     },
     "Unsubscribed:": {
       "es": "Cancelaciones:",
       "ja": "購読解除：",
       "pt": "Cancelamentos:",
       "ko": "구독 취소:",
-      "fr": "Désinscriptions :"
+      "fr": "Désinscriptions :",
+      "tr": "Abonelikten çıkanlar:"
     },
     "Update": {
       "es": "Actualizar",
       "ja": "更新",
       "pt": "Atualizar",
       "ko": "업데이트",
-      "fr": "Mettre à jour"
+      "fr": "Mettre à jour",
+      "tr": "Güncelle"
     },
     "Update/Import Users": {
       "es": "Actualizar/importar usuarios",
       "ja": "ユーザーを更新/インポート",
       "pt": "Atualizar/importar usuários",
       "ko": "사용자 업데이트/가져오기",
-      "fr": "Mettre à jour / importer des utilisateurs"
+      "fr": "Mettre à jour / importer des utilisateurs",
+      "tr": "Kullanıcıları güncelle/içe aktar"
     },
     "Updated At": {
       "es": "Actualizado el",
       "ja": "更新日時",
       "pt": "Atualizado em",
       "ko": "업데이트 일시",
-      "fr": "Mis à jour le"
+      "fr": "Mis à jour le",
+      "tr": "Güncelleme tarihi"
     },
     "Upload a CSV": {
       "es": "Subir un CSV",
       "ja": "CSVをアップロード",
       "pt": "Enviar um CSV",
       "ko": "CSV 업로드",
-      "fr": "Téléverser un CSV"
+      "fr": "Téléverser un CSV",
+      "tr": "CSV yükle"
     },
     "URL": {
       "es": "URL",
       "ja": "URL",
       "pt": "URL",
       "ko": "URL",
-      "fr": "URL"
+      "fr": "URL",
+      "tr": "URL"
     },
     "Usage": {
       "es": "Uso",
       "ja": "使用状況",
       "pt": "Uso",
       "ko": "사용량",
-      "fr": "Utilisation"
+      "fr": "Utilisation",
+      "tr": "Kullanım"
     },
     "Usage duration": {
       "es": "Duración de uso",
       "ja": "使用期間",
       "pt": "Duração de uso",
       "ko": "사용 기간",
-      "fr": "Durée d'utilisation"
+      "fr": "Durée d'utilisation",
+      "tr": "Kullanım süresi"
     },
     "Usage locations": {
       "es": "Ubicaciones de uso",
       "ja": "使用箇所",
       "pt": "Locais de uso",
       "ko": "사용 위치",
-      "fr": "Lieux d'utilisation"
+      "fr": "Lieux d'utilisation",
+      "tr": "Kullanım konumları"
     },
     "Use Template": {
       "es": "Usar plantilla",
       "ja": "テンプレートを使用",
       "pt": "Usar modelo",
       "ko": "템플릿 사용",
-      "fr": "Utiliser le modèle"
+      "fr": "Utiliser le modèle",
+      "tr": "Şablonu kullan"
     },
     "User Records": {
       "es": "Registros de usuarios",
       "ja": "ユーザー記録",
       "pt": "Registros de usuários",
       "ko": "사용자 기록",
-      "fr": "Enregistrements utilisateurs"
+      "fr": "Enregistrements utilisateurs",
+      "tr": "Kullanıcı kayıtları"
     },
     "Users": {
       "es": "Usuarios",
       "ja": "ユーザー",
       "pt": "Usuários",
       "ko": "사용자",
-      "fr": "Utilisateurs"
+      "fr": "Utilisateurs",
+      "tr": "Kullanıcılar"
     },
     "UTC": {
       "es": "UTC",
       "ja": "UTC",
       "pt": "UTC",
       "ko": "UTC",
-      "fr": "UTC"
+      "fr": "UTC",
+      "tr": "UTC"
     },
     "UTC:": {
       "es": "UTC:",
       "ja": "UTC：",
       "pt": "UTC:",
       "ko": "UTC:",
-      "fr": "UTC :"
+      "fr": "UTC :",
+      "tr": "UTC:"
     },
     "Value": {
       "es": "Valor",
       "ja": "値",
       "pt": "Valor",
       "ko": "값",
-      "fr": "Valeur"
+      "fr": "Valeur",
+      "tr": "Değer"
     },
     "View": {
       "es": "Ver",
       "ja": "表示",
       "pt": "Ver",
       "ko": "보기",
-      "fr": "Voir"
+      "fr": "Voir",
+      "tr": "Görüntüle"
     },
     "View activity log for all users": {
       "es": "Ver registro de actividad de todos los usuarios",
       "ja": "全ユーザーのアクティビティログを表示",
       "pt": "Ver registro de atividade de todos os usuários",
       "ko": "모든 사용자의 활동 로그 보기",
-      "fr": "Voir le journal d'activité de tous les utilisateurs"
+      "fr": "Voir le journal d'activité de tous les utilisateurs",
+      "tr": "Tüm kullanıcılar için etkinlik günlüğünü görüntüleyin"
     },
     "View All": {
       "es": "Ver todo",
       "ja": "すべて表示",
       "pt": "Ver todos",
       "ko": "전체 보기",
-      "fr": "Tout voir"
+      "fr": "Tout voir",
+      "tr": "Tümünü görüntüle"
     },
     "View Details": {
       "es": "Ver detalles",
       "ja": "詳細を表示",
       "pt": "Ver detalhes",
       "ko": "세부 정보 보기",
-      "fr": "Voir les détails"
+      "fr": "Voir les détails",
+      "tr": "Ayrıntıları görüntüle"
     },
     "View previous imports": {
       "es": "Ver importaciones anteriores",
       "ja": "過去のインポートを表示",
       "pt": "Ver importações anteriores",
       "ko": "이전 가져오기 보기",
-      "fr": "Voir les imports précédents"
+      "fr": "Voir les imports précédents",
+      "tr": "Önceki içe aktarmaları görüntüle"
     },
     "View subscription & billing cycle usage": {
       "es": "Ver uso de suscripción y ciclo de facturación",
       "ja": "購読と請求サイクルの使用状況を表示",
       "pt": "Ver uso de assinatura e ciclo de faturamento",
       "ko": "구독 및 청구 주기 사용량 보기",
-      "fr": "Voir l'utilisation de l'abonnement et du cycle de facturation"
+      "fr": "Voir l'utilisation de l'abonnement et du cycle de facturation",
+      "tr": "Abonelik ve fatura dönemi kullanımını görüntüleyin"
     },
     "Viewer": {
       "es": "Observador",
       "ja": "閲覧者",
       "pt": "Visualizador",
       "ko": "뷰어",
-      "fr": "Observateur"
+      "fr": "Observateur",
+      "tr": "Görüntüleyici"
     },
     "Warning": {
       "es": "Advertencia",
       "ja": "警告",
       "pt": "Aviso",
       "ko": "경고",
-      "fr": "Avertissement"
+      "fr": "Avertissement",
+      "tr": "Uyarı"
     },
     "Web": {
       "es": "Web",
       "ja": "ウェブ",
       "pt": "Web",
       "ko": "웹",
-      "fr": "Web"
+      "fr": "Web",
+      "tr": "Web"
     },
     "Web push subscribers": {
       "es": "Suscriptores de push web",
