@@ -3473,73 +3473,85 @@
       "es": "Esta acción no se puede deshacer.",
       "ja": "この操作は元に戻せません。",
       "pt": "Esta ação não pode ser desfeita.",
-      "ko": "이 작업은 취소할 수 없습니다."
+      "ko": "이 작업은 취소할 수 없습니다.",
+      "fr": "Cette action ne peut pas être annulée."
     },
     "This month": {
       "es": "Este mes",
       "ja": "今月",
       "pt": "Este mês",
-      "ko": "이번 달"
+      "ko": "이번 달",
+      "fr": "Ce mois-ci"
     },
     "Thu": {
       "es": "Jue",
       "ja": "木",
       "pt": "Qui",
-      "ko": "목"
+      "ko": "목",
+      "fr": "Jeu"
     },
     "Time": {
       "es": "Hora",
       "ja": "時刻",
       "pt": "Hora",
-      "ko": "시간"
+      "ko": "시간",
+      "fr": "Heure"
     },
     "Time Zone": {
       "es": "Zona horaria",
       "ja": "タイムゾーン",
       "pt": "Fuso horário",
-      "ko": "시간대"
+      "ko": "시간대",
+      "fr": "Fuseau horaire"
     },
     "Timezone": {
       "es": "Zona horaria",
       "ja": "タイムゾーン",
       "pt": "Fuso horário",
-      "ko": "시간대"
+      "ko": "시간대",
+      "fr": "Fuseau horaire"
     },
     "Timezone ID": {
       "es": "ID de zona horaria",
       "ja": "タイムゾーンID",
       "pt": "ID de fuso horário",
-      "ko": "시간대 ID"
+      "ko": "시간대 ID",
+      "fr": "ID de fuseau horaire"
     },
     "Today": {
       "es": "Hoy",
       "ja": "今日",
       "pt": "Hoje",
-      "ko": "오늘"
+      "ko": "오늘",
+      "fr": "Aujourd'hui"
     },
     "Token": {
       "es": "Token",
       "ja": "トークン",
       "pt": "Token",
-      "ko": "토큰"
+      "ko": "토큰",
+      "fr": "Token"
     },
     "Total": {
       "es": "Total",
       "ja": "合計",
       "pt": "Total",
-      "ko": "합계"
+      "ko": "합계",
+      "fr": "Total"
     },
     "Total Delivered": {
       "es": "Total entregados",
       "ja": "合計配信数",
       "pt": "Total entregues",
-      "ko": "총 전달됨"
+      "ko": "총 전달됨",
+      "fr": "Total livrés"
     },
     "Total Recipients": {
       "es": "Total de destinatarios",
       "ja": "合計受信者数",
       "pt": "Total de destinatários",
-      "ko": "총 수신자"
+      "ko": "총 수신자",
+      "fr": "Total des destinataires"
     },
     "Total records": {
       "es": "Total de registros",
@@ -3551,7 +3563,8 @@
       "es": "Total enviados",
       "ja": "合計送信数",
       "pt": "Total enviados",
-      "ko": "총 발송됨"
+      "ko": "총 발송됨",
+      "fr": "Total envoyés"
     },
     "Total subscribed": {
       "es": "Total suscritos",
@@ -3563,7 +3576,8 @@
       "es": "Total de suscriptores",
       "ja": "合計購読者数",
       "pt": "Total de assinantes",
-      "ko": "총 구독자"
+      "ko": "총 구독자",
+      "fr": "Total des abonnés"
     },
     "Total web push subscribers": {
       "es": "Total de suscriptores web push",
@@ -4047,7 +4061,8 @@
       "ja": "ナビゲーションの切り替え",
       "es": "Alternar navegación",
       "pt": "Alternar navegação",
-      "ko": "탐색 전환"
+      "ko": "탐색 전환",
+      "fr": "Basculer la navigation"
     },
     "Notifications Alt+T": {
       "ja": "通知 Alt+T",
@@ -4830,7 +4845,8 @@
       "ja": "パーソナライズされたプッシュメッセージコンテンツをテスト",
       "es": "Prueba el contenido de mensajes push personalizados",
       "pt": "Teste o conteúdo de mensagens push personalizadas",
-      "ko": "개인화된 푸시 메시지 내용 테스트"
+      "ko": "개인화된 푸시 메시지 내용 테스트",
+      "fr": "Tester du contenu de message push personnalisé"
     },
     "Walkthrough your user journey on your own device, from message to conversion": {
       "ja": "メッセージからコンバージョンまで、自分のデバイスでユーザージャーニーをウォークスルー",
@@ -4968,7 +4984,8 @@
       "ja": "効果的なテキストメッセージ",
       "es": "Textos que funcionan",
       "pt": "Textos que funcionam",
-      "ko": "효과적인 문자 메시지"
+      "ko": "효과적인 문자 메시지",
+      "fr": "Des SMS qui fonctionnent"
     },
     "Visible for up to 8 hours": {
       "ja": "最大8時間表示",
@@ -5412,19 +5429,22 @@
       "ja": "スロットリング",
       "es": "Limitación",
       "pt": "Limitação",
-      "ko": "쓰로틀링"
+      "ko": "쓰로틀링",
+      "fr": "Limitation"
     },
     "Time To Live": {
       "ja": "有効期間",
       "es": "Tiempo de vida",
       "pt": "Tempo de vida",
-      "ko": "유효 시간"
+      "ko": "유효 시간",
+      "fr": "Durée de vie"
     },
     "Title": {
       "ja": "タイトル",
       "es": "Título",
       "pt": "Título",
-      "ko": "제목"
+      "ko": "제목",
+      "fr": "Titre"
     },
     "Total clicks": {
       "ja": "総クリック数",
@@ -5532,7 +5552,8 @@
       "ja": "ツールチップのアンカー",
       "es": "Ancla del tooltip",
       "pt": "Âncora do tooltip",
-      "ko": "툴팁 앵커"
+      "ko": "툴팁 앵커",
+      "fr": "Ancre d'info-bulle"
     },
     "Custom Events let you track and respond to user activity in your app or website.": {
       "ja": "カスタムイベントを使うとアプリやウェブサイトでのユーザー活動を追跡して反応できます。",
@@ -5656,7 +5677,8 @@
       "ja": "タイムアウト",
       "es": "Tiempos de espera",
       "pt": "Tempos limite",
-      "ko": "타임아웃"
+      "ko": "타임아웃",
+      "fr": "Délais expirés"
     },
     "AI-generated Push": {
       "ja": "AI生成プッシュ",
@@ -5718,7 +5740,8 @@
       "ja": "この統合は配信統計を追跡しません。",
       "es": "Esta integración no rastrea estadísticas de entrega.",
       "pt": "Esta integração não rastreia estatísticas de entrega.",
-      "ko": "이 통합은 전달 통계를 추적하지 않습니다."
+      "ko": "이 통합은 전달 통계를 추적하지 않습니다.",
+      "fr": "Cette intégration ne suit pas les statistiques de livraison."
     },
     "Your previous messages": {
       "ja": "以前のメッセージ",
@@ -6269,7 +6292,8 @@
       "ja": "テキストの配置",
       "es": "Alineación del texto",
       "pt": "Alinhamento do texto",
-      "ko": "텍스트 정렬"
+      "ko": "텍스트 정렬",
+      "fr": "Alignement du texte"
     },
     "Dismiss on click": {
       "ja": "クリックで閉じる",
@@ -6358,25 +6382,29 @@
       "ja": "テキスト書式",
       "es": "Formato de texto",
       "pt": "Formatação de texto",
-      "ko": "텍스트 서식"
+      "ko": "텍스트 서식",
+      "fr": "Formatage du texte"
     },
     "Toggle bold": {
       "ja": "太字を切り替え",
       "es": "Alternar negrita",
       "pt": "Alternar negrito",
-      "ko": "굵게 전환"
+      "ko": "굵게 전환",
+      "fr": "Basculer en gras"
     },
     "Toggle italic": {
       "ja": "斜体を切り替え",
       "es": "Alternar cursiva",
       "pt": "Alternar itálico",
-      "ko": "기울임 전환"
+      "ko": "기울임 전환",
+      "fr": "Basculer en italique"
     },
     "Toggle underline": {
       "ja": "下線を切り替え",
       "es": "Alternar subrayado",
       "pt": "Alternar sublinhado",
-      "ko": "밑줄 전환"
+      "ko": "밑줄 전환",
+      "fr": "Basculer le soulignement"
     },
     "Unfold line": {
       "ja": "行を展開",
@@ -6709,13 +6737,15 @@
       "ja": "テキスト",
       "es": "Texto",
       "pt": "Texto",
-      "ko": "텍스트"
+      "ko": "텍스트",
+      "fr": "Texte"
     },
     "Text 1": {
       "ja": "テキスト1",
       "es": "Texto 1",
       "pt": "Texto 1",
-      "ko": "텍스트 1"
+      "ko": "텍스트 1",
+      "fr": "Texte 1"
     },
     "Visual editing with image and text blocks.": {
       "ja": "画像とテキストブロックでの視覚編集。",
@@ -6801,7 +6831,8 @@
       "ja": "上",
       "es": "Superior",
       "pt": "Superior",
-      "ko": "위"
+      "ko": "위",
+      "fr": "Haut"
     },
     "In-App JS library": {
       "ja": "インアプリJSライブラリ",
@@ -6995,7 +7026,8 @@
       "ja": "まだやるべきことがあります",
       "es": "Aún hay trabajo por hacer",
       "pt": "Ainda há trabalho a fazer",
-      "ko": "아직 해야 할 작업이 있습니다"
+      "ko": "아직 해야 할 작업이 있습니다",
+      "fr": "Il reste du travail à faire"
     },
     "Trigger:": {
       "ja": "トリガー:",
@@ -7236,13 +7268,15 @@
       "ja": "ジャーニーそのものが報酬です。",
       "es": "El journey es la recompensa.",
       "pt": "O journey é a recompensa.",
-      "ko": "여정 자체가 보상입니다."
+      "ko": "여정 자체가 보상입니다.",
+      "fr": "Le parcours est la récompense."
     },
     "They moved through the entire Journey": {
       "ja": "ジャーニー全体を通過したとき",
       "es": "Pasaron por todo el Journey",
       "pt": "Passaram por todo o Journey",
-      "ko": "전체 저니를 통과했을 때"
+      "ko": "전체 저니를 통과했을 때",
+      "fr": "Ils ont parcouru le Journey en entier"
     },
     "Users exit when they have moved through the full Journey.": {
       "ja": "ユーザーはジャーニー全体を通過したときに退出します。",
@@ -7891,19 +7925,22 @@
       "ja": "時間に敏感",
       "es": "Sensible al tiempo",
       "pt": "Sensível ao tempo",
-      "ko": "시간 민감"
+      "ko": "시간 민감",
+      "fr": "Sensible au temps"
     },
     "Title (Any/English)": {
       "ja": "タイトル (Any/英語)",
       "es": "Título (cualquiera/inglés)",
       "pt": "Título (qualquer/inglês)",
-      "ko": "제목 (Any/영어)"
+      "ko": "제목 (Any/영어)",
+      "fr": "Titre (Tout/Anglais)"
     },
     "Title input": {
       "ja": "タイトル入力",
       "es": "Entrada del título",
       "pt": "Entrada do título",
-      "ko": "제목 입력"
+      "ko": "제목 입력",
+      "fr": "Saisie du titre"
     },
     "Urgent no sound": {
       "ja": "緊急 (音なし)",
@@ -8101,31 +8138,36 @@
       "ja": "デバイスが最初にサーバーと通信した日時",
       "es": "La primera fecha/hora en que el dispositivo se comunicó con nuestros servidores",
       "pt": "A primeira data/hora em que o dispositivo se comunicou com nossos servidores",
-      "ko": "기기가 서버와 처음 통신한 날짜/시간"
+      "ko": "기기가 서버와 처음 통신한 날짜/시간",
+      "fr": "Première date/heure à laquelle l'appareil a communiqué avec nos serveurs"
     },
     "The language of the user's device": {
       "ja": "ユーザーのデバイスの言語",
       "es": "El idioma del dispositivo del usuario",
       "pt": "O idioma do dispositivo do usuário",
-      "ko": "사용자 기기의 언어"
+      "ko": "사용자 기기의 언어",
+      "fr": "La langue de l'appareil de l'utilisateur"
     },
     "The most recent date/time the device communicated with our servers": {
       "ja": "デバイスが最後にサーバーと通信した日時",
       "es": "La fecha/hora más reciente en que el dispositivo se comunicó con nuestros servidores",
       "pt": "A data/hora mais recente em que o dispositivo se comunicou com nossos servidores",
-      "ko": "기기가 서버와 가장 최근에 통신한 날짜/시간"
+      "ko": "기기가 서버와 가장 최근에 통신한 날짜/시간",
+      "fr": "Date/heure la plus récente à laquelle l'appareil a communiqué avec nos serveurs"
     },
     "The total number of seconds the user's device has had your app open": {
       "ja": "ユーザーのデバイスがアプリを開いていた合計秒数",
       "es": "La cantidad total de segundos que el dispositivo del usuario ha tenido tu app abierta",
       "pt": "O número total de segundos em que o dispositivo do usuário teve seu app aberto",
-      "ko": "사용자 기기에서 앱이 열려 있던 총 초 수"
+      "ko": "사용자 기기에서 앱이 열려 있던 총 초 수",
+      "fr": "Le nombre total de secondes durant lesquelles l'appareil de l'utilisateur a eu votre app ouverte"
     },
     "Total Duration": {
       "ja": "合計時間",
       "es": "Duración total",
       "pt": "Duração total",
-      "ko": "총 기간"
+      "ko": "총 기간",
+      "fr": "Durée totale"
     },
     "Total number of times the device has opened your app or website": {
       "ja": "デバイスがあなたのアプリまたはウェブサイトを開いた合計回数",
@@ -8190,7 +8232,8 @@
       "ja": "使用状況を確認するには、Twilioダッシュボードに移動するか、以下に切り替えてください:",
       "es": "Para ver tu uso, ve a tu panel de Twilio o cambia a",
       "pt": "Para ver seu uso, acesse seu painel do Twilio ou alterne para",
-      "ko": "사용량을 확인하려면 Twilio 대시보드로 이동하거나 다음으로 전환하세요"
+      "ko": "사용량을 확인하려면 Twilio 대시보드로 이동하거나 다음으로 전환하세요",
+      "fr": "Pour voir votre utilisation, allez sur votre tableau de bord Twilio, ou basculez vers"
     },
     "as your SMS provider.": {
       "ja": "をSMSプロバイダーとして。",
@@ -8741,7 +8784,8 @@
       "ja": "タイムスタンプ",
       "es": "Marca de tiempo",
       "pt": "Marca de tempo",
-      "ko": "타임스탬프"
+      "ko": "타임스탬프",
+      "fr": "Horodatage"
     },
     "You'll see data here when there's user activity.": {
       "ja": "ユーザー活動があると、ここにデータが表示されます。",
@@ -9240,7 +9284,8 @@
       "ja": "この制限は、作成時に上書きしない限り、個別のプッシュメッセージごとに設定されます",
       "es": "Este límite se aplicará a cada mensaje push individual a menos que lo anules al crearlo",
       "pt": "Esse limite será aplicado a cada mensagem push individual a menos que você o substitua na criação",
-      "ko": "생성 시 재정의하지 않는 한, 이 제한은 각 푸시 메시지에 개별적으로 적용됩니다"
+      "ko": "생성 시 재정의하지 않는 한, 이 제한은 각 푸시 메시지에 개별적으로 적용됩니다",
+      "fr": "Cette limite sera appliquée à chaque message push individuel sauf si vous la remplacez à la création"
     },
     ".p8 Auth Key": {
       "ja": ".p8認証キー",
@@ -9480,7 +9525,8 @@
       "ja": "サプレッションリストを管理するには、次に移動してください:",
       "es": "Para administrar tu lista de supresión, ve a",
       "pt": "Para gerenciar sua lista de supressão, acesse",
-      "ko": "수신 거부 목록을 관리하려면 다음으로 이동하세요"
+      "ko": "수신 거부 목록을 관리하려면 다음으로 이동하세요",
+      "fr": "Pour gérer votre liste de suppression, allez à"
     },
     "Add Email": {
       "ja": "メールを追加",
@@ -9840,7 +9886,8 @@
       "ja": "OneSignalにご登録いただきありがとうございます！メッセージおよびデータ料金がかかる場合があります。登録解除はSTOP、詳細はHELPと返信してください。",
       "es": "¡Gracias por suscribirte a OneSignal! Pueden aplicar tarifas de mensaje y datos. Responde STOP para darte de baja o HELP para más información.",
       "pt": "Obrigado por se inscrever no OneSignal! Podem ser aplicadas taxas de mensagem e dados. Responda STOP para cancelar a inscrição ou HELP para mais informações.",
-      "ko": "OneSignal 구독에 감사드립니다! 메시지 및 데이터 요금이 부과될 수 있습니다. 구독 해지는 STOP, 자세한 정보는 HELP를 회신하세요."
+      "ko": "OneSignal 구독에 감사드립니다! 메시지 및 데이터 요금이 부과될 수 있습니다. 구독 해지는 STOP, 자세한 정보는 HELP를 회신하세요.",
+      "fr": "Merci de votre inscription à OneSignal ! Frais de message et données possibles. Répondez STOP pour vous désabonner ou HELP pour plus d'infos."
     },
     "Message Reply Template": {
       "ja": "メッセージ返信テンプレート",
@@ -10056,7 +10103,8 @@
       "ja": "テキスト購読キーワード",
       "es": "Palabras clave de suscripción por texto",
       "pt": "Palavras-chave de inscrição por texto",
-      "ko": "텍스트 구독 키워드"
+      "ko": "텍스트 구독 키워드",
+      "fr": "Mots-clés d'inscription par SMS"
     },
     "UNSTOP": {
       "ja": "UNSTOP",
@@ -10213,7 +10261,8 @@
       "ja": "フリーダイヤル",
       "es": "Gratuito",
       "pt": "Gratuito",
-      "ko": "수신자 부담"
+      "ko": "수신자 부담",
+      "fr": "Numéro vert"
     },
     "Update All Webhooks": {
       "ja": "すべてのWebhookを更新",
@@ -10260,7 +10309,8 @@
       "ja": "評判を確認するには、ESPプロバイダーまたはメール評判ツールをご確認ください",
       "es": "Para entender tu reputación, consulta tu proveedor ESP o herramientas de reputación de correo",
       "pt": "Para entender sua reputação, consulte seu provedor ESP ou ferramentas de reputação de email",
-      "ko": "평판을 이해하려면 ESP 공급자 또는 이메일 평판 도구를 확인하세요"
+      "ko": "평판을 이해하려면 ESP 공급자 또는 이메일 평판 도구를 확인하세요",
+      "fr": "Pour comprendre votre réputation, consultez votre fournisseur ESP ou des outils de réputation email"
     },
     "Member actions": {
       "ja": "メンバーアクション",
