@@ -5213,350 +5213,400 @@
       "es": "Descartar",
       "pt": "Descartar",
       "ko": "닫기",
-      "fr": "Ignorer"
+      "fr": "Ignorer",
+      "tr": "Kapat"
     },
     "If you're ready to take your messaging to the next level, check out Journeys, our new automation tool.": {
       "ja": "メッセージングを次のレベルに引き上げる準備ができたら、新しい自動化ツール「ジャーニー」をご活用ください。",
       "es": "Si estás listo para llevar tu mensajería al siguiente nivel, descubre Journeys, nuestra nueva herramienta de automatización.",
       "pt": "Se você está pronto para levar suas mensagens ao próximo nível, confira o Journeys, nossa nova ferramenta de automação.",
       "ko": "메시지를 다음 단계로 끌어올릴 준비가 되었다면 새로운 자동화 도구인 저니를 확인하세요.",
-      "fr": "Si vous êtes prêt à passer votre messagerie au niveau supérieur, découvrez Journeys, notre nouvel outil d'automatisation."
+      "fr": "Si vous êtes prêt à passer votre messagerie au niveau supérieur, découvrez Journeys, notre nouvel outil d'automatisation.",
+      "tr": "Mesajlaşmanızı bir üst seviyeye taşımaya hazırsanız, yeni otomasyon aracımız Journeys'i inceleyin."
     },
     "Journeys documentation": {
       "ja": "ジャーニーのドキュメント",
       "es": "Documentación de Journeys",
       "pt": "Documentação de Journeys",
       "ko": "저니 문서",
-      "fr": "Documentation Journeys"
+      "fr": "Documentation Journeys",
+      "tr": "Journeys dokümantasyonu"
     },
     "New Automated Email": {
       "ja": "新しい自動メール",
       "es": "Nuevo email automatizado",
       "pt": "Novo e-mail automatizado",
       "ko": "새 자동화 이메일",
-      "fr": "Nouvel email automatisé"
+      "fr": "Nouvel email automatisé",
+      "tr": "Yeni otomatik email"
     },
     "Or start with one of our quickstart Journeys": {
       "ja": "またはクイックスタートジャーニーの1つから始める",
       "es": "O empieza con uno de nuestros Journeys de inicio rápido",
       "pt": "Ou comece com um de nossos Journeys de início rápido",
       "ko": "또는 빠른 시작 저니 중 하나로 시작하세요",
-      "fr": "Ou commencez avec un de nos Journeys de démarrage rapide"
+      "fr": "Ou commencez avec un de nos Journeys de démarrage rapide",
+      "tr": "Ya da hızlı başlangıç Journeys'lerinden biriyle başlayın"
     },
     "Re-engagement": {
       "ja": "再エンゲージメント",
       "es": "Reactivación",
       "pt": "Reengajamento",
       "ko": "재참여",
-      "fr": "Réengagement"
+      "fr": "Réengagement",
+      "tr": "Yeniden etkileşim"
     },
     "Ready to automate your messages?": {
       "ja": "メッセージの自動化の準備はできていますか？",
       "es": "¿Listo para automatizar tus mensajes?",
       "pt": "Pronto para automatizar suas mensagens?",
       "ko": "메시지 자동화 준비가 되셨나요?",
-      "fr": "Prêt à automatiser vos messages ?"
+      "fr": "Prêt à automatiser vos messages ?",
+      "tr": "Mesajlarınızı otomatikleştirmeye hazır mısınız?"
     },
     "Send the right message based on who users are and how they interact with your product": {
       "ja": "ユーザーの属性とプロダクトとのインタラクションに基づいて適切なメッセージを送信する",
       "es": "Envía el mensaje correcto según quiénes son los usuarios y cómo interactúan con tu producto",
       "pt": "Envie a mensagem certa com base em quem são os usuários e como interagem com seu produto",
       "ko": "사용자가 누구인지 및 제품과의 상호 작용을 기반으로 적절한 메시지를 보내세요",
-      "fr": "Envoyez le bon message selon le profil des utilisateurs et leur interaction avec votre produit"
+      "fr": "Envoyez le bon message selon le profil des utilisateurs et leur interaction avec votre produit",
+      "tr": "Kullanıcıların kim olduğuna ve ürününüzle nasıl etkileşime girdiğine göre doğru mesajı gönderin"
     },
     "Set message standards for push and email": {
       "ja": "プッシュとメールのメッセージ基準を設定",
       "es": "Establece estándares de mensajes para push y email",
       "pt": "Defina padrões de mensagens para push e e-mail",
       "ko": "푸시 및 이메일 메시지 표준 설정",
-      "fr": "Définissez des standards de messages pour push et email"
+      "fr": "Définissez des standards de messages pour push et email",
+      "tr": "Push ve email için mesaj standartları belirleyin"
     },
     "Your app is limited to 500,000 email sends a month. If you need help with your limit, contact our Support team.": {
       "ja": "アプリは月に50万件のメール送信に制限されています。制限についてご質問がある場合は、サポートチームにお問い合わせください。",
       "es": "Tu app tiene un límite de 500,000 envíos de email al mes. Si necesitas ayuda con tu límite, contacta a nuestro equipo de soporte.",
       "pt": "Seu app está limitado a 500.000 envios de e-mail por mês. Se precisar de ajuda com seu limite, entre em contato com nossa equipe de suporte.",
       "ko": "앱은 한 달에 최대 500,000개의 이메일을 발송할 수 있습니다. 한도에 대한 도움이 필요하면 지원팀에 문의하세요.",
-      "fr": "Votre app est limitée à 500 000 envois d'email par mois. Si vous avez besoin d'aide avec votre limite, contactez notre équipe Support."
+      "fr": "Votre app est limitée à 500 000 envois d'email par mois. Si vous avez besoin d'aide avec votre limite, contactez notre équipe Support.",
+      "tr": "Uygulamanız ayda 500.000 email gönderimi ile sınırlıdır. Limitinizle ilgili yardıma ihtiyacınız varsa, destek ekibimizle iletişime geçin."
     },
     "Export a message list for your records": {
       "ja": "記録用のメッセージリストをエクスポート",
       "es": "Exporta una lista de mensajes para tus registros",
       "pt": "Exporte uma lista de mensagens para seus registros",
       "ko": "기록을 위해 메시지 목록 내보내기",
-      "fr": "Exportez une liste de messages pour vos archives"
+      "fr": "Exportez une liste de messages pour vos archives",
+      "tr": "Kayıtlarınız için mesaj listesi dışa aktarın"
     },
     "Filter by delivery method (dashboard, API)": {
       "ja": "配信方法（ダッシュボード、API）でフィルタリングする",
       "es": "Filtrar por método de entrega (dashboard, API)",
       "pt": "Filtrar por método de entrega (dashboard, API)",
       "ko": "전달 방법 (대시보드, API)으로 필터링",
-      "fr": "Filtrer par méthode de livraison (dashboard, API)"
+      "fr": "Filtrer par méthode de livraison (dashboard, API)",
+      "tr": "Teslim yöntemine göre filtreleyin (pano, API)"
     },
     "Keep an eye on deliverability across campaigns": {
       "ja": "キャンペーン全体の配信率を監視",
       "es": "Controla la capacidad de entrega en todas tus campañas",
       "pt": "Monitore a capacidade de entrega em todas as campanhas",
       "ko": "캠페인 전체의 전달률을 모니터링하세요",
-      "fr": "Surveillez la délivrabilité sur l'ensemble de vos campagnes"
+      "fr": "Surveillez la délivrabilité sur l'ensemble de vos campagnes",
+      "tr": "Kampanyalar genelinde teslim edilebilirliği takip edin"
     },
     "Keep an eye on what's ahead": {
       "ja": "今後の予定を確認",
       "es": "Mantén un ojo en lo que viene",
       "pt": "Fique de olho no que está por vir",
       "ko": "앞으로 있을 일을 주시하세요",
-      "fr": "Restez attentif à ce qui arrive"
+      "fr": "Restez attentif à ce qui arrive",
+      "tr": "Yaklaşanları takip edin"
     },
     "Messages: All": {
       "ja": "メッセージ：すべて",
       "es": "Mensajes: Todos",
       "pt": "Mensagens: Todos",
       "ko": "메시지: 전체",
-      "fr": "Messages : Tous"
+      "fr": "Messages : Tous",
+      "tr": "Mesajlar: Tümü"
     },
     "Once you schedule a campaign, it will show up here": {
       "ja": "キャンペーンをスケジュールすると、ここに表示されます",
       "es": "Una vez que programes una campaña, aparecerá aquí",
       "pt": "Quando você agendar uma campanha, ela aparecerá aqui",
       "ko": "캠페인을 예약하면 여기에 표시됩니다",
-      "fr": "Une fois une campagne planifiée, elle apparaîtra ici"
+      "fr": "Une fois une campagne planifiée, elle apparaîtra ici",
+      "tr": "Bir kampanyayı planladığınızda burada görünecektir"
     },
     "Once you send a campaign, it will show up here": {
       "ja": "キャンペーンを送信すると、ここに表示されます",
       "es": "Una vez que envíes una campaña, aparecerá aquí",
       "pt": "Quando você enviar uma campanha, ela aparecerá aqui",
       "ko": "캠페인을 발송하면 여기에 표시됩니다",
-      "fr": "Une fois une campagne envoyée, elle apparaîtra ici"
+      "fr": "Une fois une campagne envoyée, elle apparaîtra ici",
+      "tr": "Bir kampanyayı gönderdiğinizde burada görünecektir"
     },
     "Recently sent messages, all in one place": {
       "ja": "最近送信したメッセージをすべて一か所で確認",
       "es": "Mensajes enviados recientemente, todos en un solo lugar",
       "pt": "Mensagens enviadas recentemente, todas em um só lugar",
       "ko": "최근 발송된 메시지를 한 곳에서",
-      "fr": "Messages récemment envoyés, tous au même endroit"
+      "fr": "Messages récemment envoyés, tous au même endroit",
+      "tr": "Yakın zamanda gönderilen mesajlar, hepsi tek bir yerde"
     },
     "Scheduled Messages documentation": {
       "ja": "スケジュール済みメッセージのドキュメント",
       "es": "Documentación de mensajes programados",
       "pt": "Documentação de mensagens agendadas",
       "ko": "예약 메시지 문서",
-      "fr": "Documentation des messages planifiés"
+      "fr": "Documentation des messages planifiés",
+      "tr": "Planlanan mesajlar dokümantasyonu"
     },
     "Sent Messages documentation": {
       "ja": "送信済みメッセージのドキュメント",
       "es": "Documentación de mensajes enviados",
       "pt": "Documentação de mensagens enviadas",
       "ko": "발송 메시지 문서",
-      "fr": "Documentation des messages envoyés"
+      "fr": "Documentation des messages envoyés",
+      "tr": "Gönderilen mesajlar dokümantasyonu"
     },
     "Active Subscriptions": {
       "ja": "アクティブな購読",
       "es": "Suscripciones activas",
       "pt": "Assinaturas ativas",
       "ko": "활성 구독",
-      "fr": "Abonnements actifs"
+      "fr": "Abonnements actifs",
+      "tr": "Aktif abonelikler"
     },
     "All Email Subscriptions": {
       "ja": "すべてのメール購読",
       "es": "Todas las suscripciones de email",
       "pt": "Todas as assinaturas de e-mail",
       "ko": "모든 이메일 구독",
-      "fr": "Tous les abonnements email"
+      "fr": "Tous les abonnements email",
+      "tr": "Tüm email abonelikleri"
     },
     "All SMS Subscriptions": {
       "ja": "すべてのSMS購読",
       "es": "Todas las suscripciones de SMS",
       "pt": "Todas as assinaturas de SMS",
       "ko": "모든 SMS 구독",
-      "fr": "Tous les abonnements SMS"
+      "fr": "Tous les abonnements SMS",
+      "tr": "Tüm SMS abonelikleri"
     },
     "Device Type is Email": {
       "ja": "デバイスタイプがメール",
       "es": "El tipo de dispositivo es Email",
       "pt": "O tipo de dispositivo é E-mail",
       "ko": "기기 유형: 이메일",
-      "fr": "Type d'appareil : Email"
+      "fr": "Type d'appareil : Email",
+      "tr": "Cihaz türü Email"
     },
     "Device Type is SMS": {
       "ja": "デバイスタイプがSMS",
       "es": "El tipo de dispositivo es SMS",
       "pt": "O tipo de dispositivo é SMS",
       "ko": "기기 유형: SMS",
-      "fr": "Type d'appareil : SMS"
+      "fr": "Type d'appareil : SMS",
+      "tr": "Cihaz türü SMS"
     },
     "Engaged Subscriptions": {
       "ja": "エンゲージドな購読",
       "es": "Suscripciones con engagement",
       "pt": "Assinaturas com engajamento",
       "ko": "참여 중인 구독",
-      "fr": "Abonnements engagés"
+      "fr": "Abonnements engagés",
+      "tr": "Etkileşimli abonelikler"
     },
     "Inactive Subscriptions": {
       "ja": "非アクティブな購読",
       "es": "Suscripciones inactivas",
       "pt": "Assinaturas inativas",
       "ko": "비활성 구독",
-      "fr": "Abonnements inactifs"
+      "fr": "Abonnements inactifs",
+      "tr": "Pasif abonelikler"
     },
     "Total Subscriptions": {
       "ja": "購読合計",
       "es": "Suscripciones totales",
       "pt": "Total de assinaturas",
       "ko": "총 구독 수",
-      "fr": "Total des abonnements"
+      "fr": "Total des abonnements",
+      "tr": "Toplam abonelikler"
     },
     "Search by name or keywords": {
       "ja": "名前またはキーワードで検索",
       "es": "Buscar por nombre o palabras clave",
       "pt": "Pesquisar por nome ou palavras-chave",
       "ko": "이름 또는 키워드로 검색",
-      "fr": "Rechercher par nom ou mots-clés"
+      "fr": "Rechercher par nom ou mots-clés",
+      "tr": "Ad veya anahtar kelimelerle ara"
     },
     "Try one of our quickstart segments": {
       "ja": "クイックスタートセグメントをお試しください",
       "es": "Prueba uno de nuestros segmentos de inicio rápido",
       "pt": "Experimente um de nossos segmentos de início rápido",
       "ko": "빠른 시작 세그먼트 중 하나를 시도해 보세요",
-      "fr": "Essayez un de nos segments de démarrage rapide"
+      "fr": "Essayez un de nos segments de démarrage rapide",
+      "tr": "Hızlı başlangıç segmentlerimizden birini deneyin"
     },
     "Export a list of users": {
       "ja": "ユーザーリストをエクスポート",
       "es": "Exportar una lista de usuarios",
       "pt": "Exportar uma lista de usuários",
       "ko": "사용자 목록 내보내기",
-      "fr": "Exporter une liste d'utilisateurs"
+      "fr": "Exporter une liste d'utilisateurs",
+      "tr": "Kullanıcı listesi dışa aktar"
     },
     "Integrate SDK": {
       "ja": "SDKを統合",
       "es": "Integrar SDK",
       "pt": "Integrar SDK",
       "ko": "SDK 통합",
-      "fr": "Intégrer le SDK"
+      "fr": "Intégrer le SDK",
+      "tr": "SDK entegre et"
     },
     "Know your users": {
       "ja": "ユーザーを把握",
       "es": "Conoce a tus usuarios",
       "pt": "Conheça seus usuários",
       "ko": "사용자를 파악하세요",
-      "fr": "Connaissez vos utilisateurs"
+      "fr": "Connaissez vos utilisateurs",
+      "tr": "Kullanıcılarınızı tanıyın"
     },
     "Manage user profiles": {
       "ja": "ユーザープロフィールを管理",
       "es": "Administrar perfiles de usuario",
       "pt": "Gerenciar perfis de usuários",
       "ko": "사용자 프로필 관리",
-      "fr": "Gérer les profils utilisateur"
+      "fr": "Gérer les profils utilisateur",
+      "tr": "Kullanıcı profillerini yönetin"
     },
     "See recent message activity at the user level": {
       "ja": "ユーザーレベルでの最近のメッセージアクティビティを確認",
       "es": "Ver la actividad reciente de mensajes a nivel de usuario",
       "pt": "Ver atividade recente de mensagens no nível do usuário",
       "ko": "사용자 수준의 최근 메시지 활동 보기",
-      "fr": "Voir l'activité récente des messages au niveau de l'utilisateur"
+      "fr": "Voir l'activité récente des messages au niveau de l'utilisateur",
+      "tr": "Kullanıcı düzeyinde yakın zamandaki mesaj etkinliğini görüntüleyin"
     },
     "User documentation": {
       "ja": "ユーザードキュメント",
       "es": "Documentación de usuario",
       "pt": "Documentação do usuário",
       "ko": "사용자 문서",
-      "fr": "Documentation utilisateur"
+      "fr": "Documentation utilisateur",
+      "tr": "Kullanıcı dokümantasyonu"
     },
     "Set up": {
       "ja": "セットアップ",
       "es": "Configurar",
       "pt": "Configurar",
       "ko": "설정",
-      "fr": "Configurer"
+      "fr": "Configurer",
+      "tr": "Kur"
     },
     "Data Feeds allow you to dynamically fetch data from your APIs at send time.": {
       "ja": "データフィードを使用すると、送信時にAPIからデータを動的に取得できます。",
       "es": "Los Data Feeds te permiten obtener datos de forma dinámica desde tus APIs en el momento del envío.",
       "pt": "Os Data Feeds permitem que você busque dados dinamicamente de suas APIs no momento do envio.",
       "ko": "데이터 피드를 통해 발송 시 API에서 동적으로 데이터를 가져올 수 있습니다.",
-      "fr": "Les Flux de données vous permettent de récupérer dynamiquement des données depuis vos API au moment de l'envoi."
+      "fr": "Les Flux de données vous permettent de récupérer dynamiquement des données depuis vos API au moment de l'envoi.",
+      "tr": "Veri akışları, gönderim sırasında API'lerinizden dinamik olarak veri almanızı sağlar."
     },
     "Data Feeds documentation": {
       "ja": "データフィードのドキュメント",
       "es": "Documentación de Data Feeds",
       "pt": "Documentação de Data Feeds",
       "ko": "데이터 피드 문서",
-      "fr": "Documentation des Flux de données"
+      "fr": "Documentation des Flux de données",
+      "tr": "Veri akışları dokümantasyonu"
     },
     "Insert real-time, dynamic content from your data feeds directly into the template at the time of sending. This feature only applies to templates sent through Journeys.": {
       "ja": "送信時にデータフィードからリアルタイムの動的コンテンツをテンプレートに直接挿入します。この機能はジャーニー経由で送信されるテンプレートにのみ適用されます。",
       "es": "Inserta contenido dinámico y en tiempo real desde tus data feeds directamente en la plantilla al momento del envío. Esta función solo aplica a plantillas enviadas a través de Journeys.",
       "pt": "Insira conteúdo dinâmico e em tempo real dos seus data feeds diretamente no modelo no momento do envio. Este recurso se aplica apenas a modelos enviados por Journeys.",
       "ko": "발송 시 데이터 피드에서 실시간 동적 콘텐츠를 템플릿에 직접 삽입하세요. 이 기능은 저니를 통해 발송된 템플릿에만 적용됩니다.",
-      "fr": "Insérez du contenu dynamique en temps réel depuis vos flux de données directement dans le modèle au moment de l'envoi. Cette fonctionnalité ne s'applique qu'aux modèles envoyés via Journeys."
+      "fr": "Insérez du contenu dynamique en temps réel depuis vos flux de données directement dans le modèle au moment de l'envoi. Cette fonctionnalité ne s'applique qu'aux modèles envoyés via Journeys.",
+      "tr": "Veri akışlarınızdan gerçek zamanlı, dinamik içeriği gönderim sırasında doğrudan şablona ekleyin. Bu özellik yalnızca Journeys aracılığıyla gönderilen şablonlar için geçerlidir."
     },
     "Needs Action": {
       "ja": "対応が必要",
       "es": "Requiere acción",
       "pt": "Requer ação",
       "ko": "조치 필요",
-      "fr": "Action requise"
+      "fr": "Action requise",
+      "tr": "Eylem gerekli"
     },
     "You don't have any Data Feeds set up yet": {
       "ja": "データフィードはまだ設定されていません",
       "es": "Aún no tienes Data Feeds configurados",
       "pt": "Você ainda não tem Data Feeds configurados",
       "ko": "아직 데이터 피드가 설정되지 않았습니다",
-      "fr": "Vous n'avez encore configuré aucun flux de données"
+      "fr": "Vous n'avez encore configuré aucun flux de données",
+      "tr": "Henüz kurulmuş bir veri akışınız yok"
     },
     "Export subscriptions for push, email, and SMS": {
       "ja": "プッシュ、メール、SMSの購読をエクスポートする",
       "es": "Exporta suscripciones de push, email y SMS",
       "pt": "Exporte assinaturas de push, e-mail e SMS",
       "ko": "푸시, 이메일 및 SMS 구독 내보내기",
-      "fr": "Exportez les abonnements pour push, email et SMS"
+      "fr": "Exportez les abonnements pour push, email et SMS",
+      "tr": "Push, email ve SMS için abonelikleri dışa aktarın"
     },
     "See subscriber preferences at the channel level": {
       "ja": "チャネルレベルでの購読者の設定を確認",
       "es": "Ver las preferencias de suscriptores a nivel de canal",
       "pt": "Ver preferências de assinantes no nível do canal",
       "ko": "채널 수준에서 구독자 기본 설정 보기",
-      "fr": "Voir les préférences des abonnés au niveau du canal"
+      "fr": "Voir les préférences des abonnés au niveau du canal",
+      "tr": "Abone tercihlerini kanal düzeyinde görüntüleyin"
     },
     "Subscriptions documentation": {
       "ja": "購読のドキュメント",
       "es": "Documentación de suscripciones",
       "pt": "Documentação de assinaturas",
       "ko": "구독 문서",
-      "fr": "Documentation des abonnements"
+      "fr": "Documentation des abonnements",
+      "tr": "Abonelikler dokümantasyonu"
     },
     "Understand your audience": {
       "ja": "オーディエンスを理解",
       "es": "Entiende a tu audiencia",
       "pt": "Entenda seu público",
       "ko": "대상을 이해하세요",
-      "fr": "Comprenez votre audience"
+      "fr": "Comprenez votre audience",
+      "tr": "Hedef kitlenizi anlayın"
     },
     "View recent activity and preferences": {
       "ja": "最近のアクティビティと設定を表示",
       "es": "Ver actividad reciente y preferencias",
       "pt": "Ver atividade recente e preferências",
       "ko": "최근 활동 및 기본 설정 보기",
-      "fr": "Voir l'activité récente et les préférences"
+      "fr": "Voir l'activité récente et les préférences",
+      "tr": "Yakın zamandaki etkinliği ve tercihleri görüntüleyin"
     },
     "Add Test Subscriptions": {
       "ja": "テスト購読を追加",
       "es": "Agregar suscripciones de prueba",
       "pt": "Adicionar assinaturas de teste",
       "ko": "테스트 구독 추가",
-      "fr": "Ajouter des abonnements de test"
+      "fr": "Ajouter des abonnements de test",
+      "tr": "Test abonelikleri ekle"
     },
     "Confirm emails are pixel-perfect": {
       "ja": "メールがピクセルパーフェクトであることを確認",
       "es": "Confirma que los emails son perfectos al píxel",
       "pt": "Confirme que os e-mails estão pixel-perfeitos",
       "ko": "이메일이 완벽한지 확인하세요",
-      "fr": "Confirmez que les emails sont au pixel près"
+      "fr": "Confirmez que les emails sont au pixel près",
+      "tr": "Emaillerin piksel mükemmelliğinde olduğunu onaylayın"
     },
     "Manage test subscriptions to preview and send test messages.": {
       "ja": "テスト購読を管理して、テストメッセージをプレビューおよび送信する。",
       "es": "Administra las suscripciones de prueba para previsualizar y enviar mensajes de prueba.",
       "pt": "Gerencie assinaturas de teste para visualizar e enviar mensagens de teste.",
       "ko": "테스트 메시지를 미리 보고 발송하기 위해 테스트 구독을 관리하세요.",
-      "fr": "Gérez les abonnements de test pour prévisualiser et envoyer des messages de test."
+      "fr": "Gérez les abonnements de test pour prévisualiser et envoyer des messages de test.",
+      "tr": "Test mesajlarını önizlemek ve göndermek için test aboneliklerini yönetin."
     },
     "Send perfect messages": {
       "ja": "完璧なメッセージを送信",
