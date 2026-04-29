@@ -226,12 +226,12 @@
       "ja": "オーディエンス",
       "es": "Audiencia",
       "pt": [
-        "Audiência",
+        "Público",
         "público",
-        "Público"
+        "Audiência"
       ],
       "ko": "대상",
-      "note": "ko uses 대상 (target group) — martech term for a targeted subset of users. 고객 (customer, singular) is the wrong concept here."
+      "note": "ko uses 대상 (target group). pt-BR primarily uses Público (matches BR SaaS convention — Mailchimp BR, HubSpot BR, RD Station). Audiência kept as alt for legacy entries."
     },
     "Campaign": {
       "ja": "キャンペーン",

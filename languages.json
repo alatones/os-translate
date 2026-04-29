@@ -63,7 +63,7 @@
     "Active Audience": {
       "es": "Audiencia activa",
       "ja": "アクティブオーディエンス",
-      "pt": "Audiência ativa",
+      "pt": "Público ativo",
       "ko": "활성 대상"
     },
     "Activity for": {
@@ -303,7 +303,7 @@
     "Audience": {
       "es": "Audiencia",
       "ja": "オーディエンス",
-      "pt": "Audiência",
+      "pt": "Público",
       "ko": "대상"
     },
     "Audit Logs": {
@@ -609,7 +609,7 @@
     "Contact your active audience from a specified country": {
       "es": "Contacta tu audiencia activa de un país específico",
       "ja": "指定した国のアクティブオーディエンスに連絡",
-      "pt": "Contate sua audiência ativa de um país específico",
+      "pt": "Contate seu público ativo de um país específico",
       "ko": "특정 국가의 활성 대상에게 연락하세요"
     },
     "contains": {
@@ -729,7 +729,7 @@
     "Custom Audience": {
       "es": "Audiencia personalizada",
       "ja": "カスタムオーディエンス",
-      "pt": "Audiência personalizada",
+      "pt": "Público personalizado",
       "ko": "맞춤 대상"
     },
     "Custom Data": {
@@ -1191,7 +1191,7 @@
     "First-time Audience": {
       "es": "Audiencia nueva",
       "ja": "初回オーディエンス",
-      "pt": "Audiência nova",
+      "pt": "Público novo",
       "ko": "신규 대상"
     },
     "Fri": {
@@ -2271,7 +2271,7 @@
     "Reach targeted audience based on user properties or events from data tags": {
       "es": "Alcanza audiencias específicas según propiedades o eventos de etiquetas de datos",
       "ja": "データタグのユーザープロパティやイベントに基づいてターゲットオーディエンスにリーチ",
-      "pt": "Alcance audiências segmentadas com base em propriedades ou eventos de data tags",
+      "pt": "Alcance público segmentado com base em propriedades ou eventos de data tags",
       "ko": "데이터 태그의 사용자 속성 또는 이벤트를 기반으로 대상에게 도달하세요"
     },
     "Real-time data for timely messages": {
@@ -2301,7 +2301,7 @@
     "Regional Audience": {
       "es": "Audiencia regional",
       "ja": "地域オーディエンス",
-      "pt": "Audiência regional",
+      "pt": "Público regional",
       "ko": "지역 대상"
     },
     "Relative:": {
@@ -3507,7 +3507,7 @@
     "Close Audience menu": {
       "ja": "オーディエンスメニューを閉じる",
       "es": "Cerrar menú de Audiencia",
-      "pt": "Fechar menu de Audiência",
+      "pt": "Fechar menu de público",
       "ko": "대상 메뉴 닫기"
     },
     "Close Data menu": {
