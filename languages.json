@@ -18,55 +18,64 @@
       "es": "A/B",
       "ja": "A/B",
       "pt": "A/B",
-      "ko": "A/B"
+      "ko": "A/B",
+      "fr": "A/B"
     },
     "A/B Tests": {
       "es": "Pruebas A/B",
       "ja": "A/Bテスト",
       "pt": "Testes A/B",
-      "ko": "A/B 테스트"
+      "ko": "A/B 테스트",
+      "fr": "Tests A/B"
     },
     "A/B tests": {
       "es": "Pruebas A/B",
       "ja": "A/Bテスト",
       "pt": "Testes A/B",
-      "ko": "A/B 테스트"
+      "ko": "A/B 테스트",
+      "fr": "Tests A/B"
     },
     "Account": {
       "es": "Cuenta",
       "ja": "アカウント",
       "pt": "Conta",
-      "ko": "계정"
+      "ko": "계정",
+      "fr": "Compte"
     },
     "Action Buttons": {
       "es": "Botones de acción",
       "ja": "アクションボタン",
       "pt": "Botões de ação",
-      "ko": "액션 버튼"
+      "ko": "액션 버튼",
+      "fr": "Boutons d'action"
     },
     "Actions": {
       "es": "Acciones",
       "ja": "操作",
       "pt": "Ações",
-      "ko": "작업"
+      "ko": "작업",
+      "fr": "Actions"
     },
     "Activate": {
       "es": "Activar",
       "ja": "有効化",
       "pt": "Ativar",
-      "ko": "활성화"
+      "ko": "활성화",
+      "fr": "Activer"
     },
     "Active": {
       "es": "Activo",
       "ja": "アクティブ",
       "pt": "Ativo",
-      "ko": "활성"
+      "ko": "활성",
+      "fr": "Actif"
     },
     "Active Audience": {
       "es": "Audiencia activa",
       "ja": "アクティブオーディエンス",
       "pt": "Público ativo",
-      "ko": "활성 대상"
+      "ko": "활성 대상",
+      "fr": "Audience active"
     },
     "Activity for": {
       "es": "Actividad de",
@@ -216,13 +225,15 @@
       "es": "API",
       "ja": "API",
       "pt": "API",
-      "ko": "API"
+      "ko": "API",
+      "fr": "API"
     },
     "API Reference": {
       "es": "Referencia de API",
       "ja": "APIリファレンス",
       "pt": "Referência de API",
-      "ko": "API 레퍼런스"
+      "ko": "API 레퍼런스",
+      "fr": "Référence API"
     },
     "App ID": {
       "es": "ID de la app",
@@ -3504,7 +3515,8 @@
       "ja": "アカウントオプション",
       "es": "Opciones de cuenta",
       "pt": "Opções de conta",
-      "ko": "계정 옵션"
+      "ko": "계정 옵션",
+      "fr": "Options du compte"
     },
     "Close Audience menu": {
       "ja": "オーディエンスメニューを閉じる",
@@ -3564,7 +3576,8 @@
       "ja": "包括的なAPIを通じて、OneSignal通知の詳細なメッセージ配信履歴と受信者データにアクセスできます。",
       "es": "Accede al historial detallado de entrega de mensajes y datos de destinatarios de tus notificaciones a través de nuestra API integral.",
       "pt": "Acesse o histórico detalhado de entrega de mensagens e dados de destinatários das suas notificações do OneSignal pela nossa API abrangente.",
-      "ko": "포괄적인 API를 통해 OneSignal 알림의 상세한 메시지 전달 이력과 수신자 데이터에 액세스하세요."
+      "ko": "포괄적인 API를 통해 OneSignal 알림의 상세한 메시지 전달 이력과 수신자 데이터에 액세스하세요.",
+      "fr": "Accédez à l'historique détaillé de livraison des messages et aux données des destinataires de vos notifications via notre API complète."
     },
     "Retain data long term for auditing and compliance or to power machine-learning engines": {
       "ja": "監査・コンプライアンスや機械学習エンジンのためにデータを長期保存する",
@@ -4032,7 +4045,8 @@
       "ja": "アクティブな購読",
       "es": "Suscripciones activas",
       "pt": "Assinaturas ativas",
-      "ko": "활성 구독"
+      "ko": "활성 구독",
+      "fr": "Abonnements actifs"
     },
     "All Email Subscriptions": {
       "ja": "すべてのメール購読",
@@ -4885,7 +4899,8 @@
       "ja": "5xx応答",
       "es": "Respuestas 5xx",
       "pt": "Respostas 5xx",
-      "ko": "5xx 응답"
+      "ko": "5xx 응답",
+      "fr": "Réponses 5xx"
     },
     "Add stat": {
       "ja": "統計を追加",
@@ -4957,7 +4972,8 @@
       "ja": "AI生成プッシュ",
       "es": "Push generado por IA",
       "pt": "Push gerado por IA",
-      "ko": "AI 생성 푸시"
+      "ko": "AI 생성 푸시",
+      "fr": "Push généré par IA"
     },
     "Blank Push": {
       "ja": "空のプッシュ",
@@ -5136,7 +5152,8 @@
       "ja": "A/Bテスト",
       "es": "Prueba A/B",
       "pt": "Teste A/B",
-      "ko": "A/B 테스트"
+      "ko": "A/B 테스트",
+      "fr": "Test A/B"
     },
     "Assign labels": {
       "ja": "ラベルを割り当て",
@@ -6550,7 +6567,8 @@
       "ja": "アクションID 1",
       "es": "ID de acción 1",
       "pt": "ID de ação 1",
-      "ko": "액션 ID 1"
+      "ko": "액션 ID 1",
+      "fr": "ID d'action 1"
     },
     "Add Button": {
       "ja": "ボタンを追加",
@@ -6633,13 +6651,15 @@
       "ja": "アクセントカラー",
       "es": "Color de acento",
       "pt": "Cor de destaque",
-      "ko": "강조 색상"
+      "ko": "강조 색상",
+      "fr": "Couleur d'accentuation"
     },
     "Action Icon Path 1": {
       "ja": "アクションアイコンパス 1",
       "es": "Ruta del icono de acción 1",
       "pt": "Caminho do ícone de ação 1",
-      "ko": "액션 아이콘 경로 1"
+      "ko": "액션 아이콘 경로 1",
+      "fr": "Chemin de l'icône d'action 1"
     },
     "Add Field": {
       "ja": "フィールドを追加",
@@ -7554,7 +7574,8 @@
       "ja": "AI生成プッシュテンプレート",
       "es": "Plantilla de push generada por IA",
       "pt": "Modelo de push gerado por IA",
-      "ko": "AI 생성 푸시 템플릿"
+      "ko": "AI 생성 푸시 템플릿",
+      "fr": "Modèle de push généré par IA"
     },
     "Blank Push Template": {
       "ja": "空のプッシュテンプレート",
@@ -7694,7 +7715,8 @@
       "ja": "活動",
       "es": "Actividad",
       "pt": "Atividade",
-      "ko": "활동"
+      "ko": "활동",
+      "fr": "Activité"
     },
     "Refresh": {
       "ja": "更新",
@@ -8159,13 +8181,15 @@
       "ja": "60分",
       "es": "60 minutos",
       "pt": "60 minutos",
-      "ko": "60분"
+      "ko": "60분",
+      "fr": "60 minutes"
     },
     "Active Platforms": {
       "ja": "アクティブなプラットフォーム",
       "es": "Plataformas activas",
       "pt": "Plataformas ativas",
-      "ko": "활성 플랫폼"
+      "ko": "활성 플랫폼",
+      "fr": "Plateformes actives"
     },
     "Add Group": {
       "ja": "グループを追加",
@@ -8466,7 +8490,8 @@
       "ja": "APIキー",
       "es": "Claves API",
       "pt": "Chaves de API",
-      "ko": "API 키"
+      "ko": "API 키",
+      "fr": "Clés API"
     },
     "Add Key": {
       "ja": "キーを追加",
