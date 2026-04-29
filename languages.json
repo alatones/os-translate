@@ -2041,13 +2041,13 @@
       "ko": "운영 체제"
     },
     "Opted In": {
-      "es": "Registrado",
+      "es": "Aceptado",
       "ja": "オプトイン済み",
       "pt": "Inscrito",
       "ko": "동의함"
     },
     "Opted Out": {
-      "es": "No registrado",
+      "es": "Excluido",
       "ja": "オプトアウト済み",
       "pt": "Cancelado",
       "ko": "거부함"
@@ -2863,7 +2863,7 @@
       "ko": "구독됨"
     },
     "Subscriber Opted Out": {
-      "es": "Suscriptor no participante",
+      "es": "Suscriptor excluido",
       "ja": "購読者がオプトアウト",
       "pt": "Assinante optou por sair",
       "ko": "구독자 거부"
@@ -3157,7 +3157,7 @@
       "ko": "구독 취소율"
     },
     "Unsubscribed": {
-      "es": "No suscrito",
+      "es": "Cancelado",
       "ja": "購読解除",
       "pt": "Cancelado",
       "ko": "구독 취소됨"
