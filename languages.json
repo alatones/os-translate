@@ -402,67 +402,78 @@
       "es": "Automatización",
       "ja": "オートメーション",
       "pt": "Automação",
-      "ko": "자동화"
+      "ko": "자동화",
+      "fr": "Automatisation"
     },
     "Average": {
       "es": "Promedio",
       "ja": "平均",
       "pt": "Média",
-      "ko": "평균"
+      "ko": "평균",
+      "fr": "Moyenne"
     },
     "Back": {
       "es": "Volver",
       "ja": "戻る",
       "pt": "Voltar",
-      "ko": "뒤로"
+      "ko": "뒤로",
+      "fr": "Retour"
     },
     "Badge": {
       "es": "Insignia",
       "ja": "バッジ",
       "pt": "Emblema",
-      "ko": "배지"
+      "ko": "배지",
+      "fr": "Badge"
     },
     "Banner": {
       "es": "Banner",
       "ja": "バナー",
       "pt": "Banner",
-      "ko": "배너"
+      "ko": "배너",
+      "fr": "Bannière"
     },
     "Blog": {
       "es": "Blog",
       "ja": "ブログ",
       "pt": "Blog",
-      "ko": "블로그"
+      "ko": "블로그",
+      "fr": "Blog"
     },
     "Branch": {
       "es": "Rama",
       "ja": "分岐",
       "pt": "Ramificação",
-      "ko": "분기"
+      "ko": "분기",
+      "fr": "Branche"
     },
     "Calendar": {
       "es": "Calendario",
       "ja": "カレンダー",
       "pt": "Calendário",
-      "ko": "달력"
+      "ko": "달력",
+      "fr": "Calendrier"
     },
     "Cancel": {
       "es": "Cancelar",
       "ja": "キャンセル",
       "pt": "Cancelar",
-      "ko": "취소"
+      "ko": "취소",
+      "fr": "Annuler"
     },
     "Canceled": {
       "es": "Cancelado",
       "ja": "キャンセル済み",
       "pt": "Cancelado",
-      "ko": "취소됨"
+      "ko": "취소됨",
+      "fr": "Annulé"
     },
     "Careers": {
       "es": "Empleo",
       "ja": "採用情報",
       "pt": "Carreiras",
-      "ko": "채용"
+      "ko": "채용",
+      "fr": "Carrières"
     },
     "Catalog": {
       "es": "Catálogo",
@@ -768,13 +779,15 @@
       "es": "CSV",
       "ja": "CSV",
       "pt": "CSV",
-      "ko": "CSV"
+      "ko": "CSV",
+      "fr": "CSV"
     },
     "CTR": {
       "es": "CTR",
       "ja": "CTR",
       "pt": "CTR",
-      "ko": "CTR"
+      "ko": "CTR",
+      "fr": "CTR"
     },
     "Custom": {
       "es": "Personalizado",
@@ -3499,7 +3512,8 @@
       "ja": "モバイルとウェブのプッシュ通知でユーザーを呼び戻します。",
       "es": "Recupera a tus usuarios con push móvil y web.",
       "pt": "Traga seus usuários de volta com push móvel e web.",
-      "ko": "모바일 및 웹 푸시로 사용자를 다시 유도하세요."
+      "ko": "모바일 및 웹 푸시로 사용자를 다시 유도하세요.",
+      "fr": "Faites revenir vos utilisateurs avec le push mobile et web."
     },
     "Craft sophisticated professional emails with no code.": {
       "ja": "コードなしでプロフェッショナルなメールを作成。",
@@ -3943,13 +3957,15 @@
       "ja": "キャンペーンのたびにゼロから始める手間をなくす",
       "es": "Evita empezar desde cero en cada campaña",
       "pt": "Evite começar do zero a cada campanha",
-      "ko": "매번 캠페인을 처음부터 시작하는 것을 피하세요"
+      "ko": "매번 캠페인을 처음부터 시작하는 것을 피하세요",
+      "fr": "Évitez de partir de zéro pour chaque campagne"
     },
     "Build custom templates to re-use": {
       "ja": "再利用可能なカスタムテンプレートを作成",
       "es": "Crea plantillas personalizadas para reutilizar",
       "pt": "Crie modelos personalizados para reutilizar",
-      "ko": "재사용을 위한 맞춤 템플릿 만들기"
+      "ko": "재사용을 위한 맞춤 템플릿 만들기",
+      "fr": "Créez des modèles personnalisés à réutiliser"
     },
     "Combine channels, campaigns, and messaging logic in our drag-and-drop visual builder": {
       "ja": "ドラッグ＆ドロップのビジュアルビルダーで、チャネル・キャンペーン・メッセージングロジックを組み合わせる",
@@ -4307,13 +4323,15 @@
       "ja": "デモを予約",
       "es": "Reservar una demo",
       "pt": "Agendar uma demonstração",
-      "ko": "데모 예약"
+      "ko": "데모 예약",
+      "fr": "Réserver une démo"
     },
     "Book a live demo": {
       "ja": "ライブデモを予約",
       "es": "Reservar una demo en vivo",
       "pt": "Agendar uma demonstração ao vivo",
-      "ko": "라이브 데모 예약"
+      "ko": "라이브 데모 예약",
+      "fr": "Réserver une démo en direct"
     },
     "Communicate mobile-first with users outside your app": {
       "ja": "アプリ外でもモバイルファーストでユーザーとコミュニケーションを取る",
@@ -4618,13 +4636,15 @@
       "ja": "バッジ",
       "es": "Insignias",
       "pt": "Distintivos",
-      "ko": "배지"
+      "ko": "배지",
+      "fr": "Badges"
     },
     "Capped": {
       "ja": "制限あり",
       "es": "Limitado",
       "pt": "Limitado",
-      "ko": "제한됨"
+      "ko": "제한됨",
+      "fr": "Plafonné"
     },
     "Channel Mode": {
       "ja": "チャネルモード",
@@ -4853,7 +4873,8 @@
       "ja": "請求",
       "es": "Facturación",
       "pt": "Cobrança",
-      "ko": "청구"
+      "ko": "청구",
+      "fr": "Facturation"
     },
     "Enterprise": {
       "ja": "エンタープライズ",
@@ -5037,7 +5058,8 @@
       "ja": "空のプッシュ",
       "es": "Push en blanco",
       "pt": "Push em branco",
-      "ko": "빈 푸시"
+      "ko": "빈 푸시",
+      "fr": "Push vierge"
     },
     "Custom Events Ingestion": {
       "ja": "カスタムイベント取り込み",
@@ -5225,13 +5247,15 @@
       "ja": "ベータ",
       "es": "Beta",
       "pt": "Beta",
-      "ko": "베타"
+      "ko": "베타",
+      "fr": "Bêta"
     },
     "Campaign Name or Internal Name": {
       "ja": "キャンペーン名または内部名",
       "es": "Nombre de campaña o nombre interno",
       "pt": "Nome da campanha ou nome interno",
-      "ko": "캠페인 이름 또는 내부 이름"
+      "ko": "캠페인 이름 또는 내부 이름",
+      "fr": "Nom de la campagne ou nom interne"
     },
     "Custom time per user timezone": {
       "ja": "ユーザーのタイムゾーンに合わせた時間",
@@ -5531,7 +5555,8 @@
       "ja": "ブロックエディター",
       "es": "Editor de bloques",
       "pt": "Editor de blocos",
-      "ko": "블록 편집기"
+      "ko": "블록 편집기",
+      "fr": "Éditeur par blocs"
     },
     "Fold line": {
       "ja": "行を折りたたむ",
@@ -5722,49 +5747,57 @@
       "ja": "背景",
       "es": "Fondo",
       "pt": "Fundo",
-      "ko": "배경"
+      "ko": "배경",
+      "fr": "Arrière-plan"
     },
     "Background color": {
       "ja": "背景色",
       "es": "Color de fondo",
       "pt": "Cor de fundo",
-      "ko": "배경색"
+      "ko": "배경색",
+      "fr": "Couleur d'arrière-plan"
     },
     "Background image": {
       "ja": "背景画像",
       "es": "Imagen de fondo",
       "pt": "Imagem de fundo",
-      "ko": "배경 이미지"
+      "ko": "배경 이미지",
+      "fr": "Image d'arrière-plan"
     },
     "Border color": {
       "ja": "ボーダーの色",
       "es": "Color del borde",
       "pt": "Cor da borda",
-      "ko": "테두리 색상"
+      "ko": "테두리 색상",
+      "fr": "Couleur de la bordure"
     },
     "Border weight": {
       "ja": "ボーダーの太さ",
       "es": "Grosor del borde",
       "pt": "Espessura da borda",
-      "ko": "테두리 두께"
+      "ko": "테두리 두께",
+      "fr": "Épaisseur de la bordure"
     },
     "Button 1": {
       "ja": "ボタン1",
       "es": "Botón 1",
       "pt": "Botão 1",
-      "ko": "버튼 1"
+      "ko": "버튼 1",
+      "fr": "Bouton 1"
     },
     "Button background": {
       "ja": "ボタンの背景",
       "es": "Fondo del botón",
       "pt": "Fundo do botão",
-      "ko": "버튼 배경"
+      "ko": "버튼 배경",
+      "fr": "Arrière-plan du bouton"
     },
     "Button text": {
       "ja": "ボタンのテキスト",
       "es": "Texto del botón",
       "pt": "Texto do botão",
-      "ko": "버튼 텍스트"
+      "ko": "버튼 텍스트",
+      "fr": "Texte du bouton"
     },
     "Click Here": {
       "ja": "ここをクリック",
@@ -6018,7 +6051,8 @@
       "ja": "下",
       "es": "Inferior",
       "pt": "Inferior",
-      "ko": "아래"
+      "ko": "아래",
+      "fr": "Bas"
     },
     "Center": {
       "ja": "中央",
@@ -6514,7 +6548,8 @@
       "ja": "独自のジャーニーをゼロから構築。",
       "es": "Construye tu propio Journey desde cero.",
       "pt": "Construa seu próprio Journey do zero.",
-      "ko": "나만의 저니를 처음부터 구축하세요."
+      "ko": "나만의 저니를 처음부터 구축하세요.",
+      "fr": "Construisez votre propre Journey de A à Z."
     },
     "Choose a Journey to start": {
       "ja": "開始するジャーニーを選択",
@@ -6650,7 +6685,8 @@
       "ja": "ボタンラベル 1",
       "es": "Etiqueta del botón 1",
       "pt": "Rótulo do botão 1",
-      "ko": "버튼 라벨 1"
+      "ko": "버튼 라벨 1",
+      "fr": "Libellé du bouton 1"
     },
     "Category": {
       "ja": "カテゴリ",
@@ -6749,13 +6785,15 @@
       "ja": "新しいAI洗練機能を試すには入力を開始してください",
       "es": "Empieza a escribir para probar nuestra nueva función de refinamiento con IA",
       "pt": "Comece a digitar para experimentar nosso novo recurso de refinamento de IA",
-      "ko": "새로운 AI 다듬기 기능을 사용해보려면 입력을 시작하세요"
+      "ko": "새로운 AI 다듬기 기능을 사용해보려면 입력을 시작하세요",
+      "fr": "Commencez à taper pour essayer notre nouvelle fonction d'amélioration IA"
     },
     "Big Picture": {
       "ja": "ビッグピクチャー",
       "es": "Imagen grande",
       "pt": "Imagem grande",
-      "ko": "큰 그림"
+      "ko": "큰 그림",
+      "fr": "Grande image"
     },
     "Chrome Action Buttons": {
       "ja": "Chromeアクションボタン",
@@ -7327,7 +7365,8 @@
       "ja": "課金対象のメール送信",
       "es": "Envíos de correo facturables",
       "pt": "Envios de email faturáveis",
-      "ko": "청구 가능한 이메일 발송"
+      "ko": "청구 가능한 이메일 발송",
+      "fr": "Envois d'email facturables"
     },
     "DWH": {
       "ja": "DWH",
@@ -7405,7 +7444,8 @@
       "ja": "空のSMS / RCS",
       "es": "SMS / RCS en blanco",
       "pt": "SMS / RCS em branco",
-      "ko": "빈 SMS / RCS"
+      "ko": "빈 SMS / RCS",
+      "fr": "SMS / RCS vierge"
     },
     "Double opt-in": {
       "ja": "ダブルオプトイン",
@@ -7424,7 +7464,8 @@
       "ja": "ベーシック",
       "es": "Básico",
       "pt": "Básico",
-      "ko": "기본"
+      "ko": "기본",
+      "fr": "Basique"
     },
     "Cost guide": {
       "ja": "料金ガイド",
@@ -7657,13 +7698,15 @@
       "ja": "空のプッシュテンプレート",
       "es": "Plantilla de push en blanco",
       "pt": "Modelo de push em branco",
-      "ko": "빈 푸시 템플릿"
+      "ko": "빈 푸시 템플릿",
+      "fr": "Modèle de push vierge"
     },
     "Blank SMS / RCS Template": {
       "ja": "空のSMS / RCSテンプレート",
       "es": "Plantilla SMS / RCS en blanco",
       "pt": "Modelo SMS / RCS em branco",
-      "ko": "빈 SMS / RCS 템플릿"
+      "ko": "빈 SMS / RCS 템플릿",
+      "fr": "Modèle SMS / RCS vierge"
     },
     "1. Sender": {
       "ja": "1. 送信者",
@@ -8090,7 +8133,8 @@
       "ja": "ダブルオプトイン待機中",
       "es": "Esperando doble opt-in",
       "pt": "Aguardando opt-in duplo",
-      "ko": "이중 옵트인 대기 중"
+      "ko": "이중 옵트인 대기 중",
+      "fr": "En attente du double opt-in"
     },
     "Italian": {
       "ja": "イタリア語",
@@ -8227,7 +8271,8 @@
       "ja": "キャンペーン",
       "es": "Campaña",
       "pt": "Campanha",
-      "ko": "캠페인"
+      "ko": "캠페인",
+      "fr": "Campagne"
     },
     "Medium": {
       "ja": "メディア",
@@ -8320,7 +8365,8 @@
       "ja": "バンドルID",
       "es": "ID del paquete",
       "pt": "ID do pacote",
-      "ko": "번들 ID"
+      "ko": "번들 ID",
+      "fr": "Bundle ID"
     },
     "Channels documentation.": {
       "ja": "チャネル文書。",
@@ -8453,7 +8499,8 @@
       "ja": "バウンス",
       "es": "Rebotado",
       "pt": "Devolvido",
-      "ko": "반송됨"
+      "ko": "반송됨",
+      "fr": "Rejeté"
     },
     "Manually added": {
       "ja": "手動で追加",
@@ -8484,7 +8531,8 @@
       "ja": "バウンス率",
       "es": "Tasa de rebote",
       "pt": "Taxa de devolução",
-      "ko": "반송률"
+      "ko": "반송률",
+      "fr": "Taux de rebond"
     },
     "Domain": {
       "ja": "ドメイン",
@@ -8739,7 +8787,8 @@
       "ja": "ユーザーが受信するメッセージ数を制限",
       "es": "Limita la cantidad de mensajes que reciben los usuarios",
       "pt": "Limita a quantidade de mensagens que os usuários recebem",
-      "ko": "사용자가 받는 메시지 수 제한"
+      "ko": "사용자가 받는 메시지 수 제한",
+      "fr": "Plafonnez le nombre de messages que les utilisateurs reçoivent"
     },
     "Hide Outcomes that you no longer want to track from your reports.": {
       "ja": "追跡を必要としなくなった結果をレポートから非表示にします。",
@@ -9189,7 +9238,8 @@
       "ja": "CANCEL",
       "es": "CANCEL",
       "pt": "CANCEL",
-      "ko": "CANCEL"
+      "ko": "CANCEL",
+      "fr": "CANCEL"
     },
     "HELP": {
       "ja": "HELP",
