@@ -11265,7 +11265,8 @@
       "pt": "Modelo de email",
       "ko": "이메일 템플릿",
       "fr": "Modèle email",
-      "tr": "Email şablonu"
+      "tr": "Email şablonu",
+      "zh-CN": "Email 模板"
     },
     "Push Template": {
       "ja": "プッシュテンプレート",
@@ -11273,7 +11274,8 @@
       "pt": "Modelo de push",
       "ko": "푸시 템플릿",
       "fr": "Modèle de push",
-      "tr": "Push şablonu"
+      "tr": "Push şablonu",
+      "zh-CN": "Push 模板"
     },
     "SMS / RCS Template": {
       "ja": "SMS / RCSテンプレート",
@@ -11281,7 +11283,8 @@
       "pt": "Modelo SMS / RCS",
       "ko": "SMS / RCS 템플릿",
       "fr": "Modèle SMS / RCS",
-      "tr": "SMS / RCS şablonu"
+      "tr": "SMS / RCS şablonu",
+      "zh-CN": "SMS / RCS 模板"
     },
     "Template": {
       "ja": "テンプレート",
@@ -11289,7 +11292,8 @@
       "pt": "Modelo",
       "ko": "템플릿",
       "fr": "Modèle",
-      "tr": "Şablon"
+      "tr": "Şablon",
+      "zh-CN": "模板"
     },
     "AI-generated Push Template": {
       "ja": "AI生成プッシュテンプレート",
@@ -11297,7 +11301,8 @@
       "pt": "Modelo de push gerado por IA",
       "ko": "AI 생성 푸시 템플릿",
       "fr": "Modèle de push généré par IA",
-      "tr": "Yapay zeka tarafından oluşturulan push şablonu"
+      "tr": "Yapay zeka tarafından oluşturulan push şablonu",
+      "zh-CN": "AI 生成的 Push 模板"
     },
     "Blank Push Template": {
       "ja": "空のプッシュテンプレート",
@@ -11305,7 +11310,8 @@
       "pt": "Modelo de push em branco",
       "ko": "빈 푸시 템플릿",
       "fr": "Modèle de push vierge",
-      "tr": "Boş push şablonu"
+      "tr": "Boş push şablonu",
+      "zh-CN": "空白 Push 模板"
     },
     "Blank SMS / RCS Template": {
       "ja": "空のSMS / RCSテンプレート",
@@ -11313,7 +11319,8 @@
       "pt": "Modelo SMS / RCS em branco",
       "ko": "빈 SMS / RCS 템플릿",
       "fr": "Modèle SMS / RCS vierge",
-      "tr": "Boş SMS / RCS şablonu"
+      "tr": "Boş SMS / RCS şablonu",
+      "zh-CN": "空白 SMS / RCS 模板"
     },
     "1. Sender": {
       "ja": "1. 送信者",
@@ -11321,7 +11328,8 @@
       "pt": "1. Remetente",
       "ko": "1. 발신자",
       "fr": "1. Expéditeur",
-      "tr": "1. Gönderen"
+      "tr": "1. Gönderen",
+      "zh-CN": "1. 发件人"
     },
     "2. Message": {
       "ja": "2. メッセージ",
@@ -11329,7 +11337,8 @@
       "pt": "2. Mensagem",
       "ko": "2. 메시지",
       "fr": "2. Message",
-      "tr": "2. Mesaj"
+      "tr": "2. Mesaj",
+      "zh-CN": "2. 消息"
     },
     "HTML Editor": {
       "ja": "HTMLエディター",
@@ -11337,7 +11346,8 @@
       "pt": "Editor HTML",
       "ko": "HTML 편집기",
       "fr": "Éditeur HTML",
-      "tr": "HTML düzenleyici"
+      "tr": "HTML düzenleyici",
+      "zh-CN": "HTML 编辑器"
     },
     "New Email Template": {
       "ja": "新しいメールテンプレート",
@@ -11345,7 +11355,8 @@
       "pt": "Novo modelo de email",
       "ko": "새 이메일 템플릿",
       "fr": "Nouveau modèle email",
-      "tr": "Yeni email şablonu"
+      "tr": "Yeni email şablonu",
+      "zh-CN": "新 Email 模板"
     },
     "Personalization": {
       "ja": "パーソナライゼーション",
@@ -11353,7 +11364,8 @@
       "pt": "Personalização",
       "ko": "개인화",
       "fr": "Personnalisation",
-      "tr": "Kişiselleştirme"
+      "tr": "Kişiselleştirme",
+      "zh-CN": "个性化"
     },
     "Select your editing experience:": {
       "ja": "編集エクスペリエンスを選択:",
@@ -11361,7 +11373,8 @@
       "pt": "Selecione sua experiência de edição:",
       "ko": "편집 환경 선택:",
       "fr": "Sélectionnez votre expérience d'édition :",
-      "tr": "Düzenleme deneyiminizi seçin:"
+      "tr": "Düzenleme deneyiminizi seçin:",
+      "zh-CN": "选择您的编辑体验:"
     },
     "Sender Email": {
       "ja": "送信元メール",
@@ -11369,7 +11382,8 @@
       "pt": "Email do remetente",
       "ko": "발신자 이메일",
       "fr": "Email de l'expéditeur",
-      "tr": "Gönderen emaili"
+      "tr": "Gönderen emaili",
+      "zh-CN": "发件人 Email"
     },
     "Sender Name": {
       "ja": "送信者名",
@@ -11377,7 +11391,8 @@
       "pt": "Nome do remetente",
       "ko": "발신자 이름",
       "fr": "Nom de l'expéditeur",
-      "tr": "Gönderen adı"
+      "tr": "Gönderen adı",
+      "zh-CN": "发件人名称"
     },
     "Sender name you want shown": {
       "ja": "表示したい送信者名",
@@ -11385,7 +11400,8 @@
       "pt": "Nome do remetente que você deseja exibir",
       "ko": "표시하려는 발신자 이름",
       "fr": "Nom d'expéditeur à afficher",
-      "tr": "Gösterilmesini istediğiniz gönderen adı"
+      "tr": "Gösterilmesini istediğiniz gönderen adı",
+      "zh-CN": "您希望显示的发件人名称"
     },
     "New Push Template": {
       "ja": "新しいプッシュテンプレート",
@@ -11393,7 +11409,8 @@
       "pt": "Novo modelo de push",
       "ko": "새 푸시 템플릿",
       "fr": "Nouveau modèle de push",
-      "tr": "Yeni push şablonu"
+      "tr": "Yeni push şablonu",
+      "zh-CN": "新 Push 模板"
     },
     "Consider looking on the": {
       "ja": "次を確認してみてください:",
@@ -11401,7 +11418,8 @@
       "pt": "Considere procurar no",
       "ko": "다음을 확인해 보세요:",
       "fr": "Pensez à consulter le",
-      "tr": "Şuna bakmayı düşünün:"
+      "tr": "Şuna bakmayı düşünün:",
+      "zh-CN": "考虑查看"
     },
     "Search bar showing empty results": {
       "ja": "検索バーで結果が空",
@@ -11409,7 +11427,8 @@
       "pt": "Barra de pesquisa mostrando resultados vazios",
       "ko": "검색창에 비어 있는 결과가 표시됨",
       "fr": "Barre de recherche affichant des résultats vides",
-      "tr": "Boş sonuçlar gösteren arama çubuğu"
+      "tr": "Boş sonuçlar gösteren arama çubuğu",
+      "zh-CN": "显示空结果的搜索栏"
     },
     "We could not find the Template you were looking for.": {
       "ja": "お探しのテンプレートが見つかりませんでした。",
@@ -11417,7 +11436,8 @@
       "pt": "Não conseguimos encontrar o modelo que você estava procurando.",
       "ko": "찾으시는 템플릿을 찾을 수 없습니다.",
       "fr": "Nous n'avons pas trouvé le modèle que vous cherchiez.",
-      "tr": "Aradığınız şablonu bulamadık."
+      "tr": "Aradığınız şablonu bulamadık.",
+      "zh-CN": "找不到您要查找的模板。"
     },
     "template index": {
       "ja": "テンプレート一覧",
@@ -11425,7 +11445,8 @@
       "pt": "índice de modelos",
       "ko": "템플릿 인덱스",
       "fr": "index des modèles",
-      "tr": "şablon dizini"
+      "tr": "şablon dizini",
+      "zh-CN": "模板索引"
     },
     "Add Additional Media": {
       "ja": "追加のメディアを追加",
@@ -11433,7 +11454,8 @@
       "pt": "Adicionar mídia adicional",
       "ko": "추가 미디어 추가",
       "fr": "Ajouter des médias supplémentaires",
-      "tr": "Ek medya ekle"
+      "tr": "Ek medya ekle",
+      "zh-CN": "添加更多媒体"
     },
     "Default Brand Logo": {
       "ja": "デフォルトのブランドロゴ",
@@ -11441,7 +11463,8 @@
       "pt": "Logotipo de marca padrão",
       "ko": "기본 브랜드 로고",
       "fr": "Logo de marque par défaut",
-      "tr": "Varsayılan marka logosu"
+      "tr": "Varsayılan marka logosu",
+      "zh-CN": "默认品牌徽标"
     },
     "Insert Trackable Link": {
       "ja": "追跡可能なリンクを挿入",
@@ -11449,7 +11472,8 @@
       "pt": "Inserir link rastreável",
       "ko": "추적 가능한 링크 삽입",
       "fr": "Insérer un lien traçable",
-      "tr": "İzlenebilir bağlantı ekle"
+      "tr": "İzlenebilir bağlantı ekle",
+      "zh-CN": "插入可追踪链接"
     },
     "New SMS / RCS Template": {
       "ja": "新しいSMS / RCSテンプレート",
@@ -11457,7 +11481,8 @@
       "pt": "Novo modelo SMS / RCS",
       "ko": "새 SMS / RCS 템플릿",
       "fr": "Nouveau modèle SMS / RCS",
-      "tr": "Yeni SMS / RCS şablonu"
+      "tr": "Yeni SMS / RCS şablonu",
+      "zh-CN": "新 SMS / RCS 模板"
     },
     "Your Brand Here": {
       "ja": "ここにブランドを",
@@ -11465,7 +11490,8 @@
       "pt": "Sua marca aqui",
       "ko": "여기에 브랜드 표시",
       "fr": "Votre marque ici",
-      "tr": "Markanız burada"
+      "tr": "Markanız burada",
+      "zh-CN": "您的品牌位于此处"
     },
     "Spanish": {
       "ja": "スペイン語",
@@ -11473,7 +11499,8 @@
       "pt": "Espanhol",
       "ko": "스페인어",
       "fr": "Espagnol",
-      "tr": "İspanyolca"
+      "tr": "İspanyolca",
+      "zh-CN": "西班牙语"
     },
     "Activity": {
       "ja": "活動",
@@ -11481,7 +11508,8 @@
       "pt": "Atividade",
       "ko": "활동",
       "fr": "Activité",
-      "tr": "Etkinlik"
+      "tr": "Etkinlik",
+      "zh-CN": "活动"
     },
     "Refresh": {
       "ja": "更新",
@@ -11489,7 +11517,8 @@
       "pt": "Atualizar",
       "ko": "새로 고침",
       "fr": "Actualiser",
-      "tr": "Yenile"
+      "tr": "Yenile",
+      "zh-CN": "刷新"
     },
     "Timestamp": {
       "ja": "タイムスタンプ",
@@ -11497,7 +11526,8 @@
       "pt": "Marca de tempo",
       "ko": "타임스탬프",
       "fr": "Horodatage",
-      "tr": "Zaman damgası"
+      "tr": "Zaman damgası",
+      "zh-CN": "时间戳"
     },
     "You'll see data here when there's user activity.": {
       "ja": "ユーザー活動があると、ここにデータが表示されます。",
@@ -11505,7 +11535,8 @@
       "pt": "Você verá dados aqui quando houver atividade do usuário.",
       "ko": "사용자 활동이 있을 때 여기에 데이터가 표시됩니다.",
       "fr": "Vous verrez des données ici lorsqu'il y aura de l'activité utilisateur.",
-      "tr": "Kullanıcı etkinliği olduğunda verileri burada göreceksiniz."
+      "tr": "Kullanıcı etkinliği olduğunda verileri burada göreceksiniz.",
+      "zh-CN": "当有用户活动时，您将在此处看到数据。"
     },
     "Message events": {
       "ja": "メッセージイベント",
@@ -11513,7 +11544,8 @@
       "pt": "Eventos de mensagens",
       "ko": "메시지 이벤트",
       "fr": "Événements de message",
-      "tr": "Mesaj etkinlikleri"
+      "tr": "Mesaj etkinlikleri",
+      "zh-CN": "消息事件"
     },
     "No Recent Activity": {
       "ja": "最近の活動なし",
@@ -11521,7 +11553,8 @@
       "pt": "Sem atividade recente",
       "ko": "최근 활동 없음",
       "fr": "Aucune activité récente",
-      "tr": "Son etkinlik yok"
+      "tr": "Son etkinlik yok",
+      "zh-CN": "无最近活动"
     },
     "Refreshing...": {
       "ja": "更新中...",
@@ -11529,7 +11562,8 @@
       "pt": "Atualizando...",
       "ko": "새로 고치는 중...",
       "fr": "Actualisation...",
-      "tr": "Yenileniyor..."
+      "tr": "Yenileniyor...",
+      "zh-CN": "刷新中..."
     },
     "Search by journey name": {
       "ja": "ジャーニー名で検索",
@@ -11537,7 +11571,8 @@
       "pt": "Pesquisar por nome do Journey",
       "ko": "저니 이름으로 검색",
       "fr": "Rechercher par nom de Journey",
-      "tr": "Journey adına göre ara"
+      "tr": "Journey adına göre ara",
+      "zh-CN": "按 Journey 名称搜索"
     },
     "Search by key or value": {
       "ja": "キーまたは値で検索",
@@ -11545,7 +11580,8 @@
       "pt": "Pesquisar por chave ou valor",
       "ko": "키 또는 값으로 검색",
       "fr": "Rechercher par clé ou valeur",
-      "tr": "Anahtar veya değere göre ara"
+      "tr": "Anahtar veya değere göre ara",
+      "zh-CN": "按键或值搜索"
     },
     "Aliases": {
       "ja": "エイリアス",
@@ -11553,7 +11589,8 @@
       "pt": "Aliases",
       "ko": "별칭",
       "fr": "Alias",
-      "tr": "Takma adlar"
+      "tr": "Takma adlar",
+      "zh-CN": "别名"
     },
     "Custom events": {
       "ja": "カスタムイベント",
@@ -11561,7 +11598,8 @@
       "pt": "Eventos personalizados",
       "ko": "사용자 정의 이벤트",
       "fr": "Événements personnalisés",
-      "tr": "Özel etkinlikler"
+      "tr": "Özel etkinlikler",
+      "zh-CN": "自定义事件"
     },
     "Data tags": {
       "ja": "データタグ",
@@ -11569,7 +11607,8 @@
       "pt": "Tags de dados",
       "ko": "데이터 태그",
       "fr": "Tags de données",
-      "tr": "Veri etiketleri"
+      "tr": "Veri etiketleri",
+      "zh-CN": "数据标签"
     },
     "Devices": {
       "ja": "デバイス",
@@ -11577,7 +11616,8 @@
       "pt": "Dispositivos",
       "ko": "기기",
       "fr": "Appareils",
-      "tr": "Cihazlar"
+      "tr": "Cihazlar",
+      "zh-CN": "设备"
     },
     "Event log": {
       "ja": "イベントログ",
@@ -11585,7 +11625,8 @@
       "pt": "Registro de eventos",
       "ko": "이벤트 로그",
       "fr": "Journal d'événements",
-      "tr": "Etkinlik günlüğü"
+      "tr": "Etkinlik günlüğü",
+      "zh-CN": "事件日志"
     },
     "Learn more about Journeys.": {
       "ja": "ジャーニーの詳細を確認。",
@@ -11593,7 +11634,8 @@
       "pt": "Saiba mais sobre Journeys.",
       "ko": "저니에 대해 자세히 알아보세요.",
       "fr": "En savoir plus sur Journeys.",
-      "tr": "Journeys hakkında daha fazla bilgi edinin."
+      "tr": "Journeys hakkında daha fazla bilgi edinin.",
+      "zh-CN": "了解关于 Journeys 的更多信息。"
     },
     "Location Point": {
       "ja": "位置ポイント",
@@ -11601,7 +11643,8 @@
       "pt": "Ponto de localização",
       "ko": "위치 지점",
       "fr": "Point d'emplacement",
-      "tr": "Konum noktası"
+      "tr": "Konum noktası",
+      "zh-CN": "位置点"
     },
     "No aliases": {
       "ja": "エイリアスなし",
@@ -11609,7 +11652,8 @@
       "pt": "Sem aliases",
       "ko": "별칭 없음",
       "fr": "Aucun alias",
-      "tr": "Takma ad yok"
+      "tr": "Takma ad yok",
+      "zh-CN": "无别名"
     },
     "No custom events": {
       "ja": "カスタムイベントなし",
@@ -11617,7 +11661,8 @@
       "pt": "Sem eventos personalizados",
       "ko": "사용자 정의 이벤트 없음",
       "fr": "Aucun événement personnalisé",
-      "tr": "Özel etkinlik yok"
+      "tr": "Özel etkinlik yok",
+      "zh-CN": "无自定义事件"
     },
     "No device records": {
       "ja": "デバイス記録なし",
@@ -11625,7 +11670,8 @@
       "pt": "Sem registros de dispositivo",
       "ko": "기기 기록 없음",
       "fr": "Aucun enregistrement d'appareil",
-      "tr": "Cihaz kaydı yok"
+      "tr": "Cihaz kaydı yok",
+      "zh-CN": "无设备记录"
     },
     "No events": {
       "ja": "イベントなし",
@@ -11633,7 +11679,8 @@
       "pt": "Sem eventos",
       "ko": "이벤트 없음",
       "fr": "Aucun événement",
-      "tr": "Etkinlik yok"
+      "tr": "Etkinlik yok",
+      "zh-CN": "无事件"
     },
     "No journeys": {
       "ja": "ジャーニーなし",
@@ -11641,7 +11688,8 @@
       "pt": "Sem Journeys",
       "ko": "저니 없음",
       "fr": "Aucun Journey",
-      "tr": "Journey yok"
+      "tr": "Journey yok",
+      "zh-CN": "无 Journey"
     },
     "No message events": {
       "ja": "メッセージイベントなし",
@@ -11649,7 +11697,8 @@
       "pt": "Sem eventos de mensagens",
       "ko": "메시지 이벤트 없음",
       "fr": "Aucun événement de message",
-      "tr": "Mesaj etkinliği yok"
+      "tr": "Mesaj etkinliği yok",
+      "zh-CN": "无消息事件"
     },
     "No subscriptions": {
       "ja": "購読なし",
@@ -11657,7 +11706,8 @@
       "pt": "Sem assinaturas",
       "ko": "구독 없음",
       "fr": "Aucun abonnement",
-      "tr": "Abonelik yok"
+      "tr": "Abonelik yok",
+      "zh-CN": "无订阅"
     },
     "Phone": {
       "ja": "電話",
