@@ -2543,103 +2543,120 @@
       "es": "Prioridad",
       "ja": "優先度",
       "pt": "Prioridade",
-      "ko": "우선순위"
+      "ko": "우선순위",
+      "fr": "Priorité"
     },
     "Processed Events": {
       "es": "Eventos procesados",
       "ja": "処理済みイベント数",
       "pt": "Eventos processados",
-      "ko": "처리된 이벤트"
+      "ko": "처리된 이벤트",
+      "fr": "Événements traités"
     },
     "Processing": {
       "es": "Procesando",
       "ja": "処理中",
       "pt": "Processando",
-      "ko": "처리 중"
+      "ko": "처리 중",
+      "fr": "Traitement"
     },
     "Profile": {
       "es": "Perfil",
       "ja": "プロフィール",
       "pt": "Perfil",
-      "ko": "프로필"
+      "ko": "프로필",
+      "fr": "Profil"
     },
     "Promotional": {
       "es": "Promocional",
       "ja": "プロモーション",
       "pt": "Promocional",
-      "ko": "프로모션"
+      "ko": "프로모션",
+      "fr": "Promotionnel"
     },
     "Publish": {
       "es": "Publicar",
       "ja": "公開",
       "pt": "Publicar",
-      "ko": "게시"
+      "ko": "게시",
+      "fr": "Publier"
     },
     "Purchases": {
       "es": "Compras",
       "ja": "購入数",
       "pt": "Compras",
-      "ko": "구매"
+      "ko": "구매",
+      "fr": "Achats"
     },
     "Push": {
       "es": "Push",
       "ja": "プッシュ",
       "pt": "Push",
-      "ko": "푸시"
+      "ko": "푸시",
+      "fr": "Push"
     },
     "Push & In-App": {
       "es": "Push e In-App",
       "ja": "プッシュ & アプリ内",
       "pt": "Push e In-App",
-      "ko": "푸시 및 인앱"
+      "ko": "푸시 및 인앱",
+      "fr": "Push et In-App"
     },
     "Push Notifications": {
       "es": "Notificaciones push",
       "ja": "プッシュ通知",
       "pt": "Notificações push",
-      "ko": "푸시 알림"
+      "ko": "푸시 알림",
+      "fr": "Notifications push"
     },
     "Push token": {
       "es": "Token push",
       "ja": "プッシュトークン",
       "pt": "Token push",
-      "ko": "푸시 토큰"
+      "ko": "푸시 토큰",
+      "fr": "Token push"
     },
     "Queued": {
       "es": "En cola",
       "ja": "キュー中",
       "pt": "Na fila",
-      "ko": "대기 중"
+      "ko": "대기 중",
+      "fr": "En file d'attente"
     },
     "Quickstart your Journey": {
       "es": "Inicia rápidamente tu Journey",
       "ja": "ジャーニーをクイックスタート",
       "pt": "Inicie rapidamente seu Journey",
-      "ko": "저니 빠른 시작"
+      "ko": "저니 빠른 시작",
+      "fr": "Démarrer rapidement votre Journey"
     },
     "Reach targeted audience based on user properties or events from data tags": {
       "es": "Alcanza audiencias específicas según propiedades o eventos de etiquetas de datos",
       "ja": "データタグのユーザープロパティやイベントに基づいてターゲットオーディエンスにリーチ",
       "pt": "Alcance público segmentado com base em propriedades ou eventos de data tags",
-      "ko": "데이터 태그의 사용자 속성 또는 이벤트를 기반으로 대상에게 도달하세요"
+      "ko": "데이터 태그의 사용자 속성 또는 이벤트를 기반으로 대상에게 도달하세요",
+      "fr": "Atteignez une audience ciblée selon les propriétés des utilisateurs ou les événements des tags de données"
     },
     "Real-time data for timely messages": {
       "es": "Datos en tiempo real para mensajes oportunos",
       "ja": "タイムリーなメッセージのためのリアルタイムデータ",
       "pt": "Dados em tempo real para mensagens oportunas",
-      "ko": "시의적절한 메시지를 위한 실시간 데이터"
+      "ko": "시의적절한 메시지를 위한 실시간 데이터",
+      "fr": "Données en temps réel pour des messages opportuns"
     },
     "Received Events": {
       "es": "Eventos recibidos",
       "ja": "受信イベント数",
       "pt": "Eventos recebidos",
-      "ko": "수신된 이벤트"
+      "ko": "수신된 이벤트",
+      "fr": "Événements reçus"
     },
     "Recipients": {
       "es": "Destinatarios",
       "ja": "受信者数",
       "pt": "Destinatários",
-      "ko": "수신자"
+      "ko": "수신자",
+      "fr": "Destinataires"
     },
     "Refresh List": {
       "es": "Actualizar lista",
@@ -2699,7 +2716,8 @@
       "es": "Clave REST API",
       "ja": "REST APIキー",
       "pt": "Chave REST API",
-      "ko": "REST API 키"
+      "ko": "REST API 키",
+      "fr": "Clé d'API REST"
     },
     "Results": {
       "es": "Resultados",
@@ -3744,7 +3762,8 @@
       "ja": "プッシュセットアップドキュメント",
       "es": "Documentación de configuración de push",
       "pt": "Documentação de configuração de push",
-      "ko": "푸시 설정 문서"
+      "ko": "푸시 설정 문서",
+      "fr": "Documentation de configuration push"
     },
     "Hi! Let's get started": {
       "ja": "こんにちは！さっそく始めましょう",
@@ -3777,7 +3796,8 @@
       "ja": "プッシュ通知",
       "es": "Notificaciones push",
       "pt": "Notificações push",
-      "ko": "푸시 알림"
+      "ko": "푸시 알림",
+      "fr": "Notifications push"
     },
     "In-app messages": {
       "ja": "アプリ内メッセージ",
@@ -3818,7 +3838,8 @@
       "ja": "購読の状況に関わらず、すべてのアクティブユーザーにリーチします。（モバイルアプリのみ）",
       "es": "Llega a todos los usuarios activos, independientemente del estado de suscripción. (solo apps móviles)",
       "pt": "Alcance todos os usuários ativos, independentemente do status de assinatura. (somente apps móveis)",
-      "ko": "구독 상태에 관계없이 모든 활성 사용자에게 도달하세요. (모바일 앱 전용)"
+      "ko": "구독 상태에 관계없이 모든 활성 사용자에게 도달하세요. (모바일 앱 전용)",
+      "fr": "Atteignez tous les utilisateurs actifs, quel que soit leur statut d'abonnement. (apps mobiles uniquement)"
     },
     "Send a quick message or setup automated messaging with Journeys": {
       "ja": "クイックメッセージを送信するか、ジャーニーで自動メッセージを設定する",
@@ -3830,7 +3851,8 @@
       "ja": "クイックスタートドキュメントを読む",
       "es": "Lee nuestra documentación de inicio rápido",
       "pt": "Leia nossa documentação de início rápido",
-      "ko": "빠른 시작 문서 읽기"
+      "ko": "빠른 시작 문서 읽기",
+      "fr": "Lire notre documentation de démarrage rapide"
     },
     "Email - Active - Click to manage settings": {
       "ja": "メール - アクティブ - クリックして設定を管理",
@@ -3850,7 +3872,8 @@
       "ja": "プッシュ通知 - 未設定 - クリックしてセットアップ",
       "es": "Notificaciones push - No configurado - Haz clic para configurar",
       "pt": "Notificações push - Não configurado - Clique para configurar",
-      "ko": "푸시 알림 - 미구성 - 클릭하여 설정"
+      "ko": "푸시 알림 - 미구성 - 클릭하여 설정",
+      "fr": "Notifications push - Non configuré - Cliquez pour configurer"
     },
     "SMS / RCS - Not configured - Click to set up": {
       "ja": "SMS / RCS - 未設定 - クリックしてセットアップ",
@@ -4132,7 +4155,8 @@
       "ja": "ブログを読む",
       "es": "Leer blog",
       "pt": "Ler blog",
-      "ko": "블로그 읽기"
+      "ko": "블로그 읽기",
+      "fr": "Lire le blog"
     },
     "Explore more": {
       "ja": "詳細を見る",
@@ -4347,13 +4371,15 @@
       "ja": "再エンゲージメント",
       "es": "Reactivación",
       "pt": "Reengajamento",
-      "ko": "재참여"
+      "ko": "재참여",
+      "fr": "Réengagement"
     },
     "Ready to automate your messages?": {
       "ja": "メッセージの自動化の準備はできていますか？",
       "es": "¿Listo para automatizar tus mensajes?",
       "pt": "Pronto para automatizar suas mensagens?",
-      "ko": "메시지 자동화 준비가 되셨나요?"
+      "ko": "메시지 자동화 준비가 되셨나요?",
+      "fr": "Prêt à automatiser vos messages ?"
     },
     "Send the right message based on who users are and how they interact with your product": {
       "ja": "ユーザーの属性とプロダクトとのインタラクションに基づいて適切なメッセージを送信する",
@@ -4426,7 +4452,8 @@
       "ja": "最近送信したメッセージをすべて一か所で確認",
       "es": "Mensajes enviados recientemente, todos en un solo lugar",
       "pt": "Mensagens enviadas recentemente, todas em um só lugar",
-      "ko": "최근 발송된 메시지를 한 곳에서"
+      "ko": "최근 발송된 메시지를 한 곳에서",
+      "fr": "Messages récemment envoyés, tous au même endroit"
     },
     "Scheduled Messages documentation": {
       "ja": "スケジュール済みメッセージのドキュメント",
@@ -4751,7 +4778,8 @@
       "ja": "RCSはSMSよりも最大60%多くのコンバージョンを促進します。ブランドがリッチメディアメッセージをどのように活用して成果を上げているかをご覧ください。",
       "es": "RCS impulsa hasta un 60% más de conversiones que los SMS. Descubre cómo las marcas usan mensajes de rich media para mejorar los resultados.",
       "pt": "O RCS gera até 60% mais conversões do que o SMS. Veja como as marcas usam mensagens de rich media para aumentar os resultados.",
-      "ko": "RCS는 SMS보다 최대 60% 더 많은 전환을 유도합니다. 브랜드가 리치 미디어 메시지를 사용하여 결과를 향상시키는 방법을 확인하세요."
+      "ko": "RCS는 SMS보다 최대 60% 더 많은 전환을 유도합니다. 브랜드가 리치 미디어 메시지를 사용하여 결과를 향상시키는 방법을 확인하세요.",
+      "fr": "RCS génère jusqu'à 60 % de conversions en plus que les SMS. Découvrez comment les marques utilisent les messages enrichis pour de meilleurs résultats."
     },
     "SMS / RCS documentation": {
       "ja": "SMS / RCSドキュメント",
@@ -4874,7 +4902,8 @@
       "ja": "製品",
       "es": "Producto",
       "pt": "Produto",
-      "ko": "제품"
+      "ko": "제품",
+      "fr": "Produit"
     },
     "Failure message": {
       "ja": "失敗メッセージ",
@@ -5165,13 +5194,15 @@
       "ja": "公開 - ロック画面に常にコンテンツを表示する。",
       "es": "Público - Siempre mostrar el contenido en la pantalla de bloqueo.",
       "pt": "Público - Sempre mostrar o conteúdo na tela de bloqueio.",
-      "ko": "공개 - 잠금 화면에 항상 콘텐츠를 표시합니다."
+      "ko": "공개 - 잠금 화면에 항상 콘텐츠를 표시합니다.",
+      "fr": "Public - Toujours afficher le contenu sur l'écran de verrouillage."
     },
     "Realtime Message Data": {
       "ja": "リアルタイムメッセージデータ",
       "es": "Datos del mensaje en tiempo real",
       "pt": "Dados da mensagem em tempo real",
-      "ko": "실시간 메시지 데이터"
+      "ko": "실시간 메시지 데이터",
+      "fr": "Données de message en temps réel"
     },
     "Relevance Score": {
       "ja": "関連度スコア",
@@ -6707,19 +6738,22 @@
       "ja": "再開始ルール",
       "es": "Reglas de reingreso",
       "pt": "Regras de reentrada",
-      "ko": "재진입 규칙"
+      "ko": "재진입 규칙",
+      "fr": "Règles de ré-entrée"
     },
     "Re-entry Rules": {
       "ja": "再開始ルール",
       "es": "Reglas de reingreso",
       "pt": "Regras de reentrada",
-      "ko": "재진입 규칙"
+      "ko": "재진입 규칙",
+      "fr": "Règles de ré-entrée"
     },
     "Recommended Channels": {
       "ja": "推奨チャネル",
       "es": "Canales recomendados",
       "pt": "Canais recomendados",
-      "ko": "추천 채널"
+      "ko": "추천 채널",
+      "fr": "Canaux recommandés"
     },
     "Save & Close": {
       "ja": "保存して閉じる",
@@ -7146,7 +7180,8 @@
       "ja": "推奨",
       "es": "Recomendado",
       "pt": "Recomendado",
-      "ko": "추천"
+      "ko": "추천",
+      "fr": "Recommandé"
     },
     "Simpler Structure": {
       "ja": "よりシンプルな構造",
@@ -7183,7 +7218,8 @@
       "ja": "洗練",
       "es": "Refinar",
       "pt": "Refinar",
-      "ko": "다듬기"
+      "ko": "다듬기",
+      "fr": "Affiner"
     },
     "Action ID 1": {
       "ja": "アクションID 1",
@@ -7494,13 +7530,15 @@
       "ja": "非公開",
       "es": "Privado",
       "pt": "Privado",
-      "ko": "비공개"
+      "ko": "비공개",
+      "fr": "Privé"
     },
     "Public": {
       "ja": "公開",
       "es": "Público",
       "pt": "Público",
-      "ko": "공개"
+      "ko": "공개",
+      "fr": "Public"
     },
     "Remove Field 1": {
       "ja": "フィールド1を削除",
@@ -7795,7 +7833,8 @@
       "ja": "特定のジオ座標 (緯度、経度) からの半径 (メートル)",
       "es": "Radio en metros desde una geocoordenada particular (lat, long)",
       "pt": "Raio em metros a partir de uma geocoordenada específica (lat, long)",
-      "ko": "특정 좌표 (위도, 경도)로부터의 반경 (미터)"
+      "ko": "특정 좌표 (위도, 경도)로부터의 반경 (미터)",
+      "fr": "Rayon en mètres depuis une géo-coordonnée donnée (lat, long)"
     },
     "Segment Editor": {
       "ja": "セグメントエディター",
@@ -7982,7 +8021,8 @@
       "ja": "プッシュ購読者",
       "es": "Suscriptores de push",
       "pt": "Assinantes de push",
-      "ko": "푸시 구독자"
+      "ko": "푸시 구독자",
+      "fr": "Abonnés push"
     },
     "See Breakdown": {
       "ja": "内訳を見る",
@@ -8068,13 +8108,15 @@
       "ja": "RCS",
       "es": "RCS",
       "pt": "RCS",
-      "ko": "RCS"
+      "ko": "RCS",
+      "fr": "RCS"
     },
     "RCS billing documentation": {
       "ja": "RCS課金文書",
       "es": "Documentación de facturación de RCS",
       "pt": "Documentação de cobrança RCS",
-      "ko": "RCS 청구 문서"
+      "ko": "RCS 청구 문서",
+      "fr": "Documentation de facturation RCS"
     },
     "Rich": {
       "ja": "リッチ",
@@ -8254,7 +8296,8 @@
       "ja": "プッシュテンプレート",
       "es": "Plantilla de push",
       "pt": "Modelo de push",
-      "ko": "푸시 템플릿"
+      "ko": "푸시 템플릿",
+      "fr": "Modèle de push"
     },
     "SMS / RCS Template": {
       "ja": "SMS / RCSテンプレート",
@@ -9065,13 +9108,15 @@
       "ja": "プッシュ頻度制限",
       "es": "Límite de frecuencia de push",
       "pt": "Limite de frequência de push",
-      "ko": "푸시 빈도 제한"
+      "ko": "푸시 빈도 제한",
+      "fr": "Plafonnement de fréquence du push"
     },
     "Push Throttling": {
       "ja": "プッシュスロットリング",
       "es": "Limitación de push",
       "pt": "Limitação de push",
-      "ko": "푸시 쓰로틀링"
+      "ko": "푸시 쓰로틀링",
+      "fr": "Limitation du push"
     },
     "Reply-To": {
       "ja": "返信先",
@@ -9227,13 +9272,15 @@
       "ja": "プライベートAPIキー",
       "es": "Clave API privada",
       "pt": "Chave de API privada",
-      "ko": "비공개 API 키"
+      "ko": "비공개 API 키",
+      "fr": "Clé d'API privée"
     },
     "Reason": {
       "ja": "理由",
       "es": "Motivo",
       "pt": "Motivo",
-      "ko": "사유"
+      "ko": "사유",
+      "fr": "Motif"
     },
     "Remove All": {
       "ja": "すべて削除",
@@ -9438,7 +9485,8 @@
       "ja": "プッシュおよびインアプリ設定",
       "es": "Configuración de push e in-app",
       "pt": "Configurações de push e in-app",
-      "ko": "푸시 및 인앱 설정"
+      "ko": "푸시 및 인앱 설정",
+      "fr": "Paramètres Push et In-App"
     },
     "Channels Documentation": {
       "ja": "チャネル文書",
@@ -9645,7 +9693,8 @@
       "ja": "再購読",
       "es": "Volver a suscribir",
       "pt": "Reinscrever",
-      "ko": "재구독"
+      "ko": "재구독",
+      "fr": "Se réabonner"
     },
     "Reply STOP to unsubscribe. Msg&Data Rates May Apply.": {
       "ja": "購読解除はSTOPと返信してください。メッセージおよびデータ料金がかかる場合があります。",
@@ -9803,7 +9852,8 @@
       "ja": "プロバイダー:",
       "es": "El proveedor es",
       "pt": "O provedor é",
-      "ko": "공급자:"
+      "ko": "공급자:",
+      "fr": "Le fournisseur est"
     },
     "Show password": {
       "ja": "パスワードを表示",
