@@ -807,7 +807,10 @@
         "Ekleyin",
         "Eklendi"
       ],
-      "zh-CN": "添加"
+      "zh-CN": "添加",
+      "_skip_keys": [
+        "To manage what days and times this message sends at, add a"
+      ]
     },
     "Remove": {
       "ja": "削除",

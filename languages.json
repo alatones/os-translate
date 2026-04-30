@@ -13670,6 +13670,90 @@
       "fr": "Échec",
       "tr": "Başarısız",
       "zh-CN": "失败"
+    },
+    "(tag will be removed)": {
+      "ja": "（タグは削除されます）"
+    },
+    "Add Tag": {
+      "ja": "タグを追加"
+    },
+    "Add a note or comment...": {
+      "ja": "メモまたはコメントを追加..."
+    },
+    "Can a user re-enter a Journey after exiting or finishing?": {
+      "ja": "ユーザーは退出または完了後にジャーニーに再度入ることができますか？"
+    },
+    "Days": {
+      "ja": "日"
+    },
+    "Message Template": {
+      "ja": "メッセージテンプレート"
+    },
+    "No, they can receive this only once": {
+      "ja": "いいえ、これは一度だけ受信できます"
+    },
+    "Note": {
+      "ja": "メモ"
+    },
+    "Press enter or space to select a node. You can then use the arrow keys to move the node around. Press delete to remove it and escape to cancel.": {
+      "ja": "Enter キーまたはスペースキーを押してノードを選択します。その後、矢印キーでノードを移動できます。Delete キーで削除、Escape キーでキャンセルできます。"
+    },
+    "Press enter or space to select an edge. You can then press delete to remove it or escape to cancel.": {
+      "ja": "Enter キーまたはスペースキーを押してエッジを選択します。その後、Delete キーで削除、Escape キーでキャンセルできます。"
+    },
+    "Push Notification": {
+      "ja": "プッシュ通知"
+    },
+    "Send push notification": {
+      "ja": "プッシュ通知を送信"
+    },
+    "Set a Push Goal": {
+      "ja": "プッシュ目標を設定"
+    },
+    "Specify Tags": {
+      "ja": "タグを指定"
+    },
+    "TIP:": {
+      "ja": "ヒント："
+    },
+    "Tag User": {
+      "ja": "ユーザーをタグ付け"
+    },
+    "Time Window": {
+      "ja": "時間枠"
+    },
+    "To pick up a draggable item, press the space bar.\n    While dragging, use the arrow keys to move the item.\n    Press space again to drop the item in its new position, or press escape to cancel.": {
+      "ja": "ドラッグ可能なアイテムを取得するには、スペースキーを押します。\n    ドラッグ中は、矢印キーでアイテムを移動できます。\n    スペースキーをもう一度押して新しい位置にドロップするか、Escape キーでキャンセルします。"
+    },
+    "Users only receive messages from this Journey once.": {
+      "ja": "ユーザーはこのジャーニーから一度だけメッセージを受信します。"
+    },
+    "Users re-enter the Journey after a period of time if they match the entry rules.": {
+      "ja": "ユーザーが入場ルールに一致する場合、一定期間後にジャーニーに再度入ります。"
+    },
+    "Wait": {
+      "ja": "待機"
+    },
+    "Yes, after a certain amount of time": {
+      "ja": "はい、一定時間後"
+    },
+    "This message will": {
+      "ja": "このメッセージは"
+    },
+    "send immediately": {
+      "ja": "すぐに送信"
+    },
+    "once the user reaches this step.": {
+      "ja": "ユーザーがこのステップに到達した時点で送信"
+    },
+    "To manage what days and times this message sends at, add a": {
+      "ja": "このメッセージの送信日時を管理するには、"
+    },
+    "action and/or a": {
+      "ja": "アクション、または"
+    },
+    "action to your Journey before this message step.": {
+      "ja": "アクションをこのメッセージステップの前にジャーニーに追加してください。"
     }
   },
   "patterns": [
