@@ -488,7 +488,19 @@ STYLE_GUIDE.md   Global translation rules (UI roles, quotes, brand handling)
 glossary.json    Locked English-to-target term mappings (with grammatical alts)
 style/<lang>.md  Per-language addenda (register, punctuation, length budgets)
 validate.py      Mechanical conformance check; must report 0 blocking violations
+CHANGELOG.md     Per-version release notes for beta testers
 ```
+
+## Versioning
+
+The `version` field in `manifest.json` plus `CHANGELOG.md` tell beta
+testers what they're running and what changed since the last build they
+loaded. We follow semver — see [CLAUDE.md](./CLAUDE.md#versioning) for
+the bump rules and changelog conventions.
+
+Chrome doesn't auto-update unpacked extensions. After pulling new code,
+reload the extension at `chrome://extensions` to pick up changes; the
+version number on the extension card tells you which build is loaded.
 
 ## Known Limitations
 

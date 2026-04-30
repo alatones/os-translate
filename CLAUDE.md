@@ -42,6 +42,30 @@ different sense (e.g. "Segment" the company vs the OneSignal feature). When
 adding a new entry that triggers a glossary violation in good faith, prefer
 adding an alt or `_skip_keys` over loosening the check.
 
+## Versioning
+
+When you ship a change to beta testers, bump `manifest.json`'s `version`
+field and add an entry to `CHANGELOG.md`. We follow semver
+(MAJOR.MINOR.PATCH):
+
+- **PATCH** (1.0.x): translation tweaks, glossary refinements, single
+  dictionary entries, icon refresh from the same source, copy fixes,
+  validator/tooling improvements that don't change user-visible behavior.
+- **MINOR** (1.x.0): a new supported language, a new visible feature
+  (popup changes, feedback flow changes, icon system changes), a
+  substantial dictionary expansion (50+ new entries in one drop).
+- **MAJOR** (x.0.0): breaking schema changes, removing a supported
+  language, a rebrand. Rare.
+
+Keep changelog entries short and user-facing — what a beta tester would
+notice — not a commit log. "Added Simplified Chinese" or "Localized popup
+UI", not "fix validate.py to accept zh-CN locale code."
+
+Chrome doesn't auto-update unpacked extensions. Beta testers must reload
+the extension at `chrome://extensions` after pulling new code, but the
+version number tells them whether they need to and the changelog tells
+them what changed.
+
 ## Keep README.md in sync
 
 After any **major** change, update `README.md` so it reflects the current
