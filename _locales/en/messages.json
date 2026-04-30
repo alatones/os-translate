@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "OneSignal Dashboard Translator",
+    "description": "Extension name shown in the Chrome Web Store and chrome://extensions. Kept in English across all locales for brand consistency."
+  },
+  "extDescription": {
+    "message": "Translate the OneSignal dashboard into Japanese, Spanish, Portuguese, Korean, French, Turkish, or Simplified Chinese.",
+    "description": "Short description (≤132 chars) shown in the Web Store listing summary."
+  }
+}
