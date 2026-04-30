@@ -3,11 +3,20 @@ const DASHBOARD_HOST = "dashboard.onesignal.com";
 
 // Pre-filled Google Form URL. Keep these in sync with the same constants
 // in background.js. See the README for setup instructions.
-const FEEDBACK_FORM_URL = "https://docs.google.com/forms/d/e/REPLACE_WITH_FORM_ID/viewform";
+const FEEDBACK_FORM_URL =
+  "https://docs.google.com/forms/d/e/1FAIpQLSdjpa5SWFW4M3nNOzNrJEZBUU_kCceYul-k5Xo3fo6qlv7yUw/viewform";
 const FORM_ENTRY = {
-  language: "entry.000000001",
-  page: "entry.000000002",
-  selected: "entry.000000003",
+  language: "entry.883413776",
+  selected: "entry.1755271323",
+};
+const FORM_LANG_LABEL = {
+  es: "Spanish",
+  pt: "Portuguese (BR)",
+  "zh-CN": "Simplified Chinese",
+  ja: "Japanese",
+  tr: "Turkish",
+  ko: "Korean",
+  fr: "French",
 };
 
 const select = document.getElementById("lang");
@@ -99,16 +108,13 @@ queueLink.addEventListener("click", (e) => {
 });
 
 feedbackBtn.addEventListener("click", async () => {
-  if (!FEEDBACK_FORM_URL || FEEDBACK_FORM_URL.includes("REPLACE_WITH_FORM_ID")) {
+  if (!FEEDBACK_FORM_URL) {
     setStatus("Feedback form not configured — see README.");
     return;
   }
   const { language = DEFAULT_LANG } = await chrome.storage.sync.get({ language: DEFAULT_LANG });
-  const [tab] = await chrome.tabs.query({ active: true, currentWindow: true });
-  const pageUrl = tab && tab.url && tab.url.includes(DASHBOARD_HOST) ? tab.url : "";
-
   const params = new URLSearchParams({ usp: "pp_url" });
-  params.set(FORM_ENTRY.language, language);
-  if (pageUrl) params.set(FORM_ENTRY.page, pageUrl);
+  const langLabel = FORM_LANG_LABEL[language];
+  if (langLabel) params.set(FORM_ENTRY.language, langLabel);
   chrome.tabs.create({ url: `${FEEDBACK_FORM_URL}?${params.toString()}` });
 });

@@ -4,20 +4,33 @@
 // generic "Report a translation issue" button via chrome.tabs.create.
 // Plus: daily crowdsourced-ledger batch upload (see LEDGER_ENDPOINT below).
 
-// Pre-filled Google Form URL (no query string). Create the form, click
-// "Get pre-filled link" in the form editor to discover entry IDs, then
-// paste the base URL here and the entry IDs into FORM_ENTRY below.
+// Pre-filled Google Form URL (no query string). The form lives at
+// /viewform; pre-fill values are appended as ?usp=pp_url&entry.NNN=...
 // Empty string disables the feedback flow entirely. Keep in sync with
 // the same constants in popup.js.
-const FEEDBACK_FORM_URL = "https://docs.google.com/forms/d/e/REPLACE_WITH_FORM_ID/viewform";
+const FEEDBACK_FORM_URL =
+  "https://docs.google.com/forms/d/e/1FAIpQLSdjpa5SWFW4M3nNOzNrJEZBUU_kCceYul-k5Xo3fo6qlv7yUw/viewform";
 
-// Google Form field IDs. Each `entry.NNNNNNNNN` corresponds to one
-// question on the form. Get these from the "Get pre-filled link" output
-// — they appear as `?entry.123456789=test` in the URL.
+// Google Form field IDs, captured from the form's "Get pre-filled link"
+// output. Only the two fields we pre-fill are listed here; other
+// questions on the form (suggested replacement, notes, etc.) are left
+// blank for the user to fill in.
 const FORM_ENTRY = {
-  language: "entry.000000001",
-  page: "entry.000000002",
-  selected: "entry.000000003",
+  language: "entry.883413776", // multiple-choice; value must match an option label
+  selected: "entry.1755271323", // paragraph; "Current Translation"
+};
+
+// Language-code → form option label. The "Which language?" question is
+// multiple choice, so pre-filling requires the human-readable label,
+// not the ISO code we store internally.
+const FORM_LANG_LABEL = {
+  es: "Spanish",
+  pt: "Portuguese (BR)",
+  "zh-CN": "Simplified Chinese",
+  ja: "Japanese",
+  tr: "Turkish",
+  ko: "Korean",
+  fr: "French",
 };
 
 // Google Apps Script Web App URL that receives the daily ledger batch.
@@ -44,15 +57,13 @@ const MENU_TITLES = {
   "zh-CN": '为 "%s" 推荐更好的翻译',
 };
 
-function buildFormUrl({ language, pageUrl, selected }) {
-  if (!FEEDBACK_FORM_URL || FEEDBACK_FORM_URL.includes("REPLACE_WITH_FORM_ID")) {
-    return null;
-  }
+function buildFormUrl({ language, selected }) {
+  if (!FEEDBACK_FORM_URL) return null;
   // `usp=pp_url` is the Google-Forms convention for "pre-filled URL"
   // links. It's optional but matches what the form editor generates.
   const params = new URLSearchParams({ usp: "pp_url" });
-  if (language) params.set(FORM_ENTRY.language, language);
-  if (pageUrl) params.set(FORM_ENTRY.page, pageUrl);
+  const langLabel = FORM_LANG_LABEL[language];
+  if (langLabel) params.set(FORM_ENTRY.language, langLabel);
   if (selected) params.set(FORM_ENTRY.selected, selected);
   return `${FEEDBACK_FORM_URL}?${params.toString()}`;
 }
@@ -152,16 +163,12 @@ chrome.runtime.onMessage.addListener((msg, _sender, sendResponse) => {
   }
 });
 
-chrome.contextMenus.onClicked.addListener(async (info, tab) => {
+chrome.contextMenus.onClicked.addListener(async (info) => {
   if (info.menuItemId !== MENU_ID) return;
   const selected = (info.selectionText || "").trim().slice(0, 200);
   if (!selected) return;
   const { language = DEFAULT_LANG } = await chrome.storage.sync.get({ language: DEFAULT_LANG });
-  const url = buildFormUrl({
-    language,
-    pageUrl: info.pageUrl || (tab && tab.url) || "",
-    selected,
-  });
+  const url = buildFormUrl({ language, selected });
   if (!url) {
     console.warn(
       "[OneSignal Translator] FEEDBACK_FORM_URL not configured — see README.",

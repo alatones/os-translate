@@ -89,64 +89,51 @@ Two paths:
 1. **Right-click a specific string.** Select any text on the dashboard,
    right-click, and choose the localized **Suggest a better translation
    for "…"** entry (the menu CTA matches whatever language the user has
-   selected). A pre-filled form opens with the selected text, current
-   language, and dashboard URL already populated — the user just writes
-   the suggested replacement and submits.
+   selected). The form opens pre-filled with the user's current
+   language and the selected text — they just write the suggested
+   replacement and submit.
 2. **General feedback.** Click the extension icon and hit **Report a
-   translation issue** at the bottom of the popup. Same pre-filled form,
-   but without a specific selection.
+   translation issue** at the bottom of the popup. Same form, with
+   only the language pre-filled (no specific selection).
 
-### Setting up the Google Form
+### Pointing it at your own form (forks only)
 
-The maintainer creates the form once. Here's the flow:
+The repo ships pointing at a hosted form already. If you fork the
+extension and want feedback to land in *your* Sheet instead, swap the
+URL and entry IDs:
 
-1. **Create the form.** Open [Google Forms](https://forms.google.com),
-   start a blank form, and add three short-answer questions in this
-   order. Names don't have to match exactly, but the *order* matters
-   for matching them up to entry IDs:
-   - Language (e.g. `ja`, `fr`, `zh-CN`)
-   - Page URL (where the user was on the dashboard)
-   - Selected text (the current translation they want to improve)
+1. **Create the form.** Open [Google Forms](https://forms.google.com)
+   and add at least these two questions (you can add more for users
+   to fill in manually — suggested replacement, notes, etc.):
+   - **Multiple choice — "Which language?"** with one option per
+     supported language. The option labels must match `FORM_LANG_LABEL`
+     in `background.js` / `popup.js` exactly (`Spanish`,
+     `Portuguese (BR)`, `Simplified Chinese`, `Japanese`, `Turkish`,
+     `Korean`, `French`).
+   - **Paragraph — "Current Translation"** for the right-click flow's
+     selected text.
 
-   Add any other questions you want users to fill in (e.g. "Suggested
-   replacement", "Notes / context"). These don't need to be pre-filled
-   — leave them as empty short-answer or paragraph fields.
+2. **Get a pre-filled link.** ⋮ menu in the form editor → **Get
+   pre-filled link** → fill in any placeholder values → **Get link**
+   → copy the URL.
 
-2. **Get a pre-filled link.** Click the ⋮ menu in the form editor →
-   **Get pre-filled link** → fill in placeholder values for each
-   question (use anything; `lang-test`, `page-test`, `selected-test`)
-   → click **Get link** → copy the URL.
+3. **Extract URL + entry IDs.** The pre-filled URL looks like
+   `…/viewform?usp=pp_url&entry.111=Spanish&entry.222=xxx`. The base
+   URL up to `viewform` is your `FEEDBACK_FORM_URL`. The two
+   `entry.NNNNN` numbers map to language and selected-text in the
+   order you added them.
 
-3. **Extract the entry IDs.** The pre-filled URL looks like:
+4. **Plug them in.** Replace `FEEDBACK_FORM_URL` and the two
+   `FORM_ENTRY` values in **both** `background.js` and `popup.js`
+   (top of each file). If you add or rename language options, update
+   `FORM_LANG_LABEL` in both files too.
 
-   ```
-   https://docs.google.com/forms/d/e/1FAIpQLSe.../viewform?usp=pp_url&entry.123456789=lang-test&entry.987654321=page-test&entry.111222333=selected-test
-   ```
+5. **Reload the extension** from `chrome://extensions` and test.
 
-   The base URL up to `viewform` is your `FEEDBACK_FORM_URL`. The
-   `entry.NNNNN` numbers map to the questions in the order you added
-   them — match them to language / page / selected.
-
-4. **Plug them in.** Edit both `background.js` and `popup.js` (top of
-   each file). Replace `FEEDBACK_FORM_URL` and the three `FORM_ENTRY`
-   values with your real URL and entry IDs:
-
-   ```js
-   const FEEDBACK_FORM_URL = "https://docs.google.com/forms/d/e/1FAIpQLSe.../viewform";
-   const FORM_ENTRY = {
-     language: "entry.123456789",
-     page: "entry.987654321",
-     selected: "entry.111222333",
-   };
-   ```
-
-5. **Reload the extension** from `chrome://extensions` and test by
-   right-clicking some translated text on the dashboard.
-
-If `FEEDBACK_FORM_URL` is left as the placeholder, the right-click menu
-item still appears (and is still localized) but clicking it logs a
-warning to the console instead of opening anything; the popup button
-shows "Feedback form not configured" inline.
+If `FEEDBACK_FORM_URL` is empty, the right-click menu item still
+appears (and is still localized) but clicking it logs a warning to
+the console; the popup button shows "Feedback form not configured"
+inline.
 
 ### Localized right-click CTA
 
