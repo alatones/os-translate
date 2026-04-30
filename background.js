@@ -39,7 +39,7 @@ const FORM_LANG_LABEL = {
 const LEDGER_ENDPOINT = "https://script.google.com/macros/s/AKfycbw8iSkey37fK-WAszOZ99_52dJuAbdE11JbuE-xOLVod2vgHQxEgVphDWv7JyQhfmAnsA/exec";
 
 const MENU_ID = "suggest-translation";
-const DEFAULT_LANG = "ja";
+const DEFAULT_LANG = "en";
 const LEDGER_ALARM = "ledger-flush";
 const LEDGER_PERIOD_MINUTES = 60 * 24;
 const LEDGER_KEY_SEP = "\x01";

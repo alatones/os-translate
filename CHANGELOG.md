@@ -9,6 +9,15 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 _Nothing yet._
 
+## [1.0.1] — 2026-04-30
+
+### Fixed
+
+- Fresh installs now default to **English (off)** instead of Japanese.
+  Previously a brand-new install would auto-translate the dashboard to
+  Japanese before the user had picked a language — surprising for
+  English-speaking testers. The popup now shows "English (off)" until
+  you explicitly pick a language.
 ## [1.1.0] — 2026-04-30
 
 ### Added

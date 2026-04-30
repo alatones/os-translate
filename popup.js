@@ -1,4 +1,4 @@
-const DEFAULT_LANG = "ja";
+const DEFAULT_LANG = "en";
 const DASHBOARD_HOST = "dashboard.onesignal.com";
 
 // Pre-filled Google Form URL. Keep these in sync with the same constants

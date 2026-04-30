@@ -6,7 +6,7 @@
 // surfaces that screen-reader-announced error messages ride on.
 
 (() => {
-  const DEFAULT_LANG = "ja";
+  const DEFAULT_LANG = "en";
   const SKIP_PARENT_TAGS = new Set(["SCRIPT", "STYLE", "NOSCRIPT"]);
   const TRANSLATABLE_ATTRS = [
     "placeholder",

@@ -28,8 +28,9 @@ touched and no browsing data is collected.
 3. Enable **Developer mode** (toggle in the top-right).
 4. Click **Load unpacked** and point at the unzipped folder (Option A)
    or the cloned repo root (Option B).
-5. Visit <https://dashboard.onesignal.com>. Japanese is the default.
-6. Click the extension icon to switch languages.
+5. Visit <https://dashboard.onesignal.com>. The dashboard stays in
+   English until you pick a language.
+6. Click the extension icon and choose your language from the dropdown.
 
 > **Updating later:** if you used Option A, download a fresh ZIP and
 > repeat — Chrome will pick up the new files after you click the
