@@ -2,18 +2,30 @@
   "manifest_version": 3,
   "name": "OneSignal Dashboard Translator",
   "version": "1.0.0",
-  "description": "Translate the OneSignal dashboard UI into Japanese, Spanish, or Portuguese.",
+  "description": "Translate the OneSignal dashboard UI into Japanese, Spanish, Portuguese, Korean, French, Turkish, or Simplified Chinese.",
   "permissions": ["storage", "activeTab", "contextMenus", "alarms"],
   "host_permissions": [
     "https://dashboard.onesignal.com/*",
     "https://script.google.com/*"
   ],
+  "icons": {
+    "16": "icons/icon-16.png",
+    "32": "icons/icon-32.png",
+    "48": "icons/icon-48.png",
+    "128": "icons/icon-128.png"
+  },
   "background": {
     "service_worker": "background.js"
   },
   "action": {
     "default_popup": "popup.html",
-    "default_title": "OneSignal Translator"
+    "default_title": "OneSignal Translator",
+    "default_icon": {
+      "16": "icons/icon-16.png",
+      "32": "icons/icon-32.png",
+      "48": "icons/icon-48.png",
+      "128": "icons/icon-128.png"
+    }
   },
   "content_scripts": [
     {
