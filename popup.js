@@ -19,6 +19,20 @@ const FORM_LANG_LABEL = {
   fr: "French",
 };
 
+// Flag emojis for the language picker. Skipped for `en` (off mode).
+// Note: these render as gray letter-pairs ("JP") on Windows 10, which
+// has no native color-emoji font. macOS / Win11 / ChromeOS / Linux
+// (with Noto fonts) render them in color.
+const LANG_FLAGS = {
+  es: "🇪🇸",
+  pt: "🇧🇷",
+  "zh-CN": "🇨🇳",
+  ja: "🇯🇵",
+  tr: "🇹🇷",
+  ko: "🇰🇷",
+  fr: "🇫🇷",
+};
+
 const select = document.getElementById("lang");
 const status = document.getElementById("status");
 const feedbackBtn = document.getElementById("feedback");
@@ -41,7 +55,8 @@ async function populateLanguageOptions() {
     for (const [code, label] of Object.entries(langs)) {
       const opt = document.createElement("option");
       opt.value = code;
-      opt.textContent = label;
+      const flag = LANG_FLAGS[code];
+      opt.textContent = flag ? `${flag} ${label}` : label;
       select.appendChild(opt);
     }
   } catch (err) {
