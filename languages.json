@@ -6534,6 +6534,15 @@
       "tr": "OneSignal'i yapay zeka araçlarıyla yönetin",
       "zh-CN": "通过 AI 工具管理 OneSignal"
     },
+    "Connect Claude, ChatGPT, Cursor, or any LLM client of your choosing to OneSignal using MCP (Model Context Protocol). Send messages, manage users, create segments, and more directly from your AI assistant.": {
+      "ja": "Claude、ChatGPT、Cursor、またはお好みのLLMクライアントをMCP（Model Context Protocol）を使ってOneSignalに接続できます。AIアシスタントから直接、メッセージの送信、ユーザーの管理、セグメントの作成などを実行できます。",
+      "es": "Conecta Claude, ChatGPT, Cursor o cualquier cliente LLM de tu elección a OneSignal usando MCP (Model Context Protocol). Envía mensajes, administra usuarios, crea segmentos y más directamente desde tu asistente de IA.",
+      "pt": "Conecte Claude, ChatGPT, Cursor ou qualquer cliente LLM de sua escolha ao OneSignal usando o MCP (Model Context Protocol). Envie mensagens, gerencie usuários, crie segmentos e muito mais diretamente do seu assistente de IA.",
+      "ko": "Claude, ChatGPT, Cursor 또는 원하는 LLM 클라이언트를 MCP(Model Context Protocol)를 사용하여 OneSignal에 연결하세요. AI 어시스턴트에서 직접 메시지 전송, 사용자 관리, 세그먼트 생성 등을 수행할 수 있습니다.",
+      "fr": "Connectez Claude, ChatGPT, Cursor ou tout autre client LLM de votre choix à OneSignal avec MCP (Model Context Protocol). Envoyez des messages, gérez les utilisateurs, créez des segments et plus encore directement depuis votre assistant IA.",
+      "tr": "Claude, ChatGPT, Cursor veya seçtiğiniz herhangi bir LLM istemcisini MCP (Model Context Protocol) kullanarak OneSignal'e bağlayın. Yapay zeka asistanınızdan doğrudan mesaj gönderin, kullanıcıları yönetin, segmentler oluşturun ve daha fazlasını yapın.",
+      "zh-CN": "通过 MCP（Model Context Protocol）将 Claude、ChatGPT、Cursor 或您选择的任何 LLM 客户端连接到 OneSignal。直接从您的 AI 助手发送消息、管理用户、创建 Segment 等。"
+    },
     "OneSignal Logo": {
       "ja": "OneSignalロゴ",
       "es": "Logotipo de OneSignal",
