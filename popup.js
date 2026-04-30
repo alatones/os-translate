@@ -1,9 +1,23 @@
 const DEFAULT_LANG = "ja";
 const DASHBOARD_HOST = "dashboard.onesignal.com";
 
-// TODO: set this to the address that should receive translation feedback.
-// Keep it in sync with FEEDBACK_EMAIL in background.js.
-const FEEDBACK_EMAIL = "bd@onesignal.com";
+// Pre-filled Google Form URL. Keep these in sync with the same constants
+// in background.js. See the README for setup instructions.
+const FEEDBACK_FORM_URL =
+  "https://docs.google.com/forms/d/e/1FAIpQLSdjpa5SWFW4M3nNOzNrJEZBUU_kCceYul-k5Xo3fo6qlv7yUw/viewform";
+const FORM_ENTRY = {
+  language: "entry.883413776",
+  selected: "entry.1755271323",
+};
+const FORM_LANG_LABEL = {
+  es: "Spanish",
+  pt: "Portuguese (BR)",
+  "zh-CN": "Simplified Chinese",
+  ja: "Japanese",
+  tr: "Turkish",
+  ko: "Korean",
+  fr: "French",
+};
 
 const select = document.getElementById("lang");
 const status = document.getElementById("status");
@@ -94,30 +108,13 @@ queueLink.addEventListener("click", (e) => {
 });
 
 feedbackBtn.addEventListener("click", async () => {
+  if (!FEEDBACK_FORM_URL) {
+    setStatus("Feedback form not configured — see README.");
+    return;
+  }
   const { language = DEFAULT_LANG } = await chrome.storage.sync.get({ language: DEFAULT_LANG });
-  const [tab] = await chrome.tabs.query({ active: true, currentWindow: true });
-  const pageUrl = tab && tab.url && tab.url.includes(DASHBOARD_HOST) ? tab.url : "";
-
-  const subject = `[${language}] Translation feedback`;
-  const body = [
-    `Language: ${language}`,
-    `Page: ${pageUrl || "(not on dashboard)"}`,
-    "",
-    "What's wrong?",
-    "  (e.g. missing translation, wrong nuance, awkward wording, overflow in UI)",
-    "",
-    "Where on the dashboard?",
-    "  (which screen / button / field)",
-    "",
-    "Suggested fix:",
-    "  (your suggestion here)",
-  ].join("\n");
-
-  const params = new URLSearchParams();
-  params.set("subject", subject);
-  params.set("body", body);
-  // URLSearchParams encodes spaces as '+'. Mail clients need %20 in bodies
-  // so line breaks and spacing survive.
-  const qs = params.toString().replace(/\+/g, "%20");
-  chrome.tabs.create({ url: `mailto:${FEEDBACK_EMAIL}?${qs}` });
+  const params = new URLSearchParams({ usp: "pp_url" });
+  const langLabel = FORM_LANG_LABEL[language];
+  if (langLabel) params.set(FORM_ENTRY.language, langLabel);
+  chrome.tabs.create({ url: `${FEEDBACK_FORM_URL}?${params.toString()}` });
 });

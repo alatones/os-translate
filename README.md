@@ -81,42 +81,71 @@ preserve in-flight edits.
 ## Reporting Translation Issues
 
 The audience for this extension is marketers, PMs, and CRM ops — not
-developers. Feedback opens a **pre-filled email** in the user's default
-mail client. No account, no signup, no GitHub required.
+developers. Feedback opens a **pre-filled Google Form** in a new tab.
+No account besides Google, no signup, no GitHub required, and every
+response lands in a Sheet you control.
 
 Two paths:
 
 1. **Right-click a specific string.** Select any text on the dashboard,
-   right-click, and choose **Suggest a better translation for "…"**. A
-   new email opens with To / Subject / Body pre-filled: the selected
-   text, current language, and dashboard URL are already there — the
-   user just writes the suggested replacement and hits Send.
+   right-click, and choose the localized **Suggest a better translation
+   for "…"** entry (the menu CTA matches whatever language the user has
+   selected). The form opens pre-filled with the user's current
+   language and the selected text — they just write the suggested
+   replacement and submit.
 2. **General feedback.** Click the extension icon and hit **Report a
-   translation issue** at the bottom of the popup. Same pre-filled email,
-   but without a specific selection.
+   translation issue** at the bottom of the popup. Same form, with
+   only the language pre-filled (no specific selection).
 
-Nothing is transmitted by the extension itself. The mail client controls
-the send — the user can edit, cancel, or discard the message like any
-other draft.
+### Pointing it at your own form (forks only)
 
-### Setting the feedback address
+The repo ships pointing at a hosted form already. If you fork the
+extension and want feedback to land in *your* Sheet instead, swap the
+URL and entry IDs:
 
-Edit `FEEDBACK_EMAIL` in **two places** (keep them in sync):
+1. **Create the form.** Open [Google Forms](https://forms.google.com)
+   and add at least these two questions (you can add more for users
+   to fill in manually — suggested replacement, notes, etc.):
+   - **Multiple choice — "Which language?"** with one option per
+     supported language. The option labels must match `FORM_LANG_LABEL`
+     in `background.js` / `popup.js` exactly (`Spanish`,
+     `Portuguese (BR)`, `Simplified Chinese`, `Japanese`, `Turkish`,
+     `Korean`, `French`).
+   - **Paragraph — "Current Translation"** for the right-click flow's
+     selected text.
 
-- `background.js` (near the top, ~line 6)
-- `popup.js` (near the top, ~line 5)
+2. **Get a pre-filled link.** ⋮ menu in the form editor → **Get
+   pre-filled link** → fill in any placeholder values → **Get link**
+   → copy the URL.
 
-Reload the extension from `chrome://extensions` after changing it.
+3. **Extract URL + entry IDs.** The pre-filled URL looks like
+   `…/viewform?usp=pp_url&entry.111=Spanish&entry.222=xxx`. The base
+   URL up to `viewform` is your `FEEDBACK_FORM_URL`. The two
+   `entry.NNNNN` numbers map to language and selected-text in the
+   order you added them.
 
-### Prefer a Google Form instead of email?
+4. **Plug them in.** Replace `FEEDBACK_FORM_URL` and the two
+   `FORM_ENTRY` values in **both** `background.js` and `popup.js`
+   (top of each file). If you add or rename language options, update
+   `FORM_LANG_LABEL` in both files too.
 
-If you'd rather collect feedback in a spreadsheet, create a Google Form
-with pre-filled fields for language, page URL, and suggestion, then grab
-its pre-filled URL
-(`https://docs.google.com/forms/d/e/.../viewform?entry.123=...`). Replace
-the `mailto:` URL construction in `background.js` and `popup.js` with
-your form URL — the code path (`chrome.tabs.create({ url })`) is
-identical, only the URL shape differs.
+5. **Reload the extension** from `chrome://extensions` and test.
+
+If `FEEDBACK_FORM_URL` is empty, the right-click menu item still
+appears (and is still localized) but clicking it logs a warning to
+the console; the popup button shows "Feedback form not configured"
+inline.
+
+### Localized right-click CTA
+
+The context-menu title is one of seven hand-translated strings (one per
+supported language) chosen at runtime based on the popup's current
+language setting. Switching languages in the popup re-creates the menu
+so the CTA always matches the active language.
+
+Adding a new language? Drop an entry into `MENU_TITLES` in
+`background.js` alongside the other dictionary additions. If you skip
+it, the menu falls back to the English string — non-blocking.
 
 ## Dictionary Shape & Maintenance
 
@@ -447,7 +476,7 @@ English source. Often intentional for brand names (`API`, `Android`,
 manifest.json    Manifest V3 config, scoped to dashboard.onesignal.com
 languages.json   Exact-match dictionary + regex patterns, per language
 content.js       Text-node walker, attribute allowlist, MutationObserver, missed-string tracker
-background.js    Service worker: feedback mailto, daily ledger batch POST
+background.js    Service worker: localized right-click menu, pre-filled Google Form, daily ledger batch POST
 popup.html       Extension popup: language picker, ledger opt-in, queue link
 popup.js         Saves language, manages opt-in, first-run disclosure
 queue.html       Full-page viewer for the local missed-string queue
