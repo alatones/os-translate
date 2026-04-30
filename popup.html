@@ -117,15 +117,15 @@
     <h3>OneSignal Translator</h3>
 
     <div id="disclosure">
-      <p>
+      <p data-i18n="disclosure_body">
         This extension shares a list of dashboard strings that weren't
         translated so coverage can improve. No URLs, user IDs, or personal
         data are sent.
       </p>
-      <button id="disclosure-dismiss" type="button">Got it</button>
+      <button id="disclosure-dismiss" type="button" data-i18n="disclosure_dismiss">Got it</button>
     </div>
 
-    <label for="lang">Language</label>
+    <label for="lang" data-i18n="language_label">Language</label>
     <select id="lang">
       <option value="en">English (off)</option>
     </select>
@@ -135,14 +135,14 @@
 
     <div class="optin-row">
       <input id="ledger-optin" type="checkbox" />
-      <label for="ledger-optin">Help improve translations (share anonymized untranslated strings)</label>
+      <label for="ledger-optin" data-i18n="optin_label">Help improve translations (share anonymized untranslated strings)</label>
     </div>
-    <a id="queue-link" href="#">View what's queued →</a>
+    <a id="queue-link" href="#" data-i18n="queue_link">View what's queued →</a>
 
     <hr class="divider" />
 
-    <button id="feedback" type="button">Report a translation issue</button>
-    <p class="hint">
+    <button id="feedback" type="button" data-i18n="feedback_btn">Report a translation issue</button>
+    <p class="hint" data-i18n="hint">
       Tip: right-click any translated text on the dashboard to suggest a
       fix for that specific string.
     </p>
