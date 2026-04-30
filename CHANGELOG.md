@@ -9,6 +9,30 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 _Nothing yet._
 
+## [1.1.0] — 2026-04-30
+
+### Added
+
+- Multi-language Chrome Web Store listing. Added `_locales/` files for
+  English, Japanese, Spanish, Brazilian Portuguese, Korean, French,
+  Turkish, and Simplified Chinese. The Web Store now displays the
+  extension's name and short description in the user's browser locale,
+  improving discoverability for non-English markets.
+- `default_locale: "en"` declared in the manifest as the fallback for
+  unsupported browser locales.
+
+### Notes
+
+- Chrome's locale codes use underscores in directory names
+  (`zh_CN`, `pt_BR`), distinct from the hyphenated codes the extension
+  uses internally for the dashboard translation feature (`zh-CN`).
+  This is purely a Web Store listing change — the dashboard
+  translation engine is untouched.
+- The `name` and `description` manifest fields now reference
+  `__MSG_extName__` and `__MSG_extDescription__`. Loading the
+  unpacked extension still works the same way; the per-locale
+  rendering activates when distributed via the Web Store.
+
 ## [1.0.0] — 2026-04-30 — Beta release
 
 First version handed off for beta testing with colleagues and partners.
