@@ -7,7 +7,14 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
-_Nothing yet._
+### Added
+
+- `store-listing/` directory with the long-form Chrome Web Store
+  marketing description in English (and per-language translations as
+  they land). These are paste-ready plain text for the Web Store
+  Developer Dashboard's per-locale "Detailed description" field —
+  separate from the short `_locales/<code>/messages.json`
+  `extDescription` (≤132 chars) which Chrome localizes automatically.
 
 ## [1.0.1] — 2026-04-30
 
