@@ -15,7 +15,7 @@ Each language ships at full coverage — over 1,500 dashboard strings plus 73 dy
 ✦ HOW IT WORKS
 1. Install the extension and pin it to your Chrome toolbar.
 2. Open dashboard.onesignal.com.
-3. Click the OneSignal Translator icon and pick your language.
+3. Click the OS Translate icon and pick your language.
 4. The dashboard reloads and every visible string appears in your chosen language.
 5. Your choice persists across browser restarts and syncs across Chrome profiles.
 

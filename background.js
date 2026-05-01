@@ -138,7 +138,7 @@ async function flushLedger() {
     });
     ok = res.ok;
   } catch (err) {
-    console.warn("[OneSignal Translator] ledger flush failed:", err);
+    console.warn("[OS Translate] ledger flush failed:", err);
   }
   if (ok) {
     // Only clear entries we just sent. New misses that arrived during the
@@ -171,7 +171,7 @@ chrome.contextMenus.onClicked.addListener(async (info) => {
   const url = buildFormUrl({ language, selected });
   if (!url) {
     console.warn(
-      "[OneSignal Translator] FEEDBACK_FORM_URL not configured — see README.",
+      "[OS Translate] FEEDBACK_FORM_URL not configured — see README.",
     );
     return;
   }

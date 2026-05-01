@@ -15,7 +15,7 @@
 ✦ 使用方法
 1. 安装本扩展并将其固定到 Chrome 工具栏。
 2. 打开 dashboard.onesignal.com。
-3. 点击 OneSignal Translator 图标并选择您的语言。
+3. 点击 OS Translate 图标并选择您的语言。
 4. 仪表板重新加载，所有可见文本将以您选择的语言显示。
 5. 您的选择在浏览器重启后仍会保留，并在 Chrome 配置文件之间同步。
 

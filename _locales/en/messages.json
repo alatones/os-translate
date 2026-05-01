@@ -1,6 +1,6 @@
 {
   "extName": {
-    "message": "OneSignal Dashboard Translator",
+    "message": "OS Translate",
     "description": "Extension name shown in the Chrome Web Store and chrome://extensions. Kept in English across all locales for brand consistency."
   },
   "extDescription": {

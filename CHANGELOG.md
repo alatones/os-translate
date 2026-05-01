@@ -1,6 +1,6 @@
 # Changelog
 
-All notable changes to the OneSignal Dashboard Translator. The format is
+All notable changes to OS Translate. The format is
 loosely based on [Keep a Changelog](https://keepachangelog.com/) and the
 project follows [Semantic Versioning](https://semver.org/) — see
 [CLAUDE.md](./CLAUDE.md) for the bump rules.
@@ -22,6 +22,24 @@ project follows [Semantic Versioning](https://semver.org/) — see
   history, behavioral data, customer/campaign content). Hostable on
   GitHub Pages or linkable as a raw GitHub blob URL.
 
+## [1.1.3] — 2026-05-01
+
+### Changed
+
+- Extension renamed to **OS Translate** (was "OneSignal Dashboard
+  Translator" / "OneSignal Translator"). Applied across every
+  identity surface: `manifest.json` action.default_title, popup
+  `<title>` and `<h3>`, all 8 `_locales/<code>/messages.json`
+  extName entries, all 8 `store-listing/<code>.md` mid-prose
+  references, README and PRIVACY.md titles, internal console-log
+  prefixes (`[OS Translate]`).
+- The rename completes the unofficial-extension reframe: the
+  extension's display name no longer references the OneSignal
+  brand at all. Descriptive prose in the README, PRIVACY policy,
+  and store listings still names the OneSignal dashboard as the
+  thing being translated — that use is protected under the
+  nominative fair use language already on `unofficial-extension`.
+
 ## [1.1.2] — 2026-05-01
 
 ### Changed
@@ -35,7 +53,9 @@ project follows [Semantic Versioning](https://semver.org/) — see
   swap gives the visual coverage. Source PNG renamed from
   `os-logo-512.png` to `logo-512x512.png` and committed at the
   repo root. Generated `icons/icon-{16,32,48,128}.png` from the new
-  source via Lanczos downsampling.
+  source via Lanczos downsampling. Follow-up commit applied a
+  flood-fill alpha mask so the corners outside the chat-bubble
+  shape render transparent on dark menu surfaces.
 
 ## [1.1.1] — 2026-04-30
 

@@ -15,7 +15,7 @@ Chaque langue couvre l'intégralité du tableau de bord — plus de 1 500 chaîn
 ✦ COMMENT ÇA MARCHE
 1. Installez l'extension et épinglez-la à votre barre d'outils Chrome.
 2. Ouvrez dashboard.onesignal.com.
-3. Cliquez sur l'icône OneSignal Translator et choisissez votre langue.
+3. Cliquez sur l'icône OS Translate et choisissez votre langue.
 4. Le tableau de bord se recharge et chaque texte visible apparaît dans la langue choisie.
 5. Votre choix est conservé entre les redémarrages du navigateur et synchronisé entre les profils Chrome.
 

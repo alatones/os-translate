@@ -39,7 +39,7 @@ const LANG_FLAGS = {
 // elements (via [data-i18n] attribute) and runtime status / confirm
 // strings (via t()).
 //
-// "OneSignal Translator" the heading is intentionally not translated —
+// "OS Translate" the heading is intentionally not translated —
 // it's the product name.
 const POPUP_STRINGS = {
   language_label: {
@@ -190,7 +190,7 @@ async function populateLanguageOptions() {
       select.appendChild(opt);
     }
   } catch (err) {
-    console.warn("[OneSignal Translator] failed to load language list:", err);
+    console.warn("[OS Translate] failed to load language list:", err);
   }
   const { language } = await chrome.storage.sync.get({ language: DEFAULT_LANG });
   select.value = language;

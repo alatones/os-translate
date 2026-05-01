@@ -1,4 +1,4 @@
-# OneSignal Dashboard Translator
+# OS Translate
 
 A Manifest V3 Chrome/Edge extension that translates the OneSignal admin
 dashboard (`https://dashboard.onesignal.com`) into non-English languages.

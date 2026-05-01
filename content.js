@@ -314,7 +314,7 @@
       try {
         compiledPatterns.push({ re: new RegExp(p.match), template });
       } catch (err) {
-        console.warn("[OneSignal Translator] bad pattern:", p.match, err);
+        console.warn("[OS Translate] bad pattern:", p.match, err);
       }
     }
   }
@@ -390,7 +390,7 @@
       const lang = await readLang();
       applyLanguage(lang);
     } catch (err) {
-      console.warn("[OneSignal Translator] init failed:", err);
+      console.warn("[OS Translate] init failed:", err);
     }
   })();
 })();

@@ -1,8 +1,8 @@
-# Privacy Policy — OneSignal Dashboard Translator
+# Privacy Policy — OS Translate
 
 **Effective date:** 2026-04-30
 
-The OneSignal Dashboard Translator is a Chrome/Edge browser extension
+OS Translate is a Chrome/Edge browser extension
 that translates the OneSignal admin dashboard
 (`https://dashboard.onesignal.com`) into your chosen language. This
 page describes exactly what data the extension reads, stores, and
