@@ -1,9 +1,15 @@
 # OneSignal Dashboard Translator
 
+> **Unofficial, community-maintained.** Not produced, endorsed, or
+> supported by OneSignal Inc. "OneSignal" is a trademark of OneSignal
+> Inc., used here only to describe the dashboard this extension
+> translates.
+
 A Manifest V3 Chrome/Edge extension that translates the OneSignal admin
 dashboard (`https://dashboard.onesignal.com`) into non-English languages.
-Ships with **Japanese, Spanish, Portuguese (BR), Korean, and French** out
-of the box — each at full coverage of the same ~1,500 dashboard strings.
+Ships with **Japanese, Spanish, Portuguese (BR), Korean, French, Turkish,
+and Simplified Chinese** out of the box — each at full coverage of the
+same ~1,500 dashboard strings.
 
 The extension only runs on the OneSignal dashboard — no other sites are
 touched and no browsing data is collected.

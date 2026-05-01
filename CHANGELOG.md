@@ -22,6 +22,17 @@ project follows [Semantic Versioning](https://semver.org/) — see
   history, behavioral data, customer/campaign content). Hostable on
   GitHub Pages or linkable as a raw GitHub blob URL.
 
+### Changed
+
+- Reframed as an **unofficial, community-maintained extension** —
+  not produced, endorsed, or supported by OneSignal Inc. Disclaimer
+  added near the top of `PRIVACY.md` and `README.md`. Aligns with
+  releasing under the maintainer's personal Web Store developer
+  account (non-trader) rather than as an official company product.
+- `PRIVACY.md` Contact section trimmed to a single line pointing
+  users to GitHub Issues for privacy questions, replacing the
+  per-maintainer placeholder.
+
 ## [1.1.1] — 2026-04-30
 
 ### Changed
