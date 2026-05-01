@@ -2,7 +2,6 @@
 
 **Effective date:** 2026-04-30
 
-OS Translate is a Chrome/Edge browser extension
 > **This is an unofficial, community-maintained browser extension. It
 > is not produced, endorsed, or supported by OneSignal Inc.**
 >
@@ -12,11 +11,10 @@ OS Translate is a Chrome/Edge browser extension
 > No association, sponsorship, or endorsement by OneSignal Inc. is
 > implied or claimed.
 
-The OneSignal Dashboard Translator is a Chrome/Edge browser extension
-that translates the OneSignal admin dashboard
-(`https://dashboard.onesignal.com`) into your chosen language. This
-page describes exactly what data the extension reads, stores, and
-transmits — and what it does not.
+OS Translate is a Chrome/Edge browser extension that translates the
+OneSignal admin dashboard (`https://dashboard.onesignal.com`) into
+your chosen language. This page describes exactly what data the
+extension reads, stores, and transmits — and what it does not.
 
 ## Short version
 

@@ -7,6 +7,22 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
+### Fixed
+
+- Updated three references to the old GitHub repo name (`Translate-os`)
+  after the maintainer renamed the repo to `os-translate`. Touched the
+  README's example download path and the two CHANGELOG comparison/tag
+  links in the footer. GitHub redirects from the old URL but the
+  canonical URL is cleaner — particularly for the privacy-policy URL
+  pasted into the Chrome Web Store Developer Dashboard.
+- Cleaned a duplicated intro paragraph in `PRIVACY.md` left over from
+  the rename + unofficial-extension PR merge: removed the stub line
+  "OS Translate is a Chrome/Edge browser extension" (without
+  continuation) above the disclaimer, and updated the full-sentence
+  intro below the disclaimer to use "OS Translate" instead of the
+  stale "OneSignal Dashboard Translator." One clean intro paragraph
+  now follows the disclaimer.
+
 ### Added
 
 - `store-listing/` directory with the long-form Chrome Web Store
@@ -106,7 +122,7 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [1.0.0] — 2026-04-30 — Beta release
 
-First version handed off for beta testing with colleagues and partners.
+First version released for beta testing.
 Pre-1.0 development happened in a tight burst; this entry captures the
 cumulative state at the beta cut.
 
@@ -170,5 +186,5 @@ entries + 73 regex patterns**:
   every supported language" rule and (added with this changelog) the
   versioning convention.
 
-[Unreleased]: https://github.com/alatones/Translate-os/compare/v1.0.0...HEAD
-[1.0.0]: https://github.com/alatones/Translate-os/releases/tag/v1.0.0
+[Unreleased]: https://github.com/alatones/os-translate/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/alatones/os-translate/releases/tag/v1.0.0

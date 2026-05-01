@@ -26,7 +26,7 @@ touched and no browsing data is collected.
    **Option A — Download ZIP (no git required).**
    On the GitHub repo page, click the green **Code** button →
    **Download ZIP**. Unzip the file somewhere you'll remember (e.g.
-   `~/Downloads/Translate-os-main`). The folder you point Chrome at
+   `~/Downloads/os-translate-main`). The folder you point Chrome at
    in step 4 is the unzipped folder.
 
    **Option B — Clone with git.**
