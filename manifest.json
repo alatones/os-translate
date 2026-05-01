@@ -1,10 +1,10 @@
 {
   "manifest_version": 3,
   "name": "__MSG_extName__",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "__MSG_extDescription__",
   "default_locale": "en",
-  "permissions": ["storage", "activeTab", "contextMenus", "alarms"],
+  "permissions": ["storage", "contextMenus", "alarms"],
   "host_permissions": [
     "https://dashboard.onesignal.com/*",
     "https://script.google.com/*"

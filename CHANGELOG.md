@@ -16,6 +16,20 @@ project follows [Semantic Versioning](https://semver.org/) — see
   separate from the short `_locales/<code>/messages.json`
   `extDescription` (≤132 chars) which Chrome localizes automatically.
 
+## [1.1.1] — 2026-04-30
+
+### Changed
+
+- Dropped the redundant `activeTab` permission from the manifest. Our
+  existing `host_permissions: ["https://dashboard.onesignal.com/*"]`
+  already covers the only `chrome.tabs.*` calls we make
+  (`tabs.query` + `tabs.reload` against the dashboard tab), and we
+  never act on non-dashboard tabs. Removing it tightens the install
+  warning surface with no behavior change. Permissions are now
+  exactly: `storage`, `contextMenus`, `alarms` plus the two
+  scoped host_permissions for the dashboard and the Apps Script
+  ledger endpoint.
+
 ## [1.0.1] — 2026-04-30
 
 ### Fixed
