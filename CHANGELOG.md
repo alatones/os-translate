@@ -22,6 +22,21 @@ project follows [Semantic Versioning](https://semver.org/) — see
   history, behavioral data, customer/campaign content). Hostable on
   GitHub Pages or linkable as a raw GitHub blob URL.
 
+## [1.1.2] — 2026-05-01
+
+### Changed
+
+- New extension icon: replaced the OneSignal "1" mark with a generic
+  translation glyph (chat bubbles with "A" / "文" inside a larger
+  bubble, blue-to-purple gradient). Eliminates the strongest
+  trademark concern of using a brand's logo on a third-party tool —
+  the unofficial framing in PRIVACY.md and README.md (along with the
+  nominative-fair-use language) gives the textual coverage; this
+  swap gives the visual coverage. Source PNG renamed from
+  `os-logo-512.png` to `logo-512x512.png` and committed at the
+  repo root. Generated `icons/icon-{16,32,48,128}.png` from the new
+  source via Lanczos downsampling.
+
 ## [1.1.1] — 2026-04-30
 
 ### Changed
