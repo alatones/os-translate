@@ -203,8 +203,13 @@ populateLanguageOptions();
 select.addEventListener("change", async () => {
   const next = select.value;
 
-  const [tab] = await chrome.tabs.query({ active: true, currentWindow: true });
-  const onDashboard = tab && tab.url && tab.url.includes(DASHBOARD_HOST);
+  let onDashboard = false;
+  try {
+    const [tab] = await chrome.tabs.query({ active: true, currentWindow: true });
+    onDashboard = !!(tab && tab.url && tab.url.includes(DASHBOARD_HOST));
+  } catch (err) {
+    console.warn("[OS Translate] could not query active tab:", err);
+  }
 
   // Warn before reloading — the user may have unsaved edits in a draft
   // message, segment builder, etc. Confirming here is cheap; losing work

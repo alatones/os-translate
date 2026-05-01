@@ -24,7 +24,7 @@ function groupByLangPath(ledger) {
 }
 
 function render(ledger) {
-  entriesEl.innerHTML = "";
+  while (entriesEl.firstChild) entriesEl.removeChild(entriesEl.firstChild);
   const groups = groupByLangPath(ledger);
   if (groups.size === 0) {
     const empty = document.createElement("div");

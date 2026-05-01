@@ -370,7 +370,11 @@
   async function loadDictionaries() {
     const url = chrome.runtime.getURL("languages.json");
     const res = await fetch(url);
-    dictionaries = await res.json();
+    const data = await res.json();
+    if (!data || typeof data.translations !== "object") {
+      throw new Error("languages.json missing translations object");
+    }
+    dictionaries = data;
   }
 
   function readLang() {

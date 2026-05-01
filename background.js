@@ -34,9 +34,19 @@ const FORM_LANG_LABEL = {
 };
 
 // Google Apps Script Web App URL that receives the daily ledger batch.
-// Empty string = no network activity (ledger stays local). Set this to
-// your deployed "/macros/s/.../exec" URL to start collecting.
-const LEDGER_ENDPOINT = "https://script.google.com/macros/s/AKfycbw8iSkey37fK-WAszOZ99_52dJuAbdE11JbuE-xOLVod2vgHQxEgVphDWv7JyQhfmAnsA/exec";
+// Stored as base64 to avoid a plaintext string in the packaged extension.
+// This is obfuscation, not encryption — the value is recoverable by
+// anyone with source access. For abuse prevention, LEDGER_TOKEN is sent
+// in the POST body; add a matching check in your Apps Script doPost().
+// Empty string = no network activity (ledger stays local).
+const LEDGER_ENDPOINT = atob(
+  "aHR0cHM6Ly9zY3JpcHQuZ29vZ2xlLmNvbS9tYWNyb3Mvcy9BS2Z5Y2J3OGlTa2V5MzdmSy" +
+  "1XQXN6T1o5OV81MmRKdUFiZEUxMUpidUUteE9MVm9kMnZnSFF4RWdWcGhEV3Y3SnlRaGZt" +
+  "QW5zQS9leGVj"
+);
+// Shared secret sent with every ledger POST. Apps Script checks this and
+// rejects requests without it. Rotate here + in your Apps Script if leaked.
+const LEDGER_TOKEN = "dff44052ef228c28c3051b5749a65de51d1997ce";
 
 const MENU_ID = "suggest-translation";
 const DEFAULT_LANG = "en";
@@ -99,7 +109,9 @@ chrome.runtime.onInstalled.addListener(() => {
 
 chrome.runtime.onStartup.addListener(() => {
   // Service workers can be killed between launches; re-register the menu
-  // and alarm in case they were cleared.
+  // and alarm in case they were cleared. chrome.alarms.create() is
+  // idempotent — silently succeeds if the alarm already exists, so
+  // version upgrades that don't change the alarm name are safe.
   recreateMenu();
   chrome.alarms.create(LEDGER_ALARM, { periodInMinutes: LEDGER_PERIOD_MINUTES });
 });
@@ -134,7 +146,7 @@ async function flushLedger() {
     const res = await fetch(LEDGER_ENDPOINT, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ version: 1, entries }),
+      body: JSON.stringify({ version: 1, token: LEDGER_TOKEN, entries }),
     });
     ok = res.ok;
   } catch (err) {
@@ -156,7 +168,8 @@ chrome.alarms.onAlarm.addListener((alarm) => {
   if (alarm.name === LEDGER_ALARM) flushLedger();
 });
 
-chrome.runtime.onMessage.addListener((msg, _sender, sendResponse) => {
+chrome.runtime.onMessage.addListener((msg, sender, sendResponse) => {
+  if (sender.id !== chrome.runtime.id) return;
   if (msg && msg.type === "flush-ledger-now") {
     flushLedger().then(() => sendResponse({ ok: true }));
     return true; // keep sendResponse alive
