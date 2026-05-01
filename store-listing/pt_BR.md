@@ -15,7 +15,7 @@ Cada idioma vem com cobertura completa — mais de 1.500 strings do painel além
 ✦ COMO FUNCIONA
 1. Instale a extensão e fixe-a na barra de ferramentas do Chrome.
 2. Abra dashboard.onesignal.com.
-3. Clique no ícone do OneSignal Translator e escolha seu idioma.
+3. Clique no ícone do OS Translate e escolha seu idioma.
 4. O painel é recarregado e todo o texto visível aparece no idioma escolhido.
 5. Sua escolha é mantida entre reinícios do navegador e sincronizada entre perfis do Chrome.
 

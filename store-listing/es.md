@@ -15,7 +15,7 @@ Cada idioma incluye cobertura completa: más de 1.500 cadenas del panel y 73 pat
 ✦ CÓMO FUNCIONA
 1. Instala la extensión y fíjala en la barra de herramientas de Chrome.
 2. Abre dashboard.onesignal.com.
-3. Haz clic en el ícono de OneSignal Translator y elige tu idioma.
+3. Haz clic en el ícono de OS Translate y elige tu idioma.
 4. El panel se recarga y todo el texto visible aparece en el idioma elegido.
 5. Tu elección se mantiene entre reinicios del navegador y se sincroniza entre perfiles de Chrome.
 

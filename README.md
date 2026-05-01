@@ -1,4 +1,4 @@
-# OneSignal Dashboard Translator
+# OS Translate
 
 > **Unofficial, community-maintained.** Not produced, endorsed, or
 > supported by OneSignal Inc.

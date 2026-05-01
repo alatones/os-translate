@@ -15,7 +15,7 @@ Her dil panonun tamamını kapsar — 1.500'den fazla pano dizesi ve tarih forma
 ✦ NASIL ÇALIŞIR
 1. Uzantıyı yükleyin ve Chrome araç çubuğuna sabitleyin.
 2. dashboard.onesignal.com adresini açın.
-3. OneSignal Translator simgesine tıklayın ve dilinizi seçin.
+3. OS Translate simgesine tıklayın ve dilinizi seçin.
 4. Pano yeniden yüklenir ve görünen tüm metinler seçtiğiniz dilde gösterilir.
 5. Seçiminiz tarayıcı yeniden başlatıldığında korunur ve Chrome profilleri arasında senkronize edilir.
 
