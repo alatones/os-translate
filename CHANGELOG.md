@@ -7,6 +7,8 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
+## [1.1.4] — 2026-05-01
+
 ### Fixed
 
 - Updated three references to the old GitHub repo name (`Translate-os`)
@@ -22,6 +24,19 @@ project follows [Semantic Versioning](https://semver.org/) — see
   intro below the disclaimer to use "OS Translate" instead of the
   stale "OneSignal Dashboard Translator." One clean intro paragraph
   now follows the disclaimer.
+- Added sender-ID validation to the `chrome.runtime.onMessage` handler
+  in `background.js` so only messages from the extension's own contexts
+  are processed.
+- Obfuscated the ledger endpoint URL and added a shared request token
+  sent with every ledger POST; the Apps Script backend validates the
+  token before writing to the sheet.
+- Replaced `innerHTML = ""` DOM clear in `queue.js` with a safe
+  child-removal loop.
+- Added structure validation to `loadDictionaries` in `content.js` so
+  a malformed `languages.json` produces a clear error rather than a
+  silent type fault.
+- Wrapped `chrome.tabs.query()` in `popup.js` in a try/catch so a rare
+  API failure degrades gracefully instead of crashing the popup.
 
 ### Added
 
@@ -186,5 +201,6 @@ entries + 73 regex patterns**:
   every supported language" rule and (added with this changelog) the
   versioning convention.
 
-[Unreleased]: https://github.com/alatones/os-translate/compare/v1.0.0...HEAD
+[Unreleased]: https://github.com/alatones/os-translate/compare/v1.1.4...HEAD
+[1.1.4]: https://github.com/alatones/os-translate/compare/v1.0.0...v1.1.4
 [1.0.0]: https://github.com/alatones/os-translate/releases/tag/v1.0.0
