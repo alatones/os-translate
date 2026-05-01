@@ -15,6 +15,12 @@ project follows [Semantic Versioning](https://semver.org/) — see
   Developer Dashboard's per-locale "Detailed description" field —
   separate from the short `_locales/<code>/messages.json`
   `extDescription` (≤132 chars) which Chrome localizes automatically.
+- `PRIVACY.md` — public privacy policy for the Chrome Web Store
+  listing requirement. Describes the local-only language preference,
+  the opt-in missed-string ledger, the `couldBeUI` filter list, and
+  what the extension explicitly does NOT collect (PII, browsing
+  history, behavioral data, customer/campaign content). Hostable on
+  GitHub Pages or linkable as a raw GitHub blob URL.
 
 ## [1.1.1] — 2026-04-30
 

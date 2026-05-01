@@ -490,6 +490,7 @@ glossary.json    Locked English-to-target term mappings (with grammatical alts)
 style/<lang>.md  Per-language addenda (register, punctuation, length budgets)
 validate.py      Mechanical conformance check; must report 0 blocking violations
 CHANGELOG.md     Per-version release notes for beta testers
+PRIVACY.md       Public privacy policy linked from the Chrome Web Store listing
 _locales/        Chrome i18n short strings for the manifest name + description (one dir per browser locale)
 store-listing/   Long-form Chrome Web Store marketing description, one .md per locale, paste-ready for the Developer Dashboard
 ```
