@@ -2,6 +2,15 @@
 
 **Effective date:** 2026-04-30
 
+> **This is an unofficial, community-maintained browser extension. It
+> is not produced, endorsed, or supported by OneSignal Inc.**
+>
+> "OneSignal" is a trademark of OneSignal Inc. The name is used in
+> this project under the doctrine of nominative fair use — solely
+> to identify the dashboard the extension is designed to translate.
+> No association, sponsorship, or endorsement by OneSignal Inc. is
+> implied or claimed.
+
 The OneSignal Dashboard Translator is a Chrome/Edge browser extension
 that translates the OneSignal admin dashboard
 (`https://dashboard.onesignal.com`) into your chosen language. This
@@ -135,7 +144,5 @@ bumped. Material changes will also appear in
 
 ## Contact
 
-For questions about this policy or to report a privacy concern,
-contact the maintainer at
-[GITHUB_ISSUES_OR_EMAIL_PLACEHOLDER]. Please replace this placeholder
-with your preferred contact channel before publishing.
+For privacy questions or concerns, please open an issue on the
+project's GitHub repository.
