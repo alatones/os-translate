@@ -204,8 +204,9 @@ select.addEventListener("change", async () => {
   const next = select.value;
 
   let onDashboard = false;
+  let tab;
   try {
-    const [tab] = await chrome.tabs.query({ active: true, currentWindow: true });
+    [tab] = await chrome.tabs.query({ active: true, currentWindow: true });
     onDashboard = !!(tab && tab.url && tab.url.includes(DASHBOARD_HOST));
   } catch (err) {
     console.warn("[OS Translate] could not query active tab:", err);
