@@ -7,6 +7,14 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
+## [1.1.5] — 2026-05-01
+
+### Fixed
+
+- Fixed `ReferenceError: tab is not defined` crash in the popup when
+  switching languages. The `tab` variable was scoped inside a `try`
+  block but referenced outside it for `chrome.tabs.reload()`.
+
 ## [1.1.4] — 2026-05-01
 
 ### Fixed
@@ -201,6 +209,7 @@ entries + 73 regex patterns**:
   every supported language" rule and (added with this changelog) the
   versioning convention.
 
-[Unreleased]: https://github.com/alatones/os-translate/compare/v1.1.4...HEAD
+[Unreleased]: https://github.com/alatones/os-translate/compare/v1.1.5...HEAD
+[1.1.5]: https://github.com/alatones/os-translate/compare/v1.1.4...v1.1.5
 [1.1.4]: https://github.com/alatones/os-translate/compare/v1.0.0...v1.1.4
 [1.0.0]: https://github.com/alatones/os-translate/releases/tag/v1.0.0
