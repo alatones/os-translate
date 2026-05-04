@@ -2017,7 +2017,8 @@
       "ko": "발신자 이름",
       "fr": "Nom de l'expéditeur",
       "tr": "Gönderen adı",
-      "zh-CN": "发件人名称"
+      "zh-CN": "发件人名称",
+      "zh-HK": "發件人名稱"
     },
     "Full Screen": {
       "es": "Pantalla completa",
@@ -2026,7 +2027,8 @@
       "ko": "전체 화면",
       "fr": "Plein écran",
       "tr": "Tam ekran",
-      "zh-CN": "全屏"
+      "zh-CN": "全屏",
+      "zh-HK": "全螢幕"
     },
     "General": {
       "es": "General",
@@ -2035,7 +2037,8 @@
       "ko": "일반",
       "fr": "Général",
       "tr": "Genel",
-      "zh-CN": "常规"
+      "zh-CN": "常规",
+      "zh-HK": "一般"
     },
     "Global outcomes": {
       "es": "Resultados globales",
@@ -2044,7 +2047,8 @@
       "ko": "전체 결과",
       "fr": "Résultats globaux",
       "tr": "Genel sonuçlar",
-      "zh-CN": "全局结果"
+      "zh-CN": "全局结果",
+      "zh-HK": "全域結果"
     },
     "greater than": {
       "es": "mayor que",
@@ -2053,7 +2057,8 @@
       "ko": "초과",
       "fr": "supérieur à",
       "tr": "büyüktür",
-      "zh-CN": "大于"
+      "zh-CN": "大于",
+      "zh-HK": "大於"
     },
     "icon for prebuilt": {
       "es": "ícono predefinido",
@@ -2062,7 +2067,8 @@
       "ko": "사전 제작 아이콘",
       "fr": "icône prédéfinie",
       "tr": "hazır şablon simgesi",
-      "zh-CN": "预设图标"
+      "zh-CN": "预设图标",
+      "zh-HK": "預設圖示"
     },
     "ID": {
       "es": "ID",
@@ -2071,7 +2077,8 @@
       "ko": "ID",
       "fr": "ID",
       "tr": "ID",
-      "zh-CN": "ID"
+      "zh-CN": "ID",
+      "zh-HK": "ID"
     },
     "Import": {
       "es": "Importar",
@@ -2080,7 +2087,8 @@
       "ko": "가져오기",
       "fr": "Importer",
       "tr": "İçe aktar",
-      "zh-CN": "导入"
+      "zh-CN": "导入",
+      "zh-HK": "匯入"
     },
     "Import data tags": {
       "es": "Importar etiquetas de datos",
@@ -2089,7 +2097,8 @@
       "ko": "데이터 태그 가져오기",
       "fr": "Importer des tags de données",
       "tr": "Veri etiketlerini içe aktar",
-      "zh-CN": "导入数据标签"
+      "zh-CN": "导入数据标签",
+      "zh-HK": "匯入資料標籤"
     },
     "Import Users": {
       "es": "Importar usuarios",
@@ -2098,7 +2107,8 @@
       "ko": "사용자 가져오기",
       "fr": "Importer des utilisateurs",
       "tr": "Kullanıcıları içe aktar",
-      "zh-CN": "导入用户"
+      "zh-CN": "导入用户",
+      "zh-HK": "匯入用戶"
     },
     "Impressions": {
       "es": "Impresiones",
@@ -2107,7 +2117,8 @@
       "ko": "노출 수",
       "fr": "Impressions",
       "tr": "Gösterimler",
-      "zh-CN": "展示次数"
+      "zh-CN": "展示次数",
+      "zh-HK": "展示次數"
     },
     "In Progress": {
       "es": "En progreso",
@@ -2116,7 +2127,8 @@
       "ko": "진행 중",
       "fr": "En cours",
       "tr": "Devam ediyor",
-      "zh-CN": "进行中"
+      "zh-CN": "进行中",
+      "zh-HK": "進行中"
     },
     "In-App": {
       "es": "In-App",
@@ -2125,7 +2137,8 @@
       "ko": "인앱",
       "fr": "In-App",
       "tr": "In-App",
-      "zh-CN": "In-App"
+      "zh-CN": "In-App",
+      "zh-HK": "In-App"
     },
     "In-App Messages": {
       "es": "Mensajes In-App",
@@ -2134,7 +2147,8 @@
       "ko": "인앱 메시지",
       "fr": "Messages In-App",
       "tr": "In-App mesajları",
-      "zh-CN": "In-App 消息"
+      "zh-CN": "In-App 消息",
+      "zh-HK": "In-App 訊息"
     },
     "Inactive": {
       "es": "Inactivo",
@@ -2143,7 +2157,8 @@
       "ko": "비활성",
       "fr": "Inactif",
       "tr": "Pasif",
-      "zh-CN": "不活跃"
+      "zh-CN": "不活跃",
+      "zh-HK": "不活躍"
     },
     "Inbound": {
       "es": "Entrante",
@@ -2152,7 +2167,8 @@
       "ko": "인바운드",
       "fr": "Entrant",
       "tr": "Gelen",
-      "zh-CN": "入站"
+      "zh-CN": "入站",
+      "zh-HK": "入站"
     },
     "Include Segments": {
       "es": "Incluir segmentos",
@@ -2161,7 +2177,8 @@
       "ko": "세그먼트 포함",
       "fr": "Inclure les segments",
       "tr": "Segmentleri dahil et",
-      "zh-CN": "包含 Segment"
+      "zh-CN": "包含 Segment",
+      "zh-HK": "包含 Segment"
     },
     "Influenced": {
       "es": "Influenciado",
@@ -2170,7 +2187,8 @@
       "ko": "영향받음",
       "fr": "Influencé",
       "tr": "Etkilenen",
-      "zh-CN": "受影响"
+      "zh-CN": "受影响",
+      "zh-HK": "受影響"
     },
     "Influenced Opens": {
       "es": "Aperturas influenciadas",
@@ -2179,7 +2197,8 @@
       "ko": "영향받아 열림",
       "fr": "Ouvertures influencées",
       "tr": "Etkilenen açılmalar",
-      "zh-CN": "受影响的打开"
+      "zh-CN": "受影响的打开",
+      "zh-HK": "受影響的開啟"
     },
     "Info": {
       "es": "Info",
@@ -2188,7 +2207,8 @@
       "ko": "정보",
       "fr": "Info",
       "tr": "Bilgi",
-      "zh-CN": "信息"
+      "zh-CN": "信息",
+      "zh-HK": "資訊"
     },
     "Integrations": {
       "es": "Integraciones",
@@ -2197,7 +2217,8 @@
       "ko": "통합",
       "fr": "Intégrations",
       "tr": "Entegrasyonlar",
-      "zh-CN": "集成"
+      "zh-CN": "集成",
+      "zh-HK": "整合"
     },
     "Intelligent Delivery": {
       "es": "Entrega inteligente",
@@ -2206,7 +2227,8 @@
       "ko": "지능형 전달",
       "fr": "Livraison intelligente",
       "tr": "Akıllı teslimat",
-      "zh-CN": "智能送达"
+      "zh-CN": "智能送达",
+      "zh-HK": "智能送達"
     },
     "Invite": {
       "es": "Invitar",
@@ -2215,7 +2237,8 @@
       "ko": "초대",
       "fr": "Inviter",
       "tr": "Davet et",
-      "zh-CN": "邀请"
+      "zh-CN": "邀请",
+      "zh-HK": "邀請"
     },
     "Invite User": {
       "es": "Invitar usuario",
@@ -2224,7 +2247,8 @@
       "ko": "사용자 초대",
       "fr": "Inviter un utilisateur",
       "tr": "Kullanıcı davet et",
-      "zh-CN": "邀请用户"
+      "zh-CN": "邀请用户",
+      "zh-HK": "邀請用戶"
     },
     "iOS": {
       "es": "iOS",
@@ -2233,7 +2257,8 @@
       "ko": "iOS",
       "fr": "iOS",
       "tr": "iOS",
-      "zh-CN": "iOS"
+      "zh-CN": "iOS",
+      "zh-HK": "iOS"
     },
     "IP address": {
       "es": "Dirección IP",
@@ -2242,7 +2267,8 @@
       "ko": "IP 주소",
       "fr": "Adresse IP",
       "tr": "IP adresi",
-      "zh-CN": "IP 地址"
+      "zh-CN": "IP 地址",
+      "zh-HK": "IP 地址"
     },
     "is": {
       "es": "es igual a",
@@ -2251,7 +2277,8 @@
       "ko": "같음",
       "fr": "est",
       "tr": "eşittir",
-      "zh-CN": "等于"
+      "zh-CN": "等于",
+      "zh-HK": "等於"
     },
     "is not": {
       "es": "no es igual a",
@@ -2260,7 +2287,8 @@
       "ko": "같지 않음",
       "fr": "n'est pas",
       "tr": "eşit değildir",
-      "zh-CN": "不等于"
+      "zh-CN": "不等于",
+      "zh-HK": "不等於"
     },
     "Jan": {
       "es": "ene",
@@ -2269,7 +2297,8 @@
       "ko": "1월",
       "fr": "jan",
       "tr": "oca",
-      "zh-CN": "1月"
+      "zh-CN": "1月",
+      "zh-HK": "1月"
     },
     "January": {
       "es": "enero",
@@ -2278,7 +2307,8 @@
       "ko": "1월",
       "fr": "janvier",
       "tr": "ocak",
-      "zh-CN": "1月"
+      "zh-CN": "1月",
+      "zh-HK": "1月"
     },
     "Journey": {
       "es": "Journey",
@@ -2287,7 +2317,8 @@
       "ko": "저니",
       "fr": "Journey",
       "tr": "Journey",
-      "zh-CN": "Journey"
+      "zh-CN": "Journey",
+      "zh-HK": "Journey"
     },
     "Journey Webhook": {
       "es": "Webhook de Journey",
@@ -2296,7 +2327,8 @@
       "ko": "저니 웹훅",
       "fr": "Webhook Journey",
       "tr": "Journey Webhook",
-      "zh-CN": "Journey Webhook"
+      "zh-CN": "Journey Webhook",
+      "zh-HK": "Journey Webhook"
     },
     "Journey Webhooks": {
       "es": "Webhooks de Journey",
@@ -2305,7 +2337,8 @@
       "ko": "저니 웹훅",
       "fr": "Webhooks Journey",
       "tr": "Journey Webhook'ları",
-      "zh-CN": "Journey Webhook"
+      "zh-CN": "Journey Webhook",
+      "zh-HK": "Journey Webhook"
     },
     "Journeys": {
       "es": "Journeys",
@@ -2314,7 +2347,8 @@
       "ko": "저니",
       "fr": "Journeys",
       "tr": "Journeys",
-      "zh-CN": "Journeys"
+      "zh-CN": "Journeys",
+      "zh-HK": "Journeys"
     },
     "Jul": {
       "es": "jul",
@@ -2323,7 +2357,8 @@
       "ko": "7월",
       "fr": "juil",
       "tr": "tem",
-      "zh-CN": "7月"
+      "zh-CN": "7月",
+      "zh-HK": "7月"
     },
     "July": {
       "es": "julio",
@@ -2332,7 +2367,8 @@
       "ko": "7월",
       "fr": "juillet",
       "tr": "temmuz",
-      "zh-CN": "7月"
+      "zh-CN": "7月",
+      "zh-HK": "7月"
     },
     "Jump forward": {
       "es": "Avanzar",
@@ -2341,7 +2377,8 @@
       "ko": "앞으로 이동",
       "fr": "Avancer",
       "tr": "İleri atla",
-      "zh-CN": "向前跳"
+      "zh-CN": "向前跳",
+      "zh-HK": "向前跳"
     },
     "Jun": {
       "es": "jun",
@@ -2350,7 +2387,8 @@
       "ko": "6월",
       "fr": "juin",
       "tr": "haz",
-      "zh-CN": "6月"
+      "zh-CN": "6月",
+      "zh-HK": "6月"
     },
     "June": {
       "es": "junio",
@@ -2359,7 +2397,8 @@
       "ko": "6월",
       "fr": "juin",
       "tr": "haziran",
-      "zh-CN": "6月"
+      "zh-CN": "6月",
+      "zh-HK": "6月"
     },
     "Key": {
       "es": "Clave",
@@ -2368,7 +2407,8 @@
       "ko": "키",
       "fr": "Clé",
       "tr": "Anahtar",
-      "zh-CN": "密钥"
+      "zh-CN": "密钥",
+      "zh-HK": "密鑰"
     },
     "Keys & IDs": {
       "es": "Claves e IDs",
@@ -2377,7 +2417,8 @@
       "ko": "키 및 ID",
       "fr": "Clés et ID",
       "tr": "Anahtarlar ve ID'ler",
-      "zh-CN": "密钥和 ID"
+      "zh-CN": "密钥和 ID",
+      "zh-HK": "密鑰和 ID"
     },
     "Labels": {
       "es": "Etiquetas",
@@ -2386,7 +2427,8 @@
       "ko": "라벨",
       "fr": "Étiquettes",
       "tr": "Etiketler",
-      "zh-CN": "标签"
+      "zh-CN": "标签",
+      "zh-HK": "標籤"
     },
     "Language": {
       "es": "Idioma",
@@ -2395,7 +2437,8 @@
       "ko": "언어",
       "fr": "Langue",
       "tr": "Dil",
-      "zh-CN": "语言"
+      "zh-CN": "语言",
+      "zh-HK": "語言"
     },
     "Language code": {
       "es": "Código de idioma",
@@ -2404,7 +2447,8 @@
       "ko": "언어 코드",
       "fr": "Code de langue",
       "tr": "Dil kodu",
-      "zh-CN": "语言代码"
+      "zh-CN": "语言代码",
+      "zh-HK": "語言代碼"
     },
     "Large Image": {
       "es": "Imagen grande",
@@ -2413,7 +2457,8 @@
       "ko": "큰 이미지",
       "fr": "Grande image",
       "tr": "Büyük görsel",
-      "zh-CN": "大图"
+      "zh-CN": "大图",
+      "zh-HK": "大圖"
     },
     "Last activated": {
       "es": "Última activación",
@@ -2422,7 +2467,8 @@
       "ko": "마지막 활성화",
       "fr": "Dernière activation",
       "tr": "Son etkinleştirme",
-      "zh-CN": "最近激活"
+      "zh-CN": "最近激活",
+      "zh-HK": "最近啟用"
     },
     "Last Active": {
       "es": "Última actividad",
@@ -2431,7 +2477,8 @@
       "ko": "마지막 활성",
       "fr": "Dernière activité",
       "tr": "Son aktivite",
-      "zh-CN": "最近活跃"
+      "zh-CN": "最近活跃",
+      "zh-HK": "最近活躍"
     },
     "Last active": {
       "es": "Última actividad",
@@ -2440,7 +2487,8 @@
       "ko": "마지막 활성",
       "fr": "Dernière activité",
       "tr": "Son aktivite",
-      "zh-CN": "最近活跃"
+      "zh-CN": "最近活跃",
+      "zh-HK": "最近活躍"
     },
     "Last month": {
       "es": "Mes pasado",
@@ -2449,7 +2497,8 @@
       "ko": "지난달",
       "fr": "Mois dernier",
       "tr": "Geçen ay",
-      "zh-CN": "上个月"
+      "zh-CN": "上个月",
+      "zh-HK": "上個月"
     },
     "Last received": {
       "es": "Última recepción",
@@ -2458,7 +2507,8 @@
       "ko": "마지막 수신",
       "fr": "Dernière réception",
       "tr": "Son alınma",
-      "zh-CN": "最近接收"
+      "zh-CN": "最近接收",
+      "zh-HK": "最近接收"
     },
     "Last sent": {
       "es": "Último envío",
