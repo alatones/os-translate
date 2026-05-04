@@ -7,6 +7,23 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
+## [1.2.0] — 2026-05-04
+
+### Added
+
+- **Traditional Chinese (Hong Kong)** as a supported language (`zh-HK`).
+  Full coverage: 1,517 dictionary entries + 73 regex patterns, plus
+  the popup chrome and right-click CTA. HK-flavoured Traditional
+  Chinese in 書面語 register (formal written, not 粵語白話文
+  colloquial), with HK-specific lexicon — `儲存` / `設定` / `搜尋` /
+  `匯入` / `匯出` / `受眾` — distinct from both zh-CN (Simplified,
+  Mainland) and zh-TW (Traditional, Taiwan).
+- `glossary.json` now locks 68 terms across 8 languages.
+- New `style/zh-HK.md` per-language addendum documenting register,
+  punctuation, length budgets, and an HK-vs-CN-vs-TW vocabulary table.
+- `_locales/zh_HK/messages.json` for the Web Store listing.
+- 🇭🇰 flag emoji in the language picker.
+
 ## [1.1.5] — 2026-05-01
 
 ### Fixed
@@ -209,7 +226,8 @@ entries + 73 regex patterns**:
   every supported language" rule and (added with this changelog) the
   versioning convention.
 
-[Unreleased]: https://github.com/alatones/os-translate/compare/v1.1.5...HEAD
+[Unreleased]: https://github.com/alatones/os-translate/compare/v1.2.0...HEAD
+[1.2.0]: https://github.com/alatones/os-translate/compare/v1.1.5...v1.2.0
 [1.1.5]: https://github.com/alatones/os-translate/compare/v1.1.4...v1.1.5
 [1.1.4]: https://github.com/alatones/os-translate/compare/v1.0.0...v1.1.4
 [1.0.0]: https://github.com/alatones/os-translate/releases/tag/v1.0.0
