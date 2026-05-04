@@ -8517,7 +8517,8 @@
       "ko": "3. 메시지",
       "fr": "3. Message",
       "tr": "3. Mesaj",
-      "zh-CN": "3. 消息"
+      "zh-CN": "3. 消息",
+      "zh-HK": "3. 訊息"
     },
     "4. Message Goal": {
       "ja": "4. メッセージの目標",
@@ -8526,7 +8527,8 @@
       "ko": "4. 메시지 목표",
       "fr": "4. Objectif du message",
       "tr": "4. Mesaj hedefi",
-      "zh-CN": "4. 消息目标"
+      "zh-CN": "4. 消息目标",
+      "zh-HK": "4. 訊息目標"
     },
     "5. Delivery Schedule": {
       "ja": "5. 配信スケジュール",
@@ -8535,7 +8537,8 @@
       "ko": "5. 전달 일정",
       "fr": "5. Planification d'envoi",
       "tr": "5. Gönderim planı",
-      "zh-CN": "5. 发送计划"
+      "zh-CN": "5. 发送计划",
+      "zh-HK": "5. 發送排程"
     },
     "Additional options": {
       "ja": "追加オプション",
@@ -8544,7 +8547,8 @@
       "ko": "추가 옵션",
       "fr": "Options supplémentaires",
       "tr": "Ek seçenekler",
-      "zh-CN": "更多选项"
+      "zh-CN": "更多选项",
+      "zh-HK": "更多選項"
     },
     "A/B Test": {
       "ja": "A/Bテスト",
@@ -8553,7 +8557,8 @@
       "ko": "A/B 테스트",
       "fr": "Test A/B",
       "tr": "A/B testi",
-      "zh-CN": "A/B 测试"
+      "zh-CN": "A/B 测试",
+      "zh-HK": "A/B 測試"
     },
     "Assign labels": {
       "ja": "ラベルを割り当て",
@@ -8562,7 +8567,8 @@
       "ko": "라벨 지정",
       "fr": "Attribuer des étiquettes",
       "tr": "Etiket ata",
-      "zh-CN": "分配标签"
+      "zh-CN": "分配标签",
+      "zh-HK": "分配標籤"
     },
     "Beta": {
       "ja": "ベータ",
@@ -8571,7 +8577,8 @@
       "ko": "베타",
       "fr": "Bêta",
       "tr": "Beta",
-      "zh-CN": "Beta"
+      "zh-CN": "Beta",
+      "zh-HK": "Beta"
     },
     "Campaign Name or Internal Name": {
       "ja": "キャンペーン名または内部名",
@@ -8580,7 +8587,8 @@
       "ko": "캠페인 이름 또는 내부 이름",
       "fr": "Nom de la campagne ou nom interne",
       "tr": "Kampanya adı veya dahili ad",
-      "zh-CN": "营销活动名称或内部名称"
+      "zh-CN": "营销活动名称或内部名称",
+      "zh-HK": "營銷活動名稱或內部名稱"
     },
     "Custom time per user timezone": {
       "ja": "ユーザーのタイムゾーンに合わせた時間",
@@ -8589,7 +8597,8 @@
       "ko": "사용자 시간대별 사용자 정의 시간",
       "fr": "Heure personnalisée selon le fuseau horaire de l'utilisateur",
       "tr": "Kullanıcı saat dilimine göre özel zaman",
-      "zh-CN": "按用户时区自定义时间"
+      "zh-CN": "按用户时区自定义时间",
+      "zh-HK": "按用戶時區自訂時間"
     },
     "Dynamic Content": {
       "ja": "ダイナミックコンテンツ",
@@ -8598,7 +8607,8 @@
       "ko": "동적 콘텐츠",
       "fr": "Contenu dynamique",
       "tr": "Dinamik içerik",
-      "zh-CN": "动态内容"
+      "zh-CN": "动态内容",
+      "zh-HK": "動態內容"
     },
     "Email preheader text": {
       "ja": "メールのプリヘッダーテキスト",
@@ -8607,7 +8617,8 @@
       "ko": "이메일 프리헤더 텍스트",
       "fr": "Texte du pré-en-tête de l'email",
       "tr": "Email ön başlık metni",
-      "zh-CN": "Email 预览文本"
+      "zh-CN": "Email 预览文本",
+      "zh-HK": "Email 預覽文字"
     },
     "Email subject line": {
       "ja": "メールの件名",
@@ -8616,7 +8627,8 @@
       "ko": "이메일 제목 줄",
       "fr": "Ligne d'objet de l'email",
       "tr": "Email konu satırı",
-      "zh-CN": "Email 主题行"
+      "zh-CN": "Email 主题行",
+      "zh-HK": "Email 主題列"
     },
     "Email users": {
       "ja": "メールユーザー",
@@ -8625,7 +8637,8 @@
       "ko": "이메일 사용자",
       "fr": "Utilisateurs email",
       "tr": "Email kullanıcıları",
-      "zh-CN": "Email 用户"
+      "zh-CN": "Email 用户",
+      "zh-HK": "Email 用戶"
     },
     "Event Filters Documentation": {
       "ja": "イベントフィルター文書",
@@ -8634,7 +8647,8 @@
       "ko": "이벤트 필터 문서",
       "fr": "Documentation des filtres d'événements",
       "tr": "Etkinlik filtreleri dokümantasyonu",
-      "zh-CN": "事件筛选文档"
+      "zh-CN": "事件筛选文档",
+      "zh-HK": "事件篩選文件"
     },
     "Exclude Segment": {
       "ja": "セグメントを除外",
@@ -8643,7 +8657,8 @@
       "ko": "세그먼트 제외",
       "fr": "Exclure le segment",
       "tr": "Segmenti hariç tut",
-      "zh-CN": "排除 Segment"
+      "zh-CN": "排除 Segment",
+      "zh-HK": "排除 Segment"
     },
     "Goal Documentation": {
       "ja": "目標文書",
@@ -8652,7 +8667,8 @@
       "ko": "목표 문서",
       "fr": "Documentation des objectifs",
       "tr": "Hedef dokümantasyonu",
-      "zh-CN": "目标文档"
+      "zh-CN": "目标文档",
+      "zh-HK": "目標文件"
     },
     "Immediately": {
       "ja": "即時",
@@ -8661,7 +8677,8 @@
       "ko": "즉시",
       "fr": "Immédiatement",
       "tr": "Hemen",
-      "zh-CN": "立即"
+      "zh-CN": "立即",
+      "zh-HK": "立即"
     },
     "Include Segment": {
       "ja": "セグメントを含める",
@@ -8670,7 +8687,8 @@
       "ko": "세그먼트 포함",
       "fr": "Inclure le segment",
       "tr": "Segmenti dahil et",
-      "zh-CN": "包含 Segment"
+      "zh-CN": "包含 Segment",
+      "zh-HK": "包含 Segment"
     },
     "Include sending to unsubscribed users": {
       "ja": "購読解除済みユーザーへの送信を含める",
@@ -8679,7 +8697,8 @@
       "ko": "구독 취소한 사용자에게도 발송 포함",
       "fr": "Inclure l'envoi aux utilisateurs désinscrits",
       "tr": "Abonelikten çıkan kullanıcılara göndermeyi dahil et",
-      "zh-CN": "包含向已取消订阅的用户发送"
+      "zh-CN": "包含向已取消订阅的用户发送",
+      "zh-HK": "包含向已取消訂閱的用戶發送"
     },
     "Manage segments here.": {
       "ja": "ここでセグメントを管理。",
@@ -8688,7 +8707,8 @@
       "ko": "여기에서 세그먼트를 관리하세요.",
       "fr": "Gérez les segments ici.",
       "tr": "Segmentleri buradan yönetin.",
-      "zh-CN": "在此管理 Segment。"
+      "zh-CN": "在此管理 Segment。",
+      "zh-HK": "在此管理 Segment。"
     },
     "Message Events and Tags": {
       "ja": "メッセージイベントとタグ",
@@ -8697,7 +8717,8 @@
       "ko": "메시지 이벤트 및 태그",
       "fr": "Événements et tags de message",
       "tr": "Mesaj etkinlikleri ve etiketler",
-      "zh-CN": "消息事件和标签"
+      "zh-CN": "消息事件和标签",
+      "zh-HK": "訊息事件和標籤"
     },
     "Message Name": {
       "ja": "メッセージ名",
@@ -8706,7 +8727,8 @@
       "ko": "메시지 이름",
       "fr": "Nom du message",
       "tr": "Mesaj adı",
-      "zh-CN": "消息名称"
+      "zh-CN": "消息名称",
+      "zh-HK": "訊息名稱"
     },
     "Message will send right away": {
       "ja": "メッセージはすぐに送信されます",
@@ -8715,7 +8737,8 @@
       "ko": "메시지가 즉시 발송됩니다",
       "fr": "Le message sera envoyé immédiatement",
       "tr": "Mesaj hemen gönderilecek",
-      "zh-CN": "消息将立即发送"
+      "zh-CN": "消息将立即发送",
+      "zh-HK": "訊息將立即發送"
     },
     "Preheader Text": {
       "ja": "プリヘッダーテキスト",
@@ -8724,7 +8747,8 @@
       "ko": "프리헤더 텍스트",
       "fr": "Texte du pré-en-tête",
       "tr": "Ön başlık metni",
-      "zh-CN": "预览文本"
+      "zh-CN": "预览文本",
+      "zh-HK": "預覽文字"
     },
     "Preview Mode": {
       "ja": "プレビューモード",
@@ -8733,7 +8757,8 @@
       "ko": "미리보기 모드",
       "fr": "Mode aperçu",
       "tr": "Önizleme modu",
-      "zh-CN": "预览模式"
+      "zh-CN": "预览模式",
+      "zh-HK": "預覽模式"
     },
     "Reply-To Email": {
       "ja": "返信先メール",
@@ -8742,7 +8767,8 @@
       "ko": "회신 이메일",
       "fr": "Email de réponse",
       "tr": "Yanıt emaili",
-      "zh-CN": "回复 Email"
+      "zh-CN": "回复 Email",
+      "zh-HK": "回覆 Email"
     },
     "Review & Send": {
       "ja": "確認して送信",
@@ -8751,7 +8777,8 @@
       "ko": "검토 및 발송",
       "fr": "Vérifier et envoyer",
       "tr": "İncele ve gönder",
-      "zh-CN": "审核并发送"
+      "zh-CN": "审核并发送",
+      "zh-HK": "審核並發送"
     },
     "SMS": {
       "ja": "SMS",
@@ -8760,7 +8787,8 @@
       "ko": "SMS",
       "fr": "SMS",
       "tr": "SMS",
-      "zh-CN": "SMS"
+      "zh-CN": "SMS",
+      "zh-HK": "SMS"
     },
     "Save as Template": {
       "ja": "テンプレートとして保存",
@@ -8769,7 +8797,8 @@
       "ko": "템플릿으로 저장",
       "fr": "Enregistrer comme modèle",
       "tr": "Şablon olarak kaydet",
-      "zh-CN": "保存为模板"
+      "zh-CN": "保存为模板",
+      "zh-HK": "儲存為範本"
     },
     "Search or create labels...": {
       "ja": "ラベルを検索または作成...",
@@ -8778,7 +8807,8 @@
       "ko": "라벨 검색 또는 만들기...",
       "fr": "Rechercher ou créer des étiquettes...",
       "tr": "Etiket ara veya oluştur...",
-      "zh-CN": "搜索或创建标签..."
+      "zh-CN": "搜索或创建标签...",
+      "zh-HK": "搜尋或建立標籤..."
     },
     "Segments that use": {
       "ja": "これを使用するセグメント:",
@@ -8787,7 +8817,8 @@
       "ko": "사용하는 세그먼트",
       "fr": "Segments qui utilisent",
       "tr": "Kullanan segmentler",
-      "zh-CN": "使用的 Segment"
+      "zh-CN": "使用的 Segment",
+      "zh-HK": "使用的 Segment"
     },
     "Segments using": {
       "ja": "これを使用するセグメント",
@@ -8796,7 +8827,8 @@
       "ko": "사용 중인 세그먼트",
       "fr": "Segments utilisant",
       "tr": "Kullanan segmentler",
-      "zh-CN": "使用 Segment"
+      "zh-CN": "使用 Segment",
+      "zh-HK": "使用 Segment"
     },
     "Select Segment": {
       "ja": "セグメントを選択",
@@ -8805,7 +8837,8 @@
       "ko": "세그먼트 선택",
       "fr": "Sélectionner un segment",
       "tr": "Segment seç",
-      "zh-CN": "选择 Segment"
+      "zh-CN": "选择 Segment",
+      "zh-HK": "選擇 Segment"
     },
     "Send With Auto Warm Up": {
       "ja": "自動ウォームアップで送信",
@@ -8814,7 +8847,8 @@
       "ko": "자동 워밍업으로 발송",
       "fr": "Envoyer avec préchauffe automatique",
       "tr": "Otomatik ısıtmayla gönder",
-      "zh-CN": "使用自动预热发送"
+      "zh-CN": "使用自动预热发送",
+      "zh-HK": "使用自動預熱發送"
     },
     "Send to everyone at the same time": {
       "ja": "全員に同時に送信",
@@ -8823,7 +8857,8 @@
       "ko": "모두에게 동시에 발송",
       "fr": "Envoyer à tout le monde en même temps",
       "tr": "Herkese aynı anda gönder",
-      "zh-CN": "同时发送给所有人"
+      "zh-CN": "同时发送给所有人",
+      "zh-HK": "同時發送給所有人"
     },
     "Set a Message Goal": {
       "ja": "メッセージの目標を設定",
@@ -8832,7 +8867,8 @@
       "ko": "메시지 목표 설정",
       "fr": "Définir un objectif de message",
       "tr": "Mesaj hedefi belirleyin",
-      "zh-CN": "设置消息目标"
+      "zh-CN": "设置消息目标",
+      "zh-HK": "設定訊息目標"
     },
     "Set a target metric to measure this message's success.": {
       "ja": "このメッセージの成功を測定する目標指標を設定。",
@@ -8841,7 +8877,8 @@
       "ko": "이 메시지의 성공을 측정할 목표 지표를 설정하세요.",
       "fr": "Définissez une métrique cible pour mesurer le succès de ce message.",
       "tr": "Bu mesajın başarısını ölçmek için bir hedef metrik belirleyin.",
-      "zh-CN": "设置目标指标来衡量此消息的成效。"
+      "zh-CN": "设置目标指标来衡量此消息的成效。",
+      "zh-HK": "設定目標指標來衡量此訊息的成效。"
     },
     "Specific Time": {
       "ja": "特定の時刻",
@@ -8850,7 +8887,8 @@
       "ko": "특정 시간",
       "fr": "Heure spécifique",
       "tr": "Belirli zaman",
-      "zh-CN": "特定时间"
+      "zh-CN": "特定时间",
+      "zh-HK": "特定時間"
     },
     "Subject": {
       "ja": "件名",
@@ -8859,7 +8897,8 @@
       "ko": "제목",
       "fr": "Objet",
       "tr": "Konu",
-      "zh-CN": "主题"
+      "zh-CN": "主题",
+      "zh-HK": "主題"
     },
     "Total Users": {
       "ja": "全ユーザー",
@@ -8868,7 +8907,8 @@
       "ko": "총 사용자",
       "fr": "Total des utilisateurs",
       "tr": "Toplam kullanıcı",
-      "zh-CN": "用户总数"
+      "zh-CN": "用户总数",
+      "zh-HK": "用戶總數"
     },
     "Track link clicks": {
       "ja": "リンククリックを追跡",
@@ -8877,7 +8917,8 @@
       "ko": "링크 클릭 추적",
       "fr": "Suivre les clics sur les liens",
       "tr": "Bağlantı tıklamalarını izle",
-      "zh-CN": "追踪链接点击"
+      "zh-CN": "追踪链接点击",
+      "zh-HK": "追蹤連結點擊"
     },
     "Web push Subscriptions": {
       "ja": "Webプッシュ購読",
@@ -8886,7 +8927,8 @@
       "ko": "웹 푸시 구독",
       "fr": "Abonnements push web",
       "tr": "Web push abonelikleri",
-      "zh-CN": "Web Push 订阅"
+      "zh-CN": "Web Push 订阅",
+      "zh-HK": "Web Push 訂閱"
     },
     "When should this message start sending?": {
       "ja": "このメッセージはいつ送信を開始しますか？",
@@ -8895,7 +8937,8 @@
       "ko": "이 메시지를 언제 발송 시작해야 하나요?",
       "fr": "Quand ce message doit-il commencer à être envoyé ?",
       "tr": "Bu mesaj ne zaman gönderilmeye başlanmalı?",
-      "zh-CN": "此消息何时开始发送？"
+      "zh-CN": "此消息何时开始发送？",
+      "zh-HK": "此訊息何時開始發送？"
     },
     "When should users receive this message?": {
       "ja": "ユーザーはいつこのメッセージを受信しますか？",
@@ -8904,7 +8947,8 @@
       "ko": "사용자가 언제 이 메시지를 받아야 하나요?",
       "fr": "Quand les utilisateurs doivent-ils recevoir ce message ?",
       "tr": "Kullanıcılar bu mesajı ne zaman almalı?",
-      "zh-CN": "用户何时应该收到此消息？"
+      "zh-CN": "用户何时应该收到此消息？",
+      "zh-HK": "用戶何時應該收到此訊息？"
     },
     "You also have": {
       "ja": "次もあります:",
@@ -8913,7 +8957,8 @@
       "ko": "또한 다음도 있습니다",
       "fr": "Vous avez également",
       "tr": "Ayrıca şunlara sahipsiniz:",
-      "zh-CN": "您还有"
+      "zh-CN": "您还有",
+      "zh-HK": "您還有"
     },
     "and cannot be included or excluded alongside other segments.": {
       "ja": "、他のセグメントと一緒に含めたり除外したりすることはできません。",
@@ -8922,7 +8967,8 @@
       "ko": "다른 세그먼트와 함께 포함하거나 제외할 수 없습니다.",
       "fr": "et ne peut pas être inclus ni exclu avec d'autres segments.",
       "tr": "ve diğer segmentlerle birlikte dahil edilemez veya hariç tutulamaz.",
-      "zh-CN": "无法与其他 Segment 一起包含或排除。"
+      "zh-CN": "无法与其他 Segment 一起包含或排除。",
+      "zh-HK": "無法與其他 Segment 一起包含或排除。"
     },
     "and cannot be used in the exclusion list.": {
       "ja": "、除外リストには使用できません。",
@@ -8931,7 +8977,8 @@
       "ko": "제외 목록에서 사용할 수 없습니다.",
       "fr": "et ne peut pas être utilisé dans la liste d'exclusion.",
       "tr": "ve hariç tutma listesinde kullanılamaz.",
-      "zh-CN": "且无法在排除列表中使用。"
+      "zh-CN": "且无法在排除列表中使用。",
+      "zh-HK": "且無法在排除列表中使用。"
     },
     "are in early-access,": {
       "ja": "は早期アクセス中、",
@@ -8940,7 +8987,8 @@
       "ko": "얼리 액세스 중,",
       "fr": "sont en accès anticipé,",
       "tr": "erken erişimdedir,",
-      "zh-CN": "处于抢先体验阶段，"
+      "zh-CN": "处于抢先体验阶段，",
+      "zh-HK": "處於搶先體驗階段，"
     },
     "are user-based": {
       "ja": "はユーザーベース",
@@ -8949,7 +8997,8 @@
       "ko": "사용자 기반",
       "fr": "sont basés sur l'utilisateur",
       "tr": "kullanıcı tabanlıdır",
-      "zh-CN": "基于用户"
+      "zh-CN": "基于用户",
+      "zh-HK": "基於用戶"
     },
     "message events": {
       "ja": "メッセージイベント",
@@ -8958,7 +9007,8 @@
       "ko": "메시지 이벤트",
       "fr": "événements de message",
       "tr": "mesaj etkinlikleri",
-      "zh-CN": "消息事件"
+      "zh-CN": "消息事件",
+      "zh-HK": "訊息事件"
     },
     "paused or processing segments.": {
       "ja": "一時停止中または処理中のセグメント。",
