@@ -9017,7 +9017,8 @@
       "ko": "일시 중지 또는 처리 중인 세그먼트.",
       "fr": "segments en pause ou en cours de traitement.",
       "tr": "duraklatılmış veya işlenmekte olan segmentler.",
-      "zh-CN": "已暂停或处理中的 Segment。"
+      "zh-CN": "已暂停或处理中的 Segment。",
+      "zh-HK": "已暫停或處理中的 Segment。"
     },
     "should": {
       "ja": "次の場合",
@@ -9026,7 +9027,8 @@
       "ko": "해야 함",
       "fr": "doit",
       "tr": "olmalı",
-      "zh-CN": "应该"
+      "zh-CN": "应该",
+      "zh-HK": "應該"
     },
     "should not": {
       "ja": "次でない場合",
@@ -9035,7 +9037,8 @@
       "ko": "하지 않아야 함",
       "fr": "ne doit pas",
       "tr": "olmamalı",
-      "zh-CN": "不应该"
+      "zh-CN": "不应该",
+      "zh-HK": "不應該"
     },
     "Expand navigation": {
       "ja": "ナビゲーションを展開",
@@ -9044,7 +9047,8 @@
       "ko": "탐색 확장",
       "fr": "Développer la navigation",
       "tr": "Gezinmeyi genişlet",
-      "zh-CN": "展开导航"
+      "zh-CN": "展开导航",
+      "zh-HK": "展開導覽"
     },
     "Messages sent through our API or WordPress Plugin can be found in": {
       "ja": "APIまたはWordPressプラグインを通じて送信されたメッセージは次で確認できます:",
@@ -9053,7 +9057,8 @@
       "ko": "API 또는 WordPress 플러그인을 통해 발송된 메시지는 다음에서 확인할 수 있습니다",
       "fr": "Les messages envoyés via notre API ou le plugin WordPress se trouvent dans",
       "tr": "API'miz veya WordPress eklentisi aracılığıyla gönderilen mesajlar şurada bulunabilir:",
-      "zh-CN": "通过我们的 API 或 WordPress 插件发送的消息可在以下位置找到:"
+      "zh-CN": "通过我们的 API 或 WordPress 插件发送的消息可在以下位置找到:",
+      "zh-HK": "透過我們的 API 或 WordPress 外掛發送的訊息可在以下位置找到："
     },
     "Messages sent through our API can be found in": {
       "ja": "APIを通じて送信されたメッセージは次で確認できます:",
@@ -9062,7 +9067,8 @@
       "ko": "API를 통해 발송된 메시지는 다음에서 확인할 수 있습니다",
       "fr": "Les messages envoyés via notre API se trouvent dans",
       "tr": "API'miz aracılığıyla gönderilen mesajlar şurada bulunabilir:",
-      "zh-CN": "通过我们的 API 发送的消息可在以下位置找到:"
+      "zh-CN": "通过我们的 API 发送的消息可在以下位置找到:",
+      "zh-HK": "透過我們的 API 發送的訊息可在以下位置找到："
     },
     "Save & Exit": {
       "ja": "保存して終了",
@@ -9071,7 +9077,8 @@
       "ko": "저장 후 종료",
       "fr": "Enregistrer et quitter",
       "tr": "Kaydet ve çık",
-      "zh-CN": "保存并退出"
+      "zh-CN": "保存并退出",
+      "zh-HK": "儲存並退出"
     },
     "Block editor": {
       "ja": "ブロックエディター",
@@ -9080,7 +9087,8 @@
       "ko": "블록 편집기",
       "fr": "Éditeur par blocs",
       "tr": "Blok düzenleyici",
-      "zh-CN": "块编辑器"
+      "zh-CN": "块编辑器",
+      "zh-HK": "區塊編輯器"
     },
     "Fold line": {
       "ja": "行を折りたたむ",
@@ -9089,7 +9097,8 @@
       "ko": "줄 접기",
       "fr": "Replier la ligne",
       "tr": "Satırı katla",
-      "zh-CN": "折叠行"
+      "zh-CN": "折叠行",
+      "zh-HK": "摺疊列"
     },
     "Advanced options": {
       "ja": "詳細オプション",
@@ -9098,7 +9107,8 @@
       "ko": "고급 옵션",
       "fr": "Options avancées",
       "tr": "Gelişmiş seçenekler",
-      "zh-CN": "高级选项"
+      "zh-CN": "高级选项",
+      "zh-HK": "進階選項"
     },
     "Add click action": {
       "ja": "クリックアクションを追加",
@@ -9107,7 +9117,8 @@
       "ko": "클릭 액션 추가",
       "fr": "Ajouter une action de clic",
       "tr": "Tıklama eylemi ekle",
-      "zh-CN": "添加点击操作"
+      "zh-CN": "添加点击操作",
+      "zh-HK": "新增點擊操作"
     },
     "Margin bottom": {
       "ja": "下のマージン",
@@ -9116,7 +9127,8 @@
       "ko": "아래쪽 여백",
       "fr": "Marge inférieure",
       "tr": "Alt kenar boşluğu",
-      "zh-CN": "下边距"
+      "zh-CN": "下边距",
+      "zh-HK": "下邊距"
     },
     "Margin left": {
       "ja": "左のマージン",
@@ -9125,7 +9137,8 @@
       "ko": "왼쪽 여백",
       "fr": "Marge gauche",
       "tr": "Sol kenar boşluğu",
-      "zh-CN": "左边距"
+      "zh-CN": "左边距",
+      "zh-HK": "左邊距"
     },
     "Margin right": {
       "ja": "右のマージン",
@@ -9134,7 +9147,8 @@
       "ko": "오른쪽 여백",
       "fr": "Marge droite",
       "tr": "Sağ kenar boşluğu",
-      "zh-CN": "右边距"
+      "zh-CN": "右边距",
+      "zh-HK": "右邊距"
     },
     "Margin top": {
       "ja": "上のマージン",
@@ -9143,7 +9157,8 @@
       "ko": "위쪽 여백",
       "fr": "Marge supérieure",
       "tr": "Üst kenar boşluğu",
-      "zh-CN": "上边距"
+      "zh-CN": "上边距",
+      "zh-HK": "上邊距"
     },
     "Text alignment": {
       "ja": "テキストの配置",
@@ -9152,7 +9167,8 @@
       "ko": "텍스트 정렬",
       "fr": "Alignement du texte",
       "tr": "Metin hizalaması",
-      "zh-CN": "文本对齐"
+      "zh-CN": "文本对齐",
+      "zh-HK": "文字對齊"
     },
     "Dismiss on click": {
       "ja": "クリックで閉じる",
@@ -9161,7 +9177,8 @@
       "ko": "클릭 시 닫기",
       "fr": "Ignorer au clic",
       "tr": "Tıklayınca kapat",
-      "zh-CN": "点击关闭"
+      "zh-CN": "点击关闭",
+      "zh-HK": "點擊關閉"
     },
     "Image upload input": {
       "ja": "画像アップロード入力",
@@ -9170,7 +9187,8 @@
       "ko": "이미지 업로드 입력",
       "fr": "Entrée de téléversement d'image",
       "tr": "Görsel yükleme girişi",
-      "zh-CN": "图像上传输入"
+      "zh-CN": "图像上传输入",
+      "zh-HK": "圖像上傳輸入"
     },
     "Select image": {
       "ja": "画像を選択",
@@ -9179,7 +9197,8 @@
       "ko": "이미지 선택",
       "fr": "Sélectionner une image",
       "tr": "Görsel seç",
-      "zh-CN": "选择图像"
+      "zh-CN": "选择图像",
+      "zh-HK": "選擇圖像"
     },
     "or paste local path or URL": {
       "ja": "またはローカルパスやURLを貼り付け",
@@ -9188,7 +9207,8 @@
       "ko": "또는 로컬 경로나 URL 붙여넣기",
       "fr": "ou collez un chemin local ou une URL",
       "tr": "veya yerel yolu ya da URL'yi yapıştırın",
-      "zh-CN": "或粘贴本地路径或 URL"
+      "zh-CN": "或粘贴本地路径或 URL",
+      "zh-HK": "或貼上本地路徑或 URL"
     },
     "Center aligned": {
       "ja": "中央揃え",
@@ -9197,7 +9217,8 @@
       "ko": "가운데 정렬",
       "fr": "Aligné au centre",
       "tr": "Ortalanmış",
-      "zh-CN": "居中对齐"
+      "zh-CN": "居中对齐",
+      "zh-HK": "置中對齊"
     },
     "Font family": {
       "ja": "フォントファミリー",
@@ -9206,7 +9227,8 @@
       "ko": "글꼴 종류",
       "fr": "Famille de police",
       "tr": "Yazı tipi ailesi",
-      "zh-CN": "字体"
+      "zh-CN": "字体",
+      "zh-HK": "字體"
     },
     "Font size": {
       "ja": "フォントサイズ",
@@ -9215,7 +9237,8 @@
       "ko": "글꼴 크기",
       "fr": "Taille de la police",
       "tr": "Yazı tipi boyutu",
-      "zh-CN": "字号"
+      "zh-CN": "字号",
+      "zh-HK": "字級"
     },
     "Format": {
       "ja": "フォーマット",
@@ -9224,7 +9247,8 @@
       "ko": "서식",
       "fr": "Format",
       "tr": "Format",
-      "zh-CN": "格式"
+      "zh-CN": "格式",
+      "zh-HK": "格式"
     },
     "Left aligned": {
       "ja": "左揃え",
@@ -9233,7 +9257,8 @@
       "ko": "왼쪽 정렬",
       "fr": "Aligné à gauche",
       "tr": "Sola hizalanmış",
-      "zh-CN": "左对齐"
+      "zh-CN": "左对齐",
+      "zh-HK": "靠左對齊"
     },
     "Right aligned": {
       "ja": "右揃え",
@@ -9242,7 +9267,8 @@
       "ko": "오른쪽 정렬",
       "fr": "Aligné à droite",
       "tr": "Sağa hizalanmış",
-      "zh-CN": "右对齐"
+      "zh-CN": "右对齐",
+      "zh-HK": "靠右對齊"
     },
     "Specific time": {
       "ja": "特定の時刻",
@@ -9251,7 +9277,8 @@
       "ko": "특정 시간",
       "fr": "Heure spécifique",
       "tr": "Belirli zaman",
-      "zh-CN": "特定时间"
+      "zh-CN": "特定时间",
+      "zh-HK": "特定時間"
     },
     "System Font (Default)": {
       "ja": "システムフォント (デフォルト)",
@@ -9260,7 +9287,8 @@
       "ko": "시스템 글꼴 (기본)",
       "fr": "Police système (par défaut)",
       "tr": "Sistem yazı tipi (varsayılan)",
-      "zh-CN": "系统字体（默认）"
+      "zh-CN": "系统字体（默认）",
+      "zh-HK": "系統字體（預設）"
     },
     "Text formatting": {
       "ja": "テキスト書式",
@@ -9269,7 +9297,8 @@
       "ko": "텍스트 서식",
       "fr": "Formatage du texte",
       "tr": "Metin biçimlendirme",
-      "zh-CN": "文本格式"
+      "zh-CN": "文本格式",
+      "zh-HK": "文字格式"
     },
     "Toggle bold": {
       "ja": "太字を切り替え",
@@ -9278,7 +9307,8 @@
       "ko": "굵게 전환",
       "fr": "Basculer en gras",
       "tr": "Kalını aç/kapat",
-      "zh-CN": "切换粗体"
+      "zh-CN": "切换粗体",
+      "zh-HK": "切換粗體"
     },
     "Toggle italic": {
       "ja": "斜体を切り替え",
@@ -9287,7 +9317,8 @@
       "ko": "기울임 전환",
       "fr": "Basculer en italique",
       "tr": "İtaliği aç/kapat",
-      "zh-CN": "切换斜体"
+      "zh-CN": "切换斜体",
+      "zh-HK": "切換斜體"
     },
     "Toggle underline": {
       "ja": "下線を切り替え",
@@ -9296,7 +9327,8 @@
       "ko": "밑줄 전환",
       "fr": "Basculer le soulignement",
       "tr": "Altı çizgiyi aç/kapat",
-      "zh-CN": "切换下划线"
+      "zh-CN": "切换下划线",
+      "zh-HK": "切換底線"
     },
     "Unfold line": {
       "ja": "行を展開",
@@ -9305,7 +9337,8 @@
       "ko": "줄 펼치기",
       "fr": "Déplier la ligne",
       "tr": "Satırı aç",
-      "zh-CN": "展开行"
+      "zh-CN": "展开行",
+      "zh-HK": "展開列"
     },
     "Clear input": {
       "ja": "入力をクリア",
@@ -9314,7 +9347,8 @@
       "ko": "입력 지우기",
       "fr": "Effacer l'entrée",
       "tr": "Girişi temizle",
-      "zh-CN": "清除输入"
+      "zh-CN": "清除输入",
+      "zh-HK": "清除輸入"
     },
     "Onesignal in app message preview": {
       "ja": "OneSignalインアプリメッセージのプレビュー",
@@ -9323,7 +9357,8 @@
       "ko": "OneSignal 인앱 메시지 미리보기",
       "fr": "Aperçu du message in-app OneSignal",
       "tr": "OneSignal in-app mesaj önizlemesi",
-      "zh-CN": "OneSignal 应用内消息预览"
+      "zh-CN": "OneSignal 应用内消息预览",
+      "zh-HK": "OneSignal 應用內訊息預覽"
     },
     "4. Triggers": {
       "ja": "4. トリガー",
@@ -9332,7 +9367,8 @@
       "ko": "4. 트리거",
       "fr": "4. Déclencheurs",
       "tr": "4. Tetikleyiciler",
-      "zh-CN": "4. 触发器"
+      "zh-CN": "4. 触发器",
+      "zh-HK": "4. 觸發器"
     },
     "5. Schedule": {
       "ja": "5. スケジュール",
@@ -9341,7 +9377,8 @@
       "ko": "5. 일정",
       "fr": "5. Planification",
       "tr": "5. Planlama",
-      "zh-CN": "5. 计划"
+      "zh-CN": "5. 计划",
+      "zh-HK": "5. 排程"
     },
     "Alternate close icon": {
       "ja": "代替の閉じるアイコン",
@@ -9350,7 +9387,8 @@
       "ko": "대체 닫기 아이콘",
       "fr": "Icône de fermeture alternative",
       "tr": "Alternatif kapat simgesi",
-      "zh-CN": "备用关闭图标"
+      "zh-CN": "备用关闭图标",
+      "zh-HK": "備用關閉圖示"
     },
     "Background": {
       "ja": "背景",
@@ -9359,7 +9397,8 @@
       "ko": "배경",
       "fr": "Arrière-plan",
       "tr": "Arka plan",
-      "zh-CN": "背景"
+      "zh-CN": "背景",
+      "zh-HK": "背景"
     },
     "Background color": {
       "ja": "背景色",
@@ -9368,7 +9407,8 @@
       "ko": "배경색",
       "fr": "Couleur d'arrière-plan",
       "tr": "Arka plan rengi",
-      "zh-CN": "背景颜色"
+      "zh-CN": "背景颜色",
+      "zh-HK": "背景顏色"
     },
     "Background image": {
       "ja": "背景画像",
@@ -9377,7 +9417,8 @@
       "ko": "배경 이미지",
       "fr": "Image d'arrière-plan",
       "tr": "Arka plan görseli",
-      "zh-CN": "背景图像"
+      "zh-CN": "背景图像",
+      "zh-HK": "背景圖像"
     },
     "Border color": {
       "ja": "ボーダーの色",
@@ -9386,7 +9427,8 @@
       "ko": "테두리 색상",
       "fr": "Couleur de la bordure",
       "tr": "Kenarlık rengi",
-      "zh-CN": "边框颜色"
+      "zh-CN": "边框颜色",
+      "zh-HK": "邊框顏色"
     },
     "Border weight": {
       "ja": "ボーダーの太さ",
@@ -9395,7 +9437,8 @@
       "ko": "테두리 두께",
       "fr": "Épaisseur de la bordure",
       "tr": "Kenarlık kalınlığı",
-      "zh-CN": "边框粗细"
+      "zh-CN": "边框粗细",
+      "zh-HK": "邊框粗細"
     },
     "Button 1": {
       "ja": "ボタン1",
@@ -9404,7 +9447,8 @@
       "ko": "버튼 1",
       "fr": "Bouton 1",
       "tr": "Düğme 1",
-      "zh-CN": "按钮 1"
+      "zh-CN": "按钮 1",
+      "zh-HK": "按鈕 1"
     },
     "Button background": {
       "ja": "ボタンの背景",
@@ -9413,7 +9457,8 @@
       "ko": "버튼 배경",
       "fr": "Arrière-plan du bouton",
       "tr": "Düğme arka planı",
-      "zh-CN": "按钮背景"
+      "zh-CN": "按钮背景",
+      "zh-HK": "按鈕背景"
     },
     "Button text": {
       "ja": "ボタンのテキスト",
@@ -9422,7 +9467,8 @@
       "ko": "버튼 텍스트",
       "fr": "Texte du bouton",
       "tr": "Düğme metni",
-      "zh-CN": "按钮文本"
+      "zh-CN": "按钮文本",
+      "zh-HK": "按鈕文字"
     },
     "Click Here": {
       "ja": "ここをクリック",
@@ -9431,7 +9477,8 @@
       "ko": "여기를 클릭",
       "fr": "Cliquez ici",
       "tr": "Buraya tıklayın",
-      "zh-CN": "点击此处"
+      "zh-CN": "点击此处",
+      "zh-HK": "點擊此處"
     },
     "Close button": {
       "ja": "閉じるボタン",
@@ -9440,7 +9487,8 @@
       "ko": "닫기 버튼",
       "fr": "Bouton de fermeture",
       "tr": "Kapat düğmesi",
-      "zh-CN": "关闭按钮"
+      "zh-CN": "关闭按钮",
+      "zh-HK": "關閉按鈕"
     },
     "Color": {
       "ja": "色",
@@ -9449,7 +9497,8 @@
       "ko": "색상",
       "fr": "Couleur",
       "tr": "Renk",
-      "zh-CN": "颜色"
+      "zh-CN": "颜色",
+      "zh-HK": "顏色"
     },
     "Corner radius": {
       "ja": "角の丸み",
@@ -9458,7 +9507,8 @@
       "ko": "모서리 반경",
       "fr": "Rayon des coins",
       "tr": "Köşe yarıçapı",
-      "zh-CN": "圆角半径"
+      "zh-CN": "圆角半径",
+      "zh-HK": "圓角半徑"
     },
     "Dismiss after certain amount of time": {
       "ja": "一定時間後に閉じる",
