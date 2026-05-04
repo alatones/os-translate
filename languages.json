@@ -8017,7 +8017,8 @@
       "ko": "계정 관리",
       "fr": "Gérer le compte",
       "tr": "Hesabı yönet",
-      "zh-CN": "管理账户"
+      "zh-CN": "管理账户",
+      "zh-HK": "管理帳戶"
     },
     "Search for an app": {
       "ja": "アプリを検索",
@@ -8026,7 +8027,8 @@
       "ko": "앱 검색",
       "fr": "Rechercher une app",
       "tr": "Uygulama ara",
-      "zh-CN": "搜索应用"
+      "zh-CN": "搜索应用",
+      "zh-HK": "搜尋應用"
     },
     "Search for app": {
       "ja": "アプリを検索",
@@ -8035,7 +8037,8 @@
       "ko": "앱 검색",
       "fr": "Rechercher une app",
       "tr": "Uygulama ara",
-      "zh-CN": "搜索应用"
+      "zh-CN": "搜索应用",
+      "zh-HK": "搜尋應用"
     },
     "Select Organization": {
       "ja": "組織を選択",
@@ -8044,7 +8047,8 @@
       "ko": "조직 선택",
       "fr": "Sélectionner l'organisation",
       "tr": "Organizasyon seç",
-      "zh-CN": "选择组织"
+      "zh-CN": "选择组织",
+      "zh-HK": "選擇組織"
     },
     "Remove Media": {
       "ja": "メディアを削除",
@@ -8053,7 +8057,8 @@
       "ko": "미디어 제거",
       "fr": "Retirer le média",
       "tr": "Medyayı kaldır",
-      "zh-CN": "移除媒体"
+      "zh-CN": "移除媒体",
+      "zh-HK": "移除媒體"
     },
     "TAKE A TOUR": {
       "ja": "ツアーを開始",
@@ -8062,7 +8067,8 @@
       "ko": "둘러보기",
       "fr": "FAIRE LA VISITE",
       "tr": "TURA BAŞLA",
-      "zh-CN": "开始导览"
+      "zh-CN": "开始导览",
+      "zh-HK": "開始導覽"
     },
     "Tooltip anchor": {
       "ja": "ツールチップのアンカー",
@@ -8071,7 +8077,8 @@
       "ko": "툴팁 앵커",
       "fr": "Ancre d'info-bulle",
       "tr": "İpucu bağlantısı",
-      "zh-CN": "提示锚点"
+      "zh-CN": "提示锚点",
+      "zh-HK": "提示錨點"
     },
     "Custom Events let you track and respond to user activity in your app or website.": {
       "ja": "カスタムイベントを使うとアプリやウェブサイトでのユーザー活動を追跡して反応できます。",
@@ -8080,7 +8087,8 @@
       "ko": "사용자 정의 이벤트를 통해 앱 또는 웹사이트의 사용자 활동을 추적하고 응답할 수 있습니다.",
       "fr": "Les événements personnalisés vous permettent de suivre l'activité des utilisateurs dans votre app ou site web et d'y répondre.",
       "tr": "Özel etkinlikler, uygulamanızdaki veya web sitenizdeki kullanıcı etkinliğini izlemenizi ve yanıtlamanızı sağlar.",
-      "zh-CN": "自定义事件让您追踪并响应应用或网站中的用户活动。"
+      "zh-CN": "自定义事件让您追踪并响应应用或网站中的用户活动。",
+      "zh-HK": "自訂事件讓您追蹤並回應應用或網站中的用戶活動。"
     },
     "Last updated": {
       "ja": "最終更新",
@@ -8089,7 +8097,8 @@
       "ko": "마지막 업데이트",
       "fr": "Dernière mise à jour",
       "tr": "Son güncelleme",
-      "zh-CN": "最近更新"
+      "zh-CN": "最近更新",
+      "zh-HK": "最近更新"
     },
     "Track all message events": {
       "ja": "すべてのメッセージイベントを追跡",
@@ -8098,7 +8107,8 @@
       "ko": "모든 메시지 이벤트 추적",
       "fr": "Suivre tous les événements de message",
       "tr": "Tüm mesaj etkinliklerini izleyin",
-      "zh-CN": "追踪所有消息事件"
+      "zh-CN": "追踪所有消息事件",
+      "zh-HK": "追蹤所有訊息事件"
     },
     "Failed Permanently": {
       "ja": "完全に失敗",
@@ -8107,7 +8117,8 @@
       "ko": "영구 실패",
       "fr": "Échec permanent",
       "tr": "Kalıcı olarak başarısız",
-      "zh-CN": "永久失败"
+      "zh-CN": "永久失败",
+      "zh-HK": "永久失敗"
     },
     "Successful": {
       "ja": "成功",
@@ -8116,7 +8127,8 @@
       "ko": "성공",
       "fr": "Réussi",
       "tr": "Başarılı",
-      "zh-CN": "成功"
+      "zh-CN": "成功",
+      "zh-HK": "成功"
     },
     "4xx Responses": {
       "ja": "4xx応答",
@@ -8125,7 +8137,8 @@
       "ko": "4xx 응답",
       "fr": "Réponses 4xx",
       "tr": "4xx yanıtları",
-      "zh-CN": "4xx 响应"
+      "zh-CN": "4xx 响应",
+      "zh-HK": "4xx 回應"
     },
     "5xx Responses": {
       "ja": "5xx応答",
@@ -8134,7 +8147,8 @@
       "ko": "5xx 응답",
       "fr": "Réponses 5xx",
       "tr": "5xx yanıtları",
-      "zh-CN": "5xx 响应"
+      "zh-CN": "5xx 响应",
+      "zh-HK": "5xx 回應"
     },
     "Add stat": {
       "ja": "統計を追加",
@@ -8143,7 +8157,8 @@
       "ko": "통계 추가",
       "fr": "Ajouter une statistique",
       "tr": "İstatistik ekle",
-      "zh-CN": "添加统计"
+      "zh-CN": "添加统计",
+      "zh-HK": "新增統計"
     },
     "Delivery Statistics for All Time": {
       "ja": "全期間の配信統計",
@@ -8152,7 +8167,8 @@
       "ko": "전체 기간의 전달 통계",
       "fr": "Statistiques de livraison depuis le début",
       "tr": "Tüm zamanların teslim istatistikleri",
-      "zh-CN": "所有时间的送达统计"
+      "zh-CN": "所有时间的送达统计",
+      "zh-HK": "所有時間的送達統計"
     },
     "Errors": {
       "ja": "エラー",
@@ -8161,7 +8177,8 @@
       "ko": "오류",
       "fr": "Erreurs",
       "tr": "Hatalar",
-      "zh-CN": "错误"
+      "zh-CN": "错误",
+      "zh-HK": "錯誤"
     },
     "Events": {
       "ja": "イベント",
@@ -8170,7 +8187,8 @@
       "ko": "이벤트",
       "fr": "Événements",
       "tr": "Etkinlikler",
-      "zh-CN": "事件"
+      "zh-CN": "事件",
+      "zh-HK": "事件"
     },
     "Logs": {
       "ja": "ログ",
@@ -8179,7 +8197,8 @@
       "ko": "로그",
       "fr": "Journaux",
       "tr": "Günlükler",
-      "zh-CN": "日志"
+      "zh-CN": "日志",
+      "zh-HK": "日誌"
     },
     "Method": {
       "ja": "メソッド",
@@ -8188,7 +8207,8 @@
       "ko": "메서드",
       "fr": "Méthode",
       "tr": "Yöntem",
-      "zh-CN": "方法"
+      "zh-CN": "方法",
+      "zh-HK": "方法"
     },
     "Permanent Failure": {
       "ja": "永続的な失敗",
@@ -8197,7 +8217,8 @@
       "ko": "영구 실패",
       "fr": "Échec permanent",
       "tr": "Kalıcı başarısızlık",
-      "zh-CN": "永久失败"
+      "zh-CN": "永久失败",
+      "zh-HK": "永久失敗"
     },
     "Remove Permanent Failure filter": {
       "ja": "永続的な失敗フィルターを削除",
@@ -8206,7 +8227,8 @@
       "ko": "영구 실패 필터 제거",
       "fr": "Retirer le filtre Échec permanent",
       "tr": "Kalıcı başarısızlık filtresini kaldır",
-      "zh-CN": "移除永久失败筛选"
+      "zh-CN": "移除永久失败筛选",
+      "zh-HK": "移除永久失敗篩選"
     },
     "Remove Sent filter": {
       "ja": "送信済みフィルターを削除",
@@ -8215,7 +8237,8 @@
       "ko": "발송 필터 제거",
       "fr": "Retirer le filtre Envoyés",
       "tr": "Gönderildi filtresini kaldır",
-      "zh-CN": "移除已发送筛选"
+      "zh-CN": "移除已发送筛选",
+      "zh-HK": "移除已發送篩選"
     },
     "Remove Success filter": {
       "ja": "成功フィルターを削除",
@@ -8224,7 +8247,8 @@
       "ko": "성공 필터 제거",
       "fr": "Retirer le filtre Succès",
       "tr": "Başarılı filtresini kaldır",
-      "zh-CN": "移除成功筛选"
+      "zh-CN": "移除成功筛选",
+      "zh-HK": "移除成功篩選"
     },
     "Timeouts": {
       "ja": "タイムアウト",
@@ -8233,7 +8257,8 @@
       "ko": "타임아웃",
       "fr": "Délais expirés",
       "tr": "Zaman aşımları",
-      "zh-CN": "超时"
+      "zh-CN": "超时",
+      "zh-HK": "逾時"
     },
     "AI-generated Push": {
       "ja": "AI生成プッシュ",
@@ -8242,7 +8267,8 @@
       "ko": "AI 생성 푸시",
       "fr": "Push généré par IA",
       "tr": "Yapay zeka tarafından oluşturulan push",
-      "zh-CN": "AI 生成的 Push"
+      "zh-CN": "AI 生成的 Push",
+      "zh-HK": "AI 生成的 Push"
     },
     "Blank Push": {
       "ja": "空のプッシュ",
@@ -8251,7 +8277,8 @@
       "ko": "빈 푸시",
       "fr": "Push vierge",
       "tr": "Boş push",
-      "zh-CN": "空白 Push"
+      "zh-CN": "空白 Push",
+      "zh-HK": "空白 Push"
     },
     "Custom Events Ingestion": {
       "ja": "カスタムイベント取り込み",
@@ -8260,7 +8287,8 @@
       "ko": "사용자 정의 이벤트 수집",
       "fr": "Ingestion d'événements personnalisés",
       "tr": "Özel etkinlik alımı",
-      "zh-CN": "自定义事件接入"
+      "zh-CN": "自定义事件接入",
+      "zh-HK": "自訂事件接入"
     },
     "Drawer": {
       "ja": "ドロワー",
@@ -8269,7 +8297,8 @@
       "ko": "드로어",
       "fr": "Panneau latéral",
       "tr": "Yan panel",
-      "zh-CN": "侧边栏"
+      "zh-CN": "侧边栏",
+      "zh-HK": "側邊欄"
     },
     "Line chart depicting analytics": {
       "ja": "分析を表す折れ線グラフ",
@@ -8278,7 +8307,8 @@
       "ko": "분석을 나타내는 선 차트",
       "fr": "Graphique linéaire des analyses",
       "tr": "Analizleri gösteren çizgi grafik",
-      "zh-CN": "展示分析数据的折线图"
+      "zh-CN": "展示分析数据的折线图",
+      "zh-HK": "展示分析資料的折線圖"
     },
     "OneSignal quickstart designs": {
       "ja": "OneSignalクイックスタートデザイン",
@@ -8287,7 +8317,8 @@
       "ko": "OneSignal 빠른 시작 디자인",
       "fr": "Modèles de démarrage rapide OneSignal",
       "tr": "OneSignal hızlı başlangıç tasarımları",
-      "zh-CN": "OneSignal 快速入门设计"
+      "zh-CN": "OneSignal 快速入门设计",
+      "zh-HK": "OneSignal 快速入門設計"
     },
     "Start from a pre-built design": {
       "ja": "事前構築済みのデザインから始める",
@@ -8296,7 +8327,8 @@
       "ko": "사전 제작된 디자인으로 시작",
       "fr": "Partir d'un design prêt à l'emploi",
       "tr": "Hazır tasarımdan başla",
-      "zh-CN": "从预设设计开始"
+      "zh-CN": "从预设设计开始",
+      "zh-HK": "從預設設計開始"
     },
     "Start from scratch": {
       "ja": "最初から作成",
@@ -8305,7 +8337,8 @@
       "ko": "처음부터 시작",
       "fr": "Partir de zéro",
       "tr": "Sıfırdan başla",
-      "zh-CN": "从零开始"
+      "zh-CN": "从零开始",
+      "zh-HK": "從零開始"
     },
     "This integration does not track delivery statistics.": {
       "ja": "この統合は配信統計を追跡しません。",
@@ -8314,7 +8347,8 @@
       "ko": "이 통합은 전달 통계를 추적하지 않습니다.",
       "fr": "Cette intégration ne suit pas les statistiques de livraison.",
       "tr": "Bu entegrasyon teslim istatistiklerini izlemez.",
-      "zh-CN": "此集成不追踪送达统计。"
+      "zh-CN": "此集成不追踪送达统计。",
+      "zh-HK": "此整合不追蹤送達統計。"
     },
     "Your previous messages": {
       "ja": "以前のメッセージ",
@@ -8323,7 +8357,8 @@
       "ko": "이전 메시지",
       "fr": "Vos messages précédents",
       "tr": "Önceki mesajlarınız",
-      "zh-CN": "您的历史消息"
+      "zh-CN": "您的历史消息",
+      "zh-HK": "您的歷史訊息"
     },
     "Your templates": {
       "ja": "テンプレート",
@@ -8332,7 +8367,8 @@
       "ko": "내 템플릿",
       "fr": "Vos modèles",
       "tr": "Şablonlarınız",
-      "zh-CN": "您的模板"
+      "zh-CN": "您的模板",
+      "zh-HK": "您的範本"
     },
     "Event ID": {
       "ja": "イベントID",
@@ -8341,7 +8377,8 @@
       "ko": "이벤트 ID",
       "fr": "ID d'événement",
       "tr": "Etkinlik ID",
-      "zh-CN": "事件 ID"
+      "zh-CN": "事件 ID",
+      "zh-HK": "事件 ID"
     },
     "Segment Not Found": {
       "ja": "セグメントが見つかりません",
@@ -8350,7 +8387,8 @@
       "ko": "세그먼트를 찾을 수 없음",
       "fr": "Segment introuvable",
       "tr": "Segment bulunamadı",
-      "zh-CN": "未找到 Segment"
+      "zh-CN": "未找到 Segment",
+      "zh-HK": "未找到 Segment"
     },
     "Drag & drop editor": {
       "ja": "ドラッグ＆ドロップエディター",
@@ -8359,7 +8397,8 @@
       "ko": "드래그 앤 드롭 편집기",
       "fr": "Éditeur glisser-déposer",
       "tr": "Sürükle-bırak düzenleyici",
-      "zh-CN": "拖放编辑器"
+      "zh-CN": "拖放编辑器",
+      "zh-HK": "拖放編輯器"
     },
     "HTML editor": {
       "ja": "HTMLエディター",
@@ -8368,7 +8407,8 @@
       "ko": "HTML 편집기",
       "fr": "Éditeur HTML",
       "tr": "HTML düzenleyici",
-      "zh-CN": "HTML 编辑器"
+      "zh-CN": "HTML 编辑器",
+      "zh-HK": "HTML 編輯器"
     },
     "Multi-link click tracking": {
       "ja": "マルチリンククリック追跡",
@@ -8377,7 +8417,8 @@
       "ko": "다중 링크 클릭 추적",
       "fr": "Suivi des clics multi-liens",
       "tr": "Çoklu bağlantı tıklama izleme",
-      "zh-CN": "多链接点击追踪"
+      "zh-CN": "多链接点击追踪",
+      "zh-HK": "多連結點擊追蹤"
     },
     "Visual drag and drop editing with image and text blocks.": {
       "ja": "画像とテキストブロックを使った視覚的なドラッグ＆ドロップ編集。",
@@ -8386,7 +8427,8 @@
       "ko": "이미지와 텍스트 블록을 사용한 시각적 드래그 앤 드롭 편집.",
       "fr": "Édition visuelle par glisser-déposer avec des blocs image et texte.",
       "tr": "Görsel ve metin bloklarıyla görsel sürükle-bırak düzenleme.",
-      "zh-CN": "使用图像和文本块进行可视化拖放编辑。"
+      "zh-CN": "使用图像和文本块进行可视化拖放编辑。",
+      "zh-HK": "使用圖像和文字方塊進行視覺化拖放編輯。"
     },
     "Write or copy/paste your own HTML and CSS.": {
       "ja": "独自のHTMLとCSSを書き込むか、コピー＆ペーストしてください。",
@@ -8395,7 +8437,8 @@
       "ko": "직접 HTML 및 CSS를 작성하거나 복사하여 붙여넣으세요.",
       "fr": "Écrivez ou collez votre propre HTML et CSS.",
       "tr": "Kendi HTML ve CSS'inizi yazın veya kopyala/yapıştır yapın.",
-      "zh-CN": "编写或复制/粘贴您自己的 HTML 和 CSS。"
+      "zh-CN": "编写或复制/粘贴您自己的 HTML 和 CSS。",
+      "zh-HK": "撰寫或複製/貼上您自己的 HTML 和 CSS。"
     },
     "Test & preview": {
       "ja": "テストとプレビュー",
@@ -8404,7 +8447,8 @@
       "ko": "테스트 및 미리보기",
       "fr": "Tester et prévisualiser",
       "tr": "Test et ve önizle",
-      "zh-CN": "测试和预览"
+      "zh-CN": "测试和预览",
+      "zh-HK": "測試和預覽"
     },
     "What segment(s)": {
       "ja": "どのセグメント",
@@ -8413,7 +8457,8 @@
       "ko": "어떤 세그먼트",
       "fr": "Quels segments",
       "tr": "Hangi segment(ler)",
-      "zh-CN": "哪个 Segment"
+      "zh-CN": "哪个 Segment",
+      "zh-HK": "哪個 Segment"
     },
     "custom events": {
       "ja": "カスタムイベント",
@@ -8422,7 +8467,8 @@
       "ko": "사용자 정의 이벤트",
       "fr": "événements personnalisés",
       "tr": "özel etkinlikler",
-      "zh-CN": "自定义事件"
+      "zh-CN": "自定义事件",
+      "zh-HK": "自訂事件"
     },
     "insert content": {
       "ja": "コンテンツを挿入",
@@ -8431,7 +8477,8 @@
       "ko": "콘텐츠 삽입",
       "fr": "insérer du contenu",
       "tr": "içerik ekle",
-      "zh-CN": "插入内容"
+      "zh-CN": "插入内容",
+      "zh-HK": "插入內容"
     },
     "receive this message?": {
       "ja": "このメッセージを受信しますか？",
@@ -8440,7 +8487,8 @@
       "ko": "이 메시지를 받을까요?",
       "fr": "recevoir ce message ?",
       "tr": "bu mesajı alacak?",
-      "zh-CN": "接收此消息？"
+      "zh-CN": "接收此消息？",
+      "zh-HK": "接收此訊息？"
     },
     "1. Audience": {
       "ja": "1. オーディエンス",
@@ -8449,7 +8497,8 @@
       "ko": "1. 대상",
       "fr": "1. Audience",
       "tr": "1. Hedef kitle",
-      "zh-CN": "1. 受众"
+      "zh-CN": "1. 受众",
+      "zh-HK": "1. 受眾"
     },
     "2. Sender": {
       "ja": "2. 送信者",
@@ -8458,7 +8507,8 @@
       "ko": "2. 발신자",
       "fr": "2. Expéditeur",
       "tr": "2. Gönderen",
-      "zh-CN": "2. 发件人"
+      "zh-CN": "2. 发件人",
+      "zh-HK": "2. 發件人"
     },
     "3. Message": {
       "ja": "3. メッセージ",
