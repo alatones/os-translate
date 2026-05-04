@@ -3017,7 +3017,8 @@
       "ko": "새 인앱",
       "fr": "Nouveau In-App",
       "tr": "Yeni In-App",
-      "zh-CN": "新 In-App"
+      "zh-CN": "新 In-App",
+      "zh-HK": "新 In-App"
     },
     "New Journey": {
       "es": "Nuevo Journey",
@@ -3026,7 +3027,8 @@
       "ko": "새 저니",
       "fr": "Nouveau Journey",
       "tr": "Yeni Journey",
-      "zh-CN": "新 Journey"
+      "zh-CN": "新 Journey",
+      "zh-HK": "新 Journey"
     },
     "New Journey Webhook": {
       "es": "Nuevo Webhook de Journey",
@@ -3035,7 +3037,8 @@
       "ko": "새 저니 웹훅",
       "fr": "Nouveau Webhook Journey",
       "tr": "Yeni Journey Webhook",
-      "zh-CN": "新 Journey Webhook"
+      "zh-CN": "新 Journey Webhook",
+      "zh-HK": "新 Journey Webhook"
     },
     "New Message": {
       "es": "Nuevo mensaje",
@@ -3044,7 +3047,8 @@
       "ko": "새 메시지",
       "fr": "Nouveau message",
       "tr": "Yeni mesaj",
-      "zh-CN": "新消息"
+      "zh-CN": "新消息",
+      "zh-HK": "新訊息"
     },
     "New Push": {
       "es": "Nuevo push",
@@ -3053,7 +3057,8 @@
       "ko": "새 푸시",
       "fr": "Nouveau push",
       "tr": "Yeni push",
-      "zh-CN": "新 Push"
+      "zh-CN": "新 Push",
+      "zh-HK": "新 Push"
     },
     "New Push Notification": {
       "es": "Nueva notificación push",
@@ -3062,7 +3067,8 @@
       "ko": "새 푸시 알림",
       "fr": "Nouvelle notification push",
       "tr": "Yeni push bildirimi",
-      "zh-CN": "新 Push 通知"
+      "zh-CN": "新 Push 通知",
+      "zh-HK": "新 Push 通知"
     },
     "New SMS / RCS": {
       "es": "Nuevo SMS / RCS",
@@ -3071,7 +3077,8 @@
       "ko": "새 SMS / RCS",
       "fr": "Nouveau SMS / RCS",
       "tr": "Yeni SMS / RCS",
-      "zh-CN": "新 SMS / RCS"
+      "zh-CN": "新 SMS / RCS",
+      "zh-HK": "新 SMS / RCS"
     },
     "New SMS/RCS": {
       "es": "Nuevo SMS/RCS",
@@ -3080,7 +3087,8 @@
       "ko": "새 SMS/RCS",
       "fr": "Nouveau SMS/RCS",
       "tr": "Yeni SMS/RCS",
-      "zh-CN": "新 SMS/RCS"
+      "zh-CN": "新 SMS/RCS",
+      "zh-HK": "新 SMS/RCS"
     },
     "New subscribed": {
       "es": "Nuevas suscripciones",
@@ -3089,7 +3097,8 @@
       "ko": "신규 구독",
       "fr": "Nouveaux abonnés",
       "tr": "Yeni abonelikler",
-      "zh-CN": "新订阅"
+      "zh-CN": "新订阅",
+      "zh-HK": "新訂閱"
     },
     "New Subscribers": {
       "es": "Nuevos suscriptores",
@@ -3098,7 +3107,8 @@
       "ko": "신규 구독자",
       "fr": "Nouveaux abonnés",
       "tr": "Yeni aboneler",
-      "zh-CN": "新订阅者"
+      "zh-CN": "新订阅者",
+      "zh-HK": "新訂閱者"
     },
     "New Template": {
       "es": "Nueva plantilla",
@@ -3107,7 +3117,8 @@
       "ko": "새 템플릿",
       "fr": "Nouveau modèle",
       "tr": "Yeni şablon",
-      "zh-CN": "新模板"
+      "zh-CN": "新模板",
+      "zh-HK": "新範本"
     },
     "New unsubscribed": {
       "es": "Nuevas cancelaciones",
@@ -3116,7 +3127,8 @@
       "ko": "신규 구독 취소",
       "fr": "Nouvelles désinscriptions",
       "tr": "Yeni abonelikten çıkanlar",
-      "zh-CN": "新取消订阅"
+      "zh-CN": "新取消订阅",
+      "zh-HK": "新取消訂閱"
     },
     "New Webhook": {
       "es": "Nuevo webhook",
@@ -3125,7 +3137,8 @@
       "ko": "새 웹훅",
       "fr": "Nouveau webhook",
       "tr": "Yeni webhook",
-      "zh-CN": "新 Webhook"
+      "zh-CN": "新 Webhook",
+      "zh-HK": "新 Webhook"
     },
     "Next": {
       "es": "Siguiente",
@@ -3134,7 +3147,8 @@
       "ko": "다음",
       "fr": "Suivant",
       "tr": "İleri",
-      "zh-CN": "下一步"
+      "zh-CN": "下一步",
+      "zh-HK": "下一步"
     },
     "Next page": {
       "es": "Página siguiente",
@@ -3143,7 +3157,8 @@
       "ko": "다음 페이지",
       "fr": "Page suivante",
       "tr": "Sonraki sayfa",
-      "zh-CN": "下一页"
+      "zh-CN": "下一页",
+      "zh-HK": "下一頁"
     },
     "No": {
       "es": "No",
@@ -3152,7 +3167,8 @@
       "ko": "아니오",
       "fr": "Non",
       "tr": "Hayır",
-      "zh-CN": "否"
+      "zh-CN": "否",
+      "zh-HK": "否"
     },
     "No data": {
       "es": "Sin datos",
@@ -3161,7 +3177,8 @@
       "ko": "데이터 없음",
       "fr": "Aucune donnée",
       "tr": "Veri yok",
-      "zh-CN": "无数据"
+      "zh-CN": "无数据",
+      "zh-HK": "無資料"
     },
     "No metrics collected": {
       "es": "No hay métricas recopiladas",
@@ -3170,7 +3187,8 @@
       "ko": "수집된 지표 없음",
       "fr": "Aucune métrique collectée",
       "tr": "Metrik toplanmadı",
-      "zh-CN": "未收集到指标"
+      "zh-CN": "未收集到指标",
+      "zh-HK": "未收集到指標"
     },
     "No recipients": {
       "es": "Sin destinatarios",
@@ -3179,7 +3197,8 @@
       "ko": "수신자 없음",
       "fr": "Aucun destinataire",
       "tr": "Alıcı yok",
-      "zh-CN": "无收件人"
+      "zh-CN": "无收件人",
+      "zh-HK": "無收件人"
     },
     "No results": {
       "es": "Sin resultados",
@@ -3188,7 +3207,8 @@
       "ko": "결과 없음",
       "fr": "Aucun résultat",
       "tr": "Sonuç yok",
-      "zh-CN": "无结果"
+      "zh-CN": "无结果",
+      "zh-HK": "無結果"
     },
     "No results found": {
       "es": "No se encontraron resultados",
@@ -3197,7 +3217,8 @@
       "ko": "결과를 찾을 수 없음",
       "fr": "Aucun résultat trouvé",
       "tr": "Sonuç bulunamadı",
-      "zh-CN": "未找到结果"
+      "zh-CN": "未找到结果",
+      "zh-HK": "未找到結果"
     },
     "not exists": {
       "es": "no existe",
@@ -3206,7 +3227,8 @@
       "ko": "존재하지 않음",
       "fr": "n'existe pas",
       "tr": "yok",
-      "zh-CN": "不存在"
+      "zh-CN": "不存在",
+      "zh-HK": "不存在"
     },
     "Not Subscribed": {
       "es": "No suscrito",
@@ -3215,7 +3237,8 @@
       "ko": "구독하지 않음",
       "fr": "Non abonné",
       "tr": "Abone değil",
-      "zh-CN": "未订阅"
+      "zh-CN": "未订阅",
+      "zh-HK": "未訂閱"
     },
     "Notification": {
       "es": "Notificación",
@@ -3224,7 +3247,8 @@
       "ko": "알림",
       "fr": "Notification",
       "tr": "Bildirim",
-      "zh-CN": "通知"
+      "zh-CN": "通知",
+      "zh-HK": "通知"
     },
     "Notification Permission": {
       "es": "Permiso de notificación",
@@ -3233,7 +3257,8 @@
       "ko": "알림 권한",
       "fr": "Autorisation de notification",
       "tr": "Bildirim izni",
-      "zh-CN": "通知权限"
+      "zh-CN": "通知权限",
+      "zh-HK": "通知權限"
     },
     "Notifications": {
       "es": "Notificaciones",
@@ -3242,7 +3267,8 @@
       "ko": "알림",
       "fr": "Notifications",
       "tr": "Bildirimler",
-      "zh-CN": "通知"
+      "zh-CN": "通知",
+      "zh-HK": "通知"
     },
     "Nov": {
       "es": "nov",
@@ -3251,7 +3277,8 @@
       "ko": "11월",
       "fr": "nov",
       "tr": "kas",
-      "zh-CN": "11月"
+      "zh-CN": "11月",
+      "zh-HK": "11月"
     },
     "November": {
       "es": "noviembre",
@@ -3260,7 +3287,8 @@
       "ko": "11월",
       "fr": "novembre",
       "tr": "kasım",
-      "zh-CN": "11月"
+      "zh-CN": "11月",
+      "zh-HK": "11月"
     },
     "Oct": {
       "es": "oct",
@@ -3269,7 +3297,8 @@
       "ko": "10월",
       "fr": "oct",
       "tr": "eki",
-      "zh-CN": "10月"
+      "zh-CN": "10月",
+      "zh-HK": "10月"
     },
     "October": {
       "es": "octubre",
@@ -3278,7 +3307,8 @@
       "ko": "10월",
       "fr": "octobre",
       "tr": "ekim",
-      "zh-CN": "10月"
+      "zh-CN": "10月",
+      "zh-HK": "10月"
     },
     "of": {
       "es": "de",
@@ -3287,7 +3317,8 @@
       "ko": "/",
       "fr": "sur",
       "tr": "/",
-      "zh-CN": "/"
+      "zh-CN": "/",
+      "zh-HK": "/"
     },
     "Onboarding": {
       "es": "Incorporación",
@@ -3296,7 +3327,8 @@
       "ko": "온보딩",
       "fr": "Onboarding",
       "tr": "Kullanıcı kazanımı",
-      "zh-CN": "新手引导"
+      "zh-CN": "新手引导",
+      "zh-HK": "新手引導"
     },
     "OneSignal AI": {
       "es": "OneSignal AI",
@@ -3305,7 +3337,8 @@
       "ko": "OneSignal AI",
       "fr": "OneSignal AI",
       "tr": "OneSignal AI",
-      "zh-CN": "OneSignal AI"
+      "zh-CN": "OneSignal AI",
+      "zh-HK": "OneSignal AI"
     },
     "OneSignal ID": {
       "es": "OneSignal ID",
@@ -3314,7 +3347,8 @@
       "ko": "OneSignal ID",
       "fr": "OneSignal ID",
       "tr": "OneSignal ID",
-      "zh-CN": "OneSignal ID"
+      "zh-CN": "OneSignal ID",
+      "zh-HK": "OneSignal ID"
     },
     "Open Rate": {
       "es": "Tasa de apertura",
@@ -3323,7 +3357,8 @@
       "ko": "열람률",
       "fr": "Taux d'ouverture",
       "tr": "Açılma oranı",
-      "zh-CN": "打开率"
+      "zh-CN": "打开率",
+      "zh-HK": "開啟率"
     },
     "Open rate": {
       "es": "Tasa de apertura",
@@ -3332,7 +3367,8 @@
       "ko": "열람률",
       "fr": "Taux d'ouverture",
       "tr": "Açılma oranı",
-      "zh-CN": "打开率"
+      "zh-CN": "打开率",
+      "zh-HK": "開啟率"
     },
     "Opened": {
       "es": "Abierto",
@@ -3341,7 +3377,8 @@
       "ko": "열림",
       "fr": "Ouvert",
       "tr": "Açıldı",
-      "zh-CN": "已打开"
+      "zh-CN": "已打开",
+      "zh-HK": "已開啟"
     },
     "Opens": {
       "es": "Aperturas",
@@ -3350,7 +3387,8 @@
       "ko": "열람",
       "fr": "Ouvertures",
       "tr": "Açılmalar",
-      "zh-CN": "打开次数"
+      "zh-CN": "打开次数",
+      "zh-HK": "開啟次數"
     },
     "Operating System": {
       "es": "Sistema operativo",
@@ -3359,7 +3397,8 @@
       "ko": "운영 체제",
       "fr": "Système d'exploitation",
       "tr": "İşletim sistemi",
-      "zh-CN": "操作系统"
+      "zh-CN": "操作系统",
+      "zh-HK": "作業系統"
     },
     "Opted In": {
       "es": "Aceptado",
@@ -3368,7 +3407,8 @@
       "ko": "동의함",
       "fr": "Accepté",
       "tr": "Onay verildi",
-      "zh-CN": "已同意"
+      "zh-CN": "已同意",
+      "zh-HK": "已同意"
     },
     "Opted Out": {
       "es": "Excluido",
@@ -3377,7 +3417,8 @@
       "ko": "거부함",
       "fr": "Exclu",
       "tr": "Onay geri alındı",
-      "zh-CN": "已拒绝"
+      "zh-CN": "已拒绝",
+      "zh-HK": "已拒絕"
     },
     "Optional": {
       "es": "Opcional",
@@ -3386,7 +3427,8 @@
       "ko": "선택 사항",
       "fr": "Facultatif",
       "tr": "İsteğe bağlı",
-      "zh-CN": "可选"
+      "zh-CN": "可选",
+      "zh-HK": "可選"
     },
     "Organization": {
       "es": "Organización",
@@ -3395,7 +3437,8 @@
       "ko": "조직",
       "fr": "Organisation",
       "tr": "Organizasyon",
-      "zh-CN": "组织"
+      "zh-CN": "组织",
+      "zh-HK": "組織"
     },
     "Organizations": {
       "es": "Organizaciones",
@@ -3404,7 +3447,8 @@
       "ko": "조직",
       "fr": "Organisations",
       "tr": "Organizasyonlar",
-      "zh-CN": "组织"
+      "zh-CN": "组织",
+      "zh-HK": "組織"
     },
     "Outbound": {
       "es": "Saliente",
@@ -3413,7 +3457,8 @@
       "ko": "아웃바운드",
       "fr": "Sortant",
       "tr": "Giden",
-      "zh-CN": "出站"
+      "zh-CN": "出站",
+      "zh-HK": "出站"
     },
     "Outcome": {
       "es": "Resultado",
@@ -3422,7 +3467,8 @@
       "ko": "결과",
       "fr": "Résultat",
       "tr": "Sonuç",
-      "zh-CN": "结果"
+      "zh-CN": "结果",
+      "zh-HK": "結果"
     },
     "Overview": {
       "es": "Resumen",
@@ -3431,7 +3477,8 @@
       "ko": "개요",
       "fr": "Vue d'ensemble",
       "tr": "Genel bakış",
-      "zh-CN": "概览"
+      "zh-CN": "概览",
+      "zh-HK": "概覽"
     },
     "page": {
       "es": "página",
@@ -3440,7 +3487,8 @@
       "ko": "페이지",
       "fr": "page",
       "tr": "sayfa",
-      "zh-CN": "页"
+      "zh-CN": "页",
+      "zh-HK": "頁"
     },
     "Pagination": {
       "es": "Paginación",
@@ -3449,7 +3497,8 @@
       "ko": "페이지 매김",
       "fr": "Pagination",
       "tr": "Sayfalama",
-      "zh-CN": "分页"
+      "zh-CN": "分页",
+      "zh-HK": "分頁"
     },
     "Pause": {
       "es": "Pausar",
@@ -3458,7 +3507,8 @@
       "ko": "일시 정지",
       "fr": "Pause",
       "tr": "Duraklat",
-      "zh-CN": "暂停"
+      "zh-CN": "暂停",
+      "zh-HK": "暫停"
     },
     "Paused": {
       "es": "Pausado",
