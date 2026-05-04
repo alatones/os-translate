@@ -13017,7 +13017,8 @@
       "ko": "구독 없음",
       "fr": "Aucun abonnement",
       "tr": "Abonelik yok",
-      "zh-CN": "无订阅"
+      "zh-CN": "无订阅",
+      "zh-HK": "無訂閱"
     },
     "Phone": {
       "ja": "電話",
@@ -13026,7 +13027,8 @@
       "ko": "전화",
       "fr": "Téléphone",
       "tr": "Telefon",
-      "zh-CN": "电话"
+      "zh-CN": "电话",
+      "zh-HK": "電話"
     },
     "Total session duration": {
       "ja": "合計セッション時間",
@@ -13035,7 +13037,8 @@
       "ko": "총 세션 시간",
       "fr": "Durée totale de session",
       "tr": "Toplam oturum süresi",
-      "zh-CN": "总会话时长"
+      "zh-CN": "总会话时长",
+      "zh-HK": "總會話時長"
     },
     "Total sessions": {
       "ja": "合計セッション数",
@@ -13044,7 +13047,8 @@
       "ko": "총 세션",
       "fr": "Total des sessions",
       "tr": "Toplam oturum",
-      "zh-CN": "总会话数"
+      "zh-CN": "总会话数",
+      "zh-HK": "總會話數"
     },
     "User has not been in any Journey": {
       "ja": "ユーザーはどのジャーニーにも参加していません",
@@ -13053,7 +13057,8 @@
       "ko": "사용자가 어떤 저니에도 참여하지 않았습니다",
       "fr": "L'utilisateur n'a été dans aucun Journey",
       "tr": "Kullanıcı hiçbir Journey'de bulunmadı",
-      "zh-CN": "用户从未进入任何 Journey"
+      "zh-CN": "用户从未进入任何 Journey",
+      "zh-HK": "用戶從未進入任何 Journey"
     },
     "View all": {
       "ja": "すべて表示",
@@ -13062,7 +13067,8 @@
       "ko": "전체 보기",
       "fr": "Tout voir",
       "tr": "Tümünü görüntüle",
-      "zh-CN": "查看全部"
+      "zh-CN": "查看全部",
+      "zh-HK": "查看全部"
     },
     "Override frequency capping settings (": {
       "ja": "頻度制限設定を上書き (",
@@ -13071,7 +13077,8 @@
       "ko": "빈도 제한 설정 재정의 (",
       "fr": "Remplacer les paramètres de plafonnement de fréquence (",
       "tr": "Frekans sınırı ayarlarını geçersiz kıl (",
-      "zh-CN": "覆盖频率限制设置（"
+      "zh-CN": "覆盖频率限制设置（",
+      "zh-HK": "覆蓋頻率限制設定（"
     },
     "Override throttling settings (": {
       "ja": "スロットリング設定を上書き (",
@@ -13080,7 +13087,8 @@
       "ko": "쓰로틀링 설정 재정의 (",
       "fr": "Remplacer les paramètres de limitation (",
       "tr": "Sınırlama ayarlarını geçersiz kıl (",
-      "zh-CN": "覆盖限速设置（"
+      "zh-CN": "覆盖限速设置（",
+      "zh-HK": "覆蓋限速設定（"
     },
     "per minute)": {
       "ja": "/分)",
@@ -13089,7 +13097,8 @@
       "ko": "/분)",
       "fr": "par minute)",
       "tr": "dakikada)",
-      "zh-CN": "每分钟）"
+      "zh-CN": "每分钟）",
+      "zh-HK": "每分鐘）"
     },
     "Drive more engagement with additional automations, channels, and features in Journeys.": {
       "ja": "ジャーニーの追加の自動化、チャネル、機能でエンゲージメントを高めます。",
@@ -13098,7 +13107,8 @@
       "ko": "저니의 추가 자동화, 채널 및 기능으로 참여도를 높이세요.",
       "fr": "Boostez l'engagement avec plus d'automatisations, de canaux et de fonctionnalités dans Journeys.",
       "tr": "Journeys'teki ek otomasyonlar, kanallar ve özelliklerle daha fazla etkileşim sağlayın.",
-      "zh-CN": "通过 Journeys 中更多的自动化、渠道和功能提升互动。"
+      "zh-CN": "通过 Journeys 中更多的自动化、渠道和功能提升互动。",
+      "zh-HK": "透過 Journeys 中更多的自動化、渠道和功能提升互動。"
     },
     "Try Journeys": {
       "ja": "ジャーニーを試す",
@@ -13107,7 +13117,8 @@
       "ko": "저니 사용해보기",
       "fr": "Essayer Journeys",
       "tr": "Journeys'i deneyin",
-      "zh-CN": "试用 Journeys"
+      "zh-CN": "试用 Journeys",
+      "zh-HK": "試用 Journeys"
     },
     "New Automated Push": {
       "ja": "新しい自動プッシュ",
@@ -13116,7 +13127,8 @@
       "ko": "새 자동화 푸시",
       "fr": "Nouveau push automatisé",
       "tr": "Yeni otomatik push",
-      "zh-CN": "新自动化 Push"
+      "zh-CN": "新自动化 Push",
+      "zh-HK": "新自動化 Push"
     },
     "HubSpot Integration Metrics": {
       "ja": "HubSpot統合メトリクス",
@@ -13125,7 +13137,8 @@
       "ko": "HubSpot 통합 지표",
       "fr": "Métriques d'intégration HubSpot",
       "tr": "HubSpot entegrasyon metrikleri",
-      "zh-CN": "HubSpot 集成指标"
+      "zh-CN": "HubSpot 集成指标",
+      "zh-HK": "HubSpot 整合指標"
     },
     "Last event received:": {
       "ja": "最後に受信したイベント:",
@@ -13134,7 +13147,8 @@
       "ko": "마지막 수신 이벤트:",
       "fr": "Dernier événement reçu :",
       "tr": "Son alınan etkinlik:",
-      "zh-CN": "最近接收的事件:"
+      "zh-CN": "最近接收的事件:",
+      "zh-HK": "最近接收的事件："
     },
     "3. Delivery Schedule": {
       "ja": "3. 配信スケジュール",
@@ -13143,7 +13157,8 @@
       "ko": "3. 전달 일정",
       "fr": "3. Planification d'envoi",
       "tr": "3. Gönderim planı",
-      "zh-CN": "3. 发送计划"
+      "zh-CN": "3. 发送计划",
+      "zh-HK": "3. 發送排程"
     },
     "After a certain amount of time": {
       "ja": "一定時間後",
@@ -13152,7 +13167,8 @@
       "ko": "일정 시간 후",
       "fr": "Au bout d'un certain délai",
       "tr": "Belirli bir süre sonra",
-      "zh-CN": "在一定时间后"
+      "zh-CN": "在一定时间后",
+      "zh-HK": "在一定時間後"
     },
     "Deliver to users more than once?": {
       "ja": "ユーザーに複数回配信しますか？",
@@ -13161,7 +13177,8 @@
       "ko": "사용자에게 여러 번 전달하시겠습니까?",
       "fr": "Livrer aux utilisateurs plus d'une fois ?",
       "tr": "Kullanıcılara birden fazla kez teslim et?",
-      "zh-CN": "向用户多次送达？"
+      "zh-CN": "向用户多次送达？",
+      "zh-HK": "向用戶多次送達？"
     },
     "If the user returns to the app": {
       "ja": "ユーザーがアプリに戻った場合",
@@ -13170,7 +13187,8 @@
       "ko": "사용자가 앱으로 돌아오면",
       "fr": "Si l'utilisateur revient sur l'app",
       "tr": "Kullanıcı uygulamaya geri dönerse",
-      "zh-CN": "如果用户返回应用"
+      "zh-CN": "如果用户返回应用",
+      "zh-HK": "如果用戶返回應用"
     },
     "Make Active": {
       "ja": "アクティブにする",
@@ -13179,7 +13197,8 @@
       "ko": "활성화",
       "fr": "Activer",
       "tr": "Aktif yap",
-      "zh-CN": "设为活跃"
+      "zh-CN": "设为活跃",
+      "zh-HK": "設為活躍"
     },
     "My Message": {
       "ja": "マイメッセージ",
@@ -13188,7 +13207,8 @@
       "ko": "내 메시지",
       "fr": "Mon message",
       "tr": "Mesajım",
-      "zh-CN": "我的消息"
+      "zh-CN": "我的消息",
+      "zh-HK": "我的訊息"
     },
     "Select...": {
       "ja": "選択...",
@@ -13197,7 +13217,8 @@
       "ko": "선택...",
       "fr": "Sélectionner...",
       "tr": "Seç...",
-      "zh-CN": "选择..."
+      "zh-CN": "选择...",
+      "zh-HK": "選擇..."
     },
     "Send Test": {
       "ja": "テストを送信",
@@ -13206,7 +13227,8 @@
       "ko": "테스트 발송",
       "fr": "Envoyer un test",
       "tr": "Test gönder",
-      "zh-CN": "发送测试"
+      "zh-CN": "发送测试",
+      "zh-HK": "發送測試"
     },
     "What template do you want to send?": {
       "ja": "どのテンプレートを送信しますか？",
@@ -13215,7 +13237,8 @@
       "ko": "어떤 템플릿을 발송하시겠습니까?",
       "fr": "Quel modèle voulez-vous envoyer ?",
       "tr": "Hangi şablonu göndermek istiyorsunuz?",
-      "zh-CN": "您想发送哪个模板？"
+      "zh-CN": "您想发送哪个模板？",
+      "zh-HK": "您想發送哪個範本？"
     },
     "create a new template here": {
       "ja": "ここで新しいテンプレートを作成",
@@ -13224,7 +13247,8 @@
       "ko": "여기서 새 템플릿 만들기",
       "fr": "créer un nouveau modèle ici",
       "tr": "burada yeni bir şablon oluşturun",
-      "zh-CN": "在此创建新模板"
+      "zh-CN": "在此创建新模板",
+      "zh-HK": "在此建立新範本"
     },
     "Collapse row": {
       "ja": "行を折りたたむ",
@@ -13233,7 +13257,8 @@
       "ko": "행 접기",
       "fr": "Réduire la ligne",
       "tr": "Satırı daralt",
-      "zh-CN": "折叠行"
+      "zh-CN": "折叠行",
+      "zh-HK": "摺疊列"
     },
     "Copy code": {
       "ja": "コードをコピー",
@@ -13242,7 +13267,8 @@
       "ko": "코드 복사",
       "fr": "Copier le code",
       "tr": "Kodu kopyala",
-      "zh-CN": "复制代码"
+      "zh-CN": "复制代码",
+      "zh-HK": "複製代碼"
     },
     "Open Data menu": {
       "ja": "データメニューを開く",
@@ -13251,7 +13277,8 @@
       "ko": "데이터 메뉴 열기",
       "fr": "Ouvrir le menu Données",
       "tr": "Veri menüsünü aç",
-      "zh-CN": "打开数据菜单"
+      "zh-CN": "打开数据菜单",
+      "zh-HK": "開啟資料選單"
     },
     "Awaiting Double Opt-In": {
       "ja": "ダブルオプトイン待機中",
@@ -13260,7 +13287,8 @@
       "ko": "이중 옵트인 대기 중",
       "fr": "En attente du double opt-in",
       "tr": "Çift onay bekleniyor",
-      "zh-CN": "等待双重确认"
+      "zh-CN": "等待双重确认",
+      "zh-HK": "等待雙重確認"
     },
     "Italian": {
       "ja": "イタリア語",
@@ -13269,7 +13297,8 @@
       "ko": "이탈리아어",
       "fr": "Italien",
       "tr": "İtalyanca",
-      "zh-CN": "意大利语"
+      "zh-CN": "意大利语",
+      "zh-HK": "意大利文"
     },
     ".wav, .aiff, .caf": {
       "ja": ".wav、.aiff、.caf",
@@ -13278,7 +13307,8 @@
       "ko": ".wav, .aiff, .caf",
       "fr": ".wav, .aiff, .caf",
       "tr": ".wav, .aiff, .caf",
-      "zh-CN": ".wav, .aiff, .caf"
+      "zh-CN": ".wav, .aiff, .caf",
+      "zh-HK": ".wav, .aiff, .caf"
     },
     "Amplitude is": {
       "ja": "Amplitude:",
@@ -13287,7 +13317,8 @@
       "ko": "Amplitude:",
       "fr": "Amplitude est",
       "tr": "Amplitude şudur:",
-      "zh-CN": "Amplitude 为"
+      "zh-CN": "Amplitude 为",
+      "zh-HK": "Amplitude 為"
     },
     "Journey Updated": {
       "ja": "ジャーニーが更新されました",
@@ -13296,7 +13327,8 @@
       "ko": "저니가 업데이트됨",
       "fr": "Journey mis à jour",
       "tr": "Journey güncellendi",
-      "zh-CN": "Journey 已更新"
+      "zh-CN": "Journey 已更新",
+      "zh-HK": "Journey 已更新"
     },
     "Journey Created": {
       "ja": "ジャーニーが作成されました",
@@ -13305,7 +13337,8 @@
       "ko": "저니가 생성됨",
       "fr": "Journey créé",
       "tr": "Journey oluşturuldu",
-      "zh-CN": "Journey 已创建"
+      "zh-CN": "Journey 已创建",
+      "zh-HK": "Journey 已建立"
     },
     "Editor": {
       "ja": "エディター",
@@ -13314,7 +13347,8 @@
       "ko": "편집자",
       "fr": "Éditeur",
       "tr": "Editör",
-      "zh-CN": "编辑者"
+      "zh-CN": "编辑者",
+      "zh-HK": "編輯者"
     },
     "Search by Email": {
       "ja": "メールで検索",
@@ -13323,7 +13357,8 @@
       "ko": "이메일로 검색",
       "fr": "Rechercher par email",
       "tr": "Email'e göre ara",
-      "zh-CN": "按 Email 搜索"
+      "zh-CN": "按 Email 搜索",
+      "zh-HK": "按 Email 搜尋"
     },
     "App role": {
       "ja": "アプリの役割",
@@ -13332,7 +13367,8 @@
       "ko": "앱 역할",
       "fr": "Rôle de l'app",
       "tr": "Uygulama rolü",
-      "zh-CN": "应用角色"
+      "zh-CN": "应用角色",
+      "zh-HK": "應用角色"
     },
     "Date & time": {
       "ja": "日付と時刻",
@@ -13341,7 +13377,8 @@
       "ko": "날짜 및 시간",
       "fr": "Date et heure",
       "tr": "Tarih ve saat",
-      "zh-CN": "日期和时间"
+      "zh-CN": "日期和时间",
+      "zh-HK": "日期和時間"
     },
     "Export Created": {
       "ja": "エクスポートが作成されました",
@@ -13350,7 +13387,8 @@
       "ko": "내보내기 생성됨",
       "fr": "Export créé",
       "tr": "Dışa aktarma oluşturuldu",
-      "zh-CN": "导出已创建"
+      "zh-CN": "导出已创建",
+      "zh-HK": "匯出已建立"
     },
     "Item name": {
       "ja": "項目名",
@@ -13359,7 +13397,8 @@
       "ko": "항목 이름",
       "fr": "Nom de l'élément",
       "tr": "Öğe adı",
-      "zh-CN": "项目名称"
+      "zh-CN": "项目名称",
+      "zh-HK": "項目名稱"
     },
     "Item type": {
       "ja": "項目タイプ",
@@ -13368,7 +13407,8 @@
       "ko": "항목 유형",
       "fr": "Type d'élément",
       "tr": "Öğe türü",
-      "zh-CN": "项目类型"
+      "zh-CN": "项目类型",
+      "zh-HK": "項目類型"
     },
     "Last 48 hours": {
       "ja": "過去48時間",
@@ -13377,7 +13417,8 @@
       "ko": "지난 48시간",
       "fr": "Dernières 48 heures",
       "tr": "Son 48 saat",
-      "zh-CN": "过去 48 小时"
+      "zh-CN": "过去 48 小时",
+      "zh-HK": "過去 48 小時"
     },
     "Segment Created": {
       "ja": "セグメントが作成されました",
@@ -13386,7 +13427,8 @@
       "ko": "세그먼트 생성됨",
       "fr": "Segment créé",
       "tr": "Segment oluşturuldu",
-      "zh-CN": "Segment 已创建"
+      "zh-CN": "Segment 已创建",
+      "zh-HK": "Segment 已建立"
     },
     "Source": {
       "ja": "ソース",
@@ -13395,7 +13437,8 @@
       "ko": "소스",
       "fr": "Source",
       "tr": "Kaynak",
-      "zh-CN": "来源"
+      "zh-CN": "来源",
+      "zh-HK": "來源"
     },
     "Template Created": {
       "ja": "テンプレートが作成されました",
@@ -13404,7 +13447,8 @@
       "ko": "템플릿 생성됨",
       "fr": "Modèle créé",
       "tr": "Şablon oluşturuldu",
-      "zh-CN": "模板已创建"
+      "zh-CN": "模板已创建",
+      "zh-HK": "範本已建立"
     },
     "User action": {
       "ja": "ユーザーアクション",
@@ -13413,7 +13457,8 @@
       "ko": "사용자 작업",
       "fr": "Action de l'utilisateur",
       "tr": "Kullanıcı eylemi",
-      "zh-CN": "用户操作"
+      "zh-CN": "用户操作",
+      "zh-HK": "用戶操作"
     },
     "Disable App": {
       "ja": "アプリを無効化",
@@ -13422,7 +13467,8 @@
       "ko": "앱 비활성화",
       "fr": "Désactiver l'app",
       "tr": "Uygulamayı devre dışı bırak",
-      "zh-CN": "禁用应用"
+      "zh-CN": "禁用应用",
+      "zh-HK": "停用應用"
     },
     "You may disable this app to prevent new and scheduled notifications from being delivered. Apps you manually disable can be instantly re-enabled at any time.": {
       "ja": "このアプリを無効化すると、新規および予約済みの通知が配信されなくなります。手動で無効化したアプリはいつでもすぐに再有効化できます。",
@@ -13431,7 +13477,8 @@
       "ko": "이 앱을 비활성화하면 새 알림 및 예약된 알림이 전달되지 않습니다. 수동으로 비활성화한 앱은 언제든지 즉시 다시 활성화할 수 있습니다.",
       "fr": "Vous pouvez désactiver cette app pour empêcher la livraison de nouvelles notifications et celles planifiées. Les apps que vous désactivez manuellement peuvent être réactivées instantanément à tout moment.",
       "tr": "Yeni ve planlanan bildirimlerin teslim edilmesini engellemek için bu uygulamayı devre dışı bırakabilirsiniz. Manuel olarak devre dışı bıraktığınız uygulamalar istediğiniz zaman anında yeniden etkinleştirilebilir.",
-      "zh-CN": "您可以禁用此应用以防止新的和已计划的通知被送达。您手动禁用的应用可以随时立即重新启用。"
+      "zh-CN": "您可以禁用此应用以防止新的和已计划的通知被送达。您手动禁用的应用可以随时立即重新启用。",
+      "zh-HK": "您可以停用此應用以防止新的和已排程的通知被送達。您手動停用的應用可以隨時立即重新啟用。"
     },
     "Add Channel": {
       "ja": "チャネルを追加",
@@ -13440,7 +13487,8 @@
       "ko": "채널 추가",
       "fr": "Ajouter un canal",
       "tr": "Kanal ekle",
-      "zh-CN": "添加渠道"
+      "zh-CN": "添加渠道",
+      "zh-HK": "新增渠道"
     },
     "Allow push throttle override on creation": {
       "ja": "作成時にプッシュスロットルの上書きを許可",
@@ -13449,7 +13497,8 @@
       "ko": "생성 시 푸시 쓰로틀 재정의 허용",
       "fr": "Autoriser le remplacement de la limitation push à la création",
       "tr": "Oluşturma sırasında push sınırlamasının geçersiz kılınmasına izin ver",
-      "zh-CN": "允许在创建时覆盖 Push 限速"
+      "zh-CN": "允许在创建时覆盖 Push 限速",
+      "zh-HK": "允許在建立時覆蓋 Push 限速"
     },
     "Campaign": {
       "ja": "キャンペーン",
@@ -13458,7 +13507,8 @@
       "ko": "캠페인",
       "fr": "Campagne",
       "tr": "Kampanya",
-      "zh-CN": "营销活动"
+      "zh-CN": "营销活动",
+      "zh-HK": "營銷活動"
     },
     "Medium": {
       "ja": "メディア",
