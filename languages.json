@@ -10517,7 +10517,8 @@
       "ko": "저장 중...",
       "fr": "Enregistrement...",
       "tr": "Kaydediliyor...",
-      "zh-CN": "保存中..."
+      "zh-CN": "保存中...",
+      "zh-HK": "儲存中..."
     },
     "Schedule a start date and time": {
       "ja": "開始日時を予約",
@@ -10526,7 +10527,8 @@
       "ko": "시작 날짜 및 시간 예약",
       "fr": "Planifier une date et heure de début",
       "tr": "Başlangıç tarihi ve saati planla",
-      "zh-CN": "计划开始日期和时间"
+      "zh-CN": "计划开始日期和时间",
+      "zh-HK": "排程開始日期和時間"
     },
     "Schedule an end date and time": {
       "ja": "終了日時を予約",
@@ -10535,7 +10537,8 @@
       "ko": "종료 날짜 및 시간 예약",
       "fr": "Planifier une date et heure de fin",
       "tr": "Bitiş tarihi ve saati planla",
-      "zh-CN": "计划结束日期和时间"
+      "zh-CN": "计划结束日期和时间",
+      "zh-HK": "排程結束日期和時間"
     },
     "Set Live": {
       "ja": "ライブ化",
@@ -10544,7 +10547,8 @@
       "ko": "라이브 설정",
       "fr": "Mettre en ligne",
       "tr": "Yayına al",
-      "zh-CN": "上线"
+      "zh-CN": "上线",
+      "zh-HK": "上線"
     },
     "Set a Journey Goal": {
       "ja": "ジャーニー目標を設定",
@@ -10553,7 +10557,8 @@
       "ko": "저니 목표 설정",
       "fr": "Définir un objectif de Journey",
       "tr": "Journey hedefi belirle",
-      "zh-CN": "设置 Journey 目标"
+      "zh-CN": "设置 Journey 目标",
+      "zh-HK": "設定 Journey 目標"
     },
     "Set a target metric to measure this": {
       "ja": "これを測定する目標指標を設定",
@@ -10562,7 +10567,8 @@
       "ko": "이를 측정할 목표 지표 설정",
       "fr": "Définissez une métrique cible pour mesurer cela",
       "tr": "Bunu ölçmek için hedef metrik belirleyin",
-      "zh-CN": "设置目标指标以衡量此项"
+      "zh-CN": "设置目标指标以衡量此项",
+      "zh-HK": "設定目標指標以衡量此項"
     },
     "Start immediately": {
       "ja": "即時開始",
@@ -10571,7 +10577,8 @@
       "ko": "즉시 시작",
       "fr": "Démarrer immédiatement",
       "tr": "Hemen başla",
-      "zh-CN": "立即开始"
+      "zh-CN": "立即开始",
+      "zh-HK": "立即開始"
     },
     "The journey is the reward.": {
       "ja": "ジャーニーそのものが報酬です。",
@@ -10580,7 +10587,8 @@
       "ko": "여정 자체가 보상입니다.",
       "fr": "Le parcours est la récompense.",
       "tr": "Yolculuğun kendisi ödüldür.",
-      "zh-CN": "旅程本身就是奖励。"
+      "zh-CN": "旅程本身就是奖励。",
+      "zh-HK": "旅程本身就是獎勵。"
     },
     "They moved through the entire Journey": {
       "ja": "ジャーニー全体を通過したとき",
@@ -10589,7 +10597,8 @@
       "ko": "전체 저니를 통과했을 때",
       "fr": "Ils ont parcouru le Journey en entier",
       "tr": "Tüm Journey'i tamamladılar",
-      "zh-CN": "他们已通过整个 Journey"
+      "zh-CN": "他们已通过整个 Journey",
+      "zh-HK": "他們已通過整個 Journey"
     },
     "Users exit when they have moved through the full Journey.": {
       "ja": "ユーザーはジャーニー全体を通過したときに退出します。",
@@ -10598,7 +10607,8 @@
       "ko": "사용자는 전체 저니를 통과하면 종료됩니다.",
       "fr": "Les utilisateurs sortent lorsqu'ils ont parcouru tout le Journey.",
       "tr": "Kullanıcılar tüm Journey'i tamamladıklarında çıkarlar.",
-      "zh-CN": "用户在通过整个 Journey 时退出。"
+      "zh-CN": "用户在通过整个 Journey 时退出。",
+      "zh-HK": "用戶在通過整個 Journey 時退出。"
     },
     "Users exit when they match the rules you have set on a particular segment or condition.": {
       "ja": "ユーザーは特定のセグメントまたは条件に設定したルールに一致したときに退出します。",
@@ -10607,7 +10617,8 @@
       "ko": "사용자는 특정 세그먼트 또는 조건에 설정한 규칙과 일치하면 종료됩니다.",
       "fr": "Les utilisateurs sortent lorsqu'ils correspondent aux règles que vous avez définies sur un segment ou une condition particulière.",
       "tr": "Kullanıcılar, belirli bir segment veya koşulda belirlediğiniz kurallarla eşleştiğinde çıkarlar.",
-      "zh-CN": "用户在匹配您为特定 Segment 或条件设置的规则时退出。"
+      "zh-CN": "用户在匹配您为特定 Segment 或条件设置的规则时退出。",
+      "zh-HK": "用戶在匹配您為特定 Segment 或條件設定的規則時退出。"
     },
     "When should users exit this Journey?": {
       "ja": "ユーザーはいつこのジャーニーを退出すべきですか？",
@@ -10616,7 +10627,8 @@
       "ko": "사용자가 언제 이 저니를 종료해야 하나요?",
       "fr": "Quand les utilisateurs doivent-ils sortir de ce Journey ?",
       "tr": "Kullanıcılar bu Journey'den ne zaman çıkmalı?",
-      "zh-CN": "用户何时应退出此 Journey？"
+      "zh-CN": "用户何时应退出此 Journey？",
+      "zh-HK": "用戶何時應退出此 Journey？"
     },
     "Your Journey will be become active at a specific time and date.": {
       "ja": "ジャーニーは特定の日時にアクティブになります。",
@@ -10625,7 +10637,8 @@
       "ko": "저니는 특정 날짜 및 시간에 활성화됩니다.",
       "fr": "Votre Journey deviendra actif à une date et heure précises.",
       "tr": "Journey'iniz belirli bir tarih ve saatte aktif olacak.",
-      "zh-CN": "您的 Journey 将在指定的日期和时间激活。"
+      "zh-CN": "您的 Journey 将在指定的日期和时间激活。",
+      "zh-HK": "您的 Journey 將在指定的日期和時間啟用。"
     },
     "Your Journey will become active as soon as you set it live.": {
       "ja": "ジャーニーはライブ化するとすぐにアクティブになります。",
@@ -10634,7 +10647,8 @@
       "ko": "라이브로 설정하는 즉시 저니가 활성화됩니다.",
       "fr": "Votre Journey deviendra actif dès que vous le mettrez en ligne.",
       "tr": "Journey'iniz yayına aldığınız anda aktif olacak.",
-      "zh-CN": "您的 Journey 在您设为上线后立即激活。"
+      "zh-CN": "您的 Journey 在您设为上线后立即激活。",
+      "zh-HK": "您的 Journey 在您設為上線後立即啟用。"
     },
     "Your Journey will stay active indefinitely.": {
       "ja": "ジャーニーは無期限にアクティブのままです。",
@@ -10643,7 +10657,8 @@
       "ko": "저니는 무기한 활성 상태로 유지됩니다.",
       "fr": "Votre Journey restera actif indéfiniment.",
       "tr": "Journey'iniz süresiz olarak aktif kalacak.",
-      "zh-CN": "您的 Journey 将持续保持活跃。"
+      "zh-CN": "您的 Journey 将持续保持活跃。",
+      "zh-HK": "您的 Journey 將持續保持活躍。"
     },
     "Your Journey will stop on specific time and date.": {
       "ja": "ジャーニーは特定の日時に停止します。",
@@ -10652,7 +10667,8 @@
       "ko": "저니는 특정 날짜 및 시간에 중지됩니다.",
       "fr": "Votre Journey s'arrêtera à une date et heure précises.",
       "tr": "Journey'iniz belirli bir tarih ve saatte duracak.",
-      "zh-CN": "您的 Journey 将在指定的日期和时间停止。"
+      "zh-CN": "您的 Journey 将在指定的日期和时间停止。",
+      "zh-HK": "您的 Journey 將在指定的日期和時間停止。"
     },
     "ends": {
       "ja": "終了",
@@ -10661,7 +10677,8 @@
       "ko": "종료",
       "fr": "se termine",
       "tr": "biter",
-      "zh-CN": "结束"
+      "zh-CN": "结束",
+      "zh-HK": "結束"
     },
     "notification timer": {
       "ja": "通知タイマー",
@@ -10670,7 +10687,8 @@
       "ko": "알림 타이머",
       "fr": "minuteur de notification",
       "tr": "bildirim zamanlayıcısı",
-      "zh-CN": "通知计时器"
+      "zh-CN": "通知计时器",
+      "zh-HK": "通知計時器"
     },
     "starts": {
       "ja": "開始",
@@ -10679,7 +10697,8 @@
       "ko": "시작",
       "fr": "commence",
       "tr": "başlar",
-      "zh-CN": "开始"
+      "zh-CN": "开始",
+      "zh-HK": "開始"
     },
     "Build your own Journey from the ground up.": {
       "ja": "独自のジャーニーをゼロから構築。",
@@ -10688,7 +10707,8 @@
       "ko": "나만의 저니를 처음부터 구축하세요.",
       "fr": "Construisez votre propre Journey de A à Z.",
       "tr": "Kendi Journey'inizi sıfırdan oluşturun.",
-      "zh-CN": "从零开始构建您自己的 Journey。"
+      "zh-CN": "从零开始构建您自己的 Journey。",
+      "zh-HK": "從零開始建立您自己的 Journey。"
     },
     "Choose a Journey to start": {
       "ja": "開始するジャーニーを選択",
@@ -10697,7 +10717,8 @@
       "ko": "시작할 저니 선택",
       "fr": "Choisissez un Journey pour commencer",
       "tr": "Başlamak için bir Journey seçin",
-      "zh-CN": "选择一个 Journey 来开始"
+      "zh-CN": "选择一个 Journey 来开始",
+      "zh-HK": "選擇一個 Journey 來開始"
     },
     "Describe the purpose of this Journey...": {
       "ja": "このジャーニーの目的を記述...",
@@ -10706,7 +10727,8 @@
       "ko": "이 저니의 목적을 설명하세요...",
       "fr": "Décrivez le but de ce Journey...",
       "tr": "Bu Journey'in amacını açıklayın...",
-      "zh-CN": "描述此 Journey 的目的..."
+      "zh-CN": "描述此 Journey 的目的...",
+      "zh-HK": "描述此 Journey 的目的..."
     },
     "Description": {
       "ja": "説明",
@@ -10715,7 +10737,8 @@
       "ko": "설명",
       "fr": "Description",
       "tr": "Açıklama",
-      "zh-CN": "描述"
+      "zh-CN": "描述",
+      "zh-HK": "描述"
     },
     "Journey Name": {
       "ja": "ジャーニー名",
@@ -10724,7 +10747,8 @@
       "ko": "저니 이름",
       "fr": "Nom du Journey",
       "tr": "Journey adı",
-      "zh-CN": "Journey 名称"
+      "zh-CN": "Journey 名称",
+      "zh-HK": "Journey 名稱"
     },
     "My Journey": {
       "ja": "マイジャーニー",
@@ -10733,7 +10757,8 @@
       "ko": "내 저니",
       "fr": "Mon Journey",
       "tr": "Journey'im",
-      "zh-CN": "我的 Journey"
+      "zh-CN": "我的 Journey",
+      "zh-HK": "我的 Journey"
     },
     "Name and describe your Journey": {
       "ja": "ジャーニーに名前を付けて説明",
@@ -10742,7 +10767,8 @@
       "ko": "저니의 이름을 짓고 설명하세요",
       "fr": "Nommez et décrivez votre Journey",
       "tr": "Journey'inize ad verin ve açıklayın",
-      "zh-CN": "为您的 Journey 命名并描述"
+      "zh-CN": "为您的 Journey 命名并描述",
+      "zh-HK": "為您的 Journey 命名並描述"
     },
     "(v1)": {
       "ja": "(v1)",
@@ -10751,7 +10777,8 @@
       "ko": "(v1)",
       "fr": "(v1)",
       "tr": "(v1)",
-      "zh-CN": "(v1)"
+      "zh-CN": "(v1)",
+      "zh-HK": "(v1)"
     },
     "(v2)": {
       "ja": "(v2)",
@@ -10760,7 +10787,8 @@
       "ko": "(v2)",
       "fr": "(v2)",
       "tr": "(v2)",
-      "zh-CN": "(v2)"
+      "zh-CN": "(v2)",
+      "zh-HK": "(v2)"
     },
     "Consistent Naming": {
       "ja": "一貫した命名",
@@ -10769,7 +10797,8 @@
       "ko": "일관된 이름 지정",
       "fr": "Nommage cohérent",
       "tr": "Tutarlı adlandırma",
-      "zh-CN": "一致的命名"
+      "zh-CN": "一致的命名",
+      "zh-HK": "一致的命名"
     },
     "Current user permissions do not allow this action.": {
       "ja": "現在のユーザー権限ではこの操作は許可されていません。",
@@ -10778,7 +10807,8 @@
       "ko": "현재 사용자 권한으로는 이 작업이 허용되지 않습니다.",
       "fr": "Les autorisations de l'utilisateur actuel ne permettent pas cette action.",
       "tr": "Mevcut kullanıcı izinleri bu işleme izin vermiyor.",
-      "zh-CN": "当前用户权限不允许此操作。"
+      "zh-CN": "当前用户权限不允许此操作。",
+      "zh-HK": "當前用戶權限不允許此操作。"
     },
     "Legacy Format": {
       "ja": "レガシー形式",
@@ -10787,7 +10817,8 @@
       "ko": "레거시 형식",
       "fr": "Ancien format",
       "tr": "Eski format",
-      "zh-CN": "旧格式"
+      "zh-CN": "旧格式",
+      "zh-HK": "舊格式"
     },
     "New Format": {
       "ja": "新しい形式",
@@ -10796,7 +10827,8 @@
       "ko": "새 형식",
       "fr": "Nouveau format",
       "tr": "Yeni format",
-      "zh-CN": "新格式"
+      "zh-CN": "新格式",
+      "zh-HK": "新格式"
     },
     "Recommended": {
       "ja": "推奨",
@@ -10805,7 +10837,8 @@
       "ko": "추천",
       "fr": "Recommandé",
       "tr": "Önerilen",
-      "zh-CN": "推荐"
+      "zh-CN": "推荐",
+      "zh-HK": "推薦"
     },
     "Simpler Structure": {
       "ja": "よりシンプルな構造",
@@ -10814,7 +10847,8 @@
       "ko": "더 간단한 구조",
       "fr": "Structure plus simple",
       "tr": "Daha basit yapı",
-      "zh-CN": "更简单的结构"
+      "zh-CN": "更简单的结构",
+      "zh-HK": "更簡單的結構"
     },
     "updated CSV format": {
       "ja": "更新されたCSV形式",
@@ -10823,7 +10857,8 @@
       "ko": "업데이트된 CSV 형식",
       "fr": "format CSV mis à jour",
       "tr": "güncellenmiş CSV formatı",
-      "zh-CN": "更新的 CSV 格式"
+      "zh-CN": "更新的 CSV 格式",
+      "zh-HK": "更新的 CSV 格式"
     },
     "Untitled Message": {
       "ja": "無題のメッセージ",
@@ -10832,7 +10867,8 @@
       "ko": "제목 없는 메시지",
       "fr": "Message sans titre",
       "tr": "Adsız mesaj",
-      "zh-CN": "未命名消息"
+      "zh-CN": "未命名消息",
+      "zh-HK": "未命名訊息"
     },
     "Deliver immediately": {
       "ja": "すぐに配信",
@@ -10841,7 +10877,8 @@
       "ko": "즉시 전달",
       "fr": "Livrer immédiatement",
       "tr": "Hemen teslim et",
-      "zh-CN": "立即送达"
+      "zh-CN": "立即送达",
+      "zh-HK": "立即送達"
     },
     "or paste URL": {
       "ja": "またはURLを貼り付け",
@@ -10850,7 +10887,8 @@
       "ko": "또는 URL 붙여넣기",
       "fr": "ou collez une URL",
       "tr": "veya URL yapıştırın",
-      "zh-CN": "或粘贴 URL"
+      "zh-CN": "或粘贴 URL",
+      "zh-HK": "或貼上 URL"
     },
     "Refine": {
       "ja": "洗練",
@@ -10859,7 +10897,8 @@
       "ko": "다듬기",
       "fr": "Affiner",
       "tr": "İyileştir",
-      "zh-CN": "优化"
+      "zh-CN": "优化",
+      "zh-HK": "優化"
     },
     "Action ID 1": {
       "ja": "アクションID 1",
@@ -10868,7 +10907,8 @@
       "ko": "액션 ID 1",
       "fr": "ID d'action 1",
       "tr": "Eylem ID 1",
-      "zh-CN": "操作 ID 1"
+      "zh-CN": "操作 ID 1",
+      "zh-HK": "操作 ID 1"
     },
     "Add Button": {
       "ja": "ボタンを追加",
@@ -10877,7 +10917,8 @@
       "ko": "버튼 추가",
       "fr": "Ajouter un bouton",
       "tr": "Düğme ekle",
-      "zh-CN": "添加按钮"
+      "zh-CN": "添加按钮",
+      "zh-HK": "新增按鈕"
     },
     "Button Label 1": {
       "ja": "ボタンラベル 1",
@@ -10886,7 +10927,8 @@
       "ko": "버튼 라벨 1",
       "fr": "Libellé du bouton 1",
       "tr": "Düğme etiketi 1",
-      "zh-CN": "按钮标签 1"
+      "zh-CN": "按钮标签 1",
+      "zh-HK": "按鈕標籤 1"
     },
     "Category": {
       "ja": "カテゴリ",
@@ -10895,7 +10937,8 @@
       "ko": "카테고리",
       "fr": "Catégorie",
       "tr": "Kategori",
-      "zh-CN": "类别"
+      "zh-CN": "类别",
+      "zh-HK": "類別"
     },
     "Icon": {
       "ja": "アイコン",
@@ -10904,7 +10947,8 @@
       "ko": "아이콘",
       "fr": "Icône",
       "tr": "Simge",
-      "zh-CN": "图标"
+      "zh-CN": "图标",
+      "zh-HK": "圖示"
     },
     "Remove Action 1": {
       "ja": "アクション1を削除",
@@ -10913,7 +10957,8 @@
       "ko": "액션 1 제거",
       "fr": "Retirer l'action 1",
       "tr": "Eylem 1'i kaldır",
-      "zh-CN": "移除操作 1"
+      "zh-CN": "移除操作 1",
+      "zh-HK": "移除操作 1"
     },
     "e.g. Accept": {
       "ja": "例: 承諾",
@@ -10922,7 +10967,8 @@
       "ko": "예: 수락",
       "fr": "par ex. Accepter",
       "tr": "örn. Kabul et",
-      "zh-CN": "例如 接受"
+      "zh-CN": "例如 接受",
+      "zh-HK": "例如 接受"
     },
     "or paste resource name or URL": {
       "ja": "またはリソース名やURLを貼り付け",
@@ -10931,7 +10977,8 @@
       "ko": "또는 리소스 이름이나 URL 붙여넣기",
       "fr": "ou collez un nom de ressource ou une URL",
       "tr": "veya kaynak adı ya da URL yapıştırın",
-      "zh-CN": "或粘贴资源名称或 URL"
+      "zh-CN": "或粘贴资源名称或 URL",
+      "zh-HK": "或貼上資源名稱或 URL"
     },
     "(Created in App)": {
       "ja": "(アプリで作成)",
@@ -10940,7 +10987,8 @@
       "ko": "(앱에서 생성됨)",
       "fr": "(Créé dans l'app)",
       "tr": "(Uygulamada oluşturuldu)",
-      "zh-CN": "（在应用中创建）"
+      "zh-CN": "（在应用中创建）",
+      "zh-HK": "（在應用中建立）"
     },
     "(recommended)": {
       "ja": "(推奨)",
@@ -10949,7 +10997,8 @@
       "ko": "(권장)",
       "fr": "(recommandé)",
       "tr": "(önerilen)",
-      "zh-CN": "（推荐）"
+      "zh-CN": "（推荐）",
+      "zh-HK": "（推薦）"
     },
     "0 (lowest priority)": {
       "ja": "0 (最低優先度)",
@@ -10958,7 +11007,8 @@
       "ko": "0 (최저 우선순위)",
       "fr": "0 (priorité la plus basse)",
       "tr": "0 (en düşük öncelik)",
-      "zh-CN": "0（最低优先级）"
+      "zh-CN": "0（最低优先级）",
+      "zh-HK": "0（最低優先級）"
     },
     "4. Delivery Schedule": {
       "ja": "4. 配信スケジュール",
