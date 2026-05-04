@@ -5517,7 +5517,8 @@
       "ko": "웹 푸시 구독자",
       "fr": "Abonnés push web",
       "tr": "Web push aboneleri",
-      "zh-CN": "Web Push 订阅者"
+      "zh-CN": "Web Push 订阅者",
+      "zh-HK": "Web Push 訂閱者"
     },
     "Webhook": {
       "es": "Webhook",
@@ -5526,7 +5527,8 @@
       "ko": "웹훅",
       "fr": "Webhook",
       "tr": "Webhook",
-      "zh-CN": "Webhook"
+      "zh-CN": "Webhook",
+      "zh-HK": "Webhook"
     },
     "Webhook URL": {
       "es": "URL del webhook",
@@ -5535,7 +5537,8 @@
       "ko": "웹훅 URL",
       "fr": "URL du webhook",
       "tr": "Webhook URL",
-      "zh-CN": "Webhook URL"
+      "zh-CN": "Webhook URL",
+      "zh-HK": "Webhook URL"
     },
     "Webhooks": {
       "es": "Webhooks",
@@ -5544,7 +5547,8 @@
       "ko": "웹훅",
       "fr": "Webhooks",
       "tr": "Webhook'lar",
-      "zh-CN": "Webhook"
+      "zh-CN": "Webhook",
+      "zh-HK": "Webhook"
     },
     "Wed": {
       "es": "Mié",
@@ -5553,7 +5557,8 @@
       "ko": "수",
       "fr": "Mer",
       "tr": "Çar",
-      "zh-CN": "周三"
+      "zh-CN": "周三",
+      "zh-HK": "週三"
     },
     "Went live": {
       "es": "Publicado el",
@@ -5562,7 +5567,8 @@
       "ko": "라이브됨",
       "fr": "Mis en ligne",
       "tr": "Yayına alındı",
-      "zh-CN": "已上线"
+      "zh-CN": "已上线",
+      "zh-HK": "已上線"
     },
     "Year": {
       "es": "Año",
@@ -5571,7 +5577,8 @@
       "ko": "연도",
       "fr": "Année",
       "tr": "Yıl",
-      "zh-CN": "年"
+      "zh-CN": "年",
+      "zh-HK": "年"
     },
     "Yes": {
       "es": "Sí",
@@ -5580,7 +5587,8 @@
       "ko": "예",
       "fr": "Oui",
       "tr": "Evet",
-      "zh-CN": "是"
+      "zh-CN": "是",
+      "zh-HK": "是"
     },
     "Yesterday": {
       "es": "Ayer",
@@ -5589,7 +5597,8 @@
       "ko": "어제",
       "fr": "Hier",
       "tr": "Dün",
-      "zh-CN": "昨天"
+      "zh-CN": "昨天",
+      "zh-HK": "昨天"
     },
     "Stay top of mind": {
       "ja": "常にユーザーの意識に残る",
@@ -5598,7 +5607,8 @@
       "ko": "항상 기억되세요",
       "fr": "Restez dans l'esprit de vos utilisateurs",
       "tr": "Akılda kalın",
-      "zh-CN": "保持用户关注"
+      "zh-CN": "保持用户关注",
+      "zh-HK": "保持用戶關注"
     },
     "Visible and timely messages bring your users back": {
       "ja": "タイムリーなメッセージでユーザーを引き戻す",
@@ -5607,7 +5617,8 @@
       "ko": "눈에 띄고 적시의 메시지로 사용자를 돌아오게 하세요",
       "fr": "Des messages visibles et opportuns font revenir vos utilisateurs",
       "tr": "Görünür ve zamanında mesajlar kullanıcılarınızı geri getirir",
-      "zh-CN": "醒目且及时的消息让用户回归"
+      "zh-CN": "醒目且及时的消息让用户回归",
+      "zh-HK": "醒目且及時的訊息讓用戶回歸"
     },
     "Easily manage mobile and web push in one place": {
       "ja": "モバイルとウェブのプッシュを一か所で簡単に管理",
@@ -5616,7 +5627,8 @@
       "ko": "모바일 및 웹 푸시를 한 곳에서 쉽게 관리하세요",
       "fr": "Gérez facilement le push mobile et web depuis un seul endroit",
       "tr": "Mobil ve web push'u tek bir yerden kolayca yönetin",
-      "zh-CN": "在一处轻松管理移动和 Web Push"
+      "zh-CN": "在一处轻松管理移动和 Web Push",
+      "zh-HK": "在一處輕鬆管理移動和 Web Push"
     },
     "Unlimited push for real-time updates, alerts, and more": {
       "ja": "リアルタイムの更新・アラートなどをプッシュ数の制限なく配信",
@@ -5625,7 +5637,8 @@
       "ko": "실시간 업데이트, 알림 등을 위한 무제한 푸시",
       "fr": "Push illimité pour les mises à jour en temps réel, alertes et plus",
       "tr": "Gerçek zamanlı güncellemeler, uyarılar ve daha fazlası için sınırsız push",
-      "zh-CN": "无限 Push 用于实时更新、提醒等"
+      "zh-CN": "无限 Push 用于实时更新、提醒等",
+      "zh-HK": "無限 Push 用於即時更新、提醒等"
     },
     "Set Up Push": {
       "ja": "プッシュをセットアップ",
@@ -5634,7 +5647,8 @@
       "ko": "푸시 설정",
       "fr": "Configurer le push",
       "tr": "Push'u kur",
-      "zh-CN": "设置 Push"
+      "zh-CN": "设置 Push",
+      "zh-HK": "設定 Push"
     },
     "Push setup documentation": {
       "ja": "プッシュセットアップドキュメント",
@@ -5643,7 +5657,8 @@
       "ko": "푸시 설정 문서",
       "fr": "Documentation de configuration push",
       "tr": "Push kurulum dokümantasyonu",
-      "zh-CN": "Push 设置文档"
+      "zh-CN": "Push 设置文档",
+      "zh-HK": "Push 設定文件"
     },
     "Hi! Let's get started": {
       "ja": "こんにちは！さっそく始めましょう",
@@ -5652,7 +5667,8 @@
       "ko": "안녕하세요! 시작해봅시다",
       "fr": "Bonjour ! Commençons",
       "tr": "Merhaba! Hadi başlayalım",
-      "zh-CN": "您好！让我们开始吧"
+      "zh-CN": "您好！让我们开始吧",
+      "zh-HK": "您好！讓我們開始吧"
     },
     "Set up your messaging channels": {
       "ja": "メッセージチャネルを設定",
@@ -5661,7 +5677,8 @@
       "ko": "메시지 채널 설정",
       "fr": "Configurer vos canaux de messagerie",
       "tr": "Mesajlaşma kanallarınızı kurun",
-      "zh-CN": "设置您的消息渠道"
+      "zh-CN": "设置您的消息渠道",
+      "zh-HK": "設定您的訊息渠道"
     },
     "Create your first message": {
       "ja": "最初のメッセージを作成",
@@ -5670,7 +5687,8 @@
       "ko": "첫 번째 메시지 만들기",
       "fr": "Créez votre premier message",
       "tr": "İlk mesajınızı oluşturun",
-      "zh-CN": "创建您的第一条消息"
+      "zh-CN": "创建您的第一条消息",
+      "zh-HK": "建立您的第一則訊息"
     },
     "Import users": {
       "ja": "ユーザーをインポート",
@@ -5679,7 +5697,8 @@
       "ko": "사용자 가져오기",
       "fr": "Importer des utilisateurs",
       "tr": "Kullanıcıları içe aktar",
-      "zh-CN": "导入用户"
+      "zh-CN": "导入用户",
+      "zh-HK": "匯入用戶"
     },
     "Push notifications": {
       "ja": "プッシュ通知",
@@ -5688,7 +5707,8 @@
       "ko": "푸시 알림",
       "fr": "Notifications push",
       "tr": "Push bildirimleri",
-      "zh-CN": "Push 通知"
+      "zh-CN": "Push 通知",
+      "zh-HK": "Push 通知"
     },
     "In-app messages": {
       "ja": "アプリ内メッセージ",
@@ -5697,7 +5717,8 @@
       "ko": "인앱 메시지",
       "fr": "Messages dans l'application",
       "tr": "Uygulama içi mesajlar",
-      "zh-CN": "应用内消息"
+      "zh-CN": "应用内消息",
+      "zh-HK": "應用內訊息"
     },
     "Add your users & subscriptions": {
       "ja": "ユーザーと購読を追加",
@@ -5706,7 +5727,8 @@
       "ko": "사용자 및 구독 추가",
       "fr": "Ajoutez vos utilisateurs et abonnements",
       "tr": "Kullanıcılarınızı ve aboneliklerinizi ekleyin",
-      "zh-CN": "添加您的用户和订阅"
+      "zh-CN": "添加您的用户和订阅",
+      "zh-HK": "新增您的用戶和訂閱"
     },
     "Bring your users back with mobile and web push.": {
       "ja": "モバイルとウェブのプッシュ通知でユーザーを呼び戻します。",
@@ -5715,7 +5737,8 @@
       "ko": "모바일 및 웹 푸시로 사용자를 다시 유도하세요.",
       "fr": "Faites revenir vos utilisateurs avec le push mobile et web.",
       "tr": "Mobil ve web push ile kullanıcılarınızı geri getirin.",
-      "zh-CN": "通过移动和 Web Push 让用户回归。"
+      "zh-CN": "通过移动和 Web Push 让用户回归。",
+      "zh-HK": "透過移動和 Web Push 讓用戶回歸。"
     },
     "Craft sophisticated professional emails with no code.": {
       "ja": "コードなしでプロフェッショナルなメールを作成。",
@@ -5724,7 +5747,8 @@
       "ko": "코딩 없이 전문적인 이메일을 작성하세요.",
       "fr": "Créez des emails professionnels élaborés sans code.",
       "tr": "Kod yazmadan sofistike profesyonel emailler hazırlayın.",
-      "zh-CN": "无需代码即可制作精美的专业 Email。"
+      "zh-CN": "无需代码即可制作精美的专业 Email。",
+      "zh-HK": "無需代碼即可製作精美的專業 Email。"
     },
     "Directly reach your audience in an effective, mobile-first way.": {
       "ja": "モバイルファーストな方法で効果的にオーディエンスに直接リーチ。",
@@ -5733,7 +5757,8 @@
       "ko": "효과적인 모바일 우선 방식으로 대상에게 직접 도달하세요.",
       "fr": "Atteignez directement votre audience avec une approche mobile-first.",
       "tr": "Hedef kitlenize etkili, mobil öncelikli bir şekilde doğrudan ulaşın.",
-      "zh-CN": "以高效的移动优先方式直接触达您的受众。"
+      "zh-CN": "以高效的移动优先方式直接触达您的受众。",
+      "zh-HK": "以高效的移動優先方式直接觸達您的受眾。"
     },
     "Reach all active users, regardless of subscription status. (mobile apps only)": {
       "ja": "購読の状況に関わらず、すべてのアクティブユーザーにリーチします。（モバイルアプリのみ）",
@@ -5742,7 +5767,8 @@
       "ko": "구독 상태에 관계없이 모든 활성 사용자에게 도달하세요. (모바일 앱 전용)",
       "fr": "Atteignez tous les utilisateurs actifs, quel que soit leur statut d'abonnement. (apps mobiles uniquement)",
       "tr": "Abonelik durumundan bağımsız olarak tüm aktif kullanıcılara ulaşın. (yalnızca mobil uygulamalar)",
-      "zh-CN": "无论订阅状态如何，触达所有活跃用户。（仅限移动应用）"
+      "zh-CN": "无论订阅状态如何，触达所有活跃用户。（仅限移动应用）",
+      "zh-HK": "無論訂閱狀態如何，觸達所有活躍用戶。（僅限移動應用）"
     },
     "Send a quick message or setup automated messaging with Journeys": {
       "ja": "クイックメッセージを送信するか、ジャーニーで自動メッセージを設定する",
@@ -5751,7 +5777,8 @@
       "ko": "빠른 메시지를 보내거나 저니로 자동화 메시지를 설정하세요",
       "fr": "Envoyez un message rapide ou configurez la messagerie automatisée avec Journeys",
       "tr": "Hızlı bir mesaj gönderin veya Journeys ile otomatik mesajlaşma kurun",
-      "zh-CN": "发送快速消息或使用 Journeys 设置自动化消息"
+      "zh-CN": "发送快速消息或使用 Journeys 设置自动化消息",
+      "zh-HK": "發送快速訊息或使用 Journeys 設定自動化訊息"
     },
     "Read our quickstart documentation": {
       "ja": "クイックスタートドキュメントを読む",
@@ -5760,7 +5787,8 @@
       "ko": "빠른 시작 문서 읽기",
       "fr": "Lire notre documentation de démarrage rapide",
       "tr": "Hızlı başlangıç dokümantasyonumuzu okuyun",
-      "zh-CN": "阅读我们的快速开始文档"
+      "zh-CN": "阅读我们的快速开始文档",
+      "zh-HK": "閱讀我們的快速開始文件"
     },
     "Email - Active - Click to manage settings": {
       "ja": "メール - アクティブ - クリックして設定を管理",
@@ -5769,7 +5797,8 @@
       "ko": "이메일 - 활성 - 클릭하여 설정 관리",
       "fr": "Email - Actif - Cliquez pour gérer les paramètres",
       "tr": "Email - Aktif - Ayarları yönetmek için tıklayın",
-      "zh-CN": "Email - 活跃 - 点击管理设置"
+      "zh-CN": "Email - 活跃 - 点击管理设置",
+      "zh-HK": "Email - 活躍 - 點擊管理設定"
     },
     "In-app messages - Not configured - Click to set up": {
       "ja": "アプリ内メッセージ - 未設定 - クリックしてセットアップ",
@@ -5778,7 +5807,8 @@
       "ko": "인앱 메시지 - 미구성 - 클릭하여 설정",
       "fr": "Messages dans l'application - Non configuré - Cliquez pour configurer",
       "tr": "Uygulama içi mesajlar - Yapılandırılmadı - Kurmak için tıklayın",
-      "zh-CN": "应用内消息 - 未配置 - 点击设置"
+      "zh-CN": "应用内消息 - 未配置 - 点击设置",
+      "zh-HK": "應用內訊息 - 未配置 - 點擊設定"
     },
     "Push notifications - Not configured - Click to set up": {
       "ja": "プッシュ通知 - 未設定 - クリックしてセットアップ",
@@ -5787,7 +5817,8 @@
       "ko": "푸시 알림 - 미구성 - 클릭하여 설정",
       "fr": "Notifications push - Non configuré - Cliquez pour configurer",
       "tr": "Push bildirimleri - Yapılandırılmadı - Kurmak için tıklayın",
-      "zh-CN": "Push 通知 - 未配置 - 点击设置"
+      "zh-CN": "Push 通知 - 未配置 - 点击设置",
+      "zh-HK": "Push 通知 - 未配置 - 點擊設定"
     },
     "SMS / RCS - Not configured - Click to set up": {
       "ja": "SMS / RCS - 未設定 - クリックしてセットアップ",
@@ -5796,7 +5827,8 @@
       "ko": "SMS / RCS - 미구성 - 클릭하여 설정",
       "fr": "SMS / RCS - Non configuré - Cliquez pour configurer",
       "tr": "SMS / RCS - Yapılandırılmadı - Kurmak için tıklayın",
-      "zh-CN": "SMS / RCS - 未配置 - 点击设置"
+      "zh-CN": "SMS / RCS - 未配置 - 点击设置",
+      "zh-HK": "SMS / RCS - 未配置 - 點擊設定"
     },
     "Account options": {
       "ja": "アカウントオプション",
@@ -5805,7 +5837,8 @@
       "ko": "계정 옵션",
       "fr": "Options du compte",
       "tr": "Hesap seçenekleri",
-      "zh-CN": "账户选项"
+      "zh-CN": "账户选项",
+      "zh-HK": "帳戶選項"
     },
     "Close Audience menu": {
       "ja": "オーディエンスメニューを閉じる",
@@ -5814,7 +5847,8 @@
       "ko": "대상 메뉴 닫기",
       "fr": "Fermer le menu Audience",
       "tr": "Hedef kitle menüsünü kapat",
-      "zh-CN": "关闭受众菜单"
+      "zh-CN": "关闭受众菜单",
+      "zh-HK": "關閉受眾選單"
     },
     "Close Data menu": {
       "ja": "データメニューを閉じる",
@@ -5823,7 +5857,8 @@
       "ko": "데이터 메뉴 닫기",
       "fr": "Fermer le menu Données",
       "tr": "Veri menüsünü kapat",
-      "zh-CN": "关闭数据菜单"
+      "zh-CN": "关闭数据菜单",
+      "zh-HK": "關閉資料選單"
     },
     "Close Delivery menu": {
       "ja": "配信メニューを閉じる",
@@ -5832,7 +5867,8 @@
       "ko": "전달 메뉴 닫기",
       "fr": "Fermer le menu Livraison",
       "tr": "Teslimat menüsünü kapat",
-      "zh-CN": "关闭送达菜单"
+      "zh-CN": "关闭送达菜单",
+      "zh-HK": "關閉送達選單"
     },
     "Close Messages menu": {
       "ja": "メッセージメニューを閉じる",
@@ -5841,7 +5877,8 @@
       "ko": "메시지 메뉴 닫기",
       "fr": "Fermer le menu Messages",
       "tr": "Mesajlar menüsünü kapat",
-      "zh-CN": "关闭消息菜单"
+      "zh-CN": "关闭消息菜单",
+      "zh-HK": "關閉訊息選單"
     },
     "Collapse navigation": {
       "ja": "ナビゲーションを折りたたむ",
@@ -5850,7 +5887,8 @@
       "ko": "탐색 접기",
       "fr": "Réduire la navigation",
       "tr": "Gezinmeyi daralt",
-      "zh-CN": "折叠导航"
+      "zh-CN": "折叠导航",
+      "zh-HK": "摺疊導覽"
     },
     "Toggle navigation": {
       "ja": "ナビゲーションの切り替え",
@@ -5859,7 +5897,8 @@
       "ko": "탐색 전환",
       "fr": "Basculer la navigation",
       "tr": "Gezinmeyi aç/kapat",
-      "zh-CN": "切换导航"
+      "zh-CN": "切换导航",
+      "zh-HK": "切換導覽"
     },
     "Notifications Alt+T": {
       "ja": "通知 Alt+T",
@@ -5868,7 +5907,8 @@
       "ko": "알림 Alt+T",
       "fr": "Notifications Alt+T",
       "tr": "Bildirimler Alt+T",
-      "zh-CN": "通知 Alt+T"
+      "zh-CN": "通知 Alt+T",
+      "zh-HK": "通知 Alt+T"
     },
     "Event Stream documentation": {
       "ja": "イベントストリームのドキュメント",
@@ -5877,7 +5917,8 @@
       "ko": "이벤트 스트림 문서",
       "fr": "Documentation Event Stream",
       "tr": "Event Stream dokümantasyonu",
-      "zh-CN": "Event Stream 文档"
+      "zh-CN": "Event Stream 文档",
+      "zh-HK": "Event Stream 文件"
     },
     "Event Streams send message data out of OneSignal in real-time to your chosen destination.": {
       "ja": "イベントストリームは、OneSignalのメッセージデータをリアルタイムで指定の宛先に送信します。",
@@ -5886,7 +5927,8 @@
       "ko": "이벤트 스트림은 OneSignal에서 선택한 대상으로 메시지 데이터를 실시간으로 전송합니다.",
       "fr": "Les Event Streams envoient les données de messages depuis OneSignal en temps réel vers la destination de votre choix.",
       "tr": "Event Streams, mesaj verilerini OneSignal'den seçtiğiniz hedefe gerçek zamanlı olarak gönderir.",
-      "zh-CN": "Event Streams 将消息数据从 OneSignal 实时发送到您选择的目的地。"
+      "zh-CN": "Event Streams 将消息数据从 OneSignal 实时发送到您选择的目的地。",
+      "zh-HK": "Event Streams 將訊息資料從 OneSignal 即時發送到您選擇的目的地。"
     },
     "Access detailed message delivery history and recipient data for your OneSignal notifications through our comprehensive API.": {
       "ja": "包括的なAPIを通じて、OneSignal通知の詳細なメッセージ配信履歴と受信者データにアクセスできます。",
@@ -5895,7 +5937,8 @@
       "ko": "포괄적인 API를 통해 OneSignal 알림의 상세한 메시지 전달 이력과 수신자 데이터에 액세스하세요.",
       "fr": "Accédez à l'historique détaillé de livraison des messages et aux données des destinataires de vos notifications via notre API complète.",
       "tr": "Kapsamlı API'miz aracılığıyla OneSignal bildirimlerinizin ayrıntılı mesaj teslim geçmişine ve alıcı verilerine erişin.",
-      "zh-CN": "通过我们全面的 API 访问 OneSignal 通知的详细消息送达历史和收件人数据。"
+      "zh-CN": "通过我们全面的 API 访问 OneSignal 通知的详细消息送达历史和收件人数据。",
+      "zh-HK": "透過我們全面的 API 存取 OneSignal 通知的詳細訊息送達歷史和收件人資料。"
     },
     "Retain data long term for auditing and compliance or to power machine-learning engines": {
       "ja": "監査・コンプライアンスや機械学習エンジンのためにデータを長期保存する",
@@ -5904,7 +5947,8 @@
       "ko": "감사 및 규정 준수 또는 머신 러닝 엔진 구동을 위해 데이터를 장기 보관하세요",
       "fr": "Conservez les données à long terme pour l'audit et la conformité, ou pour alimenter des moteurs de machine learning",
       "tr": "Denetim ve uyumluluk için veya makine öğrenmesi motorlarını beslemek üzere verileri uzun vadeli olarak saklayın",
-      "zh-CN": "长期保留数据用于审计与合规，或为机器学习引擎提供支持"
+      "zh-CN": "长期保留数据用于审计与合规，或为机器学习引擎提供支持",
+      "zh-HK": "長期保留資料用於審計與合規，或為機器學習引擎提供支援"
     },
     "Send History": {
       "ja": "送信履歴",
@@ -5913,7 +5957,8 @@
       "ko": "발송 이력",
       "fr": "Historique d'envoi",
       "tr": "Gönderim geçmişi",
-      "zh-CN": "发送历史"
+      "zh-CN": "发送历史",
+      "zh-HK": "發送歷史"
     },
     "Send a continuous flow of data to other tools": {
       "ja": "他のツールへデータを継続的に送信",
@@ -5922,7 +5967,8 @@
       "ko": "다른 도구로 데이터를 지속적으로 전송하세요",
       "fr": "Envoyez un flux continu de données vers d'autres outils",
       "tr": "Diğer araçlara sürekli bir veri akışı gönderin",
-      "zh-CN": "向其他工具持续发送数据流"
+      "zh-CN": "向其他工具持续发送数据流",
+      "zh-HK": "向其他工具持續發送資料流"
     },
     "Send events to your data warehouse, business intelligence, or analytics tool for analysis": {
       "ja": "データウェアハウス、BIツール、または分析ツールにイベントを送信して分析する",
@@ -5931,7 +5977,8 @@
       "ko": "분석을 위해 데이터 웨어하우스, 비즈니스 인텔리전스 또는 분석 도구로 이벤트를 전송하세요",
       "fr": "Envoyez les événements vers votre data warehouse, votre outil de BI ou d'analyse",
       "tr": "Etkinlikleri analiz için veri ambarınıza, iş zekası veya analiz aracınıza gönderin",
-      "zh-CN": "将事件发送到您的数据仓库、商业智能或分析工具进行分析"
+      "zh-CN": "将事件发送到您的数据仓库、商业智能或分析工具进行分析",
+      "zh-HK": "將事件發送到您的資料倉庫、商業智能或分析工具進行分析"
     },
     "Stream data in real time to trigger timely actions or workflows in other customer relationship tools": {
       "ja": "リアルタイムでデータをストリーミングして、他のCRMツールでタイムリーなアクションやワークフローをトリガーする",
@@ -5940,7 +5987,8 @@
       "ko": "실시간으로 데이터를 스트리밍하여 다른 고객 관계 도구에서 시의적절한 작업 또는 워크플로를 트리거하세요",
       "fr": "Transmettez les données en temps réel pour déclencher des actions ou flux de travail opportuns dans vos autres outils CRM",
       "tr": "Diğer müşteri ilişkileri araçlarında zamanında eylemleri veya iş akışlarını tetiklemek için verileri gerçek zamanlı olarak akışla aktarın",
-      "zh-CN": "实时流式传输数据，在其他客户关系工具中触发及时的操作或工作流"
+      "zh-CN": "实时流式传输数据，在其他客户关系工具中触发及时的操作或工作流",
+      "zh-HK": "即時串流資料，在其他客戶關係工具中觸發及時的操作或工作流"
     },
     "Data Warehouse": {
       "ja": "データウェアハウス",
@@ -5949,7 +5997,8 @@
       "ko": "데이터 웨어하우스",
       "fr": "Entrepôt de données",
       "tr": "Veri ambarı",
-      "zh-CN": "数据仓库"
+      "zh-CN": "数据仓库",
+      "zh-HK": "資料倉庫"
     },
     "Database": {
       "ja": "データベース",
@@ -5958,7 +6007,8 @@
       "ko": "데이터베이스",
       "fr": "Base de données",
       "tr": "Veritabanı",
-      "zh-CN": "数据库"
+      "zh-CN": "数据库",
+      "zh-HK": "資料庫"
     },
     "Data Streaming": {
       "ja": "データストリーミング",
