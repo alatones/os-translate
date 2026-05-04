@@ -11017,7 +11017,8 @@
       "ko": "4. 전달 일정",
       "fr": "4. Planification d'envoi",
       "tr": "4. Gönderim planı",
-      "zh-CN": "4. 发送计划"
+      "zh-CN": "4. 发送计划",
+      "zh-HK": "4. 發送排程"
     },
     "5 per minute": {
       "ja": "毎分5件",
@@ -11026,7 +11027,8 @@
       "ko": "분당 5건",
       "fr": "5 par minute",
       "tr": "Dakikada 5",
-      "zh-CN": "每分钟 5 条"
+      "zh-CN": "每分钟 5 条",
+      "zh-HK": "每分鐘 5 條"
     },
     "Accent Color": {
       "ja": "アクセントカラー",
@@ -11035,7 +11037,8 @@
       "ko": "강조 색상",
       "fr": "Couleur d'accentuation",
       "tr": "Vurgu rengi",
-      "zh-CN": "强调色"
+      "zh-CN": "强调色",
+      "zh-HK": "強調色"
     },
     "Action Icon Path 1": {
       "ja": "アクションアイコンパス 1",
@@ -11044,7 +11047,8 @@
       "ko": "액션 아이콘 경로 1",
       "fr": "Chemin de l'icône d'action 1",
       "tr": "Eylem simgesi yolu 1",
-      "zh-CN": "操作图标路径 1"
+      "zh-CN": "操作图标路径 1",
+      "zh-HK": "操作圖示路徑 1"
     },
     "Add Field": {
       "ja": "フィールドを追加",
@@ -11053,7 +11057,8 @@
       "ko": "필드 추가",
       "fr": "Ajouter un champ",
       "tr": "Alan ekle",
-      "zh-CN": "添加字段"
+      "zh-CN": "添加字段",
+      "zh-HK": "新增欄位"
     },
     "Add Languages": {
       "ja": "言語を追加",
@@ -11062,7 +11067,8 @@
       "ko": "언어 추가",
       "fr": "Ajouter des langues",
       "tr": "Dil ekle",
-      "zh-CN": "添加语言"
+      "zh-CN": "添加语言",
+      "zh-HK": "新增語言"
     },
     "Begin typing to try our new AI refine feature": {
       "ja": "新しいAI洗練機能を試すには入力を開始してください",
@@ -11071,7 +11077,8 @@
       "ko": "새로운 AI 다듬기 기능을 사용해보려면 입력을 시작하세요",
       "fr": "Commencez à taper pour essayer notre nouvelle fonction d'amélioration IA",
       "tr": "Yeni AI iyileştirme özelliğimizi denemek için yazmaya başlayın",
-      "zh-CN": "开始输入以试用我们的新 AI 优化功能"
+      "zh-CN": "开始输入以试用我们的新 AI 优化功能",
+      "zh-HK": "開始輸入以試用我們的新 AI 優化功能"
     },
     "Big Picture": {
       "ja": "ビッグピクチャー",
@@ -11080,7 +11087,8 @@
       "ko": "큰 그림",
       "fr": "Grande image",
       "tr": "Büyük resim",
-      "zh-CN": "大图"
+      "zh-CN": "大图",
+      "zh-HK": "大圖"
     },
     "Chrome Action Buttons": {
       "ja": "Chromeアクションボタン",
@@ -11089,7 +11097,8 @@
       "ko": "Chrome 액션 버튼",
       "fr": "Boutons d'action Chrome",
       "tr": "Chrome eylem düğmeleri",
-      "zh-CN": "Chrome 操作按钮"
+      "zh-CN": "Chrome 操作按钮",
+      "zh-HK": "Chrome 操作按鈕"
     },
     "Collapse ID": {
       "ja": "折りたたみID",
@@ -11098,7 +11107,8 @@
       "ko": "접기 ID",
       "fr": "ID de regroupement",
       "tr": "Daraltma ID",
-      "zh-CN": "折叠 ID"
+      "zh-CN": "折叠 ID",
+      "zh-HK": "摺疊 ID"
     },
     "Content available": {
       "ja": "コンテンツ利用可能",
@@ -11107,7 +11117,8 @@
       "ko": "콘텐츠 사용 가능",
       "fr": "Contenu disponible",
       "tr": "İçerik mevcut",
-      "zh-CN": "内容可用"
+      "zh-CN": "内容可用",
+      "zh-HK": "內容可用"
     },
     "Critical": {
       "ja": "クリティカル",
@@ -11116,7 +11127,8 @@
       "ko": "중요",
       "fr": "Critique",
       "tr": "Kritik",
-      "zh-CN": "紧急"
+      "zh-CN": "紧急",
+      "zh-HK": "緊急"
     },
     "Default is a bell icon (resource name)": {
       "ja": "デフォルトはベルアイコン（リソース名）",
@@ -11125,7 +11137,8 @@
       "ko": "기본값은 종 아이콘 (리소스 이름)",
       "fr": "Par défaut, icône de cloche (nom de ressource)",
       "tr": "Varsayılan zil simgesidir (kaynak adı)",
-      "zh-CN": "默认为铃铛图标（资源名称）"
+      "zh-CN": "默认为铃铛图标（资源名称）",
+      "zh-HK": "預設為鈴鐺圖示（資源名稱）"
     },
     "Default is device's default": {
       "ja": "デフォルトはデバイスの既定値",
@@ -11134,7 +11147,8 @@
       "ko": "기본값은 기기의 기본값",
       "fr": "Par défaut, paramètre par défaut de l'appareil",
       "tr": "Varsayılan, cihazın varsayılanıdır",
-      "zh-CN": "默认为设备的默认设置"
+      "zh-CN": "默认为设备的默认设置",
+      "zh-HK": "預設為裝置的預設設定"
     },
     "Different URL for web/app": {
       "ja": "ウェブ/アプリで異なるURL",
@@ -11143,7 +11157,8 @@
       "ko": "웹/앱용 다른 URL",
       "fr": "URL différente pour web/app",
       "tr": "Web/uygulama için farklı URL",
-      "zh-CN": "为 Web/应用使用不同的 URL"
+      "zh-CN": "为 Web/应用使用不同的 URL",
+      "zh-HK": "為 Web/應用使用不同的 URL"
     },
     "Device's default (filename.extension)": {
       "ja": "デバイスの既定値 (ファイル名.拡張子)",
@@ -11152,7 +11167,8 @@
       "ko": "기기의 기본값 (파일명.확장자)",
       "fr": "Par défaut de l'appareil (nomdefichier.extension)",
       "tr": "Cihazın varsayılanı (dosyaadı.uzantı)",
-      "zh-CN": "设备的默认设置（文件名.扩展名）"
+      "zh-CN": "设备的默认设置（文件名.扩展名）",
+      "zh-HK": "裝置的預設設定（檔案名.副檔名）"
     },
     "Don't set": {
       "ja": "設定しない",
@@ -11161,7 +11177,8 @@
       "ko": "설정하지 않음",
       "fr": "Ne pas définir",
       "tr": "Ayarlama",
-      "zh-CN": "不设置"
+      "zh-CN": "不设置",
+      "zh-HK": "不設定"
     },
     "Field 1": {
       "ja": "フィールド 1",
@@ -11170,7 +11187,8 @@
       "ko": "필드 1",
       "fr": "Champ 1",
       "tr": "Alan 1",
-      "zh-CN": "字段 1"
+      "zh-CN": "字段 1",
+      "zh-HK": "欄位 1"
     },
     "Global image upload input": {
       "ja": "グローバル画像アップロード入力",
@@ -11179,7 +11197,8 @@
       "ko": "글로벌 이미지 업로드 입력",
       "fr": "Entrée globale de téléversement d'image",
       "tr": "Genel görsel yükleme girişi",
-      "zh-CN": "全局图像上传输入"
+      "zh-CN": "全局图像上传输入",
+      "zh-HK": "全域圖像上傳輸入"
     },
     "Group Key": {
       "ja": "グループキー",
@@ -11188,7 +11207,8 @@
       "ko": "그룹 키",
       "fr": "Clé de groupe",
       "tr": "Grup anahtarı",
-      "zh-CN": "组密钥"
+      "zh-CN": "组密钥",
+      "zh-HK": "組密鑰"
     },
     "High": {
       "ja": "高",
@@ -11197,7 +11217,8 @@
       "ko": "높음",
       "fr": "Élevée",
       "tr": "Yüksek",
-      "zh-CN": "高"
+      "zh-CN": "高",
+      "zh-HK": "高"
     },
     "High importance": {
       "ja": "高い重要度",
@@ -11206,7 +11227,8 @@
       "ko": "높은 중요도",
       "fr": "Importance élevée",
       "tr": "Yüksek önem",
-      "zh-CN": "高重要性"
+      "zh-CN": "高重要性",
+      "zh-HK": "高重要性"
     },
     "Icon URL 1": {
       "ja": "アイコンURL 1",
@@ -11215,7 +11237,8 @@
       "ko": "아이콘 URL 1",
       "fr": "URL de l'icône 1",
       "tr": "Simge URL 1",
-      "zh-CN": "图标 URL 1"
+      "zh-CN": "图标 URL 1",
+      "zh-HK": "圖示 URL 1"
     },
     "Increase by": {
       "ja": "増分",
@@ -11224,7 +11247,8 @@
       "ko": "증가시킬 양",
       "fr": "Augmenter de",
       "tr": "Şu kadar artır:",
-      "zh-CN": "增加"
+      "zh-CN": "增加",
+      "zh-HK": "增加"
     },
     "LED Color": {
       "ja": "LEDの色",
@@ -11233,7 +11257,8 @@
       "ko": "LED 색상",
       "fr": "Couleur de la LED",
       "tr": "LED rengi",
-      "zh-CN": "LED 颜色"
+      "zh-CN": "LED 颜色",
+      "zh-HK": "LED 顏色"
     },
     "Large Icon": {
       "ja": "大きいアイコン",
@@ -11242,7 +11267,8 @@
       "ko": "큰 아이콘",
       "fr": "Grande icône",
       "tr": "Büyük simge",
-      "zh-CN": "大图标"
+      "zh-CN": "大图标",
+      "zh-HK": "大圖示"
     },
     "Launch URL 1": {
       "ja": "起動URL 1",
@@ -11251,7 +11277,8 @@
       "ko": "실행 URL 1",
       "fr": "URL de lancement 1",
       "tr": "Başlatma URL'si 1",
-      "zh-CN": "启动 URL 1"
+      "zh-CN": "启动 URL 1",
+      "zh-HK": "啟動 URL 1"
     },
     "Media": {
       "ja": "メディア",
@@ -11260,7 +11287,8 @@
       "ko": "미디어",
       "fr": "Média",
       "tr": "Medya",
-      "zh-CN": "媒体"
+      "zh-CN": "媒体",
+      "zh-HK": "媒體"
     },
     "Message (Any/English)": {
       "ja": "メッセージ (Any/英語)",
@@ -11269,7 +11297,8 @@
       "ko": "메시지 (Any/영어)",
       "fr": "Message (Tout/Anglais)",
       "tr": "Mesaj (Tümü/İngilizce)",
-      "zh-CN": "消息（任意/英语）"
+      "zh-CN": "消息（任意/英语）",
+      "zh-HK": "訊息（任意/英文）"
     },
     "Message input": {
       "ja": "メッセージ入力",
@@ -11278,7 +11307,8 @@
       "ko": "메시지 입력",
       "fr": "Saisie du message",
       "tr": "Mesaj girişi",
-      "zh-CN": "消息输入"
+      "zh-CN": "消息输入",
+      "zh-HK": "訊息輸入"
     },
     "None": {
       "ja": "なし",
@@ -11287,7 +11317,8 @@
       "ko": "없음",
       "fr": "Aucun",
       "tr": "Yok",
-      "zh-CN": "无"
+      "zh-CN": "无",
+      "zh-HK": "無"
     },
     "Notification Interruption Level": {
       "ja": "通知の割り込みレベル",
@@ -11296,7 +11327,8 @@
       "ko": "알림 중단 수준",
       "fr": "Niveau d'interruption de la notification",
       "tr": "Bildirim kesinti düzeyi",
-      "zh-CN": "通知中断级别"
+      "zh-CN": "通知中断级别",
+      "zh-HK": "通知中斷級別"
     },
     "Passive": {
       "ja": "パッシブ",
@@ -11305,7 +11337,8 @@
       "ko": "수동",
       "fr": "Passif",
       "tr": "Pasif",
-      "zh-CN": "被动"
+      "zh-CN": "被动",
+      "zh-HK": "被動"
     },
     "Private": {
       "ja": "非公開",
@@ -11314,7 +11347,8 @@
       "ko": "비공개",
       "fr": "Privé",
       "tr": "Özel",
-      "zh-CN": "私密"
+      "zh-CN": "私密",
+      "zh-HK": "私密"
     },
     "Public": {
       "ja": "公開",
@@ -11323,7 +11357,8 @@
       "ko": "공개",
       "fr": "Public",
       "tr": "Genel",
-      "zh-CN": "公开"
+      "zh-CN": "公开",
+      "zh-HK": "公開"
     },
     "Remove Field 1": {
       "ja": "フィールド1を削除",
@@ -11332,7 +11367,8 @@
       "ko": "필드 1 제거",
       "fr": "Retirer le champ 1",
       "tr": "Alan 1'i kaldır",
-      "zh-CN": "移除字段 1"
+      "zh-CN": "移除字段 1",
+      "zh-HK": "移除欄位 1"
     },
     "Review and Send": {
       "ja": "確認して送信",
@@ -11341,7 +11377,8 @@
       "ko": "검토 후 발송",
       "fr": "Vérifier et envoyer",
       "tr": "İncele ve gönder",
-      "zh-CN": "审核并发送"
+      "zh-CN": "审核并发送",
+      "zh-HK": "審核並發送"
     },
     "Select media": {
       "ja": "メディアを選択",
@@ -11350,7 +11387,8 @@
       "ko": "미디어 선택",
       "fr": "Sélectionner un média",
       "tr": "Medya seç",
-      "zh-CN": "选择媒体"
+      "zh-CN": "选择媒体",
+      "zh-HK": "選擇媒體"
     },
     "Send to": {
       "ja": "送信先",
@@ -11359,7 +11397,8 @@
       "ko": "발송 대상",
       "fr": "Envoyer à",
       "tr": "Şuna gönder:",
-      "zh-CN": "发送给"
+      "zh-CN": "发送给",
+      "zh-HK": "發送給"
     },
     "Send to Apple Web": {
       "ja": "Apple Webに送信",
@@ -11368,7 +11407,8 @@
       "ko": "Apple Web에 발송",
       "fr": "Envoyer vers Apple Web",
       "tr": "Apple Web'e gönder",
-      "zh-CN": "发送至 Apple Web"
+      "zh-CN": "发送至 Apple Web",
+      "zh-HK": "發送至 Apple Web"
     },
     "Send to Apple iOS": {
       "ja": "Apple iOSに送信",
@@ -11377,7 +11417,8 @@
       "ko": "Apple iOS에 발송",
       "fr": "Envoyer vers Apple iOS",
       "tr": "Apple iOS'a gönder",
-      "zh-CN": "发送至 Apple iOS"
+      "zh-CN": "发送至 Apple iOS",
+      "zh-HK": "發送至 Apple iOS"
     },
     "Send to Edge": {
       "ja": "Edgeに送信",
@@ -11386,7 +11427,8 @@
       "ko": "Edge에 발송",
       "fr": "Envoyer vers Edge",
       "tr": "Edge'e gönder",
-      "zh-CN": "发送至 Edge"
+      "zh-CN": "发送至 Edge",
+      "zh-HK": "發送至 Edge"
     },
     "Send to Google Android": {
       "ja": "Google Androidに送信",
@@ -11395,7 +11437,8 @@
       "ko": "Google Android에 발송",
       "fr": "Envoyer vers Google Android",
       "tr": "Google Android'e gönder",
-      "zh-CN": "发送至 Google Android"
+      "zh-CN": "发送至 Google Android",
+      "zh-HK": "發送至 Google Android"
     },
     "Send to Google Chrome": {
       "ja": "Google Chromeに送信",
@@ -11404,7 +11447,8 @@
       "ko": "Google Chrome에 발송",
       "fr": "Envoyer vers Google Chrome",
       "tr": "Google Chrome'a gönder",
-      "zh-CN": "发送至 Google Chrome"
+      "zh-CN": "发送至 Google Chrome",
+      "zh-HK": "發送至 Google Chrome"
     },
     "Send to Mozilla Firefox": {
       "ja": "Mozilla Firefoxに送信",
@@ -11413,7 +11457,8 @@
       "ko": "Mozilla Firefox에 발송",
       "fr": "Envoyer vers Mozilla Firefox",
       "tr": "Mozilla Firefox'a gönder",
-      "zh-CN": "发送至 Mozilla Firefox"
+      "zh-CN": "发送至 Mozilla Firefox",
+      "zh-HK": "發送至 Mozilla Firefox"
     },
     "Send to Windows": {
       "ja": "Windowsに送信",
@@ -11422,7 +11467,8 @@
       "ko": "Windows에 발송",
       "fr": "Envoyer vers Windows",
       "tr": "Windows'a gönder",
-      "zh-CN": "发送至 Windows"
+      "zh-CN": "发送至 Windows",
+      "zh-HK": "發送至 Windows"
     },
     "Send to particular segment(s)": {
       "ja": "特定のセグメントに送信",
@@ -11431,7 +11477,8 @@
       "ko": "특정 세그먼트에 발송",
       "fr": "Envoyer à des segments spécifiques",
       "tr": "Belirli segment(ler)e gönder",
-      "zh-CN": "发送给特定的 Segment"
+      "zh-CN": "发送给特定的 Segment",
+      "zh-HK": "發送給特定的 Segment"
     },
     "Set to": {
       "ja": "設定:",
@@ -11440,7 +11487,8 @@
       "ko": "설정값",
       "fr": "Définir sur",
       "tr": "Şuna ayarla:",
-      "zh-CN": "设置为"
+      "zh-CN": "设置为",
+      "zh-HK": "設定為"
     },
     "Small Icon": {
       "ja": "小さいアイコン",
@@ -11449,7 +11497,8 @@
       "ko": "작은 아이콘",
       "fr": "Petite icône",
       "tr": "Küçük simge",
-      "zh-CN": "小图标"
+      "zh-CN": "小图标",
+      "zh-HK": "小圖示"
     },
     "Subtitle (Any/English)": {
       "ja": "サブタイトル (Any/英語)",
@@ -11458,7 +11507,8 @@
       "ko": "부제목 (Any/영어)",
       "fr": "Sous-titre (Tout/Anglais)",
       "tr": "Alt başlık (Tümü/İngilizce)",
-      "zh-CN": "副标题（任意/英语）"
+      "zh-CN": "副标题（任意/英语）",
+      "zh-HK": "副標題（任意/英文）"
     },
     "Subtitle input": {
       "ja": "サブタイトル入力",
