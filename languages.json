@@ -4517,7 +4517,8 @@
       "ko": "전달됨 표시",
       "fr": "Afficher les livrés",
       "tr": "Teslim edilenleri göster",
-      "zh-CN": "显示已送达"
+      "zh-CN": "显示已送达",
+      "zh-HK": "顯示已送達"
     },
     "Show Delivered Events": {
       "es": "Mostrar eventos entregados",
@@ -4526,7 +4527,8 @@
       "ko": "전달된 이벤트 표시",
       "fr": "Afficher les événements livrés",
       "tr": "Teslim edilen etkinlikleri göster",
-      "zh-CN": "显示已送达事件"
+      "zh-CN": "显示已送达事件",
+      "zh-HK": "顯示已送達事件"
     },
     "Show Exported Events": {
       "es": "Mostrar eventos exportados",
@@ -4535,7 +4537,8 @@
       "ko": "내보낸 이벤트 표시",
       "fr": "Afficher les événements exportés",
       "tr": "Dışa aktarılan etkinlikleri göster",
-      "zh-CN": "显示已导出事件"
+      "zh-CN": "显示已导出事件",
+      "zh-HK": "顯示已匯出事件"
     },
     "Show Processed Events": {
       "es": "Mostrar eventos procesados",
@@ -4544,7 +4547,8 @@
       "ko": "처리된 이벤트 표시",
       "fr": "Afficher les événements traités",
       "tr": "İşlenen etkinlikleri göster",
-      "zh-CN": "显示已处理事件"
+      "zh-CN": "显示已处理事件",
+      "zh-HK": "顯示已處理事件"
     },
     "Show Received Events": {
       "es": "Mostrar eventos recibidos",
@@ -4553,7 +4557,8 @@
       "ko": "수신된 이벤트 표시",
       "fr": "Afficher les événements reçus",
       "tr": "Alınan etkinlikleri göster",
-      "zh-CN": "显示已接收事件"
+      "zh-CN": "显示已接收事件",
+      "zh-HK": "顯示已接收事件"
     },
     "Show Successful Updates": {
       "es": "Mostrar actualizaciones exitosas",
@@ -4562,7 +4567,8 @@
       "ko": "성공적인 업데이트 표시",
       "fr": "Afficher les mises à jour réussies",
       "tr": "Başarılı güncellemeleri göster",
-      "zh-CN": "显示成功的更新"
+      "zh-CN": "显示成功的更新",
+      "zh-HK": "顯示成功的更新"
     },
     "Show Total subscribed": {
       "es": "Mostrar total de suscritos",
@@ -4571,7 +4577,8 @@
       "ko": "총 구독 수 표시",
       "fr": "Afficher le total des abonnés",
       "tr": "Toplam abonelikleri göster",
-      "zh-CN": "显示订阅总数"
+      "zh-CN": "显示订阅总数",
+      "zh-HK": "顯示訂閱總數"
     },
     "Show Unsubscribed": {
       "es": "Mostrar cancelaciones",
@@ -4580,7 +4587,8 @@
       "ko": "구독 취소 표시",
       "fr": "Afficher les désinscriptions",
       "tr": "Abonelikten çıkanları göster",
-      "zh-CN": "显示已取消订阅"
+      "zh-CN": "显示已取消订阅",
+      "zh-HK": "顯示已取消訂閱"
     },
     "Show/hide columns": {
       "es": "Mostrar/ocultar columnas",
@@ -4589,7 +4597,8 @@
       "ko": "열 표시/숨기기",
       "fr": "Afficher / masquer les colonnes",
       "tr": "Sütunları göster/gizle",
-      "zh-CN": "显示/隐藏列"
+      "zh-CN": "显示/隐藏列",
+      "zh-HK": "顯示/隱藏欄"
     },
     "Showing": {
       "es": "Mostrando",
@@ -4598,7 +4607,8 @@
       "ko": "표시 중",
       "fr": "Affichage",
       "tr": "Gösteriliyor",
-      "zh-CN": "显示"
+      "zh-CN": "显示",
+      "zh-HK": "顯示"
     },
     "Sign Out": {
       "es": "Cerrar sesión",
@@ -4607,7 +4617,8 @@
       "ko": "로그아웃",
       "fr": "Se déconnecter",
       "tr": "Oturumu kapat",
-      "zh-CN": "退出登录"
+      "zh-CN": "退出登录",
+      "zh-HK": "登出"
     },
     "Site URL": {
       "es": "URL del sitio",
@@ -4616,7 +4627,8 @@
       "ko": "사이트 URL",
       "fr": "URL du site",
       "tr": "Site URL'si",
-      "zh-CN": "站点 URL"
+      "zh-CN": "站点 URL",
+      "zh-HK": "網站 URL"
     },
     "SMS / RCS": {
       "es": "SMS / RCS",
@@ -4625,7 +4637,8 @@
       "ko": "SMS / RCS",
       "fr": "SMS / RCS",
       "tr": "SMS / RCS",
-      "zh-CN": "SMS / RCS"
+      "zh-CN": "SMS / RCS",
+      "zh-HK": "SMS / RCS"
     },
     "Sound": {
       "es": "Sonido",
@@ -4634,7 +4647,8 @@
       "ko": "소리",
       "fr": "Son",
       "tr": "Ses",
-      "zh-CN": "声音"
+      "zh-CN": "声音",
+      "zh-HK": "聲音"
     },
     "Sources": {
       "es": "Fuentes",
@@ -4643,7 +4657,8 @@
       "ko": "소스",
       "fr": "Sources",
       "tr": "Kaynaklar",
-      "zh-CN": "来源"
+      "zh-CN": "来源",
+      "zh-HK": "來源"
     },
     "Started": {
       "es": "Iniciado",
@@ -4652,7 +4667,8 @@
       "ko": "시작됨",
       "fr": "Démarré",
       "tr": "Başladı",
-      "zh-CN": "已开始"
+      "zh-CN": "已开始",
+      "zh-HK": "已開始"
     },
     "Stats": {
       "es": "Estadísticas",
@@ -4661,7 +4677,8 @@
       "ko": "통계",
       "fr": "Statistiques",
       "tr": "İstatistikler",
-      "zh-CN": "统计"
+      "zh-CN": "统计",
+      "zh-HK": "統計"
     },
     "Status": {
       "es": "Estado",
@@ -4670,7 +4687,8 @@
       "ko": "상태",
       "fr": "Statut",
       "tr": "Durum",
-      "zh-CN": "状态"
+      "zh-CN": "状态",
+      "zh-HK": "狀態"
     },
     "Status details": {
       "es": "Detalles del estado",
@@ -4679,7 +4697,8 @@
       "ko": "상태 세부 정보",
       "fr": "Détails du statut",
       "tr": "Durum ayrıntıları",
-      "zh-CN": "状态详情"
+      "zh-CN": "状态详情",
+      "zh-HK": "狀態詳情"
     },
     "Status page": {
       "es": "Página de estado",
@@ -4688,7 +4707,8 @@
       "ko": "상태 페이지",
       "fr": "Page de statut",
       "tr": "Durum sayfası",
-      "zh-CN": "状态页面"
+      "zh-CN": "状态页面",
+      "zh-HK": "狀態頁面"
     },
     "Step": {
       "es": "Paso",
@@ -4697,7 +4717,8 @@
       "ko": "단계",
       "fr": "Étape",
       "tr": "Adım",
-      "zh-CN": "步骤"
+      "zh-CN": "步骤",
+      "zh-HK": "步驟"
     },
     "Stop": {
       "es": "Detener",
@@ -4706,7 +4727,8 @@
       "ko": "중지",
       "fr": "Arrêter",
       "tr": "Durdur",
-      "zh-CN": "停止"
+      "zh-CN": "停止",
+      "zh-HK": "停止"
     },
     "Storage count": {
       "es": "Recuento de almacenamiento",
@@ -4715,7 +4737,8 @@
       "ko": "저장 수",
       "fr": "Nombre de stockage",
       "tr": "Depolama sayısı",
-      "zh-CN": "存储数量"
+      "zh-CN": "存储数量",
+      "zh-HK": "儲存數量"
     },
     "Storage duration": {
       "es": "Duración de almacenamiento",
@@ -4724,7 +4747,8 @@
       "ko": "저장 기간",
       "fr": "Durée de stockage",
       "tr": "Depolama süresi",
-      "zh-CN": "存储时长"
+      "zh-CN": "存储时长",
+      "zh-HK": "儲存時長"
     },
     "Subject Line": {
       "es": "Asunto",
@@ -4733,7 +4757,8 @@
       "ko": "제목 줄",
       "fr": "Ligne d'objet",
       "tr": "Konu satırı",
-      "zh-CN": "主题行"
+      "zh-CN": "主题行",
+      "zh-HK": "主題列"
     },
     "Subscribed": {
       "es": "Suscrito",
@@ -4742,7 +4767,8 @@
       "ko": "구독됨",
       "fr": "Abonné",
       "tr": "Abone olundu",
-      "zh-CN": "已订阅"
+      "zh-CN": "已订阅",
+      "zh-HK": "已訂閱"
     },
     "Subscriber Opted Out": {
       "es": "Suscriptor excluido",
@@ -4751,7 +4777,8 @@
       "ko": "구독자 거부",
       "fr": "Abonné exclu",
       "tr": "Abone onayı geri aldı",
-      "zh-CN": "订阅者已拒绝"
+      "zh-CN": "订阅者已拒绝",
+      "zh-HK": "訂閱者已拒絕"
     },
     "Subscription Date": {
       "es": "Fecha de suscripción",
@@ -4760,7 +4787,8 @@
       "ko": "구독 날짜",
       "fr": "Date d'abonnement",
       "tr": "Abonelik tarihi",
-      "zh-CN": "订阅日期"
+      "zh-CN": "订阅日期",
+      "zh-HK": "訂閱日期"
     },
     "Subscription ID": {
       "es": "ID de suscripción",
@@ -4769,7 +4797,8 @@
       "ko": "구독 ID",
       "fr": "ID d'abonnement",
       "tr": "Abonelik ID",
-      "zh-CN": "订阅 ID"
+      "zh-CN": "订阅 ID",
+      "zh-HK": "訂閱 ID"
     },
     "Subscription Records": {
       "es": "Registros de suscripción",
@@ -4778,7 +4807,8 @@
       "ko": "구독 기록",
       "fr": "Enregistrements d'abonnement",
       "tr": "Abonelik kayıtları",
-      "zh-CN": "订阅记录"
+      "zh-CN": "订阅记录",
+      "zh-HK": "訂閱記錄"
     },
     "Subscription trends": {
       "es": "Tendencias de suscripciones",
@@ -4787,7 +4817,8 @@
       "ko": "구독 트렌드",
       "fr": "Tendances d'abonnement",
       "tr": "Abonelik eğilimleri",
-      "zh-CN": "订阅趋势"
+      "zh-CN": "订阅趋势",
+      "zh-HK": "訂閱趨勢"
     },
     "Subscriptions": {
       "es": "Suscripciones",
@@ -4796,7 +4827,8 @@
       "ko": "구독",
       "fr": "Abonnements",
       "tr": "Abonelikler",
-      "zh-CN": "订阅"
+      "zh-CN": "订阅",
+      "zh-HK": "訂閱"
     },
     "Success": {
       "es": "Éxito",
@@ -4805,7 +4837,8 @@
       "ko": "성공",
       "fr": "Succès",
       "tr": "Başarılı",
-      "zh-CN": "成功"
+      "zh-CN": "成功",
+      "zh-HK": "成功"
     },
     "Success Rate": {
       "es": "Tasa de éxito",
@@ -4814,7 +4847,8 @@
       "ko": "성공률",
       "fr": "Taux de réussite",
       "tr": "Başarı oranı",
-      "zh-CN": "成功率"
+      "zh-CN": "成功率",
+      "zh-HK": "成功率"
     },
     "Successful Updates": {
       "es": "Actualizaciones exitosas",
@@ -4823,7 +4857,8 @@
       "ko": "성공적인 업데이트",
       "fr": "Mises à jour réussies",
       "tr": "Başarılı güncellemeler",
-      "zh-CN": "成功的更新"
+      "zh-CN": "成功的更新",
+      "zh-HK": "成功的更新"
     },
     "Sun": {
       "es": "Dom",
@@ -4832,7 +4867,8 @@
       "ko": "일",
       "fr": "Dim",
       "tr": "Paz",
-      "zh-CN": "周日"
+      "zh-CN": "周日",
+      "zh-HK": "週日"
     },
     "Super User": {
       "es": "Superusuario",
@@ -4841,7 +4877,8 @@
       "ko": "슈퍼 사용자",
       "fr": "Super-utilisateur",
       "tr": "Süper kullanıcı",
-      "zh-CN": "超级用户"
+      "zh-CN": "超级用户",
+      "zh-HK": "超級用戶"
     },
     "Support and documentation": {
       "es": "Soporte y documentación",
@@ -4850,7 +4887,8 @@
       "ko": "지원 및 문서",
       "fr": "Support et documentation",
       "tr": "Destek ve dokümantasyon",
-      "zh-CN": "支持和文档"
+      "zh-CN": "支持和文档",
+      "zh-HK": "支援和文件"
     },
     "Sync contacts through API": {
       "es": "Sincroniza contactos a través de la API",
@@ -4859,7 +4897,8 @@
       "ko": "API를 통해 연락처 동기화",
       "fr": "Synchroniser les contacts via l'API",
       "tr": "API üzerinden kişileri senkronize edin",
-      "zh-CN": "通过 API 同步联系人"
+      "zh-CN": "通过 API 同步联系人",
+      "zh-HK": "透過 API 同步聯絡人"
     },
     "Tag": {
       "es": "Etiqueta",
@@ -4868,7 +4907,8 @@
       "ko": "태그",
       "fr": "Tag",
       "tr": "Etiket",
-      "zh-CN": "标签"
+      "zh-CN": "标签",
+      "zh-HK": "標籤"
     },
     "Tags": {
       "es": "Etiquetas",
@@ -4877,7 +4917,8 @@
       "ko": "태그",
       "fr": "Tags",
       "tr": "Etiketler",
-      "zh-CN": "标签"
+      "zh-CN": "标签",
+      "zh-HK": "標籤"
     },
     "Team Members": {
       "es": "Miembros del equipo",
@@ -4886,7 +4927,8 @@
       "ko": "팀원",
       "fr": "Membres de l'équipe",
       "tr": "Ekip üyeleri",
-      "zh-CN": "团队成员"
+      "zh-CN": "团队成员",
+      "zh-HK": "團隊成員"
     },
     "Template Name": {
       "es": "Nombre de la plantilla",
@@ -4895,7 +4937,8 @@
       "ko": "템플릿 이름",
       "fr": "Nom du modèle",
       "tr": "Şablon adı",
-      "zh-CN": "模板名称"
+      "zh-CN": "模板名称",
+      "zh-HK": "範本名稱"
     },
     "Templates": {
       "es": "Plantillas",
@@ -4904,7 +4947,8 @@
       "ko": "템플릿",
       "fr": "Modèles",
       "tr": "Şablonlar",
-      "zh-CN": "模板"
+      "zh-CN": "模板",
+      "zh-HK": "範本"
     },
     "Test Subscription Records": {
       "es": "Registros de suscripciones de prueba",
@@ -4913,7 +4957,8 @@
       "ko": "테스트 구독 기록",
       "fr": "Enregistrements d'abonnements de test",
       "tr": "Test abonelik kayıtları",
-      "zh-CN": "测试订阅记录"
+      "zh-CN": "测试订阅记录",
+      "zh-HK": "測試訂閱記錄"
     },
     "Test Subscriptions": {
       "es": "Suscripciones de prueba",
@@ -4922,7 +4967,8 @@
       "ko": "테스트 구독",
       "fr": "Abonnements de test",
       "tr": "Test abonelikleri",
-      "zh-CN": "测试订阅"
+      "zh-CN": "测试订阅",
+      "zh-HK": "測試訂閱"
     },
     "Test Users": {
       "es": "Usuarios de prueba",
@@ -4931,7 +4977,8 @@
       "ko": "테스트 사용자",
       "fr": "Utilisateurs de test",
       "tr": "Test kullanıcıları",
-      "zh-CN": "测试用户"
+      "zh-CN": "测试用户",
+      "zh-HK": "測試用戶"
     },
     "This action cannot be undone.": {
       "es": "Esta acción no se puede deshacer.",
@@ -4940,7 +4987,8 @@
       "ko": "이 작업은 취소할 수 없습니다.",
       "fr": "Cette action ne peut pas être annulée.",
       "tr": "Bu işlem geri alınamaz.",
-      "zh-CN": "此操作无法撤销。"
+      "zh-CN": "此操作无法撤销。",
+      "zh-HK": "此操作無法撤銷。"
     },
     "This month": {
       "es": "Este mes",
@@ -4949,7 +4997,8 @@
       "ko": "이번 달",
       "fr": "Ce mois-ci",
       "tr": "Bu ay",
-      "zh-CN": "本月"
+      "zh-CN": "本月",
+      "zh-HK": "本月"
     },
     "Thu": {
       "es": "Jue",
@@ -4958,7 +5007,8 @@
       "ko": "목",
       "fr": "Jeu",
       "tr": "Per",
-      "zh-CN": "周四"
+      "zh-CN": "周四",
+      "zh-HK": "週四"
     },
     "Time": {
       "es": "Hora",
