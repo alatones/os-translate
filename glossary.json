@@ -15,7 +15,8 @@
       ],
       "fr": "Journey",
       "tr": "Journey",
-      "zh-CN": "Journey"
+      "zh-CN": "Journey",
+      "zh-HK": "Journey"
     },
     "Journeys": {
       "ja": "ジャーニー",
@@ -33,6 +34,10 @@
       "zh-CN": [
         "Journeys",
         "Journey"
+      ],
+      "zh-HK": [
+        "Journeys",
+        "Journey"
       ]
     },
     "Segment": {
@@ -46,7 +51,8 @@
       ],
       "fr": "Segment",
       "tr": "Segment",
-      "zh-CN": "Segment"
+      "zh-CN": "Segment",
+      "zh-HK": "Segment"
     },
     "Segments": {
       "ja": "セグメント",
@@ -59,6 +65,10 @@
         "Segment"
       ],
       "zh-CN": [
+        "Segments",
+        "Segment"
+      ],
+      "zh-HK": [
         "Segments",
         "Segment"
       ]
@@ -84,7 +94,8 @@
         "Aboneli",
         "aboneli"
       ],
-      "zh-CN": "订阅"
+      "zh-CN": "订阅",
+      "zh-HK": "訂閱"
     },
     "Subscriptions": {
       "ja": "購読",
@@ -105,7 +116,8 @@
         "Abonelikler",
         "Abonelik"
       ],
-      "zh-CN": "订阅"
+      "zh-CN": "订阅",
+      "zh-HK": "訂閱"
     },
     "Subscriber": {
       "ja": "購読者",
@@ -117,6 +129,10 @@
       "zh-CN": [
         "订阅者",
         "用户"
+      ],
+      "zh-HK": [
+        "訂閱者",
+        "用戶"
       ]
     },
     "Subscribers": {
@@ -132,6 +148,10 @@
       "zh-CN": [
         "订阅者",
         "用户"
+      ],
+      "zh-HK": [
+        "訂閱者",
+        "用戶"
       ]
     },
     "Outcome": {
@@ -147,6 +167,10 @@
       "tr": "Sonuç",
       "zh-CN": [
         "结果",
+        "成果"
+      ],
+      "zh-HK": [
+        "結果",
         "成果"
       ]
     },
@@ -165,6 +189,10 @@
       ],
       "zh-CN": [
         "结果",
+        "成果"
+      ],
+      "zh-HK": [
+        "結果",
         "成果"
       ]
     },
@@ -201,6 +229,10 @@
       "zh-CN": [
         "In-App",
         "应用内"
+      ],
+      "zh-HK": [
+        "In-App",
+        "應用內"
       ]
     },
     "Push": {
@@ -210,7 +242,8 @@
       "ko": "푸시",
       "fr": "Push",
       "tr": "Push",
-      "zh-CN": "Push"
+      "zh-CN": "Push",
+      "zh-HK": "Push"
     },
     "Email": {
       "ja": "メール",
@@ -242,6 +275,11 @@
         "Email",
         "邮件",
         "电子邮件"
+      ],
+      "zh-HK": [
+        "Email",
+        "電郵",
+        "電子郵件"
       ]
     },
     "SMS": {
@@ -251,7 +289,8 @@
       "ko": "SMS",
       "fr": "SMS",
       "tr": "SMS",
-      "zh-CN": "SMS"
+      "zh-CN": "SMS",
+      "zh-HK": "SMS"
     },
     "RCS": {
       "ja": "RCS",
@@ -260,7 +299,8 @@
       "ko": "RCS",
       "fr": "RCS",
       "tr": "RCS",
-      "zh-CN": "RCS"
+      "zh-CN": "RCS",
+      "zh-HK": "RCS"
     },
     "Live Activity": {
       "ja": "ライブアクティビティ",
@@ -282,7 +322,8 @@
         "Live Activity",
         "Canlı Aktivite"
       ],
-      "zh-CN": "Live Activity"
+      "zh-CN": "Live Activity",
+      "zh-HK": "Live Activity"
     },
     "Live Activities": {
       "ja": "ライブアクティビティ",
@@ -304,7 +345,8 @@
         "Canlı Aktiviteler",
         "Canlı Aktivite"
       ],
-      "zh-CN": "Live Activities"
+      "zh-CN": "Live Activities",
+      "zh-HK": "Live Activities"
     },
     "Data Feed": {
       "ja": "データフィード",
@@ -328,6 +370,10 @@
       "zh-CN": [
         "Data Feed",
         "数据源"
+      ],
+      "zh-HK": [
+        "Data Feed",
+        "資料來源"
       ]
     },
     "Data Feeds": {
@@ -354,6 +400,11 @@
         "Data Feeds",
         "Data Feed",
         "数据源"
+      ],
+      "zh-HK": [
+        "Data Feeds",
+        "Data Feed",
+        "資料來源"
       ]
     },
     "Webhook": {
@@ -364,7 +415,8 @@
       "note": "ja/es/pt keep Latin; ko transliterates.",
       "fr": "Webhook",
       "tr": "Webhook",
-      "zh-CN": "Webhook"
+      "zh-CN": "Webhook",
+      "zh-HK": "Webhook"
     },
     "Webhooks": {
       "ja": "Webhook",
@@ -376,7 +428,8 @@
         "Webhooks",
         "Webhook"
       ],
-      "zh-CN": "Webhook"
+      "zh-CN": "Webhook",
+      "zh-HK": "Webhook"
     },
     "Template": {
       "ja": "テンプレート",
@@ -385,7 +438,8 @@
       "ko": "템플릿",
       "fr": "Modèle",
       "tr": "Şablon",
-      "zh-CN": "模板"
+      "zh-CN": "模板",
+      "zh-HK": "範本"
     },
     "Templates": {
       "ja": "テンプレート",
@@ -397,7 +451,8 @@
         "Şablonlar",
         "Şablon"
       ],
-      "zh-CN": "模板"
+      "zh-CN": "模板",
+      "zh-HK": "範本"
     },
     "Audience": {
       "ja": "オーディエンス",
@@ -415,7 +470,8 @@
         "Kitle",
         "kitle"
       ],
-      "zh-CN": "受众"
+      "zh-CN": "受众",
+      "zh-HK": "受眾"
     },
     "Campaign": {
       "ja": "キャンペーン",
@@ -427,6 +483,10 @@
       "zh-CN": [
         "营销活动",
         "活动"
+      ],
+      "zh-HK": [
+        "營銷活動",
+        "活動"
       ]
     },
     "Tag": {
@@ -443,7 +503,8 @@
         "Etiket",
         "etiket"
       ],
-      "zh-CN": "标签"
+      "zh-CN": "标签",
+      "zh-HK": "標籤"
     },
     "Tags": {
       "ja": "タグ",
@@ -458,7 +519,8 @@
         "Etiketler",
         "Etiket"
       ],
-      "zh-CN": "标签"
+      "zh-CN": "标签",
+      "zh-HK": "標籤"
     },
     "Data Tag": {
       "ja": "データタグ",
@@ -479,7 +541,8 @@
         "Veri etiketi",
         "Veri Etiketi"
       ],
-      "zh-CN": "数据标签"
+      "zh-CN": "数据标签",
+      "zh-HK": "資料標籤"
     },
     "Data Tags": {
       "ja": "データタグ",
@@ -500,7 +563,8 @@
         "Veri etiketleri",
         "Veri Etiketleri"
       ],
-      "zh-CN": "数据标签"
+      "zh-CN": "数据标签",
+      "zh-HK": "資料標籤"
     },
     "Notification": {
       "ja": "通知",
@@ -518,7 +582,8 @@
         "Notifications"
       ],
       "tr": "Bildirim",
-      "zh-CN": "通知"
+      "zh-CN": "通知",
+      "zh-HK": "通知"
     },
     "Notifications": {
       "ja": "通知",
@@ -530,7 +595,8 @@
         "Bildirimler",
         "Bildirim"
       ],
-      "zh-CN": "通知"
+      "zh-CN": "通知",
+      "zh-HK": "通知"
     },
     "Save": {
       "ja": "保存",
@@ -556,7 +622,8 @@
         "Kaydedildi",
         "kaydedil"
       ],
-      "zh-CN": "保存"
+      "zh-CN": "保存",
+      "zh-HK": "儲存"
     },
     "Send": {
       "ja": "送信",
@@ -599,7 +666,8 @@
         "Gönderil",
         "gönderim"
       ],
-      "zh-CN": "发送"
+      "zh-CN": "发送",
+      "zh-HK": "發送"
     },
     "Sent": {
       "ja": [
@@ -638,6 +706,10 @@
       "zh-CN": [
         "已发送",
         "发送"
+      ],
+      "zh-HK": [
+        "已發送",
+        "發送"
       ]
     },
     "Delete": {
@@ -671,7 +743,8 @@
       "_skip_keys": [
         "Press enter or space to select a node. You can then use the arrow keys to move the node around. Press delete to remove it and escape to cancel.",
         "Press enter or space to select an edge. You can then press delete to remove it or escape to cancel."
-      ]
+      ],
+      "zh-HK": "刪除"
     },
     "Edit": {
       "ja": "編集",
@@ -699,7 +772,8 @@
         "Düzenleyin",
         "Düzenleme"
       ],
-      "zh-CN": "编辑"
+      "zh-CN": "编辑",
+      "zh-HK": "編輯"
     },
     "Cancel": {
       "ja": "キャンセル",
@@ -722,7 +796,8 @@
         "İptal et",
         "iptal"
       ],
-      "zh-CN": "取消"
+      "zh-CN": "取消",
+      "zh-HK": "取消"
     },
     "Confirm": {
       "ja": "確認",
@@ -753,6 +828,10 @@
       "zh-CN": [
         "确认",
         "确定"
+      ],
+      "zh-HK": [
+        "確認",
+        "確定"
       ]
     },
     "Create": {
@@ -786,7 +865,8 @@
         "Oluşturun",
         "Oluşturma"
       ],
-      "zh-CN": "创建"
+      "zh-CN": "创建",
+      "zh-HK": "建立"
     },
     "Add": {
       "ja": "追加",
@@ -814,7 +894,8 @@
       "zh-CN": "添加",
       "_skip_keys": [
         "To manage what days and times this message sends at, add a"
-      ]
+      ],
+      "zh-HK": "新增"
     },
     "Remove": {
       "ja": "削除",
@@ -843,6 +924,10 @@
       "_skip_keys": [
         "Press enter or space to select a node. You can then use the arrow keys to move the node around. Press delete to remove it and escape to cancel.",
         "Press enter or space to select an edge. You can then press delete to remove it or escape to cancel."
+      ],
+      "zh-HK": [
+        "移除",
+        "刪除"
       ]
     },
     "Update": {
@@ -871,7 +956,8 @@
         "Güncellendi",
         "Güncelleme"
       ],
-      "zh-CN": "更新"
+      "zh-CN": "更新",
+      "zh-HK": "更新"
     },
     "Import": {
       "ja": "インポート",
@@ -902,7 +988,8 @@
         "İçe aktarma",
         "içe aktar"
       ],
-      "zh-CN": "导入"
+      "zh-CN": "导入",
+      "zh-HK": "匯入"
     },
     "Export": {
       "ja": [
@@ -935,7 +1022,8 @@
         "Dışa Aktar",
         "Dışa aktarma"
       ],
-      "zh-CN": "导出"
+      "zh-CN": "导出",
+      "zh-HK": "匯出"
     },
     "Settings": {
       "ja": "設定",
@@ -957,7 +1045,8 @@
         "Ayarları",
         "Ayar"
       ],
-      "zh-CN": "设置"
+      "zh-CN": "设置",
+      "zh-HK": "設定"
     },
     "Search": {
       "ja": "検索",
@@ -981,7 +1070,8 @@
         "Arama",
         "Arayın"
       ],
-      "zh-CN": "搜索"
+      "zh-CN": "搜索",
+      "zh-HK": "搜尋"
     },
     "Filter": {
       "ja": [
@@ -1013,6 +1103,11 @@
         "筛选",
         "筛选器",
         "筛选条件"
+      ],
+      "zh-HK": [
+        "篩選",
+        "篩選器",
+        "篩選條件"
       ]
     },
     "Filters": {
@@ -1044,6 +1139,11 @@
         "筛选",
         "筛选器",
         "筛选条件"
+      ],
+      "zh-HK": [
+        "篩選",
+        "篩選器",
+        "篩選條件"
       ]
     },
     "Active": {
@@ -1085,6 +1185,11 @@
         "活跃",
         "已激活",
         "激活"
+      ],
+      "zh-HK": [
+        "活躍",
+        "已啟用",
+        "啟用"
       ]
     },
     "Inactive": {
@@ -1113,7 +1218,8 @@
         "pasif",
         "İnaktif"
       ],
-      "zh-CN": "不活跃"
+      "zh-CN": "不活跃",
+      "zh-HK": "不活躍"
     },
     "Disabled": {
       "ja": "無効",
@@ -1133,6 +1239,10 @@
       "zh-CN": [
         "已禁用",
         "禁用"
+      ],
+      "zh-HK": [
+        "已停用",
+        "停用"
       ]
     },
     "Paused": {
@@ -1164,6 +1274,10 @@
       "zh-CN": [
         "已暂停",
         "暂停"
+      ],
+      "zh-HK": [
+        "已暫停",
+        "暫停"
       ]
     },
     "Failed": {
@@ -1199,6 +1313,10 @@
       "zh-CN": [
         "失败",
         "已失败"
+      ],
+      "zh-HK": [
+        "失敗",
+        "已失敗"
       ]
     },
     "Draft": {
@@ -1208,7 +1326,8 @@
       "ko": "초안",
       "fr": "Brouillon",
       "tr": "Taslak",
-      "zh-CN": "草稿"
+      "zh-CN": "草稿",
+      "zh-HK": "草稿"
     },
     "Archived": {
       "ja": "アーカイブ済み",
@@ -1228,6 +1347,10 @@
       "zh-CN": [
         "已归档",
         "归档"
+      ],
+      "zh-HK": [
+        "已封存",
+        "封存"
       ]
     },
     "Completed": {
@@ -1256,6 +1379,10 @@
         "tamamlan"
       ],
       "zh-CN": [
+        "已完成",
+        "完成"
+      ],
+      "zh-HK": [
         "已完成",
         "完成"
       ]
@@ -1305,6 +1432,10 @@
       "zh-CN": [
         "已送达",
         "送达"
+      ],
+      "zh-HK": [
+        "已送達",
+        "送達"
       ]
     },
     "Delivery": {
@@ -1334,6 +1465,10 @@
       "zh-CN": [
         "送达",
         "发送"
+      ],
+      "zh-HK": [
+        "送達",
+        "傳送"
       ]
     },
     "Delivery Rate": {
@@ -1346,7 +1481,8 @@
         "Teslim oranı",
         "Teslimat oranı"
       ],
-      "zh-CN": "送达率"
+      "zh-CN": "送达率",
+      "zh-HK": "送達率"
     },
     "Click-through Rate": {
       "ja": "クリック率",
@@ -1355,7 +1491,8 @@
       "ko": "클릭률",
       "fr": "Taux de clics",
       "tr": "Tıklama oranı",
-      "zh-CN": "点击率"
+      "zh-CN": "点击率",
+      "zh-HK": "點擊率"
     },
     "CTR": {
       "ja": [
@@ -1376,7 +1513,8 @@
         "CTR",
         "Tıklama oranı"
       ],
-      "zh-CN": "CTR"
+      "zh-CN": "CTR",
+      "zh-HK": "CTR"
     },
     "Open Rate": {
       "ja": "開封率",
@@ -1385,7 +1523,8 @@
       "ko": "열람률",
       "fr": "Taux d'ouverture",
       "tr": "Açılma oranı",
-      "zh-CN": "打开率"
+      "zh-CN": "打开率",
+      "zh-HK": "開啟率"
     },
     "Conversion": {
       "ja": "コンバージョン",
@@ -1406,7 +1545,8 @@
         "Dönüşüm",
         "dönüşüm"
       ],
-      "zh-CN": "转化"
+      "zh-CN": "转化",
+      "zh-HK": "轉換"
     },
     "Recipients": {
       "ja": [
@@ -1431,7 +1571,8 @@
         "Alıcı",
         "alıcı"
       ],
-      "zh-CN": "收件人"
+      "zh-CN": "收件人",
+      "zh-HK": "收件人"
     },
     "Sender": {
       "ja": [
@@ -1455,7 +1596,8 @@
         "Gönderen",
         "gönderen"
       ],
-      "zh-CN": "发件人"
+      "zh-CN": "发件人",
+      "zh-HK": "發件人"
     },
     "Senders": {
       "ja": [
@@ -1479,7 +1621,8 @@
         "Gönderenler",
         "Gönderen"
       ],
-      "zh-CN": "发件人"
+      "zh-CN": "发件人",
+      "zh-HK": "發件人"
     },
     "App": {
       "ja": "アプリ",
@@ -1504,6 +1647,10 @@
       ],
       "zh-CN": [
         "应用",
+        "App"
+      ],
+      "zh-HK": [
+        "應用",
         "App"
       ]
     },
@@ -1530,6 +1677,10 @@
       ],
       "zh-CN": [
         "应用",
+        "App"
+      ],
+      "zh-HK": [
+        "應用",
         "App"
       ]
     }
