@@ -5017,7 +5017,8 @@
       "ko": "시간",
       "fr": "Heure",
       "tr": "Saat",
-      "zh-CN": "时间"
+      "zh-CN": "时间",
+      "zh-HK": "時間"
     },
     "Time Zone": {
       "es": "Zona horaria",
@@ -5026,7 +5027,8 @@
       "ko": "시간대",
       "fr": "Fuseau horaire",
       "tr": "Saat dilimi",
-      "zh-CN": "时区"
+      "zh-CN": "时区",
+      "zh-HK": "時區"
     },
     "Timezone": {
       "es": "Zona horaria",
@@ -5035,7 +5037,8 @@
       "ko": "시간대",
       "fr": "Fuseau horaire",
       "tr": "Saat dilimi",
-      "zh-CN": "时区"
+      "zh-CN": "时区",
+      "zh-HK": "時區"
     },
     "Timezone ID": {
       "es": "ID de zona horaria",
@@ -5044,7 +5047,8 @@
       "ko": "시간대 ID",
       "fr": "ID de fuseau horaire",
       "tr": "Saat dilimi ID",
-      "zh-CN": "时区 ID"
+      "zh-CN": "时区 ID",
+      "zh-HK": "時區 ID"
     },
     "Today": {
       "es": "Hoy",
@@ -5053,7 +5057,8 @@
       "ko": "오늘",
       "fr": "Aujourd'hui",
       "tr": "Bugün",
-      "zh-CN": "今天"
+      "zh-CN": "今天",
+      "zh-HK": "今天"
     },
     "Token": {
       "es": "Token",
@@ -5062,7 +5067,8 @@
       "ko": "토큰",
       "fr": "Token",
       "tr": "Token",
-      "zh-CN": "令牌"
+      "zh-CN": "令牌",
+      "zh-HK": "權杖"
     },
     "Total": {
       "es": "Total",
@@ -5071,7 +5077,8 @@
       "ko": "합계",
       "fr": "Total",
       "tr": "Toplam",
-      "zh-CN": "总计"
+      "zh-CN": "总计",
+      "zh-HK": "總計"
     },
     "Total Delivered": {
       "es": "Total entregados",
@@ -5080,7 +5087,8 @@
       "ko": "총 전달됨",
       "fr": "Total livrés",
       "tr": "Toplam teslim edilen",
-      "zh-CN": "总送达"
+      "zh-CN": "总送达",
+      "zh-HK": "總送達"
     },
     "Total Recipients": {
       "es": "Total de destinatarios",
@@ -5089,7 +5097,8 @@
       "ko": "총 수신자",
       "fr": "Total des destinataires",
       "tr": "Toplam alıcı",
-      "zh-CN": "收件人总数"
+      "zh-CN": "收件人总数",
+      "zh-HK": "收件人總數"
     },
     "Total records": {
       "es": "Total de registros",
@@ -5098,7 +5107,8 @@
       "ko": "총 기록 수",
       "fr": "Total des enregistrements",
       "tr": "Toplam kayıt",
-      "zh-CN": "记录总数"
+      "zh-CN": "记录总数",
+      "zh-HK": "記錄總數"
     },
     "Total Sent": {
       "es": "Total enviados",
@@ -5107,7 +5117,8 @@
       "ko": "총 발송됨",
       "fr": "Total envoyés",
       "tr": "Toplam gönderim",
-      "zh-CN": "总发送"
+      "zh-CN": "总发送",
+      "zh-HK": "總發送"
     },
     "Total subscribed": {
       "es": "Total suscritos",
@@ -5116,7 +5127,8 @@
       "ko": "총 구독 수",
       "fr": "Total des abonnés",
       "tr": "Toplam abone",
-      "zh-CN": "订阅总数"
+      "zh-CN": "订阅总数",
+      "zh-HK": "訂閱總數"
     },
     "Total Subscribers": {
       "es": "Total de suscriptores",
@@ -5125,7 +5137,8 @@
       "ko": "총 구독자",
       "fr": "Total des abonnés",
       "tr": "Toplam aboneler",
-      "zh-CN": "订阅者总数"
+      "zh-CN": "订阅者总数",
+      "zh-HK": "訂閱者總數"
     },
     "Total web push subscribers": {
       "es": "Total de suscriptores web push",
@@ -5134,7 +5147,8 @@
       "ko": "총 웹 푸시 구독자",
       "fr": "Total des abonnés push web",
       "tr": "Toplam web push aboneleri",
-      "zh-CN": "Web Push 订阅者总数"
+      "zh-CN": "Web Push 订阅者总数",
+      "zh-HK": "Web Push 訂閱者總數"
     },
     "Trigger": {
       "es": "Disparador",
@@ -5143,7 +5157,8 @@
       "ko": "트리거",
       "fr": "Déclencheur",
       "tr": "Tetikleyici",
-      "zh-CN": "触发器"
+      "zh-CN": "触发器",
+      "zh-HK": "觸發器"
     },
     "true": {
       "es": "verdadero",
@@ -5152,7 +5167,8 @@
       "ko": "참",
       "fr": "vrai",
       "tr": "doğru",
-      "zh-CN": "真"
+      "zh-CN": "真",
+      "zh-HK": "真"
     },
     "TTL": {
       "es": "TTL",
@@ -5161,7 +5177,8 @@
       "ko": "TTL",
       "fr": "TTL",
       "tr": "TTL",
-      "zh-CN": "TTL"
+      "zh-CN": "TTL",
+      "zh-HK": "TTL"
     },
     "Tue": {
       "es": "Mar",
@@ -5170,7 +5187,8 @@
       "ko": "화",
       "fr": "Mar",
       "tr": "Sal",
-      "zh-CN": "周二"
+      "zh-CN": "周二",
+      "zh-HK": "週二"
     },
     "Type": {
       "es": "Tipo",
@@ -5179,7 +5197,8 @@
       "ko": "유형",
       "fr": "Type",
       "tr": "Tür",
-      "zh-CN": "类型"
+      "zh-CN": "类型",
+      "zh-HK": "類型"
     },
     "Unarchive": {
       "es": "Desarchivar",
@@ -5188,7 +5207,8 @@
       "ko": "보관 취소",
       "fr": "Désarchiver",
       "tr": "Arşivden çıkar",
-      "zh-CN": "取消归档"
+      "zh-CN": "取消归档",
+      "zh-HK": "取消封存"
     },
     "Unattributed": {
       "es": "Sin atribución",
@@ -5197,7 +5217,8 @@
       "ko": "미귀속",
       "fr": "Non attribué",
       "tr": "Atfedilmemiş",
-      "zh-CN": "未归因"
+      "zh-CN": "未归因",
+      "zh-HK": "未歸因"
     },
     "Unconfirmed": {
       "es": "Sin confirmar",
@@ -5206,7 +5227,8 @@
       "ko": "확인되지 않음",
       "fr": "Non confirmé",
       "tr": "Onaylanmamış",
-      "zh-CN": "未确认"
+      "zh-CN": "未确认",
+      "zh-HK": "未確認"
     },
     "Unknown": {
       "es": "Desconocido",
@@ -5215,7 +5237,8 @@
       "ko": "알 수 없음",
       "fr": "Inconnu",
       "tr": "Bilinmiyor",
-      "zh-CN": "未知"
+      "zh-CN": "未知",
+      "zh-HK": "未知"
     },
     "Unpublish": {
       "es": "Despublicar",
@@ -5224,7 +5247,8 @@
       "ko": "게시 취소",
       "fr": "Dépublier",
       "tr": "Yayından kaldır",
-      "zh-CN": "取消发布"
+      "zh-CN": "取消发布",
+      "zh-HK": "取消發佈"
     },
     "Unsubscribe rate": {
       "es": "Tasa de cancelación",
@@ -5233,7 +5257,8 @@
       "ko": "구독 취소율",
       "fr": "Taux de désinscription",
       "tr": "Abonelikten çıkma oranı",
-      "zh-CN": "取消订阅率"
+      "zh-CN": "取消订阅率",
+      "zh-HK": "取消訂閱率"
     },
     "Unsubscribed": {
       "es": "Cancelado",
@@ -5242,7 +5267,8 @@
       "ko": "구독 취소됨",
       "fr": "Désinscrit",
       "tr": "Abonelikten çıktı",
-      "zh-CN": "已取消订阅"
+      "zh-CN": "已取消订阅",
+      "zh-HK": "已取消訂閱"
     },
     "Unsubscribed:": {
       "es": "Cancelaciones:",
@@ -5251,7 +5277,8 @@
       "ko": "구독 취소:",
       "fr": "Désinscriptions :",
       "tr": "Abonelikten çıkanlar:",
-      "zh-CN": "已取消订阅:"
+      "zh-CN": "已取消订阅:",
+      "zh-HK": "已取消訂閱："
     },
     "Update": {
       "es": "Actualizar",
@@ -5260,7 +5287,8 @@
       "ko": "업데이트",
       "fr": "Mettre à jour",
       "tr": "Güncelle",
-      "zh-CN": "更新"
+      "zh-CN": "更新",
+      "zh-HK": "更新"
     },
     "Update/Import Users": {
       "es": "Actualizar/importar usuarios",
@@ -5269,7 +5297,8 @@
       "ko": "사용자 업데이트/가져오기",
       "fr": "Mettre à jour / importer des utilisateurs",
       "tr": "Kullanıcıları güncelle/içe aktar",
-      "zh-CN": "更新/导入用户"
+      "zh-CN": "更新/导入用户",
+      "zh-HK": "更新/匯入用戶"
     },
     "Updated At": {
       "es": "Actualizado el",
@@ -5278,7 +5307,8 @@
       "ko": "업데이트 일시",
       "fr": "Mis à jour le",
       "tr": "Güncelleme tarihi",
-      "zh-CN": "更新时间"
+      "zh-CN": "更新时间",
+      "zh-HK": "更新時間"
     },
     "Upload a CSV": {
       "es": "Subir un CSV",
@@ -5287,7 +5317,8 @@
       "ko": "CSV 업로드",
       "fr": "Téléverser un CSV",
       "tr": "CSV yükle",
-      "zh-CN": "上传 CSV"
+      "zh-CN": "上传 CSV",
+      "zh-HK": "上載 CSV"
     },
     "URL": {
       "es": "URL",
@@ -5296,7 +5327,8 @@
       "ko": "URL",
       "fr": "URL",
       "tr": "URL",
-      "zh-CN": "URL"
+      "zh-CN": "URL",
+      "zh-HK": "URL"
     },
     "Usage": {
       "es": "Uso",
@@ -5305,7 +5337,8 @@
       "ko": "사용량",
       "fr": "Utilisation",
       "tr": "Kullanım",
-      "zh-CN": "使用情况"
+      "zh-CN": "使用情况",
+      "zh-HK": "使用情況"
     },
     "Usage duration": {
       "es": "Duración de uso",
@@ -5314,7 +5347,8 @@
       "ko": "사용 기간",
       "fr": "Durée d'utilisation",
       "tr": "Kullanım süresi",
-      "zh-CN": "使用时长"
+      "zh-CN": "使用时长",
+      "zh-HK": "使用時長"
     },
     "Usage locations": {
       "es": "Ubicaciones de uso",
@@ -5323,7 +5357,8 @@
       "ko": "사용 위치",
       "fr": "Lieux d'utilisation",
       "tr": "Kullanım konumları",
-      "zh-CN": "使用位置"
+      "zh-CN": "使用位置",
+      "zh-HK": "使用位置"
     },
     "Use Template": {
       "es": "Usar plantilla",
@@ -5332,7 +5367,8 @@
       "ko": "템플릿 사용",
       "fr": "Utiliser le modèle",
       "tr": "Şablonu kullan",
-      "zh-CN": "使用模板"
+      "zh-CN": "使用模板",
+      "zh-HK": "使用範本"
     },
     "User Records": {
       "es": "Registros de usuarios",
@@ -5341,7 +5377,8 @@
       "ko": "사용자 기록",
       "fr": "Enregistrements utilisateurs",
       "tr": "Kullanıcı kayıtları",
-      "zh-CN": "用户记录"
+      "zh-CN": "用户记录",
+      "zh-HK": "用戶記錄"
     },
     "Users": {
       "es": "Usuarios",
@@ -5350,7 +5387,8 @@
       "ko": "사용자",
       "fr": "Utilisateurs",
       "tr": "Kullanıcılar",
-      "zh-CN": "用户"
+      "zh-CN": "用户",
+      "zh-HK": "用戶"
     },
     "UTC": {
       "es": "UTC",
@@ -5359,7 +5397,8 @@
       "ko": "UTC",
       "fr": "UTC",
       "tr": "UTC",
-      "zh-CN": "UTC"
+      "zh-CN": "UTC",
+      "zh-HK": "UTC"
     },
     "UTC:": {
       "es": "UTC:",
@@ -5368,7 +5407,8 @@
       "ko": "UTC:",
       "fr": "UTC :",
       "tr": "UTC:",
-      "zh-CN": "UTC:"
+      "zh-CN": "UTC:",
+      "zh-HK": "UTC："
     },
     "Value": {
       "es": "Valor",
@@ -5377,7 +5417,8 @@
       "ko": "값",
       "fr": "Valeur",
       "tr": "Değer",
-      "zh-CN": "值"
+      "zh-CN": "值",
+      "zh-HK": "值"
     },
     "View": {
       "es": "Ver",
@@ -5386,7 +5427,8 @@
       "ko": "보기",
       "fr": "Voir",
       "tr": "Görüntüle",
-      "zh-CN": "查看"
+      "zh-CN": "查看",
+      "zh-HK": "查看"
     },
     "View activity log for all users": {
       "es": "Ver registro de actividad de todos los usuarios",
@@ -5395,7 +5437,8 @@
       "ko": "모든 사용자의 활동 로그 보기",
       "fr": "Voir le journal d'activité de tous les utilisateurs",
       "tr": "Tüm kullanıcılar için etkinlik günlüğünü görüntüleyin",
-      "zh-CN": "查看所有用户的活动日志"
+      "zh-CN": "查看所有用户的活动日志",
+      "zh-HK": "查看所有用戶的活動日誌"
     },
     "View All": {
       "es": "Ver todo",
@@ -5404,7 +5447,8 @@
       "ko": "전체 보기",
       "fr": "Tout voir",
       "tr": "Tümünü görüntüle",
-      "zh-CN": "查看全部"
+      "zh-CN": "查看全部",
+      "zh-HK": "查看全部"
     },
     "View Details": {
       "es": "Ver detalles",
@@ -5413,7 +5457,8 @@
       "ko": "세부 정보 보기",
       "fr": "Voir les détails",
       "tr": "Ayrıntıları görüntüle",
-      "zh-CN": "查看详情"
+      "zh-CN": "查看详情",
+      "zh-HK": "查看詳情"
     },
     "View previous imports": {
       "es": "Ver importaciones anteriores",
@@ -5422,7 +5467,8 @@
       "ko": "이전 가져오기 보기",
       "fr": "Voir les imports précédents",
       "tr": "Önceki içe aktarmaları görüntüle",
-      "zh-CN": "查看以前的导入"
+      "zh-CN": "查看以前的导入",
+      "zh-HK": "查看以前的匯入"
     },
     "View subscription & billing cycle usage": {
       "es": "Ver uso de suscripción y ciclo de facturación",
@@ -5431,7 +5477,8 @@
       "ko": "구독 및 청구 주기 사용량 보기",
       "fr": "Voir l'utilisation de l'abonnement et du cycle de facturation",
       "tr": "Abonelik ve fatura dönemi kullanımını görüntüleyin",
-      "zh-CN": "查看订阅和计费周期使用情况"
+      "zh-CN": "查看订阅和计费周期使用情况",
+      "zh-HK": "查看訂閱和計費週期使用情況"
     },
     "Viewer": {
       "es": "Observador",
@@ -5440,7 +5487,8 @@
       "ko": "뷰어",
       "fr": "Observateur",
       "tr": "Görüntüleyici",
-      "zh-CN": "查看者"
+      "zh-CN": "查看者",
+      "zh-HK": "查看者"
     },
     "Warning": {
       "es": "Advertencia",
@@ -5449,7 +5497,8 @@
       "ko": "경고",
       "fr": "Avertissement",
       "tr": "Uyarı",
-      "zh-CN": "警告"
+      "zh-CN": "警告",
+      "zh-HK": "警告"
     },
     "Web": {
       "es": "Web",
@@ -5458,7 +5507,8 @@
       "ko": "웹",
       "fr": "Web",
       "tr": "Web",
-      "zh-CN": "Web"
+      "zh-CN": "Web",
+      "zh-HK": "Web"
     },
     "Web push subscribers": {
       "es": "Suscriptores de push web",
