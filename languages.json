@@ -6517,7 +6517,8 @@
       "ko": "닫기",
       "fr": "Ignorer",
       "tr": "Kapat",
-      "zh-CN": "关闭"
+      "zh-CN": "关闭",
+      "zh-HK": "關閉"
     },
     "If you're ready to take your messaging to the next level, check out Journeys, our new automation tool.": {
       "ja": "メッセージングを次のレベルに引き上げる準備ができたら、新しい自動化ツール「ジャーニー」をご活用ください。",
@@ -6526,7 +6527,8 @@
       "ko": "메시지를 다음 단계로 끌어올릴 준비가 되었다면 새로운 자동화 도구인 저니를 확인하세요.",
       "fr": "Si vous êtes prêt à passer votre messagerie au niveau supérieur, découvrez Journeys, notre nouvel outil d'automatisation.",
       "tr": "Mesajlaşmanızı bir üst seviyeye taşımaya hazırsanız, yeni otomasyon aracımız Journeys'i inceleyin.",
-      "zh-CN": "如果您准备好将消息推送提升到一个新水平，请查看我们的新自动化工具 Journeys。"
+      "zh-CN": "如果您准备好将消息推送提升到一个新水平，请查看我们的新自动化工具 Journeys。",
+      "zh-HK": "如果您準備好將訊息推送提升到一個新水平，請查看我們的新自動化工具 Journeys。"
     },
     "Journeys documentation": {
       "ja": "ジャーニーのドキュメント",
@@ -6535,7 +6537,8 @@
       "ko": "저니 문서",
       "fr": "Documentation Journeys",
       "tr": "Journeys dokümantasyonu",
-      "zh-CN": "Journeys 文档"
+      "zh-CN": "Journeys 文档",
+      "zh-HK": "Journeys 文件"
     },
     "New Automated Email": {
       "ja": "新しい自動メール",
@@ -6544,7 +6547,8 @@
       "ko": "새 자동화 이메일",
       "fr": "Nouvel email automatisé",
       "tr": "Yeni otomatik email",
-      "zh-CN": "新自动化 Email"
+      "zh-CN": "新自动化 Email",
+      "zh-HK": "新自動化 Email"
     },
     "Or start with one of our quickstart Journeys": {
       "ja": "またはクイックスタートジャーニーの1つから始める",
@@ -6553,7 +6557,8 @@
       "ko": "또는 빠른 시작 저니 중 하나로 시작하세요",
       "fr": "Ou commencez avec un de nos Journeys de démarrage rapide",
       "tr": "Ya da hızlı başlangıç Journeys'lerinden biriyle başlayın",
-      "zh-CN": "或从我们的快速入门 Journeys 之一开始"
+      "zh-CN": "或从我们的快速入门 Journeys 之一开始",
+      "zh-HK": "或從我們的快速入門 Journeys 之一開始"
     },
     "Re-engagement": {
       "ja": "再エンゲージメント",
@@ -6562,7 +6567,8 @@
       "ko": "재참여",
       "fr": "Réengagement",
       "tr": "Yeniden etkileşim",
-      "zh-CN": "再互动"
+      "zh-CN": "再互动",
+      "zh-HK": "再互動"
     },
     "Ready to automate your messages?": {
       "ja": "メッセージの自動化の準備はできていますか？",
@@ -6571,7 +6577,8 @@
       "ko": "메시지 자동화 준비가 되셨나요?",
       "fr": "Prêt à automatiser vos messages ?",
       "tr": "Mesajlarınızı otomatikleştirmeye hazır mısınız?",
-      "zh-CN": "准备好自动化您的消息了吗？"
+      "zh-CN": "准备好自动化您的消息了吗？",
+      "zh-HK": "準備好自動化您的訊息了嗎？"
     },
     "Send the right message based on who users are and how they interact with your product": {
       "ja": "ユーザーの属性とプロダクトとのインタラクションに基づいて適切なメッセージを送信する",
@@ -6580,7 +6587,8 @@
       "ko": "사용자가 누구인지 및 제품과의 상호 작용을 기반으로 적절한 메시지를 보내세요",
       "fr": "Envoyez le bon message selon le profil des utilisateurs et leur interaction avec votre produit",
       "tr": "Kullanıcıların kim olduğuna ve ürününüzle nasıl etkileşime girdiğine göre doğru mesajı gönderin",
-      "zh-CN": "根据用户身份和他们与产品的交互方式发送合适的消息"
+      "zh-CN": "根据用户身份和他们与产品的交互方式发送合适的消息",
+      "zh-HK": "根據用戶身份和他們與產品的互動方式發送合適的訊息"
     },
     "Set message standards for push and email": {
       "ja": "プッシュとメールのメッセージ基準を設定",
@@ -6589,7 +6597,8 @@
       "ko": "푸시 및 이메일 메시지 표준 설정",
       "fr": "Définissez des standards de messages pour push et email",
       "tr": "Push ve email için mesaj standartları belirleyin",
-      "zh-CN": "为 Push 和 Email 设置消息标准"
+      "zh-CN": "为 Push 和 Email 设置消息标准",
+      "zh-HK": "為 Push 和 Email 設定訊息標準"
     },
     "Your app is limited to 500,000 email sends a month. If you need help with your limit, contact our Support team.": {
       "ja": "アプリは月に50万件のメール送信に制限されています。制限についてご質問がある場合は、サポートチームにお問い合わせください。",
@@ -6598,7 +6607,8 @@
       "ko": "앱은 한 달에 최대 500,000개의 이메일을 발송할 수 있습니다. 한도에 대한 도움이 필요하면 지원팀에 문의하세요.",
       "fr": "Votre app est limitée à 500 000 envois d'email par mois. Si vous avez besoin d'aide avec votre limite, contactez notre équipe Support.",
       "tr": "Uygulamanız ayda 500.000 email gönderimi ile sınırlıdır. Limitinizle ilgili yardıma ihtiyacınız varsa, destek ekibimizle iletişime geçin.",
-      "zh-CN": "您的应用每月限制发送 500,000 封 Email。如需有关限额的帮助，请联系我们的支持团队。"
+      "zh-CN": "您的应用每月限制发送 500,000 封 Email。如需有关限额的帮助，请联系我们的支持团队。",
+      "zh-HK": "您的應用每月限制發送 500,000 封 Email。如需有關限額的協助，請聯絡我們的支援團隊。"
     },
     "Export a message list for your records": {
       "ja": "記録用のメッセージリストをエクスポート",
@@ -6607,7 +6617,8 @@
       "ko": "기록을 위해 메시지 목록 내보내기",
       "fr": "Exportez une liste de messages pour vos archives",
       "tr": "Kayıtlarınız için mesaj listesi dışa aktarın",
-      "zh-CN": "导出消息列表用于存档"
+      "zh-CN": "导出消息列表用于存档",
+      "zh-HK": "匯出訊息列表用於存檔"
     },
     "Filter by delivery method (dashboard, API)": {
       "ja": "配信方法（ダッシュボード、API）でフィルタリングする",
@@ -6616,7 +6627,8 @@
       "ko": "전달 방법 (대시보드, API)으로 필터링",
       "fr": "Filtrer par méthode de livraison (dashboard, API)",
       "tr": "Teslim yöntemine göre filtreleyin (pano, API)",
-      "zh-CN": "按送达方式筛选（仪表板、API）"
+      "zh-CN": "按送达方式筛选（仪表板、API）",
+      "zh-HK": "按送達方式篩選（儀表板、API）"
     },
     "Keep an eye on deliverability across campaigns": {
       "ja": "キャンペーン全体の配信率を監視",
@@ -6625,7 +6637,8 @@
       "ko": "캠페인 전체의 전달률을 모니터링하세요",
       "fr": "Surveillez la délivrabilité sur l'ensemble de vos campagnes",
       "tr": "Kampanyalar genelinde teslim edilebilirliği takip edin",
-      "zh-CN": "关注各营销活动的送达率"
+      "zh-CN": "关注各营销活动的送达率",
+      "zh-HK": "關注各營銷活動的送達率"
     },
     "Keep an eye on what's ahead": {
       "ja": "今後の予定を確認",
@@ -6634,7 +6647,8 @@
       "ko": "앞으로 있을 일을 주시하세요",
       "fr": "Restez attentif à ce qui arrive",
       "tr": "Yaklaşanları takip edin",
-      "zh-CN": "关注即将到来的事项"
+      "zh-CN": "关注即将到来的事项",
+      "zh-HK": "關注即將到來的事項"
     },
     "Messages: All": {
       "ja": "メッセージ：すべて",
@@ -6643,7 +6657,8 @@
       "ko": "메시지: 전체",
       "fr": "Messages : Tous",
       "tr": "Mesajlar: Tümü",
-      "zh-CN": "消息: 全部"
+      "zh-CN": "消息: 全部",
+      "zh-HK": "訊息：全部"
     },
     "Once you schedule a campaign, it will show up here": {
       "ja": "キャンペーンをスケジュールすると、ここに表示されます",
@@ -6652,7 +6667,8 @@
       "ko": "캠페인을 예약하면 여기에 표시됩니다",
       "fr": "Une fois une campagne planifiée, elle apparaîtra ici",
       "tr": "Bir kampanyayı planladığınızda burada görünecektir",
-      "zh-CN": "一旦您计划营销活动，它将显示在此处"
+      "zh-CN": "一旦您计划营销活动，它将显示在此处",
+      "zh-HK": "一旦您排程營銷活動，它將顯示在此處"
     },
     "Once you send a campaign, it will show up here": {
       "ja": "キャンペーンを送信すると、ここに表示されます",
@@ -6661,7 +6677,8 @@
       "ko": "캠페인을 발송하면 여기에 표시됩니다",
       "fr": "Une fois une campagne envoyée, elle apparaîtra ici",
       "tr": "Bir kampanyayı gönderdiğinizde burada görünecektir",
-      "zh-CN": "一旦您发送营销活动，它将显示在此处"
+      "zh-CN": "一旦您发送营销活动，它将显示在此处",
+      "zh-HK": "一旦您發送營銷活動，它將顯示在此處"
     },
     "Recently sent messages, all in one place": {
       "ja": "最近送信したメッセージをすべて一か所で確認",
@@ -6670,7 +6687,8 @@
       "ko": "최근 발송된 메시지를 한 곳에서",
       "fr": "Messages récemment envoyés, tous au même endroit",
       "tr": "Yakın zamanda gönderilen mesajlar, hepsi tek bir yerde",
-      "zh-CN": "近期发送的消息，集中在一处"
+      "zh-CN": "近期发送的消息，集中在一处",
+      "zh-HK": "近期發送的訊息，集中在一處"
     },
     "Scheduled Messages documentation": {
       "ja": "スケジュール済みメッセージのドキュメント",
@@ -6679,7 +6697,8 @@
       "ko": "예약 메시지 문서",
       "fr": "Documentation des messages planifiés",
       "tr": "Planlanan mesajlar dokümantasyonu",
-      "zh-CN": "已计划消息文档"
+      "zh-CN": "已计划消息文档",
+      "zh-HK": "已排程訊息文件"
     },
     "Sent Messages documentation": {
       "ja": "送信済みメッセージのドキュメント",
@@ -6688,7 +6707,8 @@
       "ko": "발송 메시지 문서",
       "fr": "Documentation des messages envoyés",
       "tr": "Gönderilen mesajlar dokümantasyonu",
-      "zh-CN": "已发送消息文档"
+      "zh-CN": "已发送消息文档",
+      "zh-HK": "已發送訊息文件"
     },
     "Active Subscriptions": {
       "ja": "アクティブな購読",
@@ -6697,7 +6717,8 @@
       "ko": "활성 구독",
       "fr": "Abonnements actifs",
       "tr": "Aktif abonelikler",
-      "zh-CN": "活跃订阅"
+      "zh-CN": "活跃订阅",
+      "zh-HK": "活躍訂閱"
     },
     "All Email Subscriptions": {
       "ja": "すべてのメール購読",
@@ -6706,7 +6727,8 @@
       "ko": "모든 이메일 구독",
       "fr": "Tous les abonnements email",
       "tr": "Tüm email abonelikleri",
-      "zh-CN": "所有 Email 订阅"
+      "zh-CN": "所有 Email 订阅",
+      "zh-HK": "所有 Email 訂閱"
     },
     "All SMS Subscriptions": {
       "ja": "すべてのSMS購読",
@@ -6715,7 +6737,8 @@
       "ko": "모든 SMS 구독",
       "fr": "Tous les abonnements SMS",
       "tr": "Tüm SMS abonelikleri",
-      "zh-CN": "所有 SMS 订阅"
+      "zh-CN": "所有 SMS 订阅",
+      "zh-HK": "所有 SMS 訂閱"
     },
     "Device Type is Email": {
       "ja": "デバイスタイプがメール",
@@ -6724,7 +6747,8 @@
       "ko": "기기 유형: 이메일",
       "fr": "Type d'appareil : Email",
       "tr": "Cihaz türü Email",
-      "zh-CN": "设备类型为 Email"
+      "zh-CN": "设备类型为 Email",
+      "zh-HK": "裝置類型為 Email"
     },
     "Device Type is SMS": {
       "ja": "デバイスタイプがSMS",
@@ -6733,7 +6757,8 @@
       "ko": "기기 유형: SMS",
       "fr": "Type d'appareil : SMS",
       "tr": "Cihaz türü SMS",
-      "zh-CN": "设备类型为 SMS"
+      "zh-CN": "设备类型为 SMS",
+      "zh-HK": "裝置類型為 SMS"
     },
     "Engaged Subscriptions": {
       "ja": "エンゲージドな購読",
@@ -6742,7 +6767,8 @@
       "ko": "참여 중인 구독",
       "fr": "Abonnements engagés",
       "tr": "Etkileşimli abonelikler",
-      "zh-CN": "活跃互动订阅"
+      "zh-CN": "活跃互动订阅",
+      "zh-HK": "活躍互動訂閱"
     },
     "Inactive Subscriptions": {
       "ja": "非アクティブな購読",
@@ -6751,7 +6777,8 @@
       "ko": "비활성 구독",
       "fr": "Abonnements inactifs",
       "tr": "Pasif abonelikler",
-      "zh-CN": "不活跃订阅"
+      "zh-CN": "不活跃订阅",
+      "zh-HK": "不活躍訂閱"
     },
     "Total Subscriptions": {
       "ja": "購読合計",
@@ -6760,7 +6787,8 @@
       "ko": "총 구독 수",
       "fr": "Total des abonnements",
       "tr": "Toplam abonelikler",
-      "zh-CN": "订阅总数"
+      "zh-CN": "订阅总数",
+      "zh-HK": "訂閱總數"
     },
     "Search by name or keywords": {
       "ja": "名前またはキーワードで検索",
@@ -6769,7 +6797,8 @@
       "ko": "이름 또는 키워드로 검색",
       "fr": "Rechercher par nom ou mots-clés",
       "tr": "Ad veya anahtar kelimelerle ara",
-      "zh-CN": "按名称或关键词搜索"
+      "zh-CN": "按名称或关键词搜索",
+      "zh-HK": "按名稱或關鍵詞搜尋"
     },
     "Try one of our quickstart segments": {
       "ja": "クイックスタートセグメントをお試しください",
@@ -6778,7 +6807,8 @@
       "ko": "빠른 시작 세그먼트 중 하나를 시도해 보세요",
       "fr": "Essayez un de nos segments de démarrage rapide",
       "tr": "Hızlı başlangıç segmentlerimizden birini deneyin",
-      "zh-CN": "试用我们的快速入门 Segment 之一"
+      "zh-CN": "试用我们的快速入门 Segment 之一",
+      "zh-HK": "試用我們的快速入門 Segment 之一"
     },
     "Export a list of users": {
       "ja": "ユーザーリストをエクスポート",
@@ -6787,7 +6817,8 @@
       "ko": "사용자 목록 내보내기",
       "fr": "Exporter une liste d'utilisateurs",
       "tr": "Kullanıcı listesi dışa aktar",
-      "zh-CN": "导出用户列表"
+      "zh-CN": "导出用户列表",
+      "zh-HK": "匯出用戶列表"
     },
     "Integrate SDK": {
       "ja": "SDKを統合",
@@ -6796,7 +6827,8 @@
       "ko": "SDK 통합",
       "fr": "Intégrer le SDK",
       "tr": "SDK entegre et",
-      "zh-CN": "集成 SDK"
+      "zh-CN": "集成 SDK",
+      "zh-HK": "整合 SDK"
     },
     "Know your users": {
       "ja": "ユーザーを把握",
@@ -6805,7 +6837,8 @@
       "ko": "사용자를 파악하세요",
       "fr": "Connaissez vos utilisateurs",
       "tr": "Kullanıcılarınızı tanıyın",
-      "zh-CN": "了解您的用户"
+      "zh-CN": "了解您的用户",
+      "zh-HK": "了解您的用戶"
     },
     "Manage user profiles": {
       "ja": "ユーザープロフィールを管理",
@@ -6814,7 +6847,8 @@
       "ko": "사용자 프로필 관리",
       "fr": "Gérer les profils utilisateur",
       "tr": "Kullanıcı profillerini yönetin",
-      "zh-CN": "管理用户资料"
+      "zh-CN": "管理用户资料",
+      "zh-HK": "管理用戶個人資料"
     },
     "See recent message activity at the user level": {
       "ja": "ユーザーレベルでの最近のメッセージアクティビティを確認",
@@ -6823,7 +6857,8 @@
       "ko": "사용자 수준의 최근 메시지 활동 보기",
       "fr": "Voir l'activité récente des messages au niveau de l'utilisateur",
       "tr": "Kullanıcı düzeyinde yakın zamandaki mesaj etkinliğini görüntüleyin",
-      "zh-CN": "在用户级别查看近期消息活动"
+      "zh-CN": "在用户级别查看近期消息活动",
+      "zh-HK": "在用戶級別查看近期訊息活動"
     },
     "User documentation": {
       "ja": "ユーザードキュメント",
@@ -6832,7 +6867,8 @@
       "ko": "사용자 문서",
       "fr": "Documentation utilisateur",
       "tr": "Kullanıcı dokümantasyonu",
-      "zh-CN": "用户文档"
+      "zh-CN": "用户文档",
+      "zh-HK": "用戶文件"
     },
     "Set up": {
       "ja": "セットアップ",
@@ -6841,7 +6877,8 @@
       "ko": "설정",
       "fr": "Configurer",
       "tr": "Kur",
-      "zh-CN": "设置"
+      "zh-CN": "设置",
+      "zh-HK": "設定"
     },
     "Data Feeds allow you to dynamically fetch data from your APIs at send time.": {
       "ja": "データフィードを使用すると、送信時にAPIからデータを動的に取得できます。",
@@ -6850,7 +6887,8 @@
       "ko": "데이터 피드를 통해 발송 시 API에서 동적으로 데이터를 가져올 수 있습니다.",
       "fr": "Les Flux de données vous permettent de récupérer dynamiquement des données depuis vos API au moment de l'envoi.",
       "tr": "Veri akışları, gönderim sırasında API'lerinizden dinamik olarak veri almanızı sağlar.",
-      "zh-CN": "Data Feed 允许您在发送时从 API 动态获取数据。"
+      "zh-CN": "Data Feed 允许您在发送时从 API 动态获取数据。",
+      "zh-HK": "Data Feed 允許您在發送時從 API 動態獲取資料。"
     },
     "Data Feeds documentation": {
       "ja": "データフィードのドキュメント",
@@ -6859,7 +6897,8 @@
       "ko": "데이터 피드 문서",
       "fr": "Documentation des Flux de données",
       "tr": "Veri akışları dokümantasyonu",
-      "zh-CN": "Data Feed 文档"
+      "zh-CN": "Data Feed 文档",
+      "zh-HK": "Data Feed 文件"
     },
     "Insert real-time, dynamic content from your data feeds directly into the template at the time of sending. This feature only applies to templates sent through Journeys.": {
       "ja": "送信時にデータフィードからリアルタイムの動的コンテンツをテンプレートに直接挿入します。この機能はジャーニー経由で送信されるテンプレートにのみ適用されます。",
@@ -6868,7 +6907,8 @@
       "ko": "발송 시 데이터 피드에서 실시간 동적 콘텐츠를 템플릿에 직접 삽입하세요. 이 기능은 저니를 통해 발송된 템플릿에만 적용됩니다.",
       "fr": "Insérez du contenu dynamique en temps réel depuis vos flux de données directement dans le modèle au moment de l'envoi. Cette fonctionnalité ne s'applique qu'aux modèles envoyés via Journeys.",
       "tr": "Veri akışlarınızdan gerçek zamanlı, dinamik içeriği gönderim sırasında doğrudan şablona ekleyin. Bu özellik yalnızca Journeys aracılığıyla gönderilen şablonlar için geçerlidir.",
-      "zh-CN": "在发送时将来自数据源的实时动态内容直接插入模板。此功能仅适用于通过 Journeys 发送的模板。"
+      "zh-CN": "在发送时将来自数据源的实时动态内容直接插入模板。此功能仅适用于通过 Journeys 发送的模板。",
+      "zh-HK": "在發送時將來自 Data Feed 的即時動態內容直接插入範本。此功能僅適用於透過 Journeys 發送的範本。"
     },
     "Needs Action": {
       "ja": "対応が必要",
@@ -6877,7 +6917,8 @@
       "ko": "조치 필요",
       "fr": "Action requise",
       "tr": "Eylem gerekli",
-      "zh-CN": "需要操作"
+      "zh-CN": "需要操作",
+      "zh-HK": "需要操作"
     },
     "You don't have any Data Feeds set up yet": {
       "ja": "データフィードはまだ設定されていません",
@@ -6886,7 +6927,8 @@
       "ko": "아직 데이터 피드가 설정되지 않았습니다",
       "fr": "Vous n'avez encore configuré aucun flux de données",
       "tr": "Henüz kurulmuş bir veri akışınız yok",
-      "zh-CN": "您还没有设置任何 Data Feed"
+      "zh-CN": "您还没有设置任何 Data Feed",
+      "zh-HK": "您還沒有設定任何 Data Feed"
     },
     "Export subscriptions for push, email, and SMS": {
       "ja": "プッシュ、メール、SMSの購読をエクスポートする",
@@ -6895,7 +6937,8 @@
       "ko": "푸시, 이메일 및 SMS 구독 내보내기",
       "fr": "Exportez les abonnements pour push, email et SMS",
       "tr": "Push, email ve SMS için abonelikleri dışa aktarın",
-      "zh-CN": "导出 Push、Email 和 SMS 的订阅"
+      "zh-CN": "导出 Push、Email 和 SMS 的订阅",
+      "zh-HK": "匯出 Push、Email 和 SMS 的訂閱"
     },
     "See subscriber preferences at the channel level": {
       "ja": "チャネルレベルでの購読者の設定を確認",
@@ -6904,7 +6947,8 @@
       "ko": "채널 수준에서 구독자 기본 설정 보기",
       "fr": "Voir les préférences des abonnés au niveau du canal",
       "tr": "Abone tercihlerini kanal düzeyinde görüntüleyin",
-      "zh-CN": "在渠道级别查看订阅者偏好"
+      "zh-CN": "在渠道级别查看订阅者偏好",
+      "zh-HK": "在渠道級別查看訂閱者偏好"
     },
     "Subscriptions documentation": {
       "ja": "購読のドキュメント",
@@ -6913,7 +6957,8 @@
       "ko": "구독 문서",
       "fr": "Documentation des abonnements",
       "tr": "Abonelikler dokümantasyonu",
-      "zh-CN": "订阅文档"
+      "zh-CN": "订阅文档",
+      "zh-HK": "訂閱文件"
     },
     "Understand your audience": {
       "ja": "オーディエンスを理解",
@@ -6922,7 +6967,8 @@
       "ko": "대상을 이해하세요",
       "fr": "Comprenez votre audience",
       "tr": "Hedef kitlenizi anlayın",
-      "zh-CN": "了解您的受众"
+      "zh-CN": "了解您的受众",
+      "zh-HK": "了解您的受眾"
     },
     "View recent activity and preferences": {
       "ja": "最近のアクティビティと設定を表示",
@@ -6931,7 +6977,8 @@
       "ko": "최근 활동 및 기본 설정 보기",
       "fr": "Voir l'activité récente et les préférences",
       "tr": "Yakın zamandaki etkinliği ve tercihleri görüntüleyin",
-      "zh-CN": "查看近期活动和偏好"
+      "zh-CN": "查看近期活动和偏好",
+      "zh-HK": "查看近期活動和偏好"
     },
     "Add Test Subscriptions": {
       "ja": "テスト購読を追加",
@@ -6940,7 +6987,8 @@
       "ko": "테스트 구독 추가",
       "fr": "Ajouter des abonnements de test",
       "tr": "Test abonelikleri ekle",
-      "zh-CN": "添加测试订阅"
+      "zh-CN": "添加测试订阅",
+      "zh-HK": "新增測試訂閱"
     },
     "Confirm emails are pixel-perfect": {
       "ja": "メールがピクセルパーフェクトであることを確認",
@@ -6949,7 +6997,8 @@
       "ko": "이메일이 완벽한지 확인하세요",
       "fr": "Confirmez que les emails sont au pixel près",
       "tr": "Emaillerin piksel mükemmelliğinde olduğunu onaylayın",
-      "zh-CN": "确认 Email 像素级完美"
+      "zh-CN": "确认 Email 像素级完美",
+      "zh-HK": "確認 Email 像素級完美"
     },
     "Manage test subscriptions to preview and send test messages.": {
       "ja": "テスト購読を管理して、テストメッセージをプレビューおよび送信する。",
@@ -6958,7 +7007,8 @@
       "ko": "테스트 메시지를 미리 보고 발송하기 위해 테스트 구독을 관리하세요.",
       "fr": "Gérez les abonnements de test pour prévisualiser et envoyer des messages de test.",
       "tr": "Test mesajlarını önizlemek ve göndermek için test aboneliklerini yönetin.",
-      "zh-CN": "管理测试订阅以预览和发送测试消息。"
+      "zh-CN": "管理测试订阅以预览和发送测试消息。",
+      "zh-HK": "管理測試訂閱以預覽和發送測試訊息。"
     },
     "Send perfect messages": {
       "ja": "完璧なメッセージを送信",
