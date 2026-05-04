@@ -15017,7 +15017,8 @@
       "ko": "OneSignal은 OneSignal 이메일을 사용하는 사용자에게만 평판 관리를 제공합니다.",
       "fr": "OneSignal ne fournit la gestion de réputation que pour les utilisateurs d'OneSignal email.",
       "tr": "OneSignal yalnızca OneSignal email kullanan kullanıcılar için itibar yönetimi sağlar.",
-      "zh-CN": "OneSignal 仅为使用 OneSignal email 的用户提供信誉管理。"
+      "zh-CN": "OneSignal 仅为使用 OneSignal email 的用户提供信誉管理。",
+      "zh-HK": "OneSignal 僅為使用 OneSignal email 的用戶提供信譽管理。"
     },
     "SMS / RCS Settings": {
       "ja": "SMS / RCS設定",
@@ -15026,7 +15027,8 @@
       "ko": "SMS / RCS 설정",
       "fr": "Paramètres SMS / RCS",
       "tr": "SMS / RCS ayarları",
-      "zh-CN": "SMS / RCS 设置"
+      "zh-CN": "SMS / RCS 设置",
+      "zh-HK": "SMS / RCS 設定"
     },
     "Switch Providers": {
       "ja": "プロバイダーを切り替え",
@@ -15035,7 +15037,8 @@
       "ko": "공급자 전환",
       "fr": "Changer de fournisseur",
       "tr": "Sağlayıcıyı değiştir",
-      "zh-CN": "切换提供商"
+      "zh-CN": "切换提供商",
+      "zh-HK": "切換提供商"
     },
     "To understand your reputation, see your ESP provider or email reputation tools": {
       "ja": "評判を確認するには、ESPプロバイダーまたはメール評判ツールをご確認ください",
@@ -15044,7 +15047,8 @@
       "ko": "평판을 이해하려면 ESP 공급자 또는 이메일 평판 도구를 확인하세요",
       "fr": "Pour comprendre votre réputation, consultez votre fournisseur ESP ou des outils de réputation email",
       "tr": "İtibarınızı anlamak için ESP sağlayıcınıza veya email itibar araçlarına bakın",
-      "zh-CN": "要了解您的信誉，请查看您的 ESP 提供商或 Email 信誉工具"
+      "zh-CN": "要了解您的信誉，请查看您的 ESP 提供商或 Email 信誉工具",
+      "zh-HK": "要了解您的信譽，請查看您的 ESP 提供商或 Email 信譽工具"
     },
     "Member actions": {
       "ja": "メンバーアクション",
@@ -15053,7 +15057,8 @@
       "ko": "멤버 작업",
       "fr": "Actions du membre",
       "tr": "Üye eylemleri",
-      "zh-CN": "成员操作"
+      "zh-CN": "成员操作",
+      "zh-HK": "成員操作"
     },
     "Team Member": {
       "ja": "チームメンバー",
@@ -15062,7 +15067,8 @@
       "ko": "팀원",
       "fr": "Membre de l'équipe",
       "tr": "Ekip üyesi",
-      "zh-CN": "团队成员"
+      "zh-CN": "团队成员",
+      "zh-HK": "團隊成員"
     },
     "CANCEL": {
       "ja": "CANCEL",
@@ -15071,7 +15077,8 @@
       "ko": "CANCEL",
       "fr": "CANCEL",
       "tr": "CANCEL",
-      "zh-CN": "CANCEL"
+      "zh-CN": "CANCEL",
+      "zh-HK": "CANCEL"
     },
     "HELP": {
       "ja": "HELP",
@@ -15080,7 +15087,8 @@
       "ko": "HELP",
       "fr": "HELP",
       "tr": "HELP",
-      "zh-CN": "HELP"
+      "zh-CN": "HELP",
+      "zh-HK": "HELP"
     },
     "Invited": {
       "ja": "招待済み",
@@ -15089,7 +15097,8 @@
       "ko": "초대됨",
       "fr": "Invité",
       "tr": "Davet edildi",
-      "zh-CN": "已邀请"
+      "zh-CN": "已邀请",
+      "zh-HK": "已邀請"
     },
     "All Login Methods": {
       "ja": "すべてのログイン方法",
@@ -15098,7 +15107,8 @@
       "ko": "모든 로그인 방법",
       "fr": "Toutes les méthodes de connexion",
       "tr": "Tüm giriş yöntemleri",
-      "zh-CN": "所有登录方式"
+      "zh-CN": "所有登录方式",
+      "zh-HK": "所有登入方式"
     },
     "All Roles": {
       "ja": "すべての役割",
@@ -15107,7 +15117,8 @@
       "ko": "모든 역할",
       "fr": "Tous les rôles",
       "tr": "Tüm roller",
-      "zh-CN": "所有角色"
+      "zh-CN": "所有角色",
+      "zh-HK": "所有角色"
     },
     "Invite to App": {
       "ja": "アプリに招待",
@@ -15116,7 +15127,8 @@
       "ko": "앱에 초대",
       "fr": "Inviter dans l'app",
       "tr": "Uygulamaya davet et",
-      "zh-CN": "邀请到应用"
+      "zh-CN": "邀请到应用",
+      "zh-HK": "邀請到應用"
     },
     "JOURNEY": {
       "ja": "JOURNEY",
@@ -15125,7 +15137,8 @@
       "ko": "JOURNEY",
       "fr": "JOURNEY",
       "tr": "JOURNEY",
-      "zh-CN": "JOURNEY"
+      "zh-CN": "JOURNEY",
+      "zh-HK": "JOURNEY"
     },
     "Last sign in": {
       "ja": "最終サインイン",
@@ -15134,7 +15147,8 @@
       "ko": "마지막 로그인",
       "fr": "Dernière connexion",
       "tr": "Son giriş",
-      "zh-CN": "最近登录"
+      "zh-CN": "最近登录",
+      "zh-HK": "最近登入"
     },
     "Login method": {
       "ja": "ログイン方法",
@@ -15143,7 +15157,8 @@
       "ko": "로그인 방법",
       "fr": "Méthode de connexion",
       "tr": "Giriş yöntemi",
-      "zh-CN": "登录方式"
+      "zh-CN": "登录方式",
+      "zh-HK": "登入方式"
     },
     "Member": {
       "ja": "メンバー",
@@ -15152,7 +15167,8 @@
       "ko": "멤버",
       "fr": "Membre",
       "tr": "Üye",
-      "zh-CN": "成员"
+      "zh-CN": "成员",
+      "zh-HK": "成員"
     },
     "Org role": {
       "ja": "組織での役割",
@@ -15161,7 +15177,8 @@
       "ko": "조직 역할",
       "fr": "Rôle dans l'organisation",
       "tr": "Organizasyon rolü",
-      "zh-CN": "组织角色"
+      "zh-CN": "组织角色",
+      "zh-HK": "組織角色"
     },
     "Unsuccessful": {
       "ja": "失敗",
@@ -15170,7 +15187,8 @@
       "ko": "실패",
       "fr": "Échec",
       "tr": "Başarısız",
-      "zh-CN": "失败"
+      "zh-CN": "失败",
+      "zh-HK": "失敗"
     },
     "(tag will be removed)": {
       "ja": "（タグは削除されます）",
@@ -15179,7 +15197,8 @@
       "ko": "(태그가 제거됩니다)",
       "fr": "(le tag sera supprimé)",
       "tr": "(etiket kaldırılacak)",
-      "zh-CN": "（标签将被移除）"
+      "zh-CN": "（标签将被移除）",
+      "zh-HK": "（標籤將被移除）"
     },
     "Add Tag": {
       "ja": "タグを追加",
@@ -15188,7 +15207,8 @@
       "ko": "태그 추가",
       "fr": "Ajouter un tag",
       "tr": "Etiket ekle",
-      "zh-CN": "添加标签"
+      "zh-CN": "添加标签",
+      "zh-HK": "新增標籤"
     },
     "Add a note or comment...": {
       "ja": "メモまたはコメントを追加...",
@@ -15197,7 +15217,8 @@
       "ko": "메모 또는 댓글 추가...",
       "fr": "Ajouter une note ou un commentaire...",
       "tr": "Not veya yorum ekle...",
-      "zh-CN": "添加备注或评论..."
+      "zh-CN": "添加备注或评论...",
+      "zh-HK": "新增備註或評論..."
     },
     "Can a user re-enter a Journey after exiting or finishing?": {
       "ja": "ユーザーは退出または完了後にジャーニーに再度入ることができますか？",
@@ -15206,7 +15227,8 @@
       "ko": "사용자가 종료하거나 완료한 후에 저니에 다시 진입할 수 있나요?",
       "fr": "Un utilisateur peut-il entrer à nouveau dans un Journey après en être sorti ou l'avoir terminé ?",
       "tr": "Kullanıcı çıktıktan veya tamamladıktan sonra bir Journey'e tekrar girebilir mi?",
-      "zh-CN": "用户在退出或完成后能否重新进入 Journey？"
+      "zh-CN": "用户在退出或完成后能否重新进入 Journey？",
+      "zh-HK": "用戶在退出或完成後能否重新進入 Journey？"
     },
     "Days": {
       "ja": "日",
@@ -15215,7 +15237,8 @@
       "ko": "일",
       "fr": "Jours",
       "tr": "Gün",
-      "zh-CN": "天"
+      "zh-CN": "天",
+      "zh-HK": "天"
     },
     "Message Template": {
       "ja": "メッセージテンプレート",
@@ -15224,7 +15247,8 @@
       "ko": "메시지 템플릿",
       "fr": "Modèle de message",
       "tr": "Mesaj şablonu",
-      "zh-CN": "消息模板"
+      "zh-CN": "消息模板",
+      "zh-HK": "訊息範本"
     },
     "No, they can receive this only once": {
       "ja": "いいえ、これは一度だけ受信できます",
@@ -15233,7 +15257,8 @@
       "ko": "아니요, 한 번만 받을 수 있습니다",
       "fr": "Non, ils ne peuvent le recevoir qu'une seule fois",
       "tr": "Hayır, bunu yalnızca bir kez alabilirler",
-      "zh-CN": "否，只能接收一次"
+      "zh-CN": "否，只能接收一次",
+      "zh-HK": "否，只能接收一次"
     },
     "Note": {
       "ja": "メモ",
@@ -15242,7 +15267,8 @@
       "ko": "메모",
       "fr": "Note",
       "tr": "Not",
-      "zh-CN": "备注"
+      "zh-CN": "备注",
+      "zh-HK": "備註"
     },
     "Press enter or space to select a node. You can then use the arrow keys to move the node around. Press delete to remove it and escape to cancel.": {
       "ja": "Enter キーまたはスペースキーを押してノードを選択します。その後、矢印キーでノードを移動できます。Delete キーで削除、Escape キーでキャンセルできます。",
@@ -15251,7 +15277,8 @@
       "ko": "Enter 또는 스페이스 바를 눌러 노드를 선택하세요. 그런 다음 화살표 키로 노드를 이동할 수 있습니다. 삭제하려면 Delete 키를, 취소하려면 Esc 키를 누르세요.",
       "fr": "Appuyez sur Entrée ou Espace pour sélectionner un nœud. Vous pouvez ensuite utiliser les touches fléchées pour déplacer le nœud. Appuyez sur Suppr pour le supprimer et sur Échap pour annuler.",
       "tr": "Bir düğüm seçmek için Enter veya boşluk tuşuna basın. Ardından ok tuşlarıyla düğümü hareket ettirebilirsiniz. Kaldırmak için Delete tuşuna, iptal etmek için Esc tuşuna basın.",
-      "zh-CN": "按 Enter 或空格键选择节点。然后可以使用方向键移动节点。按 Delete 键移除，按 Esc 键取消。"
+      "zh-CN": "按 Enter 或空格键选择节点。然后可以使用方向键移动节点。按 Delete 键移除，按 Esc 键取消。",
+      "zh-HK": "按 Enter 或空格鍵選擇節點。然後可以使用方向鍵移動節點。按 Delete 鍵移除，按 Esc 鍵取消。"
     },
     "Press enter or space to select an edge. You can then press delete to remove it or escape to cancel.": {
       "ja": "Enter キーまたはスペースキーを押してエッジを選択します。その後、Delete キーで削除、Escape キーでキャンセルできます。",
@@ -15260,7 +15287,8 @@
       "ko": "Enter 또는 스페이스 바를 눌러 엣지를 선택하세요. 그런 다음 삭제하려면 Delete 키를, 취소하려면 Esc 키를 누르세요.",
       "fr": "Appuyez sur Entrée ou Espace pour sélectionner une arête. Vous pouvez ensuite appuyer sur Suppr pour la supprimer ou sur Échap pour annuler.",
       "tr": "Bir kenar seçmek için Enter veya boşluk tuşuna basın. Ardından kaldırmak için Delete tuşuna, iptal etmek için Esc tuşuna basabilirsiniz.",
-      "zh-CN": "按 Enter 或空格键选择边。然后可以按 Delete 键移除，或按 Esc 键取消。"
+      "zh-CN": "按 Enter 或空格键选择边。然后可以按 Delete 键移除，或按 Esc 键取消。",
+      "zh-HK": "按 Enter 或空格鍵選擇邊。然後可以按 Delete 鍵移除，或按 Esc 鍵取消。"
     },
     "Push Notification": {
       "ja": "プッシュ通知",
@@ -15269,7 +15297,8 @@
       "ko": "푸시 알림",
       "fr": "Notification push",
       "tr": "Push bildirimi",
-      "zh-CN": "Push 通知"
+      "zh-CN": "Push 通知",
+      "zh-HK": "Push 通知"
     },
     "Send push notification": {
       "ja": "プッシュ通知を送信",
@@ -15278,7 +15307,8 @@
       "ko": "푸시 알림 전송",
       "fr": "Envoyer la notification push",
       "tr": "Push bildirimi gönder",
-      "zh-CN": "发送 Push 通知"
+      "zh-CN": "发送 Push 通知",
+      "zh-HK": "發送 Push 通知"
     },
     "Set a Push Goal": {
       "ja": "プッシュ目標を設定",
@@ -15287,7 +15317,8 @@
       "ko": "푸시 목표 설정",
       "fr": "Définir un objectif de push",
       "tr": "Push hedefi belirle",
-      "zh-CN": "设置 Push 目标"
+      "zh-CN": "设置 Push 目标",
+      "zh-HK": "設定 Push 目標"
     },
     "Specify Tags": {
       "ja": "タグを指定",
@@ -15296,7 +15327,8 @@
       "ko": "태그 지정",
       "fr": "Spécifier les tags",
       "tr": "Etiketleri belirt",
-      "zh-CN": "指定标签"
+      "zh-CN": "指定标签",
+      "zh-HK": "指定標籤"
     },
     "TIP:": {
       "ja": "ヒント：",
@@ -15305,7 +15337,8 @@
       "ko": "팁:",
       "fr": "ASTUCE :",
       "tr": "İPUCU:",
-      "zh-CN": "提示："
+      "zh-CN": "提示：",
+      "zh-HK": "提示："
     },
     "Tag User": {
       "ja": "ユーザーをタグ付け",
@@ -15314,7 +15347,8 @@
       "ko": "사용자 태그 지정",
       "fr": "Tagger l'utilisateur",
       "tr": "Kullanıcıyı etiketle",
-      "zh-CN": "为用户添加标签"
+      "zh-CN": "为用户添加标签",
+      "zh-HK": "為用戶新增標籤"
     },
     "Time Window": {
       "ja": "時間枠",
@@ -15323,7 +15357,8 @@
       "ko": "시간 범위",
       "fr": "Fenêtre temporelle",
       "tr": "Zaman aralığı",
-      "zh-CN": "时间窗口"
+      "zh-CN": "时间窗口",
+      "zh-HK": "時間窗口"
     },
     "To pick up a draggable item, press the space bar.\n    While dragging, use the arrow keys to move the item.\n    Press space again to drop the item in its new position, or press escape to cancel.": {
       "ja": "ドラッグ可能なアイテムを取得するには、スペースキーを押します。\n    ドラッグ中は、矢印キーでアイテムを移動できます。\n    スペースキーをもう一度押して新しい位置にドロップするか、Escape キーでキャンセルします。",
@@ -15332,7 +15367,8 @@
       "ko": "드래그 가능한 항목을 잡으려면 스페이스 바를 누르세요.\n    드래그하는 동안 화살표 키로 항목을 이동할 수 있습니다.\n    새 위치에 항목을 놓으려면 스페이스 바를 다시 누르고, 취소하려면 Esc 키를 누르세요.",
       "fr": "Pour saisir un élément déplaçable, appuyez sur la barre d'espace.\n    Pendant le déplacement, utilisez les touches fléchées pour déplacer l'élément.\n    Appuyez à nouveau sur Espace pour déposer l'élément à sa nouvelle position, ou sur Échap pour annuler.",
       "tr": "Sürüklenebilir bir öğeyi almak için boşluk tuşuna basın.\n    Sürükleme sırasında, öğeyi hareket ettirmek için ok tuşlarını kullanın.\n    Öğeyi yeni konumuna bırakmak için boşluk tuşuna tekrar basın veya iptal etmek için Esc tuşuna basın.",
-      "zh-CN": "要拾起可拖动项目，请按空格键。\n    拖动时使用方向键移动项目。\n    再次按空格键将项目放到新位置，或按 Esc 键取消。"
+      "zh-CN": "要拾起可拖动项目，请按空格键。\n    拖动时使用方向键移动项目。\n    再次按空格键将项目放到新位置，或按 Esc 键取消。",
+      "zh-HK": "要拾起可拖動項目，請按空格鍵。\n    拖動時使用方向鍵移動項目。\n    再次按空格鍵將項目放到新位置，或按 Esc 鍵取消。"
     },
     "Users only receive messages from this Journey once.": {
       "ja": "ユーザーはこのジャーニーから一度だけメッセージを受信します。",
@@ -15341,7 +15377,8 @@
       "ko": "사용자는 이 저니로부터 메시지를 한 번만 받습니다.",
       "fr": "Les utilisateurs ne reçoivent les messages de ce Journey qu'une seule fois.",
       "tr": "Kullanıcılar bu Journey'den mesajları yalnızca bir kez alır.",
-      "zh-CN": "用户只会从此 Journey 收到一次消息。"
+      "zh-CN": "用户只会从此 Journey 收到一次消息。",
+      "zh-HK": "用戶只會從此 Journey 收到一次訊息。"
     },
     "Users re-enter the Journey after a period of time if they match the entry rules.": {
       "ja": "ユーザーが入場ルールに一致する場合、一定期間後にジャーニーに再度入ります。",
@@ -15350,7 +15387,8 @@
       "ko": "사용자가 진입 규칙과 일치하는 경우 일정 기간 후에 저니에 다시 진입합니다.",
       "fr": "Les utilisateurs entrent à nouveau dans le Journey après un certain temps s'ils correspondent aux règles d'entrée.",
       "tr": "Kullanıcılar giriş kurallarıyla eşleşirlerse belirli bir süre sonra Journey'e tekrar girerler.",
-      "zh-CN": "如果用户匹配进入规则，他们将在一段时间后重新进入 Journey。"
+      "zh-CN": "如果用户匹配进入规则，他们将在一段时间后重新进入 Journey。",
+      "zh-HK": "如果用戶匹配進入規則，他們將在一段時間後重新進入 Journey。"
     },
     "Wait": {
       "ja": "待機",
@@ -15359,7 +15397,8 @@
       "ko": "대기",
       "fr": "Attendre",
       "tr": "Bekle",
-      "zh-CN": "等待"
+      "zh-CN": "等待",
+      "zh-HK": "等待"
     },
     "Yes, after a certain amount of time": {
       "ja": "はい、一定時間後",
@@ -15368,7 +15407,8 @@
       "ko": "예, 일정 시간 후",
       "fr": "Oui, après un certain temps",
       "tr": "Evet, belirli bir süre sonra",
-      "zh-CN": "是，在一定时间之后"
+      "zh-CN": "是，在一定时间之后",
+      "zh-HK": "是，在一定時間之後"
     },
     "This message will": {
       "ja": "このメッセージは",
@@ -15377,7 +15417,8 @@
       "ko": "이 메시지는",
       "fr": "Ce message",
       "tr": "Bu mesaj",
-      "zh-CN": "此消息将"
+      "zh-CN": "此消息将",
+      "zh-HK": "此訊息將"
     },
     "send immediately": {
       "ja": "すぐに送信",
@@ -15386,7 +15427,8 @@
       "ko": "즉시 전송됩니다",
       "fr": "sera envoyé immédiatement",
       "tr": "hemen gönderilecek",
-      "zh-CN": "立即发送"
+      "zh-CN": "立即发送",
+      "zh-HK": "立即發送"
     },
     "once the user reaches this step.": {
       "ja": "ユーザーがこのステップに到達した時点で送信",
@@ -15395,7 +15437,8 @@
       "ko": "사용자가 이 단계에 도달하면.",
       "fr": "une fois que l'utilisateur atteint cette étape.",
       "tr": "kullanıcı bu adıma ulaştığında.",
-      "zh-CN": "当用户到达此步骤时。"
+      "zh-CN": "当用户到达此步骤时。",
+      "zh-HK": "當用戶到達此步驟時。"
     },
     "To manage what days and times this message sends at, add a": {
       "ja": "このメッセージの送信日時を管理するには、",
@@ -15404,7 +15447,8 @@
       "ko": "이 메시지가 전송되는 요일과 시간을 관리하려면, ",
       "fr": "Pour gérer les jours et heures auxquels ce message est envoyé, ajoutez une",
       "tr": "Bu mesajın gönderildiği gün ve saatleri yönetmek için, bir",
-      "zh-CN": "要管理此消息的发送日期和时间，请添加"
+      "zh-CN": "要管理此消息的发送日期和时间，请添加",
+      "zh-HK": "要管理此訊息的發送日期和時間，請新增"
     },
     "action and/or a": {
       "ja": "アクション、または",
@@ -15413,7 +15457,8 @@
       "ko": "액션 및/또는",
       "fr": "action et/ou une",
       "tr": "eylemi ve/veya bir",
-      "zh-CN": "操作和/或"
+      "zh-CN": "操作和/或",
+      "zh-HK": "操作和/或"
     },
     "action to your Journey before this message step.": {
       "ja": "アクションをこのメッセージステップの前にジャーニーに追加してください。",
@@ -15422,7 +15467,8 @@
       "ko": "액션을 이 메시지 단계 이전에 저니에 추가하세요.",
       "fr": "action à votre Journey avant cette étape de message.",
       "tr": "eylemini bu mesaj adımından önce Journey'inize ekleyin.",
-      "zh-CN": "操作添加到您的 Journey 中，在此消息步骤之前。"
+      "zh-CN": "操作添加到您的 Journey 中，在此消息步骤之前。",
+      "zh-HK": "操作新增到您的 Journey 中，在此訊息步驟之前。"
     }
   },
   "patterns": [
