@@ -116,6 +116,15 @@
     if (!parent || parent.nodeType !== Node.ELEMENT_NODE) return true;
     if (SKIP_PARENT_TAGS.has(parent.tagName)) return true;
     if (parent.isContentEditable) return true;
+    // Skip text inside SVG subtrees. Charts (Highcharts, etc.) render axis
+    // labels, legend text, and accessibility aria-labels for every data
+    // point as SVG. Even when we can translate them, chart re-renders
+    // (filter changes, zoom, etc.) replace the SVG subtree and our
+    // observer races those updates inconsistently — partial translation
+    // looks worse than consistent English. Skipping the whole subtree
+    // also kills a major source of ledger noise: chart aria-labels like
+    // "May 2025, 7. Unsubscribed." (one per data point per series).
+    if (parent.closest("svg")) return true;
     return false;
   }
 
@@ -186,6 +195,14 @@
     return p === "/apps" || p === "/apps/";
   }
 
+  function onSuperUserPage() {
+    // /super-user/* is the OneSignal-internal admin tool. It's not a
+    // customer-facing surface; every text node there is UGC (org names,
+    // user emails, account metadata). Skip translation AND ledger
+    // reporting entirely on these paths.
+    return (window.location.pathname || "").startsWith("/super-user");
+  }
+
   function pathKey() {
     // Collapse long hex/uuid-shaped segments to ":id" so we never send a
     // full app ID or resource ID to the ledger. Pathname only — no query,
@@ -198,6 +215,7 @@
 
   function trackMissed(s) {
     if (onAppSelectorPage()) return;
+    if (onSuperUserPage()) return;
     if (!couldBeUI(s)) return;
     const next = (missedSession.get(s) || 0) + 1;
     missedSession.set(s, next);
@@ -240,6 +258,10 @@
 
   function translateAttributes(el) {
     if (!el || el.nodeType !== Node.ELEMENT_NODE) return;
+    if (onSuperUserPage()) return;
+    // Same SVG-skip rationale as shouldSkip(): SVG aria-labels are
+    // per-data-point chart accessibility metadata, not real UI.
+    if (el.closest("svg")) return;
     for (const attr of TRANSLATABLE_ATTRS) {
       if (!el.hasAttribute(attr)) continue;
       const next = translateString(el.getAttribute(attr));
@@ -251,6 +273,7 @@
 
   function walkAttributes(root) {
     if (!root) return;
+    if (onSuperUserPage()) return;
     if (root.nodeType === Node.ELEMENT_NODE) translateAttributes(root);
     if (root.nodeType !== Node.ELEMENT_NODE && root.nodeType !== Node.DOCUMENT_NODE) return;
     // One querySelectorAll per subtree is cheaper than a TreeWalker for
@@ -268,11 +291,16 @@
 
   function walk(root) {
     if (!root) return;
+    if (onSuperUserPage()) return;
     if (root.nodeType === Node.TEXT_NODE) {
       translateTextNode(root);
       return;
     }
     if (root.nodeType !== Node.ELEMENT_NODE && root.nodeType !== Node.DOCUMENT_NODE) return;
+    // Skip the whole subtree if root is (or is inside) an <svg>. Saves
+    // descending through Highcharts' hundreds of <g>/<text>/<path> nodes
+    // every time a chart re-renders.
+    if (root.nodeType === Node.ELEMENT_NODE && root.closest("svg")) return;
     const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT, {
       acceptNode: (n) => (shouldSkip(n) ? NodeFilter.FILTER_REJECT : NodeFilter.FILTER_ACCEPT),
     });

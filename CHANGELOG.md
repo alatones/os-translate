@@ -7,6 +7,36 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
+## [1.4.0] — 2026-05-06
+
+### Changed
+
+- **Charts (SVG content) are no longer translated.** The text walker,
+  attribute walker, and MutationObserver now all skip subtrees rooted
+  at any `<svg>` element. Previously chart axis labels and legend
+  text were inconsistently translated — some labels caught on first
+  paint, others (e.g. labels rendered after a filter change or zoom)
+  reverting to English — because Highcharts replaces SVG subtrees on
+  re-render in ways our observer races. Consistent English chart
+  chrome reads better than partial translation. Net effect on the
+  user: chart labels (`May '25`, `Jul '25`, `Confirmed receipt`,
+  `Clicked`, etc.) stay in English. Net effect on the missed-string
+  ledger: a major reduction. Each chart had been generating one
+  `aria-label` ledger entry per data point per series — for a
+  monthly chart with four series, that's 50+ rows of accessibility
+  metadata like `"May 2025, 7. Unsubscribed."` per page-load. Those
+  are now suppressed entirely.
+
+### Removed
+
+- **`/super-user/*` paths are now ignored entirely.** This is the
+  OneSignal-internal admin tool — not customer-facing. Every text
+  node on those pages is UGC (org names, customer emails, account
+  metadata). The translation walk and ledger reporting both
+  short-circuit when the URL pathname starts with `/super-user`.
+  Behavior for non-internal users: unchanged (they don't see those
+  pages).
+
 ## [1.3.2] — 2026-05-04
 
 ### Changed
@@ -358,7 +388,8 @@ entries + 73 regex patterns**:
   every supported language" rule and (added with this changelog) the
   versioning convention.
 
-[Unreleased]: https://github.com/alatones/os-translate/compare/v1.3.2...HEAD
+[Unreleased]: https://github.com/alatones/os-translate/compare/v1.4.0...HEAD
+[1.4.0]: https://github.com/alatones/os-translate/compare/v1.3.2...v1.4.0
 [1.3.2]: https://github.com/alatones/os-translate/compare/v1.3.1...v1.3.2
 [1.3.1]: https://github.com/alatones/os-translate/compare/v1.3.0...v1.3.1
 [1.3.0]: https://github.com/alatones/os-translate/compare/v1.2.0...v1.3.0
