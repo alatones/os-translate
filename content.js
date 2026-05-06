@@ -246,27 +246,28 @@
     nameColumnHeaders = headers;
   }
 
-  // Per-table cache for "which column is the Name column?" lookups.
-  // Computed from <thead> headers on first access. WeakMap so the
-  // entry is released when the table itself is garbage-collected.
-  const tableNameColumnCache = new WeakMap();
-  function findNameColumnIndex(table) {
-    if (!table) return -1;
-    if (tableNameColumnCache.has(table)) return tableNameColumnCache.get(table);
-    let idx = -1;
+  // Per-table cache for "which columns are Name-style?" lookups.
+  // A single table can have multiple matching columns — e.g. a Messages
+  // table has both "Name" (column 0) and "Labels" (column 1), both
+  // dominated by UGC. Computed from <thead> headers on first access.
+  // WeakMap so entries release when React unmounts the table.
+  const tableNameColumnsCache = new WeakMap();
+  function findNameColumnIndices(table) {
+    if (!table) return null;
+    if (tableNameColumnsCache.has(table)) return tableNameColumnsCache.get(table);
+    const indices = new Set();
     const headerRow = table.querySelector("thead tr") || table.querySelector("tr");
     if (headerRow) {
       const cells = headerRow.querySelectorAll("th, td");
       for (let i = 0; i < cells.length; i++) {
         const text = (cells[i].textContent || "").trim();
         if (nameColumnHeaders.has(text)) {
-          idx = i;
-          break;
+          indices.add(i);
         }
       }
     }
-    tableNameColumnCache.set(table, idx);
-    return idx;
+    tableNameColumnsCache.set(table, indices);
+    return indices;
   }
 
   function isInNameColumn(textNode) {
@@ -283,8 +284,8 @@
     if (typeof cellIdx !== "number" || cellIdx < 0) return false;
     const table = el.closest("table");
     if (!table) return false;
-    const nameIdx = findNameColumnIndex(table);
-    return nameIdx === cellIdx;
+    const indices = findNameColumnIndices(table);
+    return !!(indices && indices.has(cellIdx));
   }
 
   // Page chrome that's overwhelmingly UGC: the breadcrumb trail at the
