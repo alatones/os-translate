@@ -303,14 +303,21 @@ free.
   Limitations".
 - **`/super-user/*` paths:** the OneSignal-internal admin tool is
   ignored entirely — no translation, no ledger.
-- **Name / Title / ID column cells:** when a `<table>`'s headers
-  identify a "Name", "Title", "ID", or "Identifier" column (in any
-  active-language translation), text inside *that column's data
-  cells* is no longer reported to the ledger. Translation still
-  runs, so structured subtext like "User Tag X is activated" or
-  "Last Session greater than 168 hours ago" still translates via
-  patterns; the prominent UGC name in the cell stops polluting the
-  ledger.
+- **Name / Title / ID / Label column cells:** when a `<table>`'s
+  headers identify a "Name", "Title", "ID", "Identifier", or
+  "Label" column (in any active-language translation), text inside
+  *that column's data cells* is no longer reported to the ledger.
+  Translation still runs, so structured subtext like "User Tag X
+  is activated" or "Last Session greater than 168 hours ago" still
+  translates via patterns; the prominent UGC name in the cell
+  stops polluting the ledger.
+- **Breadcrumb trail and app/account switcher chrome:** matched
+  via styled-component class prefixes (`BreadcrumbTrail__`,
+  `BreadcrumbItem__`, `CleanSidebar__AppSwitcher`,
+  `AppAccountDropdown`). These render on every page-load and
+  surface the same org names, app names, and signed-in emails over
+  and over. Translation continues to run; only ledger reporting
+  is suppressed.
 - **/apps selector page:** strings on the org/app picker
   (`/apps`) are UGC app names; translation still attempted (no
   effect, no dictionary match), ledger reporting suppressed.

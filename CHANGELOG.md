@@ -7,6 +7,27 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
+## [1.5.1] — 2026-05-06
+
+### Changed
+
+- **Ledger filter: added `Label` as a Name-column header term.**
+  Tables whose `<th>` reads "Label" (or its active-language
+  translation) get the same Name-column treatment as Name / Title /
+  ID / Identifier — translation still attempted in cells, ledger
+  reporting suppressed. Catches a class of tables (e.g. message
+  Labels columns) where the visible identifier header is "Label",
+  not "Name".
+- **Ledger filter: skip the breadcrumb trail and app/account
+  switcher chrome.** Both render on essentially every page-load and
+  surface the same org names, app names, and signed-in emails over
+  and over — collectively a substantial fraction of the per-batch
+  ledger volume. Detection is via styled-component class prefixes
+  (`BreadcrumbTrail__`, `BreadcrumbItem__`,
+  `CleanSidebar__AppSwitcher`, `AppAccountDropdown`); using a
+  prefix match makes the rule robust to per-build hash suffix
+  changes. Translation continues to run through both surfaces.
+
 ## [1.5.0] — 2026-05-06
 
 ### Added
@@ -440,7 +461,8 @@ entries + 73 regex patterns**:
   every supported language" rule and (added with this changelog) the
   versioning convention.
 
-[Unreleased]: https://github.com/alatones/os-translate/compare/v1.5.0...HEAD
+[Unreleased]: https://github.com/alatones/os-translate/compare/v1.5.1...HEAD
+[1.5.1]: https://github.com/alatones/os-translate/compare/v1.5.0...v1.5.1
 [1.5.0]: https://github.com/alatones/os-translate/compare/v1.4.0...v1.5.0
 [1.4.0]: https://github.com/alatones/os-translate/compare/v1.3.2...v1.4.0
 [1.3.2]: https://github.com/alatones/os-translate/compare/v1.3.1...v1.3.2
