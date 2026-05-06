@@ -7,6 +7,43 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
+## [1.3.0] — 2026-05-04
+
+### Changed
+
+- **Generic marketing channel and feature names are now translated**
+  in zh-CN and zh-HK instead of being kept in Latin. Affects: Push,
+  Email, SMS, RCS, In-App, Live Activity / Live Activities, Journey /
+  Journeys, Segment / Segments (the OneSignal feature), Data Feed /
+  Data Feeds. Previously these read as English in an otherwise-
+  translated dashboard, which felt jarring to East Asian readers.
+  Sweep updated 227 zh-CN entries + 229 zh-HK entries + 6 patterns.
+- New zh-CN canonicals (per Mainland coworker recommendations):
+  推送 / 电子邮件 / 短信 / 富媒体短信 / 应用内 / 实时活动 / 旅程 /
+  用户分群 / 数据源.
+- New zh-HK canonicals (Traditional Chinese, HK lexicon):
+  推送 / 電郵 / 短訊 / 富媒體短訊 / 應用內 / 即時動態 / 旅程 /
+  用戶分群 / 資料來源.
+- Turkish glossary canonical for "Email" promoted from `Email` to
+  `E-posta` (proper Turkish term).
+- `STYLE_GUIDE.md` rule #1 rewritten to distinguish brand names
+  (locked Latin: OneSignal, Twilio, Mixpanel, etc.) from generic
+  channel/feature names (translated per glossary). Webhook stays
+  Latin in all languages — no natural translation in any major
+  locale.
+
+### Notes
+
+- Skip-keys preserved: "Twilio Segment" (the company) stays Latin
+  in entries where it's mentioned as a vendor; SMS protocol
+  keywords (JOURNEY, STOP, etc.) stay Latin; "The journey is the
+  reward." easter egg untouched.
+- Other languages (ja, ko, es, pt, fr) had correct canonicals already
+  and weren't swept. Japanese and Korean already translate to native
+  script (プッシュ / メール / 푸시 / 이메일). Spanish, Portuguese, and
+  French keep "Push" / "Email" / "SMS" in Latin since marketers in
+  those languages use the Latin loanwords natively.
+
 ## [1.2.0] — 2026-05-04
 
 ### Added
@@ -226,7 +263,8 @@ entries + 73 regex patterns**:
   every supported language" rule and (added with this changelog) the
   versioning convention.
 
-[Unreleased]: https://github.com/alatones/os-translate/compare/v1.2.0...HEAD
+[Unreleased]: https://github.com/alatones/os-translate/compare/v1.3.0...HEAD
+[1.3.0]: https://github.com/alatones/os-translate/compare/v1.2.0...v1.3.0
 [1.2.0]: https://github.com/alatones/os-translate/compare/v1.1.5...v1.2.0
 [1.1.5]: https://github.com/alatones/os-translate/compare/v1.1.4...v1.1.5
 [1.1.4]: https://github.com/alatones/os-translate/compare/v1.0.0...v1.1.4
