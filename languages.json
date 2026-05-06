@@ -16483,6 +16483,318 @@
         "zh-CN": "日期时间戳以 UTC 时间存储 ({1} 为 UTC {2})",
         "zh-HK": "日期時間戳以 UTC 時間儲存 ({1} 為 UTC {2})"
       }
+    },
+    {
+      "match": "^Jan '(\\d{2})$",
+      "translations": {
+        "ja": "'{1}年1月",
+        "ko": "'{1}년 1월",
+        "zh-CN": "'{1}年1月",
+        "zh-HK": "'{1}年1月",
+        "es": "enero '{1}",
+        "pt": "janeiro '{1}",
+        "fr": "janvier '{1}",
+        "tr": "Ocak '{1}"
+      }
+    },
+    {
+      "match": "^Feb '(\\d{2})$",
+      "translations": {
+        "ja": "'{1}年2月",
+        "ko": "'{1}년 2월",
+        "zh-CN": "'{1}年2月",
+        "zh-HK": "'{1}年2月",
+        "es": "febrero '{1}",
+        "pt": "fevereiro '{1}",
+        "fr": "février '{1}",
+        "tr": "Şubat '{1}"
+      }
+    },
+    {
+      "match": "^Mar '(\\d{2})$",
+      "translations": {
+        "ja": "'{1}年3月",
+        "ko": "'{1}년 3월",
+        "zh-CN": "'{1}年3月",
+        "zh-HK": "'{1}年3月",
+        "es": "marzo '{1}",
+        "pt": "março '{1}",
+        "fr": "mars '{1}",
+        "tr": "Mart '{1}"
+      }
+    },
+    {
+      "match": "^Apr '(\\d{2})$",
+      "translations": {
+        "ja": "'{1}年4月",
+        "ko": "'{1}년 4월",
+        "zh-CN": "'{1}年4月",
+        "zh-HK": "'{1}年4月",
+        "es": "abril '{1}",
+        "pt": "abril '{1}",
+        "fr": "avril '{1}",
+        "tr": "Nisan '{1}"
+      }
+    },
+    {
+      "match": "^May '(\\d{2})$",
+      "translations": {
+        "ja": "'{1}年5月",
+        "ko": "'{1}년 5월",
+        "zh-CN": "'{1}年5月",
+        "zh-HK": "'{1}年5月",
+        "es": "mayo '{1}",
+        "pt": "maio '{1}",
+        "fr": "mai '{1}",
+        "tr": "Mayıs '{1}"
+      }
+    },
+    {
+      "match": "^Jun '(\\d{2})$",
+      "translations": {
+        "ja": "'{1}年6月",
+        "ko": "'{1}년 6월",
+        "zh-CN": "'{1}年6月",
+        "zh-HK": "'{1}年6月",
+        "es": "junio '{1}",
+        "pt": "junho '{1}",
+        "fr": "juin '{1}",
+        "tr": "Haziran '{1}"
+      }
+    },
+    {
+      "match": "^Jul '(\\d{2})$",
+      "translations": {
+        "ja": "'{1}年7月",
+        "ko": "'{1}년 7월",
+        "zh-CN": "'{1}年7月",
+        "zh-HK": "'{1}年7月",
+        "es": "julio '{1}",
+        "pt": "julho '{1}",
+        "fr": "juillet '{1}",
+        "tr": "Temmuz '{1}"
+      }
+    },
+    {
+      "match": "^Aug '(\\d{2})$",
+      "translations": {
+        "ja": "'{1}年8月",
+        "ko": "'{1}년 8월",
+        "zh-CN": "'{1}年8月",
+        "zh-HK": "'{1}年8月",
+        "es": "agosto '{1}",
+        "pt": "agosto '{1}",
+        "fr": "août '{1}",
+        "tr": "Ağustos '{1}"
+      }
+    },
+    {
+      "match": "^Sep '(\\d{2})$",
+      "translations": {
+        "ja": "'{1}年9月",
+        "ko": "'{1}년 9월",
+        "zh-CN": "'{1}年9月",
+        "zh-HK": "'{1}年9月",
+        "es": "septiembre '{1}",
+        "pt": "setembro '{1}",
+        "fr": "septembre '{1}",
+        "tr": "Eylül '{1}"
+      }
+    },
+    {
+      "match": "^Oct '(\\d{2})$",
+      "translations": {
+        "ja": "'{1}年10月",
+        "ko": "'{1}년 10월",
+        "zh-CN": "'{1}年10月",
+        "zh-HK": "'{1}年10月",
+        "es": "octubre '{1}",
+        "pt": "outubro '{1}",
+        "fr": "octobre '{1}",
+        "tr": "Ekim '{1}"
+      }
+    },
+    {
+      "match": "^Nov '(\\d{2})$",
+      "translations": {
+        "ja": "'{1}年11月",
+        "ko": "'{1}년 11월",
+        "zh-CN": "'{1}年11月",
+        "zh-HK": "'{1}年11月",
+        "es": "noviembre '{1}",
+        "pt": "novembro '{1}",
+        "fr": "novembre '{1}",
+        "tr": "Kasım '{1}"
+      }
+    },
+    {
+      "match": "^Dec '(\\d{2})$",
+      "translations": {
+        "ja": "'{1}年12月",
+        "ko": "'{1}년 12월",
+        "zh-CN": "'{1}年12月",
+        "zh-HK": "'{1}年12月",
+        "es": "diciembre '{1}",
+        "pt": "dezembro '{1}",
+        "fr": "décembre '{1}",
+        "tr": "Aralık '{1}"
+      }
+    },
+    {
+      "match": "^January (\\d{4})$",
+      "translations": {
+        "ja": "{1}年1月",
+        "ko": "{1}년 1월",
+        "zh-CN": "{1}年1月",
+        "zh-HK": "{1}年1月",
+        "es": "enero de {1}",
+        "pt": "janeiro de {1}",
+        "fr": "janvier {1}",
+        "tr": "Ocak {1}"
+      }
+    },
+    {
+      "match": "^February (\\d{4})$",
+      "translations": {
+        "ja": "{1}年2月",
+        "ko": "{1}년 2월",
+        "zh-CN": "{1}年2月",
+        "zh-HK": "{1}年2月",
+        "es": "febrero de {1}",
+        "pt": "fevereiro de {1}",
+        "fr": "février {1}",
+        "tr": "Şubat {1}"
+      }
+    },
+    {
+      "match": "^March (\\d{4})$",
+      "translations": {
+        "ja": "{1}年3月",
+        "ko": "{1}년 3월",
+        "zh-CN": "{1}年3月",
+        "zh-HK": "{1}年3月",
+        "es": "marzo de {1}",
+        "pt": "março de {1}",
+        "fr": "mars {1}",
+        "tr": "Mart {1}"
+      }
+    },
+    {
+      "match": "^April (\\d{4})$",
+      "translations": {
+        "ja": "{1}年4月",
+        "ko": "{1}년 4월",
+        "zh-CN": "{1}年4月",
+        "zh-HK": "{1}年4月",
+        "es": "abril de {1}",
+        "pt": "abril de {1}",
+        "fr": "avril {1}",
+        "tr": "Nisan {1}"
+      }
+    },
+    {
+      "match": "^May (\\d{4})$",
+      "translations": {
+        "ja": "{1}年5月",
+        "ko": "{1}년 5월",
+        "zh-CN": "{1}年5月",
+        "zh-HK": "{1}年5月",
+        "es": "mayo de {1}",
+        "pt": "maio de {1}",
+        "fr": "mai {1}",
+        "tr": "Mayıs {1}"
+      }
+    },
+    {
+      "match": "^June (\\d{4})$",
+      "translations": {
+        "ja": "{1}年6月",
+        "ko": "{1}년 6월",
+        "zh-CN": "{1}年6月",
+        "zh-HK": "{1}年6月",
+        "es": "junio de {1}",
+        "pt": "junho de {1}",
+        "fr": "juin {1}",
+        "tr": "Haziran {1}"
+      }
+    },
+    {
+      "match": "^July (\\d{4})$",
+      "translations": {
+        "ja": "{1}年7月",
+        "ko": "{1}년 7월",
+        "zh-CN": "{1}年7月",
+        "zh-HK": "{1}年7月",
+        "es": "julio de {1}",
+        "pt": "julho de {1}",
+        "fr": "juillet {1}",
+        "tr": "Temmuz {1}"
+      }
+    },
+    {
+      "match": "^August (\\d{4})$",
+      "translations": {
+        "ja": "{1}年8月",
+        "ko": "{1}년 8월",
+        "zh-CN": "{1}年8月",
+        "zh-HK": "{1}年8月",
+        "es": "agosto de {1}",
+        "pt": "agosto de {1}",
+        "fr": "août {1}",
+        "tr": "Ağustos {1}"
+      }
+    },
+    {
+      "match": "^September (\\d{4})$",
+      "translations": {
+        "ja": "{1}年9月",
+        "ko": "{1}년 9월",
+        "zh-CN": "{1}年9月",
+        "zh-HK": "{1}年9月",
+        "es": "septiembre de {1}",
+        "pt": "setembro de {1}",
+        "fr": "septembre {1}",
+        "tr": "Eylül {1}"
+      }
+    },
+    {
+      "match": "^October (\\d{4})$",
+      "translations": {
+        "ja": "{1}年10月",
+        "ko": "{1}년 10월",
+        "zh-CN": "{1}年10月",
+        "zh-HK": "{1}年10月",
+        "es": "octubre de {1}",
+        "pt": "outubro de {1}",
+        "fr": "octobre {1}",
+        "tr": "Ekim {1}"
+      }
+    },
+    {
+      "match": "^November (\\d{4})$",
+      "translations": {
+        "ja": "{1}年11月",
+        "ko": "{1}년 11월",
+        "zh-CN": "{1}年11月",
+        "zh-HK": "{1}年11月",
+        "es": "noviembre de {1}",
+        "pt": "novembro de {1}",
+        "fr": "novembre {1}",
+        "tr": "Kasım {1}"
+      }
+    },
+    {
+      "match": "^December (\\d{4})$",
+      "translations": {
+        "ja": "{1}年12月",
+        "ko": "{1}년 12월",
+        "zh-CN": "{1}年12月",
+        "zh-HK": "{1}年12月",
+        "es": "diciembre de {1}",
+        "pt": "dezembro de {1}",
+        "fr": "décembre {1}",
+        "tr": "Aralık {1}"
+      }
     }
   ]
 }

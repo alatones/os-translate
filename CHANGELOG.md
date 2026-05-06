@@ -7,6 +7,57 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
+## [1.5.0] — 2026-05-06
+
+### Added
+
+- **Context-aware ledger filtering.** `translateString` now threads
+  a `context` object (currently the source text node) down into
+  `trackMissed`. The translation logic itself is unchanged — every
+  text node still gets a translation attempt — but the ledger filter
+  can now make decisions based on *where* in the DOM the text came
+  from, not just the text itself. This is the architectural seat
+  for any future context-aware ledger filters (cross-install
+  thresholds, proper-noun heuristics, etc.).
+- **Name-column ledger skip.** When the active language's table
+  headers identify a "Name / Title / ID / Identifier" column
+  (matching either the English source or the translated form
+  rendered in the active language), text inside that column's
+  cells is no longer reported to the missed-string ledger. Crucial
+  caveat: translation still runs through those cells, so structured
+  subtext like "User Tag account_status is activated" or
+  "Last Session greater than 168 hours ago" continues to translate
+  via patterns. Only the *prominent UGC name* (which wouldn't
+  translate anyway) stops polluting the ledger. Detection is by
+  header text, not column position, so tables where Name is the
+  second column work the same as tables where it's the first.
+- **24 new date patterns** for chart axis date formats:
+  - 12 `Mon 'YY` patterns (`Jan '25`, `May '26`, …)
+  - 12 `Month YYYY` patterns (`January 2025`, `September 2026`, …)
+  - Per-language formatting matches each locale's date conventions:
+    East Asian languages put the year first (`'{1}年5月`); Spanish/
+    Portuguese use "de" for full-year forms (`enero de {1}`); French
+    omits the connector (`janvier {1}`); Turkish keeps month first
+    (`Ocak {1}`).
+  - These don't translate text inside `<svg>` (still skipped as of
+    1.4.0) but are positioned to handle the formats wherever they
+    appear outside SVG (range selectors, comparison tooltips, chart
+    titles outside SVG, future SVG allowlist additions).
+
+### Notes
+
+- The Name-column heuristic relies on `<th>` text matching one of
+  `Name`, `Title`, `ID`, `Identifier` (or their active-language
+  translations). Tables that use a non-standard identifier header
+  ("Campaign Name", "Segment Name", etc.) won't be detected and
+  their cells will continue to populate the ledger as before. If
+  this becomes a real source of noise we can extend the source-term
+  list.
+- Per-table "which column is Name?" lookups are cached in a
+  `WeakMap` keyed by the table element, so repeated checks during
+  a page-load don't re-traverse the header row. The cache releases
+  automatically when React unmounts the table.
+
 ## [1.4.0] — 2026-05-06
 
 ### Changed
@@ -389,7 +440,8 @@ entries + 73 regex patterns**:
   every supported language" rule and (added with this changelog) the
   versioning convention.
 
-[Unreleased]: https://github.com/alatones/os-translate/compare/v1.4.0...HEAD
+[Unreleased]: https://github.com/alatones/os-translate/compare/v1.5.0...HEAD
+[1.5.0]: https://github.com/alatones/os-translate/compare/v1.4.0...v1.5.0
 [1.4.0]: https://github.com/alatones/os-translate/compare/v1.3.2...v1.4.0
 [1.3.2]: https://github.com/alatones/os-translate/compare/v1.3.1...v1.3.2
 [1.3.1]: https://github.com/alatones/os-translate/compare/v1.3.0...v1.3.1

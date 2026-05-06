@@ -158,7 +158,7 @@
       .replace(/[“”]/g, '"');
   }
 
-  function translateString(raw) {
+  function translateString(raw, context) {
     if (typeof raw !== "string" || !raw) return null;
     const trimmed = raw.trim();
     if (!trimmed) return null;
@@ -166,7 +166,12 @@
     let translated = lookup.get(key);
     if (translated === undefined) translated = applyPattern(key);
     if (translated === undefined || translated === null) {
-      trackMissed(trimmed);
+      // Context (e.g. the source text node) lets trackMissed apply
+      // DOM-aware filters — skip ledger reporting for text in the
+      // Name column of a table, etc. — without affecting whether we
+      // attempt translation at all. Translation is unconditional;
+      // ledger reporting is opinionated.
+      trackMissed(trimmed, context);
       return null;
     }
     recentTranslations.add(translated);
@@ -214,6 +219,67 @@
     return (window.location.pathname || "").startsWith("/super-user");
   }
 
+  // Headers (English source + active-language translations) that
+  // identify a "Name / Title / ID"-style table column whose cells
+  // contain user-defined record names. Built per language change.
+  // Used by isInNameColumn() to suppress ledger reporting for those
+  // cells — translation is still attempted (subtext patterns like
+  // "Last Session greater than 168 hours ago" still translate), only
+  // the missed-string ledger is filtered.
+  const NAME_HEADER_SOURCE_TERMS = ["Name", "Title", "ID", "Identifier"];
+  let nameColumnHeaders = new Set();
+  function buildNameColumnHeaders() {
+    const headers = new Set(NAME_HEADER_SOURCE_TERMS);
+    for (const term of NAME_HEADER_SOURCE_TERMS) {
+      const translated = lookup.get(term);
+      if (typeof translated === "string" && translated) {
+        headers.add(translated);
+      }
+    }
+    nameColumnHeaders = headers;
+  }
+
+  // Per-table cache for "which column is the Name column?" lookups.
+  // Computed from <thead> headers on first access. WeakMap so the
+  // entry is released when the table itself is garbage-collected.
+  const tableNameColumnCache = new WeakMap();
+  function findNameColumnIndex(table) {
+    if (!table) return -1;
+    if (tableNameColumnCache.has(table)) return tableNameColumnCache.get(table);
+    let idx = -1;
+    const headerRow = table.querySelector("thead tr") || table.querySelector("tr");
+    if (headerRow) {
+      const cells = headerRow.querySelectorAll("th, td");
+      for (let i = 0; i < cells.length; i++) {
+        const text = (cells[i].textContent || "").trim();
+        if (nameColumnHeaders.has(text)) {
+          idx = i;
+          break;
+        }
+      }
+    }
+    tableNameColumnCache.set(table, idx);
+    return idx;
+  }
+
+  function isInNameColumn(textNode) {
+    if (!textNode || !textNode.parentNode) return false;
+    // Walk up to the nearest <td> (data cell). <th> headers don't get
+    // skipped — we want column headers to translate normally.
+    let el = textNode.parentNode;
+    while (el && el.nodeType === Node.ELEMENT_NODE && el.tagName !== "TD") {
+      if (el.tagName === "TABLE" || el.tagName === "TH") return false;
+      el = el.parentNode;
+    }
+    if (!el || el.tagName !== "TD") return false;
+    const cellIdx = el.cellIndex;
+    if (typeof cellIdx !== "number" || cellIdx < 0) return false;
+    const table = el.closest("table");
+    if (!table) return false;
+    const nameIdx = findNameColumnIndex(table);
+    return nameIdx === cellIdx;
+  }
+
   function pathKey() {
     // Collapse long hex/uuid-shaped segments to ":id" so we never send a
     // full app ID or resource ID to the ledger. Pathname only — no query,
@@ -224,10 +290,16 @@
     );
   }
 
-  function trackMissed(s) {
+  function trackMissed(s, context) {
     if (onAppSelectorPage()) return;
     if (onSuperUserPage()) return;
     if (!couldBeUI(s)) return;
+    // Skip ledger reporting (but not translation) for cells in the
+    // "Name / Title / ID"-style identifier column of any table —
+    // those cells are dominated by user-generated record names.
+    // Subtext patterns like "User Tag X is activated" still translate
+    // because translation is gated separately upstream.
+    if (context && context.textNode && isInNameColumn(context.textNode)) return;
     const next = (missedSession.get(s) || 0) + 1;
     missedSession.set(s, next);
     if (next < MISSED_SEEN_THRESHOLD) return;
@@ -296,7 +368,7 @@
 
   function translateTextNode(node) {
     if (shouldSkip(node)) return;
-    const next = translateString(node.nodeValue);
+    const next = translateString(node.nodeValue, { textNode: node });
     if (next !== null && node.nodeValue !== next) node.nodeValue = next;
   }
 
@@ -397,6 +469,7 @@
   function applyLanguage(lang) {
     activeLang = lang || DEFAULT_LANG;
     buildLookup();
+    buildNameColumnHeaders();
     if (lookup.size === 0 && compiledPatterns.length === 0) {
       // Passthrough mode (English/none). Leave the DOM alone — a full page
       // reload from the popup restores original copy.
