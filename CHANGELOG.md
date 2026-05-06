@@ -7,6 +7,43 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
+## [1.5.2] — 2026-05-06
+
+### Fixed
+
+- **Name-column header term: `Label` → `Labels`.** The 1.5.1 entry
+  was the wrong term — the actual dashboard table uses the plural
+  header "Labels". Tables whose header reads "Labels" now get the
+  Name-column ledger skip; tables with a singular "Label" header
+  (rare, if any) no longer match this rule.
+- **`CTR` now translates** to native script in East Asian languages:
+  ja → `クリック率`, ko → `클릭률`, zh-CN → `点击率`, zh-HK → `點擊率`.
+  Spanish, Portuguese, French, and Turkish keep `CTR` (industry
+  standard among marketers in those languages). Glossary alts
+  updated so the new canonicals validate.
+- **Standalone `Label` translates** as a UI label
+  (filter dropdown item, etc.). Translations: ラベル / 라벨 /
+  Etiqueta / Etiqueta / Libellé / Etiket / 标签 / 標籤. (Distinct
+  from `Tag` in languages where the words differ — French uses
+  `Libellé` for Label vs `Tag` Latin; pt uses `Etiqueta` vs `Tag`.)
+
+### Added
+
+- **Subscription-count abbreviations** (`Push subs`,
+  `SMS / RCS subs`, `Email subs`) translate to native phrasings
+  in all 8 supported languages — full forms like
+  `推送订阅` / `푸시 구독` / `Suscripciones push` /
+  `Abonnements push`, etc.
+
+### Changed
+
+- **Ledger filter: drop bare `OneSignal` and `OneSignal.com`.**
+  These appear across many pages (footers, links, version strings)
+  but aren't translatable copy. The exact-match regex
+  `^OneSignal(\.com)?$` is added to `couldBeUI`. Compound feature
+  names like `OneSignal AI`, `OneSignal ID`, `OneSignal SMS` are
+  unaffected — those are already in the dictionary and translate.
+
 ## [1.5.1] — 2026-05-06
 
 ### Changed
@@ -461,7 +498,8 @@ entries + 73 regex patterns**:
   every supported language" rule and (added with this changelog) the
   versioning convention.
 
-[Unreleased]: https://github.com/alatones/os-translate/compare/v1.5.1...HEAD
+[Unreleased]: https://github.com/alatones/os-translate/compare/v1.5.2...HEAD
+[1.5.2]: https://github.com/alatones/os-translate/compare/v1.5.1...v1.5.2
 [1.5.1]: https://github.com/alatones/os-translate/compare/v1.5.0...v1.5.1
 [1.5.0]: https://github.com/alatones/os-translate/compare/v1.4.0...v1.5.0
 [1.4.0]: https://github.com/alatones/os-translate/compare/v1.3.2...v1.4.0

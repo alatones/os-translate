@@ -1191,14 +1191,14 @@
       "zh-HK": "CSV"
     },
     "CTR": {
+      "ja": "クリック率",
       "es": "CTR",
-      "ja": "CTR",
       "pt": "CTR",
-      "ko": "CTR",
+      "ko": "클릭률",
       "fr": "CTR",
       "tr": "CTR",
-      "zh-CN": "CTR",
-      "zh-HK": "CTR"
+      "zh-CN": "点击率",
+      "zh-HK": "點擊率"
     },
     "Custom": {
       "es": "Personalizado",
@@ -15519,6 +15519,46 @@
       "tr": "için",
       "zh-CN": "用于",
       "zh-HK": "用於"
+    },
+    "Label": {
+      "ja": "ラベル",
+      "es": "Etiqueta",
+      "pt": "Etiqueta",
+      "ko": "라벨",
+      "fr": "Libellé",
+      "tr": "Etiket",
+      "zh-CN": "标签",
+      "zh-HK": "標籤"
+    },
+    "Push subs": {
+      "ja": "プッシュ購読",
+      "es": "Suscripciones push",
+      "pt": "Assinaturas push",
+      "ko": "푸시 구독",
+      "fr": "Abonnements push",
+      "tr": "Push abonelikleri",
+      "zh-CN": "推送订阅",
+      "zh-HK": "推送訂閱"
+    },
+    "SMS / RCS subs": {
+      "ja": "SMS / RCS 購読",
+      "es": "Suscripciones SMS / RCS",
+      "pt": "Assinaturas SMS / RCS",
+      "ko": "SMS / RCS 구독",
+      "fr": "Abonnements SMS / RCS",
+      "tr": "SMS / RCS abonelikleri",
+      "zh-CN": "短信 / 富媒体短信订阅",
+      "zh-HK": "短訊 / 富媒體短訊訂閱"
+    },
+    "Email subs": {
+      "ja": "メール購読",
+      "es": "Suscripciones de email",
+      "pt": "Assinaturas de email",
+      "ko": "이메일 구독",
+      "fr": "Abonnements email",
+      "tr": "E-posta abonelikleri",
+      "zh-CN": "电子邮件订阅",
+      "zh-HK": "電郵訂閱"
     }
   },
   "patterns": [

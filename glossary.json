@@ -1585,14 +1585,14 @@
     },
     "CTR": {
       "ja": [
-        "CTR",
-        "クリック率"
+        "クリック率",
+        "CTR"
       ],
       "es": "CTR",
       "pt": "CTR",
       "ko": [
-        "CTR",
-        "클릭률"
+        "클릭률",
+        "CTR"
       ],
       "fr": [
         "CTR",
@@ -1602,8 +1602,15 @@
         "CTR",
         "Tıklama oranı"
       ],
-      "zh-CN": "CTR",
-      "zh-HK": "CTR"
+      "zh-CN": [
+        "点击率",
+        "CTR"
+      ],
+      "zh-HK": [
+        "點擊率",
+        "CTR"
+      ],
+      "note": "Click-through rate. East Asian languages translate; European languages keep CTR (industry standard)."
     },
     "Open Rate": {
       "ja": "開封率",

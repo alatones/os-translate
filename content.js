@@ -71,6 +71,12 @@
   const MISSED_EXTERNAL_ID_RE = /^External ID:\s/;
   // Embedded 3rd-party widget chrome we never own and shouldn't track.
   const MISSED_THIRD_PARTY_RE = /^(Intercom|Open Intercom Messenger|_hjSafeContext)$/;
+  // Bare OneSignal brand references that show up across many pages
+  // (footers, links, version strings) and aren't translatable copy.
+  // Compound feature names like "OneSignal AI" / "OneSignal ID" are
+  // already in the dictionary so they translate; this only filters
+  // exact-match standalone brand mentions.
+  const MISSED_ONESIGNAL_BRAND_RE = /^OneSignal(\.com)?$/;
   // SOH separator for composite ledger keys: no UI string will contain it.
   const MISSED_KEY_SEP = "";
   let missedFlushTimer = 0;
@@ -199,6 +205,7 @@
     if (MISSED_DEVICE_VERSION_RE.test(s)) return false;
     if (MISSED_EXTERNAL_ID_RE.test(s)) return false;
     if (MISSED_THIRD_PARTY_RE.test(s)) return false;
+    if (MISSED_ONESIGNAL_BRAND_RE.test(s)) return false;
     if (recentTranslations.has(s)) return false;
     if (/^\d+$/.test(s)) return false;
     if (!/[A-Za-z]/.test(s)) return false;
@@ -226,7 +233,7 @@
   // cells — translation is still attempted (subtext patterns like
   // "Last Session greater than 168 hours ago" still translate), only
   // the missed-string ledger is filtered.
-  const NAME_HEADER_SOURCE_TERMS = ["Name", "Title", "ID", "Identifier", "Label"];
+  const NAME_HEADER_SOURCE_TERMS = ["Name", "Title", "ID", "Identifier", "Labels"];
   let nameColumnHeaders = new Set();
   function buildNameColumnHeaders() {
     const headers = new Set(NAME_HEADER_SOURCE_TERMS);
