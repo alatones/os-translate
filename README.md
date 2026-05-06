@@ -295,6 +295,26 @@ free.
 - 3rd-party widget chrome (`Intercom`, `_hjSafeContext`).
 - Strings the translator already wrote (own-write feedback loop guard).
 
+**Context-aware filters** (separate from `couldBeUI`):
+
+- **Charts (SVG):** text inside any `<svg>` subtree is skipped entirely
+  — no translation attempt, no ledger reporting. The Highcharts
+  legend (`.highcharts-legend`) is the only exception. See "Known
+  Limitations".
+- **`/super-user/*` paths:** the OneSignal-internal admin tool is
+  ignored entirely — no translation, no ledger.
+- **Name / Title / ID column cells:** when a `<table>`'s headers
+  identify a "Name", "Title", "ID", or "Identifier" column (in any
+  active-language translation), text inside *that column's data
+  cells* is no longer reported to the ledger. Translation still
+  runs, so structured subtext like "User Tag X is activated" or
+  "Last Session greater than 168 hours ago" still translates via
+  patterns; the prominent UGC name in the cell stops polluting the
+  ledger.
+- **/apps selector page:** strings on the org/app picker
+  (`/apps`) are UGC app names; translation still attempted (no
+  effect, no dictionary match), ledger reporting suppressed.
+
 **Never sent:**
 
 - Full URLs, query strings, hashes.
