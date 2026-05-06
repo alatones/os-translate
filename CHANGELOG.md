@@ -7,6 +7,45 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
+## [1.3.2] — 2026-05-04
+
+### Changed
+
+- **Spanish, Portuguese, French — `Journey` / `Journeys` Latin →
+  native translations** (`Recorrido` / `Jornada` / `Parcours`).
+  Previously the policy was applied only to Turkish and the East
+  Asian languages; now it's consistent across all 8 supported
+  locales. 56 es entries + 56 pt entries + 58 fr entries swept.
+- Portuguese required gender flips since `Jornada` is feminine
+  while `Journey` was treated as masculine: articles
+  (`o → a`, `do → da`, `no → na`, `ao → à`), demonstratives
+  (`este → esta`, `deste → desta`, `neste → nesta`),
+  possessives (`seu → sua`, `meu → minha`), indefinites
+  (`um → uma`), adjectives/past participles
+  (`novo → nova`, `salvo → salva`, `criado → criada`,
+  `atualizado → atualizada`, `ativo → ativa`,
+  `próprio → própria`, `todo o → toda a`,
+  `disparados → disparadas`).
+- Spanish/French compound-modifier order fixed where
+  `"Journey Webhooks"` had become `"Recorrido Webhooks"` /
+  `"Parcours Webhooks"` after substitution: re-rendered as
+  `"Webhooks de Recorrido"` / `"Webhooks de Parcours"` to read
+  naturally in those languages (English-style noun-modifier
+  inversion isn't natural in es/fr).
+
+### Notes
+
+- French `Parcours` is invariable (same form singular and plural),
+  so `"les Journeys"` becomes `"les Parcours"` with article-only
+  change.
+- Skip-keys preserved (the `JOURNEY` SMS protocol token, the
+  "Walkthrough your user journey…" entry where "journey" is
+  lowercase common-noun usage, and the `The journey is the reward.`
+  easter egg).
+- Glossary canonicals were already in place from 1.3.0; this
+  release is the languages.json sweep that brings the actual
+  translations in line with those canonicals.
+
 ## [1.3.1] — 2026-05-04
 
 ### Fixed (translation feedback batch)
@@ -319,7 +358,8 @@ entries + 73 regex patterns**:
   every supported language" rule and (added with this changelog) the
   versioning convention.
 
-[Unreleased]: https://github.com/alatones/os-translate/compare/v1.3.1...HEAD
+[Unreleased]: https://github.com/alatones/os-translate/compare/v1.3.2...HEAD
+[1.3.2]: https://github.com/alatones/os-translate/compare/v1.3.1...v1.3.2
 [1.3.1]: https://github.com/alatones/os-translate/compare/v1.3.0...v1.3.1
 [1.3.0]: https://github.com/alatones/os-translate/compare/v1.2.0...v1.3.0
 [1.2.0]: https://github.com/alatones/os-translate/compare/v1.1.5...v1.2.0
