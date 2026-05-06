@@ -7,6 +7,62 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
+## [1.3.1] — 2026-05-04
+
+### Fixed (translation feedback batch)
+
+- **Turkish — Journey strings still showed in English.** The 1.3.0
+  policy change promoted `Yolculuk` (Turkish for "journey") as the
+  canonical, but only zh-CN/zh-HK entries got swept. Now 56 Turkish
+  entries are translated, with proper Turkish grammar — k→ğ vowel
+  harmony, attached suffixes instead of apostrophe-suffixes
+  (`Journey'inizi` → `Yolculuğunuzu`, `Journey'den` → `Yolculuktan`).
+  Glossary alts for `Yolculuk` now include inflected stems
+  (`Yolculuğ`, `Yolculu`) so the validator accepts the harmonized
+  forms.
+- **Korean — `자동화됨` → `자동화`** (Automated). Dropped the passive
+  `~됨` suffix on category labels; SaaS UI prefers nominal noun
+  form. The `~됨` form is reserved for event-status badges
+  (`발송됨` Sent, `실패됨` Failed, `완료됨` Completed). 2 entries
+  affected.
+- **Korean — `통합` → `연동`** (Integration). `통합` reads as
+  "unified / consolidated" and is imprecise for the SaaS sense of
+  integrating with an external system. `연동` is the natural
+  Korean term for webhook / API / third-party tool integrations.
+  10 entries affected (`Integrations`, `Add Integration`, `Connect
+  Integration`, `HubSpot Integration Metrics`, `Data Warehouse
+  Integration`, etc.).
+- **`style/ko.md`** updated to lock these conventions
+  (`자동화` not `자동화됨` for category labels; `연동` not `통합`
+  for technical integrations).
+
+### Added (translation feedback batch)
+
+- **Portuguese (BR)** — six entries that were missing translations
+  (and filled in across all 8 languages):
+  - `View Org in Dashboard | View Audit Logs`
+  - `App Disabled` → `App Desativado`
+  - `This organization was disabled.` → `Essa organização foi
+    desativada.`
+  - `Portuguese` → `Português` (language picker label)
+  - `Upgrade to see your users' recent messaging activity…
+    Contact Sales` → full pt-BR translation
+  - `for` → `para` (single-word UI label)
+
+### Changed (translation feedback batch)
+
+- **`Date timestamps are stored in UTC time (EDT is -04:00 from
+  UTC)`** converted from a hardcoded EDT-only entry to a regex
+  pattern that handles all timezone abbreviations (CDT, PST, MST,
+  GMT, etc.). Per pt-BR feedback the Portuguese template was
+  refined to "Os timestamps de data são armazenados em UTC
+  ({1} é UTC{2})" — clearer phrasing than the previous "Datas
+  são armazenadas em UTC ({1} é {2} do UTC)".
+- Glossary `Disabled`: added feminine alts for es (`Deshabilitada`)
+  and pt (`Desativada`), plus verb-form alts for ko (`비활성화되`,
+  `비활성화`) so phrases like "essa organização foi desativada"
+  validate against the glossary.
+
 ## [1.3.0] — 2026-05-04
 
 ### Changed
@@ -263,7 +319,8 @@ entries + 73 regex patterns**:
   every supported language" rule and (added with this changelog) the
   versioning convention.
 
-[Unreleased]: https://github.com/alatones/os-translate/compare/v1.3.0...HEAD
+[Unreleased]: https://github.com/alatones/os-translate/compare/v1.3.1...HEAD
+[1.3.1]: https://github.com/alatones/os-translate/compare/v1.3.0...v1.3.1
 [1.3.0]: https://github.com/alatones/os-translate/compare/v1.2.0...v1.3.0
 [1.2.0]: https://github.com/alatones/os-translate/compare/v1.1.5...v1.2.0
 [1.1.5]: https://github.com/alatones/os-translate/compare/v1.1.4...v1.1.5

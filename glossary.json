@@ -25,6 +25,8 @@
       ],
       "tr": [
         "Yolculuk",
+        "Yolculuğ",
+        "Yolculu",
         "Journey"
       ],
       "zh-CN": [
@@ -58,7 +60,9 @@
       ],
       "tr": [
         "Yolculuklar",
+        "Yolculukları",
         "Yolculuk",
+        "Yolculuğ",
         "Journeys",
         "Journey"
       ],
@@ -1294,9 +1298,23 @@
     },
     "Disabled": {
       "ja": "無効",
-      "es": "Deshabilitado",
-      "pt": "Desativado",
-      "ko": "비활성화됨",
+      "es": [
+        "Deshabilitado",
+        "Deshabilitada",
+        "deshabilitado",
+        "deshabilitada"
+      ],
+      "pt": [
+        "Desativado",
+        "Desativada",
+        "desativado",
+        "desativada"
+      ],
+      "ko": [
+        "비활성화됨",
+        "비활성화되",
+        "비활성화"
+      ],
       "fr": [
         "Désactivé",
         "Désactivée",

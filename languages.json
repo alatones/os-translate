@@ -544,7 +544,7 @@
       "es": "Automatizado",
       "ja": "自動化",
       "pt": "Automatizado",
-      "ko": "자동화됨",
+      "ko": "자동화",
       "fr": "Automatisé",
       "tr": "Otomatik",
       "zh-CN": "自动化",
@@ -554,7 +554,7 @@
       "es": "automatizado",
       "ja": "自動",
       "pt": "automatizado",
-      "ko": "자동화됨",
+      "ko": "자동화",
       "fr": "automatisé",
       "tr": "otomatik",
       "zh-CN": "自动化",
@@ -1329,16 +1329,6 @@
       "tr": "Gönderim tarihi",
       "zh-CN": "发送日期",
       "zh-HK": "發送日期"
-    },
-    "Date timestamps are stored in UTC time (EDT is -04:00 from UTC)": {
-      "es": "Las fechas se almacenan en UTC (EDT es -04:00 desde UTC)",
-      "ja": "日付はUTC時刻で保存されています（EDTはUTCから-04:00）",
-      "pt": "Datas são armazenadas em UTC (EDT é -04:00 do UTC)",
-      "ko": "날짜 타임스탬프는 UTC 기준으로 저장됩니다 (EDT는 UTC -04:00)",
-      "fr": "Les horodatages sont stockés au format UTC (EDT est UTC -04:00)",
-      "tr": "Tarih damgaları UTC zamanında saklanır (EDT, UTC'den -04:00'tür)",
-      "zh-CN": "日期时间戳以 UTC 时间存储 (EDT 为 UTC -04:00)",
-      "zh-HK": "日期時間戳以 UTC 時間儲存 (EDT 為 UTC -04:00)"
     },
     "Deactivate": {
       "es": "Desactivar",
@@ -2214,7 +2204,7 @@
       "es": "Integraciones",
       "ja": "インテグレーション",
       "pt": "Integrações",
-      "ko": "통합",
+      "ko": "연동",
       "fr": "Intégrations",
       "tr": "Entegrasyonlar",
       "zh-CN": "集成",
@@ -2316,7 +2306,7 @@
       "pt": "Journey",
       "ko": "저니",
       "fr": "Journey",
-      "tr": "Journey",
+      "tr": "Yolculuk",
       "zh-CN": "旅程",
       "zh-HK": "旅程"
     },
@@ -2326,7 +2316,7 @@
       "pt": "Webhook de Journey",
       "ko": "저니 웹훅",
       "fr": "Webhook Journey",
-      "tr": "Journey Webhook",
+      "tr": "Yolculuk Webhook",
       "zh-CN": "旅程 Webhook",
       "zh-HK": "旅程 Webhook"
     },
@@ -2336,7 +2326,7 @@
       "pt": "Webhooks de Journey",
       "ko": "저니 웹훅",
       "fr": "Webhooks Journey",
-      "tr": "Journey Webhook'ları",
+      "tr": "Yolculuk Webhook'ları",
       "zh-CN": "旅程 Webhook",
       "zh-HK": "旅程 Webhook"
     },
@@ -2346,7 +2336,7 @@
       "pt": "Journeys",
       "ko": "저니",
       "fr": "Journeys",
-      "tr": "Journeys",
+      "tr": "Yolculuklar",
       "zh-CN": "旅程",
       "zh-HK": "旅程"
     },
@@ -3026,7 +3016,7 @@
       "pt": "Novo Journey",
       "ko": "새 저니",
       "fr": "Nouveau Journey",
-      "tr": "Yeni Journey",
+      "tr": "Yeni Yolculuk",
       "zh-CN": "新旅程",
       "zh-HK": "新旅程"
     },
@@ -3036,7 +3026,7 @@
       "pt": "Novo Webhook de Journey",
       "ko": "새 저니 웹훅",
       "fr": "Nouveau Webhook Journey",
-      "tr": "Yeni Journey Webhook",
+      "tr": "Yeni Yolculuk Webhook",
       "zh-CN": "新旅程 Webhook",
       "zh-HK": "新旅程 Webhook"
     },
@@ -3776,7 +3766,7 @@
       "pt": "Inicie rapidamente seu Journey",
       "ko": "저니 빠른 시작",
       "fr": "Démarrer rapidement votre Journey",
-      "tr": "Journey'inizi hızlıca başlatın",
+      "tr": "Yolculuğunuzu hızlıca başlatın",
       "zh-CN": "快速启动您的旅程",
       "zh-HK": "快速啟動您的旅程"
     },
@@ -5776,7 +5766,7 @@
       "pt": "Envie uma mensagem rápida ou configure mensagens automatizadas com Journeys",
       "ko": "빠른 메시지를 보내거나 저니로 자동화 메시지를 설정하세요",
       "fr": "Envoyez un message rapide ou configurez la messagerie automatisée avec Journeys",
-      "tr": "Hızlı bir mesaj gönderin veya Journeys ile otomatik mesajlaşma kurun",
+      "tr": "Hızlı bir mesaj gönderin veya Yolculuklar ile otomatik mesajlaşma kurun",
       "zh-CN": "发送快速消息或使用旅程设置自动化消息",
       "zh-HK": "發送快速訊息或使用旅程設定自動化訊息"
     },
@@ -6044,7 +6034,7 @@
       "ja": "インテグレーションを追加",
       "es": "Agregar integración",
       "pt": "Adicionar integração",
-      "ko": "통합 추가",
+      "ko": "연동 추가",
       "fr": "Ajouter une intégration",
       "tr": "Entegrasyon ekle",
       "zh-CN": "添加集成",
@@ -6054,7 +6044,7 @@
       "ja": "インテグレーションを検索...",
       "es": "Buscar integraciones...",
       "pt": "Pesquisar integrações...",
-      "ko": "통합 검색...",
+      "ko": "연동 검색...",
       "fr": "Rechercher des intégrations...",
       "tr": "Entegrasyonlarda ara...",
       "zh-CN": "搜索集成...",
@@ -6084,7 +6074,7 @@
       "ja": "インテグレーションを設定すると、そのステータスがここに表示されます。",
       "es": "Cuando configures una integración, su estado se mostrará aquí.",
       "pt": "Quando você configurar uma integração, seu status será exibido aqui.",
-      "ko": "통합을 구성하면 여기에 상태가 표시됩니다.",
+      "ko": "연동을 구성하면 여기에 상태가 표시됩니다.",
       "fr": "Lorsque vous configurez une intégration, son statut s'affichera ici.",
       "tr": "Bir entegrasyonu yapılandırdığınızda, durumu burada görüntülenir.",
       "zh-CN": "配置集成后，其状态将显示在此处。",
@@ -6094,7 +6084,7 @@
       "ja": "インテグレーションを接続",
       "es": "Conectar integración",
       "pt": "Conectar integração",
-      "ko": "통합 연결",
+      "ko": "연동 연결",
       "fr": "Connecter une intégration",
       "tr": "Entegrasyon bağla",
       "zh-CN": "连接集成",
@@ -6106,7 +6096,7 @@
       "pt": "Conectar Journeys a outros sistemas",
       "ko": "저니를 다른 시스템에 연결하세요",
       "fr": "Connecter Journeys à d'autres systèmes",
-      "tr": "Journeys'i diğer sistemlere bağlayın",
+      "tr": "Yolculukları diğer sistemlere bağlayın",
       "zh-CN": "将旅程连接到其他系统",
       "zh-HK": "將旅程連接到其他系統"
     },
@@ -6136,7 +6126,7 @@
       "pt": "Os Journey Webhooks enviam solicitações HTTP dos Journeys do OneSignal para seus servidores ou serviços externos.",
       "ko": "저니 웹훅은 OneSignal 저니에서 서버 또는 외부 서비스로 HTTP 요청을 전송합니다.",
       "fr": "Les Journey Webhooks envoient des requêtes HTTP depuis OneSignal Journeys vers vos serveurs ou services externes.",
-      "tr": "Journey Webhook'ları, OneSignal Journeys'ten sunucularınıza veya harici hizmetlere HTTP istekleri gönderir.",
+      "tr": "Yolculuk Webhook'ları, OneSignal Yolculuklardan sunucularınıza veya harici hizmetlere HTTP istekleri gönderir.",
       "zh-CN": "旅程 Webhook 从 OneSignal 旅程向您的服务器或外部服务发送 HTTP 请求。",
       "zh-HK": "旅程 Webhook 從 OneSignal 旅程向您的伺服器或外部服務發送 HTTP 請求。"
     },
@@ -6146,7 +6136,7 @@
       "pt": "Orquestre mensagens em diferentes plataformas (ex.: WhatsApp, mala direta) configurando um webhook para um Journey",
       "ko": "저니에 웹훅을 구성하여 플랫폼 간 (예: WhatsApp, 다이렉트 메일) 메시지를 조율하세요",
       "fr": "Orchestrez les messages sur plusieurs plateformes (par ex. WhatsApp, courrier postal) en configurant un webhook pour un Journey",
-      "tr": "Bir Journey için webhook yapılandırarak farklı platformlarda (örn. WhatsApp, posta) mesajları orkestra edin",
+      "tr": "Bir Yolculuk için webhook yapılandırarak farklı platformlarda (örn. WhatsApp, posta) mesajları orkestra edin",
       "zh-CN": "通过为旅程配置 Webhook 在跨平台（如 WhatsApp、邮件）编排消息",
       "zh-HK": "透過為旅程配置 Webhook 在跨平台（如 WhatsApp、郵件）編排訊息"
     },
@@ -6156,7 +6146,7 @@
       "pt": "Potencialize Journeys com eventos — iniciar, pausar ou sair de fluxos de usuários",
       "ko": "이벤트로 저니를 강화하세요—사용자 흐름을 시작, 유지 또는 종료하세요",
       "fr": "Alimentez les Journeys avec des événements — démarrer, suspendre ou sortir des flux utilisateurs",
-      "tr": "Journeys'leri etkinliklerle güçlendirin — kullanıcı akışlarını başlatın, duraklatın veya bunlardan çıkın",
+      "tr": "Yolculuklarını etkinliklerle güçlendirin — kullanıcı akışlarını başlatın, duraklatın veya bunlardan çıkın",
       "zh-CN": "通过事件驱动旅程 — 启动、暂停或退出用户流程",
       "zh-HK": "透過事件驅動旅程 — 啟動、暫停或退出用戶流程"
     },
@@ -6164,7 +6154,7 @@
       "ja": "API、SDK、またはSegmentなどのツールとシームレスに統合する",
       "es": "Integra fácilmente con APIs, SDKs o herramientas como Segment",
       "pt": "Integre facilmente com APIs, SDKs ou ferramentas como o Segment",
-      "ko": "API, SDK 또는 Segment와 같은 도구와 원활하게 통합하세요",
+      "ko": "API, SDK 또는 Segment와 같은 도구와 원활하게 연동하세요",
       "fr": "Intégrez en toute simplicité avec des API, SDK ou outils comme Segment",
       "tr": "API'ler, SDK'ler veya Segment gibi araçlarla sorunsuz şekilde entegre olun",
       "zh-CN": "与 API、SDK 或 Segment 等工具无缝集成",
@@ -6186,7 +6176,7 @@
       "pt": "Acione atualizações de perfil ou eventos em outras ferramentas com base no movimento do cliente em um Journey",
       "ko": "저니를 통한 고객 이동을 기반으로 다른 도구에서 프로필 업데이트 또는 이벤트를 트리거하세요",
       "fr": "Déclenchez des mises à jour de profil ou des événements dans d'autres outils en fonction du parcours du client dans un Journey",
-      "tr": "Bir Journey boyunca müşteri hareketine göre diğer araçlarda profil güncellemelerini veya etkinlikleri tetikleyin",
+      "tr": "Bir Yolculuk boyunca müşteri hareketine göre diğer araçlarda profil güncellemelerini veya etkinlikleri tetikleyin",
       "zh-CN": "根据客户在旅程中的活动，在其他工具中触发资料更新或事件",
       "zh-HK": "根據客戶在旅程中的活動，在其他工具中觸發資料更新或事件"
     },
@@ -6496,7 +6486,7 @@
       "pt": "Combine push, e-mail, SMS e mensagens no app em um único Journey",
       "ko": "단일 저니에서 푸시, 이메일, SMS 및 인앱을 결합하세요",
       "fr": "Combinez push, email, SMS et in-app dans un seul Journey",
-      "tr": "Push, email, SMS ve in-app'i tek bir Journey'de birleştirin",
+      "tr": "Push, email, SMS ve in-app'i tek bir Yolculukta birleştirin",
       "zh-CN": "在单个旅程中组合推送、电子邮件、短信和应用内",
       "zh-HK": "在單個旅程中組合推送、電郵、短訊和應用內"
     },
@@ -6526,7 +6516,7 @@
       "pt": "Se você está pronto para levar suas mensagens ao próximo nível, confira o Journeys, nossa nova ferramenta de automação.",
       "ko": "메시지를 다음 단계로 끌어올릴 준비가 되었다면 새로운 자동화 도구인 저니를 확인하세요.",
       "fr": "Si vous êtes prêt à passer votre messagerie au niveau supérieur, découvrez Journeys, notre nouvel outil d'automatisation.",
-      "tr": "Mesajlaşmanızı bir üst seviyeye taşımaya hazırsanız, yeni otomasyon aracımız Journeys'i inceleyin.",
+      "tr": "Mesajlaşmanızı bir üst seviyeye taşımaya hazırsanız, yeni otomasyon aracımız Yolculukları inceleyin.",
       "zh-CN": "如果您准备好将消息推送提升到一个新水平，请查看我们的新自动化工具旅程。",
       "zh-HK": "如果您準備好將訊息推送提升到一個新水平，請查看我們的新自動化工具旅程。"
     },
@@ -6536,7 +6526,7 @@
       "pt": "Documentação de Journeys",
       "ko": "저니 문서",
       "fr": "Documentation Journeys",
-      "tr": "Journeys dokümantasyonu",
+      "tr": "Yolculuklar dokümantasyonu",
       "zh-CN": "旅程文档",
       "zh-HK": "旅程文件"
     },
@@ -6556,7 +6546,7 @@
       "pt": "Ou comece com um de nossos Journeys de início rápido",
       "ko": "또는 빠른 시작 저니 중 하나로 시작하세요",
       "fr": "Ou commencez avec un de nos Journeys de démarrage rapide",
-      "tr": "Ya da hızlı başlangıç Journeys'lerinden biriyle başlayın",
+      "tr": "Ya da hızlı başlangıç Yolculuklarınızdan biriyle başlayın",
       "zh-CN": "或从我们的快速入门旅程之一开始",
       "zh-HK": "或從我們的快速入門旅程之一開始"
     },
@@ -6824,7 +6814,7 @@
       "ja": "SDKを統合",
       "es": "Integrar SDK",
       "pt": "Integrar SDK",
-      "ko": "SDK 통합",
+      "ko": "SDK 연동",
       "fr": "Intégrer le SDK",
       "tr": "SDK entegre et",
       "zh-CN": "集成 SDK",
@@ -6906,7 +6896,7 @@
       "pt": "Insira conteúdo dinâmico e em tempo real dos seus data feeds diretamente no modelo no momento do envio. Este recurso se aplica apenas a modelos enviados por Journeys.",
       "ko": "발송 시 데이터 피드에서 실시간 동적 콘텐츠를 템플릿에 직접 삽입하세요. 이 기능은 저니를 통해 발송된 템플릿에만 적용됩니다.",
       "fr": "Insérez du contenu dynamique en temps réel depuis vos flux de données directement dans le modèle au moment de l'envoi. Cette fonctionnalité ne s'applique qu'aux modèles envoyés via Journeys.",
-      "tr": "Veri akışlarınızdan gerçek zamanlı, dinamik içeriği gönderim sırasında doğrudan şablona ekleyin. Bu özellik yalnızca Journeys aracılığıyla gönderilen şablonlar için geçerlidir.",
+      "tr": "Veri akışlarınızdan gerçek zamanlı, dinamik içeriği gönderim sırasında doğrudan şablona ekleyin. Bu özellik yalnızca Yolculuklar aracılığıyla gönderilen şablonlar için geçerlidir.",
       "zh-CN": "在发送时将来自数据源的实时动态内容直接插入模板。此功能仅适用于通过旅程发送的模板。",
       "zh-HK": "在發送時將來自資料來源的即時動態內容直接插入範本。此功能僅適用於透過旅程發送的範本。"
     },
@@ -8344,7 +8334,7 @@
       "ja": "この統合は配信統計を追跡しません。",
       "es": "Esta integración no rastrea estadísticas de entrega.",
       "pt": "Esta integração não rastreia estatísticas de entrega.",
-      "ko": "이 통합은 전달 통계를 추적하지 않습니다.",
+      "ko": "이 연동은 전달 통계를 추적하지 않습니다.",
       "fr": "Cette intégration ne suit pas les statistiques de livraison.",
       "tr": "Bu entegrasyon teslim istatistiklerini izlemez.",
       "zh-CN": "此集成不追踪送达统计。",
@@ -10066,7 +10056,7 @@
       "pt": "Escolha quando um Journey",
       "ko": "저니가 언제",
       "fr": "Choisissez quand un Journey",
-      "tr": "Bir Journey'in ne zaman olacağını seçin",
+      "tr": "Bir Yolculuğun ne zaman olacağını seçin",
       "zh-CN": "选择旅程的时间",
       "zh-HK": "選擇旅程的時間"
     },
@@ -10126,7 +10116,7 @@
       "pt": "Documentação de Journey",
       "ko": "저니 문서",
       "fr": "Documentation Journey",
-      "tr": "Journey dokümantasyonu",
+      "tr": "Yolculuk dokümantasyonu",
       "zh-CN": "旅程文档",
       "zh-HK": "旅程文件"
     },
@@ -10136,7 +10126,7 @@
       "pt": "Configurações de Journey",
       "ko": "저니 설정",
       "fr": "Paramètres du Journey",
-      "tr": "Journey ayarları",
+      "tr": "Yolculuk ayarları",
       "zh-CN": "旅程设置",
       "zh-HK": "旅程設定"
     },
@@ -10246,7 +10236,7 @@
       "pt": "O usuário passou por todo o Journey",
       "ko": "사용자가 전체 저니를 통과했습니다",
       "fr": "L'utilisateur a parcouru tout le Journey",
-      "tr": "Kullanıcı tüm Journey'i tamamladı",
+      "tr": "Kullanıcı tüm Yolculuğu tamamladı",
       "zh-CN": "用户已通过整个旅程",
       "zh-HK": "用戶已通過整個旅程"
     },
@@ -10256,7 +10246,7 @@
       "pt": "Os usuários só podem entrar no Journey uma vez",
       "ko": "사용자는 저니에 한 번만 진입할 수 있습니다",
       "fr": "Les utilisateurs ne peuvent entrer dans le Journey qu'une seule fois",
-      "tr": "Kullanıcılar Journey'e yalnızca bir kez girebilir",
+      "tr": "Kullanıcılar Yolculuğa yalnızca bir kez girebilir",
       "zh-CN": "用户只能进入旅程一次",
       "zh-HK": "用戶只能進入旅程一次"
     },
@@ -10266,7 +10256,7 @@
       "pt": "Os usuários no segmento escolhido iniciarão seu Journey",
       "ko": "선택한 세그먼트의 사용자가 저니를 시작합니다",
       "fr": "Les utilisateurs du segment choisi commenceront votre Journey",
-      "tr": "Seçilen segmentteki kullanıcılar Journey'inizi başlatacak",
+      "tr": "Seçilen segmentteki kullanıcılar Yolculuğunuzu başlatacak",
       "zh-CN": "所选用户分群中的用户将启动您的旅程",
       "zh-HK": "所選用戶分群中的用戶將啟動您的旅程"
     },
@@ -10306,7 +10296,7 @@
       "pt": "deste Journey?",
       "ko": "이 저니에서?",
       "fr": "de ce Journey ?",
-      "tr": "bu Journey'den?",
+      "tr": "bu Yolculuktan?",
       "zh-CN": "从此旅程？",
       "zh-HK": "從此旅程？"
     },
@@ -10316,7 +10306,7 @@
       "pt": "neste Journey?",
       "ko": "이 저니에?",
       "fr": "dans ce Journey ?",
-      "tr": "bu Journey'de?",
+      "tr": "bu Yolculukta?",
       "zh-CN": "在此旅程？",
       "zh-HK": "在此旅程？"
     },
@@ -10396,7 +10386,7 @@
       "pt": "Os Journeys disparados por eventos criam uma nova instância de usuário cada vez que o evento gatilho é disparado. Isso significa que um usuário pode estar no Journey várias vezes ao mesmo tempo.",
       "ko": "이벤트 트리거 저니는 트리거 이벤트가 발생할 때마다 새로운 사용자 인스턴스를 생성합니다. 즉, 사용자가 동시에 여러 번 저니에 참여할 수 있습니다.",
       "fr": "Les Journeys déclenchés par événement créent une nouvelle instance utilisateur à chaque déclenchement de l'événement. Un même utilisateur peut donc être dans le Journey plusieurs fois simultanément.",
-      "tr": "Etkinlik tarafından tetiklenen Journey'ler, tetikleyici etkinlik her gerçekleştiğinde yeni bir kullanıcı örneği oluşturur. Bu, bir kullanıcının Journey'de aynı anda birden çok kez bulunabileceği anlamına gelir.",
+      "tr": "Etkinlik tarafından tetiklenen Yolculuk'ler, tetikleyici etkinlik her gerçekleştiğinde yeni bir kullanıcı örneği oluşturur. Bu, bir kullanıcının Yolculukta aynı anda birden çok kez bulunabileceği anlamına gelir.",
       "zh-CN": "事件触发的旅程在每次触发事件发生时都会创建新的用户实例。这意味着一个用户可能同时处于旅程的多个实例中。",
       "zh-HK": "事件觸發的旅程在每次觸發事件發生時都會建立新的用戶實例。這意味著一個用戶可能同時處於旅程的多個實例中。"
     },
@@ -10426,7 +10416,7 @@
       "pt": "Descrição do Journey",
       "ko": "저니 설명",
       "fr": "Description du Journey",
-      "tr": "Journey açıklaması",
+      "tr": "Yolculuk açıklaması",
       "zh-CN": "旅程描述",
       "zh-HK": "旅程描述"
     },
@@ -10436,7 +10426,7 @@
       "pt": "Nome do Journey",
       "ko": "저니 이름",
       "fr": "Nom du Journey",
-      "tr": "Journey adı",
+      "tr": "Yolculuk adı",
       "zh-CN": "旅程名称",
       "zh-HK": "旅程名稱"
     },
@@ -10446,7 +10436,7 @@
       "pt": "Journey salvo!",
       "ko": "저니가 저장되었습니다!",
       "fr": "Journey enregistré !",
-      "tr": "Journey kaydedildi!",
+      "tr": "Yolculuk kaydedildi!",
       "zh-CN": "旅程已保存！",
       "zh-HK": "旅程已儲存！"
     },
@@ -10556,7 +10546,7 @@
       "pt": "Definir uma meta de Journey",
       "ko": "저니 목표 설정",
       "fr": "Définir un objectif de Journey",
-      "tr": "Journey hedefi belirle",
+      "tr": "Yolculuk hedefi belirle",
       "zh-CN": "设置旅程目标",
       "zh-HK": "設定旅程目標"
     },
@@ -10596,7 +10586,7 @@
       "pt": "Passaram por todo o Journey",
       "ko": "전체 저니를 통과했을 때",
       "fr": "Ils ont parcouru le Journey en entier",
-      "tr": "Tüm Journey'i tamamladılar",
+      "tr": "Tüm Yolculuğu tamamladılar",
       "zh-CN": "他们已通过整个旅程",
       "zh-HK": "他們已通過整個旅程"
     },
@@ -10606,7 +10596,7 @@
       "pt": "Os usuários saem quando passaram por todo o Journey.",
       "ko": "사용자는 전체 저니를 통과하면 종료됩니다.",
       "fr": "Les utilisateurs sortent lorsqu'ils ont parcouru tout le Journey.",
-      "tr": "Kullanıcılar tüm Journey'i tamamladıklarında çıkarlar.",
+      "tr": "Kullanıcılar tüm Yolculuğu tamamladıklarında çıkarlar.",
       "zh-CN": "用户在通过整个旅程时退出。",
       "zh-HK": "用戶在通過整個旅程時退出。"
     },
@@ -10626,7 +10616,7 @@
       "pt": "Quando os usuários devem sair deste Journey?",
       "ko": "사용자가 언제 이 저니를 종료해야 하나요?",
       "fr": "Quand les utilisateurs doivent-ils sortir de ce Journey ?",
-      "tr": "Kullanıcılar bu Journey'den ne zaman çıkmalı?",
+      "tr": "Kullanıcılar bu Yolculuktan ne zaman çıkmalı?",
       "zh-CN": "用户何时应退出此旅程？",
       "zh-HK": "用戶何時應退出此旅程？"
     },
@@ -10636,7 +10626,7 @@
       "pt": "Seu Journey ficará ativo em data e hora específicas.",
       "ko": "저니는 특정 날짜 및 시간에 활성화됩니다.",
       "fr": "Votre Journey deviendra actif à une date et heure précises.",
-      "tr": "Journey'iniz belirli bir tarih ve saatte aktif olacak.",
+      "tr": "Yolculuğunuz belirli bir tarih ve saatte aktif olacak.",
       "zh-CN": "您的旅程将在指定的日期和时间激活。",
       "zh-HK": "您的旅程將在指定的日期和時間啟用。"
     },
@@ -10646,7 +10636,7 @@
       "pt": "Seu Journey ficará ativo assim que você o tornar ativo.",
       "ko": "라이브로 설정하는 즉시 저니가 활성화됩니다.",
       "fr": "Votre Journey deviendra actif dès que vous le mettrez en ligne.",
-      "tr": "Journey'iniz yayına aldığınız anda aktif olacak.",
+      "tr": "Yolculuğunuz yayına aldığınız anda aktif olacak.",
       "zh-CN": "您的旅程在您设为上线后立即激活。",
       "zh-HK": "您的旅程在您設為上線後立即啟用。"
     },
@@ -10656,7 +10646,7 @@
       "pt": "Seu Journey permanecerá ativo indefinidamente.",
       "ko": "저니는 무기한 활성 상태로 유지됩니다.",
       "fr": "Votre Journey restera actif indéfiniment.",
-      "tr": "Journey'iniz süresiz olarak aktif kalacak.",
+      "tr": "Yolculuğunuz süresiz olarak aktif kalacak.",
       "zh-CN": "您的旅程将持续保持活跃。",
       "zh-HK": "您的旅程將持續保持活躍。"
     },
@@ -10666,7 +10656,7 @@
       "pt": "Seu Journey será interrompido em data e hora específicas.",
       "ko": "저니는 특정 날짜 및 시간에 중지됩니다.",
       "fr": "Votre Journey s'arrêtera à une date et heure précises.",
-      "tr": "Journey'iniz belirli bir tarih ve saatte duracak.",
+      "tr": "Yolculuğunuz belirli bir tarih ve saatte duracak.",
       "zh-CN": "您的旅程将在指定的日期和时间停止。",
       "zh-HK": "您的旅程將在指定的日期和時間停止。"
     },
@@ -10706,7 +10696,7 @@
       "pt": "Construa seu próprio Journey do zero.",
       "ko": "나만의 저니를 처음부터 구축하세요.",
       "fr": "Construisez votre propre Journey de A à Z.",
-      "tr": "Kendi Journey'inizi sıfırdan oluşturun.",
+      "tr": "Kendi Yolculuğunuzu sıfırdan oluşturun.",
       "zh-CN": "从零开始构建您自己的旅程。",
       "zh-HK": "從零開始建立您自己的旅程。"
     },
@@ -10716,7 +10706,7 @@
       "pt": "Escolha um Journey para começar",
       "ko": "시작할 저니 선택",
       "fr": "Choisissez un Journey pour commencer",
-      "tr": "Başlamak için bir Journey seçin",
+      "tr": "Başlamak için bir Yolculuk seçin",
       "zh-CN": "选择一个旅程来开始",
       "zh-HK": "選擇一個旅程來開始"
     },
@@ -10726,7 +10716,7 @@
       "pt": "Descreva o propósito deste Journey...",
       "ko": "이 저니의 목적을 설명하세요...",
       "fr": "Décrivez le but de ce Journey...",
-      "tr": "Bu Journey'in amacını açıklayın...",
+      "tr": "Bu Yolculuğun amacını açıklayın...",
       "zh-CN": "描述此旅程的目的...",
       "zh-HK": "描述此旅程的目的..."
     },
@@ -10746,7 +10736,7 @@
       "pt": "Nome do Journey",
       "ko": "저니 이름",
       "fr": "Nom du Journey",
-      "tr": "Journey adı",
+      "tr": "Yolculuk adı",
       "zh-CN": "旅程名称",
       "zh-HK": "旅程名稱"
     },
@@ -10756,7 +10746,7 @@
       "pt": "Meu Journey",
       "ko": "내 저니",
       "fr": "Mon Journey",
-      "tr": "Journey'im",
+      "tr": "Yolculuğum",
       "zh-CN": "我的旅程",
       "zh-HK": "我的旅程"
     },
@@ -10766,7 +10756,7 @@
       "pt": "Nomeie e descreva seu Journey",
       "ko": "저니의 이름을 짓고 설명하세요",
       "fr": "Nommez et décrivez votre Journey",
-      "tr": "Journey'inize ad verin ve açıklayın",
+      "tr": "Yolculuğunuza ad verin ve açıklayın",
       "zh-CN": "为您的旅程命名并描述",
       "zh-HK": "為您的旅程命名並描述"
     },
@@ -11774,7 +11764,7 @@
       "ja": "SDK、統合、またはデータソースから取り込まれたカスタムイベントでフィルター",
       "es": "Filtrar por eventos personalizados ingeridos a través de SDKs, integraciones o fuentes de datos",
       "pt": "Filtrar por eventos personalizados ingeridos via SDKs, integrações ou fontes de dados",
-      "ko": "SDK, 통합 또는 데이터 소스를 통해 수집된 사용자 정의 이벤트로 필터링",
+      "ko": "SDK, 연동 또는 데이터 소스를 통해 수집된 사용자 정의 이벤트로 필터링",
       "fr": "Filtrer par événements personnalisés ingérés via SDK, intégrations ou sources de données",
       "tr": "SDK'ler, entegrasyonlar veya veri kaynakları aracılığıyla alınan özel etkinliklere göre filtrele",
       "zh-CN": "按通过 SDK、集成或数据源接入的自定义事件筛选",
@@ -12866,7 +12856,7 @@
       "pt": "Pesquisar por nome do Journey",
       "ko": "저니 이름으로 검색",
       "fr": "Rechercher par nom de Journey",
-      "tr": "Journey adına göre ara",
+      "tr": "Yolculuk adına göre ara",
       "zh-CN": "按旅程名称搜索",
       "zh-HK": "按旅程名稱搜尋"
     },
@@ -12936,7 +12926,7 @@
       "pt": "Saiba mais sobre Journeys.",
       "ko": "저니에 대해 자세히 알아보세요.",
       "fr": "En savoir plus sur Journeys.",
-      "tr": "Journeys hakkında daha fazla bilgi edinin.",
+      "tr": "Yolculuklar hakkında daha fazla bilgi edinin.",
       "zh-CN": "了解关于旅程的更多信息。",
       "zh-HK": "了解關於旅程的更多資訊。"
     },
@@ -12996,7 +12986,7 @@
       "pt": "Sem Journeys",
       "ko": "저니 없음",
       "fr": "Aucun Journey",
-      "tr": "Journey yok",
+      "tr": "Yolculuk yok",
       "zh-CN": "无旅程",
       "zh-HK": "無旅程"
     },
@@ -13056,7 +13046,7 @@
       "pt": "O usuário não esteve em nenhum Journey",
       "ko": "사용자가 어떤 저니에도 참여하지 않았습니다",
       "fr": "L'utilisateur n'a été dans aucun Journey",
-      "tr": "Kullanıcı hiçbir Journey'de bulunmadı",
+      "tr": "Kullanıcı hiçbir Yolculukta bulunmadı",
       "zh-CN": "用户从未进入任何旅程",
       "zh-HK": "用戶從未進入任何旅程"
     },
@@ -13106,7 +13096,7 @@
       "pt": "Aumente o engajamento com mais automações, canais e recursos em Journeys.",
       "ko": "저니의 추가 자동화, 채널 및 기능으로 참여도를 높이세요.",
       "fr": "Boostez l'engagement avec plus d'automatisations, de canaux et de fonctionnalités dans Journeys.",
-      "tr": "Journeys'teki ek otomasyonlar, kanallar ve özelliklerle daha fazla etkileşim sağlayın.",
+      "tr": "Yolculuklardaki ek otomasyonlar, kanallar ve özelliklerle daha fazla etkileşim sağlayın.",
       "zh-CN": "通过旅程中更多的自动化、渠道和功能提升互动。",
       "zh-HK": "透過旅程中更多的自動化、渠道和功能提升互動。"
     },
@@ -13116,7 +13106,7 @@
       "pt": "Experimentar Journeys",
       "ko": "저니 사용해보기",
       "fr": "Essayer Journeys",
-      "tr": "Journeys'i deneyin",
+      "tr": "Yolculukları deneyin",
       "zh-CN": "试用旅程",
       "zh-HK": "試用旅程"
     },
@@ -13134,7 +13124,7 @@
       "ja": "HubSpot統合メトリクス",
       "es": "Métricas de integración con HubSpot",
       "pt": "Métricas de integração com HubSpot",
-      "ko": "HubSpot 통합 지표",
+      "ko": "HubSpot 연동 지표",
       "fr": "Métriques d'intégration HubSpot",
       "tr": "HubSpot entegrasyon metrikleri",
       "zh-CN": "HubSpot 集成指标",
@@ -13326,7 +13316,7 @@
       "pt": "Journey atualizado",
       "ko": "저니가 업데이트됨",
       "fr": "Journey mis à jour",
-      "tr": "Journey güncellendi",
+      "tr": "Yolculuk güncellendi",
       "zh-CN": "旅程已更新",
       "zh-HK": "旅程已更新"
     },
@@ -13336,7 +13326,7 @@
       "pt": "Journey criado",
       "ko": "저니가 생성됨",
       "fr": "Journey créé",
-      "tr": "Journey oluşturuldu",
+      "tr": "Yolculuk oluşturuldu",
       "zh-CN": "旅程已创建",
       "zh-HK": "旅程已建立"
     },
@@ -14124,7 +14114,7 @@
       "ja": "データウェアハウス統合",
       "es": "Integración con Data Warehouse",
       "pt": "Integração com Data Warehouse",
-      "ko": "데이터 웨어하우스 통합",
+      "ko": "데이터 웨어하우스 연동",
       "fr": "Intégration Data Warehouse",
       "tr": "Data Warehouse entegrasyonu",
       "zh-CN": "Data Warehouse 集成",
@@ -15226,7 +15216,7 @@
       "pt": "Um usuário pode entrar novamente em um Journey após sair ou concluir?",
       "ko": "사용자가 종료하거나 완료한 후에 저니에 다시 진입할 수 있나요?",
       "fr": "Un utilisateur peut-il entrer à nouveau dans un Journey après en être sorti ou l'avoir terminé ?",
-      "tr": "Kullanıcı çıktıktan veya tamamladıktan sonra bir Journey'e tekrar girebilir mi?",
+      "tr": "Kullanıcı çıktıktan veya tamamladıktan sonra bir Yolculuğa tekrar girebilir mi?",
       "zh-CN": "用户在退出或完成后能否重新进入旅程？",
       "zh-HK": "用戶在退出或完成後能否重新進入旅程？"
     },
@@ -15376,7 +15366,7 @@
       "pt": "Os usuários recebem mensagens deste Journey apenas uma vez.",
       "ko": "사용자는 이 저니로부터 메시지를 한 번만 받습니다.",
       "fr": "Les utilisateurs ne reçoivent les messages de ce Journey qu'une seule fois.",
-      "tr": "Kullanıcılar bu Journey'den mesajları yalnızca bir kez alır.",
+      "tr": "Kullanıcılar bu Yolculuktan mesajları yalnızca bir kez alır.",
       "zh-CN": "用户只会从此旅程收到一次消息。",
       "zh-HK": "用戶只會從此旅程收到一次訊息。"
     },
@@ -15386,7 +15376,7 @@
       "pt": "Os usuários entram novamente no Journey após um período de tempo se corresponderem às regras de entrada.",
       "ko": "사용자가 진입 규칙과 일치하는 경우 일정 기간 후에 저니에 다시 진입합니다.",
       "fr": "Les utilisateurs entrent à nouveau dans le Journey après un certain temps s'ils correspondent aux règles d'entrée.",
-      "tr": "Kullanıcılar giriş kurallarıyla eşleşirlerse belirli bir süre sonra Journey'e tekrar girerler.",
+      "tr": "Kullanıcılar giriş kurallarıyla eşleşirlerse belirli bir süre sonra Yolculuğa tekrar girerler.",
       "zh-CN": "如果用户匹配进入规则，他们将在一段时间后重新进入旅程。",
       "zh-HK": "如果用戶匹配進入規則，他們將在一段時間後重新進入旅程。"
     },
@@ -15466,9 +15456,69 @@
       "pt": "ação ao seu Journey antes desta etapa de mensagem.",
       "ko": "액션을 이 메시지 단계 이전에 저니에 추가하세요.",
       "fr": "action à votre Journey avant cette étape de message.",
-      "tr": "eylemini bu mesaj adımından önce Journey'inize ekleyin.",
+      "tr": "eylemini bu mesaj adımından önce Yolculuğunuza ekleyin.",
       "zh-CN": "操作添加到您的旅程中，在此消息步骤之前。",
       "zh-HK": "操作新增到您的旅程中，在此訊息步驟之前。"
+    },
+    "View Org in Dashboard | View Audit Logs": {
+      "ja": "Dashboard で組織を表示 | 監査ログを表示",
+      "es": "Ver Org en Dashboard | Ver registros de auditoría",
+      "pt": "Ver Org na Dashboard | Ver logs de auditoria",
+      "ko": "Dashboard에서 조직 보기 | 감사 로그 보기",
+      "fr": "Voir l'organisation dans le Dashboard | Voir les journaux d'audit",
+      "tr": "Dashboard'da Org Görüntüle | Denetim Günlüklerini Görüntüle",
+      "zh-CN": "在 Dashboard 中查看组织 | 查看审计日志",
+      "zh-HK": "在 Dashboard 中查看組織 | 查看審計日誌"
+    },
+    "App Disabled": {
+      "ja": "アプリ無効",
+      "es": "App deshabilitada",
+      "pt": "App Desativado",
+      "ko": "앱 비활성화됨",
+      "fr": "App désactivée",
+      "tr": "Uygulama Devre Dışı",
+      "zh-CN": "应用已禁用",
+      "zh-HK": "應用已停用"
+    },
+    "This organization was disabled.": {
+      "ja": "この組織は無効化されました。",
+      "es": "Esta organización fue deshabilitada.",
+      "pt": "Essa organização foi desativada.",
+      "ko": "이 조직이 비활성화되었습니다.",
+      "fr": "Cette organisation a été désactivée.",
+      "tr": "Bu kuruluş devre dışı bırakıldı.",
+      "zh-CN": "此组织已被禁用。",
+      "zh-HK": "此組織已被停用。"
+    },
+    "Portuguese": {
+      "ja": "ポルトガル語",
+      "es": "Portugués",
+      "pt": "Português",
+      "ko": "포르투갈어",
+      "fr": "Portugais",
+      "tr": "Portekizce",
+      "zh-CN": "葡萄牙语",
+      "zh-HK": "葡萄牙文"
+    },
+    "Upgrade to see your users' recent messaging activity including sends, deliveries, and clicks.   Contact Sales": {
+      "ja": "アップグレードして、送信・配信・クリックなどユーザーの最近のメッセージング活動を確認しましょう。   営業担当へ連絡",
+      "es": "Actualice para ver la actividad de mensajería reciente de sus usuarios, incluidos envíos, entregas y clics.   Contactar Ventas",
+      "pt": "Faça upgrade para ver a atividade recente de mensagens dos seus usuários, incluindo envios, entregas e cliques.   Fale com Vendas",
+      "ko": "업그레이드하여 발송, 전달, 클릭 등 사용자의 최근 메시징 활동을 확인하세요.   영업팀 문의",
+      "fr": "Passez à un forfait supérieur pour voir l'activité de messagerie récente de vos utilisateurs, y compris les envois, les livraisons et les clics.   Contacter les ventes",
+      "tr": "Kullanıcılarınızın gönderim, teslimat ve tıklamalar dahil son mesajlaşma etkinliğini görmek için yükseltin.   Satışla İletişime Geçin",
+      "zh-CN": "升级以查看您用户最近的消息活动，包括发送、送达和点击。   联系销售",
+      "zh-HK": "升級以查看您用戶最近的訊息活動，包括發送、送達和點擊。   聯絡銷售"
+    },
+    "for": {
+      "ja": "用",
+      "es": "para",
+      "pt": "para",
+      "ko": "대상",
+      "fr": "pour",
+      "tr": "için",
+      "zh-CN": "用于",
+      "zh-HK": "用於"
     }
   },
   "patterns": [
@@ -16419,6 +16469,19 @@
         "tr": "{1} tarihinden şimdiye kadar denetim günlükleri gösteriliyor",
         "zh-CN": "显示从 {1} 至今的审计日志",
         "zh-HK": "顯示從 {1} 至今的審計日誌"
+      }
+    },
+    {
+      "match": "^Date timestamps are stored in UTC time \\((.+) is (.+) from UTC\\)$",
+      "translations": {
+        "ja": "日付はUTC時刻で保存されています（{1}はUTCから{2}）",
+        "es": "Las fechas se almacenan en UTC ({1} es {2} desde UTC)",
+        "pt": "Os timestamps de data são armazenados em UTC ({1} é UTC{2})",
+        "ko": "날짜 타임스탬프는 UTC 기준으로 저장됩니다 ({1}는 UTC {2})",
+        "fr": "Les horodatages sont stockés au format UTC ({1} est UTC {2})",
+        "tr": "Tarih damgaları UTC zamanında saklanır ({1}, UTC'den {2}'tür)",
+        "zh-CN": "日期时间戳以 UTC 时间存储 ({1} 为 UTC {2})",
+        "zh-HK": "日期時間戳以 UTC 時間儲存 ({1} 為 UTC {2})"
       }
     }
   ]
