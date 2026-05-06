@@ -7,6 +7,138 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
+## [1.3.2] — 2026-05-04
+
+### Changed
+
+- **Spanish, Portuguese, French — `Journey` / `Journeys` Latin →
+  native translations** (`Recorrido` / `Jornada` / `Parcours`).
+  Previously the policy was applied only to Turkish and the East
+  Asian languages; now it's consistent across all 8 supported
+  locales. 56 es entries + 56 pt entries + 58 fr entries swept.
+- Portuguese required gender flips since `Jornada` is feminine
+  while `Journey` was treated as masculine: articles
+  (`o → a`, `do → da`, `no → na`, `ao → à`), demonstratives
+  (`este → esta`, `deste → desta`, `neste → nesta`),
+  possessives (`seu → sua`, `meu → minha`), indefinites
+  (`um → uma`), adjectives/past participles
+  (`novo → nova`, `salvo → salva`, `criado → criada`,
+  `atualizado → atualizada`, `ativo → ativa`,
+  `próprio → própria`, `todo o → toda a`,
+  `disparados → disparadas`).
+- Spanish/French compound-modifier order fixed where
+  `"Journey Webhooks"` had become `"Recorrido Webhooks"` /
+  `"Parcours Webhooks"` after substitution: re-rendered as
+  `"Webhooks de Recorrido"` / `"Webhooks de Parcours"` to read
+  naturally in those languages (English-style noun-modifier
+  inversion isn't natural in es/fr).
+
+### Notes
+
+- French `Parcours` is invariable (same form singular and plural),
+  so `"les Journeys"` becomes `"les Parcours"` with article-only
+  change.
+- Skip-keys preserved (the `JOURNEY` SMS protocol token, the
+  "Walkthrough your user journey…" entry where "journey" is
+  lowercase common-noun usage, and the `The journey is the reward.`
+  easter egg).
+- Glossary canonicals were already in place from 1.3.0; this
+  release is the languages.json sweep that brings the actual
+  translations in line with those canonicals.
+
+## [1.3.1] — 2026-05-04
+
+### Fixed (translation feedback batch)
+
+- **Turkish — Journey strings still showed in English.** The 1.3.0
+  policy change promoted `Yolculuk` (Turkish for "journey") as the
+  canonical, but only zh-CN/zh-HK entries got swept. Now 56 Turkish
+  entries are translated, with proper Turkish grammar — k→ğ vowel
+  harmony, attached suffixes instead of apostrophe-suffixes
+  (`Journey'inizi` → `Yolculuğunuzu`, `Journey'den` → `Yolculuktan`).
+  Glossary alts for `Yolculuk` now include inflected stems
+  (`Yolculuğ`, `Yolculu`) so the validator accepts the harmonized
+  forms.
+- **Korean — `자동화됨` → `자동화`** (Automated). Dropped the passive
+  `~됨` suffix on category labels; SaaS UI prefers nominal noun
+  form. The `~됨` form is reserved for event-status badges
+  (`발송됨` Sent, `실패됨` Failed, `완료됨` Completed). 2 entries
+  affected.
+- **Korean — `통합` → `연동`** (Integration). `통합` reads as
+  "unified / consolidated" and is imprecise for the SaaS sense of
+  integrating with an external system. `연동` is the natural
+  Korean term for webhook / API / third-party tool integrations.
+  10 entries affected (`Integrations`, `Add Integration`, `Connect
+  Integration`, `HubSpot Integration Metrics`, `Data Warehouse
+  Integration`, etc.).
+- **`style/ko.md`** updated to lock these conventions
+  (`자동화` not `자동화됨` for category labels; `연동` not `통합`
+  for technical integrations).
+
+### Added (translation feedback batch)
+
+- **Portuguese (BR)** — six entries that were missing translations
+  (and filled in across all 8 languages):
+  - `View Org in Dashboard | View Audit Logs`
+  - `App Disabled` → `App Desativado`
+  - `This organization was disabled.` → `Essa organização foi
+    desativada.`
+  - `Portuguese` → `Português` (language picker label)
+  - `Upgrade to see your users' recent messaging activity…
+    Contact Sales` → full pt-BR translation
+  - `for` → `para` (single-word UI label)
+
+### Changed (translation feedback batch)
+
+- **`Date timestamps are stored in UTC time (EDT is -04:00 from
+  UTC)`** converted from a hardcoded EDT-only entry to a regex
+  pattern that handles all timezone abbreviations (CDT, PST, MST,
+  GMT, etc.). Per pt-BR feedback the Portuguese template was
+  refined to "Os timestamps de data são armazenados em UTC
+  ({1} é UTC{2})" — clearer phrasing than the previous "Datas
+  são armazenadas em UTC ({1} é {2} do UTC)".
+- Glossary `Disabled`: added feminine alts for es (`Deshabilitada`)
+  and pt (`Desativada`), plus verb-form alts for ko (`비활성화되`,
+  `비활성화`) so phrases like "essa organização foi desativada"
+  validate against the glossary.
+
+## [1.3.0] — 2026-05-04
+
+### Changed
+
+- **Generic marketing channel and feature names are now translated**
+  in zh-CN and zh-HK instead of being kept in Latin. Affects: Push,
+  Email, SMS, RCS, In-App, Live Activity / Live Activities, Journey /
+  Journeys, Segment / Segments (the OneSignal feature), Data Feed /
+  Data Feeds. Previously these read as English in an otherwise-
+  translated dashboard, which felt jarring to East Asian readers.
+  Sweep updated 227 zh-CN entries + 229 zh-HK entries + 6 patterns.
+- New zh-CN canonicals (per Mainland coworker recommendations):
+  推送 / 电子邮件 / 短信 / 富媒体短信 / 应用内 / 实时活动 / 旅程 /
+  用户分群 / 数据源.
+- New zh-HK canonicals (Traditional Chinese, HK lexicon):
+  推送 / 電郵 / 短訊 / 富媒體短訊 / 應用內 / 即時動態 / 旅程 /
+  用戶分群 / 資料來源.
+- Turkish glossary canonical for "Email" promoted from `Email` to
+  `E-posta` (proper Turkish term).
+- `STYLE_GUIDE.md` rule #1 rewritten to distinguish brand names
+  (locked Latin: OneSignal, Twilio, Mixpanel, etc.) from generic
+  channel/feature names (translated per glossary). Webhook stays
+  Latin in all languages — no natural translation in any major
+  locale.
+
+### Notes
+
+- Skip-keys preserved: "Twilio Segment" (the company) stays Latin
+  in entries where it's mentioned as a vendor; SMS protocol
+  keywords (JOURNEY, STOP, etc.) stay Latin; "The journey is the
+  reward." easter egg untouched.
+- Other languages (ja, ko, es, pt, fr) had correct canonicals already
+  and weren't swept. Japanese and Korean already translate to native
+  script (プッシュ / メール / 푸시 / 이메일). Spanish, Portuguese, and
+  French keep "Push" / "Email" / "SMS" in Latin since marketers in
+  those languages use the Latin loanwords natively.
+
 ## [1.2.0] — 2026-05-04
 
 ### Added
@@ -226,7 +358,10 @@ entries + 73 regex patterns**:
   every supported language" rule and (added with this changelog) the
   versioning convention.
 
-[Unreleased]: https://github.com/alatones/os-translate/compare/v1.2.0...HEAD
+[Unreleased]: https://github.com/alatones/os-translate/compare/v1.3.2...HEAD
+[1.3.2]: https://github.com/alatones/os-translate/compare/v1.3.1...v1.3.2
+[1.3.1]: https://github.com/alatones/os-translate/compare/v1.3.0...v1.3.1
+[1.3.0]: https://github.com/alatones/os-translate/compare/v1.2.0...v1.3.0
 [1.2.0]: https://github.com/alatones/os-translate/compare/v1.1.5...v1.2.0
 [1.1.5]: https://github.com/alatones/os-translate/compare/v1.1.4...v1.1.5
 [1.1.4]: https://github.com/alatones/os-translate/compare/v1.0.0...v1.1.4

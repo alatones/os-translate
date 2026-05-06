@@ -60,6 +60,16 @@
   natural choice.)
 - "Settings" → `설정`. "Configuration" → `구성`.
 - "Filter" → `필터`. "Apply" → `적용`.
+- "Automated" → `자동화` (bare nominal). Avoid `자동화됨` (passive
+  marker); SaaS UI prefers nominal noun form for status/category
+  labels. The `~됨` form belongs on event-style status badges
+  (`발송됨`, `실패됨`, `완료됨`), not on category labels like
+  Automated/Manual.
+- "Integration" / "Integrations" → `연동` (technical integration with
+  external systems — webhooks, APIs, third-party tools). Avoid `통합`
+  in this sense; `통합` reads as "unified / consolidated" and is
+  imprecise for the SaaS-integration meaning. `통합 보고서` (unified
+  report) is fine; `HubSpot 통합` is wrong (use `HubSpot 연동`).
 - Rate metrics: `~율` suffix. `클릭률`, `열람률`, `전달률`.
 
 ## Examples
@@ -74,6 +84,9 @@
 | Failed (status)             | 실패됨                  | 실패했어요 (해요체)               |
 | Loading… (spinner)          | 로딩 중…                | 로딩중... (missing space)         |
 | Settings (nav)              | 설정                    | 환경설정 (alt term, locked to 설정) |
+| Automated (label)           | 자동화                   | 자동화됨 (passive form on category) |
+| Integrations (nav)          | 연동                     | 통합 (means "unified", not technical) |
+| HubSpot Integration (label) | HubSpot 연동             | HubSpot 통합 (wrong sense)         |
 
 ## Things to watch
 

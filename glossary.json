@@ -4,8 +4,14 @@
   "terms": {
     "Journey": {
       "ja": "ジャーニー",
-      "es": "Journey",
-      "pt": "Journey",
+      "es": [
+        "Recorrido",
+        "Journey"
+      ],
+      "pt": [
+        "Jornada",
+        "Journey"
+      ],
       "ko": "저니",
       "note": "OneSignal feature. ja/ko established loanwords; es/pt keep Latin.",
       "_skip_keys": [
@@ -13,29 +19,60 @@
         "Walkthrough your user journey on your own device, from message to conversion",
         "The journey is the reward."
       ],
-      "fr": "Journey",
-      "tr": "Journey",
-      "zh-CN": "Journey",
-      "zh-HK": "Journey"
+      "fr": [
+        "Parcours",
+        "Journey"
+      ],
+      "tr": [
+        "Yolculuk",
+        "Yolculuğ",
+        "Yolculu",
+        "Journey"
+      ],
+      "zh-CN": [
+        "旅程",
+        "Journey"
+      ],
+      "zh-HK": [
+        "旅程",
+        "Journey"
+      ]
     },
     "Journeys": {
       "ja": "ジャーニー",
-      "es": "Journeys",
-      "pt": "Journeys",
+      "es": [
+        "Recorridos",
+        "Recorrido",
+        "Journeys",
+        "Journey"
+      ],
+      "pt": [
+        "Jornadas",
+        "Jornada",
+        "Journeys",
+        "Journey"
+      ],
       "ko": "저니",
       "fr": [
+        "Parcours",
         "Journeys",
         "Journey"
       ],
       "tr": [
+        "Yolculuklar",
+        "Yolculukları",
+        "Yolculuk",
+        "Yolculuğ",
         "Journeys",
         "Journey"
       ],
       "zh-CN": [
+        "旅程",
         "Journeys",
         "Journey"
       ],
       "zh-HK": [
+        "旅程",
         "Journeys",
         "Journey"
       ]
@@ -51,8 +88,16 @@
       ],
       "fr": "Segment",
       "tr": "Segment",
-      "zh-CN": "Segment",
-      "zh-HK": "Segment"
+      "zh-CN": [
+        "用户分群",
+        "分群",
+        "Segment"
+      ],
+      "zh-HK": [
+        "用戶分群",
+        "分群",
+        "Segment"
+      ]
     },
     "Segments": {
       "ja": "セグメント",
@@ -65,10 +110,14 @@
         "Segment"
       ],
       "zh-CN": [
+        "用户分群",
+        "分群",
         "Segments",
         "Segment"
       ],
       "zh-HK": [
+        "用戶分群",
+        "分群",
         "Segments",
         "Segment"
       ]
@@ -227,12 +276,12 @@
         "uygulama içi"
       ],
       "zh-CN": [
-        "In-App",
-        "应用内"
+        "应用内",
+        "In-App"
       ],
       "zh-HK": [
-        "In-App",
-        "應用內"
+        "應用內",
+        "In-App"
       ]
     },
     "Push": {
@@ -242,8 +291,8 @@
       "ko": "푸시",
       "fr": "Push",
       "tr": "Push",
-      "zh-CN": "Push",
-      "zh-HK": "Push"
+      "zh-CN": "推送",
+      "zh-HK": "推送"
     },
     "Email": {
       "ja": "メール",
@@ -266,20 +315,20 @@
         "e-mail"
       ],
       "tr": [
-        "Email",
-        "email",
         "E-posta",
-        "e-posta"
+        "e-posta",
+        "Email",
+        "email"
       ],
       "zh-CN": [
-        "Email",
+        "电子邮件",
         "邮件",
-        "电子邮件"
+        "Email"
       ],
       "zh-HK": [
-        "Email",
         "電郵",
-        "電子郵件"
+        "電子郵件",
+        "Email"
       ]
     },
     "SMS": {
@@ -289,8 +338,14 @@
       "ko": "SMS",
       "fr": "SMS",
       "tr": "SMS",
-      "zh-CN": "SMS",
-      "zh-HK": "SMS"
+      "zh-CN": [
+        "短信",
+        "SMS"
+      ],
+      "zh-HK": [
+        "短訊",
+        "SMS"
+      ]
     },
     "RCS": {
       "ja": "RCS",
@@ -299,54 +354,74 @@
       "ko": "RCS",
       "fr": "RCS",
       "tr": "RCS",
-      "zh-CN": "RCS",
-      "zh-HK": "RCS"
+      "zh-CN": [
+        "富媒体短信",
+        "RCS"
+      ],
+      "zh-HK": [
+        "富媒體短訊",
+        "RCS"
+      ]
     },
     "Live Activity": {
       "ja": "ライブアクティビティ",
       "es": [
-        "Live Activity",
-        "Actividad en vivo"
+        "Actividad en vivo",
+        "Live Activity"
       ],
       "pt": [
-        "Live Activity",
-        "Atividade ao vivo"
+        "Atividade ao vivo",
+        "Live Activity"
       ],
       "ko": "라이브 액티비티",
       "note": "Apple-platform feature; es/pt keep Latin to match Apple's localization.",
       "fr": [
-        "Live Activity",
-        "Activité en direct"
+        "Activité en direct",
+        "Live Activity"
       ],
       "tr": [
-        "Live Activity",
-        "Canlı Aktivite"
+        "Canlı Aktivite",
+        "Live Activity"
       ],
-      "zh-CN": "Live Activity",
-      "zh-HK": "Live Activity"
+      "zh-CN": [
+        "实时活动",
+        "Live Activity"
+      ],
+      "zh-HK": [
+        "即時動態",
+        "即時活動",
+        "Live Activity"
+      ]
     },
     "Live Activities": {
       "ja": "ライブアクティビティ",
       "es": [
-        "Live Activities",
-        "Actividades en vivo"
+        "Actividades en vivo",
+        "Live Activities"
       ],
       "pt": [
-        "Live Activities",
-        "Atividades ao vivo"
+        "Atividades ao vivo",
+        "Live Activities"
       ],
       "ko": "라이브 액티비티",
       "fr": [
-        "Live Activities",
-        "Activités en direct"
+        "Activités en direct",
+        "Live Activities"
       ],
       "tr": [
-        "Live Activities",
         "Canlı Aktiviteler",
-        "Canlı Aktivite"
+        "Canlı Aktivite",
+        "Live Activities"
       ],
-      "zh-CN": "Live Activities",
-      "zh-HK": "Live Activities"
+      "zh-CN": [
+        "实时活动",
+        "Live Activities"
+      ],
+      "zh-HK": [
+        "即時動態",
+        "即時活動",
+        "Live Activities"
+      ]
     },
     "Data Feed": {
       "ja": "データフィード",
@@ -368,12 +443,12 @@
         "Data Feed"
       ],
       "zh-CN": [
-        "Data Feed",
-        "数据源"
+        "数据源",
+        "Data Feed"
       ],
       "zh-HK": [
-        "Data Feed",
-        "資料來源"
+        "資料來源",
+        "Data Feed"
       ]
     },
     "Data Feeds": {
@@ -393,18 +468,18 @@
       ],
       "tr": [
         "Veri Akışları",
-        "Data Feeds",
-        "Veri Akışı"
+        "Veri Akışı",
+        "Data Feeds"
       ],
       "zh-CN": [
+        "数据源",
         "Data Feeds",
-        "Data Feed",
-        "数据源"
+        "Data Feed"
       ],
       "zh-HK": [
+        "資料來源",
         "Data Feeds",
-        "Data Feed",
-        "資料來源"
+        "Data Feed"
       ]
     },
     "Webhook": {
@@ -1223,9 +1298,23 @@
     },
     "Disabled": {
       "ja": "無効",
-      "es": "Deshabilitado",
-      "pt": "Desativado",
-      "ko": "비활성화됨",
+      "es": [
+        "Deshabilitado",
+        "Deshabilitada",
+        "deshabilitado",
+        "deshabilitada"
+      ],
+      "pt": [
+        "Desativado",
+        "Desativada",
+        "desativado",
+        "desativada"
+      ],
+      "ko": [
+        "비활성화됨",
+        "비활성화되",
+        "비활성화"
+      ],
       "fr": [
         "Désactivé",
         "Désactivée",

@@ -177,8 +177,8 @@
       "ko": "세그먼트 추가",
       "fr": "Ajouter un segment",
       "tr": "Segment ekle",
-      "zh-CN": "添加 Segment",
-      "zh-HK": "新增 Segment"
+      "zh-CN": "添加用户分群",
+      "zh-HK": "新增用戶分群"
     },
     "Add User": {
       "es": "Agregar usuario",
@@ -544,7 +544,7 @@
       "es": "Automatizado",
       "ja": "自動化",
       "pt": "Automatizado",
-      "ko": "자동화됨",
+      "ko": "자동화",
       "fr": "Automatisé",
       "tr": "Otomatik",
       "zh-CN": "自动化",
@@ -554,7 +554,7 @@
       "es": "automatizado",
       "ja": "自動",
       "pt": "automatizado",
-      "ko": "자동화됨",
+      "ko": "자동화",
       "fr": "automatisé",
       "tr": "otomatik",
       "zh-CN": "自动化",
@@ -1117,8 +1117,8 @@
       "ko": "세그먼트 만들기",
       "fr": "Créer un segment",
       "tr": "Segment oluştur",
-      "zh-CN": "创建 Segment",
-      "zh-HK": "建立 Segment"
+      "zh-CN": "创建用户分群",
+      "zh-HK": "建立用戶分群"
     },
     "Create Template": {
       "es": "Crear plantilla",
@@ -1278,7 +1278,7 @@
       "fr": "Flux de données",
       "tr": "Veri akışları",
       "zh-CN": "数据源",
-      "zh-HK": "Data Feeds"
+      "zh-HK": "資料來源"
     },
     "Data Tags": {
       "es": "Etiquetas de datos",
@@ -1329,16 +1329,6 @@
       "tr": "Gönderim tarihi",
       "zh-CN": "发送日期",
       "zh-HK": "發送日期"
-    },
-    "Date timestamps are stored in UTC time (EDT is -04:00 from UTC)": {
-      "es": "Las fechas se almacenan en UTC (EDT es -04:00 desde UTC)",
-      "ja": "日付はUTC時刻で保存されています（EDTはUTCから-04:00）",
-      "pt": "Datas são armazenadas em UTC (EDT é -04:00 do UTC)",
-      "ko": "날짜 타임스탬프는 UTC 기준으로 저장됩니다 (EDT는 UTC -04:00)",
-      "fr": "Les horodatages sont stockés au format UTC (EDT est UTC -04:00)",
-      "tr": "Tarih damgaları UTC zamanında saklanır (EDT, UTC'den -04:00'tür)",
-      "zh-CN": "日期时间戳以 UTC 时间存储 (EDT 为 UTC -04:00)",
-      "zh-HK": "日期時間戳以 UTC 時間儲存 (EDT 為 UTC -04:00)"
     },
     "Deactivate": {
       "es": "Desactivar",
@@ -1417,8 +1407,8 @@
       "ko": "세그먼트 삭제",
       "fr": "Supprimer le segment",
       "tr": "Segmenti sil",
-      "zh-CN": "删除 Segment",
-      "zh-HK": "刪除 Segment"
+      "zh-CN": "删除用户分群",
+      "zh-HK": "刪除用戶分群"
     },
     "Delete Template": {
       "es": "Eliminar plantilla",
@@ -1637,8 +1627,8 @@
       "ko": "세그먼트 편집",
       "fr": "Modifier le segment",
       "tr": "Segmenti düzenle",
-      "zh-CN": "编辑 Segment",
-      "zh-HK": "編輯 Segment"
+      "zh-CN": "编辑用户分群",
+      "zh-HK": "編輯用戶分群"
     },
     "Edit Template": {
       "es": "Editar plantilla",
@@ -1667,8 +1657,8 @@
       "ko": "이메일",
       "fr": "Email",
       "tr": "Email",
-      "zh-CN": "Email",
-      "zh-HK": "Email"
+      "zh-CN": "电子邮件",
+      "zh-HK": "電郵"
     },
     "Email Address": {
       "es": "Dirección de email",
@@ -1677,8 +1667,8 @@
       "ko": "이메일 주소",
       "fr": "Adresse email",
       "tr": "Email adresi",
-      "zh-CN": "Email 地址",
-      "zh-HK": "Email 地址"
+      "zh-CN": "电子邮件地址",
+      "zh-HK": "電郵地址"
     },
     "Email Settings": {
       "es": "Configuración de email",
@@ -1687,8 +1677,8 @@
       "ko": "이메일 설정",
       "fr": "Paramètres email",
       "tr": "Email ayarları",
-      "zh-CN": "Email 设置",
-      "zh-HK": "Email 設定"
+      "zh-CN": "电子邮件设置",
+      "zh-HK": "電郵設定"
     },
     "Enable": {
       "es": "Habilitar",
@@ -1807,8 +1797,8 @@
       "ko": "세그먼트 제외",
       "fr": "Exclure les segments",
       "tr": "Segmentleri hariç tut",
-      "zh-CN": "排除 Segment",
-      "zh-HK": "排除 Segment"
+      "zh-CN": "排除用户分群",
+      "zh-HK": "排除用戶分群"
     },
     "exists": {
       "es": "existe",
@@ -2137,8 +2127,8 @@
       "ko": "인앱",
       "fr": "In-App",
       "tr": "In-App",
-      "zh-CN": "In-App",
-      "zh-HK": "In-App"
+      "zh-CN": "应用内",
+      "zh-HK": "應用內"
     },
     "In-App Messages": {
       "es": "Mensajes In-App",
@@ -2147,8 +2137,8 @@
       "ko": "인앱 메시지",
       "fr": "Messages In-App",
       "tr": "In-App mesajları",
-      "zh-CN": "In-App 消息",
-      "zh-HK": "In-App 訊息"
+      "zh-CN": "应用内消息",
+      "zh-HK": "應用內訊息"
     },
     "Inactive": {
       "es": "Inactivo",
@@ -2177,8 +2167,8 @@
       "ko": "세그먼트 포함",
       "fr": "Inclure les segments",
       "tr": "Segmentleri dahil et",
-      "zh-CN": "包含 Segment",
-      "zh-HK": "包含 Segment"
+      "zh-CN": "包含用户分群",
+      "zh-HK": "包含用戶分群"
     },
     "Influenced": {
       "es": "Influenciado",
@@ -2214,7 +2204,7 @@
       "es": "Integraciones",
       "ja": "インテグレーション",
       "pt": "Integrações",
-      "ko": "통합",
+      "ko": "연동",
       "fr": "Intégrations",
       "tr": "Entegrasyonlar",
       "zh-CN": "集成",
@@ -2311,44 +2301,44 @@
       "zh-HK": "1月"
     },
     "Journey": {
-      "es": "Journey",
+      "es": "Recorrido",
       "ja": "ジャーニー",
-      "pt": "Journey",
+      "pt": "Jornada",
       "ko": "저니",
-      "fr": "Journey",
-      "tr": "Journey",
-      "zh-CN": "Journey",
-      "zh-HK": "Journey"
+      "fr": "Parcours",
+      "tr": "Yolculuk",
+      "zh-CN": "旅程",
+      "zh-HK": "旅程"
     },
     "Journey Webhook": {
-      "es": "Webhook de Journey",
+      "es": "Webhook de Recorrido",
       "ja": "ジャーニーWebhook",
-      "pt": "Webhook de Journey",
+      "pt": "Webhook de Jornada",
       "ko": "저니 웹훅",
-      "fr": "Webhook Journey",
-      "tr": "Journey Webhook",
-      "zh-CN": "Journey Webhook",
-      "zh-HK": "Journey Webhook"
+      "fr": "Webhook Parcours",
+      "tr": "Yolculuk Webhook",
+      "zh-CN": "旅程 Webhook",
+      "zh-HK": "旅程 Webhook"
     },
     "Journey Webhooks": {
-      "es": "Webhooks de Journey",
+      "es": "Webhooks de Recorrido",
       "ja": "ジャーニーWebhook",
-      "pt": "Webhooks de Journey",
+      "pt": "Webhooks de Jornada",
       "ko": "저니 웹훅",
-      "fr": "Webhooks Journey",
-      "tr": "Journey Webhook'ları",
-      "zh-CN": "Journey Webhook",
-      "zh-HK": "Journey Webhook"
+      "fr": "Webhooks Parcours",
+      "tr": "Yolculuk Webhook'ları",
+      "zh-CN": "旅程 Webhook",
+      "zh-HK": "旅程 Webhook"
     },
     "Journeys": {
-      "es": "Journeys",
+      "es": "Recorridos",
       "ja": "ジャーニー",
-      "pt": "Journeys",
+      "pt": "Jornadas",
       "ko": "저니",
-      "fr": "Journeys",
-      "tr": "Journeys",
-      "zh-CN": "Journeys",
-      "zh-HK": "Journeys"
+      "fr": "Parcours",
+      "tr": "Yolculuklar",
+      "zh-CN": "旅程",
+      "zh-HK": "旅程"
     },
     "Jul": {
       "es": "jul",
@@ -2607,8 +2597,8 @@
       "ko": "라이브 액티비티",
       "fr": "Live Activities",
       "tr": "Live Activities",
-      "zh-CN": "Live Activities",
-      "zh-HK": "Live Activities"
+      "zh-CN": "实时活动",
+      "zh-HK": "即時動態"
     },
     "Live Activity": {
       "es": "Actividad en vivo",
@@ -2617,8 +2607,8 @@
       "ko": "라이브 액티비티",
       "fr": "Live Activity",
       "tr": "Live Activity",
-      "zh-CN": "Live Activity",
-      "zh-HK": "Live Activity"
+      "zh-CN": "实时活动",
+      "zh-HK": "即時動態"
     },
     "Load More": {
       "es": "Cargar más",
@@ -2637,8 +2627,8 @@
       "ko": "세그먼트 수 로드",
       "fr": "Charger le décompte du segment",
       "tr": "Segment sayısını yükle",
-      "zh-CN": "加载 Segment 数量",
-      "zh-HK": "載入 Segment 數量"
+      "zh-CN": "加载用户分群数量",
+      "zh-HK": "載入用戶分群數量"
     },
     "Loading": {
       "es": "Cargando",
@@ -2747,8 +2737,8 @@
       "ko": "이메일 또는 전화번호로 사용자 직접 추가",
       "fr": "Ajoutez manuellement des utilisateurs avec emails ou numéros de téléphone",
       "tr": "Email veya telefon numarasıyla manuel olarak kullanıcı ekleyin",
-      "zh-CN": "通过 Email 或电话号码手动添加用户",
-      "zh-HK": "透過 Email 或電話號碼手動新增用戶"
+      "zh-CN": "通过电子邮件或电话号码手动添加用户",
+      "zh-HK": "透過電郵或電話號碼手動新增用戶"
     },
     "Mar": {
       "es": "mar",
@@ -2978,7 +2968,7 @@
       "fr": "Nouveau flux de données",
       "tr": "Yeni veri akışı",
       "zh-CN": "新数据源",
-      "zh-HK": "新 Data Feed"
+      "zh-HK": "新資料來源"
     },
     "New Email": {
       "es": "Nuevo email",
@@ -2987,8 +2977,8 @@
       "ko": "새 이메일",
       "fr": "Nouvel email",
       "tr": "Yeni email",
-      "zh-CN": "新 Email",
-      "zh-HK": "新 Email"
+      "zh-CN": "新电子邮件",
+      "zh-HK": "新電郵"
     },
     "New email": {
       "es": "Nuevo email",
@@ -2997,8 +2987,8 @@
       "ko": "새 이메일",
       "fr": "Nouvel email",
       "tr": "Yeni email",
-      "zh-CN": "新 Email",
-      "zh-HK": "新 Email"
+      "zh-CN": "新电子邮件",
+      "zh-HK": "新電郵"
     },
     "New Event Stream": {
       "es": "Nuevo flujo de eventos",
@@ -3017,28 +3007,28 @@
       "ko": "새 인앱",
       "fr": "Nouveau In-App",
       "tr": "Yeni In-App",
-      "zh-CN": "新 In-App",
-      "zh-HK": "新 In-App"
+      "zh-CN": "新应用内",
+      "zh-HK": "新應用內"
     },
     "New Journey": {
-      "es": "Nuevo Journey",
+      "es": "Nuevo Recorrido",
       "ja": "新規ジャーニー",
-      "pt": "Novo Journey",
+      "pt": "Nova Jornada",
       "ko": "새 저니",
-      "fr": "Nouveau Journey",
-      "tr": "Yeni Journey",
-      "zh-CN": "新 Journey",
-      "zh-HK": "新 Journey"
+      "fr": "Nouveau Parcours",
+      "tr": "Yeni Yolculuk",
+      "zh-CN": "新旅程",
+      "zh-HK": "新旅程"
     },
     "New Journey Webhook": {
-      "es": "Nuevo Webhook de Journey",
+      "es": "Nuevo Webhook de Recorrido",
       "ja": "新規ジャーニーWebhook",
-      "pt": "Novo Webhook de Journey",
+      "pt": "Novo Webhook de Jornada",
       "ko": "새 저니 웹훅",
-      "fr": "Nouveau Webhook Journey",
-      "tr": "Yeni Journey Webhook",
-      "zh-CN": "新 Journey Webhook",
-      "zh-HK": "新 Journey Webhook"
+      "fr": "Nouveau Webhook Parcours",
+      "tr": "Yeni Yolculuk Webhook",
+      "zh-CN": "新旅程 Webhook",
+      "zh-HK": "新旅程 Webhook"
     },
     "New Message": {
       "es": "Nuevo mensaje",
@@ -3057,8 +3047,8 @@
       "ko": "새 푸시",
       "fr": "Nouveau push",
       "tr": "Yeni push",
-      "zh-CN": "新 Push",
-      "zh-HK": "新 Push"
+      "zh-CN": "新推送",
+      "zh-HK": "新推送"
     },
     "New Push Notification": {
       "es": "Nueva notificación push",
@@ -3067,8 +3057,8 @@
       "ko": "새 푸시 알림",
       "fr": "Nouvelle notification push",
       "tr": "Yeni push bildirimi",
-      "zh-CN": "新 Push 通知",
-      "zh-HK": "新 Push 通知"
+      "zh-CN": "新推送通知",
+      "zh-HK": "新推送通知"
     },
     "New SMS / RCS": {
       "es": "Nuevo SMS / RCS",
@@ -3077,8 +3067,8 @@
       "ko": "새 SMS / RCS",
       "fr": "Nouveau SMS / RCS",
       "tr": "Yeni SMS / RCS",
-      "zh-CN": "新 SMS / RCS",
-      "zh-HK": "新 SMS / RCS"
+      "zh-CN": "新短信 / 富媒体短信",
+      "zh-HK": "新短訊 / 富媒體短訊"
     },
     "New SMS/RCS": {
       "es": "Nuevo SMS/RCS",
@@ -3087,8 +3077,8 @@
       "ko": "새 SMS/RCS",
       "fr": "Nouveau SMS/RCS",
       "tr": "Yeni SMS/RCS",
-      "zh-CN": "新 SMS/RCS",
-      "zh-HK": "新 SMS/RCS"
+      "zh-CN": "新短信/富媒体短信",
+      "zh-HK": "新短訊/富媒體短訊"
     },
     "New subscribed": {
       "es": "Nuevas suscripciones",
@@ -3727,8 +3717,8 @@
       "ko": "푸시",
       "fr": "Push",
       "tr": "Push",
-      "zh-CN": "Push",
-      "zh-HK": "Push"
+      "zh-CN": "推送",
+      "zh-HK": "推送"
     },
     "Push & In-App": {
       "es": "Push e In-App",
@@ -3737,8 +3727,8 @@
       "ko": "푸시 및 인앱",
       "fr": "Push et In-App",
       "tr": "Push ve In-App",
-      "zh-CN": "Push 和 In-App",
-      "zh-HK": "Push 和 In-App"
+      "zh-CN": "推送和应用内",
+      "zh-HK": "推送和應用內"
     },
     "Push Notifications": {
       "es": "Notificaciones push",
@@ -3747,8 +3737,8 @@
       "ko": "푸시 알림",
       "fr": "Notifications push",
       "tr": "Push bildirimleri",
-      "zh-CN": "Push 通知",
-      "zh-HK": "Push 通知"
+      "zh-CN": "推送通知",
+      "zh-HK": "推送通知"
     },
     "Push token": {
       "es": "Token push",
@@ -3757,8 +3747,8 @@
       "ko": "푸시 토큰",
       "fr": "Token push",
       "tr": "Push token",
-      "zh-CN": "Push 令牌",
-      "zh-HK": "Push 權杖"
+      "zh-CN": "推送令牌",
+      "zh-HK": "推送權杖"
     },
     "Queued": {
       "es": "En cola",
@@ -3771,14 +3761,14 @@
       "zh-HK": "已排隊"
     },
     "Quickstart your Journey": {
-      "es": "Inicia rápidamente tu Journey",
+      "es": "Inicia rápidamente tu Recorrido",
       "ja": "ジャーニーをクイックスタート",
-      "pt": "Inicie rapidamente seu Journey",
+      "pt": "Inicie rapidamente sua Jornada",
       "ko": "저니 빠른 시작",
-      "fr": "Démarrer rapidement votre Journey",
-      "tr": "Journey'inizi hızlıca başlatın",
-      "zh-CN": "快速启动您的 Journey",
-      "zh-HK": "快速啟動您的 Journey"
+      "fr": "Démarrer rapidement votre Parcours",
+      "tr": "Yolculuğunuzu hızlıca başlatın",
+      "zh-CN": "快速启动您的旅程",
+      "zh-HK": "快速啟動您的旅程"
     },
     "Reach targeted audience based on user properties or events from data tags": {
       "es": "Alcanza audiencias específicas según propiedades o eventos de etiquetas de datos",
@@ -4187,8 +4177,8 @@
       "ko": "세그먼트",
       "fr": "Segment",
       "tr": "Segment",
-      "zh-CN": "Segment",
-      "zh-HK": "Segment"
+      "zh-CN": "用户分群",
+      "zh-HK": "用戶分群"
     },
     "Segment Name": {
       "es": "Nombre del segmento",
@@ -4197,8 +4187,8 @@
       "ko": "세그먼트 이름",
       "fr": "Nom du segment",
       "tr": "Segment adı",
-      "zh-CN": "Segment 名称",
-      "zh-HK": "Segment 名稱"
+      "zh-CN": "用户分群名称",
+      "zh-HK": "用戶分群名稱"
     },
     "Segments": {
       "es": "Segmentos",
@@ -4207,8 +4197,8 @@
       "ko": "세그먼트",
       "fr": "Segments",
       "tr": "Segmentler",
-      "zh-CN": "Segment",
-      "zh-HK": "Segment"
+      "zh-CN": "用户分群",
+      "zh-HK": "用戶分群"
     },
     "Select": {
       "es": "Seleccionar",
@@ -4267,8 +4257,8 @@
       "ko": "테스트 이메일 발송",
       "fr": "Envoyer un email de test",
       "tr": "Test emaili gönder",
-      "zh-CN": "发送测试 Email",
-      "zh-HK": "發送測試 Email"
+      "zh-CN": "发送测试电子邮件",
+      "zh-HK": "發送測試電郵"
     },
     "Send Test Push": {
       "es": "Enviar push de prueba",
@@ -4277,8 +4267,8 @@
       "ko": "테스트 푸시 발송",
       "fr": "Envoyer un push de test",
       "tr": "Test push'u gönder",
-      "zh-CN": "发送测试 Push",
-      "zh-HK": "發送測試 Push"
+      "zh-CN": "发送测试推送",
+      "zh-HK": "發送測試推送"
     },
     "Send to All Subscribers": {
       "es": "Enviar a todos los suscriptores",
@@ -4637,8 +4627,8 @@
       "ko": "SMS / RCS",
       "fr": "SMS / RCS",
       "tr": "SMS / RCS",
-      "zh-CN": "SMS / RCS",
-      "zh-HK": "SMS / RCS"
+      "zh-CN": "短信 / 富媒体短信",
+      "zh-HK": "短訊 / 富媒體短訊"
     },
     "Sound": {
       "es": "Sonido",
@@ -5147,8 +5137,8 @@
       "ko": "총 웹 푸시 구독자",
       "fr": "Total des abonnés push web",
       "tr": "Toplam web push aboneleri",
-      "zh-CN": "Web Push 订阅者总数",
-      "zh-HK": "Web Push 訂閱者總數"
+      "zh-CN": "Web 推送订阅者总数",
+      "zh-HK": "Web 推送訂閱者總數"
     },
     "Trigger": {
       "es": "Disparador",
@@ -5517,8 +5507,8 @@
       "ko": "웹 푸시 구독자",
       "fr": "Abonnés push web",
       "tr": "Web push aboneleri",
-      "zh-CN": "Web Push 订阅者",
-      "zh-HK": "Web Push 訂閱者"
+      "zh-CN": "Web 推送订阅者",
+      "zh-HK": "Web 推送訂閱者"
     },
     "Webhook": {
       "es": "Webhook",
@@ -5627,8 +5617,8 @@
       "ko": "모바일 및 웹 푸시를 한 곳에서 쉽게 관리하세요",
       "fr": "Gérez facilement le push mobile et web depuis un seul endroit",
       "tr": "Mobil ve web push'u tek bir yerden kolayca yönetin",
-      "zh-CN": "在一处轻松管理移动和 Web Push",
-      "zh-HK": "在一處輕鬆管理移動和 Web Push"
+      "zh-CN": "在一处轻松管理移动和 Web 推送",
+      "zh-HK": "在一處輕鬆管理移動和 Web 推送"
     },
     "Unlimited push for real-time updates, alerts, and more": {
       "ja": "リアルタイムの更新・アラートなどをプッシュ数の制限なく配信",
@@ -5637,8 +5627,8 @@
       "ko": "실시간 업데이트, 알림 등을 위한 무제한 푸시",
       "fr": "Push illimité pour les mises à jour en temps réel, alertes et plus",
       "tr": "Gerçek zamanlı güncellemeler, uyarılar ve daha fazlası için sınırsız push",
-      "zh-CN": "无限 Push 用于实时更新、提醒等",
-      "zh-HK": "無限 Push 用於即時更新、提醒等"
+      "zh-CN": "无限推送用于实时更新、提醒等",
+      "zh-HK": "無限推送用於即時更新、提醒等"
     },
     "Set Up Push": {
       "ja": "プッシュをセットアップ",
@@ -5647,8 +5637,8 @@
       "ko": "푸시 설정",
       "fr": "Configurer le push",
       "tr": "Push'u kur",
-      "zh-CN": "设置 Push",
-      "zh-HK": "設定 Push"
+      "zh-CN": "设置推送",
+      "zh-HK": "設定推送"
     },
     "Push setup documentation": {
       "ja": "プッシュセットアップドキュメント",
@@ -5657,8 +5647,8 @@
       "ko": "푸시 설정 문서",
       "fr": "Documentation de configuration push",
       "tr": "Push kurulum dokümantasyonu",
-      "zh-CN": "Push 设置文档",
-      "zh-HK": "Push 設定文件"
+      "zh-CN": "推送设置文档",
+      "zh-HK": "推送設定文件"
     },
     "Hi! Let's get started": {
       "ja": "こんにちは！さっそく始めましょう",
@@ -5707,8 +5697,8 @@
       "ko": "푸시 알림",
       "fr": "Notifications push",
       "tr": "Push bildirimleri",
-      "zh-CN": "Push 通知",
-      "zh-HK": "Push 通知"
+      "zh-CN": "推送通知",
+      "zh-HK": "推送通知"
     },
     "In-app messages": {
       "ja": "アプリ内メッセージ",
@@ -5737,8 +5727,8 @@
       "ko": "모바일 및 웹 푸시로 사용자를 다시 유도하세요.",
       "fr": "Faites revenir vos utilisateurs avec le push mobile et web.",
       "tr": "Mobil ve web push ile kullanıcılarınızı geri getirin.",
-      "zh-CN": "通过移动和 Web Push 让用户回归。",
-      "zh-HK": "透過移動和 Web Push 讓用戶回歸。"
+      "zh-CN": "通过移动和 Web 推送让用户回归。",
+      "zh-HK": "透過移動和 Web 推送讓用戶回歸。"
     },
     "Craft sophisticated professional emails with no code.": {
       "ja": "コードなしでプロフェッショナルなメールを作成。",
@@ -5747,8 +5737,8 @@
       "ko": "코딩 없이 전문적인 이메일을 작성하세요.",
       "fr": "Créez des emails professionnels élaborés sans code.",
       "tr": "Kod yazmadan sofistike profesyonel emailler hazırlayın.",
-      "zh-CN": "无需代码即可制作精美的专业 Email。",
-      "zh-HK": "無需代碼即可製作精美的專業 Email。"
+      "zh-CN": "无需代码即可制作精美的专业电子邮件。",
+      "zh-HK": "無需代碼即可製作精美的專業電郵。"
     },
     "Directly reach your audience in an effective, mobile-first way.": {
       "ja": "モバイルファーストな方法で効果的にオーディエンスに直接リーチ。",
@@ -5772,13 +5762,13 @@
     },
     "Send a quick message or setup automated messaging with Journeys": {
       "ja": "クイックメッセージを送信するか、ジャーニーで自動メッセージを設定する",
-      "es": "Envía un mensaje rápido o configura mensajes automatizados con Journeys",
-      "pt": "Envie uma mensagem rápida ou configure mensagens automatizadas com Journeys",
+      "es": "Envía un mensaje rápido o configura mensajes automatizados con Recorridos",
+      "pt": "Envie uma mensagem rápida ou configure mensagens automatizadas com Jornadas",
       "ko": "빠른 메시지를 보내거나 저니로 자동화 메시지를 설정하세요",
-      "fr": "Envoyez un message rapide ou configurez la messagerie automatisée avec Journeys",
-      "tr": "Hızlı bir mesaj gönderin veya Journeys ile otomatik mesajlaşma kurun",
-      "zh-CN": "发送快速消息或使用 Journeys 设置自动化消息",
-      "zh-HK": "發送快速訊息或使用 Journeys 設定自動化訊息"
+      "fr": "Envoyez un message rapide ou configurez la messagerie automatisée avec Parcours",
+      "tr": "Hızlı bir mesaj gönderin veya Yolculuklar ile otomatik mesajlaşma kurun",
+      "zh-CN": "发送快速消息或使用旅程设置自动化消息",
+      "zh-HK": "發送快速訊息或使用旅程設定自動化訊息"
     },
     "Read our quickstart documentation": {
       "ja": "クイックスタートドキュメントを読む",
@@ -5797,8 +5787,8 @@
       "ko": "이메일 - 활성 - 클릭하여 설정 관리",
       "fr": "Email - Actif - Cliquez pour gérer les paramètres",
       "tr": "Email - Aktif - Ayarları yönetmek için tıklayın",
-      "zh-CN": "Email - 活跃 - 点击管理设置",
-      "zh-HK": "Email - 活躍 - 點擊管理設定"
+      "zh-CN": "电子邮件 - 活跃 - 点击管理设置",
+      "zh-HK": "電郵 - 活躍 - 點擊管理設定"
     },
     "In-app messages - Not configured - Click to set up": {
       "ja": "アプリ内メッセージ - 未設定 - クリックしてセットアップ",
@@ -5817,8 +5807,8 @@
       "ko": "푸시 알림 - 미구성 - 클릭하여 설정",
       "fr": "Notifications push - Non configuré - Cliquez pour configurer",
       "tr": "Push bildirimleri - Yapılandırılmadı - Kurmak için tıklayın",
-      "zh-CN": "Push 通知 - 未配置 - 点击设置",
-      "zh-HK": "Push 通知 - 未配置 - 點擊設定"
+      "zh-CN": "推送通知 - 未配置 - 点击设置",
+      "zh-HK": "推送通知 - 未配置 - 點擊設定"
     },
     "SMS / RCS - Not configured - Click to set up": {
       "ja": "SMS / RCS - 未設定 - クリックしてセットアップ",
@@ -5827,8 +5817,8 @@
       "ko": "SMS / RCS - 미구성 - 클릭하여 설정",
       "fr": "SMS / RCS - Non configuré - Cliquez pour configurer",
       "tr": "SMS / RCS - Yapılandırılmadı - Kurmak için tıklayın",
-      "zh-CN": "SMS / RCS - 未配置 - 点击设置",
-      "zh-HK": "SMS / RCS - 未配置 - 點擊設定"
+      "zh-CN": "短信 / 富媒体短信 - 未配置 - 点击设置",
+      "zh-HK": "短訊 / 富媒體短訊 - 未配置 - 點擊設定"
     },
     "Account options": {
       "ja": "アカウントオプション",
@@ -6044,7 +6034,7 @@
       "ja": "インテグレーションを追加",
       "es": "Agregar integración",
       "pt": "Adicionar integração",
-      "ko": "통합 추가",
+      "ko": "연동 추가",
       "fr": "Ajouter une intégration",
       "tr": "Entegrasyon ekle",
       "zh-CN": "添加集成",
@@ -6054,7 +6044,7 @@
       "ja": "インテグレーションを検索...",
       "es": "Buscar integraciones...",
       "pt": "Pesquisar integrações...",
-      "ko": "통합 검색...",
+      "ko": "연동 검색...",
       "fr": "Rechercher des intégrations...",
       "tr": "Entegrasyonlarda ara...",
       "zh-CN": "搜索集成...",
@@ -6084,7 +6074,7 @@
       "ja": "インテグレーションを設定すると、そのステータスがここに表示されます。",
       "es": "Cuando configures una integración, su estado se mostrará aquí.",
       "pt": "Quando você configurar uma integração, seu status será exibido aqui.",
-      "ko": "통합을 구성하면 여기에 상태가 표시됩니다.",
+      "ko": "연동을 구성하면 여기에 상태가 표시됩니다.",
       "fr": "Lorsque vous configurez une intégration, son statut s'affichera ici.",
       "tr": "Bir entegrasyonu yapılandırdığınızda, durumu burada görüntülenir.",
       "zh-CN": "配置集成后，其状态将显示在此处。",
@@ -6094,7 +6084,7 @@
       "ja": "インテグレーションを接続",
       "es": "Conectar integración",
       "pt": "Conectar integração",
-      "ko": "통합 연결",
+      "ko": "연동 연결",
       "fr": "Connecter une intégration",
       "tr": "Entegrasyon bağla",
       "zh-CN": "连接集成",
@@ -6102,13 +6092,13 @@
     },
     "Connect Journeys to other systems": {
       "ja": "ジャーニーを他のシステムに接続",
-      "es": "Conectar Journeys a otros sistemas",
-      "pt": "Conectar Journeys a outros sistemas",
+      "es": "Conectar Recorridos a otros sistemas",
+      "pt": "Conectar Jornadas a outros sistemas",
       "ko": "저니를 다른 시스템에 연결하세요",
-      "fr": "Connecter Journeys à d'autres systèmes",
-      "tr": "Journeys'i diğer sistemlere bağlayın",
-      "zh-CN": "将 Journeys 连接到其他系统",
-      "zh-HK": "將 Journeys 連接到其他系統"
+      "fr": "Connecter Parcours à d'autres systèmes",
+      "tr": "Yolculukları diğer sistemlere bağlayın",
+      "zh-CN": "将旅程连接到其他系统",
+      "zh-HK": "將旅程連接到其他系統"
     },
     "Gain real-time insights within the Events List": {
       "ja": "イベントリスト内でリアルタイムのインサイトを取得",
@@ -6132,39 +6122,39 @@
     },
     "Journey Webhooks send HTTP requests from OneSignal Journeys to your servers or external services.": {
       "ja": "ジャーニーWebhookは、OneSignalジャーニーからサーバーや外部サービスにHTTPリクエストを送信します。",
-      "es": "Los Journey Webhooks envían solicitudes HTTP desde OneSignal Journeys a tus servidores o servicios externos.",
-      "pt": "Os Journey Webhooks enviam solicitações HTTP dos Journeys do OneSignal para seus servidores ou serviços externos.",
+      "es": "Los Webhooks de Recorrido envían solicitudes HTTP desde OneSignal Recorridos a tus servidores o servicios externos.",
+      "pt": "Os Webhooks de Jornada enviam solicitações HTTP das Jornadas do OneSignal para seus servidores ou serviços externos.",
       "ko": "저니 웹훅은 OneSignal 저니에서 서버 또는 외부 서비스로 HTTP 요청을 전송합니다.",
-      "fr": "Les Journey Webhooks envoient des requêtes HTTP depuis OneSignal Journeys vers vos serveurs ou services externes.",
-      "tr": "Journey Webhook'ları, OneSignal Journeys'ten sunucularınıza veya harici hizmetlere HTTP istekleri gönderir.",
-      "zh-CN": "Journey Webhook 从 OneSignal Journeys 向您的服务器或外部服务发送 HTTP 请求。",
-      "zh-HK": "Journey Webhook 從 OneSignal Journeys 向您的伺服器或外部服務發送 HTTP 請求。"
+      "fr": "Les Webhooks de Parcours envoient des requêtes HTTP depuis OneSignal Parcours vers vos serveurs ou services externes.",
+      "tr": "Yolculuk Webhook'ları, OneSignal Yolculuklardan sunucularınıza veya harici hizmetlere HTTP istekleri gönderir.",
+      "zh-CN": "旅程 Webhook 从 OneSignal 旅程向您的服务器或外部服务发送 HTTP 请求。",
+      "zh-HK": "旅程 Webhook 從 OneSignal 旅程向您的伺服器或外部服務發送 HTTP 請求。"
     },
     "Orchestrate messages across platforms (e.g., WhatsApp, direct mail) by configuring a webhook for a Journey": {
       "ja": "ジャーニーのWebhookを設定して、複数のプラットフォーム（例：WhatsApp、ダイレクトメール）でメッセージを調整する",
-      "es": "Orquesta mensajes en distintas plataformas (p. ej., WhatsApp, correo directo) configurando un webhook para un Journey",
-      "pt": "Orquestre mensagens em diferentes plataformas (ex.: WhatsApp, mala direta) configurando um webhook para um Journey",
+      "es": "Orquesta mensajes en distintas plataformas (p. ej., WhatsApp, correo directo) configurando un webhook para un Recorrido",
+      "pt": "Orquestre mensagens em diferentes plataformas (ex.: WhatsApp, mala direta) configurando um webhook para uma Jornada",
       "ko": "저니에 웹훅을 구성하여 플랫폼 간 (예: WhatsApp, 다이렉트 메일) 메시지를 조율하세요",
-      "fr": "Orchestrez les messages sur plusieurs plateformes (par ex. WhatsApp, courrier postal) en configurant un webhook pour un Journey",
-      "tr": "Bir Journey için webhook yapılandırarak farklı platformlarda (örn. WhatsApp, posta) mesajları orkestra edin",
-      "zh-CN": "通过为 Journey 配置 Webhook 在跨平台（如 WhatsApp、邮件）编排消息",
-      "zh-HK": "透過為 Journey 配置 Webhook 在跨平台（如 WhatsApp、郵件）編排訊息"
+      "fr": "Orchestrez les messages sur plusieurs plateformes (par ex. WhatsApp, courrier postal) en configurant un webhook pour un Parcours",
+      "tr": "Bir Yolculuk için webhook yapılandırarak farklı platformlarda (örn. WhatsApp, posta) mesajları orkestra edin",
+      "zh-CN": "通过为旅程配置 Webhook 在跨平台（如 WhatsApp、邮件）编排消息",
+      "zh-HK": "透過為旅程配置 Webhook 在跨平台（如 WhatsApp、郵件）編排訊息"
     },
     "Power Journeys with events—begin, hold, or exit user flows": {
       "ja": "イベントでジャーニーを強化する——ユーザーフローの開始、保留、または終了",
-      "es": "Potencia los Journeys con eventos: inicia, detiene o sale de los flujos de usuarios",
-      "pt": "Potencialize Journeys com eventos — iniciar, pausar ou sair de fluxos de usuários",
+      "es": "Potencia los Recorridos con eventos: inicia, detiene o sale de los flujos de usuarios",
+      "pt": "Potencialize Jornadas com eventos — iniciar, pausar ou sair de fluxos de usuários",
       "ko": "이벤트로 저니를 강화하세요—사용자 흐름을 시작, 유지 또는 종료하세요",
-      "fr": "Alimentez les Journeys avec des événements — démarrer, suspendre ou sortir des flux utilisateurs",
-      "tr": "Journeys'leri etkinliklerle güçlendirin — kullanıcı akışlarını başlatın, duraklatın veya bunlardan çıkın",
-      "zh-CN": "通过事件驱动 Journeys — 启动、暂停或退出用户流程",
-      "zh-HK": "透過事件驅動 Journeys — 啟動、暫停或退出用戶流程"
+      "fr": "Alimentez les Parcours avec des événements — démarrer, suspendre ou sortir des flux utilisateurs",
+      "tr": "Yolculuklarını etkinliklerle güçlendirin — kullanıcı akışlarını başlatın, duraklatın veya bunlardan çıkın",
+      "zh-CN": "通过事件驱动旅程 — 启动、暂停或退出用户流程",
+      "zh-HK": "透過事件驅動旅程 — 啟動、暫停或退出用戶流程"
     },
     "Seamlessly integrate with APIs, SDKs, or tools like Segment": {
       "ja": "API、SDK、またはSegmentなどのツールとシームレスに統合する",
       "es": "Integra fácilmente con APIs, SDKs o herramientas como Segment",
       "pt": "Integre facilmente com APIs, SDKs ou ferramentas como o Segment",
-      "ko": "API, SDK 또는 Segment와 같은 도구와 원활하게 통합하세요",
+      "ko": "API, SDK 또는 Segment와 같은 도구와 원활하게 연동하세요",
       "fr": "Intégrez en toute simplicité avec des API, SDK ou outils comme Segment",
       "tr": "API'ler, SDK'ler veya Segment gibi araçlarla sorunsuz şekilde entegre olun",
       "zh-CN": "与 API、SDK 或 Segment 等工具无缝集成",
@@ -6182,13 +6172,13 @@
     },
     "Trigger profile updates or events in other tools based on customer movement through a Journey": {
       "ja": "ジャーニーにおける顧客の動きに基づいて、他のツールでプロフィール更新やイベントをトリガーする",
-      "es": "Activa actualizaciones de perfil o eventos en otras herramientas según el movimiento del cliente en un Journey",
-      "pt": "Acione atualizações de perfil ou eventos em outras ferramentas com base no movimento do cliente em um Journey",
+      "es": "Activa actualizaciones de perfil o eventos en otras herramientas según el movimiento del cliente en un Recorrido",
+      "pt": "Acione atualizações de perfil ou eventos em outras ferramentas com base no movimento do cliente em uma Jornada",
       "ko": "저니를 통한 고객 이동을 기반으로 다른 도구에서 프로필 업데이트 또는 이벤트를 트리거하세요",
-      "fr": "Déclenchez des mises à jour de profil ou des événements dans d'autres outils en fonction du parcours du client dans un Journey",
-      "tr": "Bir Journey boyunca müşteri hareketine göre diğer araçlarda profil güncellemelerini veya etkinlikleri tetikleyin",
-      "zh-CN": "根据客户在 Journey 中的活动，在其他工具中触发资料更新或事件",
-      "zh-HK": "根據客戶在 Journey 中的活動，在其他工具中觸發資料更新或事件"
+      "fr": "Déclenchez des mises à jour de profil ou des événements dans d'autres outils en fonction du parcours du client dans un Parcours",
+      "tr": "Bir Yolculuk boyunca müşteri hareketine göre diğer araçlarda profil güncellemelerini veya etkinlikleri tetikleyin",
+      "zh-CN": "根据客户在旅程中的活动，在其他工具中触发资料更新或事件",
+      "zh-HK": "根據客戶在旅程中的活動，在其他工具中觸發資料更新或事件"
     },
     "Webhooks documentation": {
       "ja": "Webhooksドキュメント",
@@ -6267,8 +6257,8 @@
       "ko": "이메일 공급업체 평가",
       "fr": "Évaluer les fournisseurs d'email",
       "tr": "Email sağlayıcılarını değerlendirin",
-      "zh-CN": "评估 Email 提供商",
-      "zh-HK": "評估 Email 提供商"
+      "zh-CN": "评估电子邮件提供商",
+      "zh-HK": "評估電郵提供商"
     },
     "Explore what matters most when picking an email platform for your business.": {
       "ja": "ビジネスに合ったメールプラットフォームを選ぶ際に重要なことを確認。",
@@ -6277,8 +6267,8 @@
       "ko": "비즈니스에 맞는 이메일 플랫폼을 선택할 때 가장 중요한 것을 알아보세요.",
       "fr": "Découvrez ce qui compte le plus pour choisir une plateforme email pour votre entreprise.",
       "tr": "İşiniz için bir email platformu seçerken en önemli olanı keşfedin.",
-      "zh-CN": "探索为您的业务选择 Email 平台时最重要的因素。",
-      "zh-HK": "探索為您的業務選擇 Email 平台時最重要的因素。"
+      "zh-CN": "探索为您的业务选择电子邮件平台时最重要的因素。",
+      "zh-HK": "探索為您的業務選擇電郵平台時最重要的因素。"
     },
     "Get started with email": {
       "ja": "メールを始める",
@@ -6287,8 +6277,8 @@
       "ko": "이메일 시작하기",
       "fr": "Démarrer avec l'email",
       "tr": "Email ile başlayın",
-      "zh-CN": "开始使用 Email",
-      "zh-HK": "開始使用 Email"
+      "zh-CN": "开始使用电子邮件",
+      "zh-HK": "開始使用電郵"
     },
     "Learn how to warm up your domain to ensure reliable email performance.": {
       "ja": "安定したメールパフォーマンスを確保するためのドメインウォームアップの方法を確認。",
@@ -6297,8 +6287,8 @@
       "ko": "안정적인 이메일 성능을 보장하기 위해 도메인을 워밍업하는 방법을 알아보세요.",
       "fr": "Apprenez comment chauffer votre domaine pour garantir des performances email fiables.",
       "tr": "Güvenilir email performansı sağlamak için etki alanınızı nasıl ısıtacağınızı öğrenin.",
-      "zh-CN": "了解如何预热您的域名以确保可靠的 Email 性能。",
-      "zh-HK": "了解如何預熱您的網域以確保可靠的 Email 表現。"
+      "zh-CN": "了解如何预热您的域名以确保可靠的电子邮件性能。",
+      "zh-HK": "了解如何預熱您的網域以確保可靠的電郵表現。"
     },
     "Make sure you can send emails from this domain": {
       "ja": "このドメインからメールを送信できることを確認してください",
@@ -6307,8 +6297,8 @@
       "ko": "이 도메인에서 이메일을 발송할 수 있는지 확인하세요",
       "fr": "Vérifiez que vous pouvez envoyer des emails depuis ce domaine",
       "tr": "Bu etki alanından email gönderebildiğinizden emin olun",
-      "zh-CN": "确保您可以从此域名发送 Email",
-      "zh-HK": "確保您可以從此網域發送 Email"
+      "zh-CN": "确保您可以从此域名发送电子邮件",
+      "zh-HK": "確保您可以從此網域發送電郵"
     },
     "Send and track your first email": {
       "ja": "最初のメールを送信して追跡",
@@ -6317,8 +6307,8 @@
       "ko": "첫 번째 이메일 발송 및 추적",
       "fr": "Envoyez et suivez votre premier email",
       "tr": "İlk emailinizi gönderin ve takip edin",
-      "zh-CN": "发送并追踪您的第一封 Email",
-      "zh-HK": "發送並追蹤您的第一封 Email"
+      "zh-CN": "发送并追踪您的第一封电子邮件",
+      "zh-HK": "發送並追蹤您的第一封電郵"
     },
     "Send engaging emails to your users. Start by sending your first test email to see how it works.": {
       "ja": "ユーザーへの魅力的なメールを送信します。まずテストメールを送って動作を確認します。",
@@ -6327,8 +6317,8 @@
       "ko": "사용자에게 매력적인 이메일을 보내세요. 먼저 테스트 이메일을 발송하여 작동 방식을 확인하세요.",
       "fr": "Envoyez des emails engageants à vos utilisateurs. Commencez par envoyer votre premier email de test pour voir comment cela fonctionne.",
       "tr": "Kullanıcılarınıza ilgi çekici emailler gönderin. Nasıl çalıştığını görmek için ilk test emailinizi göndererek başlayın.",
-      "zh-CN": "向您的用户发送精彩的 Email。先发送第一封测试 Email 看看效果。",
-      "zh-HK": "向您的用戶發送精彩的 Email。先發送第一封測試 Email 看看效果。"
+      "zh-CN": "向您的用户发送精彩的电子邮件。先发送第一封测试电子邮件看看效果。",
+      "zh-HK": "向您的用戶發送精彩的電郵。先發送第一封測試電郵看看效果。"
     },
     "Send with confidence": {
       "ja": "自信を持って送信",
@@ -6347,8 +6337,8 @@
       "ko": "메시지가 발송될 이메일 주소를 설정하세요",
       "fr": "Définissez l'adresse email depuis laquelle vos messages seront envoyés",
       "tr": "Mesajlarınızın gönderileceği email adresini belirleyin",
-      "zh-CN": "设置消息发送源 Email 地址",
-      "zh-HK": "設定訊息發送源 Email 地址"
+      "zh-CN": "设置消息发送源电子邮件地址",
+      "zh-HK": "設定訊息發送源電郵地址"
     },
     "Set up your email sender and domain": {
       "ja": "メールの送信者とドメインを設定",
@@ -6357,8 +6347,8 @@
       "ko": "이메일 발신자 및 도메인 설정",
       "fr": "Configurer votre expéditeur email et votre domaine",
       "tr": "Email göndereninizi ve etki alanınızı kurun",
-      "zh-CN": "设置您的 Email 发件人和域名",
-      "zh-HK": "設定您的 Email 發件人和網域"
+      "zh-CN": "设置您的电子邮件发件人和域名",
+      "zh-HK": "設定您的電郵發件人和網域"
     },
     "Start sending to your audience. You're all set to send emails!": {
       "ja": "オーディエンスへの送信を開始します。メールを送信する準備が整いました！",
@@ -6367,8 +6357,8 @@
       "ko": "대상에게 발송을 시작하세요. 이메일 발송 준비가 완료되었습니다!",
       "fr": "Commencez à envoyer à votre audience. Vous êtes prêt à envoyer des emails !",
       "tr": "Hedef kitlenize göndermeye başlayın. Email göndermeye hazırsınız!",
-      "zh-CN": "开始向您的受众发送。一切准备就绪，可以开始发送 Email 了！",
-      "zh-HK": "開始向您的受眾發送。一切準備就緒，可以開始發送 Email 了！"
+      "zh-CN": "开始向您的受众发送。一切准备就绪，可以开始发送电子邮件了！",
+      "zh-HK": "開始向您的受眾發送。一切準備就緒，可以開始發送電郵了！"
     },
     "We'll check if everything's set up correctly": {
       "ja": "すべてが正しく設定されているか確認します",
@@ -6407,8 +6397,8 @@
       "ko": "인앱 설정 문서",
       "fr": "Documentation de configuration In-App",
       "tr": "In-App kurulum dokümantasyonu",
-      "zh-CN": "In-App 设置文档",
-      "zh-HK": "In-App 設定文件"
+      "zh-CN": "应用内设置文档",
+      "zh-HK": "應用內設定文件"
     },
     "In-app for onboarding, trials, upsells, and more": {
       "ja": "オンボーディング、トライアル、アップセルなどにアプリ内メッセージを活用",
@@ -6437,8 +6427,8 @@
       "ko": "인앱 설정",
       "fr": "Configurer In-App",
       "tr": "In-App kur",
-      "zh-CN": "设置 In-App",
-      "zh-HK": "設定 In-App"
+      "zh-CN": "设置应用内",
+      "zh-HK": "設定應用內"
     },
     "Automate onboarding, re-engagement, and more": {
       "ja": "オンボーディング、再エンゲージメントなどを自動化する",
@@ -6492,13 +6482,13 @@
     },
     "Combine push, email, SMS, and in-app in a single Journey": {
       "ja": "プッシュ、メール、SMS、アプリ内を1つのジャーニーに組み合わせる",
-      "es": "Combina push, email, SMS y mensajes en la app en un solo Journey",
-      "pt": "Combine push, e-mail, SMS e mensagens no app em um único Journey",
+      "es": "Combina push, email, SMS y mensajes en la app en un solo Recorrido",
+      "pt": "Combine push, e-mail, SMS e mensagens no app em uma única Jornada",
       "ko": "단일 저니에서 푸시, 이메일, SMS 및 인앱을 결합하세요",
-      "fr": "Combinez push, email, SMS et in-app dans un seul Journey",
-      "tr": "Push, email, SMS ve in-app'i tek bir Journey'de birleştirin",
-      "zh-CN": "在单个 Journey 中组合 Push、Email、SMS 和 In-App",
-      "zh-HK": "在單個 Journey 中組合 Push、Email、SMS 和 In-App"
+      "fr": "Combinez push, email, SMS et in-app dans un seul Parcours",
+      "tr": "Push, email, SMS ve in-app'i tek bir Yolculukta birleştirin",
+      "zh-CN": "在单个旅程中组合推送、电子邮件、短信和应用内",
+      "zh-HK": "在單個旅程中組合推送、電郵、短訊和應用內"
     },
     "Create reusable messages": {
       "ja": "再利用可能なメッセージを作成",
@@ -6522,23 +6512,23 @@
     },
     "If you're ready to take your messaging to the next level, check out Journeys, our new automation tool.": {
       "ja": "メッセージングを次のレベルに引き上げる準備ができたら、新しい自動化ツール「ジャーニー」をご活用ください。",
-      "es": "Si estás listo para llevar tu mensajería al siguiente nivel, descubre Journeys, nuestra nueva herramienta de automatización.",
-      "pt": "Se você está pronto para levar suas mensagens ao próximo nível, confira o Journeys, nossa nova ferramenta de automação.",
+      "es": "Si estás listo para llevar tu mensajería al siguiente nivel, descubre Recorridos, nuestra nueva herramienta de automatización.",
+      "pt": "Se você está pronto para levar suas mensagens ao próximo nível, confira o Jornadas, nossa nova ferramenta de automação.",
       "ko": "메시지를 다음 단계로 끌어올릴 준비가 되었다면 새로운 자동화 도구인 저니를 확인하세요.",
-      "fr": "Si vous êtes prêt à passer votre messagerie au niveau supérieur, découvrez Journeys, notre nouvel outil d'automatisation.",
-      "tr": "Mesajlaşmanızı bir üst seviyeye taşımaya hazırsanız, yeni otomasyon aracımız Journeys'i inceleyin.",
-      "zh-CN": "如果您准备好将消息推送提升到一个新水平，请查看我们的新自动化工具 Journeys。",
-      "zh-HK": "如果您準備好將訊息推送提升到一個新水平，請查看我們的新自動化工具 Journeys。"
+      "fr": "Si vous êtes prêt à passer votre messagerie au niveau supérieur, découvrez Parcours, notre nouvel outil d'automatisation.",
+      "tr": "Mesajlaşmanızı bir üst seviyeye taşımaya hazırsanız, yeni otomasyon aracımız Yolculukları inceleyin.",
+      "zh-CN": "如果您准备好将消息推送提升到一个新水平，请查看我们的新自动化工具旅程。",
+      "zh-HK": "如果您準備好將訊息推送提升到一個新水平，請查看我們的新自動化工具旅程。"
     },
     "Journeys documentation": {
       "ja": "ジャーニーのドキュメント",
-      "es": "Documentación de Journeys",
-      "pt": "Documentação de Journeys",
+      "es": "Documentación de Recorridos",
+      "pt": "Documentação de Jornadas",
       "ko": "저니 문서",
-      "fr": "Documentation Journeys",
-      "tr": "Journeys dokümantasyonu",
-      "zh-CN": "Journeys 文档",
-      "zh-HK": "Journeys 文件"
+      "fr": "Documentation Parcours",
+      "tr": "Yolculuklar dokümantasyonu",
+      "zh-CN": "旅程文档",
+      "zh-HK": "旅程文件"
     },
     "New Automated Email": {
       "ja": "新しい自動メール",
@@ -6547,18 +6537,18 @@
       "ko": "새 자동화 이메일",
       "fr": "Nouvel email automatisé",
       "tr": "Yeni otomatik email",
-      "zh-CN": "新自动化 Email",
-      "zh-HK": "新自動化 Email"
+      "zh-CN": "新自动化电子邮件",
+      "zh-HK": "新自動化電郵"
     },
     "Or start with one of our quickstart Journeys": {
       "ja": "またはクイックスタートジャーニーの1つから始める",
-      "es": "O empieza con uno de nuestros Journeys de inicio rápido",
-      "pt": "Ou comece com um de nossos Journeys de início rápido",
+      "es": "O empieza con uno de nuestros Recorridos de inicio rápido",
+      "pt": "Ou comece com um de nossos Jornadas de início rápido",
       "ko": "또는 빠른 시작 저니 중 하나로 시작하세요",
-      "fr": "Ou commencez avec un de nos Journeys de démarrage rapide",
-      "tr": "Ya da hızlı başlangıç Journeys'lerinden biriyle başlayın",
-      "zh-CN": "或从我们的快速入门 Journeys 之一开始",
-      "zh-HK": "或從我們的快速入門 Journeys 之一開始"
+      "fr": "Ou commencez avec un de nos Parcours de démarrage rapide",
+      "tr": "Ya da hızlı başlangıç Yolculuklarınızdan biriyle başlayın",
+      "zh-CN": "或从我们的快速入门旅程之一开始",
+      "zh-HK": "或從我們的快速入門旅程之一開始"
     },
     "Re-engagement": {
       "ja": "再エンゲージメント",
@@ -6597,8 +6587,8 @@
       "ko": "푸시 및 이메일 메시지 표준 설정",
       "fr": "Définissez des standards de messages pour push et email",
       "tr": "Push ve email için mesaj standartları belirleyin",
-      "zh-CN": "为 Push 和 Email 设置消息标准",
-      "zh-HK": "為 Push 和 Email 設定訊息標準"
+      "zh-CN": "为推送和电子邮件设置消息标准",
+      "zh-HK": "為推送和電郵設定訊息標準"
     },
     "Your app is limited to 500,000 email sends a month. If you need help with your limit, contact our Support team.": {
       "ja": "アプリは月に50万件のメール送信に制限されています。制限についてご質問がある場合は、サポートチームにお問い合わせください。",
@@ -6607,8 +6597,8 @@
       "ko": "앱은 한 달에 최대 500,000개의 이메일을 발송할 수 있습니다. 한도에 대한 도움이 필요하면 지원팀에 문의하세요.",
       "fr": "Votre app est limitée à 500 000 envois d'email par mois. Si vous avez besoin d'aide avec votre limite, contactez notre équipe Support.",
       "tr": "Uygulamanız ayda 500.000 email gönderimi ile sınırlıdır. Limitinizle ilgili yardıma ihtiyacınız varsa, destek ekibimizle iletişime geçin.",
-      "zh-CN": "您的应用每月限制发送 500,000 封 Email。如需有关限额的帮助，请联系我们的支持团队。",
-      "zh-HK": "您的應用每月限制發送 500,000 封 Email。如需有關限額的協助，請聯絡我們的支援團隊。"
+      "zh-CN": "您的应用每月限制发送 500,000 封电子邮件。如需有关限额的帮助，请联系我们的支持团队。",
+      "zh-HK": "您的應用每月限制發送 500,000 封電郵。如需有關限額的協助，請聯絡我們的支援團隊。"
     },
     "Export a message list for your records": {
       "ja": "記録用のメッセージリストをエクスポート",
@@ -6727,8 +6717,8 @@
       "ko": "모든 이메일 구독",
       "fr": "Tous les abonnements email",
       "tr": "Tüm email abonelikleri",
-      "zh-CN": "所有 Email 订阅",
-      "zh-HK": "所有 Email 訂閱"
+      "zh-CN": "所有电子邮件订阅",
+      "zh-HK": "所有電郵訂閱"
     },
     "All SMS Subscriptions": {
       "ja": "すべてのSMS購読",
@@ -6737,8 +6727,8 @@
       "ko": "모든 SMS 구독",
       "fr": "Tous les abonnements SMS",
       "tr": "Tüm SMS abonelikleri",
-      "zh-CN": "所有 SMS 订阅",
-      "zh-HK": "所有 SMS 訂閱"
+      "zh-CN": "所有短信订阅",
+      "zh-HK": "所有短訊訂閱"
     },
     "Device Type is Email": {
       "ja": "デバイスタイプがメール",
@@ -6747,8 +6737,8 @@
       "ko": "기기 유형: 이메일",
       "fr": "Type d'appareil : Email",
       "tr": "Cihaz türü Email",
-      "zh-CN": "设备类型为 Email",
-      "zh-HK": "裝置類型為 Email"
+      "zh-CN": "设备类型为电子邮件",
+      "zh-HK": "裝置類型為電郵"
     },
     "Device Type is SMS": {
       "ja": "デバイスタイプがSMS",
@@ -6757,8 +6747,8 @@
       "ko": "기기 유형: SMS",
       "fr": "Type d'appareil : SMS",
       "tr": "Cihaz türü SMS",
-      "zh-CN": "设备类型为 SMS",
-      "zh-HK": "裝置類型為 SMS"
+      "zh-CN": "设备类型为短信",
+      "zh-HK": "裝置類型為短訊"
     },
     "Engaged Subscriptions": {
       "ja": "エンゲージドな購読",
@@ -6807,8 +6797,8 @@
       "ko": "빠른 시작 세그먼트 중 하나를 시도해 보세요",
       "fr": "Essayez un de nos segments de démarrage rapide",
       "tr": "Hızlı başlangıç segmentlerimizden birini deneyin",
-      "zh-CN": "试用我们的快速入门 Segment 之一",
-      "zh-HK": "試用我們的快速入門 Segment 之一"
+      "zh-CN": "试用我们的快速入门用户分群之一",
+      "zh-HK": "試用我們的快速入門用戶分群之一"
     },
     "Export a list of users": {
       "ja": "ユーザーリストをエクスポート",
@@ -6824,7 +6814,7 @@
       "ja": "SDKを統合",
       "es": "Integrar SDK",
       "pt": "Integrar SDK",
-      "ko": "SDK 통합",
+      "ko": "SDK 연동",
       "fr": "Intégrer le SDK",
       "tr": "SDK entegre et",
       "zh-CN": "集成 SDK",
@@ -6887,8 +6877,8 @@
       "ko": "데이터 피드를 통해 발송 시 API에서 동적으로 데이터를 가져올 수 있습니다.",
       "fr": "Les Flux de données vous permettent de récupérer dynamiquement des données depuis vos API au moment de l'envoi.",
       "tr": "Veri akışları, gönderim sırasında API'lerinizden dinamik olarak veri almanızı sağlar.",
-      "zh-CN": "Data Feed 允许您在发送时从 API 动态获取数据。",
-      "zh-HK": "Data Feed 允許您在發送時從 API 動態獲取資料。"
+      "zh-CN": "数据源允许您在发送时从 API 动态获取数据。",
+      "zh-HK": "資料來源允許您在發送時從 API 動態獲取資料。"
     },
     "Data Feeds documentation": {
       "ja": "データフィードのドキュメント",
@@ -6897,18 +6887,18 @@
       "ko": "데이터 피드 문서",
       "fr": "Documentation des Flux de données",
       "tr": "Veri akışları dokümantasyonu",
-      "zh-CN": "Data Feed 文档",
-      "zh-HK": "Data Feed 文件"
+      "zh-CN": "数据源文档",
+      "zh-HK": "資料來源文件"
     },
     "Insert real-time, dynamic content from your data feeds directly into the template at the time of sending. This feature only applies to templates sent through Journeys.": {
       "ja": "送信時にデータフィードからリアルタイムの動的コンテンツをテンプレートに直接挿入します。この機能はジャーニー経由で送信されるテンプレートにのみ適用されます。",
-      "es": "Inserta contenido dinámico y en tiempo real desde tus data feeds directamente en la plantilla al momento del envío. Esta función solo aplica a plantillas enviadas a través de Journeys.",
-      "pt": "Insira conteúdo dinâmico e em tempo real dos seus data feeds diretamente no modelo no momento do envio. Este recurso se aplica apenas a modelos enviados por Journeys.",
+      "es": "Inserta contenido dinámico y en tiempo real desde tus data feeds directamente en la plantilla al momento del envío. Esta función solo aplica a plantillas enviadas a través de Recorridos.",
+      "pt": "Insira conteúdo dinâmico e em tempo real dos seus data feeds diretamente no modelo no momento do envio. Este recurso se aplica apenas a modelos enviados por Jornadas.",
       "ko": "발송 시 데이터 피드에서 실시간 동적 콘텐츠를 템플릿에 직접 삽입하세요. 이 기능은 저니를 통해 발송된 템플릿에만 적용됩니다.",
-      "fr": "Insérez du contenu dynamique en temps réel depuis vos flux de données directement dans le modèle au moment de l'envoi. Cette fonctionnalité ne s'applique qu'aux modèles envoyés via Journeys.",
-      "tr": "Veri akışlarınızdan gerçek zamanlı, dinamik içeriği gönderim sırasında doğrudan şablona ekleyin. Bu özellik yalnızca Journeys aracılığıyla gönderilen şablonlar için geçerlidir.",
-      "zh-CN": "在发送时将来自数据源的实时动态内容直接插入模板。此功能仅适用于通过 Journeys 发送的模板。",
-      "zh-HK": "在發送時將來自 Data Feed 的即時動態內容直接插入範本。此功能僅適用於透過 Journeys 發送的範本。"
+      "fr": "Insérez du contenu dynamique en temps réel depuis vos flux de données directement dans le modèle au moment de l'envoi. Cette fonctionnalité ne s'applique qu'aux modèles envoyés via Parcours.",
+      "tr": "Veri akışlarınızdan gerçek zamanlı, dinamik içeriği gönderim sırasında doğrudan şablona ekleyin. Bu özellik yalnızca Yolculuklar aracılığıyla gönderilen şablonlar için geçerlidir.",
+      "zh-CN": "在发送时将来自数据源的实时动态内容直接插入模板。此功能仅适用于通过旅程发送的模板。",
+      "zh-HK": "在發送時將來自資料來源的即時動態內容直接插入範本。此功能僅適用於透過旅程發送的範本。"
     },
     "Needs Action": {
       "ja": "対応が必要",
@@ -6927,8 +6917,8 @@
       "ko": "아직 데이터 피드가 설정되지 않았습니다",
       "fr": "Vous n'avez encore configuré aucun flux de données",
       "tr": "Henüz kurulmuş bir veri akışınız yok",
-      "zh-CN": "您还没有设置任何 Data Feed",
-      "zh-HK": "您還沒有設定任何 Data Feed"
+      "zh-CN": "您还没有设置任何数据源",
+      "zh-HK": "您還沒有設定任何資料來源"
     },
     "Export subscriptions for push, email, and SMS": {
       "ja": "プッシュ、メール、SMSの購読をエクスポートする",
@@ -6937,8 +6927,8 @@
       "ko": "푸시, 이메일 및 SMS 구독 내보내기",
       "fr": "Exportez les abonnements pour push, email et SMS",
       "tr": "Push, email ve SMS için abonelikleri dışa aktarın",
-      "zh-CN": "导出 Push、Email 和 SMS 的订阅",
-      "zh-HK": "匯出 Push、Email 和 SMS 的訂閱"
+      "zh-CN": "导出推送、电子邮件和短信的订阅",
+      "zh-HK": "匯出推送、電郵和短訊的訂閱"
     },
     "See subscriber preferences at the channel level": {
       "ja": "チャネルレベルでの購読者の設定を確認",
@@ -6997,8 +6987,8 @@
       "ko": "이메일이 완벽한지 확인하세요",
       "fr": "Confirmez que les emails sont au pixel près",
       "tr": "Emaillerin piksel mükemmelliğinde olduğunu onaylayın",
-      "zh-CN": "确认 Email 像素级完美",
-      "zh-HK": "確認 Email 像素級完美"
+      "zh-CN": "确认电子邮件像素级完美",
+      "zh-HK": "確認電郵像素級完美"
     },
     "Manage test subscriptions to preview and send test messages.": {
       "ja": "テスト購読を管理して、テストメッセージをプレビューおよび送信する。",
@@ -7037,8 +7027,8 @@
       "ko": "개인화된 푸시 메시지 내용 테스트",
       "fr": "Tester du contenu de message push personnalisé",
       "tr": "Kişiselleştirilmiş push mesaj içeriğini test edin",
-      "zh-CN": "测试个性化 Push 消息内容",
-      "zh-HK": "測試個人化 Push 訊息內容"
+      "zh-CN": "测试个性化推送消息内容",
+      "zh-HK": "測試個人化推送訊息內容"
     },
     "Walkthrough your user journey on your own device, from message to conversion": {
       "ja": "メッセージからコンバージョンまで、自分のデバイスでユーザージャーニーをウォークスルー",
@@ -7057,8 +7047,8 @@
       "ko": "라이브 액티비티 문서",
       "fr": "Documentation Live Activities",
       "tr": "Live Activities dokümantasyonu",
-      "zh-CN": "Live Activities 文档",
-      "zh-HK": "Live Activities 文件"
+      "zh-CN": "实时活动文档",
+      "zh-HK": "即時動態文件"
     },
     "Book a demo": {
       "ja": "デモを予約",
@@ -7097,8 +7087,8 @@
       "ko": "Figma에서 RCS 디자인",
       "fr": "Concevoir RCS dans Figma",
       "tr": "Figma'da RCS tasarla",
-      "zh-CN": "在 Figma 中设计 RCS",
-      "zh-HK": "在 Figma 中設計 RCS"
+      "zh-CN": "在 Figma 中设计富媒体短信",
+      "zh-HK": "在 Figma 中設計富媒體短訊"
     },
     "Discover RCS": {
       "ja": "RCSを知る",
@@ -7107,8 +7097,8 @@
       "ko": "RCS 알아보기",
       "fr": "Découvrir RCS",
       "tr": "RCS'yi keşfet",
-      "zh-CN": "了解 RCS",
-      "zh-HK": "了解 RCS"
+      "zh-CN": "了解富媒体短信",
+      "zh-HK": "了解富媒體短訊"
     },
     "Discover what RCS can do": {
       "ja": "RCSでできることを確認",
@@ -7117,8 +7107,8 @@
       "ko": "RCS가 할 수 있는 것 알아보기",
       "fr": "Découvrir ce que RCS peut faire",
       "tr": "RCS'nin neler yapabileceğini keşfedin",
-      "zh-CN": "了解 RCS 的功能",
-      "zh-HK": "了解 RCS 的功能"
+      "zh-CN": "了解富媒体短信的功能",
+      "zh-HK": "了解富媒體短訊的功能"
     },
     "Explore RCS in Figma with ready-made components to prototype messaging flows tailored to your use case.": {
       "ja": "ユースケースに合わせたメッセージングフローをプロトタイプするための既製コンポーネントを使って、FigmaでRCSを探索します。",
@@ -7127,8 +7117,8 @@
       "ko": "사용 사례에 맞게 조정된 메시지 흐름을 프로토타입화하기 위해 준비된 컴포넌트로 Figma에서 RCS를 탐색하세요.",
       "fr": "Explorez RCS dans Figma avec des composants prêts à l'emploi pour prototyper des flux de messagerie adaptés à votre cas d'usage.",
       "tr": "Kullanım durumunuza özel mesajlaşma akışlarını prototiplemek için Figma'daki hazır bileşenlerle RCS'yi keşfedin.",
-      "zh-CN": "在 Figma 中使用现成的组件探索 RCS，为您的使用场景设计消息流程原型。",
-      "zh-HK": "在 Figma 中使用現成的組件探索 RCS，為您的使用場景設計訊息流程原型。"
+      "zh-CN": "在 Figma 中使用现成的组件探索富媒体短信，为您的使用场景设计消息流程原型。",
+      "zh-HK": "在 Figma 中使用現成的組件探索富媒體短訊，為您的使用場景設計訊息流程原型。"
     },
     "Get your brand on the lock screen": {
       "ja": "ブランドをロック画面に表示",
@@ -7177,8 +7167,8 @@
       "ko": "RCS는 SMS보다 최대 60% 더 많은 전환을 유도합니다. 브랜드가 리치 미디어 메시지를 사용하여 결과를 향상시키는 방법을 확인하세요.",
       "fr": "RCS génère jusqu'à 60 % de conversions en plus que les SMS. Découvrez comment les marques utilisent les messages enrichis pour de meilleurs résultats.",
       "tr": "RCS, SMS'e kıyasla %60'a kadar daha fazla dönüşüm sağlar. Markaların sonuçları artırmak için zengin medya mesajlarını nasıl kullandığını görün.",
-      "zh-CN": "RCS 比 SMS 提升高达 60% 的转化率。了解品牌如何使用富媒体消息提升效果。",
-      "zh-HK": "RCS 比 SMS 提升高達 60% 的轉換率。了解品牌如何使用富媒體訊息提升效果。"
+      "zh-CN": "富媒体短信比短信提升高达 60% 的转化率。了解品牌如何使用富媒体消息提升效果。",
+      "zh-HK": "富媒體短訊比短訊提升高達 60% 的轉換率。了解品牌如何使用富媒體訊息提升效果。"
     },
     "SMS / RCS documentation": {
       "ja": "SMS / RCSドキュメント",
@@ -7187,8 +7177,8 @@
       "ko": "SMS / RCS 문서",
       "fr": "Documentation SMS / RCS",
       "tr": "SMS / RCS dokümantasyonu",
-      "zh-CN": "SMS / RCS 文档",
-      "zh-HK": "SMS / RCS 文件"
+      "zh-CN": "短信 / 富媒体短信文档",
+      "zh-HK": "短訊 / 富媒體短訊文件"
     },
     "SMS for promos, security verifications, and more": {
       "ja": "プロモーション、セキュリティ認証などにSMSを活用",
@@ -7197,8 +7187,8 @@
       "ko": "프로모션, 보안 인증 등을 위한 SMS",
       "fr": "SMS pour les promotions, vérifications de sécurité, etc.",
       "tr": "Promosyonlar, güvenlik doğrulamaları ve daha fazlası için SMS",
-      "zh-CN": "SMS 用于促销、安全验证等",
-      "zh-HK": "SMS 用於促銷、安全驗證等"
+      "zh-CN": "短信用于促销、安全验证等",
+      "zh-HK": "短訊用於促銷、安全驗證等"
     },
     "SMS has the highest open and engagement rates": {
       "ja": "SMSは最も高い開封率とエンゲージメント率を誇ります",
@@ -7207,8 +7197,8 @@
       "ko": "SMS는 가장 높은 열람율 및 참여율을 자랑합니다",
       "fr": "Les SMS ont les taux d'ouverture et d'engagement les plus élevés",
       "tr": "SMS en yüksek açılma ve etkileşim oranlarına sahiptir",
-      "zh-CN": "SMS 拥有最高的打开率和互动率",
-      "zh-HK": "SMS 擁有最高的開啟率和互動率"
+      "zh-CN": "短信拥有最高的打开率和互动率",
+      "zh-HK": "短訊擁有最高的開啟率和互動率"
     },
     "See how SMS and RCS fit into your engagement strategy. Get expert tips on growing conversions and retention.": {
       "ja": "SMSとRCSがエンゲージメント戦略にどのように組み込まれるかをご覧ください。コンバージョンとリテンションを高めるための専門家のヒントをご紹介します。",
@@ -7217,8 +7207,8 @@
       "ko": "SMS와 RCS가 참여 전략에 어떻게 맞는지 알아보세요. 전환율과 유지율을 높이기 위한 전문가 팁을 얻으세요.",
       "fr": "Découvrez comment SMS et RCS s'intègrent dans votre stratégie d'engagement. Obtenez des conseils d'experts pour augmenter conversions et rétention.",
       "tr": "SMS ve RCS'nin etkileşim stratejinize nasıl uyduğunu görün. Dönüşüm ve elde tutmayı artırmak için uzman ipuçları alın.",
-      "zh-CN": "了解 SMS 和 RCS 如何契合您的互动策略。获取专家建议以提升转化率和留存率。",
-      "zh-HK": "了解 SMS 和 RCS 如何契合您的互動策略。獲取專家建議以提升轉換率和留存率。"
+      "zh-CN": "了解短信和富媒体短信如何契合您的互动策略。获取专家建议以提升转化率和留存率。",
+      "zh-HK": "了解短訊和富媒體短訊如何契合您的互動策略。獲取專家建議以提升轉換率和留存率。"
     },
     "Set Up SMS / RCS": {
       "ja": "SMS / RCSをセットアップ",
@@ -7227,8 +7217,8 @@
       "ko": "SMS / RCS 설정",
       "fr": "Configurer SMS / RCS",
       "tr": "SMS / RCS kur",
-      "zh-CN": "设置 SMS / RCS",
-      "zh-HK": "設定 SMS / RCS"
+      "zh-CN": "设置短信 / 富媒体短信",
+      "zh-HK": "設定短訊 / 富媒體短訊"
     },
     "Texts that work": {
       "ja": "効果的なテキストメッセージ",
@@ -7267,8 +7257,8 @@
       "ko": "Claude, ChatGPT, Cursor 또는 원하는 LLM 클라이언트를 MCP(Model Context Protocol)를 사용하여 OneSignal에 연결하세요. AI 어시스턴트에서 직접 메시지 전송, 사용자 관리, 세그먼트 생성 등을 수행할 수 있습니다.",
       "fr": "Connectez Claude, ChatGPT, Cursor ou tout autre client LLM de votre choix à OneSignal avec MCP (Model Context Protocol). Envoyez des messages, gérez les utilisateurs, créez des segments et plus encore directement depuis votre assistant IA.",
       "tr": "Claude, ChatGPT, Cursor veya seçtiğiniz herhangi bir LLM istemcisini MCP (Model Context Protocol) kullanarak OneSignal'e bağlayın. Yapay zeka asistanınızdan doğrudan mesaj gönderin, kullanıcıları yönetin, segmentler oluşturun ve daha fazlasını yapın.",
-      "zh-CN": "通过 MCP（Model Context Protocol）将 Claude、ChatGPT、Cursor 或您选择的任何 LLM 客户端连接到 OneSignal。直接从您的 AI 助手发送消息、管理用户、创建 Segment 等。",
-      "zh-HK": "透過 MCP（Model Context Protocol）將 Claude、ChatGPT、Cursor 或您選擇的任何 LLM 客戶端連接到 OneSignal。直接從您的 AI 助手發送訊息、管理用戶、建立 Segment 等。"
+      "zh-CN": "通过 MCP（Model Context Protocol）将 Claude、ChatGPT、Cursor 或您选择的任何 LLM 客户端连接到 OneSignal。直接从您的 AI 助手发送消息、管理用户、创建用户分群等。",
+      "zh-HK": "透過 MCP（Model Context Protocol）將 Claude、ChatGPT、Cursor 或您選擇的任何 LLM 客戶端連接到 OneSignal。直接從您的 AI 助手發送訊息、管理用戶、建立用戶分群等。"
     },
     "OneSignal Logo": {
       "ja": "OneSignalロゴ",
@@ -7467,8 +7457,8 @@
       "ko": "웹 푸시 (Apple Web)",
       "fr": "Web Push (Apple Web)",
       "tr": "Web Push (Apple Web)",
-      "zh-CN": "Web Push (Apple Web)",
-      "zh-HK": "Web Push (Apple Web)"
+      "zh-CN": "Web 推送 (Apple Web)",
+      "zh-HK": "Web 推送 (Apple Web)"
     },
     "Web Push (Chrome)": {
       "ja": "Webプッシュ (Chrome)",
@@ -7477,8 +7467,8 @@
       "ko": "웹 푸시 (Chrome)",
       "fr": "Web Push (Chrome)",
       "tr": "Web Push (Chrome)",
-      "zh-CN": "Web Push (Chrome)",
-      "zh-HK": "Web Push (Chrome)"
+      "zh-CN": "Web 推送 (Chrome)",
+      "zh-HK": "Web 推送 (Chrome)"
     },
     "Web Push (Firefox)": {
       "ja": "Webプッシュ (Firefox)",
@@ -7487,8 +7477,8 @@
       "ko": "웹 푸시 (Firefox)",
       "fr": "Web Push (Firefox)",
       "tr": "Web Push (Firefox)",
-      "zh-CN": "Web Push (Firefox)",
-      "zh-HK": "Web Push (Firefox)"
+      "zh-CN": "Web 推送 (Firefox)",
+      "zh-HK": "Web 推送 (Firefox)"
     },
     "Web Push (Edge)": {
       "ja": "Webプッシュ (Edge)",
@@ -7497,8 +7487,8 @@
       "ko": "웹 푸시 (Edge)",
       "fr": "Web Push (Edge)",
       "tr": "Web Push (Edge)",
-      "zh-CN": "Web Push (Edge)",
-      "zh-HK": "Web Push (Edge)"
+      "zh-CN": "Web 推送 (Edge)",
+      "zh-HK": "Web 推送 (Edge)"
     },
     "Web Browser": {
       "ja": "Webブラウザ",
@@ -7867,8 +7857,8 @@
       "ko": "세그먼트에 발송",
       "fr": "Envoyer à des segments",
       "tr": "Segmentlere gönder",
-      "zh-CN": "发送给 Segment",
-      "zh-HK": "發送給 Segment"
+      "zh-CN": "发送给用户分群",
+      "zh-HK": "發送給用戶分群"
     },
     "Start sending": {
       "ja": "発送開始",
@@ -7957,8 +7947,8 @@
       "ko": "새 세그먼트",
       "fr": "Nouveau segment",
       "tr": "Yeni segment",
-      "zh-CN": "新 Segment",
-      "zh-HK": "新 Segment"
+      "zh-CN": "新用户分群",
+      "zh-HK": "新用戶分群"
     },
     "App usage": {
       "ja": "アプリ使用状況",
@@ -8267,8 +8257,8 @@
       "ko": "AI 생성 푸시",
       "fr": "Push généré par IA",
       "tr": "Yapay zeka tarafından oluşturulan push",
-      "zh-CN": "AI 生成的 Push",
-      "zh-HK": "AI 生成的 Push"
+      "zh-CN": "AI 生成的推送",
+      "zh-HK": "AI 生成的推送"
     },
     "Blank Push": {
       "ja": "空のプッシュ",
@@ -8277,8 +8267,8 @@
       "ko": "빈 푸시",
       "fr": "Push vierge",
       "tr": "Boş push",
-      "zh-CN": "空白 Push",
-      "zh-HK": "空白 Push"
+      "zh-CN": "空白推送",
+      "zh-HK": "空白推送"
     },
     "Custom Events Ingestion": {
       "ja": "カスタムイベント取り込み",
@@ -8344,7 +8334,7 @@
       "ja": "この統合は配信統計を追跡しません。",
       "es": "Esta integración no rastrea estadísticas de entrega.",
       "pt": "Esta integração não rastreia estatísticas de entrega.",
-      "ko": "이 통합은 전달 통계를 추적하지 않습니다.",
+      "ko": "이 연동은 전달 통계를 추적하지 않습니다.",
       "fr": "Cette intégration ne suit pas les statistiques de livraison.",
       "tr": "Bu entegrasyon teslim istatistiklerini izlemez.",
       "zh-CN": "此集成不追踪送达统计。",
@@ -8387,8 +8377,8 @@
       "ko": "세그먼트를 찾을 수 없음",
       "fr": "Segment introuvable",
       "tr": "Segment bulunamadı",
-      "zh-CN": "未找到 Segment",
-      "zh-HK": "未找到 Segment"
+      "zh-CN": "未找到用户分群",
+      "zh-HK": "未找到用戶分群"
     },
     "Drag & drop editor": {
       "ja": "ドラッグ＆ドロップエディター",
@@ -8457,8 +8447,8 @@
       "ko": "어떤 세그먼트",
       "fr": "Quels segments",
       "tr": "Hangi segment(ler)",
-      "zh-CN": "哪个 Segment",
-      "zh-HK": "哪個 Segment"
+      "zh-CN": "哪个用户分群",
+      "zh-HK": "哪個用戶分群"
     },
     "custom events": {
       "ja": "カスタムイベント",
@@ -8617,8 +8607,8 @@
       "ko": "이메일 프리헤더 텍스트",
       "fr": "Texte du pré-en-tête de l'email",
       "tr": "Email ön başlık metni",
-      "zh-CN": "Email 预览文本",
-      "zh-HK": "Email 預覽文字"
+      "zh-CN": "电子邮件预览文本",
+      "zh-HK": "電郵預覽文字"
     },
     "Email subject line": {
       "ja": "メールの件名",
@@ -8627,8 +8617,8 @@
       "ko": "이메일 제목 줄",
       "fr": "Ligne d'objet de l'email",
       "tr": "Email konu satırı",
-      "zh-CN": "Email 主题行",
-      "zh-HK": "Email 主題列"
+      "zh-CN": "电子邮件主题行",
+      "zh-HK": "電郵主題列"
     },
     "Email users": {
       "ja": "メールユーザー",
@@ -8637,8 +8627,8 @@
       "ko": "이메일 사용자",
       "fr": "Utilisateurs email",
       "tr": "Email kullanıcıları",
-      "zh-CN": "Email 用户",
-      "zh-HK": "Email 用戶"
+      "zh-CN": "电子邮件用户",
+      "zh-HK": "電郵用戶"
     },
     "Event Filters Documentation": {
       "ja": "イベントフィルター文書",
@@ -8657,8 +8647,8 @@
       "ko": "세그먼트 제외",
       "fr": "Exclure le segment",
       "tr": "Segmenti hariç tut",
-      "zh-CN": "排除 Segment",
-      "zh-HK": "排除 Segment"
+      "zh-CN": "排除用户分群",
+      "zh-HK": "排除用戶分群"
     },
     "Goal Documentation": {
       "ja": "目標文書",
@@ -8687,8 +8677,8 @@
       "ko": "세그먼트 포함",
       "fr": "Inclure le segment",
       "tr": "Segmenti dahil et",
-      "zh-CN": "包含 Segment",
-      "zh-HK": "包含 Segment"
+      "zh-CN": "包含用户分群",
+      "zh-HK": "包含用戶分群"
     },
     "Include sending to unsubscribed users": {
       "ja": "購読解除済みユーザーへの送信を含める",
@@ -8707,8 +8697,8 @@
       "ko": "여기에서 세그먼트를 관리하세요.",
       "fr": "Gérez les segments ici.",
       "tr": "Segmentleri buradan yönetin.",
-      "zh-CN": "在此管理 Segment。",
-      "zh-HK": "在此管理 Segment。"
+      "zh-CN": "在此管理用户分群。",
+      "zh-HK": "在此管理用戶分群。"
     },
     "Message Events and Tags": {
       "ja": "メッセージイベントとタグ",
@@ -8767,8 +8757,8 @@
       "ko": "회신 이메일",
       "fr": "Email de réponse",
       "tr": "Yanıt emaili",
-      "zh-CN": "回复 Email",
-      "zh-HK": "回覆 Email"
+      "zh-CN": "回复电子邮件",
+      "zh-HK": "回覆電郵"
     },
     "Review & Send": {
       "ja": "確認して送信",
@@ -8787,8 +8777,8 @@
       "ko": "SMS",
       "fr": "SMS",
       "tr": "SMS",
-      "zh-CN": "SMS",
-      "zh-HK": "SMS"
+      "zh-CN": "短信",
+      "zh-HK": "短訊"
     },
     "Save as Template": {
       "ja": "テンプレートとして保存",
@@ -8817,8 +8807,8 @@
       "ko": "사용하는 세그먼트",
       "fr": "Segments qui utilisent",
       "tr": "Kullanan segmentler",
-      "zh-CN": "使用的 Segment",
-      "zh-HK": "使用的 Segment"
+      "zh-CN": "使用的用户分群",
+      "zh-HK": "使用的用戶分群"
     },
     "Segments using": {
       "ja": "これを使用するセグメント",
@@ -8827,8 +8817,8 @@
       "ko": "사용 중인 세그먼트",
       "fr": "Segments utilisant",
       "tr": "Kullanan segmentler",
-      "zh-CN": "使用 Segment",
-      "zh-HK": "使用 Segment"
+      "zh-CN": "使用用户分群",
+      "zh-HK": "使用用戶分群"
     },
     "Select Segment": {
       "ja": "セグメントを選択",
@@ -8837,8 +8827,8 @@
       "ko": "세그먼트 선택",
       "fr": "Sélectionner un segment",
       "tr": "Segment seç",
-      "zh-CN": "选择 Segment",
-      "zh-HK": "選擇 Segment"
+      "zh-CN": "选择用户分群",
+      "zh-HK": "選擇用戶分群"
     },
     "Send With Auto Warm Up": {
       "ja": "自動ウォームアップで送信",
@@ -8927,8 +8917,8 @@
       "ko": "웹 푸시 구독",
       "fr": "Abonnements push web",
       "tr": "Web push abonelikleri",
-      "zh-CN": "Web Push 订阅",
-      "zh-HK": "Web Push 訂閱"
+      "zh-CN": "Web 推送订阅",
+      "zh-HK": "Web 推送訂閱"
     },
     "When should this message start sending?": {
       "ja": "このメッセージはいつ送信を開始しますか？",
@@ -8967,8 +8957,8 @@
       "ko": "다른 세그먼트와 함께 포함하거나 제외할 수 없습니다.",
       "fr": "et ne peut pas être inclus ni exclu avec d'autres segments.",
       "tr": "ve diğer segmentlerle birlikte dahil edilemez veya hariç tutulamaz.",
-      "zh-CN": "无法与其他 Segment 一起包含或排除。",
-      "zh-HK": "無法與其他 Segment 一起包含或排除。"
+      "zh-CN": "无法与其他用户分群一起包含或排除。",
+      "zh-HK": "無法與其他用戶分群一起包含或排除。"
     },
     "and cannot be used in the exclusion list.": {
       "ja": "、除外リストには使用できません。",
@@ -9017,8 +9007,8 @@
       "ko": "일시 중지 또는 처리 중인 세그먼트.",
       "fr": "segments en pause ou en cours de traitement.",
       "tr": "duraklatılmış veya işlenmekte olan segmentler.",
-      "zh-CN": "已暂停或处理中的 Segment。",
-      "zh-HK": "已暫停或處理中的 Segment。"
+      "zh-CN": "已暂停或处理中的用户分群。",
+      "zh-HK": "已暫停或處理中的用戶分群。"
     },
     "should": {
       "ja": "次の場合",
@@ -9687,8 +9677,8 @@
       "ko": "새 인앱 메시지",
       "fr": "Nouveau message In-App",
       "tr": "Yeni in-app mesajı",
-      "zh-CN": "新 In-App 消息",
-      "zh-HK": "新 In-App 訊息"
+      "zh-CN": "新应用内消息",
+      "zh-HK": "新應用內訊息"
     },
     "On app open": {
       "ja": "アプリ起動時",
@@ -9757,8 +9747,8 @@
       "ko": "특정 세그먼트에 표시",
       "fr": "Afficher à des segments spécifiques",
       "tr": "Belirli segment(ler)e göster",
-      "zh-CN": "显示给特定 Segment",
-      "zh-HK": "顯示給特定 Segment"
+      "zh-CN": "显示给特定用户分群",
+      "zh-HK": "顯示給特定用戶分群"
     },
     "Show until dismissed": {
       "ja": "閉じるまで表示",
@@ -9957,8 +9947,8 @@
       "ko": "인앱 JS 라이브러리",
       "fr": "Bibliothèque JS in-app",
       "tr": "In-App JS kütüphanesi",
-      "zh-CN": "In-App JS 库",
-      "zh-HK": "In-App JS 函式庫"
+      "zh-CN": "应用内 JS 库",
+      "zh-HK": "應用內 JS 函式庫"
     },
     "Exit Rules": {
       "ja": "終了ルール",
@@ -9977,8 +9967,8 @@
       "ko": "대상 세그먼트",
       "fr": "Segment d'audience",
       "tr": "Hedef kitle segmenti",
-      "zh-CN": "受众 Segment",
-      "zh-HK": "受眾 Segment"
+      "zh-CN": "受众用户分群",
+      "zh-HK": "受眾用戶分群"
     },
     "Click to toggle": {
       "ja": "クリックで切り替え",
@@ -10027,8 +10017,8 @@
       "ko": "어떤 세그먼트가",
       "fr": "Quels segments doivent être",
       "tr": "Hangi segment(ler)",
-      "zh-CN": "哪个 Segment 应该",
-      "zh-HK": "哪個 Segment 應該"
+      "zh-CN": "哪个用户分群应该",
+      "zh-HK": "哪個用戶分群應該"
     },
     "Add a description...": {
       "ja": "説明を追加...",
@@ -10062,13 +10052,13 @@
     },
     "Choose when a Journey": {
       "ja": "ジャーニーをいつ",
-      "es": "Elige cuándo un Journey",
-      "pt": "Escolha quando um Journey",
+      "es": "Elige cuándo un Recorrido",
+      "pt": "Escolha quando uma Jornada",
       "ko": "저니가 언제",
-      "fr": "Choisissez quand un Journey",
-      "tr": "Bir Journey'in ne zaman olacağını seçin",
-      "zh-CN": "选择 Journey 的时间",
-      "zh-HK": "選擇 Journey 的時間"
+      "fr": "Choisissez quand un Parcours",
+      "tr": "Bir Yolculuğun ne zaman olacağını seçin",
+      "zh-CN": "选择旅程的时间",
+      "zh-HK": "選擇旅程的時間"
     },
     "Custom Event": {
       "ja": "カスタムイベント",
@@ -10122,33 +10112,33 @@
     },
     "Journey Documentation": {
       "ja": "ジャーニー文書",
-      "es": "Documentación de Journey",
-      "pt": "Documentação de Journey",
+      "es": "Documentación de Recorrido",
+      "pt": "Documentação de Jornada",
       "ko": "저니 문서",
-      "fr": "Documentation Journey",
-      "tr": "Journey dokümantasyonu",
-      "zh-CN": "Journey 文档",
-      "zh-HK": "Journey 文件"
+      "fr": "Documentation Parcours",
+      "tr": "Yolculuk dokümantasyonu",
+      "zh-CN": "旅程文档",
+      "zh-HK": "旅程文件"
     },
     "Journey Settings": {
       "ja": "ジャーニー設定",
-      "es": "Configuración de Journey",
-      "pt": "Configurações de Journey",
+      "es": "Configuración de Recorrido",
+      "pt": "Configurações de Jornada",
       "ko": "저니 설정",
-      "fr": "Paramètres du Journey",
-      "tr": "Journey ayarları",
-      "zh-CN": "Journey 设置",
-      "zh-HK": "Journey 設定"
+      "fr": "Paramètres du Parcours",
+      "tr": "Yolculuk ayarları",
+      "zh-CN": "旅程设置",
+      "zh-HK": "旅程設定"
     },
     "Only include users that match segment(s) in the future once this journey is live.": {
       "ja": "このジャーニーが公開されたら、今後セグメントに一致するユーザーのみを含める。",
       "es": "Incluir solo usuarios que coincidan con segmento(s) en el futuro una vez que este journey esté activo.",
       "pt": "Inclua apenas usuários que correspondam a(os) segmento(s) no futuro depois que este journey estiver ativo.",
       "ko": "이 저니가 라이브된 후 향후 세그먼트와 일치하는 사용자만 포함합니다.",
-      "fr": "Inclure uniquement les utilisateurs correspondant au(x) segment(s) à l'avenir, une fois ce Journey en ligne.",
+      "fr": "Inclure uniquement les utilisateurs correspondant au(x) segment(s) à l'avenir, une fois ce Parcours en ligne.",
       "tr": "Bu journey yayına alındıktan sonra yalnızca segment(ler)e uyan kullanıcıları gelecekte dahil et.",
-      "zh-CN": "仅在此 journey 上线后，将未来匹配 Segment 的用户包含在内。",
-      "zh-HK": "僅在此 journey 上線後，將未來匹配 Segment 的用戶包含在內。"
+      "zh-CN": "仅在此 journey 上线后，将未来匹配用户分群的用户包含在内。",
+      "zh-HK": "僅在此 journey 上線後，將未來匹配用戶分群的用戶包含在內。"
     },
     "Re-Entry Rules": {
       "ja": "再開始ルール",
@@ -10195,7 +10185,7 @@
       "es": "Inicia tu journey cuando ocurra un evento personalizado",
       "pt": "Inicie seu journey quando um evento personalizado ocorrer",
       "ko": "사용자 정의 이벤트가 발생할 때 저니 시작",
-      "fr": "Démarrez votre Journey lorsqu'un événement personnalisé se produit",
+      "fr": "Démarrez votre Parcours lorsqu'un événement personnalisé se produit",
       "tr": "Özel bir etkinlik gerçekleştiğinde journey'inizi başlatın",
       "zh-CN": "在自定义事件发生时启动您的 journey",
       "zh-HK": "在自訂事件發生時啟動您的 journey"
@@ -10242,33 +10232,33 @@
     },
     "User has moved through the entire Journey": {
       "ja": "ユーザーがジャーニー全体を通過しました",
-      "es": "El usuario ha pasado por todo el Journey",
-      "pt": "O usuário passou por todo o Journey",
+      "es": "El usuario ha pasado por todo el Recorrido",
+      "pt": "O usuário passou por toda a Jornada",
       "ko": "사용자가 전체 저니를 통과했습니다",
-      "fr": "L'utilisateur a parcouru tout le Journey",
-      "tr": "Kullanıcı tüm Journey'i tamamladı",
-      "zh-CN": "用户已通过整个 Journey",
-      "zh-HK": "用戶已通過整個 Journey"
+      "fr": "L'utilisateur a parcouru tout le Parcours",
+      "tr": "Kullanıcı tüm Yolculuğu tamamladı",
+      "zh-CN": "用户已通过整个旅程",
+      "zh-HK": "用戶已通過整個旅程"
     },
     "Users can only enter the Journey once": {
       "ja": "ユーザーはジャーニーに1回しか入れません",
-      "es": "Los usuarios solo pueden entrar al Journey una vez",
-      "pt": "Os usuários só podem entrar no Journey uma vez",
+      "es": "Los usuarios solo pueden entrar al Recorrido una vez",
+      "pt": "Os usuários só podem entrar na Jornada uma vez",
       "ko": "사용자는 저니에 한 번만 진입할 수 있습니다",
-      "fr": "Les utilisateurs ne peuvent entrer dans le Journey qu'une seule fois",
-      "tr": "Kullanıcılar Journey'e yalnızca bir kez girebilir",
-      "zh-CN": "用户只能进入 Journey 一次",
-      "zh-HK": "用戶只能進入 Journey 一次"
+      "fr": "Les utilisateurs ne peuvent entrer dans le Parcours qu'une seule fois",
+      "tr": "Kullanıcılar Yolculuğa yalnızca bir kez girebilir",
+      "zh-CN": "用户只能进入旅程一次",
+      "zh-HK": "用戶只能進入旅程一次"
     },
     "Users in the chosen segment will start your Journey": {
       "ja": "選択したセグメントのユーザーがあなたのジャーニーを開始します",
-      "es": "Los usuarios del segmento elegido iniciarán tu Journey",
-      "pt": "Os usuários no segmento escolhido iniciarão seu Journey",
+      "es": "Los usuarios del segmento elegido iniciarán tu Recorrido",
+      "pt": "Os usuários no segmento escolhido iniciarão sua Jornada",
       "ko": "선택한 세그먼트의 사용자가 저니를 시작합니다",
-      "fr": "Les utilisateurs du segment choisi commenceront votre Journey",
-      "tr": "Seçilen segmentteki kullanıcılar Journey'inizi başlatacak",
-      "zh-CN": "所选 Segment 中的用户将启动您的 Journey",
-      "zh-HK": "所選 Segment 中的用戶將啟動您的 Journey"
+      "fr": "Les utilisateurs du segment choisi commenceront votre Parcours",
+      "tr": "Seçilen segmentteki kullanıcılar Yolculuğunuzu başlatacak",
+      "zh-CN": "所选用户分群中的用户将启动您的旅程",
+      "zh-HK": "所選用戶分群中的用戶將啟動您的旅程"
     },
     "Zoom In": {
       "ja": "拡大",
@@ -10302,23 +10292,23 @@
     },
     "from this Journey?": {
       "ja": "をこのジャーニーから？",
-      "es": "¿de este Journey?",
-      "pt": "deste Journey?",
+      "es": "¿de este Recorrido?",
+      "pt": "desta Jornada?",
       "ko": "이 저니에서?",
-      "fr": "de ce Journey ?",
-      "tr": "bu Journey'den?",
-      "zh-CN": "从此 Journey？",
-      "zh-HK": "從此 Journey？"
+      "fr": "de ce Parcours ?",
+      "tr": "bu Yolculuktan?",
+      "zh-CN": "从此旅程？",
+      "zh-HK": "從此旅程？"
     },
     "in this Journey?": {
       "ja": "をこのジャーニーに？",
-      "es": "¿en este Journey?",
-      "pt": "neste Journey?",
+      "es": "¿en este Recorrido?",
+      "pt": "nesta Jornada?",
       "ko": "이 저니에?",
-      "fr": "dans ce Journey ?",
-      "tr": "bu Journey'de?",
-      "zh-CN": "在此 Journey？",
-      "zh-HK": "在此 Journey？"
+      "fr": "dans ce Parcours ?",
+      "tr": "bu Yolculukta?",
+      "zh-CN": "在此旅程？",
+      "zh-HK": "在此旅程？"
     },
     "included": {
       "ja": "含む",
@@ -10392,13 +10382,13 @@
     },
     "Event-triggered Journeys create a new user instance each time the trigger event fires. This means a user may be in the Journey multiple times at once.": {
       "ja": "イベントトリガーのジャーニーは、トリガーイベントが発生するたびに新しいユーザーインスタンスを作成します。つまり、ユーザーが同時に複数のジャーニーに参加することがあります。",
-      "es": "Los Journeys disparados por eventos crean una nueva instancia de usuario cada vez que el evento disparador se activa. Esto significa que un usuario puede estar en el Journey varias veces a la vez.",
-      "pt": "Os Journeys disparados por eventos criam uma nova instância de usuário cada vez que o evento gatilho é disparado. Isso significa que um usuário pode estar no Journey várias vezes ao mesmo tempo.",
+      "es": "Los Recorridos disparados por eventos crean una nueva instancia de usuario cada vez que el evento disparador se activa. Esto significa que un usuario puede estar en el Recorrido varias veces a la vez.",
+      "pt": "As Jornadas disparadas por eventos criam uma nova instância de usuário cada vez que o evento gatilho é disparado. Isso significa que um usuário pode estar na Jornada várias vezes ao mesmo tempo.",
       "ko": "이벤트 트리거 저니는 트리거 이벤트가 발생할 때마다 새로운 사용자 인스턴스를 생성합니다. 즉, 사용자가 동시에 여러 번 저니에 참여할 수 있습니다.",
-      "fr": "Les Journeys déclenchés par événement créent une nouvelle instance utilisateur à chaque déclenchement de l'événement. Un même utilisateur peut donc être dans le Journey plusieurs fois simultanément.",
-      "tr": "Etkinlik tarafından tetiklenen Journey'ler, tetikleyici etkinlik her gerçekleştiğinde yeni bir kullanıcı örneği oluşturur. Bu, bir kullanıcının Journey'de aynı anda birden çok kez bulunabileceği anlamına gelir.",
-      "zh-CN": "事件触发的 Journeys 在每次触发事件发生时都会创建新的用户实例。这意味着一个用户可能同时处于 Journey 的多个实例中。",
-      "zh-HK": "事件觸發的 Journeys 在每次觸發事件發生時都會建立新的用戶實例。這意味著一個用戶可能同時處於 Journey 的多個實例中。"
+      "fr": "Les Parcours déclenchés par événement créent une nouvelle instance utilisateur à chaque déclenchement de l'événement. Un même utilisateur peut donc être dans le Parcours plusieurs fois simultanément.",
+      "tr": "Etkinlik tarafından tetiklenen Yolculuk'ler, tetikleyici etkinlik her gerçekleştiğinde yeni bir kullanıcı örneği oluşturur. Bu, bir kullanıcının Yolculukta aynı anda birden çok kez bulunabileceği anlamına gelir.",
+      "zh-CN": "事件触发的旅程在每次触发事件发生时都会创建新的用户实例。这意味着一个用户可能同时处于旅程的多个实例中。",
+      "zh-HK": "事件觸發的旅程在每次觸發事件發生時都會建立新的用戶實例。這意味著一個用戶可能同時處於旅程的多個實例中。"
     },
     "Filter by property": {
       "ja": "プロパティでフィルター",
@@ -10422,33 +10412,33 @@
     },
     "Journey description": {
       "ja": "ジャーニーの説明",
-      "es": "Descripción del Journey",
-      "pt": "Descrição do Journey",
+      "es": "Descripción del Recorrido",
+      "pt": "Descrição da Jornada",
       "ko": "저니 설명",
-      "fr": "Description du Journey",
-      "tr": "Journey açıklaması",
-      "zh-CN": "Journey 描述",
-      "zh-HK": "Journey 描述"
+      "fr": "Description du Parcours",
+      "tr": "Yolculuk açıklaması",
+      "zh-CN": "旅程描述",
+      "zh-HK": "旅程描述"
     },
     "Journey name": {
       "ja": "ジャーニー名",
-      "es": "Nombre del Journey",
-      "pt": "Nome do Journey",
+      "es": "Nombre del Recorrido",
+      "pt": "Nome da Jornada",
       "ko": "저니 이름",
-      "fr": "Nom du Journey",
-      "tr": "Journey adı",
-      "zh-CN": "Journey 名称",
-      "zh-HK": "Journey 名稱"
+      "fr": "Nom du Parcours",
+      "tr": "Yolculuk adı",
+      "zh-CN": "旅程名称",
+      "zh-HK": "旅程名稱"
     },
     "Journey saved!": {
       "ja": "ジャーニーを保存しました！",
-      "es": "¡Journey guardado!",
-      "pt": "Journey salvo!",
+      "es": "¡Recorrido guardado!",
+      "pt": "Jornada salva!",
       "ko": "저니가 저장되었습니다!",
-      "fr": "Journey enregistré !",
-      "tr": "Journey kaydedildi!",
-      "zh-CN": "Journey 已保存！",
-      "zh-HK": "Journey 已儲存！"
+      "fr": "Parcours enregistré !",
+      "tr": "Yolculuk kaydedildi!",
+      "zh-CN": "旅程已保存！",
+      "zh-HK": "旅程已儲存！"
     },
     "Keep editing": {
       "ja": "編集を続ける",
@@ -10552,13 +10542,13 @@
     },
     "Set a Journey Goal": {
       "ja": "ジャーニー目標を設定",
-      "es": "Establecer un objetivo de Journey",
-      "pt": "Definir uma meta de Journey",
+      "es": "Establecer un objetivo de Recorrido",
+      "pt": "Definir uma meta de Jornada",
       "ko": "저니 목표 설정",
-      "fr": "Définir un objectif de Journey",
-      "tr": "Journey hedefi belirle",
-      "zh-CN": "设置 Journey 目标",
-      "zh-HK": "設定 Journey 目標"
+      "fr": "Définir un objectif de Parcours",
+      "tr": "Yolculuk hedefi belirle",
+      "zh-CN": "设置旅程目标",
+      "zh-HK": "設定旅程目標"
     },
     "Set a target metric to measure this": {
       "ja": "これを測定する目標指標を設定",
@@ -10592,23 +10582,23 @@
     },
     "They moved through the entire Journey": {
       "ja": "ジャーニー全体を通過したとき",
-      "es": "Pasaron por todo el Journey",
-      "pt": "Passaram por todo o Journey",
+      "es": "Pasaron por todo el Recorrido",
+      "pt": "Passaram por toda a Jornada",
       "ko": "전체 저니를 통과했을 때",
-      "fr": "Ils ont parcouru le Journey en entier",
-      "tr": "Tüm Journey'i tamamladılar",
-      "zh-CN": "他们已通过整个 Journey",
-      "zh-HK": "他們已通過整個 Journey"
+      "fr": "Ils ont parcouru le Parcours en entier",
+      "tr": "Tüm Yolculuğu tamamladılar",
+      "zh-CN": "他们已通过整个旅程",
+      "zh-HK": "他們已通過整個旅程"
     },
     "Users exit when they have moved through the full Journey.": {
       "ja": "ユーザーはジャーニー全体を通過したときに退出します。",
-      "es": "Los usuarios salen cuando han pasado por todo el Journey.",
-      "pt": "Os usuários saem quando passaram por todo o Journey.",
+      "es": "Los usuarios salen cuando han pasado por todo el Recorrido.",
+      "pt": "Os usuários saem quando passaram por toda a Jornada.",
       "ko": "사용자는 전체 저니를 통과하면 종료됩니다.",
-      "fr": "Les utilisateurs sortent lorsqu'ils ont parcouru tout le Journey.",
-      "tr": "Kullanıcılar tüm Journey'i tamamladıklarında çıkarlar.",
-      "zh-CN": "用户在通过整个 Journey 时退出。",
-      "zh-HK": "用戶在通過整個 Journey 時退出。"
+      "fr": "Les utilisateurs sortent lorsqu'ils ont parcouru tout le Parcours.",
+      "tr": "Kullanıcılar tüm Yolculuğu tamamladıklarında çıkarlar.",
+      "zh-CN": "用户在通过整个旅程时退出。",
+      "zh-HK": "用戶在通過整個旅程時退出。"
     },
     "Users exit when they match the rules you have set on a particular segment or condition.": {
       "ja": "ユーザーは特定のセグメントまたは条件に設定したルールに一致したときに退出します。",
@@ -10617,58 +10607,58 @@
       "ko": "사용자는 특정 세그먼트 또는 조건에 설정한 규칙과 일치하면 종료됩니다.",
       "fr": "Les utilisateurs sortent lorsqu'ils correspondent aux règles que vous avez définies sur un segment ou une condition particulière.",
       "tr": "Kullanıcılar, belirli bir segment veya koşulda belirlediğiniz kurallarla eşleştiğinde çıkarlar.",
-      "zh-CN": "用户在匹配您为特定 Segment 或条件设置的规则时退出。",
-      "zh-HK": "用戶在匹配您為特定 Segment 或條件設定的規則時退出。"
+      "zh-CN": "用户在匹配您为特定用户分群或条件设置的规则时退出。",
+      "zh-HK": "用戶在匹配您為特定用戶分群或條件設定的規則時退出。"
     },
     "When should users exit this Journey?": {
       "ja": "ユーザーはいつこのジャーニーを退出すべきですか？",
-      "es": "¿Cuándo deberían los usuarios salir de este Journey?",
-      "pt": "Quando os usuários devem sair deste Journey?",
+      "es": "¿Cuándo deberían los usuarios salir de este Recorrido?",
+      "pt": "Quando os usuários devem sair desta Jornada?",
       "ko": "사용자가 언제 이 저니를 종료해야 하나요?",
-      "fr": "Quand les utilisateurs doivent-ils sortir de ce Journey ?",
-      "tr": "Kullanıcılar bu Journey'den ne zaman çıkmalı?",
-      "zh-CN": "用户何时应退出此 Journey？",
-      "zh-HK": "用戶何時應退出此 Journey？"
+      "fr": "Quand les utilisateurs doivent-ils sortir de ce Parcours ?",
+      "tr": "Kullanıcılar bu Yolculuktan ne zaman çıkmalı?",
+      "zh-CN": "用户何时应退出此旅程？",
+      "zh-HK": "用戶何時應退出此旅程？"
     },
     "Your Journey will be become active at a specific time and date.": {
       "ja": "ジャーニーは特定の日時にアクティブになります。",
-      "es": "Tu Journey se activará en una fecha y hora específicas.",
-      "pt": "Seu Journey ficará ativo em data e hora específicas.",
+      "es": "Tu Recorrido se activará en una fecha y hora específicas.",
+      "pt": "Sua Jornada ficará ativa em data e hora específicas.",
       "ko": "저니는 특정 날짜 및 시간에 활성화됩니다.",
-      "fr": "Votre Journey deviendra actif à une date et heure précises.",
-      "tr": "Journey'iniz belirli bir tarih ve saatte aktif olacak.",
-      "zh-CN": "您的 Journey 将在指定的日期和时间激活。",
-      "zh-HK": "您的 Journey 將在指定的日期和時間啟用。"
+      "fr": "Votre Parcours deviendra actif à une date et heure précises.",
+      "tr": "Yolculuğunuz belirli bir tarih ve saatte aktif olacak.",
+      "zh-CN": "您的旅程将在指定的日期和时间激活。",
+      "zh-HK": "您的旅程將在指定的日期和時間啟用。"
     },
     "Your Journey will become active as soon as you set it live.": {
       "ja": "ジャーニーはライブ化するとすぐにアクティブになります。",
-      "es": "Tu Journey se activará tan pronto como lo pongas en vivo.",
-      "pt": "Seu Journey ficará ativo assim que você o tornar ativo.",
+      "es": "Tu Recorrido se activará tan pronto como lo pongas en vivo.",
+      "pt": "Sua Jornada ficará ativa assim que você o tornar ativo.",
       "ko": "라이브로 설정하는 즉시 저니가 활성화됩니다.",
-      "fr": "Votre Journey deviendra actif dès que vous le mettrez en ligne.",
-      "tr": "Journey'iniz yayına aldığınız anda aktif olacak.",
-      "zh-CN": "您的 Journey 在您设为上线后立即激活。",
-      "zh-HK": "您的 Journey 在您設為上線後立即啟用。"
+      "fr": "Votre Parcours deviendra actif dès que vous le mettrez en ligne.",
+      "tr": "Yolculuğunuz yayına aldığınız anda aktif olacak.",
+      "zh-CN": "您的旅程在您设为上线后立即激活。",
+      "zh-HK": "您的旅程在您設為上線後立即啟用。"
     },
     "Your Journey will stay active indefinitely.": {
       "ja": "ジャーニーは無期限にアクティブのままです。",
-      "es": "Tu Journey permanecerá activo indefinidamente.",
-      "pt": "Seu Journey permanecerá ativo indefinidamente.",
+      "es": "Tu Recorrido permanecerá activo indefinidamente.",
+      "pt": "Sua Jornada permanecerá ativa indefinidamente.",
       "ko": "저니는 무기한 활성 상태로 유지됩니다.",
-      "fr": "Votre Journey restera actif indéfiniment.",
-      "tr": "Journey'iniz süresiz olarak aktif kalacak.",
-      "zh-CN": "您的 Journey 将持续保持活跃。",
-      "zh-HK": "您的 Journey 將持續保持活躍。"
+      "fr": "Votre Parcours restera actif indéfiniment.",
+      "tr": "Yolculuğunuz süresiz olarak aktif kalacak.",
+      "zh-CN": "您的旅程将持续保持活跃。",
+      "zh-HK": "您的旅程將持續保持活躍。"
     },
     "Your Journey will stop on specific time and date.": {
       "ja": "ジャーニーは特定の日時に停止します。",
-      "es": "Tu Journey se detendrá en una fecha y hora específicas.",
-      "pt": "Seu Journey será interrompido em data e hora específicas.",
+      "es": "Tu Recorrido se detendrá en una fecha y hora específicas.",
+      "pt": "Sua Jornada será interrompido em data e hora específicas.",
       "ko": "저니는 특정 날짜 및 시간에 중지됩니다.",
-      "fr": "Votre Journey s'arrêtera à une date et heure précises.",
-      "tr": "Journey'iniz belirli bir tarih ve saatte duracak.",
-      "zh-CN": "您的 Journey 将在指定的日期和时间停止。",
-      "zh-HK": "您的 Journey 將在指定的日期和時間停止。"
+      "fr": "Votre Parcours s'arrêtera à une date et heure précises.",
+      "tr": "Yolculuğunuz belirli bir tarih ve saatte duracak.",
+      "zh-CN": "您的旅程将在指定的日期和时间停止。",
+      "zh-HK": "您的旅程將在指定的日期和時間停止。"
     },
     "ends": {
       "ja": "終了",
@@ -10702,33 +10692,33 @@
     },
     "Build your own Journey from the ground up.": {
       "ja": "独自のジャーニーをゼロから構築。",
-      "es": "Construye tu propio Journey desde cero.",
-      "pt": "Construa seu próprio Journey do zero.",
+      "es": "Construye tu propio Recorrido desde cero.",
+      "pt": "Construa sua própria Jornada do zero.",
       "ko": "나만의 저니를 처음부터 구축하세요.",
-      "fr": "Construisez votre propre Journey de A à Z.",
-      "tr": "Kendi Journey'inizi sıfırdan oluşturun.",
-      "zh-CN": "从零开始构建您自己的 Journey。",
-      "zh-HK": "從零開始建立您自己的 Journey。"
+      "fr": "Construisez votre propre Parcours de A à Z.",
+      "tr": "Kendi Yolculuğunuzu sıfırdan oluşturun.",
+      "zh-CN": "从零开始构建您自己的旅程。",
+      "zh-HK": "從零開始建立您自己的旅程。"
     },
     "Choose a Journey to start": {
       "ja": "開始するジャーニーを選択",
-      "es": "Elige un Journey para empezar",
-      "pt": "Escolha um Journey para começar",
+      "es": "Elige un Recorrido para empezar",
+      "pt": "Escolha uma Jornada para começar",
       "ko": "시작할 저니 선택",
-      "fr": "Choisissez un Journey pour commencer",
-      "tr": "Başlamak için bir Journey seçin",
-      "zh-CN": "选择一个 Journey 来开始",
-      "zh-HK": "選擇一個 Journey 來開始"
+      "fr": "Choisissez un Parcours pour commencer",
+      "tr": "Başlamak için bir Yolculuk seçin",
+      "zh-CN": "选择一个旅程来开始",
+      "zh-HK": "選擇一個旅程來開始"
     },
     "Describe the purpose of this Journey...": {
       "ja": "このジャーニーの目的を記述...",
-      "es": "Describe el propósito de este Journey...",
-      "pt": "Descreva o propósito deste Journey...",
+      "es": "Describe el propósito de este Recorrido...",
+      "pt": "Descreva o propósito desta Jornada...",
       "ko": "이 저니의 목적을 설명하세요...",
-      "fr": "Décrivez le but de ce Journey...",
-      "tr": "Bu Journey'in amacını açıklayın...",
-      "zh-CN": "描述此 Journey 的目的...",
-      "zh-HK": "描述此 Journey 的目的..."
+      "fr": "Décrivez le but de ce Parcours...",
+      "tr": "Bu Yolculuğun amacını açıklayın...",
+      "zh-CN": "描述此旅程的目的...",
+      "zh-HK": "描述此旅程的目的..."
     },
     "Description": {
       "ja": "説明",
@@ -10742,33 +10732,33 @@
     },
     "Journey Name": {
       "ja": "ジャーニー名",
-      "es": "Nombre del Journey",
-      "pt": "Nome do Journey",
+      "es": "Nombre del Recorrido",
+      "pt": "Nome da Jornada",
       "ko": "저니 이름",
-      "fr": "Nom du Journey",
-      "tr": "Journey adı",
-      "zh-CN": "Journey 名称",
-      "zh-HK": "Journey 名稱"
+      "fr": "Nom du Parcours",
+      "tr": "Yolculuk adı",
+      "zh-CN": "旅程名称",
+      "zh-HK": "旅程名稱"
     },
     "My Journey": {
       "ja": "マイジャーニー",
-      "es": "Mi Journey",
-      "pt": "Meu Journey",
+      "es": "Mi Recorrido",
+      "pt": "Minha Jornada",
       "ko": "내 저니",
-      "fr": "Mon Journey",
-      "tr": "Journey'im",
-      "zh-CN": "我的 Journey",
-      "zh-HK": "我的 Journey"
+      "fr": "Mon Parcours",
+      "tr": "Yolculuğum",
+      "zh-CN": "我的旅程",
+      "zh-HK": "我的旅程"
     },
     "Name and describe your Journey": {
       "ja": "ジャーニーに名前を付けて説明",
-      "es": "Nombra y describe tu Journey",
-      "pt": "Nomeie e descreva seu Journey",
+      "es": "Nombra y describe tu Recorrido",
+      "pt": "Nomeie e descreva sua Jornada",
       "ko": "저니의 이름을 짓고 설명하세요",
-      "fr": "Nommez et décrivez votre Journey",
-      "tr": "Journey'inize ad verin ve açıklayın",
-      "zh-CN": "为您的 Journey 命名并描述",
-      "zh-HK": "為您的 Journey 命名並描述"
+      "fr": "Nommez et décrivez votre Parcours",
+      "tr": "Yolculuğunuza ad verin ve açıklayın",
+      "zh-CN": "为您的旅程命名并描述",
+      "zh-HK": "為您的旅程命名並描述"
     },
     "(v1)": {
       "ja": "(v1)",
@@ -10967,8 +10957,8 @@
       "ko": "예: 수락",
       "fr": "par ex. Accepter",
       "tr": "örn. Kabul et",
-      "zh-CN": "例如 接受",
-      "zh-HK": "例如 接受"
+      "zh-CN": "例如接受",
+      "zh-HK": "例如接受"
     },
     "or paste resource name or URL": {
       "ja": "またはリソース名やURLを貼り付け",
@@ -11477,8 +11467,8 @@
       "ko": "특정 세그먼트에 발송",
       "fr": "Envoyer à des segments spécifiques",
       "tr": "Belirli segment(ler)e gönder",
-      "zh-CN": "发送给特定的 Segment",
-      "zh-HK": "發送給特定的 Segment"
+      "zh-CN": "发送给特定的用户分群",
+      "zh-HK": "發送給特定的用戶分群"
     },
     "Set to": {
       "ja": "設定:",
@@ -11607,8 +11597,8 @@
       "ko": "웹 푸시 토픽",
       "fr": "Sujet du Web Push",
       "tr": "Web Push konusu",
-      "zh-CN": "Web Push 主题",
-      "zh-HK": "Web Push 主題"
+      "zh-CN": "Web 推送主题",
+      "zh-HK": "Web 推送主題"
     },
     "days": {
       "ja": "日",
@@ -11707,8 +11697,8 @@
       "ko": "기기 유형: 웹 푸시 (모든 브라우저)",
       "fr": "Type d'appareil : Web Push (tous navigateurs)",
       "tr": "Cihaz türü Web Push (Tüm tarayıcılar)",
-      "zh-CN": "设备类型为 Web Push（所有浏览器）",
-      "zh-HK": "裝置類型為 Web Push（所有瀏覽器）"
+      "zh-CN": "设备类型为 Web 推送（所有浏览器）",
+      "zh-HK": "裝置類型為 Web 推送（所有瀏覽器）"
     },
     "Add Or": {
       "ja": "ORを追加",
@@ -11774,7 +11764,7 @@
       "ja": "SDK、統合、またはデータソースから取り込まれたカスタムイベントでフィルター",
       "es": "Filtrar por eventos personalizados ingeridos a través de SDKs, integraciones o fuentes de datos",
       "pt": "Filtrar por eventos personalizados ingeridos via SDKs, integrações ou fontes de dados",
-      "ko": "SDK, 통합 또는 데이터 소스를 통해 수집된 사용자 정의 이벤트로 필터링",
+      "ko": "SDK, 연동 또는 데이터 소스를 통해 수집된 사용자 정의 이벤트로 필터링",
       "fr": "Filtrer par événements personnalisés ingérés via SDK, intégrations ou sources de données",
       "tr": "SDK'ler, entegrasyonlar veya veri kaynakları aracılığıyla alınan özel etkinliklere göre filtrele",
       "zh-CN": "按通过 SDK、集成或数据源接入的自定义事件筛选",
@@ -11817,8 +11807,8 @@
       "ko": "세그먼트 이름",
       "fr": "Nom du segment",
       "tr": "Segment adı",
-      "zh-CN": "Segment 名称",
-      "zh-HK": "Segment 名稱"
+      "zh-CN": "用户分群名称",
+      "zh-HK": "用戶分群名稱"
     },
     "Radius in meters from a particular geocoordinate (lat, long)": {
       "ja": "特定のジオ座標 (緯度、経度) からの半径 (メートル)",
@@ -11837,8 +11827,8 @@
       "ko": "세그먼트 편집기",
       "fr": "Éditeur de segments",
       "tr": "Segment düzenleyici",
-      "zh-CN": "Segment 编辑器",
-      "zh-HK": "Segment 編輯器"
+      "zh-CN": "用户分群编辑器",
+      "zh-HK": "用戶分群編輯器"
     },
     "Start adding filters to see audience count": {
       "ja": "フィルターを追加するとオーディエンス数が表示されます",
@@ -11857,8 +11847,8 @@
       "ko": "이 세그먼트의 구독 기록은 다음 규칙을 충족해야 합니다:",
       "fr": "Les enregistrements d'abonnement de ce segment doivent respecter ces règles :",
       "tr": "Bu segmentteki abonelik kayıtları şu kurallara uymalıdır:",
-      "zh-CN": "此 Segment 中的订阅记录必须满足这些规则:",
-      "zh-HK": "此 Segment 中的訂閱記錄必須滿足這些規則："
+      "zh-CN": "此用户分群中的订阅记录必须满足这些规则:",
+      "zh-HK": "此用戶分群中的訂閱記錄必須滿足這些規則："
     },
     "The first date/time the device communicated with our servers": {
       "ja": "デバイスが最初にサーバーと通信した日時",
@@ -11997,8 +11987,8 @@
       "ko": "SMS / MMS / RCS 세그먼트",
       "fr": "Segments SMS / MMS / RCS",
       "tr": "SMS / MMS / RCS segmentleri",
-      "zh-CN": "SMS / MMS / RCS Segment",
-      "zh-HK": "SMS / MMS / RCS Segment"
+      "zh-CN": "短信 / MMS / 富媒体短信用户分群",
+      "zh-HK": "短訊 / MMS / 富媒體短訊用戶分群"
     },
     "To see your usage, go to your Twilio dashboard, or switch to": {
       "ja": "使用状況を確認するには、Twilioダッシュボードに移動するか、以下に切り替えてください:",
@@ -12017,8 +12007,8 @@
       "ko": "SMS 공급자로.",
       "fr": "comme votre fournisseur SMS.",
       "tr": "SMS sağlayıcınız olarak.",
-      "zh-CN": "作为您的 SMS 提供商。",
-      "zh-HK": "作為您的 SMS 提供商。"
+      "zh-CN": "作为您的短信提供商。",
+      "zh-HK": "作為您的短訊提供商。"
     },
     "Application Level Usage": {
       "ja": "アプリケーションレベルの使用状況",
@@ -12037,8 +12027,8 @@
       "ko": "청구 가능한 이메일 발송",
       "fr": "Envois d'email facturables",
       "tr": "Faturalanabilir email gönderimleri",
-      "zh-CN": "可计费 Email 发送",
-      "zh-HK": "可計費 Email 發送"
+      "zh-CN": "可计费电子邮件发送",
+      "zh-HK": "可計費電郵發送"
     },
     "DWH": {
       "ja": "DWH",
@@ -12087,8 +12077,8 @@
       "ko": "인앱 노출 수",
       "fr": "Impressions in-app",
       "tr": "In-App gösterimleri",
-      "zh-CN": "In-App 展示",
-      "zh-HK": "In-App 展示"
+      "zh-CN": "应用内展示",
+      "zh-HK": "應用內展示"
     },
     "Next cycle starts on": {
       "ja": "次のサイクル開始日",
@@ -12117,8 +12107,8 @@
       "ko": "푸시 구독자",
       "fr": "Abonnés push",
       "tr": "Push aboneleri",
-      "zh-CN": "Push 订阅者",
-      "zh-HK": "Push 訂閱者"
+      "zh-CN": "推送订阅者",
+      "zh-HK": "推送訂閱者"
     },
     "See Breakdown": {
       "ja": "内訳を見る",
@@ -12167,8 +12157,8 @@
       "ko": "빈 SMS / RCS",
       "fr": "SMS / RCS vierge",
       "tr": "Boş SMS / RCS",
-      "zh-CN": "空白 SMS / RCS",
-      "zh-HK": "空白 SMS / RCS"
+      "zh-CN": "空白短信 / 富媒体短信",
+      "zh-HK": "空白短訊 / 富媒體短訊"
     },
     "Double opt-in": {
       "ja": "ダブルオプトイン",
@@ -12247,8 +12237,8 @@
       "ko": "RCS",
       "fr": "RCS",
       "tr": "RCS",
-      "zh-CN": "RCS",
-      "zh-HK": "RCS"
+      "zh-CN": "富媒体短信",
+      "zh-HK": "富媒體短訊"
     },
     "RCS billing documentation": {
       "ja": "RCS課金文書",
@@ -12257,8 +12247,8 @@
       "ko": "RCS 청구 문서",
       "fr": "Documentation de facturation RCS",
       "tr": "RCS faturalama dokümantasyonu",
-      "zh-CN": "RCS 计费文档",
-      "zh-HK": "RCS 計費文件"
+      "zh-CN": "富媒体短信计费文档",
+      "zh-HK": "富媒體短訊計費文件"
     },
     "Rich": {
       "ja": "リッチ",
@@ -12277,8 +12267,8 @@
       "ko": "SMS 폴백",
       "fr": "Repli SMS",
       "tr": "SMS yedek",
-      "zh-CN": "SMS 回退",
-      "zh-HK": "SMS 回退"
+      "zh-CN": "短信回退",
+      "zh-HK": "短訊回退"
     },
     "US:": {
       "ja": "米国:",
@@ -12507,8 +12497,8 @@
       "ko": "세그먼트 선택...",
       "fr": "Sélectionner un segment...",
       "tr": "Segment seç...",
-      "zh-CN": "选择 Segment...",
-      "zh-HK": "選擇 Segment..."
+      "zh-CN": "选择用户分群...",
+      "zh-HK": "選擇用戶分群..."
     },
     "Apns Delegate Never Fired": {
       "ja": "APNsデリゲートが発火しませんでした",
@@ -12527,8 +12517,8 @@
       "ko": "이메일 템플릿",
       "fr": "Modèle email",
       "tr": "Email şablonu",
-      "zh-CN": "Email 模板",
-      "zh-HK": "Email 範本"
+      "zh-CN": "电子邮件模板",
+      "zh-HK": "電郵範本"
     },
     "Push Template": {
       "ja": "プッシュテンプレート",
@@ -12537,8 +12527,8 @@
       "ko": "푸시 템플릿",
       "fr": "Modèle de push",
       "tr": "Push şablonu",
-      "zh-CN": "Push 模板",
-      "zh-HK": "Push 範本"
+      "zh-CN": "推送模板",
+      "zh-HK": "推送範本"
     },
     "SMS / RCS Template": {
       "ja": "SMS / RCSテンプレート",
@@ -12547,8 +12537,8 @@
       "ko": "SMS / RCS 템플릿",
       "fr": "Modèle SMS / RCS",
       "tr": "SMS / RCS şablonu",
-      "zh-CN": "SMS / RCS 模板",
-      "zh-HK": "SMS / RCS 範本"
+      "zh-CN": "短信 / 富媒体短信模板",
+      "zh-HK": "短訊 / 富媒體短訊範本"
     },
     "Template": {
       "ja": "テンプレート",
@@ -12567,8 +12557,8 @@
       "ko": "AI 생성 푸시 템플릿",
       "fr": "Modèle de push généré par IA",
       "tr": "Yapay zeka tarafından oluşturulan push şablonu",
-      "zh-CN": "AI 生成的 Push 模板",
-      "zh-HK": "AI 生成的 Push 範本"
+      "zh-CN": "AI 生成的推送模板",
+      "zh-HK": "AI 生成的推送範本"
     },
     "Blank Push Template": {
       "ja": "空のプッシュテンプレート",
@@ -12577,8 +12567,8 @@
       "ko": "빈 푸시 템플릿",
       "fr": "Modèle de push vierge",
       "tr": "Boş push şablonu",
-      "zh-CN": "空白 Push 模板",
-      "zh-HK": "空白 Push 範本"
+      "zh-CN": "空白推送模板",
+      "zh-HK": "空白推送範本"
     },
     "Blank SMS / RCS Template": {
       "ja": "空のSMS / RCSテンプレート",
@@ -12587,8 +12577,8 @@
       "ko": "빈 SMS / RCS 템플릿",
       "fr": "Modèle SMS / RCS vierge",
       "tr": "Boş SMS / RCS şablonu",
-      "zh-CN": "空白 SMS / RCS 模板",
-      "zh-HK": "空白 SMS / RCS 範本"
+      "zh-CN": "空白短信 / 富媒体短信模板",
+      "zh-HK": "空白短訊 / 富媒體短訊範本"
     },
     "1. Sender": {
       "ja": "1. 送信者",
@@ -12627,8 +12617,8 @@
       "ko": "새 이메일 템플릿",
       "fr": "Nouveau modèle email",
       "tr": "Yeni email şablonu",
-      "zh-CN": "新 Email 模板",
-      "zh-HK": "新 Email 範本"
+      "zh-CN": "新电子邮件模板",
+      "zh-HK": "新電郵範本"
     },
     "Personalization": {
       "ja": "パーソナライゼーション",
@@ -12657,8 +12647,8 @@
       "ko": "발신자 이메일",
       "fr": "Email de l'expéditeur",
       "tr": "Gönderen emaili",
-      "zh-CN": "发件人 Email",
-      "zh-HK": "發件人 Email"
+      "zh-CN": "发件人电子邮件",
+      "zh-HK": "發件人電郵"
     },
     "Sender Name": {
       "ja": "送信者名",
@@ -12687,8 +12677,8 @@
       "ko": "새 푸시 템플릿",
       "fr": "Nouveau modèle de push",
       "tr": "Yeni push şablonu",
-      "zh-CN": "新 Push 模板",
-      "zh-HK": "新 Push 範本"
+      "zh-CN": "新推送模板",
+      "zh-HK": "新推送範本"
     },
     "Consider looking on the": {
       "ja": "次を確認してみてください:",
@@ -12767,8 +12757,8 @@
       "ko": "새 SMS / RCS 템플릿",
       "fr": "Nouveau modèle SMS / RCS",
       "tr": "Yeni SMS / RCS şablonu",
-      "zh-CN": "新 SMS / RCS 模板",
-      "zh-HK": "新 SMS / RCS 範本"
+      "zh-CN": "新短信 / 富媒体短信模板",
+      "zh-HK": "新短訊 / 富媒體短訊範本"
     },
     "Your Brand Here": {
       "ja": "ここにブランドを",
@@ -12862,13 +12852,13 @@
     },
     "Search by journey name": {
       "ja": "ジャーニー名で検索",
-      "es": "Buscar por nombre de Journey",
-      "pt": "Pesquisar por nome do Journey",
+      "es": "Buscar por nombre de Recorrido",
+      "pt": "Pesquisar por nome da Jornada",
       "ko": "저니 이름으로 검색",
-      "fr": "Rechercher par nom de Journey",
-      "tr": "Journey adına göre ara",
-      "zh-CN": "按 Journey 名称搜索",
-      "zh-HK": "按 Journey 名稱搜尋"
+      "fr": "Rechercher par nom de Parcours",
+      "tr": "Yolculuk adına göre ara",
+      "zh-CN": "按旅程名称搜索",
+      "zh-HK": "按旅程名稱搜尋"
     },
     "Search by key or value": {
       "ja": "キーまたは値で検索",
@@ -12932,13 +12922,13 @@
     },
     "Learn more about Journeys.": {
       "ja": "ジャーニーの詳細を確認。",
-      "es": "Más información sobre Journeys.",
-      "pt": "Saiba mais sobre Journeys.",
+      "es": "Más información sobre Recorridos.",
+      "pt": "Saiba mais sobre Jornadas.",
       "ko": "저니에 대해 자세히 알아보세요.",
-      "fr": "En savoir plus sur Journeys.",
-      "tr": "Journeys hakkında daha fazla bilgi edinin.",
-      "zh-CN": "了解关于 Journeys 的更多信息。",
-      "zh-HK": "了解關於 Journeys 的更多資訊。"
+      "fr": "En savoir plus sur Parcours.",
+      "tr": "Yolculuklar hakkında daha fazla bilgi edinin.",
+      "zh-CN": "了解关于旅程的更多信息。",
+      "zh-HK": "了解關於旅程的更多資訊。"
     },
     "Location Point": {
       "ja": "位置ポイント",
@@ -12992,13 +12982,13 @@
     },
     "No journeys": {
       "ja": "ジャーニーなし",
-      "es": "Sin Journeys",
-      "pt": "Sem Journeys",
+      "es": "Sin Recorridos",
+      "pt": "Sem Jornadas",
       "ko": "저니 없음",
-      "fr": "Aucun Journey",
-      "tr": "Journey yok",
-      "zh-CN": "无 Journey",
-      "zh-HK": "無 Journey"
+      "fr": "Aucun Parcours",
+      "tr": "Yolculuk yok",
+      "zh-CN": "无旅程",
+      "zh-HK": "無旅程"
     },
     "No message events": {
       "ja": "メッセージイベントなし",
@@ -13052,13 +13042,13 @@
     },
     "User has not been in any Journey": {
       "ja": "ユーザーはどのジャーニーにも参加していません",
-      "es": "El usuario no ha estado en ningún Journey",
-      "pt": "O usuário não esteve em nenhum Journey",
+      "es": "El usuario no ha estado en ningún Recorrido",
+      "pt": "O usuário não esteve em nenhum Jornada",
       "ko": "사용자가 어떤 저니에도 참여하지 않았습니다",
-      "fr": "L'utilisateur n'a été dans aucun Journey",
-      "tr": "Kullanıcı hiçbir Journey'de bulunmadı",
-      "zh-CN": "用户从未进入任何 Journey",
-      "zh-HK": "用戶從未進入任何 Journey"
+      "fr": "L'utilisateur n'a été dans aucun Parcours",
+      "tr": "Kullanıcı hiçbir Yolculukta bulunmadı",
+      "zh-CN": "用户从未进入任何旅程",
+      "zh-HK": "用戶從未進入任何旅程"
     },
     "View all": {
       "ja": "すべて表示",
@@ -13102,23 +13092,23 @@
     },
     "Drive more engagement with additional automations, channels, and features in Journeys.": {
       "ja": "ジャーニーの追加の自動化、チャネル、機能でエンゲージメントを高めます。",
-      "es": "Aumenta el engagement con más automatizaciones, canales y funciones en Journeys.",
-      "pt": "Aumente o engajamento com mais automações, canais e recursos em Journeys.",
+      "es": "Aumenta el engagement con más automatizaciones, canales y funciones en Recorridos.",
+      "pt": "Aumente o engajamento com mais automações, canais e recursos em Jornadas.",
       "ko": "저니의 추가 자동화, 채널 및 기능으로 참여도를 높이세요.",
-      "fr": "Boostez l'engagement avec plus d'automatisations, de canaux et de fonctionnalités dans Journeys.",
-      "tr": "Journeys'teki ek otomasyonlar, kanallar ve özelliklerle daha fazla etkileşim sağlayın.",
-      "zh-CN": "通过 Journeys 中更多的自动化、渠道和功能提升互动。",
-      "zh-HK": "透過 Journeys 中更多的自動化、渠道和功能提升互動。"
+      "fr": "Boostez l'engagement avec plus d'automatisations, de canaux et de fonctionnalités dans Parcours.",
+      "tr": "Yolculuklardaki ek otomasyonlar, kanallar ve özelliklerle daha fazla etkileşim sağlayın.",
+      "zh-CN": "通过旅程中更多的自动化、渠道和功能提升互动。",
+      "zh-HK": "透過旅程中更多的自動化、渠道和功能提升互動。"
     },
     "Try Journeys": {
       "ja": "ジャーニーを試す",
-      "es": "Probar Journeys",
-      "pt": "Experimentar Journeys",
+      "es": "Probar Recorridos",
+      "pt": "Experimentar Jornadas",
       "ko": "저니 사용해보기",
-      "fr": "Essayer Journeys",
-      "tr": "Journeys'i deneyin",
-      "zh-CN": "试用 Journeys",
-      "zh-HK": "試用 Journeys"
+      "fr": "Essayer Parcours",
+      "tr": "Yolculukları deneyin",
+      "zh-CN": "试用旅程",
+      "zh-HK": "試用旅程"
     },
     "New Automated Push": {
       "ja": "新しい自動プッシュ",
@@ -13127,14 +13117,14 @@
       "ko": "새 자동화 푸시",
       "fr": "Nouveau push automatisé",
       "tr": "Yeni otomatik push",
-      "zh-CN": "新自动化 Push",
-      "zh-HK": "新自動化 Push"
+      "zh-CN": "新自动化推送",
+      "zh-HK": "新自動化推送"
     },
     "HubSpot Integration Metrics": {
       "ja": "HubSpot統合メトリクス",
       "es": "Métricas de integración con HubSpot",
       "pt": "Métricas de integração com HubSpot",
-      "ko": "HubSpot 통합 지표",
+      "ko": "HubSpot 연동 지표",
       "fr": "Métriques d'intégration HubSpot",
       "tr": "HubSpot entegrasyon metrikleri",
       "zh-CN": "HubSpot 集成指标",
@@ -13322,23 +13312,23 @@
     },
     "Journey Updated": {
       "ja": "ジャーニーが更新されました",
-      "es": "Journey actualizado",
-      "pt": "Journey atualizado",
+      "es": "Recorrido actualizado",
+      "pt": "Jornada atualizada",
       "ko": "저니가 업데이트됨",
-      "fr": "Journey mis à jour",
-      "tr": "Journey güncellendi",
-      "zh-CN": "Journey 已更新",
-      "zh-HK": "Journey 已更新"
+      "fr": "Parcours mis à jour",
+      "tr": "Yolculuk güncellendi",
+      "zh-CN": "旅程已更新",
+      "zh-HK": "旅程已更新"
     },
     "Journey Created": {
       "ja": "ジャーニーが作成されました",
-      "es": "Journey creado",
-      "pt": "Journey criado",
+      "es": "Recorrido creado",
+      "pt": "Jornada criada",
       "ko": "저니가 생성됨",
-      "fr": "Journey créé",
-      "tr": "Journey oluşturuldu",
-      "zh-CN": "Journey 已创建",
-      "zh-HK": "Journey 已建立"
+      "fr": "Parcours créé",
+      "tr": "Yolculuk oluşturuldu",
+      "zh-CN": "旅程已创建",
+      "zh-HK": "旅程已建立"
     },
     "Editor": {
       "ja": "エディター",
@@ -13357,8 +13347,8 @@
       "ko": "이메일로 검색",
       "fr": "Rechercher par email",
       "tr": "Email'e göre ara",
-      "zh-CN": "按 Email 搜索",
-      "zh-HK": "按 Email 搜尋"
+      "zh-CN": "按电子邮件搜索",
+      "zh-HK": "按電郵搜尋"
     },
     "App role": {
       "ja": "アプリの役割",
@@ -13427,8 +13417,8 @@
       "ko": "세그먼트 생성됨",
       "fr": "Segment créé",
       "tr": "Segment oluşturuldu",
-      "zh-CN": "Segment 已创建",
-      "zh-HK": "Segment 已建立"
+      "zh-CN": "用户分群已创建",
+      "zh-HK": "用戶分群已建立"
     },
     "Source": {
       "ja": "ソース",
@@ -13497,8 +13487,8 @@
       "ko": "생성 시 푸시 쓰로틀 재정의 허용",
       "fr": "Autoriser le remplacement de la limitation push à la création",
       "tr": "Oluşturma sırasında push sınırlamasının geçersiz kılınmasına izin ver",
-      "zh-CN": "允许在创建时覆盖 Push 限速",
-      "zh-HK": "允許在建立時覆蓋 Push 限速"
+      "zh-CN": "允许在创建时覆盖推送限速",
+      "zh-HK": "允許在建立時覆蓋推送限速"
     },
     "Campaign": {
       "ja": "キャンペーン",
@@ -13547,8 +13537,8 @@
       "ko": "생성 시 재정의하지 않는 한, 이 제한은 각 푸시 메시지에 개별적으로 적용됩니다",
       "fr": "Cette limite sera appliquée à chaque message push individuel sauf si vous la remplacez à la création",
       "tr": "Bu limit, oluşturma sırasında geçersiz kılmadığınız sürece her bir push mesajı için ayrı ayrı uygulanır",
-      "zh-CN": "除非您在创建时覆盖，否则此限制将适用于每条 Push 消息",
-      "zh-HK": "除非您在建立時覆蓋，否則此限制將適用於每條 Push 訊息"
+      "zh-CN": "除非您在创建时覆盖，否则此限制将适用于每条推送消息",
+      "zh-HK": "除非您在建立時覆蓋，否則此限制將適用於每條推送訊息"
     },
     ".p8 Auth Key": {
       "ja": ".p8認証キー",
@@ -13637,8 +13627,8 @@
       "ko": "푸시 알림 자동 제한",
       "fr": "Limiter automatiquement les notifications push",
       "tr": "Push bildirimlerini otomatik olarak sınırla",
-      "zh-CN": "自动限制 Push 通知",
-      "zh-HK": "自動限制 Push 通知"
+      "zh-CN": "自动限制推送通知",
+      "zh-HK": "自動限制推送通知"
     },
     "Bundle ID": {
       "ja": "バンドルID",
@@ -13747,8 +13737,8 @@
       "ko": "푸시 빈도 제한",
       "fr": "Plafonnement de fréquence du push",
       "tr": "Push frekans sınırı",
-      "zh-CN": "Push 频率限制",
-      "zh-HK": "Push 頻率限制"
+      "zh-CN": "推送频率限制",
+      "zh-HK": "推送頻率限制"
     },
     "Push Throttling": {
       "ja": "プッシュスロットリング",
@@ -13757,8 +13747,8 @@
       "ko": "푸시 쓰로틀링",
       "fr": "Limitation du push",
       "tr": "Push sınırlaması",
-      "zh-CN": "Push 限速",
-      "zh-HK": "Push 限速"
+      "zh-CN": "推送限速",
+      "zh-HK": "推送限速"
     },
     "Reply-To": {
       "ja": "返信先",
@@ -13887,8 +13877,8 @@
       "ko": "이메일로 검색",
       "fr": "Rechercher par email",
       "tr": "Email'e göre ara",
-      "zh-CN": "按 Email 搜索",
-      "zh-HK": "按 Email 搜尋"
+      "zh-CN": "按电子邮件搜索",
+      "zh-HK": "按電郵搜尋"
     },
     "To manage your suppression list, go to": {
       "ja": "サプレッションリストを管理するには、次に移動してください:",
@@ -13907,8 +13897,8 @@
       "ko": "이메일 추가",
       "fr": "Ajouter un email",
       "tr": "Email ekle",
-      "zh-CN": "添加 Email",
-      "zh-HK": "新增 Email"
+      "zh-CN": "添加电子邮件",
+      "zh-HK": "新增電郵"
     },
     "Bounce Rate": {
       "ja": "バウンス率",
@@ -13977,8 +13967,8 @@
       "ko": "OneSignal은 이메일의 반송률 및 스팸률을 기준으로 평판을 평가합니다. 스팸률에는 Gmail의 스팸 신고가 포함되지 않습니다. Gmail 스팸 신고를 보려면 Google Postmaster를 설정하세요.",
       "fr": "OneSignal évalue votre réputation en fonction du taux de rebond et du taux de spam de vos emails. Les taux de spam n'incluent pas les signalements de Gmail. Pour voir les signalements de spam de Gmail, configurez Google Postmaster.",
       "tr": "OneSignal, itibarınızı email'lerinizin geri dönüş oranı ve spam oranına göre değerlendirir. Spam oranları Gmail'den gelen spam raporlarını içermez. Gmail spam raporlarını görmek için Google postmaster'ı kurun.",
-      "zh-CN": "OneSignal 根据您 Email 的退回率和垃圾邮件率来评估您的信誉。垃圾邮件率不包含 Gmail 的垃圾邮件报告。要查看 Gmail 垃圾邮件报告，请设置 Google Postmaster。",
-      "zh-HK": "OneSignal 根據您 Email 的退回率和垃圾郵件率來評估您的信譽。垃圾郵件率不包含 Gmail 的垃圾郵件報告。要查看 Gmail 垃圾郵件報告，請設定 Google Postmaster。"
+      "zh-CN": "OneSignal 根据您电子邮件的退回率和垃圾邮件率来评估您的信誉。垃圾邮件率不包含 Gmail 的垃圾邮件报告。要查看 Gmail 垃圾邮件报告，请设置 Google Postmaster。",
+      "zh-HK": "OneSignal 根據您電郵的退回率和垃圾郵件率來評估您的信譽。垃圾郵件率不包含 Gmail 的垃圾郵件報告。要查看 Gmail 垃圾郵件報告，請設定 Google Postmaster。"
     },
     "Password": {
       "ja": "パスワード",
@@ -14117,14 +14107,14 @@
       "ko": "이메일 템플릿 주소 복사",
       "fr": "Copier l'adresse du modèle email",
       "tr": "Email şablonu adresini kopyala",
-      "zh-CN": "复制 Email 模板地址",
-      "zh-HK": "複製 Email 範本地址"
+      "zh-CN": "复制电子邮件模板地址",
+      "zh-HK": "複製電郵範本地址"
     },
     "Data Warehouse Integration": {
       "ja": "データウェアハウス統合",
       "es": "Integración con Data Warehouse",
       "pt": "Integração com Data Warehouse",
-      "ko": "데이터 웨어하우스 통합",
+      "ko": "데이터 웨어하우스 연동",
       "fr": "Intégration Data Warehouse",
       "tr": "Data Warehouse entegrasyonu",
       "zh-CN": "Data Warehouse 集成",
@@ -14137,8 +14127,8 @@
       "ko": "전달된 이메일 템플릿",
       "fr": "Modèles email transférés",
       "tr": "Yönlendirilen email şablonları",
-      "zh-CN": "已转发 Email 模板",
-      "zh-HK": "已轉寄 Email 範本"
+      "zh-CN": "已转发电子邮件模板",
+      "zh-HK": "已轉寄電郵範本"
     },
     "Generate New Email Address": {
       "ja": "新しいメールアドレスを生成",
@@ -14147,8 +14137,8 @@
       "ko": "새 이메일 주소 생성",
       "fr": "Générer une nouvelle adresse email",
       "tr": "Yeni email adresi oluştur",
-      "zh-CN": "生成新 Email 地址",
-      "zh-HK": "生成新 Email 地址"
+      "zh-CN": "生成新电子邮件地址",
+      "zh-HK": "生成新電郵地址"
     },
     "Identity Verification for email + external_id (recommended)": {
       "ja": "メール + external_id用の本人確認 (推奨)",
@@ -14167,8 +14157,8 @@
       "ko": "외부 소스의 이메일을 사용하는 경우 기존의 모든 링크 및 이미지를 직접 호스팅하는 새 리소스를 가리키도록 변경하는 것이 좋습니다.",
       "fr": "Si vous utilisez un email d'une source externe, il est fortement recommandé de modifier tous les liens et images existants pour qu'ils pointent vers de nouvelles ressources que vous hébergez vous-même.",
       "tr": "Harici bir kaynaktan email kullanıyorsanız, mevcut tüm bağlantı ve görselleri kendi barındırdığınız yeni kaynaklara yönlendirecek şekilde değiştirmeniz şiddetle önerilir.",
-      "zh-CN": "如果您使用来自外部来源的 Email，强烈建议您将所有现有链接和图像更改为指向您托管的新资源。",
-      "zh-HK": "如果您使用來自外部來源的 Email，強烈建議您將所有現有連結和圖像更改為指向您託管的新資源。"
+      "zh-CN": "如果您使用来自外部来源的电子邮件，强烈建议您将所有现有链接和图像更改为指向您托管的新资源。",
+      "zh-HK": "如果您使用來自外部來源的電郵，強烈建議您將所有現有連結和圖像更改為指向您託管的新資源。"
     },
     "Incoming Email Templates": {
       "ja": "受信メールテンプレート",
@@ -14177,8 +14167,8 @@
       "ko": "수신 이메일 템플릿",
       "fr": "Modèles email entrants",
       "tr": "Gelen email şablonları",
-      "zh-CN": "传入 Email 模板",
-      "zh-HK": "傳入 Email 範本"
+      "zh-CN": "传入电子邮件模板",
+      "zh-HK": "傳入電郵範本"
     },
     "Key ID": {
       "ja": "キーID",
@@ -14207,8 +14197,8 @@
       "ko": "참고: 현재 HTML 이메일만 허용됩니다. 텍스트 전용 이메일은 대시보드에서 복사하여 붙여넣어 수동으로 만들어야 합니다.",
       "fr": "NOTE : seuls les emails HTML sont actuellement acceptés. Les emails en texte seul doivent être créés manuellement dans le tableau de bord par copier-coller.",
       "tr": "NOT: şu anda yalnızca HTML email'ler kabul edilir; düz metin email'ler panoda kopyalayıp yapıştırarak manuel olarak oluşturulmalıdır.",
-      "zh-CN": "注意: 当前仅接受 HTML Email — 纯文本 Email 应通过复制粘贴在仪表板中手动创建。",
-      "zh-HK": "注意：當前僅接受 HTML Email — 純文字 Email 應透過複製貼上在儀表板中手動建立。"
+      "zh-CN": "注意: 当前仅接受 HTML 电子邮件 — 纯文本电子邮件应通过复制粘贴在仪表板中手动创建。",
+      "zh-HK": "注意：當前僅接受 HTML 電郵 — 純文字電郵應透過複製貼上在儀表板中手動建立。"
     },
     "OneSignal App ID": {
       "ja": "OneSignalアプリID",
@@ -14227,8 +14217,8 @@
       "ko": "API 푸시 알림에 인증 요구 (권장)",
       "fr": "Exiger l'authentification pour les notifications push API (recommandé)",
       "tr": "API push bildirimleri için kimlik doğrulama gereksin (önerilen)",
-      "zh-CN": "对 API Push 通知要求身份验证（推荐）",
-      "zh-HK": "對 API Push 通知要求身份驗證（推薦）"
+      "zh-CN": "对 API 推送通知要求身份验证（推荐）",
+      "zh-HK": "對 API 推送通知要求身份驗證（推薦）"
     },
     "Rest API Key documentation": {
       "ja": "REST APIキー文書",
@@ -14257,8 +14247,8 @@
       "ko": "고유한 이메일 템플릿 이메일 주소",
       "fr": "Adresse email unique du modèle email",
       "tr": "Benzersiz email şablonu email adresi",
-      "zh-CN": "唯一的 Email 模板 Email 地址",
-      "zh-HK": "唯一的 Email 範本 Email 地址"
+      "zh-CN": "唯一的电子邮件模板电子邮件地址",
+      "zh-HK": "唯一的電郵範本電郵地址"
     },
     "Updated at": {
       "ja": "更新日時",
@@ -14317,8 +14307,8 @@
       "ko": "푸시 및 인앱 설정",
       "fr": "Paramètres Push et In-App",
       "tr": "Push ve In-App ayarları",
-      "zh-CN": "Push 和 In-App 设置",
-      "zh-HK": "Push 和 In-App 設定"
+      "zh-CN": "推送和应用内设置",
+      "zh-HK": "推送和應用內設定"
     },
     "Channels Documentation": {
       "ja": "チャネル文書",
@@ -14377,8 +14367,8 @@
       "ko": "사용자당 최대 푸시 알림 수",
       "fr": "Maximum de notifications push par utilisateur",
       "tr": "Kullanıcı başına maksimum push bildirimi",
-      "zh-CN": "每位用户的最大 Push 通知数",
-      "zh-HK": "每位用戶的最大 Push 通知數"
+      "zh-CN": "每位用户的最大推送通知数",
+      "zh-HK": "每位用戶的最大推送通知數"
     },
     "Per Day": {
       "ja": "1日あたり",
@@ -14597,8 +14587,8 @@
       "ko": "OneSignal SMS",
       "fr": "OneSignal SMS",
       "tr": "OneSignal SMS",
-      "zh-CN": "OneSignal SMS",
-      "zh-HK": "OneSignal SMS"
+      "zh-CN": "OneSignal 短信",
+      "zh-HK": "OneSignal 短訊"
     },
     "Opt-Out": {
       "ja": "オプトアウト",
@@ -14637,8 +14627,8 @@
       "ko": "SMS 규제 준수 문서",
       "fr": "Documentation de conformité réglementaire SMS",
       "tr": "SMS düzenleyici uyumluluk dokümantasyonu",
-      "zh-CN": "SMS 监管合规文档",
-      "zh-HK": "SMS 監管合規文件"
+      "zh-CN": "短信监管合规文档",
+      "zh-HK": "短訊監管合規文件"
     },
     "SMS double opt in": {
       "ja": "SMSダブルオプトイン",
@@ -14647,8 +14637,8 @@
       "ko": "SMS 이중 옵트인",
       "fr": "Double opt-in SMS",
       "tr": "SMS çift onay",
-      "zh-CN": "SMS 双重确认",
-      "zh-HK": "SMS 雙重確認"
+      "zh-CN": "短信双重确认",
+      "zh-HK": "短訊雙重確認"
     },
     "START": {
       "ja": "START",
@@ -15007,8 +14997,8 @@
       "ko": "이메일 평판은 OneSignal 이메일에서만 사용할 수 있습니다. ESP 공급자 또는 이메일 평판 도구를 확인하세요.",
       "fr": "La réputation email n'est disponible que pour OneSignal email ; consultez votre fournisseur ESP ou vos outils de réputation email.",
       "tr": "Email itibarı yalnızca OneSignal email için mevcuttur; ESP sağlayıcınıza veya email itibar araçlarına bakın.",
-      "zh-CN": "Email 信誉仅适用于 OneSignal email，请查看您的 ESP 提供商或 Email 信誉工具。",
-      "zh-HK": "Email 信譽僅適用於 OneSignal email，請查看您的 ESP 提供商或 Email 信譽工具。"
+      "zh-CN": "电子邮件信誉仅适用于 OneSignal email，请查看您的 ESP 提供商或电子邮件信誉工具。",
+      "zh-HK": "電郵信譽僅適用於 OneSignal email，請查看您的 ESP 提供商或電郵信譽工具。"
     },
     "OneSignal only provides reputation management for users using OneSignal email.": {
       "ja": "OneSignalはOneSignalメールを使用しているユーザーに対してのみ評判管理を提供します。",
@@ -15027,8 +15017,8 @@
       "ko": "SMS / RCS 설정",
       "fr": "Paramètres SMS / RCS",
       "tr": "SMS / RCS ayarları",
-      "zh-CN": "SMS / RCS 设置",
-      "zh-HK": "SMS / RCS 設定"
+      "zh-CN": "短信 / 富媒体短信设置",
+      "zh-HK": "短訊 / 富媒體短訊設定"
     },
     "Switch Providers": {
       "ja": "プロバイダーを切り替え",
@@ -15047,8 +15037,8 @@
       "ko": "평판을 이해하려면 ESP 공급자 또는 이메일 평판 도구를 확인하세요",
       "fr": "Pour comprendre votre réputation, consultez votre fournisseur ESP ou des outils de réputation email",
       "tr": "İtibarınızı anlamak için ESP sağlayıcınıza veya email itibar araçlarına bakın",
-      "zh-CN": "要了解您的信誉，请查看您的 ESP 提供商或 Email 信誉工具",
-      "zh-HK": "要了解您的信譽，請查看您的 ESP 提供商或 Email 信譽工具"
+      "zh-CN": "要了解您的信誉，请查看您的 ESP 提供商或电子邮件信誉工具",
+      "zh-HK": "要了解您的信譽，請查看您的 ESP 提供商或電郵信譽工具"
     },
     "Member actions": {
       "ja": "メンバーアクション",
@@ -15222,13 +15212,13 @@
     },
     "Can a user re-enter a Journey after exiting or finishing?": {
       "ja": "ユーザーは退出または完了後にジャーニーに再度入ることができますか？",
-      "es": "¿Puede un usuario volver a entrar a un Journey después de salir o terminar?",
-      "pt": "Um usuário pode entrar novamente em um Journey após sair ou concluir?",
+      "es": "¿Puede un usuario volver a entrar a un Recorrido después de salir o terminar?",
+      "pt": "Um usuário pode entrar novamente em uma Jornada após sair ou concluir?",
       "ko": "사용자가 종료하거나 완료한 후에 저니에 다시 진입할 수 있나요?",
-      "fr": "Un utilisateur peut-il entrer à nouveau dans un Journey après en être sorti ou l'avoir terminé ?",
-      "tr": "Kullanıcı çıktıktan veya tamamladıktan sonra bir Journey'e tekrar girebilir mi?",
-      "zh-CN": "用户在退出或完成后能否重新进入 Journey？",
-      "zh-HK": "用戶在退出或完成後能否重新進入 Journey？"
+      "fr": "Un utilisateur peut-il entrer à nouveau dans un Parcours après en être sorti ou l'avoir terminé ?",
+      "tr": "Kullanıcı çıktıktan veya tamamladıktan sonra bir Yolculuğa tekrar girebilir mi?",
+      "zh-CN": "用户在退出或完成后能否重新进入旅程？",
+      "zh-HK": "用戶在退出或完成後能否重新進入旅程？"
     },
     "Days": {
       "ja": "日",
@@ -15297,8 +15287,8 @@
       "ko": "푸시 알림",
       "fr": "Notification push",
       "tr": "Push bildirimi",
-      "zh-CN": "Push 通知",
-      "zh-HK": "Push 通知"
+      "zh-CN": "推送通知",
+      "zh-HK": "推送通知"
     },
     "Send push notification": {
       "ja": "プッシュ通知を送信",
@@ -15307,8 +15297,8 @@
       "ko": "푸시 알림 전송",
       "fr": "Envoyer la notification push",
       "tr": "Push bildirimi gönder",
-      "zh-CN": "发送 Push 通知",
-      "zh-HK": "發送 Push 通知"
+      "zh-CN": "发送推送通知",
+      "zh-HK": "發送推送通知"
     },
     "Set a Push Goal": {
       "ja": "プッシュ目標を設定",
@@ -15317,8 +15307,8 @@
       "ko": "푸시 목표 설정",
       "fr": "Définir un objectif de push",
       "tr": "Push hedefi belirle",
-      "zh-CN": "设置 Push 目标",
-      "zh-HK": "設定 Push 目標"
+      "zh-CN": "设置推送目标",
+      "zh-HK": "設定推送目標"
     },
     "Specify Tags": {
       "ja": "タグを指定",
@@ -15367,28 +15357,28 @@
       "ko": "드래그 가능한 항목을 잡으려면 스페이스 바를 누르세요.\n    드래그하는 동안 화살표 키로 항목을 이동할 수 있습니다.\n    새 위치에 항목을 놓으려면 스페이스 바를 다시 누르고, 취소하려면 Esc 키를 누르세요.",
       "fr": "Pour saisir un élément déplaçable, appuyez sur la barre d'espace.\n    Pendant le déplacement, utilisez les touches fléchées pour déplacer l'élément.\n    Appuyez à nouveau sur Espace pour déposer l'élément à sa nouvelle position, ou sur Échap pour annuler.",
       "tr": "Sürüklenebilir bir öğeyi almak için boşluk tuşuna basın.\n    Sürükleme sırasında, öğeyi hareket ettirmek için ok tuşlarını kullanın.\n    Öğeyi yeni konumuna bırakmak için boşluk tuşuna tekrar basın veya iptal etmek için Esc tuşuna basın.",
-      "zh-CN": "要拾起可拖动项目，请按空格键。\n    拖动时使用方向键移动项目。\n    再次按空格键将项目放到新位置，或按 Esc 键取消。",
-      "zh-HK": "要拾起可拖動項目，請按空格鍵。\n    拖動時使用方向鍵移動項目。\n    再次按空格鍵將項目放到新位置，或按 Esc 鍵取消。"
+      "zh-CN": "要拾起可拖动项目，请按空格键。\n 拖动时使用方向键移动项目。\n 再次按空格键将项目放到新位置，或按 Esc 键取消。",
+      "zh-HK": "要拾起可拖動項目，請按空格鍵。\n 拖動時使用方向鍵移動項目。\n 再次按空格鍵將項目放到新位置，或按 Esc 鍵取消。"
     },
     "Users only receive messages from this Journey once.": {
       "ja": "ユーザーはこのジャーニーから一度だけメッセージを受信します。",
-      "es": "Los usuarios solo reciben mensajes de este Journey una vez.",
-      "pt": "Os usuários recebem mensagens deste Journey apenas uma vez.",
+      "es": "Los usuarios solo reciben mensajes de este Recorrido una vez.",
+      "pt": "Os usuários recebem mensagens desta Jornada apenas uma vez.",
       "ko": "사용자는 이 저니로부터 메시지를 한 번만 받습니다.",
-      "fr": "Les utilisateurs ne reçoivent les messages de ce Journey qu'une seule fois.",
-      "tr": "Kullanıcılar bu Journey'den mesajları yalnızca bir kez alır.",
-      "zh-CN": "用户只会从此 Journey 收到一次消息。",
-      "zh-HK": "用戶只會從此 Journey 收到一次訊息。"
+      "fr": "Les utilisateurs ne reçoivent les messages de ce Parcours qu'une seule fois.",
+      "tr": "Kullanıcılar bu Yolculuktan mesajları yalnızca bir kez alır.",
+      "zh-CN": "用户只会从此旅程收到一次消息。",
+      "zh-HK": "用戶只會從此旅程收到一次訊息。"
     },
     "Users re-enter the Journey after a period of time if they match the entry rules.": {
       "ja": "ユーザーが入場ルールに一致する場合、一定期間後にジャーニーに再度入ります。",
-      "es": "Los usuarios vuelven a entrar al Journey después de un período de tiempo si coinciden con las reglas de entrada.",
-      "pt": "Os usuários entram novamente no Journey após um período de tempo se corresponderem às regras de entrada.",
+      "es": "Los usuarios vuelven a entrar al Recorrido después de un período de tiempo si coinciden con las reglas de entrada.",
+      "pt": "Os usuários entram novamente na Jornada após um período de tempo se corresponderem às regras de entrada.",
       "ko": "사용자가 진입 규칙과 일치하는 경우 일정 기간 후에 저니에 다시 진입합니다.",
-      "fr": "Les utilisateurs entrent à nouveau dans le Journey après un certain temps s'ils correspondent aux règles d'entrée.",
-      "tr": "Kullanıcılar giriş kurallarıyla eşleşirlerse belirli bir süre sonra Journey'e tekrar girerler.",
-      "zh-CN": "如果用户匹配进入规则，他们将在一段时间后重新进入 Journey。",
-      "zh-HK": "如果用戶匹配進入規則，他們將在一段時間後重新進入 Journey。"
+      "fr": "Les utilisateurs entrent à nouveau dans le Parcours après un certain temps s'ils correspondent aux règles d'entrée.",
+      "tr": "Kullanıcılar giriş kurallarıyla eşleşirlerse belirli bir süre sonra Yolculuğa tekrar girerler.",
+      "zh-CN": "如果用户匹配进入规则，他们将在一段时间后重新进入旅程。",
+      "zh-HK": "如果用戶匹配進入規則，他們將在一段時間後重新進入旅程。"
     },
     "Wait": {
       "ja": "待機",
@@ -15462,13 +15452,73 @@
     },
     "action to your Journey before this message step.": {
       "ja": "アクションをこのメッセージステップの前にジャーニーに追加してください。",
-      "es": "acción a tu Journey antes de este paso de mensaje.",
-      "pt": "ação ao seu Journey antes desta etapa de mensagem.",
+      "es": "acción a tu Recorrido antes de este paso de mensaje.",
+      "pt": "ação ao sua Jornada antes desta etapa de mensagem.",
       "ko": "액션을 이 메시지 단계 이전에 저니에 추가하세요.",
-      "fr": "action à votre Journey avant cette étape de message.",
-      "tr": "eylemini bu mesaj adımından önce Journey'inize ekleyin.",
-      "zh-CN": "操作添加到您的 Journey 中，在此消息步骤之前。",
-      "zh-HK": "操作新增到您的 Journey 中，在此訊息步驟之前。"
+      "fr": "action à votre Parcours avant cette étape de message.",
+      "tr": "eylemini bu mesaj adımından önce Yolculuğunuza ekleyin.",
+      "zh-CN": "操作添加到您的旅程中，在此消息步骤之前。",
+      "zh-HK": "操作新增到您的旅程中，在此訊息步驟之前。"
+    },
+    "View Org in Dashboard | View Audit Logs": {
+      "ja": "Dashboard で組織を表示 | 監査ログを表示",
+      "es": "Ver Org en Dashboard | Ver registros de auditoría",
+      "pt": "Ver Org na Dashboard | Ver logs de auditoria",
+      "ko": "Dashboard에서 조직 보기 | 감사 로그 보기",
+      "fr": "Voir l'organisation dans le Dashboard | Voir les journaux d'audit",
+      "tr": "Dashboard'da Org Görüntüle | Denetim Günlüklerini Görüntüle",
+      "zh-CN": "在 Dashboard 中查看组织 | 查看审计日志",
+      "zh-HK": "在 Dashboard 中查看組織 | 查看審計日誌"
+    },
+    "App Disabled": {
+      "ja": "アプリ無効",
+      "es": "App deshabilitada",
+      "pt": "App Desativado",
+      "ko": "앱 비활성화됨",
+      "fr": "App désactivée",
+      "tr": "Uygulama Devre Dışı",
+      "zh-CN": "应用已禁用",
+      "zh-HK": "應用已停用"
+    },
+    "This organization was disabled.": {
+      "ja": "この組織は無効化されました。",
+      "es": "Esta organización fue deshabilitada.",
+      "pt": "Essa organização foi desativada.",
+      "ko": "이 조직이 비활성화되었습니다.",
+      "fr": "Cette organisation a été désactivée.",
+      "tr": "Bu kuruluş devre dışı bırakıldı.",
+      "zh-CN": "此组织已被禁用。",
+      "zh-HK": "此組織已被停用。"
+    },
+    "Portuguese": {
+      "ja": "ポルトガル語",
+      "es": "Portugués",
+      "pt": "Português",
+      "ko": "포르투갈어",
+      "fr": "Portugais",
+      "tr": "Portekizce",
+      "zh-CN": "葡萄牙语",
+      "zh-HK": "葡萄牙文"
+    },
+    "Upgrade to see your users' recent messaging activity including sends, deliveries, and clicks.   Contact Sales": {
+      "ja": "アップグレードして、送信・配信・クリックなどユーザーの最近のメッセージング活動を確認しましょう。   営業担当へ連絡",
+      "es": "Actualice para ver la actividad de mensajería reciente de sus usuarios, incluidos envíos, entregas y clics.   Contactar Ventas",
+      "pt": "Faça upgrade para ver a atividade recente de mensagens dos seus usuários, incluindo envios, entregas e cliques.   Fale com Vendas",
+      "ko": "업그레이드하여 발송, 전달, 클릭 등 사용자의 최근 메시징 활동을 확인하세요.   영업팀 문의",
+      "fr": "Passez à un forfait supérieur pour voir l'activité de messagerie récente de vos utilisateurs, y compris les envois, les livraisons et les clics.   Contacter les ventes",
+      "tr": "Kullanıcılarınızın gönderim, teslimat ve tıklamalar dahil son mesajlaşma etkinliğini görmek için yükseltin.   Satışla İletişime Geçin",
+      "zh-CN": "升级以查看您用户最近的消息活动，包括发送、送达和点击。   联系销售",
+      "zh-HK": "升級以查看您用戶最近的訊息活動，包括發送、送達和點擊。   聯絡銷售"
+    },
+    "for": {
+      "ja": "用",
+      "es": "para",
+      "pt": "para",
+      "ko": "대상",
+      "fr": "pour",
+      "tr": "için",
+      "zh-CN": "用于",
+      "zh-HK": "用於"
     }
   },
   "patterns": [
@@ -15559,8 +15609,8 @@
         "ko": "{1}개 세그먼트 선택됨",
         "fr": "{1} segments sélectionnés",
         "tr": "{1} segment seçildi",
-        "zh-CN": "已选择 {1} 个 Segment",
-        "zh-HK": "已選擇 {1} 個 Segment"
+        "zh-CN": "已选择 {1} 个用户分群",
+        "zh-HK": "已選擇 {1} 個用戶分群"
       }
     },
     {
@@ -16144,8 +16194,8 @@
         "ko": "{1} 이메일 디자인 템플릿 스크린샷",
         "fr": "Capture d'écran du modèle de design email {1}",
         "tr": "{1} email tasarım şablonunun ekran görüntüsü",
-        "zh-CN": "{1} Email 设计模板的截图",
-        "zh-HK": "{1} Email 設計範本的截圖"
+        "zh-CN": "{1} 电子邮件设计模板的截图",
+        "zh-HK": "{1} 電郵設計範本的截圖"
       }
     },
     {
@@ -16170,8 +16220,8 @@
         "ko": "{1} SMS 디자인 템플릿 스크린샷",
         "fr": "Capture d'écran du modèle de design SMS {1}",
         "tr": "{1} SMS tasarım şablonunun ekran görüntüsü",
-        "zh-CN": "{1} SMS 设计模板的截图",
-        "zh-HK": "{1} SMS 設計範本的截圖"
+        "zh-CN": "{1} 短信设计模板的截图",
+        "zh-HK": "{1} 短訊設計範本的截圖"
       }
     },
     {
@@ -16419,6 +16469,19 @@
         "tr": "{1} tarihinden şimdiye kadar denetim günlükleri gösteriliyor",
         "zh-CN": "显示从 {1} 至今的审计日志",
         "zh-HK": "顯示從 {1} 至今的審計日誌"
+      }
+    },
+    {
+      "match": "^Date timestamps are stored in UTC time \\((.+) is (.+) from UTC\\)$",
+      "translations": {
+        "ja": "日付はUTC時刻で保存されています（{1}はUTCから{2}）",
+        "es": "Las fechas se almacenan en UTC ({1} es {2} desde UTC)",
+        "pt": "Os timestamps de data são armazenados em UTC ({1} é UTC{2})",
+        "ko": "날짜 타임스탬프는 UTC 기준으로 저장됩니다 ({1}는 UTC {2})",
+        "fr": "Les horodatages sont stockés au format UTC ({1} est UTC {2})",
+        "tr": "Tarih damgaları UTC zamanında saklanır ({1}, UTC'den {2}'tür)",
+        "zh-CN": "日期时间戳以 UTC 时间存储 ({1} 为 UTC {2})",
+        "zh-HK": "日期時間戳以 UTC 時間儲存 ({1} 為 UTC {2})"
       }
     }
   ]
