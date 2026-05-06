@@ -111,11 +111,31 @@
     missedSession.clear();
   }
 
+  function isInsideSkippedSvgZone(el) {
+    // True if el is inside an <svg> subtree but outside the Highcharts
+    // legend allowlist. Used to skip chart axis labels and per-data-point
+    // aria-labels (which re-render on filter/zoom and pollute the ledger
+    // with rows like "May 2025, 7. Unsubscribed.") while keeping the
+    // legend ("Delivered", "Confirmed receipt", "Clicked", etc.)
+    // translatable. The legend is stable — toggling series visibility
+    // only changes its text-decoration style, not its text content.
+    //
+    // - el == <svg> itself: false (let walks descend to find the legend)
+    // - el inside .highcharts-legend (or the element itself): false
+    // - el inside <svg> but not in the legend: true
+    // - el outside any <svg>: false
+    if (!el || !el.closest) return false;
+    const svg = el.closest("svg");
+    if (!svg || svg === el) return false;
+    return !el.closest(".highcharts-legend");
+  }
+
   function shouldSkip(textNode) {
     const parent = textNode.parentNode;
     if (!parent || parent.nodeType !== Node.ELEMENT_NODE) return true;
     if (SKIP_PARENT_TAGS.has(parent.tagName)) return true;
     if (parent.isContentEditable) return true;
+    if (isInsideSkippedSvgZone(parent)) return true;
     return false;
   }
 
@@ -186,6 +206,14 @@
     return p === "/apps" || p === "/apps/";
   }
 
+  function onSuperUserPage() {
+    // /super-user/* is the OneSignal-internal admin tool. It's not a
+    // customer-facing surface; every text node there is UGC (org names,
+    // user emails, account metadata). Skip translation AND ledger
+    // reporting entirely on these paths.
+    return (window.location.pathname || "").startsWith("/super-user");
+  }
+
   function pathKey() {
     // Collapse long hex/uuid-shaped segments to ":id" so we never send a
     // full app ID or resource ID to the ledger. Pathname only — no query,
@@ -198,6 +226,7 @@
 
   function trackMissed(s) {
     if (onAppSelectorPage()) return;
+    if (onSuperUserPage()) return;
     if (!couldBeUI(s)) return;
     const next = (missedSession.get(s) || 0) + 1;
     missedSession.set(s, next);
@@ -240,6 +269,10 @@
 
   function translateAttributes(el) {
     if (!el || el.nodeType !== Node.ELEMENT_NODE) return;
+    if (onSuperUserPage()) return;
+    // Skip SVG-attribute translation outside the highcharts-legend zone.
+    // Per-data-point aria-labels are accessibility metadata, not real UI.
+    if (isInsideSkippedSvgZone(el)) return;
     for (const attr of TRANSLATABLE_ATTRS) {
       if (!el.hasAttribute(attr)) continue;
       const next = translateString(el.getAttribute(attr));
@@ -251,6 +284,7 @@
 
   function walkAttributes(root) {
     if (!root) return;
+    if (onSuperUserPage()) return;
     if (root.nodeType === Node.ELEMENT_NODE) translateAttributes(root);
     if (root.nodeType !== Node.ELEMENT_NODE && root.nodeType !== Node.DOCUMENT_NODE) return;
     // One querySelectorAll per subtree is cheaper than a TreeWalker for
@@ -268,11 +302,17 @@
 
   function walk(root) {
     if (!root) return;
+    if (onSuperUserPage()) return;
     if (root.nodeType === Node.TEXT_NODE) {
       translateTextNode(root);
       return;
     }
     if (root.nodeType !== Node.ELEMENT_NODE && root.nodeType !== Node.DOCUMENT_NODE) return;
+    // Skip subtrees rooted inside an <svg> but outside the legend.
+    // The <svg> element itself is allowed through so we descend into it
+    // looking for the legend group; the TreeWalker's shouldSkip filter
+    // will reject the non-legend text nodes leaf-by-leaf.
+    if (root.nodeType === Node.ELEMENT_NODE && isInsideSkippedSvgZone(root)) return;
     const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT, {
       acceptNode: (n) => (shouldSkip(n) ? NodeFilter.FILTER_REJECT : NodeFilter.FILTER_ACCEPT),
     });

@@ -535,6 +535,20 @@ version number on the extension card tells you which build is loaded.
   scope for exact-match / regex and isn't covered. Post-V1 roadmap may
   add an LLM fallback, but the ledger should tell us whether that's
   actually worth the cost.
+- **Charts (SVG) are mostly not translated.** Highcharts (and any
+  other `<svg>`-based chart library) replaces its DOM subtree on
+  re-render in ways the MutationObserver races inconsistently —
+  partial translation reads worse than consistent English. The
+  translator skips the entire `<svg>` subtree *with one exception*:
+  Highcharts legend text inside `.highcharts-legend` continues to
+  translate, because the legend is stable (toggling series visibility
+  only restyles, doesn't replace the text). Net effect: chart axis
+  labels, tooltips, and accessibility metadata stay in English; the
+  legend keeps translating.
+- **`/super-user/*` paths are ignored.** The OneSignal-internal admin
+  tool isn't customer-facing and contains only UGC (org names, customer
+  emails, account metadata). Translation and ledger reporting are both
+  disabled on those paths.
 
 ## Development
 
