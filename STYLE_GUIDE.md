@@ -22,20 +22,38 @@ If still ambiguous, follow the existing pattern in `languages.json`.
 
 ## Global rules
 
-### 1. Brand and product names: preserve in Latin
+### 1. Brand and vendor names: preserve in Latin
 
-Never transliterate or translate.
+Never transliterate or translate **brand names**.
 
 - **Companies / vendors**: OneSignal, Twilio, Amplitude, Mixpanel, HubSpot,
-  Segment (when the company), Mailgun, Snowflake, BigQuery, Postgres, MySQL,
-  ClickHouse, Trino, Adobe, Apache Kafka, AWS, Google, Apple, Microsoft,
-  Mozilla, Firefox, Chrome, Edge, Safari.
-- **OneSignal product feature names**: Journey, Journeys, Outcome, Outcomes,
-  In-App, Live Activity, Data Feed, Subscription. Locked in the glossary.
+  Segment (when the company — i.e. Twilio Segment), Mailgun, Snowflake,
+  BigQuery, Postgres, MySQL, ClickHouse, Trino, Adobe, Apache Kafka, AWS,
+  Google, Apple, Microsoft, Mozilla, Firefox, Chrome, Edge, Safari.
+- **Technical protocol/term loanwords with no natural translation**:
+  Webhook, API, SDK, CSV, URL, HTML, JSON.
 
-When "Segment" refers to the OneSignal feature, treat it as a feature name.
-When it refers to the company (Twilio Segment), treat it as a brand. Both
-stay Latin in the dashboard context.
+**Generic marketing channel and feature names ARE translated** per the
+glossary into the natural form for each target language. This includes:
+Push, Email, SMS, RCS, In-App, Live Activity / Live Activities, Journey /
+Journeys, Segment / Segments (the OneSignal feature, distinct from
+Twilio Segment the company), Outcome / Outcomes, Subscription, Data Feed.
+
+How aggressively to translate depends on what's natural in the target
+language:
+
+- **East Asian (ja, ko, zh-CN, zh-HK)**: translate to native script
+  (e.g. Push → 推送 / 推送 / プッシュ / 푸시).
+- **European (es, pt, fr, tr)**: many of these terms — "Push", "Email",
+  "SMS", "RCS" — are used in Latin form by marketers natively in those
+  languages. Don't force a translation that reads less natural than
+  what marketers actually say. Turkish "E-posta" for Email is the one
+  exception — it's the standard Turkish term. Use the glossary to lock
+  the natural choice.
+
+When "Segment" refers to the OneSignal feature, translate. When it
+refers to the company (Twilio Segment), keep in Latin and use the
+`_skip_keys` glossary mechanism to exempt those source strings.
 
 ### 2. Martech meaning, not generic meaning
 
