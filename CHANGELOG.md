@@ -11,21 +11,22 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ### Changed
 
-- **Charts (SVG content) are no longer translated.** The text walker,
-  attribute walker, and MutationObserver now all skip subtrees rooted
-  at any `<svg>` element. Previously chart axis labels and legend
-  text were inconsistently translated — some labels caught on first
-  paint, others (e.g. labels rendered after a filter change or zoom)
-  reverting to English — because Highcharts replaces SVG subtrees on
-  re-render in ways our observer races. Consistent English chart
-  chrome reads better than partial translation. Net effect on the
-  user: chart labels (`May '25`, `Jul '25`, `Confirmed receipt`,
-  `Clicked`, etc.) stay in English. Net effect on the missed-string
-  ledger: a major reduction. Each chart had been generating one
-  `aria-label` ledger entry per data point per series — for a
-  monthly chart with four series, that's 50+ rows of accessibility
-  metadata like `"May 2025, 7. Unsubscribed."` per page-load. Those
-  are now suppressed entirely.
+- **Charts (SVG content) are no longer translated, with one
+  exception: the Highcharts legend.** The text walker, attribute
+  walker, and MutationObserver skip subtrees inside `<svg>` *unless*
+  they're inside `.highcharts-legend`. Axis labels (`May '25`,
+  `Jul '25`), data-point markers, and accessibility aria-labels
+  (`"May 2025, 7. Unsubscribed."`) all stop translating; the legend
+  text (`Delivered`, `Confirmed receipt`, `Clicked`,
+  `Unsubscribed`, etc.) keeps translating because it's stable —
+  toggling series visibility only changes the legend's
+  `text-decoration` style, not the text content, so the race
+  condition that hits axis labels doesn't apply. Net effects: chart
+  axis chrome reads consistent English, the legend keeps reading in
+  the active language, and the missed-string ledger drops a
+  major source of noise — each chart had been generating one
+  aria-label entry per data point per series (50+ rows per page-load
+  on a monthly chart with four series).
 
 ### Removed
 

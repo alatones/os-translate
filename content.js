@@ -111,20 +111,31 @@
     missedSession.clear();
   }
 
+  function isInsideSkippedSvgZone(el) {
+    // True if el is inside an <svg> subtree but outside the Highcharts
+    // legend allowlist. Used to skip chart axis labels and per-data-point
+    // aria-labels (which re-render on filter/zoom and pollute the ledger
+    // with rows like "May 2025, 7. Unsubscribed.") while keeping the
+    // legend ("Delivered", "Confirmed receipt", "Clicked", etc.)
+    // translatable. The legend is stable — toggling series visibility
+    // only changes its text-decoration style, not its text content.
+    //
+    // - el == <svg> itself: false (let walks descend to find the legend)
+    // - el inside .highcharts-legend (or the element itself): false
+    // - el inside <svg> but not in the legend: true
+    // - el outside any <svg>: false
+    if (!el || !el.closest) return false;
+    const svg = el.closest("svg");
+    if (!svg || svg === el) return false;
+    return !el.closest(".highcharts-legend");
+  }
+
   function shouldSkip(textNode) {
     const parent = textNode.parentNode;
     if (!parent || parent.nodeType !== Node.ELEMENT_NODE) return true;
     if (SKIP_PARENT_TAGS.has(parent.tagName)) return true;
     if (parent.isContentEditable) return true;
-    // Skip text inside SVG subtrees. Charts (Highcharts, etc.) render axis
-    // labels, legend text, and accessibility aria-labels for every data
-    // point as SVG. Even when we can translate them, chart re-renders
-    // (filter changes, zoom, etc.) replace the SVG subtree and our
-    // observer races those updates inconsistently — partial translation
-    // looks worse than consistent English. Skipping the whole subtree
-    // also kills a major source of ledger noise: chart aria-labels like
-    // "May 2025, 7. Unsubscribed." (one per data point per series).
-    if (parent.closest("svg")) return true;
+    if (isInsideSkippedSvgZone(parent)) return true;
     return false;
   }
 
@@ -259,9 +270,9 @@
   function translateAttributes(el) {
     if (!el || el.nodeType !== Node.ELEMENT_NODE) return;
     if (onSuperUserPage()) return;
-    // Same SVG-skip rationale as shouldSkip(): SVG aria-labels are
-    // per-data-point chart accessibility metadata, not real UI.
-    if (el.closest("svg")) return;
+    // Skip SVG-attribute translation outside the highcharts-legend zone.
+    // Per-data-point aria-labels are accessibility metadata, not real UI.
+    if (isInsideSkippedSvgZone(el)) return;
     for (const attr of TRANSLATABLE_ATTRS) {
       if (!el.hasAttribute(attr)) continue;
       const next = translateString(el.getAttribute(attr));
@@ -297,10 +308,11 @@
       return;
     }
     if (root.nodeType !== Node.ELEMENT_NODE && root.nodeType !== Node.DOCUMENT_NODE) return;
-    // Skip the whole subtree if root is (or is inside) an <svg>. Saves
-    // descending through Highcharts' hundreds of <g>/<text>/<path> nodes
-    // every time a chart re-renders.
-    if (root.nodeType === Node.ELEMENT_NODE && root.closest("svg")) return;
+    // Skip subtrees rooted inside an <svg> but outside the legend.
+    // The <svg> element itself is allowed through so we descend into it
+    // looking for the legend group; the TreeWalker's shouldSkip filter
+    // will reject the non-legend text nodes leaf-by-leaf.
+    if (root.nodeType === Node.ELEMENT_NODE && isInsideSkippedSvgZone(root)) return;
     const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT, {
       acceptNode: (n) => (shouldSkip(n) ? NodeFilter.FILTER_REJECT : NodeFilter.FILTER_ACCEPT),
     });
