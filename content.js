@@ -226,7 +226,7 @@
   // cells — translation is still attempted (subtext patterns like
   // "Last Session greater than 168 hours ago" still translate), only
   // the missed-string ledger is filtered.
-  const NAME_HEADER_SOURCE_TERMS = ["Name", "Title", "ID", "Identifier"];
+  const NAME_HEADER_SOURCE_TERMS = ["Name", "Title", "ID", "Identifier", "Label"];
   let nameColumnHeaders = new Set();
   function buildNameColumnHeaders() {
     const headers = new Set(NAME_HEADER_SOURCE_TERMS);
@@ -280,6 +280,26 @@
     return nameIdx === cellIdx;
   }
 
+  // Page chrome that's overwhelmingly UGC: the breadcrumb trail at the
+  // top of every page (org name → app name → section) and the app/
+  // account switcher in the top-right (app name + signed-in email).
+  // Both render on essentially every page-load and dominate the ledger
+  // with the same dozen org/app names per install. Translation isn't
+  // suppressed — these are styled-component class prefixes from the
+  // OneSignal dashboard, so the closest() match is robust to per-build
+  // hash suffix changes.
+  const UGC_CHROME_SELECTOR = [
+    "[class*='BreadcrumbTrail__']",
+    "[class*='BreadcrumbItem__']",
+    "[class*='CleanSidebar__AppSwitcher']",
+    "[class*='AppAccountDropdown']",
+  ].join(",");
+  function isInUgcChrome(textNode) {
+    const parent = textNode && textNode.parentNode;
+    if (!parent || !parent.closest) return false;
+    return !!parent.closest(UGC_CHROME_SELECTOR);
+  }
+
   function pathKey() {
     // Collapse long hex/uuid-shaped segments to ":id" so we never send a
     // full app ID or resource ID to the ledger. Pathname only — no query,
@@ -295,11 +315,15 @@
     if (onSuperUserPage()) return;
     if (!couldBeUI(s)) return;
     // Skip ledger reporting (but not translation) for cells in the
-    // "Name / Title / ID"-style identifier column of any table —
-    // those cells are dominated by user-generated record names.
-    // Subtext patterns like "User Tag X is activated" still translate
-    // because translation is gated separately upstream.
+    // "Name / Title / ID / Label"-style identifier column of any
+    // table — those cells are dominated by user-generated record
+    // names. Subtext patterns like "User Tag X is activated" still
+    // translate because translation is gated separately upstream.
     if (context && context.textNode && isInNameColumn(context.textNode)) return;
+    // Skip ledger reporting for the breadcrumb trail and app/account
+    // switcher chrome — both render on every page-load and surface
+    // org/app names + emails over and over.
+    if (context && context.textNode && isInUgcChrome(context.textNode)) return;
     const next = (missedSession.get(s) || 0) + 1;
     missedSession.set(s, next);
     if (next < MISSED_SEEN_THRESHOLD) return;
