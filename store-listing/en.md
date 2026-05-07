@@ -1,9 +1,9 @@
-Translate the OneSignal admin dashboard into seven languages instantly (Japanese, Spanish, Portuguese, Korean, French, Turkish, and Simplified Chinese) without leaving Chrome.
+Translate the OneSignal admin dashboard into eight languages instantly (Japanese, Spanish, Portuguese, Korean, French, Turkish, Simplified Chinese, and Traditional Chinese) without leaving Chrome.
 
 This extension localizes the entire OneSignal interface (menus, buttons, labels, status badges, modals, charts, and copy) into your chosen language with one click. Built for marketers, product managers, and CRM operations professionals running push notification, email, SMS, and in-app messaging campaigns through OneSignal in non-English-speaking markets.
 
 ✦ SUPPORTED LANGUAGES
-Each language ships at full coverage — over 1,500 dashboard strings plus 73 dynamic patterns for date formats, counts, percentages, and time-ago labels:
+Each language ships at full coverage — over 1,700 dashboard strings plus 98 dynamic patterns for date formats, counts, percentages, and time-ago labels:
 • Japanese (日本語)
 • Spanish (Español, LATAM-neutral)
 • Portuguese (Português Brasileiro / pt-BR)
@@ -11,6 +11,7 @@ Each language ships at full coverage — over 1,500 dashboard strings plus 73 dy
 • French (Français)
 • Turkish (Türkçe)
 • Simplified Chinese (简体中文)
+• Traditional Chinese, HK (繁體中文)
 
 ✦ HOW IT WORKS
 1. Install the extension and pin it to your Chrome toolbar.
