@@ -44,6 +44,13 @@ project follows [Semantic Versioning](https://semver.org/) — see
   against an allowlist of known UGC-picker labels. Translation
   still runs through the listbox normally; only ledger reporting
   is suppressed.
+- **Cohort-sync filter rows** (Mixpanel / Segment.com / Amplitude)
+  now also flagged via the value-picker filter, using the sibling
+  `FilterForm__FilterTitle` text as the signal. Catches both the
+  portaled listbox options AND the `css-1dimb5e-singleValue`
+  display showing the currently-selected cohort name. Same helper
+  (`isInUgcValuePicker`); the new path runs when `closest()` from
+  the input lands inside a `[class*='FilterForm__Filter-']` row.
 - **2 more translations** for empty-state and audience-description
   prose: `A group of users` and `You don't have any segments`,
   full coverage across all 8 languages. (For es/pt/fr the segment-

@@ -387,6 +387,16 @@
     /^Label is$/,
     /^Labels \(\d+\/\d+\)$/,
   ];
+  // FilterForm rows for third-party cohort-sync sources. The user picks
+  // a cohort from a react-select whose options (and currently-selected
+  // singleValue) are all user-defined data — UGC. Identified by the
+  // sibling FilterTitle text. Brand names per the style guide stay
+  // Latin in every language, so no per-language translation needed.
+  const UGC_VALUE_PICKER_FILTER_TITLE_NAMES = new Set([
+    "Mixpanel",
+    "Segment.com",
+    "Amplitude",
+  ]);
   // Source-text strings for which we'll also include the active-language
   // translations (so the rule works when the dashboard label is rendered
   // in Korean / Chinese / etc.).
@@ -418,15 +428,37 @@
   }
   function isInUgcValuePicker(el) {
     if (!el || !el.closest) return false;
-    const listbox = el.closest(
-      "[id^='react-select-'][id$='-listbox']",
-    );
-    if (!listbox) return false;
-    const m = listbox.id.match(/^react-select-(\d+)-listbox$/);
-    if (!m) return false;
-    const input = document.getElementById("react-select-" + m[1] + "-input");
-    if (!input) return false;
-    let walk = input.parentElement;
+    // For listbox options the listbox is often portaled away from the
+    // picker — walk back via the shared react-select-N-input so the
+    // ancestor checks below see the picker's structural parent. For
+    // text inside the picker control itself (e.g. css-1dimb5e-singleValue
+    // showing the currently-selected value), no walk-back needed.
+    let probe = el;
+    const listbox = el.closest("[id^='react-select-'][id$='-listbox']");
+    if (listbox) {
+      const m = listbox.id.match(/^react-select-(\d+)-listbox$/);
+      if (m) {
+        const input = document.getElementById(
+          "react-select-" + m[1] + "-input",
+        );
+        if (input) probe = input;
+      }
+    }
+    // Path A: cohort-sync FilterForm row. The FilterTitle text names the
+    // data source (Mixpanel / Segment.com / Amplitude); the value picker
+    // and its options are all user-defined cohorts.
+    const filterRow = probe.closest("[class*='FilterForm__Filter-']");
+    if (filterRow) {
+      const titleEl = filterRow.querySelector(
+        "[class*='FilterForm__FilterTitle-']",
+      );
+      if (titleEl) {
+        const text = (titleEl.textContent || "").trim();
+        if (UGC_VALUE_PICKER_FILTER_TITLE_NAMES.has(text)) return true;
+      }
+    }
+    // Path B: legacy <label>-tagged picker (Label is, Labels (N/M), …).
+    let walk = probe.parentElement;
     for (let i = 0; i < 6 && walk; i++) {
       const label = walk.querySelector("label");
       if (label) {
