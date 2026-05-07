@@ -7,6 +7,22 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
+## [1.5.3] — 2026-05-06
+
+### Fixed
+
+- **Name-column ledger filter now matches *all* identifier columns,
+  not just the first one.** The 1.5.0 implementation iterated table
+  headers but stopped at the first match — e.g. on a Messages table
+  with columns `Name | Labels | Status | …`, the loop matched `Name`
+  at index 0 and never registered `Labels` at index 1, so UGC label
+  values like "Crown Bingo", "Joy Test", "Crown Casino" continued
+  hitting the missed-string ledger. The cache now stores a `Set` of
+  indices per table; `isInNameColumn` does set membership instead
+  of equality. Renamed: `findNameColumnIndex` →
+  `findNameColumnIndices`, `tableNameColumnCache` →
+  `tableNameColumnsCache`.
+
 ## [1.5.2] — 2026-05-06
 
 ### Fixed
@@ -498,7 +514,8 @@ entries + 73 regex patterns**:
   every supported language" rule and (added with this changelog) the
   versioning convention.
 
-[Unreleased]: https://github.com/alatones/os-translate/compare/v1.5.2...HEAD
+[Unreleased]: https://github.com/alatones/os-translate/compare/v1.5.3...HEAD
+[1.5.3]: https://github.com/alatones/os-translate/compare/v1.5.2...v1.5.3
 [1.5.2]: https://github.com/alatones/os-translate/compare/v1.5.1...v1.5.2
 [1.5.1]: https://github.com/alatones/os-translate/compare/v1.5.0...v1.5.1
 [1.5.0]: https://github.com/alatones/os-translate/compare/v1.4.0...v1.5.0
