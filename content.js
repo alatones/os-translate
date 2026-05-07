@@ -243,6 +243,7 @@
     "Email",
     "Tags",
     "Event name",
+    "Destination URL",
   ];
   let nameColumnHeaders = new Set();
   function buildNameColumnHeaders() {

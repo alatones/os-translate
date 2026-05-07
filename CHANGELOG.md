@@ -114,6 +114,16 @@ project follows [Semantic Versioning](https://semver.org/) — see
   IDs, addresses, tag values, custom event names), so the matching
   cells are now suppressed from the missed-string ledger. Translation
   still runs through them.
+- **`Destination URL`** added to the Name-column ledger filter.
+- **5 more translations**:
+  - `CDP` — industry acronym (Customer Data Platform), Latin in
+    every language to match the API/SDK pattern.
+  - `We couldn't find any results` — generic empty-state copy.
+  - Long descriptive paragraphs for the test-domain warning, the
+    Double Opt-In feature, and the Re-Subscribe keywords feature
+    (shown on the Subscriptions / Email config screens). Industry
+    feature names (`Double Opt-In` / `Double Opt In`) kept Latin
+    in all languages.
 - **5 more translations**: `Live Activities Push-to-Start`,
   `Live Activities Push-to-Update` (Apple compound terms — kept
   Latin and exempted from the `Push` / `Update` glossary locks via

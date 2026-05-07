@@ -16849,6 +16849,56 @@
       "tr": "kontrol paneli",
       "zh-CN": "仪表板",
       "zh-HK": "儀表板"
+    },
+    "CDP": {
+      "ja": "CDP",
+      "es": "CDP",
+      "pt": "CDP",
+      "ko": "CDP",
+      "fr": "CDP",
+      "tr": "CDP",
+      "zh-CN": "CDP",
+      "zh-HK": "CDP"
+    },
+    "We couldn't find any results": {
+      "ja": "結果が見つかりませんでした",
+      "es": "No se encontraron resultados",
+      "pt": "Não encontramos nenhum resultado",
+      "ko": "검색 결과가 없습니다",
+      "fr": "Aucun résultat trouvé",
+      "tr": "Sonuç bulunamadı",
+      "zh-CN": "未找到任何结果",
+      "zh-HK": "未找到任何結果"
+    },
+    "You're using OneSignal's test domain to send emails, which shares a reputation with other OneSignal email senders. Set up an authenticated sender to own your email reputation and improve your email deliverability.": {
+      "ja": "メール送信にOneSignalのテストドメインを使用しており、他のOneSignalメール送信者と評価を共有しています。認証済み送信者を設定して、独自のメール評価を確立し、配信性を向上させましょう。",
+      "es": "Estás usando el dominio de prueba de OneSignal para enviar Email, lo que comparte reputación con otros Remitentes de Email de OneSignal. Configura un Remitente autenticado para tener tu propia reputación de Email y mejorar la entrega.",
+      "pt": "Você está usando o domínio de teste do OneSignal para enviar Email, o que compartilha reputação com outros Remetentes de Email do OneSignal. Configure um Remetente autenticado para ter sua própria reputação de Email e melhorar a entrega.",
+      "ko": "OneSignal의 테스트 도메인을 사용하여 이메일을 발송하고 있으며, 이는 다른 OneSignal 이메일 발신자와 평판을 공유합니다. 인증된 발신자를 설정하여 자체 이메일 평판을 확립하고 전달률을 개선하세요.",
+      "fr": "Vous utilisez le domaine de test de OneSignal pour envoyer des Email, ce qui partage la réputation avec d'autres Expéditeurs Email OneSignal. Configurez un Expéditeur authentifié pour posséder votre réputation Email et améliorer la livraison.",
+      "tr": "OneSignal'in test alan adını kullanarak E-posta gönderiyorsunuz; bu, diğer OneSignal E-posta Gönderenleri ile itibarınızı paylaşır. Kendi E-posta itibarınıza sahip olmak ve teslim oranınızı artırmak için kimlik doğrulamalı bir Gönderen yapılandırın.",
+      "zh-CN": "您正在使用 OneSignal 的测试域名发送 Email，这会与其他 OneSignal Email 发件人共享信誉。设置经过身份验证的发件人，建立您自己的 Email 信誉并提升送达率。",
+      "zh-HK": "您正在使用 OneSignal 的測試域名發送 Email，這會與其他 OneSignal Email 發件人共享信譽。設置經過身份驗證的發件人，建立您自己的 Email 信譽並提升送達率。"
+    },
+    "Double Opt-In will default users into a pending state when added to OneSignal and automatically prompt the user to confirm they'd like to subscribe. Once confirmed, we'll subscribe the user. Double Opt In ensures genuine user consent, enhances engagement, reduces spam complaints, and complies with regulations like TCPA and GDPR.": {
+      "ja": "Double Opt-Inは、OneSignalに追加されたユーザーをデフォルトで保留状態にし、購読を希望するか確認するよう自動的に促します。確認後、ユーザーを購読登録します。Double Opt Inは、真のユーザー同意を確保し、エンゲージメントを高め、スパム苦情を減らし、TCPAやGDPRなどの規制に準拠します。",
+      "es": "Double Opt-In coloca a los usuarios en un estado pendiente al añadirse a OneSignal y les solicita automáticamente que confirmen si desean suscribirse. Una vez confirmada la Suscripción, suscribimos al usuario. Double Opt In garantiza el consentimiento genuino del usuario, mejora la interacción, reduce las quejas por spam y cumple con regulaciones como TCPA y GDPR.",
+      "pt": "Double Opt-In coloca os usuários em estado pendente quando adicionados ao OneSignal e solicita automaticamente que o usuário confirme se deseja se inscrever. Após a confirmação, inscrevemos o usuário. Double Opt In garante o consentimento genuíno do usuário, aumenta o engajamento, reduz reclamações de spam e está em conformidade com regulamentações como TCPA e GDPR.",
+      "ko": "Double Opt-In은 OneSignal에 추가된 사용자를 기본적으로 대기 상태로 설정하고, 구독을 원하는지 확인하도록 사용자에게 자동으로 요청합니다. 확인이 완료되면 사용자의 구독을 등록합니다. Double Opt In은 사용자의 진정한 동의를 보장하고, 참여도를 높이며, 스팸 신고를 줄이고, TCPA 및 GDPR과 같은 규정을 준수합니다.",
+      "fr": "Double Opt-In place les utilisateurs en état d'attente par défaut lorsqu'ils sont ajoutés à OneSignal et leur demande automatiquement de confirmer leur Abonnement. Une fois confirmé, nous abonnons l'utilisateur. Double Opt In garantit le consentement authentique de l'utilisateur, améliore l'engagement, réduit les plaintes de spam et respecte les réglementations comme la TCPA et le RGPD.",
+      "tr": "Double Opt-In, OneSignal'e eklenen kullanıcıları varsayılan olarak bekleme durumuna alır ve abone olmak isteyip istemediklerini onaylamalarını otomatik olarak ister. Onaylandığında kullanıcıyı abone ederiz. Double Opt In, gerçek kullanıcı onayını sağlar, etkileşimi artırır, spam şikayetlerini azaltır ve TCPA ve GDPR gibi düzenlemelere uyar.",
+      "zh-CN": "Double Opt-In 会将添加到 OneSignal 的用户默认设置为待处理状态，并自动提示用户确认是否希望订阅。确认后，我们会订阅该用户。Double Opt In 可确保真实的用户同意，提升参与度，减少垃圾邮件投诉，并符合 TCPA 和 GDPR 等法规。",
+      "zh-HK": "Double Opt-In 會將添加到 OneSignal 的用戶默認設置為待處理狀態，並自動提示用戶確認是否希望訂閱。確認後，我們會訂閱該用戶。Double Opt In 可確保真實的用戶同意，提升參與度，減少垃圾郵件投訴，並符合 TCPA 和 GDPR 等法規。"
+    },
+    "Re-Subscribe keywords are only activated when a user has already unsubscribed and is on the phone number or message service's blocklist. When we receive re-subscribe keywords, we'll automatically re-subscribe the user and take them off the phone number or message service's blocklist.": {
+      "ja": "再購読キーワードは、ユーザーがすでに購読解除しており、電話番号またはメッセージサービスのブロックリストに登録されている場合にのみ有効化されます。再購読キーワードを受信すると、ユーザーを自動的に再購読登録し、電話番号またはメッセージサービスのブロックリストから削除します。",
+      "es": "Las palabras clave de Re-Suscripción solo se activan cuando un usuario ya se ha dado de baja y está en la lista de bloqueo del número de teléfono o del servicio de mensajería. Cuando recibimos palabras clave de re-suscripción, volvemos a suscribir al usuario automáticamente y lo eliminamos de la lista de bloqueo del número de teléfono o del servicio de mensajería.",
+      "pt": "As palavras-chave de Reinscrição só são ativadas quando um usuário já cancelou a inscrição e está na lista de bloqueio do número de telefone ou serviço de mensagens. Quando recebemos palavras-chave de reinscrição, reinscrevemos o usuário automaticamente e o removemos da lista de bloqueio do número de telefone ou serviço de mensagens.",
+      "ko": "재구독 키워드는 사용자가 이미 구독을 해지했고 전화번호 또는 메시지 서비스의 차단 목록에 있는 경우에만 활성화됩니다. 재구독 키워드를 받으면 사용자를 자동으로 다시 구독시키고 전화번호 또는 메시지 서비스의 차단 목록에서 제거합니다.",
+      "fr": "Les mots-clés de Réabonnement ne sont activés que lorsqu'un utilisateur s'est déjà désabonné et figure sur la liste de blocage du numéro de téléphone ou du service de messagerie. Lorsque nous recevons des mots-clés de réabonnement, nous réabonnons automatiquement l'utilisateur et le retirons de la liste de blocage du numéro de téléphone ou du service de messagerie.",
+      "tr": "Yeniden Abonelik anahtar kelimeleri, yalnızca bir kullanıcı zaten aboneliğini iptal etmişse ve telefon numarasının veya mesaj hizmetinin engelleme listesinde yer alıyorsa etkinleştirilir. Yeniden abonelik anahtar kelimelerini aldığımızda, kullanıcıyı otomatik olarak yeniden abone ederiz ve telefon numarasının veya mesaj hizmetinin engelleme listesinden çıkarırız.",
+      "zh-CN": "重新订阅关键词仅在用户已取消订阅且位于电话号码或消息服务的屏蔽列表中时才会激活。当我们收到重新订阅关键词时，会自动重新订阅该用户并将其从电话号码或消息服务的屏蔽列表中移除。",
+      "zh-HK": "重新訂閱關鍵字僅在用戶已取消訂閱且位於電話號碼或訊息服務的屏蔽列表中時才會激活。當我們收到重新訂閱關鍵字時，會自動重新訂閱該用戶並將其從電話號碼或訊息服務的屏蔽列表中移除。"
     }
   },
   "patterns": [
