@@ -114,6 +114,10 @@ project follows [Semantic Versioning](https://semver.org/) — see
   IDs, addresses, tag values, custom event names), so the matching
   cells are now suppressed from the missed-string ledger. Translation
   still runs through them.
+- **5 more translations**: `Live Activities Push-to-Start`,
+  `Live Activities Push-to-Update` (Apple compound terms — kept
+  Latin and exempted from the `Push` / `Update` glossary locks via
+  `_skip_keys`), `Sent At`, `Test`, `dashboard`.
 - **89 more translations** from a second feedback batch:
   - **40 language names** (Arabic through Vietnamese, plus English,
     Chinese (Simplified), Chinese (Traditional)) — translated to each

@@ -16799,6 +16799,56 @@
       "tr": "özellik",
       "zh-CN": "属性",
       "zh-HK": "屬性"
+    },
+    "Live Activities Push-to-Start": {
+      "ja": "ライブアクティビティ Push-to-Start",
+      "es": "Live Activities Push-to-Start",
+      "pt": "Live Activities Push-to-Start",
+      "ko": "라이브 액티비티 Push-to-Start",
+      "fr": "Live Activities Push-to-Start",
+      "tr": "Live Activities Push-to-Start",
+      "zh-CN": "实时活动 Push-to-Start",
+      "zh-HK": "即時動態 Push-to-Start"
+    },
+    "Live Activities Push-to-Update": {
+      "ja": "ライブアクティビティ Push-to-Update",
+      "es": "Live Activities Push-to-Update",
+      "pt": "Live Activities Push-to-Update",
+      "ko": "라이브 액티비티 Push-to-Update",
+      "fr": "Live Activities Push-to-Update",
+      "tr": "Live Activities Push-to-Update",
+      "zh-CN": "实时活动 Push-to-Update",
+      "zh-HK": "即時動態 Push-to-Update"
+    },
+    "Sent At": {
+      "ja": "送信日時",
+      "es": "Enviado el",
+      "pt": "Enviado em",
+      "ko": "발송 시간",
+      "fr": "Envoyé le",
+      "tr": "Gönderim zamanı",
+      "zh-CN": "发送时间",
+      "zh-HK": "發送時間"
+    },
+    "Test": {
+      "ja": "テスト",
+      "es": "Prueba",
+      "pt": "Teste",
+      "ko": "테스트",
+      "fr": "Test",
+      "tr": "Test",
+      "zh-CN": "测试",
+      "zh-HK": "測試"
+    },
+    "dashboard": {
+      "ja": "ダッシュボード",
+      "es": "panel",
+      "pt": "painel",
+      "ko": "대시보드",
+      "fr": "tableau de bord",
+      "tr": "kontrol paneli",
+      "zh-CN": "仪表板",
+      "zh-HK": "儀表板"
     }
   },
   "patterns": [
