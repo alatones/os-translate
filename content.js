@@ -308,6 +308,21 @@
     return !!parent.closest(UGC_CHROME_SELECTOR);
   }
 
+  // Auto-suggest popover. The dashboard renders one whenever the user
+  // types into a property/tag/event-name input that suggests matches
+  // from their own account data — by definition UGC. The styled-
+  // component prefix `AutoSuggestPopoverMenu__` is set by the
+  // dashboard's app code (so it's stable across builds), and it tags
+  // both the <ul> menu container (MatchList) and each <li> option
+  // (Match), so a single closest() reaches both. Translation still
+  // runs through the popover; only ledger reporting is suppressed.
+  const UGC_AUTOSUGGEST_SELECTOR = "[class*='AutoSuggestPopoverMenu__']";
+  function isInUgcAutoSuggest(textNode) {
+    const parent = textNode && textNode.parentNode;
+    if (!parent || !parent.closest) return false;
+    return !!parent.closest(UGC_AUTOSUGGEST_SELECTOR);
+  }
+
   // Filter-value picker dropdowns (Label is, Tag is, etc.) show options
   // sourced from the user's account data — UGC. The dashboard renders
   // them with react-select, and when the menu opens it portals away from
@@ -405,6 +420,10 @@
     // dropdowns ("Label is", "Labels (0/5)", etc.) — those show
     // user-defined values from the account.
     if (context && context.textNode && isInUgcValuePicker(context.textNode)) return;
+    // Skip ledger reporting for auto-suggest popover content (property
+    // names, tag names, event names suggested from the user's own
+    // account data — UGC by definition).
+    if (context && context.textNode && isInUgcAutoSuggest(context.textNode)) return;
     const next = (missedSession.get(s) || 0) + 1;
     missedSession.set(s, next);
     if (next < MISSED_SEEN_THRESHOLD) return;

@@ -23,6 +23,16 @@ project follows [Semantic Versioning](https://semver.org/) — see
   against an allowlist of known UGC-picker labels. Translation
   still runs through the listbox normally; only ledger reporting
   is suppressed.
+- **Auto-suggest popover ledger skip.** The dashboard renders an
+  `AutoSuggestPopoverMenu` whenever the user types into a property /
+  tag / event-name input — and the suggested matches are sourced
+  from the user's own account data, so by nature UGC. New
+  `isInUgcAutoSuggest()` matches via the styled-component prefix
+  `[class*='AutoSuggestPopoverMenu__']` (set by the dashboard's
+  app code, stable across builds). Single `closest()` check covers
+  both the `<ul>` container (`MatchList`) and each `<li>` option
+  (`Match`). Translation still runs through the popover; only
+  ledger reporting is suppressed.
 - **UGC value-picker label allowlist** with two starting patterns
   (extensible, same shape as `NAME_HEADER_SOURCE_TERMS`):
   - `^Label is$` — the Label filter value picker
