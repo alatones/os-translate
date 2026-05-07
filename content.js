@@ -308,6 +308,75 @@
     return !!parent.closest(UGC_CHROME_SELECTOR);
   }
 
+  // Filter-value picker dropdowns (Label is, Tag is, etc.) show options
+  // sourced from the user's account data — UGC. The dashboard renders
+  // them with react-select, and when the menu opens it portals away from
+  // the popover, so we can't reach the popover via closest(). We use the
+  // shared instance number `N` to walk back: the listbox `react-select-N
+  // -listbox` and the input `react-select-N-input` share `N`, even when
+  // portaled. From the input we walk up looking for a <label>, then check
+  // its text against an explicit allowlist of UGC-picker label patterns.
+  // Operator / match-mode / identifier / status filters don't have these
+  // labels, so they keep reporting normally.
+  //
+  // To extend: add new patterns when new UGC-picker labels surface in the
+  // ledger ("Tag is", "Country is", "Labels (0/10)" etc.).
+  const UGC_VALUE_PICKER_LABEL_SOURCES = [
+    /^Label is$/,
+    /^Labels \(\d+\/\d+\)$/,
+  ];
+  // Source-text strings for which we'll also include the active-language
+  // translations (so the rule works when the dashboard label is rendered
+  // in Korean / Chinese / etc.).
+  const UGC_VALUE_PICKER_LABEL_TRANSLATABLE_SOURCES = [
+    { kind: "exact", source: "Label is" },
+    // For "Labels (N/M)", the "Labels" word translates; the (N/M) suffix
+    // stays the same. Build the regex at language-change time using
+    // the active-language translation of "Labels".
+    { kind: "counter-prefix", source: "Labels" },
+  ];
+  function escapeRegex(s) {
+    return s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  }
+  let ugcValuePickerLabelPatterns = [];
+  function buildUgcValuePickerLabelPatterns() {
+    const patterns = UGC_VALUE_PICKER_LABEL_SOURCES.slice();
+    for (const entry of UGC_VALUE_PICKER_LABEL_TRANSLATABLE_SOURCES) {
+      const translated = lookup.get(entry.source);
+      if (typeof translated !== "string" || !translated) continue;
+      if (entry.kind === "exact") {
+        patterns.push(new RegExp("^" + escapeRegex(translated) + "$"));
+      } else if (entry.kind === "counter-prefix") {
+        patterns.push(
+          new RegExp("^" + escapeRegex(translated) + " \\(\\d+/\\d+\\)$"),
+        );
+      }
+    }
+    ugcValuePickerLabelPatterns = patterns;
+  }
+  function isInUgcValuePicker(textNode) {
+    const parent = textNode && textNode.parentNode;
+    if (!parent || !parent.closest) return false;
+    const listbox = parent.closest(
+      "[id^='react-select-'][id$='-listbox']",
+    );
+    if (!listbox) return false;
+    const m = listbox.id.match(/^react-select-(\d+)-listbox$/);
+    if (!m) return false;
+    const input = document.getElementById("react-select-" + m[1] + "-input");
+    if (!input) return false;
+    let el = input.parentElement;
+    for (let i = 0; i < 6 && el; i++) {
+      const label = el.querySelector("label");
+      if (label) {
+        const text = (label.textContent || "").trim();
+        return ugcValuePickerLabelPatterns.some((re) => re.test(text));
+      }
+      el = el.parentElement;
+    }
+    return false;
+  }
+
   function pathKey() {
     // Collapse long hex/uuid-shaped segments to ":id" so we never send a
     // full app ID or resource ID to the ledger. Pathname only — no query,
@@ -332,6 +401,10 @@
     // switcher chrome — both render on every page-load and surface
     // org/app names + emails over and over.
     if (context && context.textNode && isInUgcChrome(context.textNode)) return;
+    // Skip ledger reporting for options inside filter-value picker
+    // dropdowns ("Label is", "Labels (0/5)", etc.) — those show
+    // user-defined values from the account.
+    if (context && context.textNode && isInUgcValuePicker(context.textNode)) return;
     const next = (missedSession.get(s) || 0) + 1;
     missedSession.set(s, next);
     if (next < MISSED_SEEN_THRESHOLD) return;
@@ -502,6 +575,7 @@
     activeLang = lang || DEFAULT_LANG;
     buildLookup();
     buildNameColumnHeaders();
+    buildUgcValuePickerLabelPatterns();
     if (lookup.size === 0 && compiledPatterns.length === 0) {
       // Passthrough mode (English/none). Leave the DOM alone — a full page
       // reload from the popup restores original copy.

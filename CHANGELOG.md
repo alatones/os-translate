@@ -7,6 +7,52 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
+## [1.5.4] — 2026-05-07
+
+### Added
+
+- **Filter-value picker ledger skip.** Filter-value picker dropdowns
+  (the popovers that open from filter tokens like "Label is X",
+  "Tag is Y", etc.) show options sourced from the user's account
+  data — UGC. Their menus get portaled away from the popover by
+  react-select, so a contextual `closest()` can't find them. New
+  `isInUgcValuePicker()` helper walks back via the shared
+  `react-select-N-input` (which stays in the original popover
+  while only the listbox portals): finds the input by ID, walks
+  up looking for a nearby `<label>`, and matches the label text
+  against an allowlist of known UGC-picker labels. Translation
+  still runs through the listbox normally; only ledger reporting
+  is suppressed.
+- **UGC value-picker label allowlist** with two starting patterns
+  (extensible, same shape as `NAME_HEADER_SOURCE_TERMS`):
+  - `^Label is$` — the Label filter value picker
+  - `^Labels \(\d+/\d+\)$` — the multi-select label counter
+    ("Labels (0/5)" through "(N/M)")
+  Active-language translations are added at runtime so the rule
+  works whether the dashboard label reads `"Label is"` (English)
+  or `"라벨이"` / `"标签为"` / etc.
+- **9 new translations** for filter-editing UI and the message-row
+  action menu:
+  - `Label is` — value-picker header
+  - `Search or select...` — react-select placeholder
+  - `missing value` — appears as `[missing value]` in built filter chips
+  - `View report` / `Edit labels` / `Copy message ID` /
+    `View audit logs` / `View Audit Logs` — message-row dropdown
+    menu items
+  - `Reach targeted audience based on user properties or events
+    from` — descriptive prefix on the audience filter card (the
+    "Data Tags" link is rendered separately, so the prefix needs
+    its own entry to translate independently)
+
+### Notes
+
+- New UGC-picker label patterns ("Tag is", "Country is",
+  hypothetical "Labels (0/10)" if the max changes, etc.) will
+  appear in the ledger as untranslated strings and can be added
+  to `UGC_VALUE_PICKER_LABEL_SOURCES` / the translatable-sources
+  list as they surface — same maintenance pattern as
+  `NAME_HEADER_SOURCE_TERMS`.
+
 ## [1.5.3] — 2026-05-06
 
 ### Fixed
@@ -514,7 +560,8 @@ entries + 73 regex patterns**:
   every supported language" rule and (added with this changelog) the
   versioning convention.
 
-[Unreleased]: https://github.com/alatones/os-translate/compare/v1.5.3...HEAD
+[Unreleased]: https://github.com/alatones/os-translate/compare/v1.5.4...HEAD
+[1.5.4]: https://github.com/alatones/os-translate/compare/v1.5.3...v1.5.4
 [1.5.3]: https://github.com/alatones/os-translate/compare/v1.5.2...v1.5.3
 [1.5.2]: https://github.com/alatones/os-translate/compare/v1.5.1...v1.5.2
 [1.5.1]: https://github.com/alatones/os-translate/compare/v1.5.0...v1.5.1
