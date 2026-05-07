@@ -270,11 +270,10 @@
     return indices;
   }
 
-  function isInNameColumn(textNode) {
-    if (!textNode || !textNode.parentNode) return false;
+  function isInNameColumn(el) {
+    if (!el || el.nodeType !== Node.ELEMENT_NODE) return false;
     // Walk up to the nearest <td> (data cell). <th> headers don't get
     // skipped — we want column headers to translate normally.
-    let el = textNode.parentNode;
     while (el && el.nodeType === Node.ELEMENT_NODE && el.tagName !== "TD") {
       if (el.tagName === "TABLE" || el.tagName === "TH") return false;
       el = el.parentNode;
@@ -302,10 +301,131 @@
     "[class*='CleanSidebar__AppSwitcher']",
     "[class*='AppAccountDropdown']",
   ].join(",");
-  function isInUgcChrome(textNode) {
-    const parent = textNode && textNode.parentNode;
-    if (!parent || !parent.closest) return false;
-    return !!parent.closest(UGC_CHROME_SELECTOR);
+  function isInUgcChrome(el) {
+    if (!el || !el.closest) return false;
+    return !!el.closest(UGC_CHROME_SELECTOR);
+  }
+
+  // Auto-suggest popover. The dashboard renders one whenever the user
+  // types into a property/tag/event-name input that suggests matches
+  // from their own account data — by definition UGC. The styled-
+  // component prefix `AutoSuggestPopoverMenu__` is set by the
+  // dashboard's app code (so it's stable across builds), and it tags
+  // both the <ul> menu container (MatchList) and each <li> option
+  // (Match), so a single closest() reaches both. Translation still
+  // runs through the popover; only ledger reporting is suppressed.
+  const UGC_AUTOSUGGEST_SELECTOR = "[class*='AutoSuggestPopoverMenu__']";
+  function isInUgcAutoSuggest(el) {
+    if (!el || !el.closest) return false;
+    return !!el.closest(UGC_AUTOSUGGEST_SELECTOR);
+  }
+
+  // ARIA live regions render screen-reader-only announcements that get
+  // dynamically injected as the user interacts with widgets — react-
+  // select fires "OK, 3 of 78." / "option , selected." / "Use Up and
+  // Down to choose options, press Enter…" / "Select is focused, type
+  // to refine list…" etc. into hidden spans every time the focused
+  // option changes. They're invisible UI, so never real UI strings
+  // worth translating, and the option-name halves of those
+  // announcements are UGC anyway.
+  //
+  // react-select uses three a11y constructs that we need to cover:
+  //  - <span id="...-live-region">           (no aria-live attribute,
+  //                                           changes route through it)
+  //  - <span aria-live="polite" role="log">  (selection feedback)
+  //  - <span id="...-input-description">     (keyboard instructions)
+  // All three live inside an <span class="a11yText"> visually-hidden
+  // wrapper — the [class*='a11yText'] selector is the catch-all
+  // that handles any react-select a11y span we don't enumerate.
+  const A11Y_LIVE_REGION_SELECTOR = [
+    "[id$='-live-region']",
+    "[id$='-input-description']",
+    "[aria-live]",
+    "[role='log']",
+    "[role='status']",
+    "[role='alert']",
+    "[class*='a11yText']",
+    // react-select announcement spans. These have stable IDs and are
+    // sometimes detached from their aria-live wrapper by the time we
+    // see them, so closest("[aria-live]") doesn't catch them — match
+    // the IDs directly.
+    "#aria-selection",
+    "#aria-focused",
+    "#aria-guidance",
+    "#aria-context",
+    "#aria-results",
+  ].join(", ");
+  function isInA11yLiveRegion(el) {
+    if (!el || !el.closest) return false;
+    return !!el.closest(A11Y_LIVE_REGION_SELECTOR);
+  }
+
+  // Filter-value picker dropdowns (Label is, Tag is, etc.) show options
+  // sourced from the user's account data — UGC. The dashboard renders
+  // them with react-select, and when the menu opens it portals away from
+  // the popover, so we can't reach the popover via closest(). We use the
+  // shared instance number `N` to walk back: the listbox `react-select-N
+  // -listbox` and the input `react-select-N-input` share `N`, even when
+  // portaled. From the input we walk up looking for a <label>, then check
+  // its text against an explicit allowlist of UGC-picker label patterns.
+  // Operator / match-mode / identifier / status filters don't have these
+  // labels, so they keep reporting normally.
+  //
+  // To extend: add new patterns when new UGC-picker labels surface in the
+  // ledger ("Tag is", "Country is", "Labels (0/10)" etc.).
+  const UGC_VALUE_PICKER_LABEL_SOURCES = [
+    /^Label is$/,
+    /^Labels \(\d+\/\d+\)$/,
+  ];
+  // Source-text strings for which we'll also include the active-language
+  // translations (so the rule works when the dashboard label is rendered
+  // in Korean / Chinese / etc.).
+  const UGC_VALUE_PICKER_LABEL_TRANSLATABLE_SOURCES = [
+    { kind: "exact", source: "Label is" },
+    // For "Labels (N/M)", the "Labels" word translates; the (N/M) suffix
+    // stays the same. Build the regex at language-change time using
+    // the active-language translation of "Labels".
+    { kind: "counter-prefix", source: "Labels" },
+  ];
+  function escapeRegex(s) {
+    return s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  }
+  let ugcValuePickerLabelPatterns = [];
+  function buildUgcValuePickerLabelPatterns() {
+    const patterns = UGC_VALUE_PICKER_LABEL_SOURCES.slice();
+    for (const entry of UGC_VALUE_PICKER_LABEL_TRANSLATABLE_SOURCES) {
+      const translated = lookup.get(entry.source);
+      if (typeof translated !== "string" || !translated) continue;
+      if (entry.kind === "exact") {
+        patterns.push(new RegExp("^" + escapeRegex(translated) + "$"));
+      } else if (entry.kind === "counter-prefix") {
+        patterns.push(
+          new RegExp("^" + escapeRegex(translated) + " \\(\\d+/\\d+\\)$"),
+        );
+      }
+    }
+    ugcValuePickerLabelPatterns = patterns;
+  }
+  function isInUgcValuePicker(el) {
+    if (!el || !el.closest) return false;
+    const listbox = el.closest(
+      "[id^='react-select-'][id$='-listbox']",
+    );
+    if (!listbox) return false;
+    const m = listbox.id.match(/^react-select-(\d+)-listbox$/);
+    if (!m) return false;
+    const input = document.getElementById("react-select-" + m[1] + "-input");
+    if (!input) return false;
+    let walk = input.parentElement;
+    for (let i = 0; i < 6 && walk; i++) {
+      const label = walk.querySelector("label");
+      if (label) {
+        const text = (label.textContent || "").trim();
+        return ugcValuePickerLabelPatterns.some((re) => re.test(text));
+      }
+      walk = walk.parentElement;
+    }
+    return false;
   }
 
   function pathKey() {
@@ -322,16 +442,51 @@
     if (onAppSelectorPage()) return;
     if (onSuperUserPage()) return;
     if (!couldBeUI(s)) return;
-    // Skip ledger reporting (but not translation) for cells in the
-    // "Name / Title / ID / Label"-style identifier column of any
-    // table — those cells are dominated by user-generated record
-    // names. Subtext patterns like "User Tag X is activated" still
-    // translate because translation is gated separately upstream.
-    if (context && context.textNode && isInNameColumn(context.textNode)) return;
-    // Skip ledger reporting for the breadcrumb trail and app/account
-    // switcher chrome — both render on every page-load and surface
-    // org/app names + emails over and over.
-    if (context && context.textNode && isInUgcChrome(context.textNode)) return;
+    // Both translation paths feed through trackMissed:
+    //   - text nodes (translateTextNode) pass { textNode }
+    //   - attribute walkers (translateAttributes) pass { element }
+    // Same string can flow through both — e.g. <div title="x">x</div>
+    // shows up via the text node AND the title attribute. The context-
+    // aware filters need to apply to both, so normalize to a single
+    // "where in the DOM is this string" element before checking.
+    let el = null;
+    if (context) {
+      if (
+        context.textNode &&
+        context.textNode.parentNode &&
+        context.textNode.parentNode.nodeType === Node.ELEMENT_NODE
+      ) {
+        el = context.textNode.parentNode;
+      } else if (
+        context.element &&
+        context.element.nodeType === Node.ELEMENT_NODE
+      ) {
+        el = context.element;
+      }
+    }
+    if (el) {
+      // Skip ledger reporting (but not translation) for cells in the
+      // "Name / Title / ID / Label"-style identifier column of any
+      // table — those cells are dominated by user-generated record
+      // names. Subtext patterns like "User Tag X is activated" still
+      // translate because translation is gated separately upstream.
+      if (isInNameColumn(el)) return;
+      // Skip the breadcrumb trail and app/account switcher chrome —
+      // both render on every page-load and surface org/app names +
+      // emails over and over.
+      if (isInUgcChrome(el)) return;
+      // Skip options inside filter-value picker dropdowns ("Label is",
+      // "Labels (0/5)", etc.) — those show user-defined values.
+      if (isInUgcValuePicker(el)) return;
+      // Skip auto-suggest popover content (property/tag/event names
+      // suggested from the user's account data).
+      if (isInUgcAutoSuggest(el)) return;
+      // Skip ARIA live regions — screen-reader-only announcement text
+      // injected by widgets on interaction (react-select fires
+      // "Crown Casino, 73 of 78." / "press Up and Down to choose…"
+      // every keystroke). Invisible UI, mostly UGC fragments anyway.
+      if (isInA11yLiveRegion(el)) return;
+    }
     const next = (missedSession.get(s) || 0) + 1;
     missedSession.set(s, next);
     if (next < MISSED_SEEN_THRESHOLD) return;
@@ -379,7 +534,12 @@
     if (isInsideSkippedSvgZone(el)) return;
     for (const attr of TRANSLATABLE_ATTRS) {
       if (!el.hasAttribute(attr)) continue;
-      const next = translateString(el.getAttribute(attr));
+      // Pass the attribute-bearing element as context so trackMissed's
+      // context-aware filters (Name column, UGC chrome, value picker,
+      // auto-suggest) apply to attribute walks too. Without this, e.g.
+      // <div title="UGC value">UGC value</div> would have its text
+      // suppressed correctly but its title attribute logged.
+      const next = translateString(el.getAttribute(attr), { element: el });
       if (next !== null && el.getAttribute(attr) !== next) {
         el.setAttribute(attr, next);
       }
@@ -502,6 +662,7 @@
     activeLang = lang || DEFAULT_LANG;
     buildLookup();
     buildNameColumnHeaders();
+    buildUgcValuePickerLabelPatterns();
     if (lookup.size === 0 && compiledPatterns.length === 0) {
       // Passthrough mode (English/none). Leave the DOM alone — a full page
       // reload from the popup restores original copy.

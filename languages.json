@@ -15559,6 +15559,116 @@
       "tr": "E-posta abonelikleri",
       "zh-CN": "电子邮件订阅",
       "zh-HK": "電郵訂閱"
+    },
+    "Label is": {
+      "ja": "ラベルが",
+      "es": "La etiqueta es",
+      "pt": "A etiqueta é",
+      "ko": "라벨이",
+      "fr": "Le libellé est",
+      "tr": "Etiket eşittir",
+      "zh-CN": "标签为",
+      "zh-HK": "標籤為"
+    },
+    "Search or select...": {
+      "ja": "検索または選択...",
+      "es": "Buscar o seleccionar...",
+      "pt": "Pesquisar ou selecionar...",
+      "ko": "검색하거나 선택...",
+      "fr": "Rechercher ou sélectionner...",
+      "tr": "Ara veya seç...",
+      "zh-CN": "搜索或选择...",
+      "zh-HK": "搜尋或選擇..."
+    },
+    "missing value": {
+      "ja": "欠落した値",
+      "es": "valor faltante",
+      "pt": "valor ausente",
+      "ko": "누락된 값",
+      "fr": "valeur manquante",
+      "tr": "eksik değer",
+      "zh-CN": "缺失值",
+      "zh-HK": "缺失值"
+    },
+    "View report": {
+      "ja": "レポートを表示",
+      "es": "Ver informe",
+      "pt": "Ver relatório",
+      "ko": "보고서 보기",
+      "fr": "Voir le rapport",
+      "tr": "Raporu görüntüle",
+      "zh-CN": "查看报告",
+      "zh-HK": "查看報告"
+    },
+    "Edit labels": {
+      "ja": "ラベルを編集",
+      "es": "Editar etiquetas",
+      "pt": "Editar etiquetas",
+      "ko": "라벨 편집",
+      "fr": "Modifier les libellés",
+      "tr": "Etiketleri düzenle",
+      "zh-CN": "编辑标签",
+      "zh-HK": "編輯標籤"
+    },
+    "Copy message ID": {
+      "ja": "メッセージIDをコピー",
+      "es": "Copiar ID de mensaje",
+      "pt": "Copiar ID da mensagem",
+      "ko": "메시지 ID 복사",
+      "fr": "Copier l'ID du message",
+      "tr": "Mesaj ID'sini kopyala",
+      "zh-CN": "复制消息 ID",
+      "zh-HK": "複製訊息 ID"
+    },
+    "View audit logs": {
+      "ja": "監査ログを表示",
+      "es": "Ver registros de auditoría",
+      "pt": "Ver logs de auditoria",
+      "ko": "감사 로그 보기",
+      "fr": "Voir les journaux d'audit",
+      "tr": "Denetim günlüklerini görüntüle",
+      "zh-CN": "查看审计日志",
+      "zh-HK": "查看審計日誌"
+    },
+    "View Audit Logs": {
+      "ja": "監査ログを表示",
+      "es": "Ver Registros de Auditoría",
+      "pt": "Ver Logs de Auditoria",
+      "ko": "감사 로그 보기",
+      "fr": "Voir les Journaux d'Audit",
+      "tr": "Denetim Günlüklerini Görüntüle",
+      "zh-CN": "查看审计日志",
+      "zh-HK": "查看審計日誌"
+    },
+    "Reach targeted audience based on user properties or events from": {
+      "ja": "ユーザー属性またはイベントに基づいてターゲットオーディエンスにリーチ —",
+      "es": "Llega a la audiencia objetivo según propiedades o eventos de usuario de",
+      "pt": "Alcance o público-alvo com base em propriedades ou eventos de usuário de",
+      "ko": "사용자 속성 또는 이벤트 기반으로 대상 고객에게 도달 —",
+      "fr": "Atteignez l'audience cible selon les propriétés ou événements utilisateur de",
+      "tr": "Kullanıcı özelliklerine veya olaylara göre hedef kitleye ulaşın —",
+      "zh-CN": "根据用户属性或事件触达目标受众 —",
+      "zh-HK": "根據用戶屬性或事件觸達目標受眾 —"
+    },
+    "A group of users": {
+      "ja": "ユーザーのグループ",
+      "es": "Un grupo de usuarios",
+      "pt": "Um grupo de usuários",
+      "ko": "사용자 그룹",
+      "fr": "Un groupe d'utilisateurs",
+      "tr": "Bir kullanıcı grubu",
+      "zh-CN": "一组用户",
+      "zh-HK": "一組用戶"
+    },
+    "You don't have any segments": {
+      "ja": "セグメントがありません",
+      "es": "No tienes Segmentos",
+      "pt": "Você não tem Segmentos",
+      "ko": "세그먼트가 없습니다",
+      "fr": "Vous n'avez pas de Segments",
+      "tr": "Hiç Segment'iniz yok",
+      "zh-CN": "您没有任何用户分群",
+      "zh-HK": "您沒有任何用戶分群"
     }
   },
   "patterns": [

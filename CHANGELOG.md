@@ -7,6 +7,110 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
+## [1.5.4] — 2026-05-07
+
+### Fixed
+
+- **Context-aware ledger filters now apply to attribute walks too.**
+  The previous wiring (1.5.0 onward) only passed context through the
+  text-node path of `translateString`. The attribute walker
+  (`translateAttributes`) called `translateString` without context,
+  so DOM-aware filters (Name column, UGC chrome, value picker,
+  auto-suggest) silently no-op'd for any attribute they touched.
+  This surfaced concretely in the value-picker case: react-select
+  options render as `<div title="X">X</div>`, where the text
+  content was correctly suppressed but the `title` attribute leaked
+  the same UGC string into the ledger via the second walk.
+  Fix: `translateAttributes` now passes `{ element: el }` as
+  context; `trackMissed` normalizes either `context.textNode` or
+  `context.element` into a single target element; helpers
+  (`isInNameColumn`, `isInUgcChrome`, `isInUgcValuePicker`,
+  `isInUgcAutoSuggest`) now accept an element directly. AutoSuggest
+  options happened to dodge this because they don't carry title
+  attributes — so 1.5.4 looked partially-working but was actually
+  buggy across all four filters for any attribute-bearing markup.
+
+### Added
+
+- **Filter-value picker ledger skip.** Filter-value picker dropdowns
+  (the popovers that open from filter tokens like "Label is X",
+  "Tag is Y", etc.) show options sourced from the user's account
+  data — UGC. Their menus get portaled away from the popover by
+  react-select, so a contextual `closest()` can't find them. New
+  `isInUgcValuePicker()` helper walks back via the shared
+  `react-select-N-input` (which stays in the original popover
+  while only the listbox portals): finds the input by ID, walks
+  up looking for a nearby `<label>`, and matches the label text
+  against an allowlist of known UGC-picker labels. Translation
+  still runs through the listbox normally; only ledger reporting
+  is suppressed.
+- **2 more translations** for empty-state and audience-description
+  prose: `A group of users` and `You don't have any segments`,
+  full coverage across all 8 languages. (For es/pt/fr the segment-
+  count phrasing uses the plural form to match the glossary lock —
+  "No tienes Segmentos" / "Você não tem Segmentos" /
+  "Vous n'avez pas de Segments".)
+- **ARIA live-region ledger skip.** react-select (and other ARIA-
+  compliant widgets) inject screen-reader-only announcements into
+  hidden a11y spans every time the user interacts with a dropdown —
+  things like "Crown Casino, 73 of 78.", "option , selected.",
+  "Use Up and Down to choose options, press Enter to select the
+  currently focused option…", "Select is focused, type to refine
+  list, press Down to open the menu". The announcements live in
+  visually-hidden spans (class `a11yText`), so they're invisible to
+  the user but the text walker sees them. New `isInA11yLiveRegion()`
+  helper matches a layered selector: `[id$='-live-region']` (the
+  react-select live-region span), `[id$='-input-description']` (the
+  keyboard-instructions span), `[aria-live]` (any ARIA-live region),
+  the standard `[role='log'|'status'|'alert']` triplet, plus
+  `[class*='a11yText']` as a catch-all for any react-select a11y
+  span we don't enumerate, and direct ID matches for react-select's
+  announcement spans (`#aria-selection`, `#aria-focused`,
+  `#aria-guidance`, `#aria-context`, `#aria-results`) — these
+  sometimes get detached from their `aria-live` wrapper before the
+  observer fires, so ancestor-based selectors miss them. Translation
+  still runs through these strings; only ledger reporting is
+  suppressed.
+- **Auto-suggest popover ledger skip.** The dashboard renders an
+  `AutoSuggestPopoverMenu` whenever the user types into a property /
+  tag / event-name input — and the suggested matches are sourced
+  from the user's own account data, so by nature UGC. New
+  `isInUgcAutoSuggest()` matches via the styled-component prefix
+  `[class*='AutoSuggestPopoverMenu__']` (set by the dashboard's
+  app code, stable across builds). Single `closest()` check covers
+  both the `<ul>` container (`MatchList`) and each `<li>` option
+  (`Match`). Translation still runs through the popover; only
+  ledger reporting is suppressed.
+- **UGC value-picker label allowlist** with two starting patterns
+  (extensible, same shape as `NAME_HEADER_SOURCE_TERMS`):
+  - `^Label is$` — the Label filter value picker
+  - `^Labels \(\d+/\d+\)$` — the multi-select label counter
+    ("Labels (0/5)" through "(N/M)")
+  Active-language translations are added at runtime so the rule
+  works whether the dashboard label reads `"Label is"` (English)
+  or `"라벨이"` / `"标签为"` / etc.
+- **9 new translations** for filter-editing UI and the message-row
+  action menu:
+  - `Label is` — value-picker header
+  - `Search or select...` — react-select placeholder
+  - `missing value` — appears as `[missing value]` in built filter chips
+  - `View report` / `Edit labels` / `Copy message ID` /
+    `View audit logs` / `View Audit Logs` — message-row dropdown
+    menu items
+  - `Reach targeted audience based on user properties or events
+    from` — descriptive prefix on the audience filter card (the
+    "Data Tags" link is rendered separately, so the prefix needs
+    its own entry to translate independently)
+
+### Notes
+
+- New UGC-picker label patterns ("Tag is", "Country is",
+  hypothetical "Labels (0/10)" if the max changes, etc.) will
+  appear in the ledger as untranslated strings and can be added
+  to `UGC_VALUE_PICKER_LABEL_SOURCES` / the translatable-sources
+  list as they surface — same maintenance pattern as
+  `NAME_HEADER_SOURCE_TERMS`.
+
 ## [1.5.3] — 2026-05-06
 
 ### Fixed
@@ -514,7 +618,8 @@ entries + 73 regex patterns**:
   every supported language" rule and (added with this changelog) the
   versioning convention.
 
-[Unreleased]: https://github.com/alatones/os-translate/compare/v1.5.3...HEAD
+[Unreleased]: https://github.com/alatones/os-translate/compare/v1.5.4...HEAD
+[1.5.4]: https://github.com/alatones/os-translate/compare/v1.5.3...v1.5.4
 [1.5.3]: https://github.com/alatones/os-translate/compare/v1.5.2...v1.5.3
 [1.5.2]: https://github.com/alatones/os-translate/compare/v1.5.1...v1.5.2
 [1.5.1]: https://github.com/alatones/os-translate/compare/v1.5.0...v1.5.1
