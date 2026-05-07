@@ -107,6 +107,32 @@ project follows [Semantic Versioning](https://semver.org/) — see
   IDs, addresses, tag values, custom event names), so the matching
   cells are now suppressed from the missed-string ledger. Translation
   still runs through them.
+- **89 more translations** from a second feedback batch:
+  - **40 language names** (Arabic through Vietnamese, plus English,
+    Chinese (Simplified), Chinese (Traditional)) — translated to each
+    target language's standard exonym; brand-style names like
+    `Hindi` / `Punjabi` keep their conventional forms per language.
+  - **Time-relative filter operators**: `days ago`, `minutes ago`,
+    `weeks ago`.
+  - **Comparison operators**: `equals to`, `not equals to`,
+    `greater than or equal to`, `less than or equal to`, `is True`,
+    `is False`, `is true`, `is within`.
+  - **Channel selectors**: `Any SMS`, `Any email`, `Any in-app
+    message`, `Any push notification`, `Web Push (All Browsers)`,
+    `Chrome Extension`, plus brand-name targets `Alexa`, `Huawei`,
+    `Windows Phone 8.0` (Latin in all langs).
+  - **Audience / report UI**: `Audience Report`, `Channel Breakdown`,
+    `Calculating...`, `subscribed records`, `subscribed records for
+    this filter.`, `unsubscribed`, `sessions`, `Add Property`.
+  - **Geo / event filter UI**: `Latitude (ex: 18.344)`, `Longitude
+    (ex: -66.753)`, `Radius`, `latitude`, `longitude`, `meters`,
+    `is within`, `Type and select event`, `Select a channel...`,
+    `Missing property and value`, `Nested event properties can be
+    referenced using dot notation. Example:`, `cart.item.name:
+    "shoe"` (kept identical — code sample), `Booleans`, `Numbers`,
+    `Strings`, `property`, `of the following properties:`, `With`,
+    `all`, `and`, `. Learn more at`, `Custom Event Filters
+    documentation`.
 - **25 new translations** from feedback batch:
   - Filter operators: `does not exist`, `time elapsed greater than`,
     `time elapsed less than`
