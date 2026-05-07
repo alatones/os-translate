@@ -7,6 +7,29 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
+## [1.5.5] — 2026-05-07
+
+### Fixed
+
+- **Name-column header matching is now case-insensitive.** Same
+  column renders as `Item Name` in some tables and `Item name` in
+  others — previously each casing required its own entry. Both the
+  source-list set and the per-table header probe now lowercase
+  before comparing, so a single entry covers all casings. `Item Name`
+  in the source list is renamed to `Item name` for readability;
+  behavior is unchanged for every other entry.
+
+### Added
+
+- **8 audit-log event translations** (the activity badges and entity-
+  type column on the team/audit screen): `Notification Created`,
+  `In-App Message Created`, `In-App Message Updated`, `Segment
+  Updated`, `Segment Deleted`, `User Updated`, plus the standalone
+  entity-type values `In-App Message` and `User`. `Notification
+  Created` was the only `Created` variant missing — `Segment
+  Created` and `Journey Updated` already existed and continue to
+  render correctly.
+
 ## [1.5.4] — 2026-05-07
 
 ### Fixed

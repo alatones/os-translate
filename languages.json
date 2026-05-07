@@ -16999,6 +16999,86 @@
       "tr": "Şunu devre dışı bırakmak istediğinizden emin misiniz: \"",
       "zh-CN": "确定要禁用 \"",
       "zh-HK": "確定要停用 \""
+    },
+    "Notification Created": {
+      "ja": "通知が作成されました",
+      "es": "Notificación creada",
+      "pt": "Notificação criada",
+      "ko": "알림 생성됨",
+      "fr": "Notification créée",
+      "tr": "Bildirim oluşturuldu",
+      "zh-CN": "通知已创建",
+      "zh-HK": "通知已建立"
+    },
+    "In-App Message Created": {
+      "ja": "アプリ内メッセージが作成されました",
+      "es": "Mensaje In-App creado",
+      "pt": "Mensagem In-App criada",
+      "ko": "인앱 메시지 생성됨",
+      "fr": "Message In-App créé",
+      "tr": "Uygulama içi mesaj oluşturuldu",
+      "zh-CN": "应用内消息已创建",
+      "zh-HK": "應用內訊息已建立"
+    },
+    "In-App Message Updated": {
+      "ja": "アプリ内メッセージが更新されました",
+      "es": "Mensaje In-App actualizado",
+      "pt": "Mensagem In-App atualizada",
+      "ko": "인앱 메시지 업데이트됨",
+      "fr": "Message In-App mis à jour",
+      "tr": "Uygulama içi mesaj güncellendi",
+      "zh-CN": "应用内消息已更新",
+      "zh-HK": "應用內訊息已更新"
+    },
+    "Segment Updated": {
+      "ja": "セグメントが更新されました",
+      "es": "Segmento actualizado",
+      "pt": "Segmento atualizado",
+      "ko": "세그먼트 업데이트됨",
+      "fr": "Segment mis à jour",
+      "tr": "Segment güncellendi",
+      "zh-CN": "用户分群已更新",
+      "zh-HK": "用戶分群已更新"
+    },
+    "Segment Deleted": {
+      "ja": "セグメントが削除されました",
+      "es": "Segmento eliminado",
+      "pt": "Segmento excluído",
+      "ko": "세그먼트 삭제됨",
+      "fr": "Segment supprimé",
+      "tr": "Segment silindi",
+      "zh-CN": "用户分群已删除",
+      "zh-HK": "用戶分群已刪除"
+    },
+    "User Updated": {
+      "ja": "ユーザーが更新されました",
+      "es": "Usuario actualizado",
+      "pt": "Usuário atualizado",
+      "ko": "사용자 업데이트됨",
+      "fr": "Utilisateur mis à jour",
+      "tr": "Kullanıcı güncellendi",
+      "zh-CN": "用户已更新",
+      "zh-HK": "用戶已更新"
+    },
+    "In-App Message": {
+      "ja": "アプリ内メッセージ",
+      "es": "Mensaje In-App",
+      "pt": "Mensagem In-App",
+      "ko": "인앱 메시지",
+      "fr": "Message In-App",
+      "tr": "Uygulama içi mesaj",
+      "zh-CN": "应用内消息",
+      "zh-HK": "應用內訊息"
+    },
+    "User": {
+      "ja": "ユーザー",
+      "es": "Usuario",
+      "pt": "Usuário",
+      "ko": "사용자",
+      "fr": "Utilisateur",
+      "tr": "Kullanıcı",
+      "zh-CN": "用户",
+      "zh-HK": "用戶"
     }
   },
   "patterns": [
