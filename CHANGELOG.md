@@ -7,6 +7,17 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
+## [1.5.7] — 2026-05-07
+
+### Fixed
+
+- **Web Store description length.** The English `extDescription`
+  was 143 chars (Chrome Web Store cap is 132), blocking package
+  upload. Shortened to 131 chars while still naming all 8 supported
+  languages — Chinese variants now collapse into one phrase
+  (`Chinese (Simplified/Traditional)`) instead of two separate
+  list items.
+
 ## [1.5.6] — 2026-05-07
 
 ### Added
