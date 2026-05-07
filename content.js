@@ -320,6 +320,24 @@
     return !!el.closest(UGC_AUTOSUGGEST_SELECTOR);
   }
 
+  // ARIA live regions render screen-reader-only announcements that get
+  // dynamically injected as the user interacts with widgets — react-
+  // select fires "OK, 3 of 78." / "option , selected." / "Use Up and
+  // Down to choose options, press Enter…" / etc. into hidden spans
+  // every time the focused option changes. They're invisible UI, so
+  // never real UI strings worth translating, and the option-name
+  // halves of those announcements are UGC anyway.
+  //
+  // Two selectors needed because the first react-select live-region
+  // span has the "-live-region" id pattern but no aria-live attribute
+  // (it's the placeholder for future content); the second has
+  // aria-live="polite" + role="log".
+  const A11Y_LIVE_REGION_SELECTOR = "[id$='-live-region'], [aria-live]";
+  function isInA11yLiveRegion(el) {
+    if (!el || !el.closest) return false;
+    return !!el.closest(A11Y_LIVE_REGION_SELECTOR);
+  }
+
   // Filter-value picker dropdowns (Label is, Tag is, etc.) show options
   // sourced from the user's account data — UGC. The dashboard renders
   // them with react-select, and when the menu opens it portals away from
@@ -441,6 +459,11 @@
       // Skip auto-suggest popover content (property/tag/event names
       // suggested from the user's account data).
       if (isInUgcAutoSuggest(el)) return;
+      // Skip ARIA live regions — screen-reader-only announcement text
+      // injected by widgets on interaction (react-select fires
+      // "Crown Casino, 73 of 78." / "press Up and Down to choose…"
+      // every keystroke). Invisible UI, mostly UGC fragments anyway.
+      if (isInA11yLiveRegion(el)) return;
     }
     const next = (missedSession.get(s) || 0) + 1;
     missedSession.set(s, next);
