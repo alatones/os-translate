@@ -128,8 +128,7 @@ project follows [Semantic Versioning](https://semver.org/) — see
     (ex: -66.753)`, `Radius`, `latitude`, `longitude`, `meters`,
     `is within`, `Type and select event`, `Select a channel...`,
     `Missing property and value`, `Nested event properties can be
-    referenced using dot notation. Example:`, `cart.item.name:
-    "shoe"` (kept identical — code sample), `Booleans`, `Numbers`,
+    referenced using dot notation. Example:`, `Booleans`, `Numbers`,
     `Strings`, `property`, `of the following properties:`, `With`,
     `all`, `and`, `. Learn more at`, `Custom Event Filters
     documentation`.
