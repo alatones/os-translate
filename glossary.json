@@ -84,7 +84,9 @@
       "ko": "세그먼트",
       "note": "OneSignal feature noun. The company 'Segment' (Twilio Segment) stays Latin and is excluded from glossary check via _skip_keys.",
       "_skip_keys": [
-        "Seamlessly integrate with APIs, SDKs, or tools like Segment"
+        "Seamlessly integrate with APIs, SDKs, or tools like Segment",
+        "Segment.com",
+        "Cohorts you have synced with Segment.com"
       ],
       "fr": "Segment",
       "tr": "Segment",
@@ -291,6 +293,11 @@
       "ko": "푸시",
       "fr": "Push",
       "tr": "Push",
+      "_skip_keys": [
+        "Live Activities Push-to-Start",
+        "Live Activities Push-to-Update"
+      ],
+      "note": "Push-to-Start / Push-to-Update are Apple compound terms (proper-noun-like) — kept Latin in all langs and exempted from the Push lock.",
       "zh-CN": "推送",
       "zh-HK": "推送"
     },
@@ -1006,6 +1013,9 @@
       ]
     },
     "Update": {
+      "_skip_keys": [
+        "Live Activities Push-to-Update"
+      ],
       "ja": "更新",
       "es": [
         "Actualizar",

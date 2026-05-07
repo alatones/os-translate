@@ -15669,6 +15669,1336 @@
       "tr": "Hiç Segment'iniz yok",
       "zh-CN": "您没有任何用户分群",
       "zh-HK": "您沒有任何用戶分群"
+    },
+    "does not exist": {
+      "ja": "存在しません",
+      "es": "no existe",
+      "pt": "não existe",
+      "ko": "존재하지 않습니다",
+      "fr": "n'existe pas",
+      "tr": "mevcut değil",
+      "zh-CN": "不存在",
+      "zh-HK": "不存在"
+    },
+    "time elapsed greater than": {
+      "ja": "経過時間が次より大きい",
+      "es": "tiempo transcurrido mayor que",
+      "pt": "tempo decorrido maior que",
+      "ko": "경과 시간이 다음보다 큼",
+      "fr": "temps écoulé supérieur à",
+      "tr": "geçen süre büyüktür",
+      "zh-CN": "经过时间大于",
+      "zh-HK": "經過時間大於"
+    },
+    "time elapsed less than": {
+      "ja": "経過時間が次より小さい",
+      "es": "tiempo transcurrido menor que",
+      "pt": "tempo decorrido menor que",
+      "ko": "경과 시간이 다음보다 작음",
+      "fr": "temps écoulé inférieur à",
+      "tr": "geçen süre küçüktür",
+      "zh-CN": "经过时间小于",
+      "zh-HK": "經過時間小於"
+    },
+    "Amplitude": {
+      "ja": "Amplitude",
+      "es": "Amplitude",
+      "pt": "Amplitude",
+      "ko": "Amplitude",
+      "fr": "Amplitude",
+      "tr": "Amplitude",
+      "zh-CN": "Amplitude",
+      "zh-HK": "Amplitude"
+    },
+    "Mixpanel": {
+      "ja": "Mixpanel",
+      "es": "Mixpanel",
+      "pt": "Mixpanel",
+      "ko": "Mixpanel",
+      "fr": "Mixpanel",
+      "tr": "Mixpanel",
+      "zh-CN": "Mixpanel",
+      "zh-HK": "Mixpanel"
+    },
+    "Segment.com": {
+      "ja": "Segment.com",
+      "es": "Segment.com",
+      "pt": "Segment.com",
+      "ko": "Segment.com",
+      "fr": "Segment.com",
+      "tr": "Segment.com",
+      "zh-CN": "Segment.com",
+      "zh-HK": "Segment.com"
+    },
+    "Cohorts you have synced with Amplitude": {
+      "ja": "Amplitudeと同期したコホート",
+      "es": "Cohortes que has sincronizado con Amplitude",
+      "pt": "Cohortes que você sincronizou com o Amplitude",
+      "ko": "Amplitude와 동기화한 코호트",
+      "fr": "Cohortes que vous avez synchronisées avec Amplitude",
+      "tr": "Amplitude ile senkronize ettiğiniz kohortlar",
+      "zh-CN": "您已与 Amplitude 同步的群组",
+      "zh-HK": "您已與 Amplitude 同步的群組"
+    },
+    "Cohorts you have synced with Mixpanel": {
+      "ja": "Mixpanelと同期したコホート",
+      "es": "Cohortes que has sincronizado con Mixpanel",
+      "pt": "Cohortes que você sincronizou com o Mixpanel",
+      "ko": "Mixpanel과 동기화한 코호트",
+      "fr": "Cohortes que vous avez synchronisées avec Mixpanel",
+      "tr": "Mixpanel ile senkronize ettiğiniz kohortlar",
+      "zh-CN": "您已与 Mixpanel 同步的群组",
+      "zh-HK": "您已與 Mixpanel 同步的群組"
+    },
+    "Cohorts you have synced with Segment.com": {
+      "ja": "Segment.comと同期したコホート",
+      "es": "Cohortes que has sincronizado con Segment.com",
+      "pt": "Cohortes que você sincronizou com o Segment.com",
+      "ko": "Segment.com과 동기화한 코호트",
+      "fr": "Cohortes que vous avez synchronisées avec Segment.com",
+      "tr": "Segment.com ile senkronize ettiğiniz kohortlar",
+      "zh-CN": "您已与 Segment.com 同步的群组",
+      "zh-HK": "您已與 Segment.com 同步的群組"
+    },
+    "And Filter": {
+      "ja": "AND フィルター",
+      "es": "Filtro Y",
+      "pt": "Filtro E",
+      "ko": "AND 필터",
+      "fr": "Filtre ET",
+      "tr": "VE Filtresi",
+      "zh-CN": "且筛选条件",
+      "zh-HK": "且篩選條件"
+    },
+    "Manually type in (exact match) or select tags pulled from your test users": {
+      "ja": "手動で入力（完全一致）するか、テストユーザーから取得したタグを選択します",
+      "es": "Escribe manualmente (coincidencia exacta) o selecciona Etiquetas extraídas de tus usuarios de prueba",
+      "pt": "Digite manualmente (correspondência exata) ou selecione Tags extraídas dos seus usuários de teste",
+      "ko": "직접 입력(정확히 일치)하거나 테스트 사용자에서 가져온 태그를 선택하세요",
+      "fr": "Saisissez manuellement (correspondance exacte) ou sélectionnez des Tags issus de vos utilisateurs de test",
+      "tr": "Manuel olarak yazın (tam eşleşme) veya test kullanıcılarınızdan çekilen Etiketleri seçin",
+      "zh-CN": "手动输入（精确匹配）或选择从测试用户中提取的标签",
+      "zh-HK": "手動輸入（精確匹配）或選擇從測試用戶中提取的標籤"
+    },
+    "key": {
+      "ja": "キー",
+      "es": "clave",
+      "pt": "chave",
+      "ko": "키",
+      "fr": "clé",
+      "tr": "anahtar",
+      "zh-CN": "键",
+      "zh-HK": "鍵"
+    },
+    "value": {
+      "ja": "値",
+      "es": "valor",
+      "pt": "valor",
+      "ko": "값",
+      "fr": "valeur",
+      "tr": "değer",
+      "zh-CN": "值",
+      "zh-HK": "值"
+    },
+    "Authorization": {
+      "ja": "Authorization",
+      "es": "Authorization",
+      "pt": "Authorization",
+      "ko": "Authorization",
+      "fr": "Authorization",
+      "tr": "Authorization",
+      "zh-CN": "Authorization",
+      "zh-HK": "Authorization"
+    },
+    "Content-Type": {
+      "ja": "Content-Type",
+      "es": "Content-Type",
+      "pt": "Content-Type",
+      "ko": "Content-Type",
+      "fr": "Content-Type",
+      "tr": "Content-Type",
+      "zh-CN": "Content-Type",
+      "zh-HK": "Content-Type"
+    },
+    "POST": {
+      "ja": "POST",
+      "es": "POST",
+      "pt": "POST",
+      "ko": "POST",
+      "fr": "POST",
+      "tr": "POST",
+      "zh-CN": "POST",
+      "zh-HK": "POST"
+    },
+    "Headers": {
+      "ja": "ヘッダー",
+      "es": "Encabezados",
+      "pt": "Cabeçalhos",
+      "ko": "헤더",
+      "fr": "En-têtes",
+      "tr": "Başlıklar",
+      "zh-CN": "标头",
+      "zh-HK": "標頭"
+    },
+    "Body": {
+      "ja": "本文",
+      "es": "Cuerpo",
+      "pt": "Corpo",
+      "ko": "본문",
+      "fr": "Corps",
+      "tr": "Gövde",
+      "zh-CN": "正文",
+      "zh-HK": "正文"
+    },
+    "Remove entry": {
+      "ja": "エントリを削除",
+      "es": "Quitar entrada",
+      "pt": "Remover entrada",
+      "ko": "항목 제거",
+      "fr": "Retirer l'entrée",
+      "tr": "Girişi kaldır",
+      "zh-CN": "移除条目",
+      "zh-HK": "移除項目"
+    },
+    "Add Header": {
+      "ja": "ヘッダーを追加",
+      "es": "Agregar encabezado",
+      "pt": "Adicionar cabeçalho",
+      "ko": "헤더 추가",
+      "fr": "Ajouter un en-tête",
+      "tr": "Başlık ekle",
+      "zh-CN": "添加标头",
+      "zh-HK": "新增標頭"
+    },
+    "Configure": {
+      "ja": "設定",
+      "es": "Configurar",
+      "pt": "Configurar",
+      "ko": "구성",
+      "fr": "Configurer",
+      "tr": "Yapılandır",
+      "zh-CN": "配置",
+      "zh-HK": "設定"
+    },
+    "Custom Body": {
+      "ja": "カスタム本文",
+      "es": "Cuerpo personalizado",
+      "pt": "Corpo personalizado",
+      "ko": "사용자 정의 본문",
+      "fr": "Corps personnalisé",
+      "tr": "Özel gövde",
+      "zh-CN": "自定义正文",
+      "zh-HK": "自訂正文"
+    },
+    "Edit Journey Webhook": {
+      "ja": "ジャーニーのWebhookを編集",
+      "es": "Editar Webhook de Recorrido",
+      "pt": "Editar Webhook de Jornada",
+      "ko": "저니 웹훅 편집",
+      "fr": "Modifier le Webhook de Parcours",
+      "tr": "Yolculuk Webhook'unu düzenle",
+      "zh-CN": "编辑旅程 Webhook",
+      "zh-HK": "編輯旅程 Webhook"
+    },
+    "Webhook Documentation": {
+      "ja": "Webhookドキュメント",
+      "es": "Documentación de Webhook",
+      "pt": "Documentação do Webhook",
+      "ko": "웹훅 문서",
+      "fr": "Documentation Webhook",
+      "tr": "Webhook Belgeleri",
+      "zh-CN": "Webhook 文档",
+      "zh-HK": "Webhook 文檔"
+    },
+    "Webhook Name": {
+      "ja": "Webhook名",
+      "es": "Nombre del Webhook",
+      "pt": "Nome do Webhook",
+      "ko": "웹훅 이름",
+      "fr": "Nom du Webhook",
+      "tr": "Webhook Adı",
+      "zh-CN": "Webhook 名称",
+      "zh-HK": "Webhook 名稱"
+    },
+    "Arabic": {
+      "ja": "アラビア語",
+      "es": "Árabe",
+      "pt": "Árabe",
+      "ko": "아랍어",
+      "fr": "Arabe",
+      "tr": "Arapça",
+      "zh-CN": "阿拉伯语",
+      "zh-HK": "阿拉伯語"
+    },
+    "Azerbaijani": {
+      "ja": "アゼルバイジャン語",
+      "es": "Azerbaiyano",
+      "pt": "Azerbaijano",
+      "ko": "아제르바이잔어",
+      "fr": "Azerbaïdjanais",
+      "tr": "Azerice",
+      "zh-CN": "阿塞拜疆语",
+      "zh-HK": "阿塞拜疆語"
+    },
+    "Bosnian": {
+      "ja": "ボスニア語",
+      "es": "Bosnio",
+      "pt": "Bósnio",
+      "ko": "보스니아어",
+      "fr": "Bosniaque",
+      "tr": "Boşnakça",
+      "zh-CN": "波斯尼亚语",
+      "zh-HK": "波斯尼亞語"
+    },
+    "Bulgarian": {
+      "ja": "ブルガリア語",
+      "es": "Búlgaro",
+      "pt": "Búlgaro",
+      "ko": "불가리아어",
+      "fr": "Bulgare",
+      "tr": "Bulgarca",
+      "zh-CN": "保加利亚语",
+      "zh-HK": "保加利亞語"
+    },
+    "Catalan": {
+      "ja": "カタロニア語",
+      "es": "Catalán",
+      "pt": "Catalão",
+      "ko": "카탈루냐어",
+      "fr": "Catalan",
+      "tr": "Katalanca",
+      "zh-CN": "加泰罗尼亚语",
+      "zh-HK": "加泰羅尼亞語"
+    },
+    "Chinese (Simplified)": {
+      "ja": "中国語（簡体字）",
+      "es": "Chino (Simplificado)",
+      "pt": "Chinês (Simplificado)",
+      "ko": "중국어(간체)",
+      "fr": "Chinois (Simplifié)",
+      "tr": "Çince (Basitleştirilmiş)",
+      "zh-CN": "中文（简体）",
+      "zh-HK": "中文（簡體）"
+    },
+    "Chinese (Traditional)": {
+      "ja": "中国語（繁体字）",
+      "es": "Chino (Tradicional)",
+      "pt": "Chinês (Tradicional)",
+      "ko": "중국어(번체)",
+      "fr": "Chinois (Traditionnel)",
+      "tr": "Çince (Geleneksel)",
+      "zh-CN": "中文（繁体）",
+      "zh-HK": "中文（繁體）"
+    },
+    "Croatian": {
+      "ja": "クロアチア語",
+      "es": "Croata",
+      "pt": "Croata",
+      "ko": "크로아티아어",
+      "fr": "Croate",
+      "tr": "Hırvatça",
+      "zh-CN": "克罗地亚语",
+      "zh-HK": "克羅地亞語"
+    },
+    "Czech": {
+      "ja": "チェコ語",
+      "es": "Checo",
+      "pt": "Tcheco",
+      "ko": "체코어",
+      "fr": "Tchèque",
+      "tr": "Çekçe",
+      "zh-CN": "捷克语",
+      "zh-HK": "捷克語"
+    },
+    "Danish": {
+      "ja": "デンマーク語",
+      "es": "Danés",
+      "pt": "Dinamarquês",
+      "ko": "덴마크어",
+      "fr": "Danois",
+      "tr": "Danca",
+      "zh-CN": "丹麦语",
+      "zh-HK": "丹麥語"
+    },
+    "Dutch": {
+      "ja": "オランダ語",
+      "es": "Holandés",
+      "pt": "Holandês",
+      "ko": "네덜란드어",
+      "fr": "Néerlandais",
+      "tr": "Felemenkçe",
+      "zh-CN": "荷兰语",
+      "zh-HK": "荷蘭語"
+    },
+    "English": {
+      "ja": "英語",
+      "es": "Inglés",
+      "pt": "Inglês",
+      "ko": "영어",
+      "fr": "Anglais",
+      "tr": "İngilizce",
+      "zh-CN": "英语",
+      "zh-HK": "英語"
+    },
+    "Estonian": {
+      "ja": "エストニア語",
+      "es": "Estonio",
+      "pt": "Estoniano",
+      "ko": "에스토니아어",
+      "fr": "Estonien",
+      "tr": "Estonca",
+      "zh-CN": "爱沙尼亚语",
+      "zh-HK": "愛沙尼亞語"
+    },
+    "Finnish": {
+      "ja": "フィンランド語",
+      "es": "Finlandés",
+      "pt": "Finlandês",
+      "ko": "핀란드어",
+      "fr": "Finnois",
+      "tr": "Fince",
+      "zh-CN": "芬兰语",
+      "zh-HK": "芬蘭語"
+    },
+    "French": {
+      "ja": "フランス語",
+      "es": "Francés",
+      "pt": "Francês",
+      "ko": "프랑스어",
+      "fr": "Français",
+      "tr": "Fransızca",
+      "zh-CN": "法语",
+      "zh-HK": "法語"
+    },
+    "Georgian": {
+      "ja": "ジョージア語",
+      "es": "Georgiano",
+      "pt": "Georgiano",
+      "ko": "조지아어",
+      "fr": "Géorgien",
+      "tr": "Gürcüce",
+      "zh-CN": "格鲁吉亚语",
+      "zh-HK": "格魯吉亞語"
+    },
+    "German": {
+      "ja": "ドイツ語",
+      "es": "Alemán",
+      "pt": "Alemão",
+      "ko": "독일어",
+      "fr": "Allemand",
+      "tr": "Almanca",
+      "zh-CN": "德语",
+      "zh-HK": "德語"
+    },
+    "Greek": {
+      "ja": "ギリシャ語",
+      "es": "Griego",
+      "pt": "Grego",
+      "ko": "그리스어",
+      "fr": "Grec",
+      "tr": "Yunanca",
+      "zh-CN": "希腊语",
+      "zh-HK": "希臘語"
+    },
+    "Hebrew": {
+      "ja": "ヘブライ語",
+      "es": "Hebreo",
+      "pt": "Hebraico",
+      "ko": "히브리어",
+      "fr": "Hébreu",
+      "tr": "İbranice",
+      "zh-CN": "希伯来语",
+      "zh-HK": "希伯來語"
+    },
+    "Hindi": {
+      "ja": "ヒンディー語",
+      "es": "Hindi",
+      "pt": "Híndi",
+      "ko": "힌디어",
+      "fr": "Hindi",
+      "tr": "Hintçe",
+      "zh-CN": "印地语",
+      "zh-HK": "印地語"
+    },
+    "Hungarian": {
+      "ja": "ハンガリー語",
+      "es": "Húngaro",
+      "pt": "Húngaro",
+      "ko": "헝가리어",
+      "fr": "Hongrois",
+      "tr": "Macarca",
+      "zh-CN": "匈牙利语",
+      "zh-HK": "匈牙利語"
+    },
+    "Indonesian": {
+      "ja": "インドネシア語",
+      "es": "Indonesio",
+      "pt": "Indonésio",
+      "ko": "인도네시아어",
+      "fr": "Indonésien",
+      "tr": "Endonezce",
+      "zh-CN": "印度尼西亚语",
+      "zh-HK": "印度尼西亞語"
+    },
+    "Japanese": {
+      "ja": "日本語",
+      "es": "Japonés",
+      "pt": "Japonês",
+      "ko": "일본어",
+      "fr": "Japonais",
+      "tr": "Japonca",
+      "zh-CN": "日语",
+      "zh-HK": "日語"
+    },
+    "Korean": {
+      "ja": "韓国語",
+      "es": "Coreano",
+      "pt": "Coreano",
+      "ko": "한국어",
+      "fr": "Coréen",
+      "tr": "Korece",
+      "zh-CN": "韩语",
+      "zh-HK": "韓語"
+    },
+    "Latvian": {
+      "ja": "ラトビア語",
+      "es": "Letón",
+      "pt": "Letão",
+      "ko": "라트비아어",
+      "fr": "Letton",
+      "tr": "Letonca",
+      "zh-CN": "拉脱维亚语",
+      "zh-HK": "拉脫維亞語"
+    },
+    "Lithuanian": {
+      "ja": "リトアニア語",
+      "es": "Lituano",
+      "pt": "Lituano",
+      "ko": "리투아니아어",
+      "fr": "Lituanien",
+      "tr": "Litvanca",
+      "zh-CN": "立陶宛语",
+      "zh-HK": "立陶宛語"
+    },
+    "Malay": {
+      "ja": "マレー語",
+      "es": "Malayo",
+      "pt": "Malaio",
+      "ko": "말레이어",
+      "fr": "Malais",
+      "tr": "Malayca",
+      "zh-CN": "马来语",
+      "zh-HK": "馬來語"
+    },
+    "Norwegian": {
+      "ja": "ノルウェー語",
+      "es": "Noruego",
+      "pt": "Norueguês",
+      "ko": "노르웨이어",
+      "fr": "Norvégien",
+      "tr": "Norveççe",
+      "zh-CN": "挪威语",
+      "zh-HK": "挪威語"
+    },
+    "Persian": {
+      "ja": "ペルシア語",
+      "es": "Persa",
+      "pt": "Persa",
+      "ko": "페르시아어",
+      "fr": "Persan",
+      "tr": "Farsça",
+      "zh-CN": "波斯语",
+      "zh-HK": "波斯語"
+    },
+    "Polish": {
+      "ja": "ポーランド語",
+      "es": "Polaco",
+      "pt": "Polonês",
+      "ko": "폴란드어",
+      "fr": "Polonais",
+      "tr": "Lehçe",
+      "zh-CN": "波兰语",
+      "zh-HK": "波蘭語"
+    },
+    "Punjabi": {
+      "ja": "パンジャブ語",
+      "es": "Punyabí",
+      "pt": "Panjabi",
+      "ko": "펀자브어",
+      "fr": "Pendjabi",
+      "tr": "Pencapça",
+      "zh-CN": "旁遮普语",
+      "zh-HK": "旁遮普語"
+    },
+    "Romanian": {
+      "ja": "ルーマニア語",
+      "es": "Rumano",
+      "pt": "Romeno",
+      "ko": "루마니아어",
+      "fr": "Roumain",
+      "tr": "Rumence",
+      "zh-CN": "罗马尼亚语",
+      "zh-HK": "羅馬尼亞語"
+    },
+    "Russian": {
+      "ja": "ロシア語",
+      "es": "Ruso",
+      "pt": "Russo",
+      "ko": "러시아어",
+      "fr": "Russe",
+      "tr": "Rusça",
+      "zh-CN": "俄语",
+      "zh-HK": "俄語"
+    },
+    "Serbian": {
+      "ja": "セルビア語",
+      "es": "Serbio",
+      "pt": "Sérvio",
+      "ko": "세르비아어",
+      "fr": "Serbe",
+      "tr": "Sırpça",
+      "zh-CN": "塞尔维亚语",
+      "zh-HK": "塞爾維亞語"
+    },
+    "Slovak": {
+      "ja": "スロバキア語",
+      "es": "Eslovaco",
+      "pt": "Eslovaco",
+      "ko": "슬로바키아어",
+      "fr": "Slovaque",
+      "tr": "Slovakça",
+      "zh-CN": "斯洛伐克语",
+      "zh-HK": "斯洛伐克語"
+    },
+    "Swedish": {
+      "ja": "スウェーデン語",
+      "es": "Sueco",
+      "pt": "Sueco",
+      "ko": "스웨덴어",
+      "fr": "Suédois",
+      "tr": "İsveççe",
+      "zh-CN": "瑞典语",
+      "zh-HK": "瑞典語"
+    },
+    "Thai": {
+      "ja": "タイ語",
+      "es": "Tailandés",
+      "pt": "Tailandês",
+      "ko": "태국어",
+      "fr": "Thaï",
+      "tr": "Tayca",
+      "zh-CN": "泰语",
+      "zh-HK": "泰語"
+    },
+    "Turkish": {
+      "ja": "トルコ語",
+      "es": "Turco",
+      "pt": "Turco",
+      "ko": "터키어",
+      "fr": "Turc",
+      "tr": "Türkçe",
+      "zh-CN": "土耳其语",
+      "zh-HK": "土耳其語"
+    },
+    "Ukrainian": {
+      "ja": "ウクライナ語",
+      "es": "Ucraniano",
+      "pt": "Ucraniano",
+      "ko": "우크라이나어",
+      "fr": "Ukrainien",
+      "tr": "Ukraynaca",
+      "zh-CN": "乌克兰语",
+      "zh-HK": "烏克蘭語"
+    },
+    "Vietnamese": {
+      "ja": "ベトナム語",
+      "es": "Vietnamita",
+      "pt": "Vietnamita",
+      "ko": "베트남어",
+      "fr": "Vietnamien",
+      "tr": "Vietnamca",
+      "zh-CN": "越南语",
+      "zh-HK": "越南語"
+    },
+    "Alexa": {
+      "ja": "Alexa",
+      "es": "Alexa",
+      "pt": "Alexa",
+      "ko": "Alexa",
+      "fr": "Alexa",
+      "tr": "Alexa",
+      "zh-CN": "Alexa",
+      "zh-HK": "Alexa"
+    },
+    "Huawei": {
+      "ja": "Huawei",
+      "es": "Huawei",
+      "pt": "Huawei",
+      "ko": "Huawei",
+      "fr": "Huawei",
+      "tr": "Huawei",
+      "zh-CN": "Huawei",
+      "zh-HK": "Huawei"
+    },
+    "Windows Phone 8.0": {
+      "ja": "Windows Phone 8.0",
+      "es": "Windows Phone 8.0",
+      "pt": "Windows Phone 8.0",
+      "ko": "Windows Phone 8.0",
+      "fr": "Windows Phone 8.0",
+      "tr": "Windows Phone 8.0",
+      "zh-CN": "Windows Phone 8.0",
+      "zh-HK": "Windows Phone 8.0"
+    },
+    "days ago": {
+      "ja": "日前",
+      "es": "días atrás",
+      "pt": "dias atrás",
+      "ko": "일 전",
+      "fr": "jours auparavant",
+      "tr": "gün önce",
+      "zh-CN": "天前",
+      "zh-HK": "天前"
+    },
+    "minutes ago": {
+      "ja": "分前",
+      "es": "minutos atrás",
+      "pt": "minutos atrás",
+      "ko": "분 전",
+      "fr": "minutes auparavant",
+      "tr": "dakika önce",
+      "zh-CN": "分钟前",
+      "zh-HK": "分鐘前"
+    },
+    "weeks ago": {
+      "ja": "週間前",
+      "es": "semanas atrás",
+      "pt": "semanas atrás",
+      "ko": "주 전",
+      "fr": "semaines auparavant",
+      "tr": "hafta önce",
+      "zh-CN": "周前",
+      "zh-HK": "週前"
+    },
+    "Add Property": {
+      "ja": "プロパティを追加",
+      "es": "Agregar propiedad",
+      "pt": "Adicionar propriedade",
+      "ko": "속성 추가",
+      "fr": "Ajouter une propriété",
+      "tr": "Özellik ekle",
+      "zh-CN": "添加属性",
+      "zh-HK": "新增屬性"
+    },
+    "Audience Report": {
+      "ja": "オーディエンスレポート",
+      "es": "Informe de Audiencia",
+      "pt": "Relatório de Público",
+      "ko": "대상 보고서",
+      "fr": "Rapport d'Audience",
+      "tr": "Hedef kitle Raporu",
+      "zh-CN": "受众报告",
+      "zh-HK": "受眾報告"
+    },
+    "Calculating...": {
+      "ja": "計算中...",
+      "es": "Calculando...",
+      "pt": "Calculando...",
+      "ko": "계산 중...",
+      "fr": "Calcul en cours...",
+      "tr": "Hesaplanıyor...",
+      "zh-CN": "计算中...",
+      "zh-HK": "計算中..."
+    },
+    "Channel Breakdown": {
+      "ja": "チャンネル別内訳",
+      "es": "Desglose por canal",
+      "pt": "Detalhamento por canal",
+      "ko": "채널별 분석",
+      "fr": "Répartition par canal",
+      "tr": "Kanal dağılımı",
+      "zh-CN": "渠道细分",
+      "zh-HK": "渠道細分"
+    },
+    "subscribed records": {
+      "ja": "購読済みレコード",
+      "es": "registros suscritos",
+      "pt": "registros inscritos",
+      "ko": "구독된 레코드",
+      "fr": "enregistrements abonnés",
+      "tr": "abone kayıtlar",
+      "zh-CN": "已订阅记录",
+      "zh-HK": "已訂閱記錄"
+    },
+    "subscribed records for this filter.": {
+      "ja": "このフィルターの購読済みレコード。",
+      "es": "registros suscritos para este filtro.",
+      "pt": "registros inscritos para este filtro.",
+      "ko": "이 필터의 구독된 레코드.",
+      "fr": "enregistrements abonnés pour ce filtre.",
+      "tr": "bu filtre için abone kayıtlar.",
+      "zh-CN": "此筛选条件下的已订阅记录。",
+      "zh-HK": "此篩選條件下的已訂閱記錄。"
+    },
+    "unsubscribed": {
+      "ja": "購読解除済み",
+      "es": "dado de baja",
+      "pt": "descadastrado",
+      "ko": "구독 해지됨",
+      "fr": "désabonné",
+      "tr": "aboneliği kaldırılmış",
+      "zh-CN": "已退订",
+      "zh-HK": "已取消訂閱"
+    },
+    "Any SMS": {
+      "ja": "任意のSMS",
+      "es": "Cualquier SMS",
+      "pt": "Qualquer SMS",
+      "ko": "모든 SMS",
+      "fr": "Tout SMS",
+      "tr": "Herhangi bir SMS",
+      "zh-CN": "任意 SMS",
+      "zh-HK": "任意 SMS"
+    },
+    "Any email": {
+      "ja": "任意のメール",
+      "es": "Cualquier Email",
+      "pt": "Qualquer Email",
+      "ko": "모든 이메일",
+      "fr": "Tout Email",
+      "tr": "Herhangi bir E-posta",
+      "zh-CN": "任意 Email",
+      "zh-HK": "任意 Email"
+    },
+    "Any in-app message": {
+      "ja": "任意のアプリ内メッセージ",
+      "es": "Cualquier mensaje In-App",
+      "pt": "Qualquer mensagem In-App",
+      "ko": "모든 인앱 메시지",
+      "fr": "Tout message In-App",
+      "tr": "Herhangi bir Uygulama içi mesaj",
+      "zh-CN": "任意应用内消息",
+      "zh-HK": "任意應用內訊息"
+    },
+    "Any push notification": {
+      "ja": "任意のプッシュ通知",
+      "es": "Cualquier notificación Push",
+      "pt": "Qualquer notificação Push",
+      "ko": "모든 푸시 알림",
+      "fr": "Toute notification Push",
+      "tr": "Herhangi bir Push bildirimi",
+      "zh-CN": "任意推送通知",
+      "zh-HK": "任意推送通知"
+    },
+    "Chrome Extension": {
+      "ja": "Chrome拡張機能",
+      "es": "Extensión de Chrome",
+      "pt": "Extensão de Chrome",
+      "ko": "Chrome 확장 프로그램",
+      "fr": "Extension Chrome",
+      "tr": "Chrome Uzantısı",
+      "zh-CN": "Chrome 扩展",
+      "zh-HK": "Chrome 擴充功能"
+    },
+    "Web Push (All Browsers)": {
+      "ja": "Webプッシュ（すべてのブラウザ）",
+      "es": "Web Push (Todos los navegadores)",
+      "pt": "Web Push (Todos os navegadores)",
+      "ko": "웹 푸시(모든 브라우저)",
+      "fr": "Web Push (Tous les navigateurs)",
+      "tr": "Web Push (Tüm tarayıcılar)",
+      "zh-CN": "网页推送（所有浏览器）",
+      "zh-HK": "網頁推送（所有瀏覽器）"
+    },
+    "equals to": {
+      "ja": "等しい",
+      "es": "igual a",
+      "pt": "igual a",
+      "ko": "다음과 같음",
+      "fr": "égal à",
+      "tr": "eşittir",
+      "zh-CN": "等于",
+      "zh-HK": "等於"
+    },
+    "greater than or equal to": {
+      "ja": "以上",
+      "es": "mayor o igual que",
+      "pt": "maior ou igual a",
+      "ko": "다음 이상",
+      "fr": "supérieur ou égal à",
+      "tr": "büyük veya eşit",
+      "zh-CN": "大于或等于",
+      "zh-HK": "大於或等於"
+    },
+    "less than or equal to": {
+      "ja": "以下",
+      "es": "menor o igual que",
+      "pt": "menor ou igual a",
+      "ko": "다음 이하",
+      "fr": "inférieur ou égal à",
+      "tr": "küçük veya eşit",
+      "zh-CN": "小于或等于",
+      "zh-HK": "小於或等於"
+    },
+    "not equals to": {
+      "ja": "等しくない",
+      "es": "no igual a",
+      "pt": "diferente de",
+      "ko": "다음과 같지 않음",
+      "fr": "différent de",
+      "tr": "eşit değil",
+      "zh-CN": "不等于",
+      "zh-HK": "不等於"
+    },
+    "is True": {
+      "ja": "Trueである",
+      "es": "es True",
+      "pt": "é True",
+      "ko": "True임",
+      "fr": "est True",
+      "tr": "True",
+      "zh-CN": "为 True",
+      "zh-HK": "為 True"
+    },
+    "is False": {
+      "ja": "Falseである",
+      "es": "es False",
+      "pt": "é False",
+      "ko": "False임",
+      "fr": "est False",
+      "tr": "False",
+      "zh-CN": "为 False",
+      "zh-HK": "為 False"
+    },
+    "is true": {
+      "ja": "trueである",
+      "es": "es true",
+      "pt": "é true",
+      "ko": "true임",
+      "fr": "est true",
+      "tr": "true",
+      "zh-CN": "为 true",
+      "zh-HK": "為 true"
+    },
+    "is within": {
+      "ja": "次の範囲内",
+      "es": "está dentro de",
+      "pt": "está dentro de",
+      "ko": "다음 범위 내",
+      "fr": "est dans",
+      "tr": "şunun içinde",
+      "zh-CN": "在范围内",
+      "zh-HK": "在範圍內"
+    },
+    "sessions": {
+      "ja": "セッション",
+      "es": "sesiones",
+      "pt": "sessões",
+      "ko": "세션",
+      "fr": "sessions",
+      "tr": "oturumlar",
+      "zh-CN": "会话",
+      "zh-HK": "工作階段"
+    },
+    ". Learn more at": {
+      "ja": "。詳細はこちら：",
+      "es": ". Más información en",
+      "pt": ". Saiba mais em",
+      "ko": ". 자세한 내용:",
+      "fr": ". En savoir plus à",
+      "tr": ". Daha fazla bilgi:",
+      "zh-CN": "。了解更多：",
+      "zh-HK": "。了解更多："
+    },
+    "Booleans": {
+      "ja": "ブール値",
+      "es": "Booleanos",
+      "pt": "Booleanos",
+      "ko": "부울",
+      "fr": "Booléens",
+      "tr": "Boolean değerleri",
+      "zh-CN": "布尔值",
+      "zh-HK": "布林值"
+    },
+    "Custom Event Filters documentation": {
+      "ja": "カスタムイベントフィルターのドキュメント",
+      "es": "documentación de Filtros de eventos personalizados",
+      "pt": "documentação de Filtros de eventos personalizados",
+      "ko": "사용자 정의 이벤트 필터 문서",
+      "fr": "documentation des Filtres d'événements personnalisés",
+      "tr": "Özel Olay Filtreleri belgeleri",
+      "zh-CN": "自定义事件筛选条件文档",
+      "zh-HK": "自訂事件篩選條件文檔"
+    },
+    "Latitude (ex: 18.344)": {
+      "ja": "緯度（例：18.344）",
+      "es": "Latitud (ej: 18.344)",
+      "pt": "Latitude (ex: 18.344)",
+      "ko": "위도(예: 18.344)",
+      "fr": "Latitude (ex : 18.344)",
+      "tr": "Enlem (ör: 18.344)",
+      "zh-CN": "纬度（例：18.344）",
+      "zh-HK": "緯度（例：18.344）"
+    },
+    "Longitude (ex: -66.753)": {
+      "ja": "経度（例：-66.753）",
+      "es": "Longitud (ej: -66.753)",
+      "pt": "Longitude (ex: -66.753)",
+      "ko": "경도(예: -66.753)",
+      "fr": "Longitude (ex : -66.753)",
+      "tr": "Boylam (ör: -66.753)",
+      "zh-CN": "经度（例：-66.753）",
+      "zh-HK": "經度（例：-66.753）"
+    },
+    "Missing property and value": {
+      "ja": "プロパティと値がありません",
+      "es": "Falta propiedad y valor",
+      "pt": "Faltam propriedade e valor",
+      "ko": "속성과 값이 없습니다",
+      "fr": "Propriété et valeur manquantes",
+      "tr": "Özellik ve değer eksik",
+      "zh-CN": "缺少属性和值",
+      "zh-HK": "缺少屬性和值"
+    },
+    "Nested event properties can be referenced using dot notation. Example:": {
+      "ja": "ネストされたイベントプロパティはドット記法で参照できます。例：",
+      "es": "Las propiedades de evento anidadas se pueden referenciar usando notación de punto. Ejemplo:",
+      "pt": "As propriedades de evento aninhadas podem ser referenciadas usando notação de ponto. Exemplo:",
+      "ko": "중첩된 이벤트 속성은 점 표기법으로 참조할 수 있습니다. 예:",
+      "fr": "Les propriétés d'événement imbriquées peuvent être référencées avec la notation par point. Exemple :",
+      "tr": "İç içe olay özellikleri, nokta gösterimi kullanılarak referans alınabilir. Örnek:",
+      "zh-CN": "嵌套事件属性可使用点表示法引用。示例：",
+      "zh-HK": "嵌套事件屬性可使用點表示法引用。例如："
+    },
+    "Numbers": {
+      "ja": "数値",
+      "es": "Números",
+      "pt": "Números",
+      "ko": "숫자",
+      "fr": "Nombres",
+      "tr": "Sayılar",
+      "zh-CN": "数字",
+      "zh-HK": "數字"
+    },
+    "Radius": {
+      "ja": "半径",
+      "es": "Radio",
+      "pt": "Raio",
+      "ko": "반경",
+      "fr": "Rayon",
+      "tr": "Yarıçap",
+      "zh-CN": "半径",
+      "zh-HK": "半徑"
+    },
+    "Select a channel...": {
+      "ja": "チャンネルを選択...",
+      "es": "Selecciona un canal...",
+      "pt": "Selecione um canal...",
+      "ko": "채널 선택...",
+      "fr": "Sélectionnez un canal...",
+      "tr": "Bir kanal seçin...",
+      "zh-CN": "选择渠道...",
+      "zh-HK": "選擇渠道..."
+    },
+    "Strings": {
+      "ja": "文字列",
+      "es": "Cadenas",
+      "pt": "Strings",
+      "ko": "문자열",
+      "fr": "Chaînes",
+      "tr": "Dizeler",
+      "zh-CN": "字符串",
+      "zh-HK": "字串"
+    },
+    "Type and select event": {
+      "ja": "イベントを入力して選択",
+      "es": "Escribe y selecciona evento",
+      "pt": "Digite e selecione evento",
+      "ko": "이벤트 입력 및 선택",
+      "fr": "Saisissez et sélectionnez un événement",
+      "tr": "Olay yazın ve seçin",
+      "zh-CN": "输入并选择事件",
+      "zh-HK": "輸入並選擇事件"
+    },
+    "With": {
+      "ja": "で",
+      "es": "Con",
+      "pt": "Com",
+      "ko": "포함",
+      "fr": "Avec",
+      "tr": "İle",
+      "zh-CN": "包含",
+      "zh-HK": "包含"
+    },
+    "all": {
+      "ja": "すべて",
+      "es": "todos",
+      "pt": "todos",
+      "ko": "모두",
+      "fr": "tous",
+      "tr": "tümü",
+      "zh-CN": "所有",
+      "zh-HK": "所有"
+    },
+    "and": {
+      "ja": "および",
+      "es": "y",
+      "pt": "e",
+      "ko": "및",
+      "fr": "et",
+      "tr": "ve",
+      "zh-CN": "和",
+      "zh-HK": "和"
+    },
+    "latitude": {
+      "ja": "緯度",
+      "es": "latitud",
+      "pt": "latitude",
+      "ko": "위도",
+      "fr": "latitude",
+      "tr": "enlem",
+      "zh-CN": "纬度",
+      "zh-HK": "緯度"
+    },
+    "longitude": {
+      "ja": "経度",
+      "es": "longitud",
+      "pt": "longitude",
+      "ko": "경도",
+      "fr": "longitude",
+      "tr": "boylam",
+      "zh-CN": "经度",
+      "zh-HK": "經度"
+    },
+    "meters": {
+      "ja": "メートル",
+      "es": "metros",
+      "pt": "metros",
+      "ko": "미터",
+      "fr": "mètres",
+      "tr": "metre",
+      "zh-CN": "米",
+      "zh-HK": "米"
+    },
+    "of the following properties:": {
+      "ja": "次のプロパティのうち：",
+      "es": "de las siguientes propiedades:",
+      "pt": "das seguintes propriedades:",
+      "ko": "다음 속성 중:",
+      "fr": "des propriétés suivantes :",
+      "tr": "aşağıdaki özelliklerden:",
+      "zh-CN": "以下属性中：",
+      "zh-HK": "以下屬性中："
+    },
+    "property": {
+      "ja": "プロパティ",
+      "es": "propiedad",
+      "pt": "propriedade",
+      "ko": "속성",
+      "fr": "propriété",
+      "tr": "özellik",
+      "zh-CN": "属性",
+      "zh-HK": "屬性"
+    },
+    "Live Activities Push-to-Start": {
+      "ja": "ライブアクティビティ Push-to-Start",
+      "es": "Live Activities Push-to-Start",
+      "pt": "Live Activities Push-to-Start",
+      "ko": "라이브 액티비티 Push-to-Start",
+      "fr": "Live Activities Push-to-Start",
+      "tr": "Live Activities Push-to-Start",
+      "zh-CN": "实时活动 Push-to-Start",
+      "zh-HK": "即時動態 Push-to-Start"
+    },
+    "Live Activities Push-to-Update": {
+      "ja": "ライブアクティビティ Push-to-Update",
+      "es": "Live Activities Push-to-Update",
+      "pt": "Live Activities Push-to-Update",
+      "ko": "라이브 액티비티 Push-to-Update",
+      "fr": "Live Activities Push-to-Update",
+      "tr": "Live Activities Push-to-Update",
+      "zh-CN": "实时活动 Push-to-Update",
+      "zh-HK": "即時動態 Push-to-Update"
+    },
+    "Sent At": {
+      "ja": "送信日時",
+      "es": "Enviado el",
+      "pt": "Enviado em",
+      "ko": "발송 시간",
+      "fr": "Envoyé le",
+      "tr": "Gönderim zamanı",
+      "zh-CN": "发送时间",
+      "zh-HK": "發送時間"
+    },
+    "Test": {
+      "ja": "テスト",
+      "es": "Prueba",
+      "pt": "Teste",
+      "ko": "테스트",
+      "fr": "Test",
+      "tr": "Test",
+      "zh-CN": "测试",
+      "zh-HK": "測試"
+    },
+    "dashboard": {
+      "ja": "ダッシュボード",
+      "es": "panel",
+      "pt": "painel",
+      "ko": "대시보드",
+      "fr": "tableau de bord",
+      "tr": "kontrol paneli",
+      "zh-CN": "仪表板",
+      "zh-HK": "儀表板"
+    },
+    "CDP": {
+      "ja": "CDP",
+      "es": "CDP",
+      "pt": "CDP",
+      "ko": "CDP",
+      "fr": "CDP",
+      "tr": "CDP",
+      "zh-CN": "CDP",
+      "zh-HK": "CDP"
+    },
+    "We couldn't find any results": {
+      "ja": "結果が見つかりませんでした",
+      "es": "No se encontraron resultados",
+      "pt": "Não encontramos nenhum resultado",
+      "ko": "검색 결과가 없습니다",
+      "fr": "Aucun résultat trouvé",
+      "tr": "Sonuç bulunamadı",
+      "zh-CN": "未找到任何结果",
+      "zh-HK": "未找到任何結果"
+    },
+    "You're using OneSignal's test domain to send emails, which shares a reputation with other OneSignal email senders. Set up an authenticated sender to own your email reputation and improve your email deliverability.": {
+      "ja": "メール送信にOneSignalのテストドメインを使用しており、他のOneSignalメール送信者と評価を共有しています。認証済み送信者を設定して、独自のメール評価を確立し、配信性を向上させましょう。",
+      "es": "Estás usando el dominio de prueba de OneSignal para enviar Email, lo que comparte reputación con otros Remitentes de Email de OneSignal. Configura un Remitente autenticado para tener tu propia reputación de Email y mejorar la entrega.",
+      "pt": "Você está usando o domínio de teste do OneSignal para enviar Email, o que compartilha reputação com outros Remetentes de Email do OneSignal. Configure um Remetente autenticado para ter sua própria reputação de Email e melhorar a entrega.",
+      "ko": "OneSignal의 테스트 도메인을 사용하여 이메일을 발송하고 있으며, 이는 다른 OneSignal 이메일 발신자와 평판을 공유합니다. 인증된 발신자를 설정하여 자체 이메일 평판을 확립하고 전달률을 개선하세요.",
+      "fr": "Vous utilisez le domaine de test de OneSignal pour envoyer des Email, ce qui partage la réputation avec d'autres Expéditeurs Email OneSignal. Configurez un Expéditeur authentifié pour posséder votre réputation Email et améliorer la livraison.",
+      "tr": "OneSignal'in test alan adını kullanarak E-posta gönderiyorsunuz; bu, diğer OneSignal E-posta Gönderenleri ile itibarınızı paylaşır. Kendi E-posta itibarınıza sahip olmak ve teslim oranınızı artırmak için kimlik doğrulamalı bir Gönderen yapılandırın.",
+      "zh-CN": "您正在使用 OneSignal 的测试域名发送 Email，这会与其他 OneSignal Email 发件人共享信誉。设置经过身份验证的发件人，建立您自己的 Email 信誉并提升送达率。",
+      "zh-HK": "您正在使用 OneSignal 的測試域名發送 Email，這會與其他 OneSignal Email 發件人共享信譽。設置經過身份驗證的發件人，建立您自己的 Email 信譽並提升送達率。"
+    },
+    "Double Opt-In will default users into a pending state when added to OneSignal and automatically prompt the user to confirm they'd like to subscribe. Once confirmed, we'll subscribe the user. Double Opt In ensures genuine user consent, enhances engagement, reduces spam complaints, and complies with regulations like TCPA and GDPR.": {
+      "ja": "Double Opt-Inは、OneSignalに追加されたユーザーをデフォルトで保留状態にし、購読を希望するか確認するよう自動的に促します。確認後、ユーザーを購読登録します。Double Opt Inは、真のユーザー同意を確保し、エンゲージメントを高め、スパム苦情を減らし、TCPAやGDPRなどの規制に準拠します。",
+      "es": "Double Opt-In coloca a los usuarios en un estado pendiente al añadirse a OneSignal y les solicita automáticamente que confirmen si desean suscribirse. Una vez confirmada la Suscripción, suscribimos al usuario. Double Opt In garantiza el consentimiento genuino del usuario, mejora la interacción, reduce las quejas por spam y cumple con regulaciones como TCPA y GDPR.",
+      "pt": "Double Opt-In coloca os usuários em estado pendente quando adicionados ao OneSignal e solicita automaticamente que o usuário confirme se deseja se inscrever. Após a confirmação, inscrevemos o usuário. Double Opt In garante o consentimento genuíno do usuário, aumenta o engajamento, reduz reclamações de spam e está em conformidade com regulamentações como TCPA e GDPR.",
+      "ko": "Double Opt-In은 OneSignal에 추가된 사용자를 기본적으로 대기 상태로 설정하고, 구독을 원하는지 확인하도록 사용자에게 자동으로 요청합니다. 확인이 완료되면 사용자의 구독을 등록합니다. Double Opt In은 사용자의 진정한 동의를 보장하고, 참여도를 높이며, 스팸 신고를 줄이고, TCPA 및 GDPR과 같은 규정을 준수합니다.",
+      "fr": "Double Opt-In place les utilisateurs en état d'attente par défaut lorsqu'ils sont ajoutés à OneSignal et leur demande automatiquement de confirmer leur Abonnement. Une fois confirmé, nous abonnons l'utilisateur. Double Opt In garantit le consentement authentique de l'utilisateur, améliore l'engagement, réduit les plaintes de spam et respecte les réglementations comme la TCPA et le RGPD.",
+      "tr": "Double Opt-In, OneSignal'e eklenen kullanıcıları varsayılan olarak bekleme durumuna alır ve abone olmak isteyip istemediklerini onaylamalarını otomatik olarak ister. Onaylandığında kullanıcıyı abone ederiz. Double Opt In, gerçek kullanıcı onayını sağlar, etkileşimi artırır, spam şikayetlerini azaltır ve TCPA ve GDPR gibi düzenlemelere uyar.",
+      "zh-CN": "Double Opt-In 会将添加到 OneSignal 的用户默认设置为待处理状态，并自动提示用户确认是否希望订阅。确认后，我们会订阅该用户。Double Opt In 可确保真实的用户同意，提升参与度，减少垃圾邮件投诉，并符合 TCPA 和 GDPR 等法规。",
+      "zh-HK": "Double Opt-In 會將添加到 OneSignal 的用戶默認設置為待處理狀態，並自動提示用戶確認是否希望訂閱。確認後，我們會訂閱該用戶。Double Opt In 可確保真實的用戶同意，提升參與度，減少垃圾郵件投訴，並符合 TCPA 和 GDPR 等法規。"
+    },
+    "Re-Subscribe keywords are only activated when a user has already unsubscribed and is on the phone number or message service's blocklist. When we receive re-subscribe keywords, we'll automatically re-subscribe the user and take them off the phone number or message service's blocklist.": {
+      "ja": "再購読キーワードは、ユーザーがすでに購読解除しており、電話番号またはメッセージサービスのブロックリストに登録されている場合にのみ有効化されます。再購読キーワードを受信すると、ユーザーを自動的に再購読登録し、電話番号またはメッセージサービスのブロックリストから削除します。",
+      "es": "Las palabras clave de Re-Suscripción solo se activan cuando un usuario ya se ha dado de baja y está en la lista de bloqueo del número de teléfono o del servicio de mensajería. Cuando recibimos palabras clave de re-suscripción, volvemos a suscribir al usuario automáticamente y lo eliminamos de la lista de bloqueo del número de teléfono o del servicio de mensajería.",
+      "pt": "As palavras-chave de Reinscrição só são ativadas quando um usuário já cancelou a inscrição e está na lista de bloqueio do número de telefone ou serviço de mensagens. Quando recebemos palavras-chave de reinscrição, reinscrevemos o usuário automaticamente e o removemos da lista de bloqueio do número de telefone ou serviço de mensagens.",
+      "ko": "재구독 키워드는 사용자가 이미 구독을 해지했고 전화번호 또는 메시지 서비스의 차단 목록에 있는 경우에만 활성화됩니다. 재구독 키워드를 받으면 사용자를 자동으로 다시 구독시키고 전화번호 또는 메시지 서비스의 차단 목록에서 제거합니다.",
+      "fr": "Les mots-clés de Réabonnement ne sont activés que lorsqu'un utilisateur s'est déjà désabonné et figure sur la liste de blocage du numéro de téléphone ou du service de messagerie. Lorsque nous recevons des mots-clés de réabonnement, nous réabonnons automatiquement l'utilisateur et le retirons de la liste de blocage du numéro de téléphone ou du service de messagerie.",
+      "tr": "Yeniden Abonelik anahtar kelimeleri, yalnızca bir kullanıcı zaten aboneliğini iptal etmişse ve telefon numarasının veya mesaj hizmetinin engelleme listesinde yer alıyorsa etkinleştirilir. Yeniden abonelik anahtar kelimelerini aldığımızda, kullanıcıyı otomatik olarak yeniden abone ederiz ve telefon numarasının veya mesaj hizmetinin engelleme listesinden çıkarırız.",
+      "zh-CN": "重新订阅关键词仅在用户已取消订阅且位于电话号码或消息服务的屏蔽列表中时才会激活。当我们收到重新订阅关键词时，会自动重新订阅该用户并将其从电话号码或消息服务的屏蔽列表中移除。",
+      "zh-HK": "重新訂閱關鍵字僅在用戶已取消訂閱且位於電話號碼或訊息服務的屏蔽列表中時才會激活。當我們收到重新訂閱關鍵字時，會自動重新訂閱該用戶並將其從電話號碼或訊息服務的屏蔽列表中移除。"
+    },
+    "2-Step Authentication": {
+      "ja": "2段階認証",
+      "es": "Autenticación en 2 pasos",
+      "pt": "Autenticação em 2 etapas",
+      "ko": "2단계 인증",
+      "fr": "Authentification en 2 étapes",
+      "tr": "2 Adımlı Doğrulama",
+      "zh-CN": "两步验证",
+      "zh-HK": "兩步驗證"
+    },
+    "Access Restricted": {
+      "ja": "アクセス制限",
+      "es": "Acceso restringido",
+      "pt": "Acesso restrito",
+      "ko": "액세스 제한됨",
+      "fr": "Accès restreint",
+      "tr": "Erişim kısıtlandı",
+      "zh-CN": "访问受限",
+      "zh-HK": "訪問受限"
+    },
+    "Composer": {
+      "ja": "コンポーザー",
+      "es": "Composer",
+      "pt": "Composer",
+      "ko": "컴포저",
+      "fr": "Composer",
+      "tr": "Composer",
+      "zh-CN": "编辑器",
+      "zh-HK": "編輯器"
+    },
+    "Email & Password": {
+      "ja": "メールとパスワード",
+      "es": "Email y contraseña",
+      "pt": "Email e senha",
+      "ko": "이메일 및 비밀번호",
+      "fr": "Email et mot de passe",
+      "tr": "E-posta ve şifre",
+      "zh-CN": "Email 和密码",
+      "zh-HK": "Email 和密碼"
+    },
+    "Enterprise SSO": {
+      "ja": "エンタープライズSSO",
+      "es": "SSO Empresarial",
+      "pt": "SSO Empresarial",
+      "ko": "엔터프라이즈 SSO",
+      "fr": "SSO Entreprise",
+      "tr": "Kurumsal SSO",
+      "zh-CN": "企业 SSO",
+      "zh-HK": "企業 SSO"
+    },
+    "Facebook": {
+      "ja": "Facebook",
+      "es": "Facebook",
+      "pt": "Facebook",
+      "ko": "Facebook",
+      "fr": "Facebook",
+      "tr": "Facebook",
+      "zh-CN": "Facebook",
+      "zh-HK": "Facebook"
+    },
+    "GitHub": {
+      "ja": "GitHub",
+      "es": "GitHub",
+      "pt": "GitHub",
+      "ko": "GitHub",
+      "fr": "GitHub",
+      "tr": "GitHub",
+      "zh-CN": "GitHub",
+      "zh-HK": "GitHub"
+    },
+    "Google": {
+      "ja": "Google",
+      "es": "Google",
+      "pt": "Google",
+      "ko": "Google",
+      "fr": "Google",
+      "tr": "Google",
+      "zh-CN": "Google",
+      "zh-HK": "Google"
+    },
+    "Previous Period:": {
+      "ja": "前期間:",
+      "es": "Periodo anterior:",
+      "pt": "Período anterior:",
+      "ko": "이전 기간:",
+      "fr": "Période précédente :",
+      "tr": "Önceki Dönem:",
+      "zh-CN": "上一期：",
+      "zh-HK": "上一期："
+    },
+    "Are you sure that you want to disable \"": {
+      "ja": "次を無効にしてもよろしいですか: \"",
+      "es": "Estás seguro de que deseas desactivar \"",
+      "pt": "Tem certeza de que deseja desativar \"",
+      "ko": "다음을 비활성화하시겠습니까: \"",
+      "fr": "Êtes-vous sûr de vouloir désactiver \"",
+      "tr": "Şunu devre dışı bırakmak istediğinizden emin misiniz: \"",
+      "zh-CN": "确定要禁用 \"",
+      "zh-HK": "確定要停用 \""
     }
   },
   "patterns": [

@@ -44,6 +44,13 @@ project follows [Semantic Versioning](https://semver.org/) — see
   against an allowlist of known UGC-picker labels. Translation
   still runs through the listbox normally; only ledger reporting
   is suppressed.
+- **Cohort-sync filter rows** (Mixpanel / Segment.com / Amplitude)
+  now also flagged via the value-picker filter, using the sibling
+  `FilterForm__FilterTitle` text as the signal. Catches both the
+  portaled listbox options AND the `css-1dimb5e-singleValue`
+  display showing the currently-selected cohort name. Same helper
+  (`isInUgcValuePicker`); the new path runs when `closest()` from
+  the input lands inside a `[class*='FilterForm__Filter-']` row.
 - **2 more translations** for empty-state and audience-description
   prose: `A group of users` and `You don't have any segments`,
   full coverage across all 8 languages. (For es/pt/fr the segment-
@@ -101,6 +108,74 @@ project follows [Semantic Versioning](https://semver.org/) — see
     from` — descriptive prefix on the audience filter card (the
     "Data Tags" link is rendered separately, so the prefix needs
     its own entry to translate independently)
+- **4 more identifier-column headers** added to the Name-column
+  ledger filter: `External ID`, `Email`, `Tags`, `Event name`. Cells
+  in those columns are dominated by user-defined values (subscription
+  IDs, addresses, tag values, custom event names), so the matching
+  cells are now suppressed from the missed-string ledger. Translation
+  still runs through them.
+- **`Destination URL`, `Item Name`, `Key ID`** added to the
+  Name-column ledger filter (URLs, item names, and access-key IDs
+  are user-defined).
+- **10 more translations** for the team / settings screens:
+  `2-Step Authentication`, `Access Restricted`, `Composer`,
+  `Email & Password`, `Enterprise SSO`, `Facebook`, `GitHub`,
+  `Google` (brands kept Latin), `Previous Period:`,
+  `Are you sure that you want to disable "` (confirmation-prompt
+  prefix; name gets injected after the trailing opening quote).
+- **5 more translations**:
+  - `CDP` — industry acronym (Customer Data Platform), Latin in
+    every language to match the API/SDK pattern.
+  - `We couldn't find any results` — generic empty-state copy.
+  - Long descriptive paragraphs for the test-domain warning, the
+    Double Opt-In feature, and the Re-Subscribe keywords feature
+    (shown on the Subscriptions / Email config screens). Industry
+    feature names (`Double Opt-In` / `Double Opt In`) kept Latin
+    in all languages.
+- **5 more translations**: `Live Activities Push-to-Start`,
+  `Live Activities Push-to-Update` (Apple compound terms — kept
+  Latin and exempted from the `Push` / `Update` glossary locks via
+  `_skip_keys`), `Sent At`, `Test`, `dashboard`.
+- **89 more translations** from a second feedback batch:
+  - **40 language names** (Arabic through Vietnamese, plus English,
+    Chinese (Simplified), Chinese (Traditional)) — translated to each
+    target language's standard exonym; brand-style names like
+    `Hindi` / `Punjabi` keep their conventional forms per language.
+  - **Time-relative filter operators**: `days ago`, `minutes ago`,
+    `weeks ago`.
+  - **Comparison operators**: `equals to`, `not equals to`,
+    `greater than or equal to`, `less than or equal to`, `is True`,
+    `is False`, `is true`, `is within`.
+  - **Channel selectors**: `Any SMS`, `Any email`, `Any in-app
+    message`, `Any push notification`, `Web Push (All Browsers)`,
+    `Chrome Extension`, plus brand-name targets `Alexa`, `Huawei`,
+    `Windows Phone 8.0` (Latin in all langs).
+  - **Audience / report UI**: `Audience Report`, `Channel Breakdown`,
+    `Calculating...`, `subscribed records`, `subscribed records for
+    this filter.`, `unsubscribed`, `sessions`, `Add Property`.
+  - **Geo / event filter UI**: `Latitude (ex: 18.344)`, `Longitude
+    (ex: -66.753)`, `Radius`, `latitude`, `longitude`, `meters`,
+    `is within`, `Type and select event`, `Select a channel...`,
+    `Missing property and value`, `Nested event properties can be
+    referenced using dot notation. Example:`, `Booleans`, `Numbers`,
+    `Strings`, `property`, `of the following properties:`, `With`,
+    `all`, `and`, `. Learn more at`, `Custom Event Filters
+    documentation`.
+- **25 new translations** from feedback batch:
+  - Filter operators: `does not exist`, `time elapsed greater than`,
+    `time elapsed less than`
+  - Cohort-sync section: `Cohorts you have synced with Amplitude`
+    / `Mixpanel` / `Segment.com`, plus the brand names themselves
+    (`Amplitude`, `Mixpanel`, `Segment.com` — recorded as Latin in
+    every language so the validator marks them informational, not
+    untranslated). `Segment.com` is added to the `Segment` glossary
+    `_skip_keys` to distinguish from the OneSignal Segment feature.
+  - Filter-builder UI: `And Filter`, `Manually type in (exact match)
+    or select tags pulled from your test users`
+  - Webhook-config UI: `Authorization`, `Content-Type`, `POST`
+    (HTTP protocol tokens — Latin), `Headers`, `Body`, `Custom Body`,
+    `Add Header`, `Remove entry`, `key`, `value`, `Configure`,
+    `Edit Journey Webhook`, `Webhook Documentation`, `Webhook Name`
 
 ### Notes
 
