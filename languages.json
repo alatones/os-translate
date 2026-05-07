@@ -15649,6 +15649,26 @@
       "tr": "Kullanıcı özelliklerine veya olaylara göre hedef kitleye ulaşın —",
       "zh-CN": "根据用户属性或事件触达目标受众 —",
       "zh-HK": "根據用戶屬性或事件觸達目標受眾 —"
+    },
+    "A group of users": {
+      "ja": "ユーザーのグループ",
+      "es": "Un grupo de usuarios",
+      "pt": "Um grupo de usuários",
+      "ko": "사용자 그룹",
+      "fr": "Un groupe d'utilisateurs",
+      "tr": "Bir kullanıcı grubu",
+      "zh-CN": "一组用户",
+      "zh-HK": "一組用戶"
+    },
+    "You don't have any segments": {
+      "ja": "セグメントがありません",
+      "es": "No tienes Segmentos",
+      "pt": "Você não tem Segmentos",
+      "ko": "세그먼트가 없습니다",
+      "fr": "Vous n'avez pas de Segments",
+      "tr": "Hiç Segment'iniz yok",
+      "zh-CN": "您没有任何用户分群",
+      "zh-HK": "您沒有任何用戶分群"
     }
   },
   "patterns": [

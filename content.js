@@ -323,16 +323,29 @@
   // ARIA live regions render screen-reader-only announcements that get
   // dynamically injected as the user interacts with widgets — react-
   // select fires "OK, 3 of 78." / "option , selected." / "Use Up and
-  // Down to choose options, press Enter…" / etc. into hidden spans
-  // every time the focused option changes. They're invisible UI, so
-  // never real UI strings worth translating, and the option-name
-  // halves of those announcements are UGC anyway.
+  // Down to choose options, press Enter…" / "Select is focused, type
+  // to refine list…" etc. into hidden spans every time the focused
+  // option changes. They're invisible UI, so never real UI strings
+  // worth translating, and the option-name halves of those
+  // announcements are UGC anyway.
   //
-  // Two selectors needed because the first react-select live-region
-  // span has the "-live-region" id pattern but no aria-live attribute
-  // (it's the placeholder for future content); the second has
-  // aria-live="polite" + role="log".
-  const A11Y_LIVE_REGION_SELECTOR = "[id$='-live-region'], [aria-live]";
+  // react-select uses three a11y constructs that we need to cover:
+  //  - <span id="...-live-region">           (no aria-live attribute,
+  //                                           changes route through it)
+  //  - <span aria-live="polite" role="log">  (selection feedback)
+  //  - <span id="...-input-description">     (keyboard instructions)
+  // All three live inside an <span class="a11yText"> visually-hidden
+  // wrapper — the [class*='a11yText'] selector is the catch-all
+  // that handles any react-select a11y span we don't enumerate.
+  const A11Y_LIVE_REGION_SELECTOR = [
+    "[id$='-live-region']",
+    "[id$='-input-description']",
+    "[aria-live]",
+    "[role='log']",
+    "[role='status']",
+    "[role='alert']",
+    "[class*='a11yText']",
+  ].join(", ");
   function isInA11yLiveRegion(el) {
     if (!el || !el.closest) return false;
     return !!el.closest(A11Y_LIVE_REGION_SELECTOR);

@@ -44,18 +44,28 @@ project follows [Semantic Versioning](https://semver.org/) — see
   against an allowlist of known UGC-picker labels. Translation
   still runs through the listbox normally; only ledger reporting
   is suppressed.
+- **2 more translations** for empty-state and audience-description
+  prose: `A group of users` and `You don't have any segments`,
+  full coverage across all 8 languages. (For es/pt/fr the segment-
+  count phrasing uses the plural form to match the glossary lock —
+  "No tienes Segmentos" / "Você não tem Segmentos" /
+  "Vous n'avez pas de Segments".)
 - **ARIA live-region ledger skip.** react-select (and other ARIA-
   compliant widgets) inject screen-reader-only announcements into
-  hidden `aria-live` spans every time the user interacts with a
-  dropdown — things like "Crown Casino, 73 of 78.", "option ,
-  selected.", "Use Up and Down to choose options, press Enter to
-  select the currently focused option…". The announcements live in
+  hidden a11y spans every time the user interacts with a dropdown —
+  things like "Crown Casino, 73 of 78.", "option , selected.",
+  "Use Up and Down to choose options, press Enter to select the
+  currently focused option…", "Select is focused, type to refine
+  list, press Down to open the menu". The announcements live in
   visually-hidden spans (class `a11yText`), so they're invisible to
   the user but the text walker sees them. New `isInA11yLiveRegion()`
-  helper matches via `[id$='-live-region']` (react-select's empty
-  placeholder span) and `[aria-live]` (the polite/assertive log
-  span). Translation still runs through these strings; only ledger
-  reporting is suppressed.
+  helper matches a layered selector: `[id$='-live-region']` (the
+  react-select live-region span), `[id$='-input-description']` (the
+  keyboard-instructions span), `[aria-live]` (any ARIA-live region),
+  the standard `[role='log'|'status'|'alert']` triplet, plus
+  `[class*='a11yText']` as a catch-all for any react-select a11y
+  span we don't enumerate. Translation still runs through these
+  strings; only ledger reporting is suppressed.
 - **Auto-suggest popover ledger skip.** The dashboard renders an
   `AutoSuggestPopoverMenu` whenever the user types into a property /
   tag / event-name input — and the suggested matches are sourced
