@@ -9,6 +9,27 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [1.5.4] — 2026-05-07
 
+### Fixed
+
+- **Context-aware ledger filters now apply to attribute walks too.**
+  The previous wiring (1.5.0 onward) only passed context through the
+  text-node path of `translateString`. The attribute walker
+  (`translateAttributes`) called `translateString` without context,
+  so DOM-aware filters (Name column, UGC chrome, value picker,
+  auto-suggest) silently no-op'd for any attribute they touched.
+  This surfaced concretely in the value-picker case: react-select
+  options render as `<div title="X">X</div>`, where the text
+  content was correctly suppressed but the `title` attribute leaked
+  the same UGC string into the ledger via the second walk.
+  Fix: `translateAttributes` now passes `{ element: el }` as
+  context; `trackMissed` normalizes either `context.textNode` or
+  `context.element` into a single target element; helpers
+  (`isInNameColumn`, `isInUgcChrome`, `isInUgcValuePicker`,
+  `isInUgcAutoSuggest`) now accept an element directly. AutoSuggest
+  options happened to dodge this because they don't carry title
+  attributes — so 1.5.4 looked partially-working but was actually
+  buggy across all four filters for any attribute-bearing markup.
+
 ### Added
 
 - **Filter-value picker ledger skip.** Filter-value picker dropdowns

@@ -270,11 +270,10 @@
     return indices;
   }
 
-  function isInNameColumn(textNode) {
-    if (!textNode || !textNode.parentNode) return false;
+  function isInNameColumn(el) {
+    if (!el || el.nodeType !== Node.ELEMENT_NODE) return false;
     // Walk up to the nearest <td> (data cell). <th> headers don't get
     // skipped — we want column headers to translate normally.
-    let el = textNode.parentNode;
     while (el && el.nodeType === Node.ELEMENT_NODE && el.tagName !== "TD") {
       if (el.tagName === "TABLE" || el.tagName === "TH") return false;
       el = el.parentNode;
@@ -302,10 +301,9 @@
     "[class*='CleanSidebar__AppSwitcher']",
     "[class*='AppAccountDropdown']",
   ].join(",");
-  function isInUgcChrome(textNode) {
-    const parent = textNode && textNode.parentNode;
-    if (!parent || !parent.closest) return false;
-    return !!parent.closest(UGC_CHROME_SELECTOR);
+  function isInUgcChrome(el) {
+    if (!el || !el.closest) return false;
+    return !!el.closest(UGC_CHROME_SELECTOR);
   }
 
   // Auto-suggest popover. The dashboard renders one whenever the user
@@ -317,10 +315,9 @@
   // (Match), so a single closest() reaches both. Translation still
   // runs through the popover; only ledger reporting is suppressed.
   const UGC_AUTOSUGGEST_SELECTOR = "[class*='AutoSuggestPopoverMenu__']";
-  function isInUgcAutoSuggest(textNode) {
-    const parent = textNode && textNode.parentNode;
-    if (!parent || !parent.closest) return false;
-    return !!parent.closest(UGC_AUTOSUGGEST_SELECTOR);
+  function isInUgcAutoSuggest(el) {
+    if (!el || !el.closest) return false;
+    return !!el.closest(UGC_AUTOSUGGEST_SELECTOR);
   }
 
   // Filter-value picker dropdowns (Label is, Tag is, etc.) show options
@@ -369,10 +366,9 @@
     }
     ugcValuePickerLabelPatterns = patterns;
   }
-  function isInUgcValuePicker(textNode) {
-    const parent = textNode && textNode.parentNode;
-    if (!parent || !parent.closest) return false;
-    const listbox = parent.closest(
+  function isInUgcValuePicker(el) {
+    if (!el || !el.closest) return false;
+    const listbox = el.closest(
       "[id^='react-select-'][id$='-listbox']",
     );
     if (!listbox) return false;
@@ -380,14 +376,14 @@
     if (!m) return false;
     const input = document.getElementById("react-select-" + m[1] + "-input");
     if (!input) return false;
-    let el = input.parentElement;
-    for (let i = 0; i < 6 && el; i++) {
-      const label = el.querySelector("label");
+    let walk = input.parentElement;
+    for (let i = 0; i < 6 && walk; i++) {
+      const label = walk.querySelector("label");
       if (label) {
         const text = (label.textContent || "").trim();
         return ugcValuePickerLabelPatterns.some((re) => re.test(text));
       }
-      el = el.parentElement;
+      walk = walk.parentElement;
     }
     return false;
   }
@@ -406,24 +402,46 @@
     if (onAppSelectorPage()) return;
     if (onSuperUserPage()) return;
     if (!couldBeUI(s)) return;
-    // Skip ledger reporting (but not translation) for cells in the
-    // "Name / Title / ID / Label"-style identifier column of any
-    // table — those cells are dominated by user-generated record
-    // names. Subtext patterns like "User Tag X is activated" still
-    // translate because translation is gated separately upstream.
-    if (context && context.textNode && isInNameColumn(context.textNode)) return;
-    // Skip ledger reporting for the breadcrumb trail and app/account
-    // switcher chrome — both render on every page-load and surface
-    // org/app names + emails over and over.
-    if (context && context.textNode && isInUgcChrome(context.textNode)) return;
-    // Skip ledger reporting for options inside filter-value picker
-    // dropdowns ("Label is", "Labels (0/5)", etc.) — those show
-    // user-defined values from the account.
-    if (context && context.textNode && isInUgcValuePicker(context.textNode)) return;
-    // Skip ledger reporting for auto-suggest popover content (property
-    // names, tag names, event names suggested from the user's own
-    // account data — UGC by definition).
-    if (context && context.textNode && isInUgcAutoSuggest(context.textNode)) return;
+    // Both translation paths feed through trackMissed:
+    //   - text nodes (translateTextNode) pass { textNode }
+    //   - attribute walkers (translateAttributes) pass { element }
+    // Same string can flow through both — e.g. <div title="x">x</div>
+    // shows up via the text node AND the title attribute. The context-
+    // aware filters need to apply to both, so normalize to a single
+    // "where in the DOM is this string" element before checking.
+    let el = null;
+    if (context) {
+      if (
+        context.textNode &&
+        context.textNode.parentNode &&
+        context.textNode.parentNode.nodeType === Node.ELEMENT_NODE
+      ) {
+        el = context.textNode.parentNode;
+      } else if (
+        context.element &&
+        context.element.nodeType === Node.ELEMENT_NODE
+      ) {
+        el = context.element;
+      }
+    }
+    if (el) {
+      // Skip ledger reporting (but not translation) for cells in the
+      // "Name / Title / ID / Label"-style identifier column of any
+      // table — those cells are dominated by user-generated record
+      // names. Subtext patterns like "User Tag X is activated" still
+      // translate because translation is gated separately upstream.
+      if (isInNameColumn(el)) return;
+      // Skip the breadcrumb trail and app/account switcher chrome —
+      // both render on every page-load and surface org/app names +
+      // emails over and over.
+      if (isInUgcChrome(el)) return;
+      // Skip options inside filter-value picker dropdowns ("Label is",
+      // "Labels (0/5)", etc.) — those show user-defined values.
+      if (isInUgcValuePicker(el)) return;
+      // Skip auto-suggest popover content (property/tag/event names
+      // suggested from the user's account data).
+      if (isInUgcAutoSuggest(el)) return;
+    }
     const next = (missedSession.get(s) || 0) + 1;
     missedSession.set(s, next);
     if (next < MISSED_SEEN_THRESHOLD) return;
@@ -471,7 +489,12 @@
     if (isInsideSkippedSvgZone(el)) return;
     for (const attr of TRANSLATABLE_ATTRS) {
       if (!el.hasAttribute(attr)) continue;
-      const next = translateString(el.getAttribute(attr));
+      // Pass the attribute-bearing element as context so trackMissed's
+      // context-aware filters (Name column, UGC chrome, value picker,
+      // auto-suggest) apply to attribute walks too. Without this, e.g.
+      // <div title="UGC value">UGC value</div> would have its text
+      // suppressed correctly but its title attribute logged.
+      const next = translateString(el.getAttribute(attr), { element: el });
       if (next !== null && el.getAttribute(attr) !== next) {
         el.setAttribute(attr, next);
       }
