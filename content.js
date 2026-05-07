@@ -244,16 +244,20 @@
     "Tags",
     "Event name",
     "Destination URL",
-    "Item Name",
+    "Item name",
     "Key ID",
   ];
+  // Header matching is case-insensitive — the same column may render as
+  // "Item name" in one table and "Item Name" in another, and we don't
+  // want to maintain both forms in the source list.
   let nameColumnHeaders = new Set();
   function buildNameColumnHeaders() {
-    const headers = new Set(NAME_HEADER_SOURCE_TERMS);
+    const headers = new Set();
     for (const term of NAME_HEADER_SOURCE_TERMS) {
+      headers.add(term.toLowerCase());
       const translated = lookup.get(term);
       if (typeof translated === "string" && translated) {
-        headers.add(translated);
+        headers.add(translated.toLowerCase());
       }
     }
     nameColumnHeaders = headers;
@@ -273,7 +277,7 @@
     if (headerRow) {
       const cells = headerRow.querySelectorAll("th, td");
       for (let i = 0; i < cells.length; i++) {
-        const text = (cells[i].textContent || "").trim();
+        const text = (cells[i].textContent || "").trim().toLowerCase();
         if (nameColumnHeaders.has(text)) {
           indices.add(i);
         }
