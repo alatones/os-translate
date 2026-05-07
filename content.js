@@ -233,7 +233,17 @@
   // cells — translation is still attempted (subtext patterns like
   // "Last Session greater than 168 hours ago" still translate), only
   // the missed-string ledger is filtered.
-  const NAME_HEADER_SOURCE_TERMS = ["Name", "Title", "ID", "Identifier", "Labels"];
+  const NAME_HEADER_SOURCE_TERMS = [
+    "Name",
+    "Title",
+    "ID",
+    "Identifier",
+    "Labels",
+    "External ID",
+    "Email",
+    "Tags",
+    "Event name",
+  ];
   let nameColumnHeaders = new Set();
   function buildNameColumnHeaders() {
     const headers = new Set(NAME_HEADER_SOURCE_TERMS);

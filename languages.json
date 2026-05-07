@@ -15669,6 +15669,256 @@
       "tr": "Hiç Segment'iniz yok",
       "zh-CN": "您没有任何用户分群",
       "zh-HK": "您沒有任何用戶分群"
+    },
+    "does not exist": {
+      "ja": "存在しません",
+      "es": "no existe",
+      "pt": "não existe",
+      "ko": "존재하지 않습니다",
+      "fr": "n'existe pas",
+      "tr": "mevcut değil",
+      "zh-CN": "不存在",
+      "zh-HK": "不存在"
+    },
+    "time elapsed greater than": {
+      "ja": "経過時間が次より大きい",
+      "es": "tiempo transcurrido mayor que",
+      "pt": "tempo decorrido maior que",
+      "ko": "경과 시간이 다음보다 큼",
+      "fr": "temps écoulé supérieur à",
+      "tr": "geçen süre büyüktür",
+      "zh-CN": "经过时间大于",
+      "zh-HK": "經過時間大於"
+    },
+    "time elapsed less than": {
+      "ja": "経過時間が次より小さい",
+      "es": "tiempo transcurrido menor que",
+      "pt": "tempo decorrido menor que",
+      "ko": "경과 시간이 다음보다 작음",
+      "fr": "temps écoulé inférieur à",
+      "tr": "geçen süre küçüktür",
+      "zh-CN": "经过时间小于",
+      "zh-HK": "經過時間小於"
+    },
+    "Amplitude": {
+      "ja": "Amplitude",
+      "es": "Amplitude",
+      "pt": "Amplitude",
+      "ko": "Amplitude",
+      "fr": "Amplitude",
+      "tr": "Amplitude",
+      "zh-CN": "Amplitude",
+      "zh-HK": "Amplitude"
+    },
+    "Mixpanel": {
+      "ja": "Mixpanel",
+      "es": "Mixpanel",
+      "pt": "Mixpanel",
+      "ko": "Mixpanel",
+      "fr": "Mixpanel",
+      "tr": "Mixpanel",
+      "zh-CN": "Mixpanel",
+      "zh-HK": "Mixpanel"
+    },
+    "Segment.com": {
+      "ja": "Segment.com",
+      "es": "Segment.com",
+      "pt": "Segment.com",
+      "ko": "Segment.com",
+      "fr": "Segment.com",
+      "tr": "Segment.com",
+      "zh-CN": "Segment.com",
+      "zh-HK": "Segment.com"
+    },
+    "Cohorts you have synced with Amplitude": {
+      "ja": "Amplitudeと同期したコホート",
+      "es": "Cohortes que has sincronizado con Amplitude",
+      "pt": "Cohortes que você sincronizou com o Amplitude",
+      "ko": "Amplitude와 동기화한 코호트",
+      "fr": "Cohortes que vous avez synchronisées avec Amplitude",
+      "tr": "Amplitude ile senkronize ettiğiniz kohortlar",
+      "zh-CN": "您已与 Amplitude 同步的群组",
+      "zh-HK": "您已與 Amplitude 同步的群組"
+    },
+    "Cohorts you have synced with Mixpanel": {
+      "ja": "Mixpanelと同期したコホート",
+      "es": "Cohortes que has sincronizado con Mixpanel",
+      "pt": "Cohortes que você sincronizou com o Mixpanel",
+      "ko": "Mixpanel과 동기화한 코호트",
+      "fr": "Cohortes que vous avez synchronisées avec Mixpanel",
+      "tr": "Mixpanel ile senkronize ettiğiniz kohortlar",
+      "zh-CN": "您已与 Mixpanel 同步的群组",
+      "zh-HK": "您已與 Mixpanel 同步的群組"
+    },
+    "Cohorts you have synced with Segment.com": {
+      "ja": "Segment.comと同期したコホート",
+      "es": "Cohortes que has sincronizado con Segment.com",
+      "pt": "Cohortes que você sincronizou com o Segment.com",
+      "ko": "Segment.com과 동기화한 코호트",
+      "fr": "Cohortes que vous avez synchronisées avec Segment.com",
+      "tr": "Segment.com ile senkronize ettiğiniz kohortlar",
+      "zh-CN": "您已与 Segment.com 同步的群组",
+      "zh-HK": "您已與 Segment.com 同步的群組"
+    },
+    "And Filter": {
+      "ja": "AND フィルター",
+      "es": "Filtro Y",
+      "pt": "Filtro E",
+      "ko": "AND 필터",
+      "fr": "Filtre ET",
+      "tr": "VE Filtresi",
+      "zh-CN": "且筛选条件",
+      "zh-HK": "且篩選條件"
+    },
+    "Manually type in (exact match) or select tags pulled from your test users": {
+      "ja": "手動で入力（完全一致）するか、テストユーザーから取得したタグを選択します",
+      "es": "Escribe manualmente (coincidencia exacta) o selecciona Etiquetas extraídas de tus usuarios de prueba",
+      "pt": "Digite manualmente (correspondência exata) ou selecione Tags extraídas dos seus usuários de teste",
+      "ko": "직접 입력(정확히 일치)하거나 테스트 사용자에서 가져온 태그를 선택하세요",
+      "fr": "Saisissez manuellement (correspondance exacte) ou sélectionnez des Tags issus de vos utilisateurs de test",
+      "tr": "Manuel olarak yazın (tam eşleşme) veya test kullanıcılarınızdan çekilen Etiketleri seçin",
+      "zh-CN": "手动输入（精确匹配）或选择从测试用户中提取的标签",
+      "zh-HK": "手動輸入（精確匹配）或選擇從測試用戶中提取的標籤"
+    },
+    "key": {
+      "ja": "キー",
+      "es": "clave",
+      "pt": "chave",
+      "ko": "키",
+      "fr": "clé",
+      "tr": "anahtar",
+      "zh-CN": "键",
+      "zh-HK": "鍵"
+    },
+    "value": {
+      "ja": "値",
+      "es": "valor",
+      "pt": "valor",
+      "ko": "값",
+      "fr": "valeur",
+      "tr": "değer",
+      "zh-CN": "值",
+      "zh-HK": "值"
+    },
+    "Authorization": {
+      "ja": "Authorization",
+      "es": "Authorization",
+      "pt": "Authorization",
+      "ko": "Authorization",
+      "fr": "Authorization",
+      "tr": "Authorization",
+      "zh-CN": "Authorization",
+      "zh-HK": "Authorization"
+    },
+    "Content-Type": {
+      "ja": "Content-Type",
+      "es": "Content-Type",
+      "pt": "Content-Type",
+      "ko": "Content-Type",
+      "fr": "Content-Type",
+      "tr": "Content-Type",
+      "zh-CN": "Content-Type",
+      "zh-HK": "Content-Type"
+    },
+    "POST": {
+      "ja": "POST",
+      "es": "POST",
+      "pt": "POST",
+      "ko": "POST",
+      "fr": "POST",
+      "tr": "POST",
+      "zh-CN": "POST",
+      "zh-HK": "POST"
+    },
+    "Headers": {
+      "ja": "ヘッダー",
+      "es": "Encabezados",
+      "pt": "Cabeçalhos",
+      "ko": "헤더",
+      "fr": "En-têtes",
+      "tr": "Başlıklar",
+      "zh-CN": "标头",
+      "zh-HK": "標頭"
+    },
+    "Body": {
+      "ja": "本文",
+      "es": "Cuerpo",
+      "pt": "Corpo",
+      "ko": "본문",
+      "fr": "Corps",
+      "tr": "Gövde",
+      "zh-CN": "正文",
+      "zh-HK": "正文"
+    },
+    "Remove entry": {
+      "ja": "エントリを削除",
+      "es": "Quitar entrada",
+      "pt": "Remover entrada",
+      "ko": "항목 제거",
+      "fr": "Retirer l'entrée",
+      "tr": "Girişi kaldır",
+      "zh-CN": "移除条目",
+      "zh-HK": "移除項目"
+    },
+    "Add Header": {
+      "ja": "ヘッダーを追加",
+      "es": "Agregar encabezado",
+      "pt": "Adicionar cabeçalho",
+      "ko": "헤더 추가",
+      "fr": "Ajouter un en-tête",
+      "tr": "Başlık ekle",
+      "zh-CN": "添加标头",
+      "zh-HK": "新增標頭"
+    },
+    "Configure": {
+      "ja": "設定",
+      "es": "Configurar",
+      "pt": "Configurar",
+      "ko": "구성",
+      "fr": "Configurer",
+      "tr": "Yapılandır",
+      "zh-CN": "配置",
+      "zh-HK": "設定"
+    },
+    "Custom Body": {
+      "ja": "カスタム本文",
+      "es": "Cuerpo personalizado",
+      "pt": "Corpo personalizado",
+      "ko": "사용자 정의 본문",
+      "fr": "Corps personnalisé",
+      "tr": "Özel gövde",
+      "zh-CN": "自定义正文",
+      "zh-HK": "自訂正文"
+    },
+    "Edit Journey Webhook": {
+      "ja": "ジャーニーのWebhookを編集",
+      "es": "Editar Webhook de Recorrido",
+      "pt": "Editar Webhook de Jornada",
+      "ko": "저니 웹훅 편집",
+      "fr": "Modifier le Webhook de Parcours",
+      "tr": "Yolculuk Webhook'unu düzenle",
+      "zh-CN": "编辑旅程 Webhook",
+      "zh-HK": "編輯旅程 Webhook"
+    },
+    "Webhook Documentation": {
+      "ja": "Webhookドキュメント",
+      "es": "Documentación de Webhook",
+      "pt": "Documentação do Webhook",
+      "ko": "웹훅 문서",
+      "fr": "Documentation Webhook",
+      "tr": "Webhook Belgeleri",
+      "zh-CN": "Webhook 文档",
+      "zh-HK": "Webhook 文檔"
+    },
+    "Webhook Name": {
+      "ja": "Webhook名",
+      "es": "Nombre del Webhook",
+      "pt": "Nome do Webhook",
+      "ko": "웹훅 이름",
+      "fr": "Nom du Webhook",
+      "tr": "Webhook Adı",
+      "zh-CN": "Webhook 名称",
+      "zh-HK": "Webhook 名稱"
     }
   },
   "patterns": [

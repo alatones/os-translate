@@ -84,7 +84,9 @@
       "ko": "세그먼트",
       "note": "OneSignal feature noun. The company 'Segment' (Twilio Segment) stays Latin and is excluded from glossary check via _skip_keys.",
       "_skip_keys": [
-        "Seamlessly integrate with APIs, SDKs, or tools like Segment"
+        "Seamlessly integrate with APIs, SDKs, or tools like Segment",
+        "Segment.com",
+        "Cohorts you have synced with Segment.com"
       ],
       "fr": "Segment",
       "tr": "Segment",

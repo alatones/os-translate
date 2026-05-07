@@ -101,6 +101,27 @@ project follows [Semantic Versioning](https://semver.org/) — see
     from` — descriptive prefix on the audience filter card (the
     "Data Tags" link is rendered separately, so the prefix needs
     its own entry to translate independently)
+- **4 more identifier-column headers** added to the Name-column
+  ledger filter: `External ID`, `Email`, `Tags`, `Event name`. Cells
+  in those columns are dominated by user-defined values (subscription
+  IDs, addresses, tag values, custom event names), so the matching
+  cells are now suppressed from the missed-string ledger. Translation
+  still runs through them.
+- **25 new translations** from feedback batch:
+  - Filter operators: `does not exist`, `time elapsed greater than`,
+    `time elapsed less than`
+  - Cohort-sync section: `Cohorts you have synced with Amplitude`
+    / `Mixpanel` / `Segment.com`, plus the brand names themselves
+    (`Amplitude`, `Mixpanel`, `Segment.com` — recorded as Latin in
+    every language so the validator marks them informational, not
+    untranslated). `Segment.com` is added to the `Segment` glossary
+    `_skip_keys` to distinguish from the OneSignal Segment feature.
+  - Filter-builder UI: `And Filter`, `Manually type in (exact match)
+    or select tags pulled from your test users`
+  - Webhook-config UI: `Authorization`, `Content-Type`, `POST`
+    (HTTP protocol tokens — Latin), `Headers`, `Body`, `Custom Body`,
+    `Add Header`, `Remove entry`, `key`, `value`, `Configure`,
+    `Edit Journey Webhook`, `Webhook Documentation`, `Webhook Name`
 
 ### Notes
 
