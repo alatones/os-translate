@@ -16899,6 +16899,106 @@
       "tr": "Yeniden Abonelik anahtar kelimeleri, yalnızca bir kullanıcı zaten aboneliğini iptal etmişse ve telefon numarasının veya mesaj hizmetinin engelleme listesinde yer alıyorsa etkinleştirilir. Yeniden abonelik anahtar kelimelerini aldığımızda, kullanıcıyı otomatik olarak yeniden abone ederiz ve telefon numarasının veya mesaj hizmetinin engelleme listesinden çıkarırız.",
       "zh-CN": "重新订阅关键词仅在用户已取消订阅且位于电话号码或消息服务的屏蔽列表中时才会激活。当我们收到重新订阅关键词时，会自动重新订阅该用户并将其从电话号码或消息服务的屏蔽列表中移除。",
       "zh-HK": "重新訂閱關鍵字僅在用戶已取消訂閱且位於電話號碼或訊息服務的屏蔽列表中時才會激活。當我們收到重新訂閱關鍵字時，會自動重新訂閱該用戶並將其從電話號碼或訊息服務的屏蔽列表中移除。"
+    },
+    "2-Step Authentication": {
+      "ja": "2段階認証",
+      "es": "Autenticación en 2 pasos",
+      "pt": "Autenticação em 2 etapas",
+      "ko": "2단계 인증",
+      "fr": "Authentification en 2 étapes",
+      "tr": "2 Adımlı Doğrulama",
+      "zh-CN": "两步验证",
+      "zh-HK": "兩步驗證"
+    },
+    "Access Restricted": {
+      "ja": "アクセス制限",
+      "es": "Acceso restringido",
+      "pt": "Acesso restrito",
+      "ko": "액세스 제한됨",
+      "fr": "Accès restreint",
+      "tr": "Erişim kısıtlandı",
+      "zh-CN": "访问受限",
+      "zh-HK": "訪問受限"
+    },
+    "Composer": {
+      "ja": "コンポーザー",
+      "es": "Composer",
+      "pt": "Composer",
+      "ko": "컴포저",
+      "fr": "Composer",
+      "tr": "Composer",
+      "zh-CN": "编辑器",
+      "zh-HK": "編輯器"
+    },
+    "Email & Password": {
+      "ja": "メールとパスワード",
+      "es": "Email y contraseña",
+      "pt": "Email e senha",
+      "ko": "이메일 및 비밀번호",
+      "fr": "Email et mot de passe",
+      "tr": "E-posta ve şifre",
+      "zh-CN": "Email 和密码",
+      "zh-HK": "Email 和密碼"
+    },
+    "Enterprise SSO": {
+      "ja": "エンタープライズSSO",
+      "es": "SSO Empresarial",
+      "pt": "SSO Empresarial",
+      "ko": "엔터프라이즈 SSO",
+      "fr": "SSO Entreprise",
+      "tr": "Kurumsal SSO",
+      "zh-CN": "企业 SSO",
+      "zh-HK": "企業 SSO"
+    },
+    "Facebook": {
+      "ja": "Facebook",
+      "es": "Facebook",
+      "pt": "Facebook",
+      "ko": "Facebook",
+      "fr": "Facebook",
+      "tr": "Facebook",
+      "zh-CN": "Facebook",
+      "zh-HK": "Facebook"
+    },
+    "GitHub": {
+      "ja": "GitHub",
+      "es": "GitHub",
+      "pt": "GitHub",
+      "ko": "GitHub",
+      "fr": "GitHub",
+      "tr": "GitHub",
+      "zh-CN": "GitHub",
+      "zh-HK": "GitHub"
+    },
+    "Google": {
+      "ja": "Google",
+      "es": "Google",
+      "pt": "Google",
+      "ko": "Google",
+      "fr": "Google",
+      "tr": "Google",
+      "zh-CN": "Google",
+      "zh-HK": "Google"
+    },
+    "Previous Period:": {
+      "ja": "前期間:",
+      "es": "Periodo anterior:",
+      "pt": "Período anterior:",
+      "ko": "이전 기간:",
+      "fr": "Période précédente :",
+      "tr": "Önceki Dönem:",
+      "zh-CN": "上一期：",
+      "zh-HK": "上一期："
+    },
+    "Are you sure that you want to disable \"": {
+      "ja": "次を無効にしてもよろしいですか: \"",
+      "es": "Estás seguro de que deseas desactivar \"",
+      "pt": "Tem certeza de que deseja desativar \"",
+      "ko": "다음을 비활성화하시겠습니까: \"",
+      "fr": "Êtes-vous sûr de vouloir désactiver \"",
+      "tr": "Şunu devre dışı bırakmak istediğinizden emin misiniz: \"",
+      "zh-CN": "确定要禁用 \"",
+      "zh-HK": "確定要停用 \""
     }
   },
   "patterns": [

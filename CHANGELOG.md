@@ -114,7 +114,15 @@ project follows [Semantic Versioning](https://semver.org/) — see
   IDs, addresses, tag values, custom event names), so the matching
   cells are now suppressed from the missed-string ledger. Translation
   still runs through them.
-- **`Destination URL`** added to the Name-column ledger filter.
+- **`Destination URL`, `Item Name`, `Key ID`** added to the
+  Name-column ledger filter (URLs, item names, and access-key IDs
+  are user-defined).
+- **10 more translations** for the team / settings screens:
+  `2-Step Authentication`, `Access Restricted`, `Composer`,
+  `Email & Password`, `Enterprise SSO`, `Facebook`, `GitHub`,
+  `Google` (brands kept Latin), `Previous Period:`,
+  `Are you sure that you want to disable "` (confirmation-prompt
+  prefix; name gets injected after the trailing opening quote).
 - **5 more translations**:
   - `CDP` — industry acronym (Customer Data Platform), Latin in
     every language to match the API/SDK pattern.

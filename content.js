@@ -244,6 +244,8 @@
     "Tags",
     "Event name",
     "Destination URL",
+    "Item Name",
+    "Key ID",
   ];
   let nameColumnHeaders = new Set();
   function buildNameColumnHeaders() {
