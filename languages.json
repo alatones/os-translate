@@ -17079,6 +17079,166 @@
       "tr": "Kullanıcı",
       "zh-CN": "用户",
       "zh-HK": "用戶"
+    },
+    "IP Address": {
+      "ja": "IPアドレス",
+      "es": "Dirección IP",
+      "pt": "Endereço IP",
+      "ko": "IP 주소",
+      "fr": "Adresse IP",
+      "tr": "IP Adresi",
+      "zh-CN": "IP 地址",
+      "zh-HK": "IP 位址"
+    },
+    "Item Type": {
+      "ja": "アイテムタイプ",
+      "es": "Tipo de elemento",
+      "pt": "Tipo de item",
+      "ko": "항목 유형",
+      "fr": "Type d'élément",
+      "tr": "Öğe Türü",
+      "zh-CN": "项目类型",
+      "zh-HK": "項目類型"
+    },
+    "Member Added to App": {
+      "ja": "メンバーがアプリに追加されました",
+      "es": "Miembro agregado a la App",
+      "pt": "Membro adicionado ao App",
+      "ko": "멤버가 앱에 추가됨",
+      "fr": "Membre ajouté à l'App",
+      "tr": "Üye App'e eklendi",
+      "zh-CN": "成员已添加到应用",
+      "zh-HK": "成員已新增到應用"
+    },
+    "Subscription": {
+      "ja": "購読",
+      "es": "Suscripción",
+      "pt": "Assinatura",
+      "ko": "구독",
+      "fr": "Abonnement",
+      "tr": "Abonelik",
+      "zh-CN": "订阅",
+      "zh-HK": "訂閱"
+    },
+    "Subscription Updated": {
+      "ja": "購読が更新されました",
+      "es": "Suscripción actualizada",
+      "pt": "Assinatura atualizada",
+      "ko": "구독 업데이트됨",
+      "fr": "Abonnement mis à jour",
+      "tr": "Abonelik güncellendi",
+      "zh-CN": "订阅已更新",
+      "zh-HK": "訂閱已更新"
+    },
+    "User Action": {
+      "ja": "ユーザーアクション",
+      "es": "Acción del usuario",
+      "pt": "Ação do usuário",
+      "ko": "사용자 작업",
+      "fr": "Action de l'utilisateur",
+      "tr": "Kullanıcı İşlemi",
+      "zh-CN": "用户操作",
+      "zh-HK": "用戶操作"
+    },
+    "Alias": {
+      "ja": "エイリアス",
+      "es": "Alias",
+      "pt": "Alias",
+      "ko": "별칭",
+      "fr": "Alias",
+      "tr": "Takma ad",
+      "zh-CN": "别名",
+      "zh-HK": "別名"
+    },
+    "Alias is used to reference this data feed in Liquid syntax:": {
+      "ja": "エイリアスは、Liquid構文でこのデータフィードを参照するために使用されます：",
+      "es": "El Alias se usa para hacer referencia a este Data Feed en sintaxis Liquid:",
+      "pt": "O Alias é usado para referenciar este Data Feed na sintaxe Liquid:",
+      "ko": "별칭은 Liquid 구문에서 이 데이터 피드를 참조하는 데 사용됩니다:",
+      "fr": "L'Alias est utilisé pour référencer ce Data Feed dans la syntaxe Liquid :",
+      "tr": "Alias, bu Data Feed'e Liquid sözdiziminde başvurmak için kullanılır:",
+      "zh-CN": "别名用于在 Liquid 语法中引用此数据源：",
+      "zh-HK": "別名用於在 Liquid 語法中引用此資料來源："
+    },
+    "Customer Cart": {
+      "ja": "カスタマーカート",
+      "es": "Carrito del cliente",
+      "pt": "Carrinho do cliente",
+      "ko": "고객 장바구니",
+      "fr": "Panier client",
+      "tr": "Müşteri Sepeti",
+      "zh-CN": "客户购物车",
+      "zh-HK": "客戶購物車"
+    },
+    "Data Feed Name": {
+      "ja": "データフィード名",
+      "es": "Nombre del Data Feed",
+      "pt": "Nome do Data Feed",
+      "ko": "데이터 피드 이름",
+      "fr": "Nom du Data Feed",
+      "tr": "Data Feed Adı",
+      "zh-CN": "数据源名称",
+      "zh-HK": "資料來源名稱"
+    },
+    "Data feed name will help you identify from other data feeds.": {
+      "ja": "データフィード名は、他のデータフィードと区別するのに役立ちます。",
+      "es": "El nombre del Data Feed te ayudará a identificarlo entre otras Fuentes de datos.",
+      "pt": "O nome do Data Feed ajudará a identificá-lo entre outros Feeds de dados.",
+      "ko": "데이터 피드 이름은 다른 데이터 피드와 구별하는 데 도움이 됩니다.",
+      "fr": "Le nom du Data Feed vous aidera à le distinguer des autres Flux de données.",
+      "tr": "Data Feed adı, diğer Data Feeds'ten ayırt etmenize yardımcı olur.",
+      "zh-CN": "数据源名称将帮助您区分其他数据源。",
+      "zh-HK": "資料來源名稱將幫助您區分其他資料來源。"
+    },
+    "Example:": {
+      "ja": "例：",
+      "es": "Ejemplo:",
+      "pt": "Exemplo:",
+      "ko": "예:",
+      "fr": "Exemple :",
+      "tr": "Örnek:",
+      "zh-CN": "示例：",
+      "zh-HK": "例如："
+    },
+    "GET": {
+      "ja": "GET",
+      "es": "GET",
+      "pt": "GET",
+      "ko": "GET",
+      "fr": "GET",
+      "tr": "GET",
+      "zh-CN": "GET",
+      "zh-HK": "GET"
+    },
+    "If used, body must be in JSON format. Liquid syntax is supported.": {
+      "ja": "使用する場合、本文はJSON形式である必要があります。Liquid構文がサポートされています。",
+      "es": "Si se utiliza, el cuerpo debe estar en formato JSON. Se admite la sintaxis Liquid.",
+      "pt": "Se usado, o corpo deve estar em formato JSON. A sintaxe Liquid é suportada.",
+      "ko": "사용하는 경우 본문은 JSON 형식이어야 합니다. Liquid 구문이 지원됩니다.",
+      "fr": "Si utilisé, le corps doit être au format JSON. La syntaxe Liquid est prise en charge.",
+      "tr": "Kullanılırsa, gövde JSON formatında olmalıdır. Liquid sözdizimi desteklenir.",
+      "zh-CN": "如使用，正文必须为 JSON 格式。支持 Liquid 语法。",
+      "zh-HK": "如使用，正文必須為 JSON 格式。支援 Liquid 語法。"
+    },
+    "Learn more about Liquid syntax": {
+      "ja": "Liquid構文の詳細",
+      "es": "Más información sobre la sintaxis Liquid",
+      "pt": "Saiba mais sobre a sintaxe Liquid",
+      "ko": "Liquid 구문에 대해 자세히 알아보기",
+      "fr": "En savoir plus sur la syntaxe Liquid",
+      "tr": "Liquid sözdizimi hakkında daha fazla bilgi",
+      "zh-CN": "了解更多 Liquid 语法",
+      "zh-HK": "了解更多 Liquid 語法"
+    },
+    "URL supports Liquid syntax such as": {
+      "ja": "URLは、次のようなLiquid構文をサポートします：",
+      "es": "La URL admite sintaxis Liquid como",
+      "pt": "A URL suporta sintaxe Liquid como",
+      "ko": "URL은 다음과 같은 Liquid 구문을 지원합니다:",
+      "fr": "L'URL prend en charge la syntaxe Liquid comme",
+      "tr": "URL, aşağıdaki gibi Liquid sözdizimini destekler:",
+      "zh-CN": "URL 支持 Liquid 语法，例如",
+      "zh-HK": "URL 支援 Liquid 語法，例如"
     }
   },
   "patterns": [

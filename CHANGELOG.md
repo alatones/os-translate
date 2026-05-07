@@ -7,6 +7,18 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
+## [1.5.6] — 2026-05-07
+
+### Added
+
+- **16 translations** for the audit-log table (`IP Address`,
+  `Item Type`, `Member Added to App`, `Subscription`, `Subscription
+  Updated`, `User Action`) and the new-Data-Feed creation form
+  (`Alias`, `Customer Cart`, `Data Feed Name`, `Example:`, `GET`,
+  `Learn more about Liquid syntax`, `URL supports Liquid syntax
+  such as`, plus three longer help-text strings).
+- `GET` joins `POST` as Latin in every language (HTTP method).
+
 ## [1.5.5] — 2026-05-07
 
 ### Fixed
