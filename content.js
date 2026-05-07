@@ -345,6 +345,15 @@
     "[role='status']",
     "[role='alert']",
     "[class*='a11yText']",
+    // react-select announcement spans. These have stable IDs and are
+    // sometimes detached from their aria-live wrapper by the time we
+    // see them, so closest("[aria-live]") doesn't catch them — match
+    // the IDs directly.
+    "#aria-selection",
+    "#aria-focused",
+    "#aria-guidance",
+    "#aria-context",
+    "#aria-results",
   ].join(", ");
   function isInA11yLiveRegion(el) {
     if (!el || !el.closest) return false;

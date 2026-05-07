@@ -64,8 +64,13 @@ project follows [Semantic Versioning](https://semver.org/) — see
   keyboard-instructions span), `[aria-live]` (any ARIA-live region),
   the standard `[role='log'|'status'|'alert']` triplet, plus
   `[class*='a11yText']` as a catch-all for any react-select a11y
-  span we don't enumerate. Translation still runs through these
-  strings; only ledger reporting is suppressed.
+  span we don't enumerate, and direct ID matches for react-select's
+  announcement spans (`#aria-selection`, `#aria-focused`,
+  `#aria-guidance`, `#aria-context`, `#aria-results`) — these
+  sometimes get detached from their `aria-live` wrapper before the
+  observer fires, so ancestor-based selectors miss them. Translation
+  still runs through these strings; only ledger reporting is
+  suppressed.
 - **Auto-suggest popover ledger skip.** The dashboard renders an
   `AutoSuggestPopoverMenu` whenever the user types into a property /
   tag / event-name input — and the suggested matches are sourced
