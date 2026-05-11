@@ -9,15 +9,31 @@ function setStatus(msg) {
   statusEl.textContent = msg;
 }
 
+// Ledger storage entries are either bare numbers (pre-1.6) or
+// { count, role, classChain } objects (1.6+). Normalize for display.
+function ledgerEntryParts(value) {
+  if (typeof value === "number") return { count: value, role: "", classChain: "" };
+  if (value && typeof value === "object") {
+    return {
+      count: typeof value.count === "number" ? value.count : 0,
+      role: value.role || "",
+      classChain: value.classChain || "",
+    };
+  }
+  return { count: 0, role: "", classChain: "" };
+}
+
 function groupByLangPath(ledger) {
   const groups = new Map();
-  for (const [key, count] of Object.entries(ledger || {})) {
+  for (const [key, value] of Object.entries(ledger || {})) {
     const parts = key.split(KEY_SEP);
     if (parts.length !== 3) continue;
     const [lang, path, string] = parts;
+    const { count, role, classChain } = ledgerEntryParts(value);
+    if (count <= 0) continue;
     const groupKey = `${lang} — ${path || "/"}`;
     if (!groups.has(groupKey)) groups.set(groupKey, []);
-    groups.get(groupKey).push({ string, count });
+    groups.get(groupKey).push({ string, count, role, classChain });
   }
   for (const arr of groups.values()) arr.sort((a, b) => b.count - a.count);
   return groups;
