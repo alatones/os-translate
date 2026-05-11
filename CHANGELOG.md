@@ -7,6 +7,44 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
+## [1.6.0] — 2026-05-11
+
+### Added
+
+- **Per-install ID for ledger deduplication.** A randomly generated
+  UUID is now stored in `chrome.storage.local` (deliberately not
+  `.sync`) and sent with each opt-in ledger flush. Lets the
+  receiving Apps Script count *distinct browser installs* that have
+  encountered an untranslated string — a much stronger signal than
+  raw instance counts, which a single busy browser can dominate.
+  Generated lazily on first flush; reinstalling the extension
+  regenerates it. Contains no information about the user. See
+  [`PRIVACY.md`](./PRIVACY.md).
+- **UI-context hints on each ledger entry**: a `role` field
+  (`button`, `heading`, `cell`, `status`, `label`, `tooltip`,
+  `placeholder`, `option`, `menuitem`, or `other`) and a `classChain`
+  field (up to three ancestor styled-component class names from
+  OneSignal's own front-end, e.g. `Modal__Container>Modal__Title>h2`).
+  Lets the maintainer locate a missed string in the dashboard much
+  faster, and disambiguates same-source-different-role rows (e.g.
+  "Save" the button vs "Save" the heading). Both fields are
+  best-effort — `role` defaults to `"other"` when no signal is clear,
+  `classChain` is empty when no styled-component class is found
+  within 3 ancestors. Contain no user data.
+
+### Changed
+
+- **Ledger payload version 1 → 2.** Wire envelope is now
+  `{ version: 2, token, installId, entries: [...] }` (was
+  `{ version: 1, token, entries: [...] }`). Each entry now carries
+  `role` and `classChain` in addition to the existing `lang`,
+  `path`, `string`, `count`.
+- **Local ledger storage shape**. Entries in `chrome.storage.local`
+  under the `ledger` key now store
+  `{ count, role, classChain }` per key (previously a bare number).
+  Pre-1.6 entries with the bare-number shape are still readable and
+  get migrated to the object shape on next write.
+
 ## [1.5.7] — 2026-05-07
 
 ### Fixed

@@ -536,20 +536,115 @@
       // every keystroke). Invisible UI, mostly UGC fragments anyway.
       if (isInA11yLiveRegion(el)) return;
     }
-    const next = (missedSession.get(s) || 0) + 1;
-    missedSession.set(s, next);
-    if (next < MISSED_SEEN_THRESHOLD) return;
+    // Capture two pieces of UI context alongside the count so the
+    // ledger can disambiguate same-source-different-role rows on the
+    // server side (e.g. "Save" the button vs "Save" the heading). Both
+    // values are best-effort — `role` defaults to "other" when no
+    // signal is clear, `classChain` is empty when no styled-component
+    // class is found within 3 ancestors. See PRIVACY.md for what's
+    // intentionally NOT captured (sibling text, outerHTML, etc).
+    const role = el ? detectMissedRole(el) : "other";
+    const classChain = el ? getMissedClassChain(el) : "";
+    const existing = missedSession.get(s) || {
+      count: 0,
+      role: "other",
+      classChain: "",
+    };
+    existing.count++;
+    // Prefer a concrete role over "other" — if a previous capture
+    // returned a real role for this string in this session, keep it.
+    if (role !== "other") existing.role = role;
+    else if (!existing.role) existing.role = "other";
+    if (classChain) existing.classChain = classChain;
+    missedSession.set(s, existing);
+    if (existing.count < MISSED_SEEN_THRESHOLD) return;
     if (!missedFlushTimer) {
       missedFlushTimer = setTimeout(flushMissed, MISSED_FLUSH_DEBOUNCE_MS);
     }
+  }
+
+  // Element role classifier. Walks at most 6 ancestor levels looking
+  // for a clear signal. Returns one of the documented enum values or
+  // "other" when nothing decisive matches. The aggregation key on the
+  // server side is (lang, source, role), so being conservative here
+  // matters: a wrong role splits the row, an "other" fallback merges
+  // it with other ambiguous captures of the same string.
+  function detectMissedRole(el) {
+    if (!el || el.nodeType !== Node.ELEMENT_NODE) return "other";
+    let node = el;
+    for (let i = 0; i < 6 && node && node.nodeType === Node.ELEMENT_NODE; i++) {
+      const tag = node.tagName;
+      if (tag === "BUTTON") return "button";
+      if (tag === "TH") return "heading";
+      if (tag === "TD") return "cell";
+      if (tag && /^H[1-6]$/.test(tag)) return "heading";
+      const role = node.getAttribute ? node.getAttribute("role") : null;
+      if (role === "status" || role === "alert" || role === "log") return "status";
+      if (role === "menuitem") return "menuitem";
+      if (role === "option") return "option";
+      if (role === "tooltip") return "tooltip";
+      if (role === "heading") return "heading";
+      if (role === "button") return "button";
+      const cls =
+        node.className && typeof node.className === "string"
+          ? node.className
+          : "";
+      if (cls) {
+        if (/(?:^|\s)(?:Badge|Status|StatusBadge)__/.test(cls)) return "status";
+        if (
+          /(?:^|\s)(?:Modal__Title|DialogTitle|PageTitle|SectionTitle|Heading__|PageHeader__)/.test(
+            cls,
+          )
+        )
+          return "heading";
+        if (/(?:^|\s)(?:Button__|IconButton__|DismissButton__)/.test(cls))
+          return "button";
+        if (/__ButtonText/.test(cls)) return "button";
+        if (/__LabelText|Label__/.test(cls)) return "label";
+        if (/Tooltip/.test(cls)) return "tooltip";
+        if (/Placeholder/.test(cls)) return "placeholder";
+      }
+      node = node.parentElement;
+    }
+    return "other";
+  }
+
+  // Class-chain extractor: collects up to 3 styled-component class
+  // prefixes from `el` and its ancestors, joined with `>`, and appends
+  // the final tagName. Hash suffixes are stripped (`Button__StyledButton
+  // -vnAkF` -> `Button__StyledButton`). Cap at 100 chars total. Empty
+  // string when no styled-component classes are found within the walk.
+  function getMissedClassChain(el) {
+    if (!el || el.nodeType !== Node.ELEMENT_NODE) return "";
+    const parts = [];
+    let node = el;
+    const finalTag = (node.tagName || "").toLowerCase();
+    for (let i = 0; i < 3 && node && node.nodeType === Node.ELEMENT_NODE; i++) {
+      const cls =
+        node.className && typeof node.className === "string"
+          ? node.className
+          : "";
+      const tokens = cls ? cls.split(/\s+/) : [];
+      for (const t of tokens) {
+        const m = t.match(/^([A-Z][A-Za-z0-9]+__[A-Za-z0-9]+)(?:-[A-Za-z0-9]+)?$/);
+        if (m) {
+          parts.unshift(m[1]);
+          break;
+        }
+      }
+      node = node.parentElement;
+    }
+    let chain = parts.length ? parts.join(">") + ">" + finalTag : "";
+    if (chain.length > 100) chain = chain.slice(0, 100);
+    return chain;
   }
 
   function flushMissed() {
     missedFlushTimer = 0;
     if (!isExtensionAlive()) return teardown();
     const promote = [];
-    for (const [s, count] of missedSession.entries()) {
-      if (count >= MISSED_SEEN_THRESHOLD) promote.push([s, count]);
+    for (const [s, info] of missedSession.entries()) {
+      if (info && info.count >= MISSED_SEEN_THRESHOLD) promote.push([s, info]);
     }
     if (promote.length === 0) return;
     const path = pathKey();
@@ -557,9 +652,26 @@
       chrome.storage.local.get({ ledger: {} }, (out) => {
         if (!isExtensionAlive()) return teardown();
         const ledger = out.ledger || {};
-        for (const [s, count] of promote) {
+        for (const [s, info] of promote) {
           const key = [activeLang, path, s].join(MISSED_KEY_SEP);
-          ledger[key] = (ledger[key] || 0) + count;
+          // Migration: pre-1.6 entries stored a bare number. Wrap any
+          // we encounter on next write so the shape converges.
+          const prev = ledger[key];
+          const prevCount =
+            typeof prev === "number"
+              ? prev
+              : prev && typeof prev.count === "number"
+                ? prev.count
+                : 0;
+          const prevRole = prev && prev.role ? prev.role : "other";
+          const prevChain = prev && prev.classChain ? prev.classChain : "";
+          ledger[key] = {
+            count: prevCount + info.count,
+            // Most-recent capture wins for context fields, except never
+            // downgrade a real role back to "other".
+            role: info.role !== "other" ? info.role : prevRole,
+            classChain: info.classChain || prevChain,
+          };
           missedSession.delete(s);
         }
         try {
