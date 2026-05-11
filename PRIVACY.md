@@ -1,6 +1,6 @@
 # Privacy Policy — OS Translate
 
-**Effective date:** 2026-04-30
+**Effective date:** 2026-05-11
 
 > **This is an unofficial, community-maintained browser extension. It
 > is not produced, endorsed, or supported by OneSignal Inc.**
@@ -47,6 +47,17 @@ These items live on your device only and are never transmitted:
   with the dashboard page type they appeared on (e.g.
   `/apps/:id/journeys`). The queue is reviewable from the popup
   ("View what's queued") and clearable.
+- **Install ID** in `chrome.storage.local`: a single randomly
+  generated UUID, created lazily on the first opt-in ledger flush.
+  This value is sent along with each ledger batch so the maintainer
+  can count distinct browser installs that have encountered a given
+  untranslated string (instead of just summing total instance
+  counts, which a single busy browser could dominate). The ID
+  contains no information about you, is generated entirely on your
+  device, is stored in `chrome.storage.local` (deliberately *not*
+  `chrome.storage.sync` — it does not follow you across profiles or
+  devices), and is never used for anything beyond ledger-row
+  deduplication. Reinstalling the extension regenerates it.
 
 ## What the extension transmits — only when you opt in
 
@@ -65,10 +76,26 @@ The transmitted payload contains, per missed string:
 - A count of how many times the string was seen on the user's
   dashboard.
 - The target language the user has selected (e.g. `ja`).
+- A short element-role hint describing what kind of UI element the
+  string was rendered in (one of: `button`, `heading`, `cell`,
+  `status`, `label`, `tooltip`, `placeholder`, `option`,
+  `menuitem`, or `other`). Derived from the DOM at capture time;
+  contains no user data.
+- A short class-chain hint with up to three ancestor styled-component
+  class names from OneSignal's own front-end (e.g.
+  `Modal__Container>Modal__Title>h2`). These class names are part
+  of the front-end bundle OneSignal already ships to every visitor
+  and contain no personal data — they describe *where in the UI*
+  the string appears, not *what* the user has typed.
 
-The payload contains **no** user identifiers, **no** session tokens,
-**no** customer records, **no** message bodies, **no** URLs with real
-IDs, **no** data from outside the OneSignal dashboard.
+Each batch is also accompanied by the install ID described above
+(one randomly generated UUID per browser install, no personal data)
+so the maintainer can compute distinct-install counts on the
+receiving Sheet.
+
+The payload contains **no** user identifiers tied to a person, **no**
+session tokens, **no** customer records, **no** message bodies, **no**
+URLs with real IDs, **no** data from outside the OneSignal dashboard.
 
 ### Filters that prevent unwanted strings from being queued
 

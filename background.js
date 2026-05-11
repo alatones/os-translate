@@ -124,16 +124,48 @@ chrome.storage.onChanged.addListener((changes, area) => {
   if (area === "sync" && changes.language) recreateMenu();
 });
 
+// Ledger storage entries can be either:
+//   - number (pre-1.6, count only — still in the wild after upgrade)
+//   - { count, role, classChain } (1.6+)
+// This helper normalizes both shapes to a uniform read.
+function ledgerCount(v) {
+  if (typeof v === "number") return v;
+  if (v && typeof v.count === "number") return v.count;
+  return 0;
+}
+
 function parseLedger(ledger) {
   const entries = [];
-  for (const [key, count] of Object.entries(ledger || {})) {
+  for (const [key, value] of Object.entries(ledger || {})) {
     const parts = key.split(LEDGER_KEY_SEP);
     if (parts.length !== 3) continue;
     const [lang, path, string] = parts;
-    if (!lang || !string || typeof count !== "number") continue;
-    entries.push({ lang, path, string, count });
+    if (!lang || !string) continue;
+    const count = ledgerCount(value);
+    if (count <= 0) continue;
+    const role = value && typeof value === "object" && value.role ? value.role : "other";
+    const classChain =
+      value && typeof value === "object" && value.classChain ? value.classChain : "";
+    entries.push({ lang, path, string, count, role, classChain });
   }
   return entries;
+}
+
+// Per-install random ID, generated lazily on first ledger flush. Sent
+// with each flush payload so the Apps Script can count distinct
+// installs that hit an untranslated string (rather than just summing
+// total instance counts, which one busy browser could dominate). The
+// ID lives in chrome.storage.local (deliberately not .sync — we want
+// one install = one ID, never shared across profiles or devices). It
+// contains no information about the user and is never used for
+// anything else. See PRIVACY.md.
+async function getOrCreateInstallId() {
+  const { installId } = await chrome.storage.local.get({ installId: null });
+  if (typeof installId === "string" && installId) return installId;
+  const fresh = (crypto && crypto.randomUUID) ? crypto.randomUUID() : null;
+  if (!fresh) return null;
+  await chrome.storage.local.set({ installId: fresh });
+  return fresh;
 }
 
 async function flushLedger() {
@@ -143,12 +175,18 @@ async function flushLedger() {
   const { ledger = {} } = await chrome.storage.local.get({ ledger: {} });
   const entries = parseLedger(ledger);
   if (entries.length === 0) return;
+  const installId = await getOrCreateInstallId();
   let ok = false;
   try {
     const res = await fetch(LEDGER_ENDPOINT, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ version: 1, token: LEDGER_TOKEN, entries }),
+      body: JSON.stringify({
+        version: 2,
+        token: LEDGER_TOKEN,
+        installId,
+        entries,
+      }),
     });
     ok = res.ok;
   } catch (err) {
@@ -156,11 +194,22 @@ async function flushLedger() {
   }
   if (ok) {
     // Only clear entries we just sent. New misses that arrived during the
-    // POST stay in the ledger for next time.
+    // POST stay in the ledger for next time. Handle both old (number)
+    // and new ({count,...}) value shapes.
     const { ledger: after = {} } = await chrome.storage.local.get({ ledger: {} });
     for (const key of Object.keys(ledger)) {
-      if (after[key] === ledger[key]) delete after[key];
-      else if (typeof after[key] === "number") after[key] -= ledger[key];
+      const sentCount = ledgerCount(ledger[key]);
+      const currentCount = ledgerCount(after[key]);
+      if (currentCount <= sentCount) {
+        delete after[key];
+        continue;
+      }
+      // Some misses landed between flush start and end — decrement and keep.
+      if (typeof after[key] === "object" && after[key]) {
+        after[key].count = currentCount - sentCount;
+      } else {
+        after[key] = currentCount - sentCount;
+      }
     }
     await chrome.storage.local.set({ ledger: after });
   }
