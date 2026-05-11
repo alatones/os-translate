@@ -7,6 +7,39 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
+## [1.6.1] — 2026-05-11
+
+### Changed
+
+- **Spanish: keep product feature names in Latin form.** Native
+  Spanish reviewer feedback: the prior translations of several
+  feature names read as awkward in their market — marketers
+  reach for the English forms by default. Treat the affected
+  Spanish renderings as bad translations rather than accepted
+  alts: glossary `es` is now Latin-only (no native fallback),
+  and `languages.json` is swept to match. Affected features:
+  - `Journey` / `Journeys` (was `Recorrido` / `Recorridos`)
+  - `Live Activity` / `Live Activities` (was `Actividad en vivo`
+    / `Actividades en vivo`)
+  - `Data Feed` / `Data Feeds` (was `Fuente de datos` /
+    `Fuentes de datos`)
+  - `Custom Event` / `Custom Events` (was `Evento personalizado` /
+    `Eventos personalizados`) — not in the glossary, swept via
+    bulk rewrite of all `es` values
+  Generic uses of "data sources" (lowercase, not the feature) keep
+  `fuentes de datos` — confirmed source-by-source.
+- **Three targeted source-key overrides** in `es`:
+  - `Delivery` (left-hand nav): `Entrega` → `Enviados`. Other
+    `Delivery`-stem strings ("Delivery Rate", "Intelligent
+    Delivery", etc.) keep the `Entrega/entrega` rendering — that
+    one's natural for those contexts. `Enviados` added as an
+    accepted alt under the `Delivery` glossary so the one-off
+    override doesn't trip the lock.
+  - `Event Stream` / `Event Streams`: `Flujo(s) de eventos` →
+    `Custom Event` / `Custom Events`.
+  - `Engagement trends`: `Tendencias de participación` →
+    `Tendencias de Engagement`.
+
 ## [1.6.0] — 2026-05-11
 
 ### Added

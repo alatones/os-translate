@@ -4,10 +4,7 @@
   "terms": {
     "Journey": {
       "ja": "ジャーニー",
-      "es": [
-        "Recorrido",
-        "Journey"
-      ],
+      "es": "Journey",
       "pt": [
         "Jornada",
         "Journey"
@@ -40,12 +37,7 @@
     },
     "Journeys": {
       "ja": "ジャーニー",
-      "es": [
-        "Recorridos",
-        "Recorrido",
-        "Journeys",
-        "Journey"
-      ],
+      "es": "Journeys",
       "pt": [
         "Jornadas",
         "Jornada",
@@ -372,10 +364,7 @@
     },
     "Live Activity": {
       "ja": "ライブアクティビティ",
-      "es": [
-        "Actividad en vivo",
-        "Live Activity"
-      ],
+      "es": "Live Activity",
       "pt": [
         "Atividade ao vivo",
         "Live Activity"
@@ -402,10 +391,7 @@
     },
     "Live Activities": {
       "ja": "ライブアクティビティ",
-      "es": [
-        "Actividades en vivo",
-        "Live Activities"
-      ],
+      "es": "Live Activities",
       "pt": [
         "Atividades ao vivo",
         "Live Activities"
@@ -432,10 +418,7 @@
     },
     "Data Feed": {
       "ja": "データフィード",
-      "es": [
-        "Fuente de datos",
-        "Data Feed"
-      ],
+      "es": "Data Feed",
       "pt": [
         "Feed de dados",
         "Data Feed"
@@ -460,10 +443,7 @@
     },
     "Data Feeds": {
       "ja": "データフィード",
-      "es": [
-        "Fuentes de datos",
-        "Data Feeds"
-      ],
+      "es": "Data Feeds",
       "pt": [
         "Feeds de dados",
         "Data Feeds"
@@ -1541,7 +1521,9 @@
       "ja": "配信",
       "es": [
         "Entrega",
-        "Entregar"
+        "Entregar",
+        "Enviados",
+        "Enviado"
       ],
       "pt": [
         "Entrega",
