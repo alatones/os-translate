@@ -7,6 +7,19 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
+## [1.6.2] — 2026-05-11
+
+### Changed
+
+- **Ledger: skip UGC-dominated sections by heading.** A new generic
+  filter suppresses missed-string reporting inside any section whose
+  heading is on a small allowlist — same mental model as the existing
+  table Name-column filter, but anchored on section headings rather
+  than column headers. Initial entry: "Start from a pre-built design"
+  (the create-message template picker, which was flooding the ledger
+  with customer-named templates). Adding the next noisy section is
+  one line. Translation still runs everywhere.
+
 ## [1.6.1] — 2026-05-11
 
 ### Changed
