@@ -1231,7 +1231,7 @@
       "zh-HK": "自訂資料"
     },
     "Custom Events": {
-      "es": "Eventos personalizados",
+      "es": "Custom Events",
       "ja": "カスタムイベント",
       "pt": "Eventos personalizados",
       "ko": "사용자 정의 이벤트",
@@ -2961,7 +2961,7 @@
       "zh-HK": "新自動化訊息"
     },
     "New Data Feed": {
-      "es": "Nueva fuente de datos",
+      "es": "Nuevo Data Feed",
       "ja": "新規データフィード",
       "pt": "Novo feed de dados",
       "ko": "새 데이터 피드",
@@ -6162,7 +6162,7 @@
     },
     "Tour a Preview of Custom Events": {
       "ja": "カスタムイベントのプレビューを見る",
-      "es": "Ver una vista previa de los eventos personalizados",
+      "es": "Ver una vista previa de los Custom Events",
       "pt": "Ver uma prévia dos eventos personalizados",
       "ko": "사용자 정의 이벤트 미리보기 둘러보기",
       "fr": "Voir un aperçu des événements personnalisés",
@@ -8072,7 +8072,7 @@
     },
     "Custom Events let you track and respond to user activity in your app or website.": {
       "ja": "カスタムイベントを使うとアプリやウェブサイトでのユーザー活動を追跡して反応できます。",
-      "es": "Los eventos personalizados te permiten rastrear y responder a la actividad de los usuarios en tu aplicación o sitio web.",
+      "es": "Los Custom Events te permiten rastrear y responder a la actividad de los usuarios en tu aplicación o sitio web.",
       "pt": "Os eventos personalizados permitem que você rastreie e responda à atividade do usuário em seu aplicativo ou site.",
       "ko": "사용자 정의 이벤트를 통해 앱 또는 웹사이트의 사용자 활동을 추적하고 응답할 수 있습니다.",
       "fr": "Les événements personnalisés vous permettent de suivre l'activité des utilisateurs dans votre app ou site web et d'y répondre.",
@@ -8272,7 +8272,7 @@
     },
     "Custom Events Ingestion": {
       "ja": "カスタムイベント取り込み",
-      "es": "Ingesta de eventos personalizados",
+      "es": "Ingesta de Custom Events",
       "pt": "Ingestão de eventos personalizados",
       "ko": "사용자 정의 이벤트 수집",
       "fr": "Ingestion d'événements personnalisés",
@@ -8452,7 +8452,7 @@
     },
     "custom events": {
       "ja": "カスタムイベント",
-      "es": "eventos personalizados",
+      "es": "Custom Events",
       "pt": "eventos personalizados",
       "ko": "사용자 정의 이벤트",
       "fr": "événements personnalisés",
@@ -10062,7 +10062,7 @@
     },
     "Custom Event": {
       "ja": "カスタムイベント",
-      "es": "Evento personalizado",
+      "es": "Custom Event",
       "pt": "Evento personalizado",
       "ko": "사용자 정의 이벤트",
       "fr": "Événement personnalisé",
@@ -10182,7 +10182,7 @@
     },
     "Start your journey when a custom event happens": {
       "ja": "カスタムイベントが発生したらジャーニーを開始",
-      "es": "Inicia tu journey cuando ocurra un evento personalizado",
+      "es": "Inicia tu journey cuando ocurra un Custom Event",
       "pt": "Inicie seu journey quando um evento personalizado ocorrer",
       "ko": "사용자 정의 이벤트가 발생할 때 저니 시작",
       "fr": "Démarrez votre Parcours lorsqu'un événement personnalisé se produit",
@@ -10352,7 +10352,7 @@
     },
     "Custom Event List": {
       "ja": "カスタムイベント一覧",
-      "es": "Lista de eventos personalizados",
+      "es": "Lista de Custom Events",
       "pt": "Lista de eventos personalizados",
       "ko": "사용자 정의 이벤트 목록",
       "fr": "Liste des événements personnalisés",
@@ -10362,7 +10362,7 @@
     },
     "Custom Event Name": {
       "ja": "カスタムイベント名",
-      "es": "Nombre del evento personalizado",
+      "es": "Nombre del Custom Event",
       "pt": "Nome do evento personalizado",
       "ko": "사용자 정의 이벤트 이름",
       "fr": "Nom de l'événement personnalisé",
@@ -10372,7 +10372,7 @@
     },
     "Enter custom event name": {
       "ja": "カスタムイベント名を入力",
-      "es": "Ingresar nombre del evento personalizado",
+      "es": "Ingresar nombre del Custom Event",
       "pt": "Inserir nome do evento personalizado",
       "ko": "사용자 정의 이벤트 이름 입력",
       "fr": "Saisir le nom de l'événement personnalisé",
@@ -11762,7 +11762,7 @@
     },
     "Filter by custom events ingested through SDKs, integrations, or data sources": {
       "ja": "SDK、統合、またはデータソースから取り込まれたカスタムイベントでフィルター",
-      "es": "Filtrar por eventos personalizados ingeridos a través de SDKs, integraciones o fuentes de datos",
+      "es": "Filtrar por Custom Events ingeridos a través de SDKs, integraciones o fuentes de datos",
       "pt": "Filtrar por eventos personalizados ingeridos via SDKs, integrações ou fontes de dados",
       "ko": "SDK, 연동 또는 데이터 소스를 통해 수집된 사용자 정의 이벤트로 필터링",
       "fr": "Filtrer par événements personnalisés ingérés via SDK, intégrations ou sources de données",
@@ -12882,7 +12882,7 @@
     },
     "Custom events": {
       "ja": "カスタムイベント",
-      "es": "Eventos personalizados",
+      "es": "Custom Events",
       "pt": "Eventos personalizados",
       "ko": "사용자 정의 이벤트",
       "fr": "Événements personnalisés",
@@ -12952,7 +12952,7 @@
     },
     "No custom events": {
       "ja": "カスタムイベントなし",
-      "es": "Sin eventos personalizados",
+      "es": "Sin Custom Events",
       "pt": "Sem eventos personalizados",
       "ko": "사용자 정의 이벤트 없음",
       "fr": "Aucun événement personnalisé",
@@ -16622,7 +16622,7 @@
     },
     "Custom Event Filters documentation": {
       "ja": "カスタムイベントフィルターのドキュメント",
-      "es": "documentación de Filtros de eventos personalizados",
+      "es": "documentación de Filtros de Custom Events",
       "pt": "documentação de Filtros de eventos personalizados",
       "ko": "사용자 정의 이벤트 필터 문서",
       "fr": "documentation des Filtres d'événements personnalisés",
