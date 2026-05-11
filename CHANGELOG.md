@@ -7,6 +7,32 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
+## [1.6.1] — 2026-05-11
+
+### Changed
+
+- **Spanish: keep marketing/tech terms in Latin form.** Feedback
+  from a native Spanish reviewer: in their market the English forms
+  read more naturally than the translated equivalents for several
+  product feature names. Glossary updated to make Latin the primary
+  `es` form (with the prior native form kept as an accepted alt for
+  any legacy translations); bulk-rewrote 61 entries in
+  `languages.json` to match:
+  - `Recorrido` / `Recorridos` → `Journey` / `Journeys`
+  - `Actividad en vivo` / `Actividades en vivo` → `Live Activity` /
+    `Live Activities`
+  - `Fuente de datos` / `Fuentes de datos` → `Data Feed` / `Data Feeds`
+- **Four targeted source-key overrides** in `es`:
+  - `Delivery` (left-hand nav): `Entrega` → `Enviados`. Other
+    `Delivery`-stem strings ("Delivery Rate", "Intelligent
+    Delivery", etc.) keep the `Entrega/entrega` rendering. `Enviados`
+    added as an accepted alt under the `Delivery` glossary so the
+    one-off override doesn't trip the lock.
+  - `Event Stream` / `Event Streams`: `Flujo(s) de eventos` →
+    `Custom Event` / `Custom Events`.
+  - `Engagement trends`: `Tendencias de participación` →
+    `Tendencias de Engagement`.
+
 ## [1.6.0] — 2026-05-11
 
 ### Added

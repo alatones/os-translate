@@ -1271,7 +1271,7 @@
       "zh-HK": "資料"
     },
     "Data Feeds": {
-      "es": "Fuentes de datos",
+      "es": "Data Feeds",
       "ja": "データフィード",
       "pt": "Feeds de dados",
       "ko": "데이터 피드",
@@ -1441,7 +1441,7 @@
       "zh-HK": "已送達事件"
     },
     "Delivery": {
-      "es": "Entrega",
+      "es": "Enviados",
       "ja": "配信",
       "pt": "Entrega",
       "ko": "전달",
@@ -1711,7 +1711,7 @@
       "zh-HK": "與最近活躍的聯絡人互動"
     },
     "Engagement trends": {
-      "es": "Tendencias de participación",
+      "es": "Tendencias de Engagement",
       "ja": "エンゲージメント推移",
       "pt": "Tendências de engajamento",
       "ko": "참여 트렌드",
@@ -1771,7 +1771,7 @@
       "zh-HK": "事件名稱"
     },
     "Event Stream": {
-      "es": "Flujo de eventos",
+      "es": "Custom Event",
       "ja": "イベントストリーム",
       "pt": "Fluxo de eventos",
       "ko": "이벤트 스트림",
@@ -1781,7 +1781,7 @@
       "zh-HK": "事件流"
     },
     "Event Streams": {
-      "es": "Flujos de eventos",
+      "es": "Custom Events",
       "ja": "イベントストリーム",
       "pt": "Fluxos de eventos",
       "ko": "이벤트 스트림",
@@ -2301,7 +2301,7 @@
       "zh-HK": "1月"
     },
     "Journey": {
-      "es": "Recorrido",
+      "es": "Journey",
       "ja": "ジャーニー",
       "pt": "Jornada",
       "ko": "저니",
@@ -2311,7 +2311,7 @@
       "zh-HK": "旅程"
     },
     "Journey Webhook": {
-      "es": "Webhook de Recorrido",
+      "es": "Webhook de Journey",
       "ja": "ジャーニーWebhook",
       "pt": "Webhook de Jornada",
       "ko": "저니 웹훅",
@@ -2321,7 +2321,7 @@
       "zh-HK": "旅程 Webhook"
     },
     "Journey Webhooks": {
-      "es": "Webhooks de Recorrido",
+      "es": "Webhooks de Journey",
       "ja": "ジャーニーWebhook",
       "pt": "Webhooks de Jornada",
       "ko": "저니 웹훅",
@@ -2331,7 +2331,7 @@
       "zh-HK": "旅程 Webhook"
     },
     "Journeys": {
-      "es": "Recorridos",
+      "es": "Journeys",
       "ja": "ジャーニー",
       "pt": "Jornadas",
       "ko": "저니",
@@ -2591,7 +2591,7 @@
       "zh-HK": "小於"
     },
     "Live Activities": {
-      "es": "Actividades en vivo",
+      "es": "Live Activities",
       "ja": "ライブアクティビティ",
       "pt": "Atividades ao vivo",
       "ko": "라이브 액티비티",
@@ -2601,7 +2601,7 @@
       "zh-HK": "即時動態"
     },
     "Live Activity": {
-      "es": "Actividad en vivo",
+      "es": "Live Activity",
       "ja": "ライブアクティビティ",
       "pt": "Atividade ao vivo",
       "ko": "라이브 액티비티",
@@ -3011,7 +3011,7 @@
       "zh-HK": "新應用內"
     },
     "New Journey": {
-      "es": "Nuevo Recorrido",
+      "es": "Nuevo Journey",
       "ja": "新規ジャーニー",
       "pt": "Nova Jornada",
       "ko": "새 저니",
@@ -3021,7 +3021,7 @@
       "zh-HK": "新旅程"
     },
     "New Journey Webhook": {
-      "es": "Nuevo Webhook de Recorrido",
+      "es": "Nuevo Webhook de Journey",
       "ja": "新規ジャーニーWebhook",
       "pt": "Novo Webhook de Jornada",
       "ko": "새 저니 웹훅",
@@ -3761,7 +3761,7 @@
       "zh-HK": "已排隊"
     },
     "Quickstart your Journey": {
-      "es": "Inicia rápidamente tu Recorrido",
+      "es": "Inicia rápidamente tu Journey",
       "ja": "ジャーニーをクイックスタート",
       "pt": "Inicie rapidamente sua Jornada",
       "ko": "저니 빠른 시작",
@@ -5762,7 +5762,7 @@
     },
     "Send a quick message or setup automated messaging with Journeys": {
       "ja": "クイックメッセージを送信するか、ジャーニーで自動メッセージを設定する",
-      "es": "Envía un mensaje rápido o configura mensajes automatizados con Recorridos",
+      "es": "Envía un mensaje rápido o configura mensajes automatizados con Journeys",
       "pt": "Envie uma mensagem rápida ou configure mensagens automatizadas com Jornadas",
       "ko": "빠른 메시지를 보내거나 저니로 자동화 메시지를 설정하세요",
       "fr": "Envoyez un message rapide ou configurez la messagerie automatisée avec Parcours",
@@ -6092,7 +6092,7 @@
     },
     "Connect Journeys to other systems": {
       "ja": "ジャーニーを他のシステムに接続",
-      "es": "Conectar Recorridos a otros sistemas",
+      "es": "Conectar Journeys a otros sistemas",
       "pt": "Conectar Jornadas a outros sistemas",
       "ko": "저니를 다른 시스템에 연결하세요",
       "fr": "Connecter Parcours à d'autres systèmes",
@@ -6122,7 +6122,7 @@
     },
     "Journey Webhooks send HTTP requests from OneSignal Journeys to your servers or external services.": {
       "ja": "ジャーニーWebhookは、OneSignalジャーニーからサーバーや外部サービスにHTTPリクエストを送信します。",
-      "es": "Los Webhooks de Recorrido envían solicitudes HTTP desde OneSignal Recorridos a tus servidores o servicios externos.",
+      "es": "Los Webhooks de Journey envían solicitudes HTTP desde OneSignal Journeys a tus servidores o servicios externos.",
       "pt": "Os Webhooks de Jornada enviam solicitações HTTP das Jornadas do OneSignal para seus servidores ou serviços externos.",
       "ko": "저니 웹훅은 OneSignal 저니에서 서버 또는 외부 서비스로 HTTP 요청을 전송합니다.",
       "fr": "Les Webhooks de Parcours envoient des requêtes HTTP depuis OneSignal Parcours vers vos serveurs ou services externes.",
@@ -6132,7 +6132,7 @@
     },
     "Orchestrate messages across platforms (e.g., WhatsApp, direct mail) by configuring a webhook for a Journey": {
       "ja": "ジャーニーのWebhookを設定して、複数のプラットフォーム（例：WhatsApp、ダイレクトメール）でメッセージを調整する",
-      "es": "Orquesta mensajes en distintas plataformas (p. ej., WhatsApp, correo directo) configurando un webhook para un Recorrido",
+      "es": "Orquesta mensajes en distintas plataformas (p. ej., WhatsApp, correo directo) configurando un webhook para un Journey",
       "pt": "Orquestre mensagens em diferentes plataformas (ex.: WhatsApp, mala direta) configurando um webhook para uma Jornada",
       "ko": "저니에 웹훅을 구성하여 플랫폼 간 (예: WhatsApp, 다이렉트 메일) 메시지를 조율하세요",
       "fr": "Orchestrez les messages sur plusieurs plateformes (par ex. WhatsApp, courrier postal) en configurant un webhook pour un Parcours",
@@ -6142,7 +6142,7 @@
     },
     "Power Journeys with events—begin, hold, or exit user flows": {
       "ja": "イベントでジャーニーを強化する——ユーザーフローの開始、保留、または終了",
-      "es": "Potencia los Recorridos con eventos: inicia, detiene o sale de los flujos de usuarios",
+      "es": "Potencia los Journeys con eventos: inicia, detiene o sale de los flujos de usuarios",
       "pt": "Potencialize Jornadas com eventos — iniciar, pausar ou sair de fluxos de usuários",
       "ko": "이벤트로 저니를 강화하세요—사용자 흐름을 시작, 유지 또는 종료하세요",
       "fr": "Alimentez les Parcours avec des événements — démarrer, suspendre ou sortir des flux utilisateurs",
@@ -6172,7 +6172,7 @@
     },
     "Trigger profile updates or events in other tools based on customer movement through a Journey": {
       "ja": "ジャーニーにおける顧客の動きに基づいて、他のツールでプロフィール更新やイベントをトリガーする",
-      "es": "Activa actualizaciones de perfil o eventos en otras herramientas según el movimiento del cliente en un Recorrido",
+      "es": "Activa actualizaciones de perfil o eventos en otras herramientas según el movimiento del cliente en un Journey",
       "pt": "Acione atualizações de perfil ou eventos em outras ferramentas com base no movimento do cliente em uma Jornada",
       "ko": "저니를 통한 고객 이동을 기반으로 다른 도구에서 프로필 업데이트 또는 이벤트를 트리거하세요",
       "fr": "Déclenchez des mises à jour de profil ou des événements dans d'autres outils en fonction du parcours du client dans un Parcours",
@@ -6482,7 +6482,7 @@
     },
     "Combine push, email, SMS, and in-app in a single Journey": {
       "ja": "プッシュ、メール、SMS、アプリ内を1つのジャーニーに組み合わせる",
-      "es": "Combina push, email, SMS y mensajes en la app en un solo Recorrido",
+      "es": "Combina push, email, SMS y mensajes en la app en un solo Journey",
       "pt": "Combine push, e-mail, SMS e mensagens no app em uma única Jornada",
       "ko": "단일 저니에서 푸시, 이메일, SMS 및 인앱을 결합하세요",
       "fr": "Combinez push, email, SMS et in-app dans un seul Parcours",
@@ -6512,7 +6512,7 @@
     },
     "If you're ready to take your messaging to the next level, check out Journeys, our new automation tool.": {
       "ja": "メッセージングを次のレベルに引き上げる準備ができたら、新しい自動化ツール「ジャーニー」をご活用ください。",
-      "es": "Si estás listo para llevar tu mensajería al siguiente nivel, descubre Recorridos, nuestra nueva herramienta de automatización.",
+      "es": "Si estás listo para llevar tu mensajería al siguiente nivel, descubre Journeys, nuestra nueva herramienta de automatización.",
       "pt": "Se você está pronto para levar suas mensagens ao próximo nível, confira o Jornadas, nossa nova ferramenta de automação.",
       "ko": "메시지를 다음 단계로 끌어올릴 준비가 되었다면 새로운 자동화 도구인 저니를 확인하세요.",
       "fr": "Si vous êtes prêt à passer votre messagerie au niveau supérieur, découvrez Parcours, notre nouvel outil d'automatisation.",
@@ -6522,7 +6522,7 @@
     },
     "Journeys documentation": {
       "ja": "ジャーニーのドキュメント",
-      "es": "Documentación de Recorridos",
+      "es": "Documentación de Journeys",
       "pt": "Documentação de Jornadas",
       "ko": "저니 문서",
       "fr": "Documentation Parcours",
@@ -6542,7 +6542,7 @@
     },
     "Or start with one of our quickstart Journeys": {
       "ja": "またはクイックスタートジャーニーの1つから始める",
-      "es": "O empieza con uno de nuestros Recorridos de inicio rápido",
+      "es": "O empieza con uno de nuestros Journeys de inicio rápido",
       "pt": "Ou comece com um de nossos Jornadas de início rápido",
       "ko": "또는 빠른 시작 저니 중 하나로 시작하세요",
       "fr": "Ou commencez avec un de nos Parcours de démarrage rapide",
@@ -6892,7 +6892,7 @@
     },
     "Insert real-time, dynamic content from your data feeds directly into the template at the time of sending. This feature only applies to templates sent through Journeys.": {
       "ja": "送信時にデータフィードからリアルタイムの動的コンテンツをテンプレートに直接挿入します。この機能はジャーニー経由で送信されるテンプレートにのみ適用されます。",
-      "es": "Inserta contenido dinámico y en tiempo real desde tus data feeds directamente en la plantilla al momento del envío. Esta función solo aplica a plantillas enviadas a través de Recorridos.",
+      "es": "Inserta contenido dinámico y en tiempo real desde tus data feeds directamente en la plantilla al momento del envío. Esta función solo aplica a plantillas enviadas a través de Journeys.",
       "pt": "Insira conteúdo dinâmico e em tempo real dos seus data feeds diretamente no modelo no momento do envio. Este recurso se aplica apenas a modelos enviados por Jornadas.",
       "ko": "발송 시 데이터 피드에서 실시간 동적 콘텐츠를 템플릿에 직접 삽입하세요. 이 기능은 저니를 통해 발송된 템플릿에만 적용됩니다.",
       "fr": "Insérez du contenu dynamique en temps réel depuis vos flux de données directement dans le modèle au moment de l'envoi. Cette fonctionnalité ne s'applique qu'aux modèles envoyés via Parcours.",
@@ -10052,7 +10052,7 @@
     },
     "Choose when a Journey": {
       "ja": "ジャーニーをいつ",
-      "es": "Elige cuándo un Recorrido",
+      "es": "Elige cuándo un Journey",
       "pt": "Escolha quando uma Jornada",
       "ko": "저니가 언제",
       "fr": "Choisissez quand un Parcours",
@@ -10112,7 +10112,7 @@
     },
     "Journey Documentation": {
       "ja": "ジャーニー文書",
-      "es": "Documentación de Recorrido",
+      "es": "Documentación de Journey",
       "pt": "Documentação de Jornada",
       "ko": "저니 문서",
       "fr": "Documentation Parcours",
@@ -10122,7 +10122,7 @@
     },
     "Journey Settings": {
       "ja": "ジャーニー設定",
-      "es": "Configuración de Recorrido",
+      "es": "Configuración de Journey",
       "pt": "Configurações de Jornada",
       "ko": "저니 설정",
       "fr": "Paramètres du Parcours",
@@ -10232,7 +10232,7 @@
     },
     "User has moved through the entire Journey": {
       "ja": "ユーザーがジャーニー全体を通過しました",
-      "es": "El usuario ha pasado por todo el Recorrido",
+      "es": "El usuario ha pasado por todo el Journey",
       "pt": "O usuário passou por toda a Jornada",
       "ko": "사용자가 전체 저니를 통과했습니다",
       "fr": "L'utilisateur a parcouru tout le Parcours",
@@ -10242,7 +10242,7 @@
     },
     "Users can only enter the Journey once": {
       "ja": "ユーザーはジャーニーに1回しか入れません",
-      "es": "Los usuarios solo pueden entrar al Recorrido una vez",
+      "es": "Los usuarios solo pueden entrar al Journey una vez",
       "pt": "Os usuários só podem entrar na Jornada uma vez",
       "ko": "사용자는 저니에 한 번만 진입할 수 있습니다",
       "fr": "Les utilisateurs ne peuvent entrer dans le Parcours qu'une seule fois",
@@ -10252,7 +10252,7 @@
     },
     "Users in the chosen segment will start your Journey": {
       "ja": "選択したセグメントのユーザーがあなたのジャーニーを開始します",
-      "es": "Los usuarios del segmento elegido iniciarán tu Recorrido",
+      "es": "Los usuarios del segmento elegido iniciarán tu Journey",
       "pt": "Os usuários no segmento escolhido iniciarão sua Jornada",
       "ko": "선택한 세그먼트의 사용자가 저니를 시작합니다",
       "fr": "Les utilisateurs du segment choisi commenceront votre Parcours",
@@ -10292,7 +10292,7 @@
     },
     "from this Journey?": {
       "ja": "をこのジャーニーから？",
-      "es": "¿de este Recorrido?",
+      "es": "¿de este Journey?",
       "pt": "desta Jornada?",
       "ko": "이 저니에서?",
       "fr": "de ce Parcours ?",
@@ -10302,7 +10302,7 @@
     },
     "in this Journey?": {
       "ja": "をこのジャーニーに？",
-      "es": "¿en este Recorrido?",
+      "es": "¿en este Journey?",
       "pt": "nesta Jornada?",
       "ko": "이 저니에?",
       "fr": "dans ce Parcours ?",
@@ -10382,7 +10382,7 @@
     },
     "Event-triggered Journeys create a new user instance each time the trigger event fires. This means a user may be in the Journey multiple times at once.": {
       "ja": "イベントトリガーのジャーニーは、トリガーイベントが発生するたびに新しいユーザーインスタンスを作成します。つまり、ユーザーが同時に複数のジャーニーに参加することがあります。",
-      "es": "Los Recorridos disparados por eventos crean una nueva instancia de usuario cada vez que el evento disparador se activa. Esto significa que un usuario puede estar en el Recorrido varias veces a la vez.",
+      "es": "Los Journeys disparados por eventos crean una nueva instancia de usuario cada vez que el evento disparador se activa. Esto significa que un usuario puede estar en el Journey varias veces a la vez.",
       "pt": "As Jornadas disparadas por eventos criam uma nova instância de usuário cada vez que o evento gatilho é disparado. Isso significa que um usuário pode estar na Jornada várias vezes ao mesmo tempo.",
       "ko": "이벤트 트리거 저니는 트리거 이벤트가 발생할 때마다 새로운 사용자 인스턴스를 생성합니다. 즉, 사용자가 동시에 여러 번 저니에 참여할 수 있습니다.",
       "fr": "Les Parcours déclenchés par événement créent une nouvelle instance utilisateur à chaque déclenchement de l'événement. Un même utilisateur peut donc être dans le Parcours plusieurs fois simultanément.",
@@ -10412,7 +10412,7 @@
     },
     "Journey description": {
       "ja": "ジャーニーの説明",
-      "es": "Descripción del Recorrido",
+      "es": "Descripción del Journey",
       "pt": "Descrição da Jornada",
       "ko": "저니 설명",
       "fr": "Description du Parcours",
@@ -10422,7 +10422,7 @@
     },
     "Journey name": {
       "ja": "ジャーニー名",
-      "es": "Nombre del Recorrido",
+      "es": "Nombre del Journey",
       "pt": "Nome da Jornada",
       "ko": "저니 이름",
       "fr": "Nom du Parcours",
@@ -10432,7 +10432,7 @@
     },
     "Journey saved!": {
       "ja": "ジャーニーを保存しました！",
-      "es": "¡Recorrido guardado!",
+      "es": "¡Journey guardado!",
       "pt": "Jornada salva!",
       "ko": "저니가 저장되었습니다!",
       "fr": "Parcours enregistré !",
@@ -10542,7 +10542,7 @@
     },
     "Set a Journey Goal": {
       "ja": "ジャーニー目標を設定",
-      "es": "Establecer un objetivo de Recorrido",
+      "es": "Establecer un objetivo de Journey",
       "pt": "Definir uma meta de Jornada",
       "ko": "저니 목표 설정",
       "fr": "Définir un objectif de Parcours",
@@ -10582,7 +10582,7 @@
     },
     "They moved through the entire Journey": {
       "ja": "ジャーニー全体を通過したとき",
-      "es": "Pasaron por todo el Recorrido",
+      "es": "Pasaron por todo el Journey",
       "pt": "Passaram por toda a Jornada",
       "ko": "전체 저니를 통과했을 때",
       "fr": "Ils ont parcouru le Parcours en entier",
@@ -10592,7 +10592,7 @@
     },
     "Users exit when they have moved through the full Journey.": {
       "ja": "ユーザーはジャーニー全体を通過したときに退出します。",
-      "es": "Los usuarios salen cuando han pasado por todo el Recorrido.",
+      "es": "Los usuarios salen cuando han pasado por todo el Journey.",
       "pt": "Os usuários saem quando passaram por toda a Jornada.",
       "ko": "사용자는 전체 저니를 통과하면 종료됩니다.",
       "fr": "Les utilisateurs sortent lorsqu'ils ont parcouru tout le Parcours.",
@@ -10612,7 +10612,7 @@
     },
     "When should users exit this Journey?": {
       "ja": "ユーザーはいつこのジャーニーを退出すべきですか？",
-      "es": "¿Cuándo deberían los usuarios salir de este Recorrido?",
+      "es": "¿Cuándo deberían los usuarios salir de este Journey?",
       "pt": "Quando os usuários devem sair desta Jornada?",
       "ko": "사용자가 언제 이 저니를 종료해야 하나요?",
       "fr": "Quand les utilisateurs doivent-ils sortir de ce Parcours ?",
@@ -10622,7 +10622,7 @@
     },
     "Your Journey will be become active at a specific time and date.": {
       "ja": "ジャーニーは特定の日時にアクティブになります。",
-      "es": "Tu Recorrido se activará en una fecha y hora específicas.",
+      "es": "Tu Journey se activará en una fecha y hora específicas.",
       "pt": "Sua Jornada ficará ativa em data e hora específicas.",
       "ko": "저니는 특정 날짜 및 시간에 활성화됩니다.",
       "fr": "Votre Parcours deviendra actif à une date et heure précises.",
@@ -10632,7 +10632,7 @@
     },
     "Your Journey will become active as soon as you set it live.": {
       "ja": "ジャーニーはライブ化するとすぐにアクティブになります。",
-      "es": "Tu Recorrido se activará tan pronto como lo pongas en vivo.",
+      "es": "Tu Journey se activará tan pronto como lo pongas en vivo.",
       "pt": "Sua Jornada ficará ativa assim que você o tornar ativo.",
       "ko": "라이브로 설정하는 즉시 저니가 활성화됩니다.",
       "fr": "Votre Parcours deviendra actif dès que vous le mettrez en ligne.",
@@ -10642,7 +10642,7 @@
     },
     "Your Journey will stay active indefinitely.": {
       "ja": "ジャーニーは無期限にアクティブのままです。",
-      "es": "Tu Recorrido permanecerá activo indefinidamente.",
+      "es": "Tu Journey permanecerá activo indefinidamente.",
       "pt": "Sua Jornada permanecerá ativa indefinidamente.",
       "ko": "저니는 무기한 활성 상태로 유지됩니다.",
       "fr": "Votre Parcours restera actif indéfiniment.",
@@ -10652,7 +10652,7 @@
     },
     "Your Journey will stop on specific time and date.": {
       "ja": "ジャーニーは特定の日時に停止します。",
-      "es": "Tu Recorrido se detendrá en una fecha y hora específicas.",
+      "es": "Tu Journey se detendrá en una fecha y hora específicas.",
       "pt": "Sua Jornada será interrompido em data e hora específicas.",
       "ko": "저니는 특정 날짜 및 시간에 중지됩니다.",
       "fr": "Votre Parcours s'arrêtera à une date et heure précises.",
@@ -10692,7 +10692,7 @@
     },
     "Build your own Journey from the ground up.": {
       "ja": "独自のジャーニーをゼロから構築。",
-      "es": "Construye tu propio Recorrido desde cero.",
+      "es": "Construye tu propio Journey desde cero.",
       "pt": "Construa sua própria Jornada do zero.",
       "ko": "나만의 저니를 처음부터 구축하세요.",
       "fr": "Construisez votre propre Parcours de A à Z.",
@@ -10702,7 +10702,7 @@
     },
     "Choose a Journey to start": {
       "ja": "開始するジャーニーを選択",
-      "es": "Elige un Recorrido para empezar",
+      "es": "Elige un Journey para empezar",
       "pt": "Escolha uma Jornada para começar",
       "ko": "시작할 저니 선택",
       "fr": "Choisissez un Parcours pour commencer",
@@ -10712,7 +10712,7 @@
     },
     "Describe the purpose of this Journey...": {
       "ja": "このジャーニーの目的を記述...",
-      "es": "Describe el propósito de este Recorrido...",
+      "es": "Describe el propósito de este Journey...",
       "pt": "Descreva o propósito desta Jornada...",
       "ko": "이 저니의 목적을 설명하세요...",
       "fr": "Décrivez le but de ce Parcours...",
@@ -10732,7 +10732,7 @@
     },
     "Journey Name": {
       "ja": "ジャーニー名",
-      "es": "Nombre del Recorrido",
+      "es": "Nombre del Journey",
       "pt": "Nome da Jornada",
       "ko": "저니 이름",
       "fr": "Nom du Parcours",
@@ -10742,7 +10742,7 @@
     },
     "My Journey": {
       "ja": "マイジャーニー",
-      "es": "Mi Recorrido",
+      "es": "Mi Journey",
       "pt": "Minha Jornada",
       "ko": "내 저니",
       "fr": "Mon Parcours",
@@ -10752,7 +10752,7 @@
     },
     "Name and describe your Journey": {
       "ja": "ジャーニーに名前を付けて説明",
-      "es": "Nombra y describe tu Recorrido",
+      "es": "Nombra y describe tu Journey",
       "pt": "Nomeie e descreva sua Jornada",
       "ko": "저니의 이름을 짓고 설명하세요",
       "fr": "Nommez et décrivez votre Parcours",
@@ -12852,7 +12852,7 @@
     },
     "Search by journey name": {
       "ja": "ジャーニー名で検索",
-      "es": "Buscar por nombre de Recorrido",
+      "es": "Buscar por nombre de Journey",
       "pt": "Pesquisar por nome da Jornada",
       "ko": "저니 이름으로 검색",
       "fr": "Rechercher par nom de Parcours",
@@ -12922,7 +12922,7 @@
     },
     "Learn more about Journeys.": {
       "ja": "ジャーニーの詳細を確認。",
-      "es": "Más información sobre Recorridos.",
+      "es": "Más información sobre Journeys.",
       "pt": "Saiba mais sobre Jornadas.",
       "ko": "저니에 대해 자세히 알아보세요.",
       "fr": "En savoir plus sur Parcours.",
@@ -12982,7 +12982,7 @@
     },
     "No journeys": {
       "ja": "ジャーニーなし",
-      "es": "Sin Recorridos",
+      "es": "Sin Journeys",
       "pt": "Sem Jornadas",
       "ko": "저니 없음",
       "fr": "Aucun Parcours",
@@ -13042,7 +13042,7 @@
     },
     "User has not been in any Journey": {
       "ja": "ユーザーはどのジャーニーにも参加していません",
-      "es": "El usuario no ha estado en ningún Recorrido",
+      "es": "El usuario no ha estado en ningún Journey",
       "pt": "O usuário não esteve em nenhum Jornada",
       "ko": "사용자가 어떤 저니에도 참여하지 않았습니다",
       "fr": "L'utilisateur n'a été dans aucun Parcours",
@@ -13092,7 +13092,7 @@
     },
     "Drive more engagement with additional automations, channels, and features in Journeys.": {
       "ja": "ジャーニーの追加の自動化、チャネル、機能でエンゲージメントを高めます。",
-      "es": "Aumenta el engagement con más automatizaciones, canales y funciones en Recorridos.",
+      "es": "Aumenta el engagement con más automatizaciones, canales y funciones en Journeys.",
       "pt": "Aumente o engajamento com mais automações, canais e recursos em Jornadas.",
       "ko": "저니의 추가 자동화, 채널 및 기능으로 참여도를 높이세요.",
       "fr": "Boostez l'engagement avec plus d'automatisations, de canaux et de fonctionnalités dans Parcours.",
@@ -13102,7 +13102,7 @@
     },
     "Try Journeys": {
       "ja": "ジャーニーを試す",
-      "es": "Probar Recorridos",
+      "es": "Probar Journeys",
       "pt": "Experimentar Jornadas",
       "ko": "저니 사용해보기",
       "fr": "Essayer Parcours",
@@ -13312,7 +13312,7 @@
     },
     "Journey Updated": {
       "ja": "ジャーニーが更新されました",
-      "es": "Recorrido actualizado",
+      "es": "Journey actualizado",
       "pt": "Jornada atualizada",
       "ko": "저니가 업데이트됨",
       "fr": "Parcours mis à jour",
@@ -13322,7 +13322,7 @@
     },
     "Journey Created": {
       "ja": "ジャーニーが作成されました",
-      "es": "Recorrido creado",
+      "es": "Journey creado",
       "pt": "Jornada criada",
       "ko": "저니가 생성됨",
       "fr": "Parcours créé",
@@ -15212,7 +15212,7 @@
     },
     "Can a user re-enter a Journey after exiting or finishing?": {
       "ja": "ユーザーは退出または完了後にジャーニーに再度入ることができますか？",
-      "es": "¿Puede un usuario volver a entrar a un Recorrido después de salir o terminar?",
+      "es": "¿Puede un usuario volver a entrar a un Journey después de salir o terminar?",
       "pt": "Um usuário pode entrar novamente em uma Jornada após sair ou concluir?",
       "ko": "사용자가 종료하거나 완료한 후에 저니에 다시 진입할 수 있나요?",
       "fr": "Un utilisateur peut-il entrer à nouveau dans un Parcours après en être sorti ou l'avoir terminé ?",
@@ -15362,7 +15362,7 @@
     },
     "Users only receive messages from this Journey once.": {
       "ja": "ユーザーはこのジャーニーから一度だけメッセージを受信します。",
-      "es": "Los usuarios solo reciben mensajes de este Recorrido una vez.",
+      "es": "Los usuarios solo reciben mensajes de este Journey una vez.",
       "pt": "Os usuários recebem mensagens desta Jornada apenas uma vez.",
       "ko": "사용자는 이 저니로부터 메시지를 한 번만 받습니다.",
       "fr": "Les utilisateurs ne reçoivent les messages de ce Parcours qu'une seule fois.",
@@ -15372,7 +15372,7 @@
     },
     "Users re-enter the Journey after a period of time if they match the entry rules.": {
       "ja": "ユーザーが入場ルールに一致する場合、一定期間後にジャーニーに再度入ります。",
-      "es": "Los usuarios vuelven a entrar al Recorrido después de un período de tiempo si coinciden con las reglas de entrada.",
+      "es": "Los usuarios vuelven a entrar al Journey después de un período de tiempo si coinciden con las reglas de entrada.",
       "pt": "Os usuários entram novamente na Jornada após um período de tempo se corresponderem às regras de entrada.",
       "ko": "사용자가 진입 규칙과 일치하는 경우 일정 기간 후에 저니에 다시 진입합니다.",
       "fr": "Les utilisateurs entrent à nouveau dans le Parcours après un certain temps s'ils correspondent aux règles d'entrée.",
@@ -15452,7 +15452,7 @@
     },
     "action to your Journey before this message step.": {
       "ja": "アクションをこのメッセージステップの前にジャーニーに追加してください。",
-      "es": "acción a tu Recorrido antes de este paso de mensaje.",
+      "es": "acción a tu Journey antes de este paso de mensaje.",
       "pt": "ação ao sua Jornada antes desta etapa de mensagem.",
       "ko": "액션을 이 메시지 단계 이전에 저니에 추가하세요.",
       "fr": "action à votre Parcours avant cette étape de message.",
@@ -15892,7 +15892,7 @@
     },
     "Edit Journey Webhook": {
       "ja": "ジャーニーのWebhookを編集",
-      "es": "Editar Webhook de Recorrido",
+      "es": "Editar Webhook de Journey",
       "pt": "Editar Webhook de Jornada",
       "ko": "저니 웹훅 편집",
       "fr": "Modifier le Webhook de Parcours",
@@ -17182,7 +17182,7 @@
     },
     "Data feed name will help you identify from other data feeds.": {
       "ja": "データフィード名は、他のデータフィードと区別するのに役立ちます。",
-      "es": "El nombre del Data Feed te ayudará a identificarlo entre otras Fuentes de datos.",
+      "es": "El nombre del Data Feed te ayudará a identificarlo entre otras Data Feeds.",
       "pt": "O nome do Data Feed ajudará a identificá-lo entre outros Feeds de dados.",
       "ko": "데이터 피드 이름은 다른 데이터 피드와 구별하는 데 도움이 됩니다.",
       "fr": "Le nom du Data Feed vous aidera à le distinguer des autres Flux de données.",
