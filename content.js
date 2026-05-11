@@ -337,6 +337,54 @@
     return !!el.closest(UGC_AUTOSUGGEST_SELECTOR);
   }
 
+  // UGC-dominated sections — regions of the dashboard where the content
+  // is overwhelmingly user-generated (template names, message names,
+  // saved-segment names, etc.) and floods the ledger every time it
+  // mounts. Same mental model as the table Name-column filter above:
+  // a small allowlist of section identifiers (here, heading text) marks
+  // the region, and everything inside is suppressed from ledger
+  // reporting. Translation still runs.
+  //
+  // To add a new section: add the English heading text below. We match
+  // against the source AND its active-language translation, so adding
+  // the source to languages.json (which we already do for in-app copy)
+  // is enough — no per-language entries needed here.
+  const UGC_SECTION_HEADING_SOURCES = [
+    "Start from a pre-built design",
+  ];
+  let ugcSectionHeadingTexts = new Set();
+  function buildUgcSectionHeadingTexts() {
+    const texts = new Set(UGC_SECTION_HEADING_SOURCES);
+    for (const source of UGC_SECTION_HEADING_SOURCES) {
+      const translated = lookup.get(source);
+      if (typeof translated === "string" && translated) texts.add(translated);
+    }
+    ugcSectionHeadingTexts = texts;
+  }
+  // Walk up to N ancestors and at each level check whether one of the
+  // section's *own direct-child* headings matches the allowlist (via
+  // `:scope >`). We don't cache: the bounded walk + one direct-child
+  // query per level is cheap, and not caching sidesteps any cold-cache
+  // race with React's mount order. Sections in this codebase are
+  // shallow; 8 levels is more than enough to reach the nearest heading.
+  function isInUgcSection(el) {
+    if (!el || el.nodeType !== Node.ELEMENT_NODE) return false;
+    let node = el;
+    for (let i = 0; i < 8 && node && node.nodeType === Node.ELEMENT_NODE; i++) {
+      if (node.querySelector) {
+        const h = node.querySelector(
+          ":scope > h1, :scope > h2, :scope > h3, :scope > h4, :scope > h5, :scope > h6",
+        );
+        if (h) {
+          const text = (h.textContent || "").trim();
+          if (ugcSectionHeadingTexts.has(text)) return true;
+        }
+      }
+      node = node.parentElement;
+    }
+    return false;
+  }
+
   // ARIA live regions render screen-reader-only announcements that get
   // dynamically injected as the user interacts with widgets — react-
   // select fires "OK, 3 of 78." / "option , selected." / "Use Up and
@@ -530,6 +578,10 @@
       // Skip auto-suggest popover content (property/tag/event names
       // suggested from the user's account data).
       if (isInUgcAutoSuggest(el)) return;
+      // Skip sections whose heading is on the UGC allowlist (the
+      // create-message template picker, etc.) — those regions are
+      // dominated by user-defined content.
+      if (isInUgcSection(el)) return;
       // Skip ARIA live regions — screen-reader-only announcement text
       // injected by widgets on interaction (react-select fires
       // "Crown Casino, 73 of 78." / "press Up and Down to choose…"
@@ -824,6 +876,7 @@
     buildLookup();
     buildNameColumnHeaders();
     buildUgcValuePickerLabelPatterns();
+    buildUgcSectionHeadingTexts();
     if (lookup.size === 0 && compiledPatterns.length === 0) {
       // Passthrough mode (English/none). Leave the DOM alone — a full page
       // reload from the popup restores original copy.
