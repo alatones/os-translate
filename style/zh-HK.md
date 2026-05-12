@@ -63,6 +63,36 @@
 - `App` stays Latin or `應用` (loanword). Both widely used in HK.
 - Acronyms always Latin: `API`, `SDK`, `CSV`, `URL`, `HTML`, `CTR`.
 
+## Nav-bar labels: match the page title
+
+Menu bar items should read the same as the page they open. Per HK
+reviewer (Jessie Koh) feedback, terse one-word menu labels like
+`推送` (Push) or `應用內` (In-App) felt unsynced with their
+descriptive page titles. Use the fuller forms in standalone nav
+contexts:
+
+| Source           | Use (zh-HK)   | Don't use   |
+| ---------------- | ------------- | ----------- |
+| `Push`           | `推送通知`     | `推送`       |
+| `In-App`         | `應用內訊息`   | `應用內`     |
+| `New In-App`     | `新應用內訊息` | `新應用內`   |
+| `Users`          | `用戶記錄`     | `用戶`       |
+| `Subscriptions`  | `訂閱記錄`     | `訂閱`       |
+| `Test Subscriptions` | `測試訂閱記錄` | `測試訂閱` |
+
+These changes are on the standalone source keys only — compound
+phrases that reuse "Push" / "In-App" / etc. keep their own
+translations and aren't affected.
+
+## Product feature terms
+
+- `Data Feed` / `Data Feeds` → `資料串流` (data stream), not
+  `資料來源` (data source). Per HK reviewer: `資料來源` reads as a
+  generic descriptor and doesn't identify the product feature.
+  `資料來源` is still correct when literally referring to upstream
+  data sources (SDKs, integrations, etc.) — not the OneSignal Data
+  Feed feature.
+
 ## Length
 
 - Button labels: target ≤ 6 characters. Soft cap 8.

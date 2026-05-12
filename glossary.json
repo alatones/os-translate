@@ -432,12 +432,13 @@
         "Veri Akışı",
         "Data Feed"
       ],
+      "note": "zh-HK: per Jessie Koh (HK reviewer), '資料串流' (data stream) is the natural term — '資料來源' (data source) read as a generic descriptor, not the product feature.",
       "zh-CN": [
         "数据源",
         "Data Feed"
       ],
       "zh-HK": [
-        "資料來源",
+        "資料串流",
         "Data Feed"
       ]
     },
@@ -464,7 +465,7 @@
         "Data Feed"
       ],
       "zh-HK": [
-        "資料來源",
+        "資料串流",
         "Data Feeds",
         "Data Feed"
       ]

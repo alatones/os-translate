@@ -1278,7 +1278,7 @@
       "fr": "Flux de données",
       "tr": "Veri akışları",
       "zh-CN": "数据源",
-      "zh-HK": "資料來源"
+      "zh-HK": "資料串流"
     },
     "Data Tags": {
       "es": "Etiquetas de datos",
@@ -2128,7 +2128,7 @@
       "fr": "In-App",
       "tr": "In-App",
       "zh-CN": "应用内",
-      "zh-HK": "應用內"
+      "zh-HK": "應用內訊息"
     },
     "In-App Messages": {
       "es": "Mensajes In-App",
@@ -2968,7 +2968,7 @@
       "fr": "Nouveau flux de données",
       "tr": "Yeni veri akışı",
       "zh-CN": "新数据源",
-      "zh-HK": "新資料來源"
+      "zh-HK": "新資料串流"
     },
     "New Email": {
       "es": "Nuevo email",
@@ -3008,7 +3008,7 @@
       "fr": "Nouveau In-App",
       "tr": "Yeni In-App",
       "zh-CN": "新应用内",
-      "zh-HK": "新應用內"
+      "zh-HK": "新應用內訊息"
     },
     "New Journey": {
       "es": "Nuevo Journey",
@@ -3718,7 +3718,7 @@
       "fr": "Push",
       "tr": "Push",
       "zh-CN": "推送",
-      "zh-HK": "推送"
+      "zh-HK": "推送通知"
     },
     "Push & In-App": {
       "es": "Push e In-App",
@@ -4818,7 +4818,7 @@
       "fr": "Abonnements",
       "tr": "Abonelikler",
       "zh-CN": "订阅",
-      "zh-HK": "訂閱"
+      "zh-HK": "訂閱記錄"
     },
     "Success": {
       "es": "Éxito",
@@ -4958,7 +4958,7 @@
       "fr": "Abonnements de test",
       "tr": "Test abonelikleri",
       "zh-CN": "测试订阅",
-      "zh-HK": "測試訂閱"
+      "zh-HK": "測試訂閱記錄"
     },
     "Test Users": {
       "es": "Usuarios de prueba",
@@ -5378,7 +5378,7 @@
       "fr": "Utilisateurs",
       "tr": "Kullanıcılar",
       "zh-CN": "用户",
-      "zh-HK": "用戶"
+      "zh-HK": "用戶記錄"
     },
     "UTC": {
       "es": "UTC",
@@ -6878,7 +6878,7 @@
       "fr": "Les Flux de données vous permettent de récupérer dynamiquement des données depuis vos API au moment de l'envoi.",
       "tr": "Veri akışları, gönderim sırasında API'lerinizden dinamik olarak veri almanızı sağlar.",
       "zh-CN": "数据源允许您在发送时从 API 动态获取数据。",
-      "zh-HK": "資料來源允許您在發送時從 API 動態獲取資料。"
+      "zh-HK": "資料串流允許您在發送時從 API 動態獲取資料。"
     },
     "Data Feeds documentation": {
       "ja": "データフィードのドキュメント",
@@ -6888,7 +6888,7 @@
       "fr": "Documentation des Flux de données",
       "tr": "Veri akışları dokümantasyonu",
       "zh-CN": "数据源文档",
-      "zh-HK": "資料來源文件"
+      "zh-HK": "資料串流文件"
     },
     "Insert real-time, dynamic content from your data feeds directly into the template at the time of sending. This feature only applies to templates sent through Journeys.": {
       "ja": "送信時にデータフィードからリアルタイムの動的コンテンツをテンプレートに直接挿入します。この機能はジャーニー経由で送信されるテンプレートにのみ適用されます。",
@@ -6898,7 +6898,7 @@
       "fr": "Insérez du contenu dynamique en temps réel depuis vos flux de données directement dans le modèle au moment de l'envoi. Cette fonctionnalité ne s'applique qu'aux modèles envoyés via Parcours.",
       "tr": "Veri akışlarınızdan gerçek zamanlı, dinamik içeriği gönderim sırasında doğrudan şablona ekleyin. Bu özellik yalnızca Yolculuklar aracılığıyla gönderilen şablonlar için geçerlidir.",
       "zh-CN": "在发送时将来自数据源的实时动态内容直接插入模板。此功能仅适用于通过旅程发送的模板。",
-      "zh-HK": "在發送時將來自資料來源的即時動態內容直接插入範本。此功能僅適用於透過旅程發送的範本。"
+      "zh-HK": "在發送時將來自資料串流的即時動態內容直接插入範本。此功能僅適用於透過旅程發送的範本。"
     },
     "Needs Action": {
       "ja": "対応が必要",
@@ -6918,7 +6918,7 @@
       "fr": "Vous n'avez encore configuré aucun flux de données",
       "tr": "Henüz kurulmuş bir veri akışınız yok",
       "zh-CN": "您还没有设置任何数据源",
-      "zh-HK": "您還沒有設定任何資料來源"
+      "zh-HK": "您還沒有設定任何資料串流"
     },
     "Export subscriptions for push, email, and SMS": {
       "ja": "プッシュ、メール、SMSの購読をエクスポートする",
@@ -17158,7 +17158,7 @@
       "fr": "L'Alias est utilisé pour référencer ce Data Feed dans la syntaxe Liquid :",
       "tr": "Alias, bu Data Feed'e Liquid sözdiziminde başvurmak için kullanılır:",
       "zh-CN": "别名用于在 Liquid 语法中引用此数据源：",
-      "zh-HK": "別名用於在 Liquid 語法中引用此資料來源："
+      "zh-HK": "別名用於在 Liquid 語法中引用此資料串流："
     },
     "Customer Cart": {
       "ja": "カスタマーカート",
@@ -17178,7 +17178,7 @@
       "fr": "Nom du Data Feed",
       "tr": "Data Feed Adı",
       "zh-CN": "数据源名称",
-      "zh-HK": "資料來源名稱"
+      "zh-HK": "資料串流名稱"
     },
     "Data feed name will help you identify from other data feeds.": {
       "ja": "データフィード名は、他のデータフィードと区別するのに役立ちます。",
@@ -17188,7 +17188,7 @@
       "fr": "Le nom du Data Feed vous aidera à le distinguer des autres Flux de données.",
       "tr": "Data Feed adı, diğer Data Feeds'ten ayırt etmenize yardımcı olur.",
       "zh-CN": "数据源名称将帮助您区分其他数据源。",
-      "zh-HK": "資料來源名稱將幫助您區分其他資料來源。"
+      "zh-HK": "資料串流名稱將幫助您區分其他資料串流。"
     },
     "Example:": {
       "ja": "例：",
