@@ -46,6 +46,23 @@
 - "Email", "Push", "Webhook", "SMS", "RCS" stay Latin (per glossary).
 - "Segment" — when it's the OneSignal feature, locked as `Segmento`.
   When it's the Twilio company, stays Latin `Segment`.
+- Product feature names and KPI labels stay Latin: `Journey`,
+  `Journeys`, `Live Activity`, `Data Feed`. Marketers reach for the
+  English forms by default — translating them produces awkward
+  Spanish that no practitioner uses.
+- Delivery-stem terms follow the same rule **as feature/KPI labels**:
+  `Delivery Rate`, `Intelligent Delivery`, `Delivery time`,
+  `Delivery Schedule` stay Latin. Native Spanish reviewer (Chilean)
+  feedback: `Tasa de entrega` / `Entrega inteligente` read as
+  awkward when used as KPI or product-feature labels on a dashboard,
+  even though they're literally correct.
+- **Scope guard for Delivery-stem:** the verb "to deliver" and the
+  general-purpose noun "delivery" still translate in body copy. So
+  `Your message was delivered` → `Entregado`; `Confirmation of
+  delivery` → `entrega`. Only locked product/KPI/feature labels go
+  Latin. Same test applies to any future feature-name candidate: if
+  it could be a column header or feature-card title, lock it Latin;
+  if it's running prose, translate it.
 
 ## Length
 

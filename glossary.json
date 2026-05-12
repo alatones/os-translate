@@ -1520,6 +1520,7 @@
     "Delivery": {
       "ja": "配信",
       "es": [
+        "Delivery",
         "Entrega",
         "Entregar",
         "Enviados",
@@ -1530,6 +1531,7 @@
         "Entregar"
       ],
       "ko": "전달",
+      "note": "es: KPI/feature-label contexts stay Latin ('Delivery Rate', 'Intelligent Delivery', 'Delivery time', 'Delivery Schedule') per Spanish reviewer (Chilean) — same pattern as Journey/Live Activity. Verb 'entregar' and body-copy noun 'entrega' still translate normally; both forms are listed as acceptable here so the validator accepts either depending on context.",
       "fr": [
         "Livraison",
         "Livrer",
@@ -1554,7 +1556,8 @@
     },
     "Delivery Rate": {
       "ja": "配信率",
-      "es": "Tasa de entrega",
+      "es": "Delivery Rate",
+      "note": "es: KPI label stays Latin (Italo, Chilean reviewer). 'Tasa de entrega' reads as awkward for a dashboard metric.",
       "pt": "Taxa de entrega",
       "ko": "전달률",
       "fr": "Taux de livraison",
@@ -1564,6 +1567,18 @@
       ],
       "zh-CN": "送达率",
       "zh-HK": "送達率"
+    },
+    "Intelligent Delivery": {
+      "es": "Intelligent Delivery",
+      "note": "es: Product feature name stays Latin (Italo, Chilean reviewer). Same pattern as Journey/Live Activity."
+    },
+    "Delivery time": {
+      "es": "Delivery time",
+      "note": "es: Setting label stays Latin (Italo, Chilean reviewer)."
+    },
+    "Delivery Schedule": {
+      "es": "Delivery Schedule",
+      "note": "es: Section heading stays Latin (Italo, Chilean reviewer). Numbered variants ('3. Delivery Schedule' etc.) inherit via word-boundary match."
     },
     "Click-through Rate": {
       "ja": "クリック率",
