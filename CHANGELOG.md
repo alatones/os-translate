@@ -7,6 +7,20 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
+## [1.6.3] — 2026-05-12
+
+### Changed
+
+- **Spanish: lock Delivery-stem KPI/feature labels in Latin.** Native
+  Spanish reviewer (Chilean) feedback: `Tasa de entrega` /
+  `Entrega inteligente` read as awkward for dashboard KPI and
+  feature-name contexts, even though they're literally correct.
+  Same pattern already accepted for Journey, Live Activity, Data
+  Feed. Affected: `Delivery Rate`, `Intelligent Delivery`,
+  `Delivery time`, `Delivery Schedule` (plus its numbered variants).
+  The verb `entregar` and the body-copy noun `entrega` still
+  translate normally — only feature/KPI labels go Latin.
+
 ## [1.6.2] — 2026-05-11
 
 ### Changed

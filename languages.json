@@ -1451,7 +1451,7 @@
       "zh-HK": "送達"
     },
     "Delivery Rate": {
-      "es": "Tasa de entrega",
+      "es": "Delivery Rate",
       "ja": "配信率",
       "pt": "Taxa de entrega",
       "ko": "전달률",
@@ -2211,7 +2211,7 @@
       "zh-HK": "整合"
     },
     "Intelligent Delivery": {
-      "es": "Entrega inteligente",
+      "es": "Intelligent Delivery",
       "ja": "インテリジェント配信",
       "pt": "Entrega inteligente",
       "ko": "지능형 전달",
@@ -7632,7 +7632,7 @@
     },
     "Delivery time": {
       "ja": "配信時刻",
-      "es": "Hora de entrega",
+      "es": "Delivery time",
       "pt": "Hora de entrega",
       "ko": "전달 시간",
       "fr": "Heure de livraison",
@@ -8522,7 +8522,7 @@
     },
     "5. Delivery Schedule": {
       "ja": "5. 配信スケジュール",
-      "es": "5. Programación de entrega",
+      "es": "5. Delivery Schedule",
       "pt": "5. Agendamento de entrega",
       "ko": "5. 전달 일정",
       "fr": "5. Planification d'envoi",
@@ -11002,7 +11002,7 @@
     },
     "4. Delivery Schedule": {
       "ja": "4. 配信スケジュール",
-      "es": "4. Programación de entrega",
+      "es": "4. Delivery Schedule",
       "pt": "4. Agendamento de entrega",
       "ko": "4. 전달 일정",
       "fr": "4. Planification d'envoi",
@@ -13142,7 +13142,7 @@
     },
     "3. Delivery Schedule": {
       "ja": "3. 配信スケジュール",
-      "es": "3. Programación de entrega",
+      "es": "3. Delivery Schedule",
       "pt": "3. Agendamento de entrega",
       "ko": "3. 전달 일정",
       "fr": "3. Planification d'envoi",
