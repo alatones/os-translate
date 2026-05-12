@@ -7,6 +7,26 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
+## [1.6.4] — 2026-05-12
+
+### Changed
+
+- **Traditional Chinese (zh-HK) nav-bar labels match page titles.**
+  HK reviewer (Jessie Koh) feedback: the terse one-word menu items
+  felt unsynced with their descriptive page titles. Standalone
+  source keys updated:
+  - `Push` → `推送通知` (was `推送`)
+  - `In-App` → `應用內訊息` (was `應用內`)
+  - `New In-App` → `新應用內訊息` (was `新應用內`)
+  - `Users` → `用戶記錄` (was `用戶`)
+  - `Subscriptions` → `訂閱記錄` (was `訂閱`)
+  - `Test Subscriptions` → `測試訂閱記錄` (was `測試訂閱`)
+- **Data Feed (zh-HK) renamed to `資料串流`.** Per Jessie, `資料來源`
+  (data source) reads as a generic descriptor and doesn't identify
+  the product feature. Updated the glossary lock and swept the 9
+  source keys that name the feature. The generic phrase "data
+  sources" (SDKs, integrations) keeps `資料來源`.
+
 ## [1.6.3] — 2026-05-12
 
 ### Changed
