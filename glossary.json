@@ -1474,6 +1474,10 @@
         "受信"
       ],
       "es": [
+        "Enviado",
+        "Enviada",
+        "Envío",
+        "Envíos",
         "Entregado",
         "Entregada",
         "envíen",
@@ -1482,6 +1486,7 @@
         "Entrega",
         "entrega"
       ],
+      "note": "es: 'Enviado/Envío' family preferred for status/KPI labels per Italo (Chilean reviewer). Older 'Entregado/Entrega' forms kept as accepted alts so body-copy translations that pair both concepts still pass.",
       "pt": [
         "Entregue",
         "Entregues",
@@ -1522,17 +1527,18 @@
       "ja": "配信",
       "es": [
         "Delivery",
-        "Entrega",
-        "Entregar",
+        "Envío",
         "Enviados",
-        "Enviado"
+        "Enviado",
+        "Entrega",
+        "Entregar"
       ],
       "pt": [
         "Entrega",
         "Entregar"
       ],
       "ko": "전달",
-      "note": "es: KPI/feature-label contexts stay Latin ('Delivery Rate', 'Intelligent Delivery', 'Delivery time', 'Delivery Schedule') per Spanish reviewer (Chilean) — same pattern as Journey/Live Activity. Verb 'entregar' and body-copy noun 'entrega' still translate normally; both forms are listed as acceptable here so the validator accepts either depending on context.",
+      "note": "es: Two stacked rules from the Chilean reviewer (Italo). (1) KPI/feature labels stay Latin: 'Delivery Rate', 'Intelligent Delivery', 'Delivery time', 'Delivery Schedule'. (2) Status / count / event labels prefer the 'Envío/Enviado' family over 'Entrega/Entregado' — Spanish-language marketing KPI standard. The verb 'entregar' and body-copy noun 'entrega' still translate normally; multiple forms are listed as acceptable here so the validator accepts whichever choice fits the context.",
       "fr": [
         "Livraison",
         "Livrer",

@@ -7,6 +7,29 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
+## [1.6.5] — 2026-05-12
+
+### Changed
+
+- **Spanish: standardize delivery-related status labels on `Envío/Enviado`.**
+  Per Italo (Chilean reviewer): in Spanish-language marketing, the
+  `Envío/Enviado` family is the KPI standard; `Entrega/Entregado`
+  reads as a literal translation that practitioners don't reach for.
+  Affected source keys (10): `Delivered`, `Confirmed Delivered`,
+  `Delivered Events`, `Show Delivered`, `Show Delivered Events`,
+  `Total Delivered`, `Message Event Delivery`, `Deliveries by
+  platform`, `Delivery Statistics for All Time`, `Close Delivery
+  menu`. The verb `entregar` and body-copy noun `entrega` still
+  translate normally — only status / event / KPI labels go to the
+  Envío family. **Known collision:** `Sent` and `Delivered` both
+  now render as `Enviado` in Spanish (Italo's call — Spanish
+  marketing doesn't distinguish them); flagged in `style/es.md`.
+- **Traditional Chinese (zh-HK): finish the Data Feed sweep.** The
+  one remaining generic "data sources" reference inside a filter
+  helper string now also reads as `資料串流` per Jessie — she
+  confirmed the source string is referring to the Data Feed product
+  feature, not generic upstream data sources.
+
 ## [1.6.4] — 2026-05-12
 
 ### Changed
