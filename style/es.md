@@ -57,12 +57,43 @@
   awkward when used as KPI or product-feature labels on a dashboard,
   even though they're literally correct.
 - **Scope guard for Delivery-stem:** the verb "to deliver" and the
-  general-purpose noun "delivery" still translate in body copy. So
-  `Your message was delivered` → `Entregado`; `Confirmation of
-  delivery` → `entrega`. Only locked product/KPI/feature labels go
-  Latin. Same test applies to any future feature-name candidate: if
-  it could be a column header or feature-card title, lock it Latin;
-  if it's running prose, translate it.
+  general-purpose noun "delivery" still translate in body copy.
+  Only locked product/KPI/feature labels go Latin. Same test applies
+  to any future feature-name candidate: if it could be a column
+  header or feature-card title, lock it Latin; if it's running prose,
+  translate it.
+
+## Status & event labels: prefer "Envío/Enviado" over "Entrega/Entregado"
+
+Per Italo (Chilean reviewer): in Spanish-language marketing, the
+"Envío/Enviado" family is the standard for delivery-related KPIs and
+status labels; "Entrega/Entregado" reads as a literal translation
+that practitioners don't reach for. Use:
+
+| English source              | Spanish (use)                  |
+| --------------------------- | ------------------------------ |
+| Delivered                   | Enviado                        |
+| Confirmed Delivered         | Envío confirmado               |
+| Delivered Events            | Eventos enviados               |
+| Show Delivered              | Mostrar enviados               |
+| Total Delivered             | Total enviados                 |
+| Deliveries by platform      | Envíos por plataforma          |
+| Message Event Delivery      | Envío de eventos de mensajes   |
+| Close Delivery menu         | Cerrar menú de Envío           |
+
+**Known collision:** `Sent` also translates to `Enviado` and `Total
+Sent` to `Total enviados`. In a dashboard view that shows both
+`Sent` and `Delivered` columns side by side, they will render
+identically in Spanish. This is intentional per the reviewer —
+Spanish marketing KPIs don't distinguish the two — but worth
+remembering when adding new translations: don't try to "fix" it by
+back-translating one side to `Entregado`.
+
+**Body copy stays distinct.** When a sentence enumerates both ("sends,
+deliveries, and clicks"), keep `entregas` so the list doesn't read
+"envíos, envíos, y clics". The Envío/Enviado rule applies to status
+labels and standalone KPI nouns, not to running prose that pairs
+both concepts.
 
 ## Length
 
