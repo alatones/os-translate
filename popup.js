@@ -28,7 +28,7 @@ const LANG_FLAGS = {
   es: "🇪🇸",
   pt: "🇧🇷",
   "zh-CN": "🇨🇳",
-  "zh-HK": "🇭🇰",
+  "zh-HK": "🇹🇼",
   ja: "🇯🇵",
   tr: "🇹🇷",
   ko: "🇰🇷",
