@@ -1256,7 +1256,7 @@
       "pt": "Painel",
       "ko": "대시보드",
       "fr": "Tableau de bord",
-      "tr": "Pano",
+      "tr": "Kontrol Paneli",
       "zh-CN": "仪表板",
       "zh-HK": "儀表板"
     },
@@ -1446,7 +1446,7 @@
       "pt": "Entrega",
       "ko": "전달",
       "fr": "Livraison",
-      "tr": "Teslimat",
+      "tr": "Bildirim Geçmişi",
       "zh-CN": "送达",
       "zh-HK": "送達"
     },
@@ -2406,7 +2406,7 @@
       "pt": "Chaves e IDs",
       "ko": "키 및 ID",
       "fr": "Clés et ID",
-      "tr": "Anahtarlar ve ID'ler",
+      "tr": "Anahtarlar ve Kimlik Bilgileri",
       "zh-CN": "密钥和 ID",
       "zh-HK": "密鑰和 ID"
     },
@@ -2596,7 +2596,7 @@
       "pt": "Atividades ao vivo",
       "ko": "라이브 액티비티",
       "fr": "Live Activities",
-      "tr": "Live Activities",
+      "tr": "Canlı Etkinlikler",
       "zh-CN": "实时活动",
       "zh-HK": "即時動態"
     },
@@ -2606,7 +2606,7 @@
       "pt": "Atividade ao vivo",
       "ko": "라이브 액티비티",
       "fr": "Live Activity",
-      "tr": "Live Activity",
+      "tr": "Canlı Etkinlik",
       "zh-CN": "实时活动",
       "zh-HK": "即時動態"
     },
@@ -5636,7 +5636,7 @@
       "pt": "Configurar push",
       "ko": "푸시 설정",
       "fr": "Configurer le push",
-      "tr": "Push'u kur",
+      "tr": "Push Bildirim Oluştur",
       "zh-CN": "设置推送",
       "zh-HK": "設定推送"
     },
@@ -5856,7 +5856,7 @@
       "pt": "Fechar menu de Entrega",
       "ko": "전달 메뉴 닫기",
       "fr": "Fermer le menu Livraison",
-      "tr": "Teslimat menüsünü kapat",
+      "tr": "Bildirim Geçmişi menüsünü kapat",
       "zh-CN": "关闭送达菜单",
       "zh-HK": "關閉送達選單"
     },
@@ -7046,7 +7046,7 @@
       "pt": "Documentação de Live Activities",
       "ko": "라이브 액티비티 문서",
       "fr": "Documentation Live Activities",
-      "tr": "Live Activities dokümantasyonu",
+      "tr": "Canlı Etkinlikler dokümantasyonu",
       "zh-CN": "实时活动文档",
       "zh-HK": "即時動態文件"
     },

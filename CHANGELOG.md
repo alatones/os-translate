@@ -7,6 +7,28 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
+## [1.6.8] — 2026-05-15
+
+### Changed
+
+- **Turkish (tr) reviewer pass from Emre.** Seven source keys
+  updated for natural Turkish UI vocabulary:
+  - `Live Activity` / `Live Activities` /
+    `Live Activities documentation` — `Aktivite` → `Etkinlik`
+    family (glossary + style guide updated).
+  - `Set Up Push` button — `Push'u kur` → `Push Bildirim Oluştur`
+    (describes the action, not the literal verb).
+  - `Dashboard` — `Pano` → `Kontrol Paneli` (standard Turkish for
+    enterprise dashboards).
+  - `Delivery` menu — `Teslimat` → `Bildirim Geçmişi` (Notification
+    History — describes what the page actually shows). Paired
+    `Close Delivery menu` aria-label moves with it. Other source
+    keys containing "Delivery" still use the `teslim`/`Gönderim`
+    family; both deviating keys are added to the glossary's
+    `_skip_keys` so the validator allows the override.
+  - `Keys & IDs` — `Anahtarlar ve ID'ler` →
+    `Anahtarlar ve Kimlik Bilgileri`.
+
 ## [1.6.7] — 2026-05-15
 
 ### Added
