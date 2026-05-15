@@ -27,7 +27,7 @@ const FORM_LANG_LABEL = {
   es: "Spanish",
   pt: "Portuguese (BR)",
   "zh-CN": "Simplified Chinese",
-  "zh-HK": "Traditional Chinese (HK)",
+  "zh-TW": "Traditional Chinese (HK)",
   ja: "Japanese",
   tr: "Turkish",
   ko: "Korean",
@@ -66,7 +66,7 @@ const MENU_TITLES = {
   fr: 'Suggérer une meilleure traduction pour "%s"',
   tr: '"%s" için daha iyi bir çeviri öner',
   "zh-CN": '为 "%s" 推荐更好的翻译',
-  "zh-HK": '為「%s」建議更好的翻譯',
+  "zh-TW": '為「%s」建議更好的翻譯',
 };
 
 function buildFormUrl({ language, selected }) {

@@ -91,7 +91,7 @@
 
 ## Nav-bar labels: describe the page, not the source noun
 
-Same principle as zh-HK: menu items should read for what users will
+Same principle as zh-TW: menu items should read for what users will
 see, not as a literal translation of the English source. Per Emre:
 
 | Source     | Use (tr)              | Don't use   |

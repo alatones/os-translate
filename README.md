@@ -61,7 +61,7 @@ Language codes follow ISO 639-1.
 | `fr` | French         | 1,517 terms + 73 patterns (vous, infinitive buttons) |
 | `tr` | Turkish        | 1,517 terms + 73 patterns (siz, 2nd-person imperative buttons) |
 | `zh-CN` | Simplified Chinese | 1,517 terms + 73 patterns (Mainland, drop pronouns or 您, bare-verb buttons) |
-| `zh-HK` | Traditional Chinese (HK) | 1,517 terms + 73 patterns (Hong Kong 書面語, HK lexicon — 儲存/設定/搜尋) |
+| `zh-TW` | Traditional Chinese | 1,517 terms + 73 patterns (書面語, HK-leaning lexicon per reviewer — 儲存/設定/搜尋) |
 
 Each language ships with terminology locked to a glossary (see below) and
 register conventions documented in `style/<lang>.md`.

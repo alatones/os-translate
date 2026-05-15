@@ -1,14 +1,18 @@
-# Traditional Chinese — Hong Kong (zh-HK) Style Addendum
+# Traditional Chinese (zh-TW) Style Addendum
 
 ## Variant
 
-- **Traditional Chinese as used in Hong Kong** (zh-HK / 繁體中文 / 香港).
-  This is the variant used by HK marketers, who predominantly speak
-  Cantonese as a first language.
-- The dashboard targets HK marketers using HK-flavoured Traditional
-  Chinese — distinct from both **Simplified Chinese** (zh-CN, mainland
-  China) and **Taiwan Traditional Chinese** (zh-TW). HK and TW share the
-  same Traditional character set but differ in lexicon and idiom.
+- **Traditional Chinese, HK-leaning lexicon** (locale code `zh-TW`,
+  language label 繁體中文).
+- We ship under Chrome's `zh_TW` locale code (it's the one the Web
+  Store recognizes) but the underlying vocabulary in this file is
+  **HK-flavoured Traditional Chinese**, as reviewed by Jessie Koh.
+  HK and TW share the same Traditional character set but differ in
+  lexicon and idiom — where they conflict, we use the HK form. Most
+  TC readers (HK, TW, overseas) understand both; the HK form is
+  what was reviewed and signed off.
+- **Distinct from** both Simplified Chinese (zh-CN, mainland China)
+  and pure Taiwan TC where the lexicon diverges.
 - **Register: 書面語 (formal written Chinese), not 粵語白話文
   (colloquial Cantonese).** B2B SaaS dashboards in HK use formal written
   Chinese — same syntax as standard Mandarin, written in Traditional
@@ -71,7 +75,7 @@ reviewer (Jessie Koh) feedback, terse one-word menu labels like
 descriptive page titles. Use the fuller forms in standalone nav
 contexts:
 
-| Source           | Use (zh-HK)   | Don't use   |
+| Source           | Use (zh-TW)   | Don't use   |
 | ---------------- | ------------- | ----------- |
 | `Push`           | `推送通知`     | `推送`       |
 | `In-App`         | `應用內訊息`   | `應用內`     |
@@ -102,12 +106,15 @@ translations and aren't affected.
 
 ## HK-vs-CN-vs-TW vocabulary
 
-The key axis: HK and TW share Traditional characters, but HK lexicon
-often overlaps with CN (mainland) where TW differs. Some HK terms are
-distinct from both. Pick HK conventions wherever they exist, falling
-back to widely-understood Traditional Chinese.
+Although we ship under the locale code `zh-TW`, the lexicon below is
+HK-leaning per Jessie's review. HK and TW share Traditional characters
+but differ in lexicon and idiom; HK lexicon also often overlaps with
+CN (mainland) where TW diverges. Pick HK conventions wherever they
+exist, falling back to widely-understood Traditional Chinese. Columns
+labeled "TW (don't use)" reference *Taiwan-specific* TC variants —
+the things to avoid because they sound too regional.
 
-| English        | zh-HK (use)    | zh-CN (don't use)  | zh-TW (don't use)   |
+| English        | Use (HK form)  | zh-CN (don't use)  | TW-only (don't use) |
 | -------------- | -------------- | ------------------ | ------------------- |
 | Save           | 儲存           | 保存               | 儲存                |
 | Settings       | 設定           | 设置               | 設定                |
