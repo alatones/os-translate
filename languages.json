@@ -921,7 +921,7 @@
       "zh-HK": "已確認 (數量)"
     },
     "Confirmed Delivered": {
-      "es": "Envío confirmado",
+      "es": "Entrega confirmada",
       "ja": "受信確認済み",
       "pt": "Entrega confirmada",
       "ko": "전달 확인",
@@ -1421,7 +1421,7 @@
       "zh-HK": "刪除範本"
     },
     "Delivered": {
-      "es": "Enviado",
+      "es": "Entregado",
       "ja": "配信済み",
       "pt": "Entregue",
       "ko": "전달됨",
@@ -1431,7 +1431,7 @@
       "zh-HK": "已送達"
     },
     "Delivered Events": {
-      "es": "Eventos enviados",
+      "es": "Eventos entregados",
       "ja": "配信済みイベント",
       "pt": "Eventos entregues",
       "ko": "전달된 이벤트",
@@ -1441,7 +1441,7 @@
       "zh-HK": "已送達事件"
     },
     "Delivery": {
-      "es": "Enviados",
+      "es": "Entregados",
       "ja": "配信",
       "pt": "Entrega",
       "ko": "전달",
@@ -2801,7 +2801,7 @@
       "zh-HK": "訊息內容"
     },
     "Message Event Delivery": {
-      "es": "Envío de eventos de mensajes",
+      "es": "Entrega de eventos de mensajes",
       "ja": "メッセージイベント配信",
       "pt": "Entrega de eventos de mensagens",
       "ko": "메시지 이벤트 전달",
@@ -4501,7 +4501,7 @@
       "zh-HK": "顯示已確認接收"
     },
     "Show Delivered": {
-      "es": "Mostrar enviados",
+      "es": "Mostrar entregados",
       "ja": "配信数を表示",
       "pt": "Mostrar entregues",
       "ko": "전달됨 표시",
@@ -4511,7 +4511,7 @@
       "zh-HK": "顯示已送達"
     },
     "Show Delivered Events": {
-      "es": "Mostrar eventos enviados",
+      "es": "Mostrar eventos entregados",
       "ja": "配信イベント数を表示",
       "pt": "Mostrar eventos entregues",
       "ko": "전달된 이벤트 표시",
@@ -5071,7 +5071,7 @@
       "zh-HK": "總計"
     },
     "Total Delivered": {
-      "es": "Total enviados",
+      "es": "Total entregados",
       "ja": "合計配信数",
       "pt": "Total entregues",
       "ko": "총 전달됨",
@@ -5852,7 +5852,7 @@
     },
     "Close Delivery menu": {
       "ja": "配信メニューを閉じる",
-      "es": "Cerrar menú de Envío",
+      "es": "Cerrar menú de Entrega",
       "pt": "Fechar menu de Entrega",
       "ko": "전달 메뉴 닫기",
       "fr": "Fermer le menu Livraison",
@@ -7622,7 +7622,7 @@
     },
     "Deliveries by platform": {
       "ja": "プラットフォーム別の配信",
-      "es": "Envíos por plataforma",
+      "es": "Entregas por plataforma",
       "pt": "Entregas por plataforma",
       "ko": "플랫폼별 전달",
       "fr": "Livraisons par plateforme",
@@ -8152,7 +8152,7 @@
     },
     "Delivery Statistics for All Time": {
       "ja": "全期間の配信統計",
-      "es": "Estadísticas de envío de todos los tiempos",
+      "es": "Estadísticas de entrega de todos los tiempos",
       "pt": "Estatísticas de entrega de todo o tempo",
       "ko": "전체 기간의 전달 통계",
       "fr": "Statistiques de livraison depuis le début",

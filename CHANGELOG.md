@@ -7,6 +7,22 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
+## [1.6.6] — 2026-05-15
+
+### Changed
+
+- **Spanish: restore Sent/Delivered distinction.** Italo (Chilean
+  reviewer) retracted his earlier "collapse both to Enviado" call
+  after we surfaced that OneSignal tracks Sent and Delivered as
+  distinct states. Final rule: `Sent` → `Enviado` (we dispatched);
+  `Delivered` → `Entregado` (carrier/device confirmed receipt).
+  Reverts the 1.6.5 status/KPI changes back to the Entrega/Entregado
+  family. Plus one new tidy: the bare `Delivery` source key was
+  `Enviados` pre-1.6.5 too (a pre-existing inconsistency); now
+  `Entregados` for consistency with the rest of the Delivered
+  family. `style/es.md` rewritten with the corrected rule and an
+  explicit note not to reintroduce the collapse.
+
 ## [1.6.5] — 2026-05-12
 
 ### Changed
