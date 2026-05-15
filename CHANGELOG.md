@@ -7,6 +7,41 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
+## [1.6.10] — 2026-05-15
+
+### Changed
+
+- **Traditional Chinese is now location-neutral and recognized by
+  the Chrome Web Store.** The popup picker displays the option as
+  `繁體中文 — Traditional Chinese` (was `繁體中文 (香港) — Traditional
+  Chinese (Hong Kong)`); flag emoji moved from 🇭🇰 to 🇹🇼.
+  `_locales/zh_HK/` renamed to `_locales/zh_TW/` (Chrome's official
+  i18n list recognizes `zh_TW`, not `zh_HK`) so the Web Store
+  package preview now lists Traditional Chinese. Chrome locale
+  negotiation falls through `zh_HK → zh_TW → zh → en`, so HK users
+  still see the localized metadata.
+- **Internal locale code renamed `zh-HK` → `zh-TW` everywhere.**
+  1,825 keys in `languages.json` + 68 in `glossary.json`, plus
+  every code reference (`popup.js`, `background.js`), the style
+  file (`style/zh-HK.md` → `style/zh-TW.md`), and cross-references
+  in `README.md` / `STYLE_GUIDE.md` / `style/tr.md` / `style/zh-CN.md`.
+  The underlying vocabulary stays HK-leaning (per Jessie's review).
+  **Beta testers will need to re-pick Traditional Chinese** — any
+  previously saved `language="zh-HK"` in storage falls back to
+  English silently after this update (no migration shim shipped).
+- **Validator now enforces glossary on Traditional Chinese.**
+  `validate.py`'s `LANGS` list was missing `zh-HK` entirely, so
+  Traditional Chinese had been silently skipped from glossary
+  enforcement since day one. Adding `zh-TW` to `LANGS` surfaced
+  3 pre-existing inconsistencies: the `3./4./5. Delivery Schedule`
+  entries used `發送排程` (send schedule) while the rest of the
+  Delivery family used `送達`. All three corrected to `送達排程`.
+
+### Added
+
+- **`store-listing/zh_TW.md`** — Traditional Chinese Chrome Web
+  Store listing (HK-leaning lexicon, structured to match `zh_CN`).
+
 ## [1.6.9] — 2026-05-15
 
 ### Fixed
