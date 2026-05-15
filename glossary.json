@@ -376,7 +376,7 @@
         "Live Activity"
       ],
       "tr": [
-        "Canlı Aktivite",
+        "Canlı Etkinlik",
         "Live Activity"
       ],
       "zh-CN": [
@@ -402,8 +402,8 @@
         "Live Activities"
       ],
       "tr": [
-        "Canlı Aktiviteler",
-        "Canlı Aktivite",
+        "Canlı Etkinlikler",
+        "Canlı Etkinlik",
         "Live Activities"
       ],
       "zh-CN": [
@@ -1533,7 +1533,11 @@
         "Entregar"
       ],
       "ko": "전달",
-      "note": "es: Two stacked rules from the Chilean reviewer (Italo). (1) KPI/feature labels stay Latin: 'Delivery Rate', 'Intelligent Delivery', 'Delivery time', 'Delivery Schedule'. (2) Status / count / event labels use the 'Entrega/Entregado' family — preserves the Sent (Enviado) vs. Delivered (Entregado) distinction that exists in the product. The verb 'entregar' and body-copy noun 'entrega' translate normally; multiple forms are listed as acceptable here so the validator accepts whichever fits the context. Latin 'Delivery' kept in the alt list so the four locked compounds (Delivery Rate, etc.) still pass the parent check.",
+      "_skip_keys": [
+        "Delivery",
+        "Close Delivery menu"
+      ],
+      "note": "es: Two stacked rules from the Chilean reviewer (Italo). (1) KPI/feature labels stay Latin: 'Delivery Rate', 'Intelligent Delivery', 'Delivery time', 'Delivery Schedule'. (2) Status / count / event labels use the 'Entrega/Entregado' family — preserves the Sent (Enviado) vs. Delivered (Entregado) distinction that exists in the product. The verb 'entregar' and body-copy noun 'entrega' translate normally; multiple forms are listed as acceptable here so the validator accepts whichever fits the context. Latin 'Delivery' kept in the alt list so the four locked compounds (Delivery Rate, etc.) still pass the parent check. tr: bare 'Delivery' (menu item) and 'Close Delivery menu' (its aria-label) are exempted via _skip_keys — Emre (TR reviewer) renamed the menu to 'Bildirim Geçmişi' (Notification History) to describe what the page actually shows.",
       "fr": [
         "Livraison",
         "Livrer",

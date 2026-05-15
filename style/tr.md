@@ -82,6 +82,52 @@
 - `Email` — `E-posta` is the formal Turkish but `Email` is widely
   used in Turkish SaaS tech. Lock as `Email` with `E-posta` alt.
 - `Webhook` stays Latin.
+- `Live Activity` / `Live Activities` → `Canlı Etkinlik` /
+  `Canlı Etkinlikler`. Per Emre (TR reviewer): `Aktivite` reads
+  as a loose/casual term in Turkish; `Etkinlik` is the standard
+  word for a discrete event/activity in product contexts. Latin
+  `Live Activity` / `Live Activities` kept as glossary alts for
+  Apple's compound names (`Live Activities Push-to-Start` etc.).
+
+## Nav-bar labels: describe the page, not the source noun
+
+Same principle as zh-HK: menu items should read for what users will
+see, not as a literal translation of the English source. Per Emre:
+
+| Source     | Use (tr)              | Don't use   |
+| ---------- | --------------------- | ----------- |
+| `Dashboard`| `Kontrol Paneli`      | `Pano`      |
+| `Delivery` | `Bildirim Geçmişi`    | `Teslimat`  |
+
+`Bildirim Geçmişi` ("Notification History") describes what the
+Delivery page actually shows. The bare `Delivery` source key is in
+the glossary's `_skip_keys` so the validator allows the override;
+other source keys containing "Delivery" (`Delivery Rate`,
+`Intelligent Delivery`, `Delivery time`, `Delivery Schedule`,
+`Message Event Delivery`, `Delivery Statistics for All Time`) still
+use the `teslim` / `Gönderim` family. The `Close Delivery menu`
+aria-label moves with the menu name to keep screen-reader text in
+sync.
+
+## Action-describing button labels
+
+For "Set up X" buttons that anchor a multi-step onboarding flow,
+prefer Turkish verbs that describe the resulting action rather than
+the generic English "Set up". Per Emre:
+
+- `Set Up Push` → `Push Bildirim Oluştur` ("Create push
+  notification"), not `Push'u kur` (literal "set up Push").
+
+Other `Set up X` strings in the dictionary still use `Configure`/
+`Kur` patterns and aren't affected — change them only if a reviewer
+flags the same readability issue.
+
+## Identifier vocabulary
+
+- `Keys & IDs` → `Anahtarlar ve Kimlik Bilgileri` (not
+  `Anahtarlar ve ID'ler`). `Kimlik Bilgileri` ("credential info")
+  reads more naturally in Turkish than the borrowed apostrophe-form
+  `ID'ler`.
 
 ## Length
 
