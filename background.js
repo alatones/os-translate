@@ -80,24 +80,63 @@ function buildFormUrl({ language, selected }) {
   return `${FEEDBACK_FORM_URL}?${params.toString()}`;
 }
 
-async function recreateMenu() {
+// recreateMenu() can fire from three triggers (onInstalled, onStartup,
+// storage.onChanged) plus user-driven language changes. If two fire close
+// together — or a service-worker termination interleaves a pending
+// removeAll → create dance — the second create() can land while an item
+// with our id still exists, producing "Cannot create item with duplicate
+// id suggest-translation" in chrome://extensions. Serialize through a
+// Promise chain so only one menu op runs at a time, acknowledge any
+// lastError in the create callback (otherwise Chrome flags it as
+// "Unchecked"), and fall back to contextMenus.update() on the unlikely
+// duplicate-id case so the title still reflects the current language.
+let menuOpQueue = Promise.resolve();
+
+function recreateMenu() {
+  menuOpQueue = menuOpQueue
+    .then(doRecreateMenu)
+    .catch((err) => {
+      // Swallow so a single failure doesn't poison the queue for future calls.
+      console.debug("[OS Translate] recreateMenu failed:", err);
+    });
+  return menuOpQueue;
+}
+
+async function doRecreateMenu() {
   // Read current language fresh so the menu title reflects whatever
-  // the popup last saved. Called on install/startup AND whenever the
-  // language storage key changes.
+  // the popup last saved.
   const { language = DEFAULT_LANG } = await chrome.storage.sync.get({ language: DEFAULT_LANG });
   const title = MENU_TITLES[language] || MENU_TITLES.en;
-  return new Promise((resolve) => {
+  await new Promise((resolve) => {
     chrome.contextMenus.removeAll(() => {
-      chrome.contextMenus.create(
-        {
-          id: MENU_ID,
-          title,
-          contexts: ["selection"],
-          documentUrlPatterns: ["https://dashboard.onesignal.com/*"],
-        },
-        resolve,
-      );
+      // Acknowledge any lastError so it isn't logged as "Unchecked".
+      void chrome.runtime.lastError;
+      resolve();
     });
+  });
+  await new Promise((resolve) => {
+    chrome.contextMenus.create(
+      {
+        id: MENU_ID,
+        title,
+        contexts: ["selection"],
+        documentUrlPatterns: ["https://dashboard.onesignal.com/*"],
+      },
+      () => {
+        const err = chrome.runtime.lastError;
+        if (err && /duplicate id/i.test(err.message || "")) {
+          // Item already exists from a previous create that survived a
+          // race — just update its title in place.
+          chrome.contextMenus.update(MENU_ID, { title }, () => {
+            void chrome.runtime.lastError;
+            resolve();
+          });
+          return;
+        }
+        if (err) console.debug("[OS Translate] menu create:", err.message);
+        resolve();
+      },
+    );
   });
 }
 
