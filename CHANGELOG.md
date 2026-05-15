@@ -7,6 +7,17 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
+## [1.6.11] — 2026-05-15
+
+### Changed
+
+- **`FORM_LANG_LABEL["zh-TW"]` → `"Traditional Chinese"`** (was
+  `"Traditional Chinese (HK)"`). Aligns with the location-neutral
+  labeling from 1.6.10. Note: the Google feedback form currently
+  has no Traditional Chinese option at all, so pre-fill is a no-op
+  either way. Once a `Traditional Chinese` option is added to the
+  form, this label will pre-fill the language field as expected.
+
 ## [1.6.10] — 2026-05-15
 
 ### Changed

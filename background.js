@@ -27,7 +27,7 @@ const FORM_LANG_LABEL = {
   es: "Spanish",
   pt: "Portuguese (BR)",
   "zh-CN": "Simplified Chinese",
-  "zh-TW": "Traditional Chinese (HK)",
+  "zh-TW": "Traditional Chinese",
   ja: "Japanese",
   tr: "Turkish",
   ko: "Korean",
