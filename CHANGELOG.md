@@ -7,6 +7,22 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
+## [1.6.9] — 2026-05-15
+
+### Fixed
+
+- **Eliminate "Cannot create item with duplicate id suggest-translation"
+  error.** Three triggers (`onInstalled`, `onStartup`, language change)
+  all called `recreateMenu()`; concurrent fires could land a `create()`
+  while a previous menu item was still present, and the `create`
+  callback never read `chrome.runtime.lastError`, so Chrome flagged it
+  as Unchecked in DevTools. Fix: serialize menu operations through a
+  Promise chain (only one runs at a time), acknowledge `lastError`
+  inside the callbacks, and fall back to `contextMenus.update()` on
+  the unlikely surviving duplicate so the menu title still reflects
+  the current language. No user-visible change to the right-click
+  menu itself — just clean console output.
+
 ## [1.6.8] — 2026-05-15
 
 ### Changed
