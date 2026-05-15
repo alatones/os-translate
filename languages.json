@@ -17239,6 +17239,36 @@
       "tr": "URL, aşağıdaki gibi Liquid sözdizimini destekler:",
       "zh-CN": "URL 支持 Liquid 语法，例如",
       "zh-HK": "URL 支援 Liquid 語法，例如"
+    },
+    "Connect OneSignal to your AI tools": {
+      "ja": "OneSignalをAIツールに接続",
+      "es": "Conecta OneSignal con tus herramientas de IA",
+      "pt": "Conecte o OneSignal às suas ferramentas de IA",
+      "ko": "OneSignal을 AI 도구에 연결",
+      "fr": "Connectez OneSignal à vos outils IA",
+      "tr": "OneSignal'i yapay zeka araçlarınıza bağlayın",
+      "zh-CN": "将 OneSignal 连接到您的 AI 工具",
+      "zh-HK": "將 OneSignal 連接至您的 AI 工具"
+    },
+    "Set up MCP": {
+      "ja": "MCPをセットアップ",
+      "es": "Configurar MCP",
+      "pt": "Configurar MCP",
+      "ko": "MCP 설정",
+      "fr": "Configurer MCP",
+      "tr": "MCP'yi kur",
+      "zh-CN": "设置 MCP",
+      "zh-HK": "設定 MCP"
+    },
+    "Use our MCP to connect OneSignal with ChatGPT, Claude, Codex, Cursor, and other AI apps. Send messages, manage users, and analyze metrics from the tools your team already works in.": {
+      "ja": "MCPを使ってOneSignalをChatGPT、Claude、Codex、Cursor、その他のAIアプリと接続できます。チームが普段使っているツールから、メッセージの送信、ユーザーの管理、メトリクスの分析が行えます。",
+      "es": "Usa nuestro MCP para conectar OneSignal con ChatGPT, Claude, Codex, Cursor y otras apps de IA. Envía mensajes, administra usuarios y analiza métricas desde las herramientas que tu equipo ya usa.",
+      "pt": "Use nosso MCP para conectar o OneSignal com ChatGPT, Claude, Codex, Cursor e outros apps de IA. Envie mensagens, gerencie usuários e analise métricas a partir das ferramentas que sua equipe já usa.",
+      "ko": "MCP를 사용하여 OneSignal을 ChatGPT, Claude, Codex, Cursor 및 기타 AI 앱과 연결하세요. 팀이 이미 사용 중인 도구에서 메시지 전송, 사용자 관리, 지표 분석을 수행할 수 있습니다.",
+      "fr": "Utilisez notre MCP pour connecter OneSignal à ChatGPT, Claude, Codex, Cursor et d'autres apps IA. Envoyez des messages, gérez les utilisateurs et analysez les métriques depuis les outils que votre équipe utilise déjà.",
+      "tr": "OneSignal'i ChatGPT, Claude, Codex, Cursor ve diğer yapay zeka uygulamalarına bağlamak için MCP'mizi kullanın. Ekibinizin zaten kullandığı araçlardan mesaj gönderin, kullanıcıları yönetin ve metrikleri analiz edin.",
+      "zh-CN": "使用我们的 MCP 将 OneSignal 与 ChatGPT、Claude、Codex、Cursor 及其他 AI 应用连接。从您团队已在使用的工具中发送消息、管理用户、分析指标。",
+      "zh-HK": "使用我們的 MCP 將 OneSignal 與 ChatGPT、Claude、Codex、Cursor 及其他 AI 應用連接。從您團隊已在使用的工具中發送訊息、管理用戶、分析指標。"
     }
   },
   "patterns": [

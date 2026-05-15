@@ -7,6 +7,17 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
+## [1.6.7] — 2026-05-15
+
+### Added
+
+- **MCP onboarding card translated.** Three new source keys covering
+  the "Connect OneSignal to your AI tools" promo card surfaced on
+  `/apps/:id`: the heading, the `Set up MCP` button, and the body
+  copy that lists ChatGPT/Claude/Codex/Cursor. Translations for all
+  seven supported languages plus zh-HK, modeled on the existing
+  `Manage OneSignal with AI tools` family for consistency.
+
 ## [1.6.6] — 2026-05-15
 
 ### Changed
