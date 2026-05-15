@@ -3,7 +3,7 @@
 ## Variant
 
 - **Simplified Chinese, Mainland convention** (zh-CN /
-  简体中文 / 大陆). Not Traditional Chinese (zh-TW, zh-HK) which uses
+  简体中文 / 大陆). Not Traditional Chinese (zh-TW) which uses
   different characters and a different lexicon.
 - The dashboard targets marketers in Mainland China and Simplified-
   reading users in Singapore/Malaysia. Don't use Taiwan/HK lexicon

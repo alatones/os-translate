@@ -42,7 +42,7 @@ Twilio Segment the company), Outcome / Outcomes, Subscription, Data Feed.
 How aggressively to translate depends on what's natural in the target
 language:
 
-- **East Asian (ja, ko, zh-CN, zh-HK)**: translate to native script
+- **East Asian (ja, ko, zh-CN, zh-TW)**: translate to native script
   (e.g. Push → 推送 / 推送 / プッシュ / 푸시).
 - **European (es, pt, fr, tr)**: many of these terms — "Push", "Email",
   "SMS", "RCS" — are used in Latin form by marketers natively in those

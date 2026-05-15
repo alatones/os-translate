@@ -30,7 +30,7 @@
         "旅程",
         "Journey"
       ],
-      "zh-HK": [
+      "zh-TW": [
         "旅程",
         "Journey"
       ]
@@ -63,7 +63,7 @@
         "Journeys",
         "Journey"
       ],
-      "zh-HK": [
+      "zh-TW": [
         "旅程",
         "Journeys",
         "Journey"
@@ -87,7 +87,7 @@
         "分群",
         "Segment"
       ],
-      "zh-HK": [
+      "zh-TW": [
         "用戶分群",
         "分群",
         "Segment"
@@ -109,7 +109,7 @@
         "Segments",
         "Segment"
       ],
-      "zh-HK": [
+      "zh-TW": [
         "用戶分群",
         "分群",
         "Segments",
@@ -138,7 +138,7 @@
         "aboneli"
       ],
       "zh-CN": "订阅",
-      "zh-HK": "訂閱"
+      "zh-TW": "訂閱"
     },
     "Subscriptions": {
       "ja": "購読",
@@ -160,7 +160,7 @@
         "Abonelik"
       ],
       "zh-CN": "订阅",
-      "zh-HK": "訂閱"
+      "zh-TW": "訂閱"
     },
     "Subscriber": {
       "ja": "購読者",
@@ -173,7 +173,7 @@
         "订阅者",
         "用户"
       ],
-      "zh-HK": [
+      "zh-TW": [
         "訂閱者",
         "用戶"
       ]
@@ -192,7 +192,7 @@
         "订阅者",
         "用户"
       ],
-      "zh-HK": [
+      "zh-TW": [
         "訂閱者",
         "用戶"
       ]
@@ -212,7 +212,7 @@
         "结果",
         "成果"
       ],
-      "zh-HK": [
+      "zh-TW": [
         "結果",
         "成果"
       ]
@@ -234,7 +234,7 @@
         "结果",
         "成果"
       ],
-      "zh-HK": [
+      "zh-TW": [
         "結果",
         "成果"
       ]
@@ -273,7 +273,7 @@
         "应用内",
         "In-App"
       ],
-      "zh-HK": [
+      "zh-TW": [
         "應用內",
         "In-App"
       ]
@@ -291,7 +291,7 @@
       ],
       "note": "Push-to-Start / Push-to-Update are Apple compound terms (proper-noun-like) — kept Latin in all langs and exempted from the Push lock.",
       "zh-CN": "推送",
-      "zh-HK": "推送"
+      "zh-TW": "推送"
     },
     "Email": {
       "ja": "メール",
@@ -324,7 +324,7 @@
         "邮件",
         "Email"
       ],
-      "zh-HK": [
+      "zh-TW": [
         "電郵",
         "電子郵件",
         "Email"
@@ -341,7 +341,7 @@
         "短信",
         "SMS"
       ],
-      "zh-HK": [
+      "zh-TW": [
         "短訊",
         "SMS"
       ]
@@ -357,7 +357,7 @@
         "富媒体短信",
         "RCS"
       ],
-      "zh-HK": [
+      "zh-TW": [
         "富媒體短訊",
         "RCS"
       ]
@@ -383,7 +383,7 @@
         "实时活动",
         "Live Activity"
       ],
-      "zh-HK": [
+      "zh-TW": [
         "即時動態",
         "即時活動",
         "Live Activity"
@@ -410,7 +410,7 @@
         "实时活动",
         "Live Activities"
       ],
-      "zh-HK": [
+      "zh-TW": [
         "即時動態",
         "即時活動",
         "Live Activities"
@@ -432,12 +432,12 @@
         "Veri Akışı",
         "Data Feed"
       ],
-      "note": "zh-HK: per Jessie Koh (HK reviewer), '資料串流' (data stream) is the natural term — '資料來源' (data source) read as a generic descriptor, not the product feature.",
+      "note": "zh-TW: per Jessie Koh (HK reviewer), '資料串流' (data stream) is the natural term — '資料來源' (data source) read as a generic descriptor, not the product feature.",
       "zh-CN": [
         "数据源",
         "Data Feed"
       ],
-      "zh-HK": [
+      "zh-TW": [
         "資料串流",
         "Data Feed"
       ]
@@ -464,7 +464,7 @@
         "Data Feeds",
         "Data Feed"
       ],
-      "zh-HK": [
+      "zh-TW": [
         "資料串流",
         "Data Feeds",
         "Data Feed"
@@ -479,7 +479,7 @@
       "fr": "Webhook",
       "tr": "Webhook",
       "zh-CN": "Webhook",
-      "zh-HK": "Webhook"
+      "zh-TW": "Webhook"
     },
     "Webhooks": {
       "ja": "Webhook",
@@ -492,7 +492,7 @@
         "Webhook"
       ],
       "zh-CN": "Webhook",
-      "zh-HK": "Webhook"
+      "zh-TW": "Webhook"
     },
     "Template": {
       "ja": "テンプレート",
@@ -502,7 +502,7 @@
       "fr": "Modèle",
       "tr": "Şablon",
       "zh-CN": "模板",
-      "zh-HK": "範本"
+      "zh-TW": "範本"
     },
     "Templates": {
       "ja": "テンプレート",
@@ -515,7 +515,7 @@
         "Şablon"
       ],
       "zh-CN": "模板",
-      "zh-HK": "範本"
+      "zh-TW": "範本"
     },
     "Audience": {
       "ja": "オーディエンス",
@@ -534,7 +534,7 @@
         "kitle"
       ],
       "zh-CN": "受众",
-      "zh-HK": "受眾"
+      "zh-TW": "受眾"
     },
     "Campaign": {
       "ja": "キャンペーン",
@@ -547,7 +547,7 @@
         "营销活动",
         "活动"
       ],
-      "zh-HK": [
+      "zh-TW": [
         "營銷活動",
         "活動"
       ]
@@ -567,7 +567,7 @@
         "etiket"
       ],
       "zh-CN": "标签",
-      "zh-HK": "標籤"
+      "zh-TW": "標籤"
     },
     "Tags": {
       "ja": "タグ",
@@ -583,7 +583,7 @@
         "Etiket"
       ],
       "zh-CN": "标签",
-      "zh-HK": "標籤"
+      "zh-TW": "標籤"
     },
     "Data Tag": {
       "ja": "データタグ",
@@ -605,7 +605,7 @@
         "Veri Etiketi"
       ],
       "zh-CN": "数据标签",
-      "zh-HK": "資料標籤"
+      "zh-TW": "資料標籤"
     },
     "Data Tags": {
       "ja": "データタグ",
@@ -627,7 +627,7 @@
         "Veri Etiketleri"
       ],
       "zh-CN": "数据标签",
-      "zh-HK": "資料標籤"
+      "zh-TW": "資料標籤"
     },
     "Notification": {
       "ja": "通知",
@@ -646,7 +646,7 @@
       ],
       "tr": "Bildirim",
       "zh-CN": "通知",
-      "zh-HK": "通知"
+      "zh-TW": "通知"
     },
     "Notifications": {
       "ja": "通知",
@@ -659,7 +659,7 @@
         "Bildirim"
       ],
       "zh-CN": "通知",
-      "zh-HK": "通知"
+      "zh-TW": "通知"
     },
     "Save": {
       "ja": "保存",
@@ -686,7 +686,7 @@
         "kaydedil"
       ],
       "zh-CN": "保存",
-      "zh-HK": "儲存"
+      "zh-TW": "儲存"
     },
     "Send": {
       "ja": "送信",
@@ -730,7 +730,7 @@
         "gönderim"
       ],
       "zh-CN": "发送",
-      "zh-HK": "發送"
+      "zh-TW": "發送"
     },
     "Sent": {
       "ja": [
@@ -770,7 +770,7 @@
         "已发送",
         "发送"
       ],
-      "zh-HK": [
+      "zh-TW": [
         "已發送",
         "發送"
       ]
@@ -807,7 +807,7 @@
         "Press enter or space to select a node. You can then use the arrow keys to move the node around. Press delete to remove it and escape to cancel.",
         "Press enter or space to select an edge. You can then press delete to remove it or escape to cancel."
       ],
-      "zh-HK": "刪除"
+      "zh-TW": "刪除"
     },
     "Edit": {
       "ja": "編集",
@@ -836,7 +836,7 @@
         "Düzenleme"
       ],
       "zh-CN": "编辑",
-      "zh-HK": "編輯"
+      "zh-TW": "編輯"
     },
     "Cancel": {
       "ja": "キャンセル",
@@ -860,7 +860,7 @@
         "iptal"
       ],
       "zh-CN": "取消",
-      "zh-HK": "取消"
+      "zh-TW": "取消"
     },
     "Confirm": {
       "ja": "確認",
@@ -892,7 +892,7 @@
         "确认",
         "确定"
       ],
-      "zh-HK": [
+      "zh-TW": [
         "確認",
         "確定"
       ]
@@ -929,7 +929,7 @@
         "Oluşturma"
       ],
       "zh-CN": "创建",
-      "zh-HK": "建立"
+      "zh-TW": "建立"
     },
     "Add": {
       "ja": "追加",
@@ -958,7 +958,7 @@
       "_skip_keys": [
         "To manage what days and times this message sends at, add a"
       ],
-      "zh-HK": "新增"
+      "zh-TW": "新增"
     },
     "Remove": {
       "ja": "削除",
@@ -988,7 +988,7 @@
         "Press enter or space to select a node. You can then use the arrow keys to move the node around. Press delete to remove it and escape to cancel.",
         "Press enter or space to select an edge. You can then press delete to remove it or escape to cancel."
       ],
-      "zh-HK": [
+      "zh-TW": [
         "移除",
         "刪除"
       ]
@@ -1023,7 +1023,7 @@
         "Güncelleme"
       ],
       "zh-CN": "更新",
-      "zh-HK": "更新"
+      "zh-TW": "更新"
     },
     "Import": {
       "ja": "インポート",
@@ -1055,7 +1055,7 @@
         "içe aktar"
       ],
       "zh-CN": "导入",
-      "zh-HK": "匯入"
+      "zh-TW": "匯入"
     },
     "Export": {
       "ja": [
@@ -1089,7 +1089,7 @@
         "Dışa aktarma"
       ],
       "zh-CN": "导出",
-      "zh-HK": "匯出"
+      "zh-TW": "匯出"
     },
     "Settings": {
       "ja": "設定",
@@ -1112,7 +1112,7 @@
         "Ayar"
       ],
       "zh-CN": "设置",
-      "zh-HK": "設定"
+      "zh-TW": "設定"
     },
     "Search": {
       "ja": "検索",
@@ -1137,7 +1137,7 @@
         "Arayın"
       ],
       "zh-CN": "搜索",
-      "zh-HK": "搜尋"
+      "zh-TW": "搜尋"
     },
     "Filter": {
       "ja": [
@@ -1170,7 +1170,7 @@
         "筛选器",
         "筛选条件"
       ],
-      "zh-HK": [
+      "zh-TW": [
         "篩選",
         "篩選器",
         "篩選條件"
@@ -1206,7 +1206,7 @@
         "筛选器",
         "筛选条件"
       ],
-      "zh-HK": [
+      "zh-TW": [
         "篩選",
         "篩選器",
         "篩選條件"
@@ -1252,7 +1252,7 @@
         "已激活",
         "激活"
       ],
-      "zh-HK": [
+      "zh-TW": [
         "活躍",
         "已啟用",
         "啟用"
@@ -1285,7 +1285,7 @@
         "İnaktif"
       ],
       "zh-CN": "不活跃",
-      "zh-HK": "不活躍"
+      "zh-TW": "不活躍"
     },
     "Disabled": {
       "ja": "無効",
@@ -1320,7 +1320,7 @@
         "已禁用",
         "禁用"
       ],
-      "zh-HK": [
+      "zh-TW": [
         "已停用",
         "停用"
       ]
@@ -1355,7 +1355,7 @@
         "已暂停",
         "暂停"
       ],
-      "zh-HK": [
+      "zh-TW": [
         "已暫停",
         "暫停"
       ]
@@ -1394,7 +1394,7 @@
         "失败",
         "已失败"
       ],
-      "zh-HK": [
+      "zh-TW": [
         "失敗",
         "已失敗"
       ]
@@ -1407,7 +1407,7 @@
       "fr": "Brouillon",
       "tr": "Taslak",
       "zh-CN": "草稿",
-      "zh-HK": "草稿"
+      "zh-TW": "草稿"
     },
     "Archived": {
       "ja": "アーカイブ済み",
@@ -1428,7 +1428,7 @@
         "已归档",
         "归档"
       ],
-      "zh-HK": [
+      "zh-TW": [
         "已封存",
         "封存"
       ]
@@ -1462,7 +1462,7 @@
         "已完成",
         "完成"
       ],
-      "zh-HK": [
+      "zh-TW": [
         "已完成",
         "完成"
       ]
@@ -1514,7 +1514,7 @@
         "已送达",
         "送达"
       ],
-      "zh-HK": [
+      "zh-TW": [
         "已送達",
         "送達"
       ]
@@ -1555,7 +1555,7 @@
         "送达",
         "发送"
       ],
-      "zh-HK": [
+      "zh-TW": [
         "送達",
         "傳送"
       ]
@@ -1572,7 +1572,7 @@
         "Teslimat oranı"
       ],
       "zh-CN": "送达率",
-      "zh-HK": "送達率"
+      "zh-TW": "送達率"
     },
     "Intelligent Delivery": {
       "es": "Intelligent Delivery",
@@ -1594,7 +1594,7 @@
       "fr": "Taux de clics",
       "tr": "Tıklama oranı",
       "zh-CN": "点击率",
-      "zh-HK": "點擊率"
+      "zh-TW": "點擊率"
     },
     "CTR": {
       "ja": [
@@ -1619,7 +1619,7 @@
         "点击率",
         "CTR"
       ],
-      "zh-HK": [
+      "zh-TW": [
         "點擊率",
         "CTR"
       ],
@@ -1633,7 +1633,7 @@
       "fr": "Taux d'ouverture",
       "tr": "Açılma oranı",
       "zh-CN": "打开率",
-      "zh-HK": "開啟率"
+      "zh-TW": "開啟率"
     },
     "Conversion": {
       "ja": "コンバージョン",
@@ -1655,7 +1655,7 @@
         "dönüşüm"
       ],
       "zh-CN": "转化",
-      "zh-HK": "轉換"
+      "zh-TW": "轉換"
     },
     "Recipients": {
       "ja": [
@@ -1681,7 +1681,7 @@
         "alıcı"
       ],
       "zh-CN": "收件人",
-      "zh-HK": "收件人"
+      "zh-TW": "收件人"
     },
     "Sender": {
       "ja": [
@@ -1706,7 +1706,7 @@
         "gönderen"
       ],
       "zh-CN": "发件人",
-      "zh-HK": "發件人"
+      "zh-TW": "發件人"
     },
     "Senders": {
       "ja": [
@@ -1731,7 +1731,7 @@
         "Gönderen"
       ],
       "zh-CN": "发件人",
-      "zh-HK": "發件人"
+      "zh-TW": "發件人"
     },
     "App": {
       "ja": "アプリ",
@@ -1758,7 +1758,7 @@
         "应用",
         "App"
       ],
-      "zh-HK": [
+      "zh-TW": [
         "應用",
         "App"
       ]
@@ -1788,7 +1788,7 @@
         "应用",
         "App"
       ],
-      "zh-HK": [
+      "zh-TW": [
         "應用",
         "App"
       ]
