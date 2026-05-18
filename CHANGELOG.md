@@ -7,6 +7,20 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
+## [1.6.12] — 2026-05-18
+
+### Fixed
+
+- **Chrome Web Store "Red Titanium" rejection — remove base64
+  obfuscation of `LEDGER_ENDPOINT`.** The ledger endpoint URL was
+  stored as a base64 string decoded via `atob()` at load time. The
+  original author's comment was candid: "This is obfuscation, not
+  encryption — the value is recoverable by anyone with source
+  access." Chrome's policy reviewer flagged it as a violation of
+  the "Developers must not obfuscate code or conceal functionality"
+  rule. URL now lives as a plain string. Abuse prevention still
+  rides on `LEDGER_TOKEN` checked server-side by the Apps Script.
+
 ## [1.6.11] — 2026-05-15
 
 ### Changed
