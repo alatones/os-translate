@@ -35,16 +35,13 @@ const FORM_LANG_LABEL = {
 };
 
 // Google Apps Script Web App URL that receives the daily ledger batch.
-// Stored as base64 to avoid a plaintext string in the packaged extension.
-// This is obfuscation, not encryption — the value is recoverable by
-// anyone with source access. For abuse prevention, LEDGER_TOKEN is sent
-// in the POST body; add a matching check in your Apps Script doPost().
-// Empty string = no network activity (ledger stays local).
-const LEDGER_ENDPOINT = atob(
-  "aHR0cHM6Ly9zY3JpcHQuZ29vZ2xlLmNvbS9tYWNyb3Mvcy9BS2Z5Y2J3OGlTa2V5MzdmSy" +
-  "1XQXN6T1o5OV81MmRKdUFiZEUxMUpidUUteE9MVm9kMnZnSFF4RWdWcGhEV3Y3SnlRaGZt" +
-  "QW5zQS9leGVj"
-);
+// Plain string — Chrome Web Store policy prohibits obfuscation
+// (Red Titanium violation). For abuse prevention, LEDGER_TOKEN is
+// sent in the POST body; the Apps Script doPost() checks it and
+// rejects requests without a matching token. Empty string = no
+// network activity (ledger stays local).
+const LEDGER_ENDPOINT =
+  "https://script.google.com/macros/s/AKfycbw8iSkey37fK-WAszOZ99_52dJuAbdE11JbuE-xOLVod2vgHQxEgVphDWv7JyQhfmAnsA/exec";
 // Shared secret sent with every ledger POST. Apps Script checks this and
 // rejects requests without it. Rotate here + in your Apps Script if leaked.
 const LEDGER_TOKEN = "dff44052ef228c28c3051b5749a65de51d1997ce";
