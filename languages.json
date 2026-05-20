@@ -1771,7 +1771,7 @@
       "zh-TW": "事件名稱"
     },
     "Event Stream": {
-      "es": "Custom Event",
+      "es": "Event Stream",
       "ja": "イベントストリーム",
       "pt": "Fluxo de eventos",
       "ko": "이벤트 스트림",
@@ -1781,7 +1781,7 @@
       "zh-TW": "事件流"
     },
     "Event Streams": {
-      "es": "Custom Events",
+      "es": "Event Streams",
       "ja": "イベントストリーム",
       "pt": "Fluxos de eventos",
       "ko": "이벤트 스트림",
@@ -2991,7 +2991,7 @@
       "zh-TW": "新電郵"
     },
     "New Event Stream": {
-      "es": "Nuevo flujo de eventos",
+      "es": "Nuevo Event Stream",
       "ja": "新規イベントストリーム",
       "pt": "Novo fluxo de eventos",
       "ko": "새 이벤트 스트림",

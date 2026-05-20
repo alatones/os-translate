@@ -149,6 +149,73 @@ def check_curly_quotes(langs_data):
     return violations
 
 
+def check_cross_contamination(langs_data):
+    """Catches copy-paste errors where a translation value was accidentally
+    pulled from a different source key. Concretely: for every non-English
+    translation value, if it case-insensitively equals some *other*
+    source key in the dictionary, flag it. Equal-to-own-source matches are
+    skipped (that's the existing 'untranslated' informational check).
+
+    Example caught: source 'Event Streams' had es value 'Custom Events',
+    where 'Custom Events' is itself a separate source key. The intent was
+    almost certainly to type 'Event Streams' (Latin, matching the Italo
+    pattern for product feature names), and the wrong English label was
+    pasted in.
+
+    False positives are possible when two distinct source keys legitimately
+    share a Latin target (e.g. two surfaces of the same feature). If one
+    surfaces, add (source_key, target_value) to SKIP_PAIRS below.
+    """
+    # Legitimate cross-matches that aren't bugs. Pairs are (source_key,
+    # target_value); language-agnostic since a single linguistic reality
+    # usually covers every affected language.
+    SKIP_PAIRS = {
+        # Languages that don't pluralize English loan acronyms / words.
+        ("SDKs", "SDK"),
+        ("Webhooks", "Webhook"),
+        ("Aliases", "Alias"),
+        # Coincidental word collisions (target is the correct native form
+        # but happens to also be an English source key for something else).
+        ("Date", "Data"),       # pt: 'Data' = Portuguese for date; also EN feature noun
+        ("Tue", "Mar"),         # es/fr: 'Mar' = Tuesday abbrev; also EN March abbrev
+        # Turkish doesn't carry the English 'is X' copula structure.
+        ("is True", "True"),
+        ("is False", "False"),
+        ("is true", "true"),
+    }
+    violations = []
+    translations = langs_data["translations"]
+    # Case-insensitive lookup: lowered -> original. Picks the first source
+    # key for each lowercase form (the conflict message uses this).
+    source_keys_lower = {}
+    for key in translations:
+        source_keys_lower.setdefault(key.lower(), key)
+    for english_key, target in translations.items():
+        own_lower = english_key.lower()
+        for lang in LANGS:
+            value = target.get(lang)
+            if not isinstance(value, str) or not value:
+                continue
+            value_lower = value.lower()
+            if value_lower == own_lower:
+                continue  # handled by check_untranslated
+            other = source_keys_lower.get(value_lower)
+            if other is None or other == english_key:
+                continue
+            if (english_key, value) in SKIP_PAIRS:
+                continue
+            violations.append(
+                {
+                    "check": "cross_contamination",
+                    "lang": lang,
+                    "source_key": english_key,
+                    "value": value,
+                    "conflict": other,
+                }
+            )
+    return violations
+
+
 def check_untranslated(langs_data):
     flags = []
     for english_key, target in langs_data["translations"].items():
@@ -190,6 +257,11 @@ def format_violation(v):
         )
     if v["check"] == "untranslated":
         return f"  untranslated  {v['lang']}  '{v['source_key']}'"
+    if v["check"] == "cross_contamination":
+        return (
+            f"  cross_contamination  {v['lang']}  '{v['source_key']}': "
+            f"value '{v['value']}' equals another source key '{v['conflict']}'"
+        )
     return repr(v)
 
 
@@ -212,6 +284,7 @@ def main():
     blocking += check_glossary_enforcement(langs_data, glossary_data)
     blocking += check_patterns(langs_data)
     blocking += check_curly_quotes(langs_data)
+    blocking += check_cross_contamination(langs_data)
 
     untranslated = check_untranslated(langs_data)
 

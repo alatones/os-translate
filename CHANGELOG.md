@@ -7,6 +7,34 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
+## [1.6.13] — 2026-05-20
+
+### Fixed
+
+- **Spanish: `Event Stream` and `Event Streams` no longer mis-translate
+  to `Custom Event` / `Custom Events`.** Two cross-contaminated copy-
+  paste errors where the wrong English source key was pasted as the
+  Spanish value. Both now read `Event Stream` / `Event Streams` per
+  the Italo Latin-product-feature-name pattern (Journey, Live
+  Activity, Custom Events, Data Feed, Delivery Rate, etc.). Also
+  aligned `New Event Stream` from `Nuevo flujo de eventos` to
+  `Nuevo Event Stream` for family consistency.
+
+### Added
+
+- **`cross_contamination` validator check.** For every non-English
+  translation value, if it case-insensitively equals some *other*
+  source key, flag it. Catches exactly the kind of copy-paste error
+  that produced the Event Stream bug. Initial sweep surfaced 8
+  legitimate cross-matches (plural-less loan acronyms, coincidental
+  word collisions, Turkish copula structure); those are explicitly
+  documented in `SKIP_PAIRS` so future maintainers see the
+  rationale.
+- **Glossary locks for `Custom Event`, `Custom Events`, `Event Stream`,
+  `Event Streams`** — each with `es: <Latin form>` so Italo's
+  Latin-for-product-feature-names rule is enforced by the validator
+  rather than relying on convention.
+
 ## [1.6.12] — 2026-05-18
 
 ### Fixed

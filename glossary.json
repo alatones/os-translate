@@ -1792,6 +1792,22 @@
         "應用",
         "App"
       ]
+    },
+    "Custom Event": {
+      "es": "Custom Event",
+      "note": "es: Stays Latin per Italo (Chilean reviewer). OneSignal product feature; Spanish marketers reach for the English form by default — same pattern as Journey, Live Activity, Data Feed, Delivery Rate, Intelligent Delivery."
+    },
+    "Custom Events": {
+      "es": "Custom Events",
+      "note": "es: See 'Custom Event'. Plural form locked separately because the glossary's word-boundary match keeps singular/plural patterns independent."
+    },
+    "Event Stream": {
+      "es": "Event Stream",
+      "note": "es: Stays Latin per Italo (Chilean reviewer). OneSignal product feature — same pattern as Custom Events / Data Feed / etc."
+    },
+    "Event Streams": {
+      "es": "Event Streams",
+      "note": "es: See 'Event Stream'. Plural form locked separately."
     }
   }
 }
