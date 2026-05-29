@@ -17299,6 +17299,106 @@
       "tr": "Bildirim Geçmişi menüsünü aç",
       "zh-CN": "打开送达菜单",
       "zh-TW": "開啟送達選單"
+    },
+    "Upgrade": {
+      "ja": "アップグレード",
+      "es": "Actualizar",
+      "pt": "Atualizar",
+      "ko": "업그레이드",
+      "fr": "Mettre à niveau",
+      "tr": "Yükselt",
+      "zh-CN": "升级",
+      "zh-TW": "升級"
+    },
+    "Apps": {
+      "ja": "アプリ",
+      "es": "Apps",
+      "pt": "Apps",
+      "ko": "앱",
+      "fr": "Apps",
+      "tr": "Uygulamalar",
+      "zh-CN": "应用",
+      "zh-TW": "應用"
+    },
+    "Outcomes": {
+      "ja": "アウトカム",
+      "es": "Resultados",
+      "pt": "Resultados",
+      "ko": "결과",
+      "fr": "Résultats",
+      "tr": "Sonuçlar",
+      "zh-CN": "结果",
+      "zh-TW": "結果"
+    },
+    "Engagement": {
+      "ja": "エンゲージメント",
+      "es": "Engagement",
+      "pt": "Engagement",
+      "ko": "참여",
+      "fr": "Engagement",
+      "tr": "Etkileşim",
+      "zh-CN": "互动",
+      "zh-TW": "互動"
+    },
+    "Lifecycle": {
+      "ja": "ライフサイクル",
+      "es": "Ciclo de vida",
+      "pt": "Ciclo de vida",
+      "ko": "라이프사이클",
+      "fr": "Cycle de vie",
+      "tr": "Yaşam döngüsü",
+      "zh-CN": "生命周期",
+      "zh-TW": "生命週期"
+    },
+    "View details": {
+      "ja": "詳細を表示",
+      "es": "Ver detalles",
+      "pt": "Ver detalhes",
+      "ko": "세부 정보 보기",
+      "fr": "Voir les détails",
+      "tr": "Ayrıntıları gör",
+      "zh-CN": "查看详情",
+      "zh-TW": "查看詳情"
+    },
+    "Show Last 30 days": {
+      "ja": "過去30日間を表示",
+      "es": "Mostrar últimos 30 días",
+      "pt": "Mostrar últimos 30 dias",
+      "ko": "지난 30일 표시",
+      "fr": "Afficher les 30 derniers jours",
+      "tr": "Son 30 günü göster",
+      "zh-CN": "显示最近 30 天",
+      "zh-TW": "顯示最近 30 天"
+    },
+    "Show historical data": {
+      "ja": "履歴データを表示",
+      "es": "Mostrar datos históricos",
+      "pt": "Mostrar dados históricos",
+      "ko": "기록 데이터 표시",
+      "fr": "Afficher les données historiques",
+      "tr": "Geçmiş verileri göster",
+      "zh-CN": "显示历史数据",
+      "zh-TW": "顯示歷史資料"
+    },
+    "Set Up": {
+      "ja": "セットアップ",
+      "es": "Configurar",
+      "pt": "Configurar",
+      "ko": "설정",
+      "fr": "Configurer",
+      "tr": "Kur",
+      "zh-CN": "设置",
+      "zh-TW": "設定"
+    },
+    "Subscribes": {
+      "ja": "購読数",
+      "es": "Suscripciones",
+      "pt": "Assinaturas",
+      "ko": "구독 수",
+      "fr": "Abonnements",
+      "tr": "Abonelikler",
+      "zh-CN": "订阅数",
+      "zh-TW": "訂閱數"
     }
   },
   "patterns": [
