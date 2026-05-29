@@ -1461,7 +1461,7 @@
       "tr": "Gönderim tarihi",
       "zh-CN": "发送日期",
       "zh-TW": "發送日期",
-      "id": "Tanggal Dikirim"
+      "id": "Tanggal Terkirim"
     },
     "Deactivate": {
       "es": "Desactivar",
@@ -2759,7 +2759,7 @@
       "tr": "Son gönderim",
       "zh-CN": "最近发送",
       "zh-TW": "最近發送",
-      "id": "Terakhir dikirim"
+      "id": "Terakhir terkirim"
     },
     "Last Session": {
       "es": "Última sesión",
@@ -4783,7 +4783,7 @@
       "tr": "Gönderim zamanı",
       "zh-CN": "发送时间",
       "zh-TW": "發送時間",
-      "id": "Dikirim pada"
+      "id": "Terkirim pada"
     },
     "Sent Messages": {
       "es": "Mensajes enviados",
@@ -7346,7 +7346,7 @@
       "tr": "Yakın zamanda gönderilen mesajlar, hepsi tek bir yerde",
       "zh-CN": "近期发送的消息，集中在一处",
       "zh-TW": "近期發送的訊息，集中在一處",
-      "id": "Pesan yang baru dikirim, semua dalam satu tempat"
+      "id": "Pesan yang baru terkirim, semua dalam satu tempat"
     },
     "Scheduled Messages documentation": {
       "ja": "スケジュール済みメッセージのドキュメント",
@@ -8402,7 +8402,7 @@
       "tr": "Teslim zamanı",
       "zh-CN": "送达时间",
       "zh-TW": "送達時間",
-      "id": "Waktu pengiriman"
+      "id": "Delivery time"
     },
     "Did not click": {
       "ja": "クリックなし",
@@ -9381,7 +9381,7 @@
       "tr": "5. Gönderim planı",
       "zh-CN": "5. 发送计划",
       "zh-TW": "5. 送達排程",
-      "id": "5. Jadwal Pengiriman"
+      "id": "5. Delivery Schedule"
     },
     "Additional options": {
       "ja": "追加オプション",
@@ -12109,7 +12109,7 @@
       "tr": "4. Gönderim planı",
       "zh-CN": "4. 发送计划",
       "zh-TW": "4. 送達排程",
-      "id": "4. Jadwal Pengiriman"
+      "id": "4. Delivery Schedule"
     },
     "5 per minute": {
       "ja": "毎分5件",
@@ -14463,7 +14463,7 @@
       "tr": "3. Gönderim planı",
       "zh-CN": "3. 发送计划",
       "zh-TW": "3. 送達排程",
-      "id": "3. Jadwal Pengiriman"
+      "id": "3. Delivery Schedule"
     },
     "After a certain amount of time": {
       "ja": "一定時間後",
@@ -16872,7 +16872,7 @@
       "tr": "Kullanıcıyı etiketle",
       "zh-CN": "为用户添加标签",
       "zh-TW": "為用戶新增標籤",
-      "id": "Tandai Pengguna"
+      "id": "Tag Pengguna"
     },
     "Time Window": {
       "ja": "時間枠",
@@ -18511,7 +18511,7 @@
       "tr": "Gönderim zamanı",
       "zh-CN": "发送时间",
       "zh-TW": "發送時間",
-      "id": "Dikirim Pada"
+      "id": "Terkirim Pada"
     },
     "Test": {
       "ja": "テスト",
@@ -19314,7 +19314,7 @@
       "tr": "Son gönderim tarihi",
       "zh-CN": "最近发送日期",
       "zh-TW": "最近發送日期",
-      "id": "Tanggal Terakhir Dikirim"
+      "id": "Tanggal Terakhir Terkirim"
     },
     "Created Date": {
       "ja": "作成日",
@@ -19336,7 +19336,7 @@
       "tr": "Gönderim planı",
       "zh-CN": "送达计划",
       "zh-TW": "送達計畫",
-      "id": "Jadwal pengiriman"
+      "id": "Delivery Schedule"
     },
     "Type a note or description for your goal.": {
       "ja": "目標のメモまたは説明を入力してください。",
