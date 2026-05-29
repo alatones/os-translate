@@ -18532,7 +18532,8 @@
       "fr": "tableau de bord",
       "tr": "kontrol paneli",
       "zh-CN": "仪表板",
-      "zh-TW": "儀表板"
+      "zh-TW": "儀表板",
+      "id": "dashboard"
     },
     "CDP": {
       "ja": "CDP",
@@ -18542,7 +18543,8 @@
       "fr": "CDP",
       "tr": "CDP",
       "zh-CN": "CDP",
-      "zh-TW": "CDP"
+      "zh-TW": "CDP",
+      "id": "CDP"
     },
     "We couldn't find any results": {
       "ja": "結果が見つかりませんでした",
@@ -18552,7 +18554,8 @@
       "fr": "Aucun résultat trouvé",
       "tr": "Sonuç bulunamadı",
       "zh-CN": "未找到任何结果",
-      "zh-TW": "未找到任何結果"
+      "zh-TW": "未找到任何結果",
+      "id": "Kami tidak dapat menemukan hasil apa pun"
     },
     "You're using OneSignal's test domain to send emails, which shares a reputation with other OneSignal email senders. Set up an authenticated sender to own your email reputation and improve your email deliverability.": {
       "ja": "メール送信にOneSignalのテストドメインを使用しており、他のOneSignalメール送信者と評価を共有しています。認証済み送信者を設定して、独自のメール評価を確立し、配信性を向上させましょう。",
@@ -18562,7 +18565,8 @@
       "fr": "Vous utilisez le domaine de test de OneSignal pour envoyer des Email, ce qui partage la réputation avec d'autres Expéditeurs Email OneSignal. Configurez un Expéditeur authentifié pour posséder votre réputation Email et améliorer la livraison.",
       "tr": "OneSignal'in test alan adını kullanarak E-posta gönderiyorsunuz; bu, diğer OneSignal E-posta Gönderenleri ile itibarınızı paylaşır. Kendi E-posta itibarınıza sahip olmak ve teslim oranınızı artırmak için kimlik doğrulamalı bir Gönderen yapılandırın.",
       "zh-CN": "您正在使用 OneSignal 的测试域名发送 Email，这会与其他 OneSignal Email 发件人共享信誉。设置经过身份验证的发件人，建立您自己的 Email 信誉并提升送达率。",
-      "zh-TW": "您正在使用 OneSignal 的測試域名發送 Email，這會與其他 OneSignal Email 發件人共享信譽。設置經過身份驗證的發件人，建立您自己的 Email 信譽並提升送達率。"
+      "zh-TW": "您正在使用 OneSignal 的測試域名發送 Email，這會與其他 OneSignal Email 發件人共享信譽。設置經過身份驗證的發件人，建立您自己的 Email 信譽並提升送達率。",
+      "id": "Anda menggunakan domain uji OneSignal untuk mengirim email, yang berbagi reputasi dengan pengirim email OneSignal lainnya. Siapkan pengirim terautentikasi untuk memiliki reputasi email Anda dan meningkatkan ketercapaian email Anda."
     },
     "Double Opt-In will default users into a pending state when added to OneSignal and automatically prompt the user to confirm they'd like to subscribe. Once confirmed, we'll subscribe the user. Double Opt In ensures genuine user consent, enhances engagement, reduces spam complaints, and complies with regulations like TCPA and GDPR.": {
       "ja": "Double Opt-Inは、OneSignalに追加されたユーザーをデフォルトで保留状態にし、購読を希望するか確認するよう自動的に促します。確認後、ユーザーを購読登録します。Double Opt Inは、真のユーザー同意を確保し、エンゲージメントを高め、スパム苦情を減らし、TCPAやGDPRなどの規制に準拠します。",
@@ -18572,7 +18576,8 @@
       "fr": "Double Opt-In place les utilisateurs en état d'attente par défaut lorsqu'ils sont ajoutés à OneSignal et leur demande automatiquement de confirmer leur Abonnement. Une fois confirmé, nous abonnons l'utilisateur. Double Opt In garantit le consentement authentique de l'utilisateur, améliore l'engagement, réduit les plaintes de spam et respecte les réglementations comme la TCPA et le RGPD.",
       "tr": "Double Opt-In, OneSignal'e eklenen kullanıcıları varsayılan olarak bekleme durumuna alır ve abone olmak isteyip istemediklerini onaylamalarını otomatik olarak ister. Onaylandığında kullanıcıyı abone ederiz. Double Opt In, gerçek kullanıcı onayını sağlar, etkileşimi artırır, spam şikayetlerini azaltır ve TCPA ve GDPR gibi düzenlemelere uyar.",
       "zh-CN": "Double Opt-In 会将添加到 OneSignal 的用户默认设置为待处理状态，并自动提示用户确认是否希望订阅。确认后，我们会订阅该用户。Double Opt In 可确保真实的用户同意，提升参与度，减少垃圾邮件投诉，并符合 TCPA 和 GDPR 等法规。",
-      "zh-TW": "Double Opt-In 會將添加到 OneSignal 的用戶默認設置為待處理狀態，並自動提示用戶確認是否希望訂閱。確認後，我們會訂閱該用戶。Double Opt In 可確保真實的用戶同意，提升參與度，減少垃圾郵件投訴，並符合 TCPA 和 GDPR 等法規。"
+      "zh-TW": "Double Opt-In 會將添加到 OneSignal 的用戶默認設置為待處理狀態，並自動提示用戶確認是否希望訂閱。確認後，我們會訂閱該用戶。Double Opt In 可確保真實的用戶同意，提升參與度，減少垃圾郵件投訴，並符合 TCPA 和 GDPR 等法規。",
+      "id": "Double Opt-In akan menempatkan pengguna dalam status tertunda saat ditambahkan ke OneSignal dan secara otomatis meminta pengguna untuk mengonfirmasi bahwa mereka ingin berlangganan. Setelah dikonfirmasi, kami akan mendaftarkan pengguna. Double Opt-In memastikan persetujuan pengguna yang tulus, meningkatkan keterlibatan, mengurangi keluhan spam, dan mematuhi regulasi seperti TCPA dan GDPR."
     },
     "Re-Subscribe keywords are only activated when a user has already unsubscribed and is on the phone number or message service's blocklist. When we receive re-subscribe keywords, we'll automatically re-subscribe the user and take them off the phone number or message service's blocklist.": {
       "ja": "再購読キーワードは、ユーザーがすでに購読解除しており、電話番号またはメッセージサービスのブロックリストに登録されている場合にのみ有効化されます。再購読キーワードを受信すると、ユーザーを自動的に再購読登録し、電話番号またはメッセージサービスのブロックリストから削除します。",
@@ -18582,7 +18587,8 @@
       "fr": "Les mots-clés de Réabonnement ne sont activés que lorsqu'un utilisateur s'est déjà désabonné et figure sur la liste de blocage du numéro de téléphone ou du service de messagerie. Lorsque nous recevons des mots-clés de réabonnement, nous réabonnons automatiquement l'utilisateur et le retirons de la liste de blocage du numéro de téléphone ou du service de messagerie.",
       "tr": "Yeniden Abonelik anahtar kelimeleri, yalnızca bir kullanıcı zaten aboneliğini iptal etmişse ve telefon numarasının veya mesaj hizmetinin engelleme listesinde yer alıyorsa etkinleştirilir. Yeniden abonelik anahtar kelimelerini aldığımızda, kullanıcıyı otomatik olarak yeniden abone ederiz ve telefon numarasının veya mesaj hizmetinin engelleme listesinden çıkarırız.",
       "zh-CN": "重新订阅关键词仅在用户已取消订阅且位于电话号码或消息服务的屏蔽列表中时才会激活。当我们收到重新订阅关键词时，会自动重新订阅该用户并将其从电话号码或消息服务的屏蔽列表中移除。",
-      "zh-TW": "重新訂閱關鍵字僅在用戶已取消訂閱且位於電話號碼或訊息服務的屏蔽列表中時才會激活。當我們收到重新訂閱關鍵字時，會自動重新訂閱該用戶並將其從電話號碼或訊息服務的屏蔽列表中移除。"
+      "zh-TW": "重新訂閱關鍵字僅在用戶已取消訂閱且位於電話號碼或訊息服務的屏蔽列表中時才會激活。當我們收到重新訂閱關鍵字時，會自動重新訂閱該用戶並將其從電話號碼或訊息服務的屏蔽列表中移除。",
+      "id": "Kata kunci Re-Subscribe hanya diaktifkan saat pengguna telah berhenti berlangganan dan berada di daftar blokir nomor telepon atau layanan pesan. Saat kami menerima kata kunci re-subscribe, kami akan secara otomatis mendaftarkan kembali pengguna dan menghapus mereka dari daftar blokir."
     },
     "2-Step Authentication": {
       "ja": "2段階認証",
@@ -18592,7 +18598,8 @@
       "fr": "Authentification en 2 étapes",
       "tr": "2 Adımlı Doğrulama",
       "zh-CN": "两步验证",
-      "zh-TW": "兩步驗證"
+      "zh-TW": "兩步驗證",
+      "id": "Autentikasi 2 Langkah"
     },
     "Access Restricted": {
       "ja": "アクセス制限",
@@ -18602,7 +18609,8 @@
       "fr": "Accès restreint",
       "tr": "Erişim kısıtlandı",
       "zh-CN": "访问受限",
-      "zh-TW": "訪問受限"
+      "zh-TW": "訪問受限",
+      "id": "Akses Dibatasi"
     },
     "Composer": {
       "ja": "コンポーザー",
@@ -18612,7 +18620,8 @@
       "fr": "Composer",
       "tr": "Composer",
       "zh-CN": "编辑器",
-      "zh-TW": "編輯器"
+      "zh-TW": "編輯器",
+      "id": "Komposer"
     },
     "Email & Password": {
       "ja": "メールとパスワード",
@@ -18622,7 +18631,8 @@
       "fr": "Email et mot de passe",
       "tr": "E-posta ve şifre",
       "zh-CN": "Email 和密码",
-      "zh-TW": "Email 和密碼"
+      "zh-TW": "Email 和密碼",
+      "id": "Email & Kata Sandi"
     },
     "Enterprise SSO": {
       "ja": "エンタープライズSSO",
@@ -18632,7 +18642,8 @@
       "fr": "SSO Entreprise",
       "tr": "Kurumsal SSO",
       "zh-CN": "企业 SSO",
-      "zh-TW": "企業 SSO"
+      "zh-TW": "企業 SSO",
+      "id": "SSO Enterprise"
     },
     "Facebook": {
       "ja": "Facebook",
@@ -18642,7 +18653,8 @@
       "fr": "Facebook",
       "tr": "Facebook",
       "zh-CN": "Facebook",
-      "zh-TW": "Facebook"
+      "zh-TW": "Facebook",
+      "id": "Facebook"
     },
     "GitHub": {
       "ja": "GitHub",
@@ -18652,7 +18664,8 @@
       "fr": "GitHub",
       "tr": "GitHub",
       "zh-CN": "GitHub",
-      "zh-TW": "GitHub"
+      "zh-TW": "GitHub",
+      "id": "GitHub"
     },
     "Google": {
       "ja": "Google",
@@ -18662,7 +18675,8 @@
       "fr": "Google",
       "tr": "Google",
       "zh-CN": "Google",
-      "zh-TW": "Google"
+      "zh-TW": "Google",
+      "id": "Google"
     },
     "Previous Period:": {
       "ja": "前期間:",
@@ -18672,7 +18686,8 @@
       "fr": "Période précédente :",
       "tr": "Önceki Dönem:",
       "zh-CN": "上一期：",
-      "zh-TW": "上一期："
+      "zh-TW": "上一期：",
+      "id": "Periode Sebelumnya:"
     },
     "Are you sure that you want to disable \"": {
       "ja": "次を無効にしてもよろしいですか: \"",
@@ -18682,7 +18697,8 @@
       "fr": "Êtes-vous sûr de vouloir désactiver \"",
       "tr": "Şunu devre dışı bırakmak istediğinizden emin misiniz: \"",
       "zh-CN": "确定要禁用 \"",
-      "zh-TW": "確定要停用 \""
+      "zh-TW": "確定要停用 \"",
+      "id": "Anda yakin ingin menonaktifkan \""
     },
     "Notification Created": {
       "ja": "通知が作成されました",
@@ -18692,7 +18708,8 @@
       "fr": "Notification créée",
       "tr": "Bildirim oluşturuldu",
       "zh-CN": "通知已创建",
-      "zh-TW": "通知已建立"
+      "zh-TW": "通知已建立",
+      "id": "Notifikasi Dibuat"
     },
     "In-App Message Created": {
       "ja": "アプリ内メッセージが作成されました",
@@ -18702,7 +18719,8 @@
       "fr": "Message In-App créé",
       "tr": "Uygulama içi mesaj oluşturuldu",
       "zh-CN": "应用内消息已创建",
-      "zh-TW": "應用內訊息已建立"
+      "zh-TW": "應用內訊息已建立",
+      "id": "Pesan In-App Dibuat"
     },
     "In-App Message Updated": {
       "ja": "アプリ内メッセージが更新されました",
@@ -18712,7 +18730,8 @@
       "fr": "Message In-App mis à jour",
       "tr": "Uygulama içi mesaj güncellendi",
       "zh-CN": "应用内消息已更新",
-      "zh-TW": "應用內訊息已更新"
+      "zh-TW": "應用內訊息已更新",
+      "id": "Pesan In-App Diperbarui"
     },
     "Segment Updated": {
       "ja": "セグメントが更新されました",
@@ -18722,7 +18741,8 @@
       "fr": "Segment mis à jour",
       "tr": "Segment güncellendi",
       "zh-CN": "用户分群已更新",
-      "zh-TW": "用戶分群已更新"
+      "zh-TW": "用戶分群已更新",
+      "id": "Segment Diperbarui"
     },
     "Segment Deleted": {
       "ja": "セグメントが削除されました",
@@ -18732,7 +18752,8 @@
       "fr": "Segment supprimé",
       "tr": "Segment silindi",
       "zh-CN": "用户分群已删除",
-      "zh-TW": "用戶分群已刪除"
+      "zh-TW": "用戶分群已刪除",
+      "id": "Segment Dihapus"
     },
     "User Updated": {
       "ja": "ユーザーが更新されました",
@@ -18742,7 +18763,8 @@
       "fr": "Utilisateur mis à jour",
       "tr": "Kullanıcı güncellendi",
       "zh-CN": "用户已更新",
-      "zh-TW": "用戶已更新"
+      "zh-TW": "用戶已更新",
+      "id": "Pengguna Diperbarui"
     },
     "In-App Message": {
       "ja": "アプリ内メッセージ",
@@ -18752,7 +18774,8 @@
       "fr": "Message In-App",
       "tr": "Uygulama içi mesaj",
       "zh-CN": "应用内消息",
-      "zh-TW": "應用內訊息"
+      "zh-TW": "應用內訊息",
+      "id": "Pesan In-App"
     },
     "User": {
       "ja": "ユーザー",
@@ -18762,7 +18785,8 @@
       "fr": "Utilisateur",
       "tr": "Kullanıcı",
       "zh-CN": "用户",
-      "zh-TW": "用戶"
+      "zh-TW": "用戶",
+      "id": "Pengguna"
     },
     "IP Address": {
       "ja": "IPアドレス",
@@ -18772,7 +18796,8 @@
       "fr": "Adresse IP",
       "tr": "IP Adresi",
       "zh-CN": "IP 地址",
-      "zh-TW": "IP 位址"
+      "zh-TW": "IP 位址",
+      "id": "Alamat IP"
     },
     "Item Type": {
       "ja": "アイテムタイプ",
@@ -18782,7 +18807,8 @@
       "fr": "Type d'élément",
       "tr": "Öğe Türü",
       "zh-CN": "项目类型",
-      "zh-TW": "項目類型"
+      "zh-TW": "項目類型",
+      "id": "Jenis Item"
     },
     "Member Added to App": {
       "ja": "メンバーがアプリに追加されました",
@@ -18792,7 +18818,8 @@
       "fr": "Membre ajouté à l'App",
       "tr": "Üye App'e eklendi",
       "zh-CN": "成员已添加到应用",
-      "zh-TW": "成員已新增到應用"
+      "zh-TW": "成員已新增到應用",
+      "id": "Anggota Ditambahkan ke Aplikasi"
     },
     "Subscription": {
       "ja": "購読",
@@ -18802,7 +18829,8 @@
       "fr": "Abonnement",
       "tr": "Abonelik",
       "zh-CN": "订阅",
-      "zh-TW": "訂閱"
+      "zh-TW": "訂閱",
+      "id": "Berlangganan"
     },
     "Subscription Updated": {
       "ja": "購読が更新されました",
@@ -18812,7 +18840,8 @@
       "fr": "Abonnement mis à jour",
       "tr": "Abonelik güncellendi",
       "zh-CN": "订阅已更新",
-      "zh-TW": "訂閱已更新"
+      "zh-TW": "訂閱已更新",
+      "id": "Berlangganan Diperbarui"
     },
     "User Action": {
       "ja": "ユーザーアクション",
@@ -18822,7 +18851,8 @@
       "fr": "Action de l'utilisateur",
       "tr": "Kullanıcı İşlemi",
       "zh-CN": "用户操作",
-      "zh-TW": "用戶操作"
+      "zh-TW": "用戶操作",
+      "id": "Tindakan Pengguna"
     },
     "Alias": {
       "ja": "エイリアス",
@@ -18832,7 +18862,8 @@
       "fr": "Alias",
       "tr": "Takma ad",
       "zh-CN": "别名",
-      "zh-TW": "別名"
+      "zh-TW": "別名",
+      "id": "Alias"
     },
     "Alias is used to reference this data feed in Liquid syntax:": {
       "ja": "エイリアスは、Liquid構文でこのデータフィードを参照するために使用されます：",
@@ -18842,7 +18873,8 @@
       "fr": "L'Alias est utilisé pour référencer ce Data Feed dans la syntaxe Liquid :",
       "tr": "Alias, bu Data Feed'e Liquid sözdiziminde başvurmak için kullanılır:",
       "zh-CN": "别名用于在 Liquid 语法中引用此数据源：",
-      "zh-TW": "別名用於在 Liquid 語法中引用此資料串流："
+      "zh-TW": "別名用於在 Liquid 語法中引用此資料串流：",
+      "id": "Alias digunakan untuk mereferensikan data feed ini dalam sintaks Liquid:"
     },
     "Customer Cart": {
       "ja": "カスタマーカート",
@@ -18852,7 +18884,8 @@
       "fr": "Panier client",
       "tr": "Müşteri Sepeti",
       "zh-CN": "客户购物车",
-      "zh-TW": "客戶購物車"
+      "zh-TW": "客戶購物車",
+      "id": "Keranjang Pelanggan"
     },
     "Data Feed Name": {
       "ja": "データフィード名",
@@ -18862,7 +18895,8 @@
       "fr": "Nom du Data Feed",
       "tr": "Data Feed Adı",
       "zh-CN": "数据源名称",
-      "zh-TW": "資料串流名稱"
+      "zh-TW": "資料串流名稱",
+      "id": "Nama Data Feed"
     },
     "Data feed name will help you identify from other data feeds.": {
       "ja": "データフィード名は、他のデータフィードと区別するのに役立ちます。",
@@ -18872,7 +18906,8 @@
       "fr": "Le nom du Data Feed vous aidera à le distinguer des autres Flux de données.",
       "tr": "Data Feed adı, diğer Data Feeds'ten ayırt etmenize yardımcı olur.",
       "zh-CN": "数据源名称将帮助您区分其他数据源。",
-      "zh-TW": "資料串流名稱將幫助您區分其他資料串流。"
+      "zh-TW": "資料串流名稱將幫助您區分其他資料串流。",
+      "id": "Nama data feed akan membantu Anda membedakannya dari data feed lain."
     },
     "Example:": {
       "ja": "例：",
@@ -18882,7 +18917,8 @@
       "fr": "Exemple :",
       "tr": "Örnek:",
       "zh-CN": "示例：",
-      "zh-TW": "例如："
+      "zh-TW": "例如：",
+      "id": "Contoh:"
     },
     "GET": {
       "ja": "GET",
@@ -18892,7 +18928,8 @@
       "fr": "GET",
       "tr": "GET",
       "zh-CN": "GET",
-      "zh-TW": "GET"
+      "zh-TW": "GET",
+      "id": "GET"
     },
     "If used, body must be in JSON format. Liquid syntax is supported.": {
       "ja": "使用する場合、本文はJSON形式である必要があります。Liquid構文がサポートされています。",
@@ -18902,7 +18939,8 @@
       "fr": "Si utilisé, le corps doit être au format JSON. La syntaxe Liquid est prise en charge.",
       "tr": "Kullanılırsa, gövde JSON formatında olmalıdır. Liquid sözdizimi desteklenir.",
       "zh-CN": "如使用，正文必须为 JSON 格式。支持 Liquid 语法。",
-      "zh-TW": "如使用，正文必須為 JSON 格式。支援 Liquid 語法。"
+      "zh-TW": "如使用，正文必須為 JSON 格式。支援 Liquid 語法。",
+      "id": "Jika digunakan, isi harus dalam format JSON. Sintaks Liquid didukung."
     },
     "Learn more about Liquid syntax": {
       "ja": "Liquid構文の詳細",
@@ -18912,7 +18950,8 @@
       "fr": "En savoir plus sur la syntaxe Liquid",
       "tr": "Liquid sözdizimi hakkında daha fazla bilgi",
       "zh-CN": "了解更多 Liquid 语法",
-      "zh-TW": "了解更多 Liquid 語法"
+      "zh-TW": "了解更多 Liquid 語法",
+      "id": "Pelajari lebih lanjut tentang sintaks Liquid"
     },
     "URL supports Liquid syntax such as": {
       "ja": "URLは、次のようなLiquid構文をサポートします：",
@@ -18922,7 +18961,8 @@
       "fr": "L'URL prend en charge la syntaxe Liquid comme",
       "tr": "URL, aşağıdaki gibi Liquid sözdizimini destekler:",
       "zh-CN": "URL 支持 Liquid 语法，例如",
-      "zh-TW": "URL 支援 Liquid 語法，例如"
+      "zh-TW": "URL 支援 Liquid 語法，例如",
+      "id": "URL mendukung sintaks Liquid seperti"
     },
     "Connect OneSignal to your AI tools": {
       "ja": "OneSignalをAIツールに接続",
@@ -18932,7 +18972,8 @@
       "fr": "Connectez OneSignal à vos outils IA",
       "tr": "OneSignal'i yapay zeka araçlarınıza bağlayın",
       "zh-CN": "将 OneSignal 连接到您的 AI 工具",
-      "zh-TW": "將 OneSignal 連接至您的 AI 工具"
+      "zh-TW": "將 OneSignal 連接至您的 AI 工具",
+      "id": "Hubungkan OneSignal ke alat AI Anda"
     },
     "Set up MCP": {
       "ja": "MCPをセットアップ",
@@ -18942,7 +18983,8 @@
       "fr": "Configurer MCP",
       "tr": "MCP'yi kur",
       "zh-CN": "设置 MCP",
-      "zh-TW": "設定 MCP"
+      "zh-TW": "設定 MCP",
+      "id": "Siapkan MCP"
     },
     "Use our MCP to connect OneSignal with ChatGPT, Claude, Codex, Cursor, and other AI apps. Send messages, manage users, and analyze metrics from the tools your team already works in.": {
       "ja": "MCPを使ってOneSignalをChatGPT、Claude、Codex、Cursor、その他のAIアプリと接続できます。チームが普段使っているツールから、メッセージの送信、ユーザーの管理、メトリクスの分析が行えます。",
@@ -18952,7 +18994,8 @@
       "fr": "Utilisez notre MCP pour connecter OneSignal à ChatGPT, Claude, Codex, Cursor et d'autres apps IA. Envoyez des messages, gérez les utilisateurs et analysez les métriques depuis les outils que votre équipe utilise déjà.",
       "tr": "OneSignal'i ChatGPT, Claude, Codex, Cursor ve diğer yapay zeka uygulamalarına bağlamak için MCP'mizi kullanın. Ekibinizin zaten kullandığı araçlardan mesaj gönderin, kullanıcıları yönetin ve metrikleri analiz edin.",
       "zh-CN": "使用我们的 MCP 将 OneSignal 与 ChatGPT、Claude、Codex、Cursor 及其他 AI 应用连接。从您团队已在使用的工具中发送消息、管理用户、分析指标。",
-      "zh-TW": "使用我們的 MCP 將 OneSignal 與 ChatGPT、Claude、Codex、Cursor 及其他 AI 應用連接。從您團隊已在使用的工具中發送訊息、管理用戶、分析指標。"
+      "zh-TW": "使用我們的 MCP 將 OneSignal 與 ChatGPT、Claude、Codex、Cursor 及其他 AI 應用連接。從您團隊已在使用的工具中發送訊息、管理用戶、分析指標。",
+      "id": "Gunakan MCP kami untuk menghubungkan OneSignal dengan ChatGPT, Claude, Codex, Cursor, dan aplikasi AI lainnya. Kirim pesan, kelola pengguna, dan analisis metrik dari alat yang sudah digunakan tim Anda."
     },
     "Open Audience menu": {
       "ja": "オーディエンスメニューを開く",
@@ -18962,7 +19005,8 @@
       "fr": "Ouvrir le menu Audience",
       "tr": "Hedef kitle menüsünü aç",
       "zh-CN": "打开受众菜单",
-      "zh-TW": "開啟受眾選單"
+      "zh-TW": "開啟受眾選單",
+      "id": "Buka menu Audiens"
     },
     "Open Messages menu": {
       "ja": "メッセージメニューを開く",
@@ -18972,7 +19016,8 @@
       "fr": "Ouvrir le menu Messages",
       "tr": "Mesajlar menüsünü aç",
       "zh-CN": "打开消息菜单",
-      "zh-TW": "開啟訊息選單"
+      "zh-TW": "開啟訊息選單",
+      "id": "Buka menu Pesan"
     },
     "Open Delivery menu": {
       "ja": "配信メニューを開く",
@@ -18982,7 +19027,8 @@
       "fr": "Ouvrir le menu Livraison",
       "tr": "Bildirim Geçmişi menüsünü aç",
       "zh-CN": "打开送达菜单",
-      "zh-TW": "開啟送達選單"
+      "zh-TW": "開啟送達選單",
+      "id": "Buka menu Pengiriman"
     },
     "Upgrade": {
       "ja": "アップグレード",
@@ -18992,7 +19038,8 @@
       "fr": "Mettre à niveau",
       "tr": "Yükselt",
       "zh-CN": "升级",
-      "zh-TW": "升級"
+      "zh-TW": "升級",
+      "id": "Tingkatkan"
     },
     "Apps": {
       "ja": "アプリ",
@@ -19002,7 +19049,8 @@
       "fr": "Apps",
       "tr": "Uygulamalar",
       "zh-CN": "应用",
-      "zh-TW": "應用"
+      "zh-TW": "應用",
+      "id": "Aplikasi"
     },
     "Outcomes": {
       "ja": "アウトカム",
@@ -19012,7 +19060,8 @@
       "fr": "Résultats",
       "tr": "Sonuçlar",
       "zh-CN": "结果",
-      "zh-TW": "結果"
+      "zh-TW": "結果",
+      "id": "Hasil"
     },
     "Engagement": {
       "ja": "エンゲージメント",
@@ -19022,7 +19071,8 @@
       "fr": "Engagement",
       "tr": "Etkileşim",
       "zh-CN": "互动",
-      "zh-TW": "互動"
+      "zh-TW": "互動",
+      "id": "Keterlibatan"
     },
     "Lifecycle": {
       "ja": "ライフサイクル",
@@ -19032,7 +19082,8 @@
       "fr": "Cycle de vie",
       "tr": "Yaşam döngüsü",
       "zh-CN": "生命周期",
-      "zh-TW": "生命週期"
+      "zh-TW": "生命週期",
+      "id": "Siklus Hidup"
     },
     "View details": {
       "ja": "詳細を表示",
@@ -19042,7 +19093,8 @@
       "fr": "Voir les détails",
       "tr": "Ayrıntıları gör",
       "zh-CN": "查看详情",
-      "zh-TW": "查看詳情"
+      "zh-TW": "查看詳情",
+      "id": "Lihat detail"
     },
     "Show Last 30 days": {
       "ja": "過去30日間を表示",
@@ -19052,7 +19104,8 @@
       "fr": "Afficher les 30 derniers jours",
       "tr": "Son 30 günü göster",
       "zh-CN": "显示最近 30 天",
-      "zh-TW": "顯示最近 30 天"
+      "zh-TW": "顯示最近 30 天",
+      "id": "Tampilkan 30 hari terakhir"
     },
     "Show historical data": {
       "ja": "履歴データを表示",
@@ -19062,7 +19115,8 @@
       "fr": "Afficher les données historiques",
       "tr": "Geçmiş verileri göster",
       "zh-CN": "显示历史数据",
-      "zh-TW": "顯示歷史資料"
+      "zh-TW": "顯示歷史資料",
+      "id": "Tampilkan data historis"
     },
     "Set Up": {
       "ja": "セットアップ",
@@ -19072,7 +19126,8 @@
       "fr": "Configurer",
       "tr": "Kur",
       "zh-CN": "设置",
-      "zh-TW": "設定"
+      "zh-TW": "設定",
+      "id": "Siapkan"
     },
     "Subscribes": {
       "ja": "購読数",
@@ -19082,7 +19137,8 @@
       "fr": "Abonnements",
       "tr": "Abonelikler",
       "zh-CN": "订阅数",
-      "zh-TW": "訂閱數"
+      "zh-TW": "訂閱數",
+      "id": "Berlangganan"
     },
     "Wait Until": {
       "ja": "条件を満たすまで待機",
@@ -19092,7 +19148,8 @@
       "fr": "Attendre jusqu'à",
       "tr": "Şu zamana kadar bekle",
       "zh-CN": "等待条件",
-      "zh-TW": "等待條件"
+      "zh-TW": "等待條件",
+      "id": "Tunggu Hingga"
     },
     "Split Branch": {
       "ja": "ブランチを分割",
@@ -19102,7 +19159,8 @@
       "fr": "Diviser la branche",
       "tr": "Dalı böl",
       "zh-CN": "拆分分支",
-      "zh-TW": "拆分分支"
+      "zh-TW": "拆分分支",
+      "id": "Cabang Terpisah"
     },
     "Started sending at": {
       "ja": "送信開始日時",
@@ -19112,7 +19170,8 @@
       "fr": "Envoi commencé le",
       "tr": "Gönderim başlangıcı",
       "zh-CN": "发送开始时间",
-      "zh-TW": "發送開始時間"
+      "zh-TW": "發送開始時間",
+      "id": "Mulai mengirim pada"
     },
     "Subscription status changes": {
       "ja": "購読ステータスの変更",
@@ -19122,7 +19181,8 @@
       "fr": "Changements de statut d'abonnement",
       "tr": "Abonelik durumu değişiklikleri",
       "zh-CN": "订阅状态变更",
-      "zh-TW": "訂閱狀態變更"
+      "zh-TW": "訂閱狀態變更",
+      "id": "Perubahan status berlangganan"
     },
     "Send a Message": {
       "ja": "メッセージを送信",
@@ -19132,7 +19192,8 @@
       "fr": "Envoyer un message",
       "tr": "Mesaj gönder",
       "zh-CN": "发送消息",
-      "zh-TW": "發送訊息"
+      "zh-TW": "發送訊息",
+      "id": "Kirim Pesan"
     },
     "Create New Message": {
       "ja": "新しいメッセージを作成",
@@ -19142,7 +19203,8 @@
       "fr": "Créer un nouveau message",
       "tr": "Yeni mesaj oluştur",
       "zh-CN": "创建新消息",
-      "zh-TW": "建立新訊息"
+      "zh-TW": "建立新訊息",
+      "id": "Buat Pesan Baru"
     },
     "Preview Segments": {
       "ja": "セグメントをプレビュー",
@@ -19152,7 +19214,8 @@
       "fr": "Aperçu des segments",
       "tr": "Segment'leri önizle",
       "zh-CN": "预览用户分群",
-      "zh-TW": "預覽用戶分群"
+      "zh-TW": "預覽用戶分群",
+      "id": "Pratinjau Segment"
     },
     "Show Subscribes": {
       "ja": "購読数を表示",
@@ -19162,7 +19225,8 @@
       "fr": "Afficher les abonnements",
       "tr": "Abonelikleri göster",
       "zh-CN": "显示订阅数",
-      "zh-TW": "顯示訂閱數"
+      "zh-TW": "顯示訂閱數",
+      "id": "Tampilkan Berlangganan"
     },
     "All Message Types": {
       "ja": "すべてのメッセージタイプ",
@@ -19172,7 +19236,8 @@
       "fr": "Tous les types de messages",
       "tr": "Tüm mesaj türleri",
       "zh-CN": "所有消息类型",
-      "zh-TW": "所有訊息類型"
+      "zh-TW": "所有訊息類型",
+      "id": "Semua Jenis Pesan"
     },
     "Add tag": {
       "ja": "タグを追加",
@@ -19182,7 +19247,8 @@
       "fr": "Ajouter un tag",
       "tr": "Etiket ekle",
       "zh-CN": "添加标签",
-      "zh-TW": "新增標籤"
+      "zh-TW": "新增標籤",
+      "id": "Tambah tag"
     },
     "Add phone number": {
       "ja": "電話番号を追加",
@@ -19192,7 +19258,8 @@
       "fr": "Ajouter un numéro de téléphone",
       "tr": "Telefon numarası ekle",
       "zh-CN": "添加电话号码",
-      "zh-TW": "新增電話號碼"
+      "zh-TW": "新增電話號碼",
+      "id": "Tambah nomor telepon"
     },
     "Add email": {
       "ja": "メールを追加",
@@ -19202,7 +19269,8 @@
       "fr": "Ajouter un email",
       "tr": "Email ekle",
       "zh-CN": "添加邮件",
-      "zh-TW": "新增電郵"
+      "zh-TW": "新增電郵",
+      "id": "Tambah email"
     },
     "Add alias": {
       "ja": "エイリアスを追加",
@@ -19212,7 +19280,8 @@
       "fr": "Ajouter un alias",
       "tr": "Takma ad ekle",
       "zh-CN": "添加别名",
-      "zh-TW": "新增別名"
+      "zh-TW": "新增別名",
+      "id": "Tambah alias"
     },
     "Tag actions": {
       "ja": "タグアクション",
@@ -19222,7 +19291,8 @@
       "fr": "Actions de tag",
       "tr": "Etiket işlemleri",
       "zh-CN": "标签操作",
-      "zh-TW": "標籤操作"
+      "zh-TW": "標籤操作",
+      "id": "Tindakan tag"
     },
     "Last Updated Date": {
       "ja": "最終更新日",
@@ -19232,7 +19302,8 @@
       "fr": "Date de dernière mise à jour",
       "tr": "Son güncelleme tarihi",
       "zh-CN": "最后更新日期",
-      "zh-TW": "最後更新日期"
+      "zh-TW": "最後更新日期",
+      "id": "Tanggal Terakhir Diperbarui"
     },
     "Last Sent Date": {
       "ja": "最終送信日",
@@ -19242,7 +19313,8 @@
       "fr": "Date du dernier envoi",
       "tr": "Son gönderim tarihi",
       "zh-CN": "最近发送日期",
-      "zh-TW": "最近發送日期"
+      "zh-TW": "最近發送日期",
+      "id": "Tanggal Terakhir Dikirim"
     },
     "Created Date": {
       "ja": "作成日",
@@ -19252,7 +19324,8 @@
       "fr": "Date de création",
       "tr": "Oluşturulma tarihi",
       "zh-CN": "创建日期",
-      "zh-TW": "建立日期"
+      "zh-TW": "建立日期",
+      "id": "Tanggal Dibuat"
     },
     "Delivery schedule": {
       "ja": "配信スケジュール",
@@ -19262,7 +19335,8 @@
       "fr": "Planification d'envoi",
       "tr": "Gönderim planı",
       "zh-CN": "送达计划",
-      "zh-TW": "送達計畫"
+      "zh-TW": "送達計畫",
+      "id": "Jadwal pengiriman"
     },
     "Type a note or description for your goal.": {
       "ja": "目標のメモまたは説明を入力してください。",
@@ -19272,7 +19346,8 @@
       "fr": "Saisissez une note ou une description pour votre objectif.",
       "tr": "Hedefiniz için bir not veya açıklama yazın.",
       "zh-CN": "为你的目标输入备注或描述。",
-      "zh-TW": "為您的目標輸入備註或描述。"
+      "zh-TW": "為您的目標輸入備註或描述。",
+      "id": "Ketik catatan atau deskripsi untuk tujuan Anda."
     },
     "Track the click-through rate.": {
       "ja": "クリック率を測定します。",
@@ -19282,7 +19357,8 @@
       "fr": "Suivre le taux de clics.",
       "tr": "Tıklama oranını izle.",
       "zh-CN": "跟踪点击率。",
-      "zh-TW": "追蹤點擊率。"
+      "zh-TW": "追蹤點擊率。",
+      "id": "Lacak tingkat klik."
     },
     "This goal will be met when": {
       "ja": "この目標は次の条件で達成されます",
@@ -19292,7 +19368,8 @@
       "fr": "Cet objectif sera atteint lorsque",
       "tr": "Bu hedef şu durumda gerçekleşecek",
       "zh-CN": "此目标将在以下情况下达成",
-      "zh-TW": "此目標將在以下情況下達成"
+      "zh-TW": "此目標將在以下情況下達成",
+      "id": "Tujuan ini akan tercapai ketika"
     },
     "Goals documentation": {
       "ja": "目標ドキュメント",
@@ -19302,7 +19379,8 @@
       "fr": "Documentation des objectifs",
       "tr": "Hedefler dokümantasyonu",
       "zh-CN": "目标文档",
-      "zh-TW": "目標文件"
+      "zh-TW": "目標文件",
+      "id": "Dokumentasi tujuan"
     },
     "2. Goal": {
       "ja": "2. 目標",
@@ -19312,7 +19390,8 @@
       "fr": "2. Objectif",
       "tr": "2. Hedef",
       "zh-CN": "2. 目标",
-      "zh-TW": "2. 目標"
+      "zh-TW": "2. 目標",
+      "id": "2. Tujuan"
     },
     "A default goal has been auto-generated, edit any time": {
       "ja": "デフォルトの目標が自動生成されました。いつでも編集できます",
@@ -19322,7 +19401,8 @@
       "fr": "Un objectif par défaut a été généré automatiquement ; vous pouvez le modifier à tout moment",
       "tr": "Varsayılan bir hedef otomatik olarak oluşturuldu; istediğiniz zaman düzenleyebilirsiniz",
       "zh-CN": "已自动生成默认目标,可随时编辑",
-      "zh-TW": "已自動生成預設目標,可隨時編輯"
+      "zh-TW": "已自動生成預設目標,可隨時編輯",
+      "id": "Tujuan default telah dibuat secara otomatis, edit kapan saja"
     },
     "Metric": {
       "ja": "指標",
@@ -19332,7 +19412,8 @@
       "fr": "Métrique",
       "tr": "Metrik",
       "zh-CN": "指标",
-      "zh-TW": "指標"
+      "zh-TW": "指標",
+      "id": "Metrik"
     },
     "Measuring as": {
       "ja": "測定方法",
@@ -19342,7 +19423,8 @@
       "fr": "Mesurer comme",
       "tr": "Şu şekilde ölç",
       "zh-CN": "测量方式",
-      "zh-TW": "測量方式"
+      "zh-TW": "測量方式",
+      "id": "Diukur sebagai"
     },
     "exceeds": {
       "ja": "を超える",
@@ -19352,7 +19434,8 @@
       "fr": "dépasse",
       "tr": "aşıyor",
       "zh-CN": "超过",
-      "zh-TW": "超過"
+      "zh-TW": "超過",
+      "id": "melebihi"
     },
     "Clicks count": {
       "ja": "クリック数",
@@ -19362,7 +19445,8 @@
       "fr": "Nombre de clics",
       "tr": "Tıklama sayısı",
       "zh-CN": "点击次数",
-      "zh-TW": "點擊次數"
+      "zh-TW": "點擊次數",
+      "id": "Jumlah klik"
     },
     "You'll see metrics here when there is user activity.": {
       "ja": "ユーザーアクティビティが発生すると、ここに指標が表示されます。",
@@ -19372,7 +19456,8 @@
       "fr": "Vous verrez les métriques ici lorsqu'il y a de l'activité utilisateur.",
       "tr": "Kullanıcı etkinliği olduğunda metrikleri burada görürsünüz.",
       "zh-CN": "当有用户活动时,这里会显示指标。",
-      "zh-TW": "當有用戶活動時,這裡會顯示指標。"
+      "zh-TW": "當有用戶活動時,這裡會顯示指標。",
+      "id": "Anda akan melihat metrik di sini saat ada aktivitas pengguna."
     },
     "Limit of ~1,000 per minute": {
       "ja": "1分あたり最大約1,000件",
@@ -19382,7 +19467,8 @@
       "fr": "Limite de ~1 000 par minute",
       "tr": "Dakikada ~1.000 sınırı",
       "zh-CN": "每分钟限制约 1,000 条",
-      "zh-TW": "每分鐘限制約 1,000 條"
+      "zh-TW": "每分鐘限制約 1,000 條",
+      "id": "Batas ~1.000 per menit"
     },
     "Audience counts may differ from delivery metrics": {
       "ja": "オーディエンス数は配信指標と異なる場合があります",
@@ -19392,7 +19478,8 @@
       "fr": "Les chiffres d'audience peuvent différer des métriques de livraison",
       "tr": "Hedef kitle sayıları teslim metriklerinden farklı olabilir",
       "zh-CN": "受众数量可能与送达指标不同",
-      "zh-TW": "受眾數量可能與送達指標不同"
+      "zh-TW": "受眾數量可能與送達指標不同",
+      "id": "Jumlah audiens mungkin berbeda dari metrik pengiriman"
     },
     "Activity is available for 30 days after sending.": {
       "ja": "アクティビティは送信後30日間表示されます。",
@@ -19402,7 +19489,8 @@
       "fr": "L'activité est disponible pendant 30 jours après l'envoi.",
       "tr": "Etkinlik gönderim sonrası 30 gün boyunca görüntülenebilir.",
       "zh-CN": "活动数据在发送后保留 30 天。",
-      "zh-TW": "活動資料在發送後保留 30 天。"
+      "zh-TW": "活動資料在發送後保留 30 天。",
+      "id": "Aktivitas tersedia selama 30 hari setelah pengiriman."
     },
     "Start tracking engagement stats by setting up your push channel": {
       "ja": "プッシュチャネルをセットアップしてエンゲージメント統計の追跡を開始しましょう",
@@ -19412,7 +19500,8 @@
       "fr": "Commencez à suivre les statistiques d'engagement en configurant votre canal Push",
       "tr": "Push kanalınızı kurarak etkileşim istatistiklerini izlemeye başlayın",
       "zh-CN": "通过设置推送通知渠道开始跟踪互动数据",
-      "zh-TW": "透過設定推送通知渠道開始追蹤互動數據"
+      "zh-TW": "透過設定推送通知渠道開始追蹤互動數據",
+      "id": "Mulai lacak statistik keterlibatan dengan menyiapkan saluran push Anda"
     },
     "% of messages delivered": {
       "ja": "配信メッセージの割合",
@@ -19422,7 +19511,8 @@
       "fr": "% de messages livrés",
       "tr": "Teslim edilen mesajların %'si",
       "zh-CN": "送达消息百分比",
-      "zh-TW": "送達訊息百分比"
+      "zh-TW": "送達訊息百分比",
+      "id": "% pesan tersampaikan"
     },
     "Send to default segment:": {
       "ja": "デフォルトのセグメントに送信:",
@@ -19432,7 +19522,8 @@
       "fr": "Envoyer au segment par défaut :",
       "tr": "Varsayılan segment'e gönder:",
       "zh-CN": "发送到默认用户分群:",
-      "zh-TW": "發送到預設用戶分群:"
+      "zh-TW": "發送到預設用戶分群:",
+      "id": "Kirim ke Segment default:"
     },
     "Select subscription series": {
       "ja": "購読シリーズを選択",
@@ -19442,7 +19533,8 @@
       "fr": "Sélectionner la série d'abonnement",
       "tr": "Abonelik serisi seç",
       "zh-CN": "选择订阅系列",
-      "zh-TW": "選擇訂閱系列"
+      "zh-TW": "選擇訂閱系列",
+      "id": "Pilih seri berlangganan"
     },
     "Select channel for engagement overview": {
       "ja": "エンゲージメント概要のチャネルを選択",
@@ -19452,7 +19544,8 @@
       "fr": "Sélectionnez le canal pour la vue d'ensemble d'engagement",
       "tr": "Etkileşim genel görünümü için kanal seç",
       "zh-CN": "选择互动概览的渠道",
-      "zh-TW": "選擇互動概覽的渠道"
+      "zh-TW": "選擇互動概覽的渠道",
+      "id": "Pilih saluran untuk ikhtisar keterlibatan"
     },
     "Description (optional)": {
       "ja": "説明 (任意)",
@@ -19462,7 +19555,8 @@
       "fr": "Description (facultatif)",
       "tr": "Açıklama (isteğe bağlı)",
       "zh-CN": "描述 (可选)",
-      "zh-TW": "描述 (選填)"
+      "zh-TW": "描述 (選填)",
+      "id": "Deskripsi (opsional)"
     },
     "E.g. E54B4D": {
       "ja": "例: E54B4D",
@@ -19472,7 +19566,8 @@
       "fr": "Ex. E54B4D",
       "tr": "Örn. E54B4D",
       "zh-CN": "例如 E54B4D",
-      "zh-TW": "例如 E54B4D"
+      "zh-TW": "例如 E54B4D",
+      "id": "Mis. E54B4D"
     },
     "0.0 (lowest priority)": {
       "ja": "0.0 (最低の優先度)",
@@ -19482,7 +19577,8 @@
       "fr": "0.0 (priorité la plus basse)",
       "tr": "0.0 (en düşük öncelik)",
       "zh-CN": "0.0 (最低优先级)",
-      "zh-TW": "0.0 (最低優先順序)"
+      "zh-TW": "0.0 (最低優先順序)",
+      "id": "0.0 (prioritas terendah)"
     },
     "Grow your mobile push reach": {
       "ja": "モバイルプッシュのリーチを拡大",
@@ -19492,7 +19588,8 @@
       "fr": "Élargissez la portée de votre Push mobile",
       "tr": "Mobil Push erişiminizi büyütün",
       "zh-CN": "扩大移动推送触达",
-      "zh-TW": "擴大行動推送觸及"
+      "zh-TW": "擴大行動推送觸及",
+      "id": "Perluas jangkauan push seluler Anda"
     },
     "Create push permission prompt": {
       "ja": "プッシュ通知の許可プロンプトを作成",
@@ -19502,7 +19599,8 @@
       "fr": "Créer une invite de permission Push",
       "tr": "Push izin promptu oluştur",
       "zh-CN": "创建推送权限请求弹窗",
-      "zh-TW": "建立推送權限請求彈窗"
+      "zh-TW": "建立推送權限請求彈窗",
+      "id": "Buat prompt izin push"
     },
     "Boost opt-ins with a custom in-app prompt that highlights your notifications’ value before the native prompt.": {
       "ja": "ネイティブプロンプトの前に通知の価値を強調するカスタムなアプリ内プロンプトで、オプトインを増やしましょう。",
@@ -19512,7 +19610,8 @@
       "fr": "Augmentez les opt-ins avec une invite In-App personnalisée mettant en avant la valeur de vos notifications avant l'invite native.",
       "tr": "Bildiriminizin değerini yerel istemden önce vurgulayan özel bir uygulama içi prompt ile opt-in'leri artırın.",
       "zh-CN": "通过自定义应用内提示在系统原生提示之前突出通知的价值,从而提升用户许可率。",
-      "zh-TW": "透過自訂應用內提示在系統原生提示之前突顯通知的價值,從而提升用戶許可率。"
+      "zh-TW": "透過自訂應用內提示在系統原生提示之前突顯通知的價值,從而提升用戶許可率。",
+      "id": "Tingkatkan opt-in dengan prompt in-app kustom yang menyoroti nilai notifikasi Anda sebelum prompt native."
     },
     "Template ID": {
       "ja": "テンプレート ID",
@@ -19522,7 +19621,8 @@
       "fr": "ID du modèle",
       "tr": "Şablon ID",
       "zh-CN": "模板 ID",
-      "zh-TW": "範本 ID"
+      "zh-TW": "範本 ID",
+      "id": "ID Template"
     },
     "Template settings": {
       "ja": "テンプレート設定",
@@ -19532,7 +19632,8 @@
       "fr": "Paramètres du modèle",
       "tr": "Şablon ayarları",
       "zh-CN": "模板设置",
-      "zh-TW": "範本設定"
+      "zh-TW": "範本設定",
+      "id": "Pengaturan template"
     },
     "Template statistics": {
       "ja": "テンプレート統計",
@@ -19542,7 +19643,8 @@
       "fr": "Statistiques du modèle",
       "tr": "Şablon istatistikleri",
       "zh-CN": "模板统计",
-      "zh-TW": "範本統計"
+      "zh-TW": "範本統計",
+      "id": "Statistik template"
     },
     "Template not used.": {
       "ja": "テンプレートは使用されていません。",
@@ -19552,7 +19654,8 @@
       "fr": "Modèle non utilisé.",
       "tr": "Şablon kullanılmadı.",
       "zh-CN": "模板未使用。",
-      "zh-TW": "範本未使用。"
+      "zh-TW": "範本未使用。",
+      "id": "Template tidak digunakan."
     },
     "This template was created prior to": {
       "ja": "このテンプレートは次の日時より前に作成されました",
@@ -19562,7 +19665,8 @@
       "fr": "Ce modèle a été créé avant",
       "tr": "Bu şablon şu tarihten önce oluşturuldu",
       "zh-CN": "此模板创建于以下时间之前",
-      "zh-TW": "此範本建立於以下時間之前"
+      "zh-TW": "此範本建立於以下時間之前",
+      "id": "Template ini dibuat sebelum"
     },
     "Messages leveraging template": {
       "ja": "このテンプレートを使用するメッセージ",
@@ -19572,7 +19676,8 @@
       "fr": "Messages utilisant le modèle",
       "tr": "Şablonu kullanan mesajlar",
       "zh-CN": "使用此模板的消息",
-      "zh-TW": "使用此範本的訊息"
+      "zh-TW": "使用此範本的訊息",
+      "id": "Pesan yang menggunakan template"
     },
     "Ready to send? Create your first message using this template": {
       "ja": "送信する準備はできましたか？このテンプレートを使って最初のメッセージを作成しましょう",
@@ -19582,7 +19687,8 @@
       "fr": "Prêt à envoyer ? Créez votre premier message avec ce modèle",
       "tr": "Göndermeye hazır mısın? Bu şablonu kullanarak ilk mesajını oluştur",
       "zh-CN": "准备发送了吗?使用此模板创建你的第一条消息",
-      "zh-TW": "準備發送了嗎?使用此範本建立您的第一則訊息"
+      "zh-TW": "準備發送了嗎?使用此範本建立您的第一則訊息",
+      "id": "Siap mengirim? Buat pesan pertama Anda menggunakan template ini"
     },
     "The only journey is the one within.": {
       "ja": "本当の旅は、自分の内側にある。",
@@ -19592,7 +19698,8 @@
       "fr": "Le seul voyage est celui qui se passe en soi.",
       "tr": "Tek gerçek yolculuk, içimizdeki yolculuktur.",
       "zh-CN": "唯一的旅程,是向内的旅程。",
-      "zh-TW": "唯一的旅程,是向內的旅程。"
+      "zh-TW": "唯一的旅程,是向內的旅程。",
+      "id": "Satu-satunya perjalanan adalah yang ada di dalam."
     },
     "Embrace the journey.": {
       "ja": "旅を楽しもう。",
@@ -19602,7 +19709,8 @@
       "fr": "Embrassez le voyage.",
       "tr": "Yolculuğu kucaklayın.",
       "zh-CN": "拥抱旅程。",
-      "zh-TW": "擁抱旅程。"
+      "zh-TW": "擁抱旅程。",
+      "id": "Rangkullah perjalanannya."
     },
     "Every journey starts with the first step (and an audience segment).": {
       "ja": "すべての旅は最初の一歩から始まります(そしてオーディエンスのセグメントから)。",
@@ -19612,7 +19720,8 @@
       "fr": "Chaque voyage commence par un premier pas (et un segment d'audience).",
       "tr": "Her yolculuk ilk adımla başlar (ve bir hedef kitle segmentiyle).",
       "zh-CN": "每段旅程都从第一步开始(以及一个受众用户分群)。",
-      "zh-TW": "每段旅程都從第一步開始(以及一個受眾用戶分群)。"
+      "zh-TW": "每段旅程都從第一步開始(以及一個受眾用戶分群)。",
+      "id": "Setiap perjalanan dimulai dengan langkah pertama (dan Segment audiens)."
     },
     "Don't stop believing.": {
       "ja": "信じることをやめないで。",
@@ -19622,7 +19731,8 @@
       "fr": "N'arrête pas de croire.",
       "tr": "İnanmaktan vazgeçme.",
       "zh-CN": "永不放弃信念。",
-      "zh-TW": "永不放棄信念。"
+      "zh-TW": "永不放棄信念。",
+      "id": "Jangan berhenti percaya."
     }
   },
   "patterns": [
