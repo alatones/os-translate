@@ -7,6 +7,31 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
+## [1.6.15] — 2026-05-20
+
+### Changed
+
+- **Ledger noise filters expanded.** Five additions to `content.js`'s
+  miss-tracking regex battery, targeting high-install entries that
+  weren't real UI:
+  - Bare `Month Day` chart axis labels (`May 8`, `Apr 28`,
+    `January 14`) — Highcharts emits these as x-axis ticks; existing
+    chart-date filter required the year.
+  - Y-axis magnitude labels (`40.0k`, `1.6M`, `500.0k`, `7.0k`).
+  - Chart tooltip `(UTC):` trailing colon — existing tooltip filter
+    anchored on `(UTC)$` only.
+  - Highcharts accessibility text (`Chart with N data points.`).
+  - Claude in Chrome browser-extension overlay (`Claude is active in
+    this tab group`, `Open chat`) — not OneSignal UI.
+
+### Added
+
+- **Three Open-X-menu aria-labels** mirroring the existing
+  `Close Delivery menu`: `Open Audience menu`, `Open Messages menu`,
+  `Open Delivery menu`. Translations in all 8 languages following
+  each language's standalone-section vocabulary; tr uses
+  `Bildirim Geçmişi` (Emre's rename) for the Delivery family.
+
 ## [1.6.14] — 2026-05-20
 
 ### Changed

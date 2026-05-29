@@ -17269,6 +17269,36 @@
       "tr": "OneSignal'i ChatGPT, Claude, Codex, Cursor ve diğer yapay zeka uygulamalarına bağlamak için MCP'mizi kullanın. Ekibinizin zaten kullandığı araçlardan mesaj gönderin, kullanıcıları yönetin ve metrikleri analiz edin.",
       "zh-CN": "使用我们的 MCP 将 OneSignal 与 ChatGPT、Claude、Codex、Cursor 及其他 AI 应用连接。从您团队已在使用的工具中发送消息、管理用户、分析指标。",
       "zh-TW": "使用我們的 MCP 將 OneSignal 與 ChatGPT、Claude、Codex、Cursor 及其他 AI 應用連接。從您團隊已在使用的工具中發送訊息、管理用戶、分析指標。"
+    },
+    "Open Audience menu": {
+      "ja": "オーディエンスメニューを開く",
+      "es": "Abrir menú de Audiencia",
+      "pt": "Abrir menu de Público",
+      "ko": "대상 메뉴 열기",
+      "fr": "Ouvrir le menu Audience",
+      "tr": "Hedef kitle menüsünü aç",
+      "zh-CN": "打开受众菜单",
+      "zh-TW": "開啟受眾選單"
+    },
+    "Open Messages menu": {
+      "ja": "メッセージメニューを開く",
+      "es": "Abrir menú de Mensajes",
+      "pt": "Abrir menu de Mensagens",
+      "ko": "메시지 메뉴 열기",
+      "fr": "Ouvrir le menu Messages",
+      "tr": "Mesajlar menüsünü aç",
+      "zh-CN": "打开消息菜单",
+      "zh-TW": "開啟訊息選單"
+    },
+    "Open Delivery menu": {
+      "ja": "配信メニューを開く",
+      "es": "Abrir menú de Entrega",
+      "pt": "Abrir menu de Entrega",
+      "ko": "전달 메뉴 열기",
+      "fr": "Ouvrir le menu Livraison",
+      "tr": "Bildirim Geçmişi menüsünü aç",
+      "zh-CN": "打开送达菜单",
+      "zh-TW": "開啟送達選單"
     }
   },
   "patterns": [
