@@ -3297,7 +3297,8 @@
       "fr": "Nouveau flux d'événements",
       "tr": "Yeni etkinlik akışı",
       "zh-CN": "新事件流",
-      "zh-TW": "新事件流"
+      "zh-TW": "新事件流",
+      "id": "Event Stream Baru"
     },
     "New In-App": {
       "es": "Nuevo In-App",
@@ -3307,7 +3308,8 @@
       "fr": "Nouveau In-App",
       "tr": "Yeni In-App",
       "zh-CN": "新应用内",
-      "zh-TW": "新應用內訊息"
+      "zh-TW": "新應用內訊息",
+      "id": "In-App Baru"
     },
     "New Journey": {
       "es": "Nuevo Journey",
@@ -3317,7 +3319,8 @@
       "fr": "Nouveau Parcours",
       "tr": "Yeni Yolculuk",
       "zh-CN": "新旅程",
-      "zh-TW": "新旅程"
+      "zh-TW": "新旅程",
+      "id": "Journey Baru"
     },
     "New Journey Webhook": {
       "es": "Nuevo Webhook de Journey",
@@ -3327,7 +3330,8 @@
       "fr": "Nouveau Webhook Parcours",
       "tr": "Yeni Yolculuk Webhook",
       "zh-CN": "新旅程 Webhook",
-      "zh-TW": "新旅程 Webhook"
+      "zh-TW": "新旅程 Webhook",
+      "id": "Journey Webhook Baru"
     },
     "New Message": {
       "es": "Nuevo mensaje",
@@ -3337,7 +3341,8 @@
       "fr": "Nouveau message",
       "tr": "Yeni mesaj",
       "zh-CN": "新消息",
-      "zh-TW": "新訊息"
+      "zh-TW": "新訊息",
+      "id": "Pesan Baru"
     },
     "New Push": {
       "es": "Nuevo push",
@@ -3347,7 +3352,8 @@
       "fr": "Nouveau push",
       "tr": "Yeni push",
       "zh-CN": "新推送",
-      "zh-TW": "新推送"
+      "zh-TW": "新推送",
+      "id": "Push Baru"
     },
     "New Push Notification": {
       "es": "Nueva notificación push",
@@ -3357,7 +3363,8 @@
       "fr": "Nouvelle notification push",
       "tr": "Yeni push bildirimi",
       "zh-CN": "新推送通知",
-      "zh-TW": "新推送通知"
+      "zh-TW": "新推送通知",
+      "id": "Notifikasi Push Baru"
     },
     "New SMS / RCS": {
       "es": "Nuevo SMS / RCS",
@@ -3367,7 +3374,8 @@
       "fr": "Nouveau SMS / RCS",
       "tr": "Yeni SMS / RCS",
       "zh-CN": "新短信 / 富媒体短信",
-      "zh-TW": "新短訊 / 富媒體短訊"
+      "zh-TW": "新短訊 / 富媒體短訊",
+      "id": "SMS / RCS Baru"
     },
     "New SMS/RCS": {
       "es": "Nuevo SMS/RCS",
@@ -3377,7 +3385,8 @@
       "fr": "Nouveau SMS/RCS",
       "tr": "Yeni SMS/RCS",
       "zh-CN": "新短信/富媒体短信",
-      "zh-TW": "新短訊/富媒體短訊"
+      "zh-TW": "新短訊/富媒體短訊",
+      "id": "SMS/RCS Baru"
     },
     "New subscribed": {
       "es": "Nuevas suscripciones",
@@ -3387,7 +3396,8 @@
       "fr": "Nouveaux abonnés",
       "tr": "Yeni abonelikler",
       "zh-CN": "新订阅",
-      "zh-TW": "新訂閱"
+      "zh-TW": "新訂閱",
+      "id": "Berlangganan baru"
     },
     "New Subscribers": {
       "es": "Nuevos suscriptores",
@@ -3397,7 +3407,8 @@
       "fr": "Nouveaux abonnés",
       "tr": "Yeni aboneler",
       "zh-CN": "新订阅者",
-      "zh-TW": "新訂閱者"
+      "zh-TW": "新訂閱者",
+      "id": "Pelanggan Baru"
     },
     "New Template": {
       "es": "Nueva plantilla",
@@ -3407,7 +3418,8 @@
       "fr": "Nouveau modèle",
       "tr": "Yeni şablon",
       "zh-CN": "新模板",
-      "zh-TW": "新範本"
+      "zh-TW": "新範本",
+      "id": "Template Baru"
     },
     "New unsubscribed": {
       "es": "Nuevas cancelaciones",
@@ -3417,7 +3429,8 @@
       "fr": "Nouvelles désinscriptions",
       "tr": "Yeni abonelikten çıkanlar",
       "zh-CN": "新取消订阅",
-      "zh-TW": "新取消訂閱"
+      "zh-TW": "新取消訂閱",
+      "id": "Berhenti berlangganan baru"
     },
     "New Webhook": {
       "es": "Nuevo webhook",
@@ -3427,7 +3440,8 @@
       "fr": "Nouveau webhook",
       "tr": "Yeni webhook",
       "zh-CN": "新 Webhook",
-      "zh-TW": "新 Webhook"
+      "zh-TW": "新 Webhook",
+      "id": "Webhook Baru"
     },
     "Next": {
       "es": "Siguiente",
@@ -3437,7 +3451,8 @@
       "fr": "Suivant",
       "tr": "İleri",
       "zh-CN": "下一步",
-      "zh-TW": "下一步"
+      "zh-TW": "下一步",
+      "id": "Berikutnya"
     },
     "Next page": {
       "es": "Página siguiente",
@@ -3447,7 +3462,8 @@
       "fr": "Page suivante",
       "tr": "Sonraki sayfa",
       "zh-CN": "下一页",
-      "zh-TW": "下一頁"
+      "zh-TW": "下一頁",
+      "id": "Halaman berikutnya"
     },
     "No": {
       "es": "No",
@@ -3457,7 +3473,8 @@
       "fr": "Non",
       "tr": "Hayır",
       "zh-CN": "否",
-      "zh-TW": "否"
+      "zh-TW": "否",
+      "id": "Tidak"
     },
     "No data": {
       "es": "Sin datos",
@@ -3467,7 +3484,8 @@
       "fr": "Aucune donnée",
       "tr": "Veri yok",
       "zh-CN": "无数据",
-      "zh-TW": "無資料"
+      "zh-TW": "無資料",
+      "id": "Tidak ada data"
     },
     "No metrics collected": {
       "es": "No hay métricas recopiladas",
@@ -3477,7 +3495,8 @@
       "fr": "Aucune métrique collectée",
       "tr": "Metrik toplanmadı",
       "zh-CN": "未收集到指标",
-      "zh-TW": "未收集到指標"
+      "zh-TW": "未收集到指標",
+      "id": "Tidak ada metrik yang dikumpulkan"
     },
     "No recipients": {
       "es": "Sin destinatarios",
@@ -3487,7 +3506,8 @@
       "fr": "Aucun destinataire",
       "tr": "Alıcı yok",
       "zh-CN": "无收件人",
-      "zh-TW": "無收件人"
+      "zh-TW": "無收件人",
+      "id": "Tidak ada penerima"
     },
     "No results": {
       "es": "Sin resultados",
@@ -3497,7 +3517,8 @@
       "fr": "Aucun résultat",
       "tr": "Sonuç yok",
       "zh-CN": "无结果",
-      "zh-TW": "無結果"
+      "zh-TW": "無結果",
+      "id": "Tidak ada hasil"
     },
     "No results found": {
       "es": "No se encontraron resultados",
@@ -3507,7 +3528,8 @@
       "fr": "Aucun résultat trouvé",
       "tr": "Sonuç bulunamadı",
       "zh-CN": "未找到结果",
-      "zh-TW": "未找到結果"
+      "zh-TW": "未找到結果",
+      "id": "Tidak ada hasil ditemukan"
     },
     "not exists": {
       "es": "no existe",
@@ -3517,7 +3539,8 @@
       "fr": "n'existe pas",
       "tr": "yok",
       "zh-CN": "不存在",
-      "zh-TW": "不存在"
+      "zh-TW": "不存在",
+      "id": "tidak ada"
     },
     "Not Subscribed": {
       "es": "No suscrito",
@@ -3527,7 +3550,8 @@
       "fr": "Non abonné",
       "tr": "Abone değil",
       "zh-CN": "未订阅",
-      "zh-TW": "未訂閱"
+      "zh-TW": "未訂閱",
+      "id": "Tidak Berlangganan"
     },
     "Notification": {
       "es": "Notificación",
@@ -3537,7 +3561,8 @@
       "fr": "Notification",
       "tr": "Bildirim",
       "zh-CN": "通知",
-      "zh-TW": "通知"
+      "zh-TW": "通知",
+      "id": "Notifikasi"
     },
     "Notification Permission": {
       "es": "Permiso de notificación",
@@ -3547,7 +3572,8 @@
       "fr": "Autorisation de notification",
       "tr": "Bildirim izni",
       "zh-CN": "通知权限",
-      "zh-TW": "通知權限"
+      "zh-TW": "通知權限",
+      "id": "Izin Notifikasi"
     },
     "Notifications": {
       "es": "Notificaciones",
@@ -3557,7 +3583,8 @@
       "fr": "Notifications",
       "tr": "Bildirimler",
       "zh-CN": "通知",
-      "zh-TW": "通知"
+      "zh-TW": "通知",
+      "id": "Notifikasi"
     },
     "Nov": {
       "es": "nov",
@@ -3567,7 +3594,8 @@
       "fr": "nov",
       "tr": "kas",
       "zh-CN": "11月",
-      "zh-TW": "11月"
+      "zh-TW": "11月",
+      "id": "Nov"
     },
     "November": {
       "es": "noviembre",
@@ -3577,7 +3605,8 @@
       "fr": "novembre",
       "tr": "kasım",
       "zh-CN": "11月",
-      "zh-TW": "11月"
+      "zh-TW": "11月",
+      "id": "November"
     },
     "Oct": {
       "es": "oct",
@@ -3587,7 +3616,8 @@
       "fr": "oct",
       "tr": "eki",
       "zh-CN": "10月",
-      "zh-TW": "10月"
+      "zh-TW": "10月",
+      "id": "Okt"
     },
     "October": {
       "es": "octubre",
@@ -3597,7 +3627,8 @@
       "fr": "octobre",
       "tr": "ekim",
       "zh-CN": "10月",
-      "zh-TW": "10月"
+      "zh-TW": "10月",
+      "id": "Oktober"
     },
     "of": {
       "es": "de",
@@ -3607,7 +3638,8 @@
       "fr": "sur",
       "tr": "/",
       "zh-CN": "/",
-      "zh-TW": "/"
+      "zh-TW": "/",
+      "id": "dari"
     },
     "Onboarding": {
       "es": "Incorporación",
@@ -3617,7 +3649,8 @@
       "fr": "Onboarding",
       "tr": "Kullanıcı kazanımı",
       "zh-CN": "新手引导",
-      "zh-TW": "新手引導"
+      "zh-TW": "新手引導",
+      "id": "Orientasi"
     },
     "OneSignal AI": {
       "es": "OneSignal AI",
@@ -3627,7 +3660,8 @@
       "fr": "OneSignal AI",
       "tr": "OneSignal AI",
       "zh-CN": "OneSignal AI",
-      "zh-TW": "OneSignal AI"
+      "zh-TW": "OneSignal AI",
+      "id": "OneSignal AI"
     },
     "OneSignal ID": {
       "es": "OneSignal ID",
@@ -3637,7 +3671,8 @@
       "fr": "OneSignal ID",
       "tr": "OneSignal ID",
       "zh-CN": "OneSignal ID",
-      "zh-TW": "OneSignal ID"
+      "zh-TW": "OneSignal ID",
+      "id": "OneSignal ID"
     },
     "Open Rate": {
       "es": "Tasa de apertura",
@@ -3647,7 +3682,8 @@
       "fr": "Taux d'ouverture",
       "tr": "Açılma oranı",
       "zh-CN": "打开率",
-      "zh-TW": "開啟率"
+      "zh-TW": "開啟率",
+      "id": "Tingkat Buka"
     },
     "Open rate": {
       "es": "Tasa de apertura",
@@ -3657,7 +3693,8 @@
       "fr": "Taux d'ouverture",
       "tr": "Açılma oranı",
       "zh-CN": "打开率",
-      "zh-TW": "開啟率"
+      "zh-TW": "開啟率",
+      "id": "Tingkat buka"
     },
     "Opened": {
       "es": "Abierto",
@@ -3667,7 +3704,8 @@
       "fr": "Ouvert",
       "tr": "Açıldı",
       "zh-CN": "已打开",
-      "zh-TW": "已開啟"
+      "zh-TW": "已開啟",
+      "id": "Dibuka"
     },
     "Opens": {
       "es": "Aperturas",
@@ -3677,7 +3715,8 @@
       "fr": "Ouvertures",
       "tr": "Açılmalar",
       "zh-CN": "打开次数",
-      "zh-TW": "開啟次數"
+      "zh-TW": "開啟次數",
+      "id": "Dibuka"
     },
     "Operating System": {
       "es": "Sistema operativo",
@@ -3687,7 +3726,8 @@
       "fr": "Système d'exploitation",
       "tr": "İşletim sistemi",
       "zh-CN": "操作系统",
-      "zh-TW": "作業系統"
+      "zh-TW": "作業系統",
+      "id": "Sistem Operasi"
     },
     "Opted In": {
       "es": "Aceptado",
@@ -3697,7 +3737,8 @@
       "fr": "Accepté",
       "tr": "Onay verildi",
       "zh-CN": "已同意",
-      "zh-TW": "已同意"
+      "zh-TW": "已同意",
+      "id": "Ikut Serta"
     },
     "Opted Out": {
       "es": "Excluido",
@@ -3707,7 +3748,8 @@
       "fr": "Exclu",
       "tr": "Onay geri alındı",
       "zh-CN": "已拒绝",
-      "zh-TW": "已拒絕"
+      "zh-TW": "已拒絕",
+      "id": "Keluar"
     },
     "Optional": {
       "es": "Opcional",
@@ -3717,7 +3759,8 @@
       "fr": "Facultatif",
       "tr": "İsteğe bağlı",
       "zh-CN": "可选",
-      "zh-TW": "可選"
+      "zh-TW": "可選",
+      "id": "Opsional"
     },
     "Organization": {
       "es": "Organización",
@@ -3727,7 +3770,8 @@
       "fr": "Organisation",
       "tr": "Organizasyon",
       "zh-CN": "组织",
-      "zh-TW": "組織"
+      "zh-TW": "組織",
+      "id": "Organisasi"
     },
     "Organizations": {
       "es": "Organizaciones",
@@ -3737,7 +3781,8 @@
       "fr": "Organisations",
       "tr": "Organizasyonlar",
       "zh-CN": "组织",
-      "zh-TW": "組織"
+      "zh-TW": "組織",
+      "id": "Organisasi"
     },
     "Outbound": {
       "es": "Saliente",
@@ -3747,7 +3792,8 @@
       "fr": "Sortant",
       "tr": "Giden",
       "zh-CN": "出站",
-      "zh-TW": "出站"
+      "zh-TW": "出站",
+      "id": "Keluar"
     },
     "Outcome": {
       "es": "Resultado",
@@ -3757,7 +3803,8 @@
       "fr": "Résultat",
       "tr": "Sonuç",
       "zh-CN": "结果",
-      "zh-TW": "結果"
+      "zh-TW": "結果",
+      "id": "Hasil"
     },
     "Overview": {
       "es": "Resumen",
@@ -3767,7 +3814,8 @@
       "fr": "Vue d'ensemble",
       "tr": "Genel bakış",
       "zh-CN": "概览",
-      "zh-TW": "概覽"
+      "zh-TW": "概覽",
+      "id": "Ikhtisar"
     },
     "page": {
       "es": "página",
@@ -3777,7 +3825,8 @@
       "fr": "page",
       "tr": "sayfa",
       "zh-CN": "页",
-      "zh-TW": "頁"
+      "zh-TW": "頁",
+      "id": "halaman"
     },
     "Pagination": {
       "es": "Paginación",
@@ -3787,7 +3836,8 @@
       "fr": "Pagination",
       "tr": "Sayfalama",
       "zh-CN": "分页",
-      "zh-TW": "分頁"
+      "zh-TW": "分頁",
+      "id": "Paginasi"
     },
     "Pause": {
       "es": "Pausar",
