@@ -17993,7 +17993,8 @@
       "fr": "jours auparavant",
       "tr": "gün önce",
       "zh-CN": "天前",
-      "zh-TW": "天前"
+      "zh-TW": "天前",
+      "id": "hari yang lalu"
     },
     "minutes ago": {
       "ja": "分前",
@@ -18003,7 +18004,8 @@
       "fr": "minutes auparavant",
       "tr": "dakika önce",
       "zh-CN": "分钟前",
-      "zh-TW": "分鐘前"
+      "zh-TW": "分鐘前",
+      "id": "menit yang lalu"
     },
     "weeks ago": {
       "ja": "週間前",
@@ -18013,7 +18015,8 @@
       "fr": "semaines auparavant",
       "tr": "hafta önce",
       "zh-CN": "周前",
-      "zh-TW": "週前"
+      "zh-TW": "週前",
+      "id": "minggu yang lalu"
     },
     "Add Property": {
       "ja": "プロパティを追加",
@@ -18023,7 +18026,8 @@
       "fr": "Ajouter une propriété",
       "tr": "Özellik ekle",
       "zh-CN": "添加属性",
-      "zh-TW": "新增屬性"
+      "zh-TW": "新增屬性",
+      "id": "Tambah Properti"
     },
     "Audience Report": {
       "ja": "オーディエンスレポート",
@@ -18033,7 +18037,8 @@
       "fr": "Rapport d'Audience",
       "tr": "Hedef kitle Raporu",
       "zh-CN": "受众报告",
-      "zh-TW": "受眾報告"
+      "zh-TW": "受眾報告",
+      "id": "Laporan Audiens"
     },
     "Calculating...": {
       "ja": "計算中...",
@@ -18043,7 +18048,8 @@
       "fr": "Calcul en cours...",
       "tr": "Hesaplanıyor...",
       "zh-CN": "计算中...",
-      "zh-TW": "計算中..."
+      "zh-TW": "計算中...",
+      "id": "Menghitung..."
     },
     "Channel Breakdown": {
       "ja": "チャンネル別内訳",
@@ -18053,7 +18059,8 @@
       "fr": "Répartition par canal",
       "tr": "Kanal dağılımı",
       "zh-CN": "渠道细分",
-      "zh-TW": "渠道細分"
+      "zh-TW": "渠道細分",
+      "id": "Rincian Saluran"
     },
     "subscribed records": {
       "ja": "購読済みレコード",
@@ -18063,7 +18070,8 @@
       "fr": "enregistrements abonnés",
       "tr": "abone kayıtlar",
       "zh-CN": "已订阅记录",
-      "zh-TW": "已訂閱記錄"
+      "zh-TW": "已訂閱記錄",
+      "id": "catatan berlangganan"
     },
     "subscribed records for this filter.": {
       "ja": "このフィルターの購読済みレコード。",
@@ -18073,7 +18081,8 @@
       "fr": "enregistrements abonnés pour ce filtre.",
       "tr": "bu filtre için abone kayıtlar.",
       "zh-CN": "此筛选条件下的已订阅记录。",
-      "zh-TW": "此篩選條件下的已訂閱記錄。"
+      "zh-TW": "此篩選條件下的已訂閱記錄。",
+      "id": "catatan berlangganan untuk filter ini."
     },
     "unsubscribed": {
       "ja": "購読解除済み",
@@ -18083,7 +18092,8 @@
       "fr": "désabonné",
       "tr": "aboneliği kaldırılmış",
       "zh-CN": "已退订",
-      "zh-TW": "已取消訂閱"
+      "zh-TW": "已取消訂閱",
+      "id": "berhenti berlangganan"
     },
     "Any SMS": {
       "ja": "任意のSMS",
@@ -18093,7 +18103,8 @@
       "fr": "Tout SMS",
       "tr": "Herhangi bir SMS",
       "zh-CN": "任意 SMS",
-      "zh-TW": "任意 SMS"
+      "zh-TW": "任意 SMS",
+      "id": "SMS apa pun"
     },
     "Any email": {
       "ja": "任意のメール",
@@ -18103,7 +18114,8 @@
       "fr": "Tout Email",
       "tr": "Herhangi bir E-posta",
       "zh-CN": "任意 Email",
-      "zh-TW": "任意 Email"
+      "zh-TW": "任意 Email",
+      "id": "Email apa pun"
     },
     "Any in-app message": {
       "ja": "任意のアプリ内メッセージ",
@@ -18113,7 +18125,8 @@
       "fr": "Tout message In-App",
       "tr": "Herhangi bir Uygulama içi mesaj",
       "zh-CN": "任意应用内消息",
-      "zh-TW": "任意應用內訊息"
+      "zh-TW": "任意應用內訊息",
+      "id": "Pesan in-app apa pun"
     },
     "Any push notification": {
       "ja": "任意のプッシュ通知",
@@ -18123,7 +18136,8 @@
       "fr": "Toute notification Push",
       "tr": "Herhangi bir Push bildirimi",
       "zh-CN": "任意推送通知",
-      "zh-TW": "任意推送通知"
+      "zh-TW": "任意推送通知",
+      "id": "Push notification apa pun"
     },
     "Chrome Extension": {
       "ja": "Chrome拡張機能",
@@ -18133,7 +18147,8 @@
       "fr": "Extension Chrome",
       "tr": "Chrome Uzantısı",
       "zh-CN": "Chrome 扩展",
-      "zh-TW": "Chrome 擴充功能"
+      "zh-TW": "Chrome 擴充功能",
+      "id": "Ekstensi Chrome"
     },
     "Web Push (All Browsers)": {
       "ja": "Webプッシュ（すべてのブラウザ）",
@@ -18143,7 +18158,8 @@
       "fr": "Web Push (Tous les navigateurs)",
       "tr": "Web Push (Tüm tarayıcılar)",
       "zh-CN": "网页推送（所有浏览器）",
-      "zh-TW": "網頁推送（所有瀏覽器）"
+      "zh-TW": "網頁推送（所有瀏覽器）",
+      "id": "Web Push (Semua Browser)"
     },
     "equals to": {
       "ja": "等しい",
@@ -18153,7 +18169,8 @@
       "fr": "égal à",
       "tr": "eşittir",
       "zh-CN": "等于",
-      "zh-TW": "等於"
+      "zh-TW": "等於",
+      "id": "sama dengan"
     },
     "greater than or equal to": {
       "ja": "以上",
@@ -18163,7 +18180,8 @@
       "fr": "supérieur ou égal à",
       "tr": "büyük veya eşit",
       "zh-CN": "大于或等于",
-      "zh-TW": "大於或等於"
+      "zh-TW": "大於或等於",
+      "id": "lebih dari atau sama dengan"
     },
     "less than or equal to": {
       "ja": "以下",
@@ -18173,7 +18191,8 @@
       "fr": "inférieur ou égal à",
       "tr": "küçük veya eşit",
       "zh-CN": "小于或等于",
-      "zh-TW": "小於或等於"
+      "zh-TW": "小於或等於",
+      "id": "kurang dari atau sama dengan"
     },
     "not equals to": {
       "ja": "等しくない",
@@ -18183,7 +18202,8 @@
       "fr": "différent de",
       "tr": "eşit değil",
       "zh-CN": "不等于",
-      "zh-TW": "不等於"
+      "zh-TW": "不等於",
+      "id": "tidak sama dengan"
     },
     "is True": {
       "ja": "Trueである",
@@ -18193,7 +18213,8 @@
       "fr": "est True",
       "tr": "True",
       "zh-CN": "为 True",
-      "zh-TW": "為 True"
+      "zh-TW": "為 True",
+      "id": "adalah Benar"
     },
     "is False": {
       "ja": "Falseである",
@@ -18203,7 +18224,8 @@
       "fr": "est False",
       "tr": "False",
       "zh-CN": "为 False",
-      "zh-TW": "為 False"
+      "zh-TW": "為 False",
+      "id": "adalah Salah"
     },
     "is true": {
       "ja": "trueである",
@@ -18213,7 +18235,8 @@
       "fr": "est true",
       "tr": "true",
       "zh-CN": "为 true",
-      "zh-TW": "為 true"
+      "zh-TW": "為 true",
+      "id": "adalah benar"
     },
     "is within": {
       "ja": "次の範囲内",
@@ -18223,7 +18246,8 @@
       "fr": "est dans",
       "tr": "şunun içinde",
       "zh-CN": "在范围内",
-      "zh-TW": "在範圍內"
+      "zh-TW": "在範圍內",
+      "id": "berada dalam"
     },
     "sessions": {
       "ja": "セッション",
@@ -18233,7 +18257,8 @@
       "fr": "sessions",
       "tr": "oturumlar",
       "zh-CN": "会话",
-      "zh-TW": "工作階段"
+      "zh-TW": "工作階段",
+      "id": "sesi"
     },
     ". Learn more at": {
       "ja": "。詳細はこちら：",
@@ -18243,7 +18268,8 @@
       "fr": ". En savoir plus à",
       "tr": ". Daha fazla bilgi:",
       "zh-CN": "。了解更多：",
-      "zh-TW": "。了解更多："
+      "zh-TW": "。了解更多：",
+      "id": ". Pelajari lebih lanjut di"
     },
     "Booleans": {
       "ja": "ブール値",
@@ -18253,7 +18279,8 @@
       "fr": "Booléens",
       "tr": "Boolean değerleri",
       "zh-CN": "布尔值",
-      "zh-TW": "布林值"
+      "zh-TW": "布林值",
+      "id": "Boolean"
     },
     "Custom Event Filters documentation": {
       "ja": "カスタムイベントフィルターのドキュメント",
@@ -18263,7 +18290,8 @@
       "fr": "documentation des Filtres d'événements personnalisés",
       "tr": "Özel Olay Filtreleri belgeleri",
       "zh-CN": "自定义事件筛选条件文档",
-      "zh-TW": "自訂事件篩選條件文檔"
+      "zh-TW": "自訂事件篩選條件文檔",
+      "id": "Dokumentasi Filter Custom Event"
     },
     "Latitude (ex: 18.344)": {
       "ja": "緯度（例：18.344）",
@@ -18273,7 +18301,8 @@
       "fr": "Latitude (ex : 18.344)",
       "tr": "Enlem (ör: 18.344)",
       "zh-CN": "纬度（例：18.344）",
-      "zh-TW": "緯度（例：18.344）"
+      "zh-TW": "緯度（例：18.344）",
+      "id": "Lintang (mis: 18.344)"
     },
     "Longitude (ex: -66.753)": {
       "ja": "経度（例：-66.753）",
@@ -18283,7 +18312,8 @@
       "fr": "Longitude (ex : -66.753)",
       "tr": "Boylam (ör: -66.753)",
       "zh-CN": "经度（例：-66.753）",
-      "zh-TW": "經度（例：-66.753）"
+      "zh-TW": "經度（例：-66.753）",
+      "id": "Bujur (mis: -66.753)"
     },
     "Missing property and value": {
       "ja": "プロパティと値がありません",
@@ -18293,7 +18323,8 @@
       "fr": "Propriété et valeur manquantes",
       "tr": "Özellik ve değer eksik",
       "zh-CN": "缺少属性和值",
-      "zh-TW": "缺少屬性和值"
+      "zh-TW": "缺少屬性和值",
+      "id": "Properti dan nilai tidak ada"
     },
     "Nested event properties can be referenced using dot notation. Example:": {
       "ja": "ネストされたイベントプロパティはドット記法で参照できます。例：",
@@ -18303,7 +18334,8 @@
       "fr": "Les propriétés d'événement imbriquées peuvent être référencées avec la notation par point. Exemple :",
       "tr": "İç içe olay özellikleri, nokta gösterimi kullanılarak referans alınabilir. Örnek:",
       "zh-CN": "嵌套事件属性可使用点表示法引用。示例：",
-      "zh-TW": "嵌套事件屬性可使用點表示法引用。例如："
+      "zh-TW": "嵌套事件屬性可使用點表示法引用。例如：",
+      "id": "Properti event bersarang dapat direferensikan menggunakan notasi titik. Contoh:"
     },
     "Numbers": {
       "ja": "数値",
@@ -18313,7 +18345,8 @@
       "fr": "Nombres",
       "tr": "Sayılar",
       "zh-CN": "数字",
-      "zh-TW": "數字"
+      "zh-TW": "數字",
+      "id": "Angka"
     },
     "Radius": {
       "ja": "半径",
@@ -18323,7 +18356,8 @@
       "fr": "Rayon",
       "tr": "Yarıçap",
       "zh-CN": "半径",
-      "zh-TW": "半徑"
+      "zh-TW": "半徑",
+      "id": "Radius"
     },
     "Select a channel...": {
       "ja": "チャンネルを選択...",
@@ -18333,7 +18367,8 @@
       "fr": "Sélectionnez un canal...",
       "tr": "Bir kanal seçin...",
       "zh-CN": "选择渠道...",
-      "zh-TW": "選擇渠道..."
+      "zh-TW": "選擇渠道...",
+      "id": "Pilih saluran..."
     },
     "Strings": {
       "ja": "文字列",
@@ -18343,7 +18378,8 @@
       "fr": "Chaînes",
       "tr": "Dizeler",
       "zh-CN": "字符串",
-      "zh-TW": "字串"
+      "zh-TW": "字串",
+      "id": "String"
     },
     "Type and select event": {
       "ja": "イベントを入力して選択",
@@ -18353,7 +18389,8 @@
       "fr": "Saisissez et sélectionnez un événement",
       "tr": "Olay yazın ve seçin",
       "zh-CN": "输入并选择事件",
-      "zh-TW": "輸入並選擇事件"
+      "zh-TW": "輸入並選擇事件",
+      "id": "Ketik dan pilih event"
     },
     "With": {
       "ja": "で",
@@ -18363,7 +18400,8 @@
       "fr": "Avec",
       "tr": "İle",
       "zh-CN": "包含",
-      "zh-TW": "包含"
+      "zh-TW": "包含",
+      "id": "Dengan"
     },
     "all": {
       "ja": "すべて",
@@ -18373,7 +18411,8 @@
       "fr": "tous",
       "tr": "tümü",
       "zh-CN": "所有",
-      "zh-TW": "所有"
+      "zh-TW": "所有",
+      "id": "semua"
     },
     "and": {
       "ja": "および",
@@ -18383,7 +18422,8 @@
       "fr": "et",
       "tr": "ve",
       "zh-CN": "和",
-      "zh-TW": "和"
+      "zh-TW": "和",
+      "id": "dan"
     },
     "latitude": {
       "ja": "緯度",
@@ -18393,7 +18433,8 @@
       "fr": "latitude",
       "tr": "enlem",
       "zh-CN": "纬度",
-      "zh-TW": "緯度"
+      "zh-TW": "緯度",
+      "id": "lintang"
     },
     "longitude": {
       "ja": "経度",
@@ -18403,7 +18444,8 @@
       "fr": "longitude",
       "tr": "boylam",
       "zh-CN": "经度",
-      "zh-TW": "經度"
+      "zh-TW": "經度",
+      "id": "bujur"
     },
     "meters": {
       "ja": "メートル",
@@ -18413,7 +18455,8 @@
       "fr": "mètres",
       "tr": "metre",
       "zh-CN": "米",
-      "zh-TW": "米"
+      "zh-TW": "米",
+      "id": "meter"
     },
     "of the following properties:": {
       "ja": "次のプロパティのうち：",
@@ -18423,7 +18466,8 @@
       "fr": "des propriétés suivantes :",
       "tr": "aşağıdaki özelliklerden:",
       "zh-CN": "以下属性中：",
-      "zh-TW": "以下屬性中："
+      "zh-TW": "以下屬性中：",
+      "id": "dari properti berikut:"
     },
     "property": {
       "ja": "プロパティ",
@@ -18433,7 +18477,8 @@
       "fr": "propriété",
       "tr": "özellik",
       "zh-CN": "属性",
-      "zh-TW": "屬性"
+      "zh-TW": "屬性",
+      "id": "properti"
     },
     "Live Activities Push-to-Start": {
       "ja": "ライブアクティビティ Push-to-Start",
@@ -18443,7 +18488,8 @@
       "fr": "Live Activities Push-to-Start",
       "tr": "Live Activities Push-to-Start",
       "zh-CN": "实时活动 Push-to-Start",
-      "zh-TW": "即時動態 Push-to-Start"
+      "zh-TW": "即時動態 Push-to-Start",
+      "id": "Live Activities Push-to-Start"
     },
     "Live Activities Push-to-Update": {
       "ja": "ライブアクティビティ Push-to-Update",
@@ -18453,7 +18499,8 @@
       "fr": "Live Activities Push-to-Update",
       "tr": "Live Activities Push-to-Update",
       "zh-CN": "实时活动 Push-to-Update",
-      "zh-TW": "即時動態 Push-to-Update"
+      "zh-TW": "即時動態 Push-to-Update",
+      "id": "Live Activities Push-to-Update"
     },
     "Sent At": {
       "ja": "送信日時",
@@ -18463,7 +18510,8 @@
       "fr": "Envoyé le",
       "tr": "Gönderim zamanı",
       "zh-CN": "发送时间",
-      "zh-TW": "發送時間"
+      "zh-TW": "發送時間",
+      "id": "Dikirim Pada"
     },
     "Test": {
       "ja": "テスト",
@@ -18473,7 +18521,8 @@
       "fr": "Test",
       "tr": "Test",
       "zh-CN": "测试",
-      "zh-TW": "測試"
+      "zh-TW": "測試",
+      "id": "Uji"
     },
     "dashboard": {
       "ja": "ダッシュボード",
