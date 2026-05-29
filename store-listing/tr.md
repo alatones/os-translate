@@ -1,4 +1,4 @@
-OneSignal yönetim panosunu Chrome'dan ayrılmadan sekiz dile (Japonca, İspanyolca, Portekizce, Korece, Fransızca, Türkçe, Basitleştirilmiş Çince ve Geleneksel Çince) anında çevirin.
+OneSignal yönetim panosunu Chrome'dan ayrılmadan dokuz dile (Japonca, İspanyolca, Portekizce, Korece, Fransızca, Türkçe, Basitleştirilmiş Çince, Geleneksel Çince ve Endonezce) anında çevirin.
 
 Bu uzantı, OneSignal arayüzünün tamamını (menüler, düğmeler, etiketler, durum rozetleri, modallar, grafikler ve metinler) tek bir tıklamayla seçtiğiniz dile yerelleştirir. İngilizce konuşulmayan pazarlarda OneSignal üzerinden push bildirimleri, Email, SMS ve uygulama içi mesajlaşma kampanyaları yürüten pazarlama profesyonelleri, ürün yöneticileri ve CRM operasyon ekipleri için tasarlanmıştır.
 
@@ -12,6 +12,7 @@ Her dil panonun tamamını kapsar — 1.700'den fazla pano dizesi ve tarih forma
 • Türkçe
 • Basitleştirilmiş Çince (简体中文)
 • Geleneksel Çince, HK (繁體中文)
+• Endonezce (Bahasa Indonesia)
 
 ✦ NASIL ÇALIŞIR
 1. Uzantıyı yükleyin ve Chrome araç çubuğuna sabitleyin.

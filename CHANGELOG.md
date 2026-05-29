@@ -7,6 +7,22 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
+## [1.7.1] — 2026-05-29
+
+### Added
+
+- **Indonesian (id) store listing** (`store-listing/id.md`) — Web
+  Store description in Bahasa Indonesia following the style guide
+  (Anda formal address, Latin channel/feature names, marketer
+  loanwords).
+
+### Changed
+
+- **All store listings now mention nine languages.** Each localized
+  Web Store description (`en`, `es`, `fr`, `ja`, `ko`, `pt_BR`,
+  `tr`, `zh_CN`, `zh_TW`) updated to add Indonesian to the language
+  count and the supported-languages bullet list.
+
 ## [1.7.0] — 2026-05-29
 
 ### Added
