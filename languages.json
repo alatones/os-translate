@@ -5486,7 +5486,8 @@
       "fr": "Ce mois-ci",
       "tr": "Bu ay",
       "zh-CN": "本月",
-      "zh-TW": "本月"
+      "zh-TW": "本月",
+      "id": "Bulan ini"
     },
     "Thu": {
       "es": "Jue",
@@ -5496,7 +5497,8 @@
       "fr": "Jeu",
       "tr": "Per",
       "zh-CN": "周四",
-      "zh-TW": "週四"
+      "zh-TW": "週四",
+      "id": "Kam"
     },
     "Time": {
       "es": "Hora",
@@ -5506,7 +5508,8 @@
       "fr": "Heure",
       "tr": "Saat",
       "zh-CN": "时间",
-      "zh-TW": "時間"
+      "zh-TW": "時間",
+      "id": "Waktu"
     },
     "Time Zone": {
       "es": "Zona horaria",
@@ -5516,7 +5519,8 @@
       "fr": "Fuseau horaire",
       "tr": "Saat dilimi",
       "zh-CN": "时区",
-      "zh-TW": "時區"
+      "zh-TW": "時區",
+      "id": "Zona Waktu"
     },
     "Timezone": {
       "es": "Zona horaria",
@@ -5526,7 +5530,8 @@
       "fr": "Fuseau horaire",
       "tr": "Saat dilimi",
       "zh-CN": "时区",
-      "zh-TW": "時區"
+      "zh-TW": "時區",
+      "id": "Zona waktu"
     },
     "Timezone ID": {
       "es": "ID de zona horaria",
@@ -5536,7 +5541,8 @@
       "fr": "ID de fuseau horaire",
       "tr": "Saat dilimi ID",
       "zh-CN": "时区 ID",
-      "zh-TW": "時區 ID"
+      "zh-TW": "時區 ID",
+      "id": "ID Zona Waktu"
     },
     "Today": {
       "es": "Hoy",
@@ -5546,7 +5552,8 @@
       "fr": "Aujourd'hui",
       "tr": "Bugün",
       "zh-CN": "今天",
-      "zh-TW": "今天"
+      "zh-TW": "今天",
+      "id": "Hari ini"
     },
     "Token": {
       "es": "Token",
@@ -5556,7 +5563,8 @@
       "fr": "Token",
       "tr": "Token",
       "zh-CN": "令牌",
-      "zh-TW": "權杖"
+      "zh-TW": "權杖",
+      "id": "Token"
     },
     "Total": {
       "es": "Total",
@@ -5566,7 +5574,8 @@
       "fr": "Total",
       "tr": "Toplam",
       "zh-CN": "总计",
-      "zh-TW": "總計"
+      "zh-TW": "總計",
+      "id": "Total"
     },
     "Total Delivered": {
       "es": "Total entregados",
@@ -5576,7 +5585,8 @@
       "fr": "Total livrés",
       "tr": "Toplam teslim edilen",
       "zh-CN": "总送达",
-      "zh-TW": "總送達"
+      "zh-TW": "總送達",
+      "id": "Total Tersampaikan"
     },
     "Total Recipients": {
       "es": "Total de destinatarios",
@@ -5586,7 +5596,8 @@
       "fr": "Total des destinataires",
       "tr": "Toplam alıcı",
       "zh-CN": "收件人总数",
-      "zh-TW": "收件人總數"
+      "zh-TW": "收件人總數",
+      "id": "Total Penerima"
     },
     "Total records": {
       "es": "Total de registros",
@@ -5596,7 +5607,8 @@
       "fr": "Total des enregistrements",
       "tr": "Toplam kayıt",
       "zh-CN": "记录总数",
-      "zh-TW": "記錄總數"
+      "zh-TW": "記錄總數",
+      "id": "Total catatan"
     },
     "Total Sent": {
       "es": "Total enviados",
@@ -5606,7 +5618,8 @@
       "fr": "Total envoyés",
       "tr": "Toplam gönderim",
       "zh-CN": "总发送",
-      "zh-TW": "總發送"
+      "zh-TW": "總發送",
+      "id": "Total Terkirim"
     },
     "Total subscribed": {
       "es": "Total suscritos",
@@ -5616,7 +5629,8 @@
       "fr": "Total des abonnés",
       "tr": "Toplam abone",
       "zh-CN": "订阅总数",
-      "zh-TW": "訂閱總數"
+      "zh-TW": "訂閱總數",
+      "id": "Total berlangganan"
     },
     "Total Subscribers": {
       "es": "Total de suscriptores",
@@ -5626,7 +5640,8 @@
       "fr": "Total des abonnés",
       "tr": "Toplam aboneler",
       "zh-CN": "订阅者总数",
-      "zh-TW": "訂閱者總數"
+      "zh-TW": "訂閱者總數",
+      "id": "Total Pelanggan"
     },
     "Total web push subscribers": {
       "es": "Total de suscriptores web push",
@@ -5636,7 +5651,8 @@
       "fr": "Total des abonnés push web",
       "tr": "Toplam web push aboneleri",
       "zh-CN": "Web 推送订阅者总数",
-      "zh-TW": "Web 推送訂閱者總數"
+      "zh-TW": "Web 推送訂閱者總數",
+      "id": "Total pelanggan push web"
     },
     "Trigger": {
       "es": "Disparador",
@@ -5646,7 +5662,8 @@
       "fr": "Déclencheur",
       "tr": "Tetikleyici",
       "zh-CN": "触发器",
-      "zh-TW": "觸發器"
+      "zh-TW": "觸發器",
+      "id": "Pemicu"
     },
     "true": {
       "es": "verdadero",
@@ -5656,7 +5673,8 @@
       "fr": "vrai",
       "tr": "doğru",
       "zh-CN": "真",
-      "zh-TW": "真"
+      "zh-TW": "真",
+      "id": "true"
     },
     "TTL": {
       "es": "TTL",
@@ -5666,7 +5684,8 @@
       "fr": "TTL",
       "tr": "TTL",
       "zh-CN": "TTL",
-      "zh-TW": "TTL"
+      "zh-TW": "TTL",
+      "id": "TTL"
     },
     "Tue": {
       "es": "Mar",
@@ -5676,7 +5695,8 @@
       "fr": "Mar",
       "tr": "Sal",
       "zh-CN": "周二",
-      "zh-TW": "週二"
+      "zh-TW": "週二",
+      "id": "Sel"
     },
     "Type": {
       "es": "Tipo",
@@ -5686,7 +5706,8 @@
       "fr": "Type",
       "tr": "Tür",
       "zh-CN": "类型",
-      "zh-TW": "類型"
+      "zh-TW": "類型",
+      "id": "Jenis"
     },
     "Unarchive": {
       "es": "Desarchivar",
@@ -5696,7 +5717,8 @@
       "fr": "Désarchiver",
       "tr": "Arşivden çıkar",
       "zh-CN": "取消归档",
-      "zh-TW": "取消封存"
+      "zh-TW": "取消封存",
+      "id": "Batalkan Arsip"
     },
     "Unattributed": {
       "es": "Sin atribución",
@@ -5706,7 +5728,8 @@
       "fr": "Non attribué",
       "tr": "Atfedilmemiş",
       "zh-CN": "未归因",
-      "zh-TW": "未歸因"
+      "zh-TW": "未歸因",
+      "id": "Tidak Diatribusikan"
     },
     "Unconfirmed": {
       "es": "Sin confirmar",
@@ -5716,7 +5739,8 @@
       "fr": "Non confirmé",
       "tr": "Onaylanmamış",
       "zh-CN": "未确认",
-      "zh-TW": "未確認"
+      "zh-TW": "未確認",
+      "id": "Belum Dikonfirmasi"
     },
     "Unknown": {
       "es": "Desconocido",
@@ -5726,7 +5750,8 @@
       "fr": "Inconnu",
       "tr": "Bilinmiyor",
       "zh-CN": "未知",
-      "zh-TW": "未知"
+      "zh-TW": "未知",
+      "id": "Tidak Diketahui"
     },
     "Unpublish": {
       "es": "Despublicar",
@@ -5736,7 +5761,8 @@
       "fr": "Dépublier",
       "tr": "Yayından kaldır",
       "zh-CN": "取消发布",
-      "zh-TW": "取消發佈"
+      "zh-TW": "取消發佈",
+      "id": "Batalkan Penerbitan"
     },
     "Unsubscribe rate": {
       "es": "Tasa de cancelación",
@@ -5746,7 +5772,8 @@
       "fr": "Taux de désinscription",
       "tr": "Abonelikten çıkma oranı",
       "zh-CN": "取消订阅率",
-      "zh-TW": "取消訂閱率"
+      "zh-TW": "取消訂閱率",
+      "id": "Tingkat berhenti berlangganan"
     },
     "Unsubscribed": {
       "es": "Cancelado",
@@ -5756,7 +5783,8 @@
       "fr": "Désinscrit",
       "tr": "Abonelikten çıktı",
       "zh-CN": "已取消订阅",
-      "zh-TW": "已取消訂閱"
+      "zh-TW": "已取消訂閱",
+      "id": "Berhenti Berlangganan"
     },
     "Unsubscribed:": {
       "es": "Cancelaciones:",
@@ -5766,7 +5794,8 @@
       "fr": "Désinscriptions :",
       "tr": "Abonelikten çıkanlar:",
       "zh-CN": "已取消订阅:",
-      "zh-TW": "已取消訂閱："
+      "zh-TW": "已取消訂閱：",
+      "id": "Berhenti berlangganan:"
     },
     "Update": {
       "es": "Actualizar",
@@ -5776,7 +5805,8 @@
       "fr": "Mettre à jour",
       "tr": "Güncelle",
       "zh-CN": "更新",
-      "zh-TW": "更新"
+      "zh-TW": "更新",
+      "id": "Perbarui"
     },
     "Update/Import Users": {
       "es": "Actualizar/importar usuarios",
@@ -5786,7 +5816,8 @@
       "fr": "Mettre à jour / importer des utilisateurs",
       "tr": "Kullanıcıları güncelle/içe aktar",
       "zh-CN": "更新/导入用户",
-      "zh-TW": "更新/匯入用戶"
+      "zh-TW": "更新/匯入用戶",
+      "id": "Perbarui/Impor Pengguna"
     },
     "Updated At": {
       "es": "Actualizado el",
@@ -5796,7 +5827,8 @@
       "fr": "Mis à jour le",
       "tr": "Güncelleme tarihi",
       "zh-CN": "更新时间",
-      "zh-TW": "更新時間"
+      "zh-TW": "更新時間",
+      "id": "Diperbarui Pada"
     },
     "Upload a CSV": {
       "es": "Subir un CSV",
@@ -5806,7 +5838,8 @@
       "fr": "Téléverser un CSV",
       "tr": "CSV yükle",
       "zh-CN": "上传 CSV",
-      "zh-TW": "上載 CSV"
+      "zh-TW": "上載 CSV",
+      "id": "Unggah CSV"
     },
     "URL": {
       "es": "URL",
@@ -5816,7 +5849,8 @@
       "fr": "URL",
       "tr": "URL",
       "zh-CN": "URL",
-      "zh-TW": "URL"
+      "zh-TW": "URL",
+      "id": "URL"
     },
     "Usage": {
       "es": "Uso",
@@ -5826,7 +5860,8 @@
       "fr": "Utilisation",
       "tr": "Kullanım",
       "zh-CN": "使用情况",
-      "zh-TW": "使用情況"
+      "zh-TW": "使用情況",
+      "id": "Penggunaan"
     },
     "Usage duration": {
       "es": "Duración de uso",
@@ -5836,7 +5871,8 @@
       "fr": "Durée d'utilisation",
       "tr": "Kullanım süresi",
       "zh-CN": "使用时长",
-      "zh-TW": "使用時長"
+      "zh-TW": "使用時長",
+      "id": "Durasi penggunaan"
     },
     "Usage locations": {
       "es": "Ubicaciones de uso",
@@ -5846,7 +5882,8 @@
       "fr": "Lieux d'utilisation",
       "tr": "Kullanım konumları",
       "zh-CN": "使用位置",
-      "zh-TW": "使用位置"
+      "zh-TW": "使用位置",
+      "id": "Lokasi penggunaan"
     },
     "Use Template": {
       "es": "Usar plantilla",
@@ -5856,7 +5893,8 @@
       "fr": "Utiliser le modèle",
       "tr": "Şablonu kullan",
       "zh-CN": "使用模板",
-      "zh-TW": "使用範本"
+      "zh-TW": "使用範本",
+      "id": "Gunakan Template"
     },
     "User Records": {
       "es": "Registros de usuarios",
@@ -5866,7 +5904,8 @@
       "fr": "Enregistrements utilisateurs",
       "tr": "Kullanıcı kayıtları",
       "zh-CN": "用户记录",
-      "zh-TW": "用戶記錄"
+      "zh-TW": "用戶記錄",
+      "id": "Catatan Pengguna"
     },
     "Users": {
       "es": "Usuarios",
@@ -5876,7 +5915,8 @@
       "fr": "Utilisateurs",
       "tr": "Kullanıcılar",
       "zh-CN": "用户",
-      "zh-TW": "用戶記錄"
+      "zh-TW": "用戶記錄",
+      "id": "Pengguna"
     },
     "UTC": {
       "es": "UTC",
@@ -5886,7 +5926,8 @@
       "fr": "UTC",
       "tr": "UTC",
       "zh-CN": "UTC",
-      "zh-TW": "UTC"
+      "zh-TW": "UTC",
+      "id": "UTC"
     },
     "UTC:": {
       "es": "UTC:",
@@ -5896,7 +5937,8 @@
       "fr": "UTC :",
       "tr": "UTC:",
       "zh-CN": "UTC:",
-      "zh-TW": "UTC："
+      "zh-TW": "UTC：",
+      "id": "UTC:"
     },
     "Value": {
       "es": "Valor",
@@ -5906,7 +5948,8 @@
       "fr": "Valeur",
       "tr": "Değer",
       "zh-CN": "值",
-      "zh-TW": "值"
+      "zh-TW": "值",
+      "id": "Nilai"
     },
     "View": {
       "es": "Ver",
@@ -5916,7 +5959,8 @@
       "fr": "Voir",
       "tr": "Görüntüle",
       "zh-CN": "查看",
-      "zh-TW": "查看"
+      "zh-TW": "查看",
+      "id": "Lihat"
     },
     "View activity log for all users": {
       "es": "Ver registro de actividad de todos los usuarios",
@@ -5926,7 +5970,8 @@
       "fr": "Voir le journal d'activité de tous les utilisateurs",
       "tr": "Tüm kullanıcılar için etkinlik günlüğünü görüntüleyin",
       "zh-CN": "查看所有用户的活动日志",
-      "zh-TW": "查看所有用戶的活動日誌"
+      "zh-TW": "查看所有用戶的活動日誌",
+      "id": "Lihat log aktivitas untuk semua pengguna"
     },
     "View All": {
       "es": "Ver todo",
@@ -5936,7 +5981,8 @@
       "fr": "Tout voir",
       "tr": "Tümünü görüntüle",
       "zh-CN": "查看全部",
-      "zh-TW": "查看全部"
+      "zh-TW": "查看全部",
+      "id": "Lihat Semua"
     },
     "View Details": {
       "es": "Ver detalles",
@@ -5946,7 +5992,8 @@
       "fr": "Voir les détails",
       "tr": "Ayrıntıları görüntüle",
       "zh-CN": "查看详情",
-      "zh-TW": "查看詳情"
+      "zh-TW": "查看詳情",
+      "id": "Lihat Detail"
     },
     "View previous imports": {
       "es": "Ver importaciones anteriores",
@@ -5956,7 +6003,8 @@
       "fr": "Voir les imports précédents",
       "tr": "Önceki içe aktarmaları görüntüle",
       "zh-CN": "查看以前的导入",
-      "zh-TW": "查看以前的匯入"
+      "zh-TW": "查看以前的匯入",
+      "id": "Lihat impor sebelumnya"
     },
     "View subscription & billing cycle usage": {
       "es": "Ver uso de suscripción y ciclo de facturación",
@@ -5966,7 +6014,8 @@
       "fr": "Voir l'utilisation de l'abonnement et du cycle de facturation",
       "tr": "Abonelik ve fatura dönemi kullanımını görüntüleyin",
       "zh-CN": "查看订阅和计费周期使用情况",
-      "zh-TW": "查看訂閱和計費週期使用情況"
+      "zh-TW": "查看訂閱和計費週期使用情況",
+      "id": "Lihat penggunaan berlangganan & siklus penagihan"
     },
     "Viewer": {
       "es": "Observador",
@@ -5976,7 +6025,8 @@
       "fr": "Observateur",
       "tr": "Görüntüleyici",
       "zh-CN": "查看者",
-      "zh-TW": "查看者"
+      "zh-TW": "查看者",
+      "id": "Penampil"
     },
     "Warning": {
       "es": "Advertencia",
