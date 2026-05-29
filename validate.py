@@ -188,6 +188,7 @@ def check_cross_contamination(langs_data):
         ("Drafts", "Draf"),         # id: 'Draf' is both singular and plural
         ("Labels", "Label"),        # id: plural drops; Label is correct singular
         ("Platforms", "Platform"),  # id: plural drops; Platform is correct singular
+        ("Segments", "Segment"),    # id: OneSignal feature; plural form stays Latin singular
     }
     violations = []
     translations = langs_data["translations"]

@@ -4397,7 +4397,8 @@
       "fr": "Enregistrer comme brouillon",
       "tr": "Taslak olarak kaydet",
       "zh-CN": "保存为草稿",
-      "zh-TW": "儲存為草稿"
+      "zh-TW": "儲存為草稿",
+      "id": "Simpan sebagai Draf"
     },
     "Save Changes": {
       "es": "Guardar cambios",
@@ -4407,7 +4408,8 @@
       "fr": "Enregistrer les modifications",
       "tr": "Değişiklikleri kaydet",
       "zh-CN": "保存更改",
-      "zh-TW": "儲存變更"
+      "zh-TW": "儲存變更",
+      "id": "Simpan Perubahan"
     },
     "Saving": {
       "es": "Guardando",
@@ -4417,7 +4419,8 @@
       "fr": "Enregistrement",
       "tr": "Kaydediliyor",
       "zh-CN": "保存中",
-      "zh-TW": "儲存中"
+      "zh-TW": "儲存中",
+      "id": "Menyimpan"
     },
     "Schedule": {
       "es": "Programación",
@@ -4427,7 +4430,8 @@
       "fr": "Planification",
       "tr": "Planlama",
       "zh-CN": "计划",
-      "zh-TW": "排程"
+      "zh-TW": "排程",
+      "id": "Jadwal"
     },
     "Schedule for Later": {
       "es": "Programar para después",
@@ -4437,7 +4441,8 @@
       "fr": "Planifier pour plus tard",
       "tr": "Daha sonrası için planla",
       "zh-CN": "计划稍后",
-      "zh-TW": "排程稍後"
+      "zh-TW": "排程稍後",
+      "id": "Jadwalkan untuk Nanti"
     },
     "Scheduled": {
       "es": "Programado",
@@ -4447,7 +4452,8 @@
       "fr": "Planifié",
       "tr": "Planlandı",
       "zh-CN": "已计划",
-      "zh-TW": "已排程"
+      "zh-TW": "已排程",
+      "id": "Dijadwalkan"
     },
     "Scheduled Messages": {
       "es": "Mensajes programados",
@@ -4457,7 +4463,8 @@
       "fr": "Messages planifiés",
       "tr": "Planlanan mesajlar",
       "zh-CN": "已计划消息",
-      "zh-TW": "已排程訊息"
+      "zh-TW": "已排程訊息",
+      "id": "Pesan Terjadwal"
     },
     "SDK": {
       "es": "SDK",
@@ -4467,7 +4474,8 @@
       "fr": "SDK",
       "tr": "SDK",
       "zh-CN": "SDK",
-      "zh-TW": "SDK"
+      "zh-TW": "SDK",
+      "id": "SDK"
     },
     "SDK version": {
       "es": "Versión del SDK",
@@ -4477,7 +4485,8 @@
       "fr": "Version du SDK",
       "tr": "SDK sürümü",
       "zh-CN": "SDK 版本",
-      "zh-TW": "SDK 版本"
+      "zh-TW": "SDK 版本",
+      "id": "Versi SDK"
     },
     "SDKs": {
       "es": "SDKs",
@@ -4487,7 +4496,8 @@
       "fr": "SDK",
       "tr": "SDK'ler",
       "zh-CN": "SDK",
-      "zh-TW": "SDK"
+      "zh-TW": "SDK",
+      "id": "SDK"
     },
     "SDKs Guide": {
       "es": "Guía de SDKs",
@@ -4497,7 +4507,8 @@
       "fr": "Guide des SDK",
       "tr": "SDK kılavuzu",
       "zh-CN": "SDK 指南",
-      "zh-TW": "SDK 指南"
+      "zh-TW": "SDK 指南",
+      "id": "Panduan SDK"
     },
     "Search": {
       "es": "Buscar",
@@ -4507,7 +4518,8 @@
       "fr": "Rechercher",
       "tr": "Ara",
       "zh-CN": "搜索",
-      "zh-TW": "搜尋"
+      "zh-TW": "搜尋",
+      "id": "Cari"
     },
     "Search apps": {
       "es": "Buscar apps",
@@ -4517,7 +4529,8 @@
       "fr": "Rechercher des apps",
       "tr": "Uygulamalarda ara",
       "zh-CN": "搜索应用",
-      "zh-TW": "搜尋應用"
+      "zh-TW": "搜尋應用",
+      "id": "Cari aplikasi"
     },
     "Search by name": {
       "es": "Buscar por nombre",
@@ -4527,7 +4540,8 @@
       "fr": "Rechercher par nom",
       "tr": "Ada göre ara",
       "zh-CN": "按名称搜索",
-      "zh-TW": "按名稱搜尋"
+      "zh-TW": "按名稱搜尋",
+      "id": "Cari berdasarkan nama"
     },
     "Search event names": {
       "es": "Buscar nombres de eventos",
@@ -4537,7 +4551,8 @@
       "fr": "Rechercher des noms d'événements",
       "tr": "Etkinlik adlarında ara",
       "zh-CN": "搜索事件名称",
-      "zh-TW": "搜尋事件名稱"
+      "zh-TW": "搜尋事件名稱",
+      "id": "Cari nama event"
     },
     "Search term": {
       "es": "Término de búsqueda",
@@ -4547,7 +4562,8 @@
       "fr": "Terme de recherche",
       "tr": "Arama terimi",
       "zh-CN": "搜索词",
-      "zh-TW": "搜尋字詞"
+      "zh-TW": "搜尋字詞",
+      "id": "Istilah pencarian"
     },
     "Search…": {
       "es": "Buscar…",
@@ -4557,7 +4573,8 @@
       "fr": "Rechercher…",
       "tr": "Ara…",
       "zh-CN": "搜索…",
-      "zh-TW": "搜尋…"
+      "zh-TW": "搜尋…",
+      "id": "Cari…"
     },
     "Secret": {
       "es": "Secreto",
@@ -4567,7 +4584,8 @@
       "fr": "Secret",
       "tr": "Gizli",
       "zh-CN": "密钥",
-      "zh-TW": "密鑰"
+      "zh-TW": "密鑰",
+      "id": "Rahasia"
     },
     "Segment": {
       "es": "Segmento",
@@ -4577,7 +4595,8 @@
       "fr": "Segment",
       "tr": "Segment",
       "zh-CN": "用户分群",
-      "zh-TW": "用戶分群"
+      "zh-TW": "用戶分群",
+      "id": "Segment"
     },
     "Segment Name": {
       "es": "Nombre del segmento",
@@ -4587,7 +4606,8 @@
       "fr": "Nom du segment",
       "tr": "Segment adı",
       "zh-CN": "用户分群名称",
-      "zh-TW": "用戶分群名稱"
+      "zh-TW": "用戶分群名稱",
+      "id": "Nama Segment"
     },
     "Segments": {
       "es": "Segmentos",
@@ -4597,7 +4617,8 @@
       "fr": "Segments",
       "tr": "Segmentler",
       "zh-CN": "用户分群",
-      "zh-TW": "用戶分群"
+      "zh-TW": "用戶分群",
+      "id": "Segment"
     },
     "Select": {
       "es": "Seleccionar",
@@ -4607,7 +4628,8 @@
       "fr": "Sélectionner",
       "tr": "Seç",
       "zh-CN": "选择",
-      "zh-TW": "選擇"
+      "zh-TW": "選擇",
+      "id": "Pilih"
     },
     "Select all": {
       "es": "Seleccionar todo",
@@ -4617,7 +4639,8 @@
       "fr": "Tout sélectionner",
       "tr": "Tümünü seç",
       "zh-CN": "全选",
-      "zh-TW": "全選"
+      "zh-TW": "全選",
+      "id": "Pilih semua"
     },
     "Send": {
       "es": "Enviar",
@@ -4627,7 +4650,8 @@
       "fr": "Envoyer",
       "tr": "Gönder",
       "zh-CN": "发送",
-      "zh-TW": "發送"
+      "zh-TW": "發送",
+      "id": "Kirim"
     },
     "Send at": {
       "es": "Enviar el",
@@ -4637,7 +4661,8 @@
       "fr": "Envoyer le",
       "tr": "Gönderim zamanı",
       "zh-CN": "发送时间",
-      "zh-TW": "發送時間"
+      "zh-TW": "發送時間",
+      "id": "Kirim pada"
     },
     "Send Immediately": {
       "es": "Enviar inmediatamente",
@@ -4647,7 +4672,8 @@
       "fr": "Envoyer immédiatement",
       "tr": "Hemen gönder",
       "zh-CN": "立即发送",
-      "zh-TW": "立即發送"
+      "zh-TW": "立即發送",
+      "id": "Kirim Segera"
     },
     "Send Test Email": {
       "es": "Enviar email de prueba",
@@ -4657,7 +4683,8 @@
       "fr": "Envoyer un email de test",
       "tr": "Test emaili gönder",
       "zh-CN": "发送测试电子邮件",
-      "zh-TW": "發送測試電郵"
+      "zh-TW": "發送測試電郵",
+      "id": "Kirim Email Uji"
     },
     "Send Test Push": {
       "es": "Enviar push de prueba",
@@ -4667,7 +4694,8 @@
       "fr": "Envoyer un push de test",
       "tr": "Test push'u gönder",
       "zh-CN": "发送测试推送",
-      "zh-TW": "發送測試推送"
+      "zh-TW": "發送測試推送",
+      "id": "Kirim Push Uji"
     },
     "Send to All Subscribers": {
       "es": "Enviar a todos los suscriptores",
@@ -4677,7 +4705,8 @@
       "fr": "Envoyer à tous les abonnés",
       "tr": "Tüm abonelere gönder",
       "zh-CN": "发送给所有订阅者",
-      "zh-TW": "發送給所有訂閱者"
+      "zh-TW": "發送給所有訂閱者",
+      "id": "Kirim ke Semua Pelanggan"
     },
     "Sender": {
       "es": "Remitente",
@@ -4687,7 +4716,8 @@
       "fr": "Expéditeur",
       "tr": "Gönderen",
       "zh-CN": "发件人",
-      "zh-TW": "發件人"
+      "zh-TW": "發件人",
+      "id": "Pengirim"
     },
     "Senders": {
       "es": "Remitentes",
@@ -4697,7 +4727,8 @@
       "fr": "Expéditeurs",
       "tr": "Gönderenler",
       "zh-CN": "发件人",
-      "zh-TW": "發件人"
+      "zh-TW": "發件人",
+      "id": "Pengirim"
     },
     "Senders & configuration": {
       "es": "Remitentes y configuración",
@@ -4707,7 +4738,8 @@
       "fr": "Expéditeurs et configuration",
       "tr": "Gönderenler ve yapılandırma",
       "zh-CN": "发件人和配置",
-      "zh-TW": "發件人和配置"
+      "zh-TW": "發件人和配置",
+      "id": "Pengirim & konfigurasi"
     },
     "Senders, suppressions & configuration": {
       "es": "Remitentes, supresiones y configuración",
@@ -4717,7 +4749,8 @@
       "fr": "Expéditeurs, suppressions et configuration",
       "tr": "Gönderenler, engelliler ve yapılandırma",
       "zh-CN": "发件人、屏蔽和配置",
-      "zh-TW": "發件人、屏蔽和配置"
+      "zh-TW": "發件人、屏蔽和配置",
+      "id": "Pengirim, penekanan & konfigurasi"
     },
     "Sending": {
       "es": "Enviando",
@@ -4727,7 +4760,8 @@
       "fr": "Envoi en cours",
       "tr": "Gönderiliyor",
       "zh-CN": "发送中",
-      "zh-TW": "發送中"
+      "zh-TW": "發送中",
+      "id": "Mengirim"
     },
     "Sent": {
       "es": "Enviado",
@@ -4737,7 +4771,8 @@
       "fr": "Envoyé",
       "tr": "Gönderildi",
       "zh-CN": "已发送",
-      "zh-TW": "已發送"
+      "zh-TW": "已發送",
+      "id": "Terkirim"
     },
     "Sent at": {
       "es": "Enviado el",
@@ -4747,7 +4782,8 @@
       "fr": "Envoyé le",
       "tr": "Gönderim zamanı",
       "zh-CN": "发送时间",
-      "zh-TW": "發送時間"
+      "zh-TW": "發送時間",
+      "id": "Dikirim pada"
     },
     "Sent Messages": {
       "es": "Mensajes enviados",
@@ -4757,7 +4793,8 @@
       "fr": "Messages envoyés",
       "tr": "Gönderilen mesajlar",
       "zh-CN": "已发送消息",
-      "zh-TW": "已發送訊息"
+      "zh-TW": "已發送訊息",
+      "id": "Pesan Terkirim"
     },
     "Sep": {
       "es": "sep",
@@ -4767,7 +4804,8 @@
       "fr": "sep",
       "tr": "eyl",
       "zh-CN": "9月",
-      "zh-TW": "9月"
+      "zh-TW": "9月",
+      "id": "Sep"
     },
     "September": {
       "es": "septiembre",
@@ -4777,7 +4815,8 @@
       "fr": "septembre",
       "tr": "eylül",
       "zh-CN": "9月",
-      "zh-TW": "9月"
+      "zh-TW": "9月",
+      "id": "September"
     },
     "Session Count": {
       "es": "Sesiones",
@@ -4787,7 +4826,8 @@
       "fr": "Nombre de sessions",
       "tr": "Oturum sayısı",
       "zh-CN": "会话数",
-      "zh-TW": "會話數"
+      "zh-TW": "會話數",
+      "id": "Jumlah Sesi"
     },
     "Sessions": {
       "es": "Sesiones",
@@ -4797,7 +4837,8 @@
       "fr": "Sessions",
       "tr": "Oturumlar",
       "zh-CN": "会话",
-      "zh-TW": "會話"
+      "zh-TW": "會話",
+      "id": "Sesi"
     },
     "Sessions (count)": {
       "es": "Sesiones (recuento)",
@@ -4807,7 +4848,8 @@
       "fr": "Sessions (nombre)",
       "tr": "Oturumlar (sayı)",
       "zh-CN": "会话 (数量)",
-      "zh-TW": "會話 (數量)"
+      "zh-TW": "會話 (數量)",
+      "id": "Sesi (jumlah)"
     },
     "Sessions:": {
       "es": "Sesiones:",
@@ -4817,7 +4859,8 @@
       "fr": "Sessions :",
       "tr": "Oturumlar:",
       "zh-CN": "会话:",
-      "zh-TW": "會話："
+      "zh-TW": "會話：",
+      "id": "Sesi:"
     },
     "Set up security and API keys": {
       "es": "Configurar seguridad y claves API",
@@ -4827,7 +4870,8 @@
       "fr": "Configurer la sécurité et les clés d'API",
       "tr": "Güvenlik ve API anahtarlarını ayarlayın",
       "zh-CN": "设置安全和 API 密钥",
-      "zh-TW": "設定安全和 API 密鑰"
+      "zh-TW": "設定安全和 API 密鑰",
+      "id": "Siapkan keamanan dan kunci API"
     },
     "Settings": {
       "es": "Ajustes",
@@ -4837,7 +4881,8 @@
       "fr": "Paramètres",
       "tr": "Ayarlar",
       "zh-CN": "设置",
-      "zh-TW": "設定"
+      "zh-TW": "設定",
+      "id": "Pengaturan"
     },
     "Show all outcomes": {
       "es": "Mostrar todos los resultados",
@@ -4847,7 +4892,8 @@
       "fr": "Afficher tous les résultats",
       "tr": "Tüm sonuçları göster",
       "zh-CN": "显示所有结果",
-      "zh-TW": "顯示所有結果"
+      "zh-TW": "顯示所有結果",
+      "id": "Tampilkan semua hasil"
     },
     "Show Attempted": {
       "es": "Mostrar intentados",
@@ -4857,7 +4903,8 @@
       "fr": "Afficher les tentatives",
       "tr": "Denenenleri göster",
       "zh-CN": "显示已尝试",
-      "zh-TW": "顯示已嘗試"
+      "zh-TW": "顯示已嘗試",
+      "id": "Tampilkan Dicoba"
     },
     "Show Attempted Events": {
       "es": "Mostrar eventos intentados",
@@ -4867,7 +4914,8 @@
       "fr": "Afficher les événements tentés",
       "tr": "Denenen etkinlikleri göster",
       "zh-CN": "显示已尝试事件",
-      "zh-TW": "顯示已嘗試事件"
+      "zh-TW": "顯示已嘗試事件",
+      "id": "Tampilkan Event yang Dicoba"
     },
     "Show Attempted Updates": {
       "es": "Mostrar actualizaciones intentadas",
@@ -4877,7 +4925,8 @@
       "fr": "Afficher les mises à jour tentées",
       "tr": "Denenen güncellemeleri göster",
       "zh-CN": "显示已尝试更新",
-      "zh-TW": "顯示已嘗試更新"
+      "zh-TW": "顯示已嘗試更新",
+      "id": "Tampilkan Pembaruan yang Dicoba"
     },
     "Show Clicked": {
       "es": "Mostrar clics",
