@@ -1119,7 +1119,8 @@
       "fr": "Contactez votre audience active d'un pays spécifique",
       "tr": "Belirli bir ülkedeki aktif hedef kitlenize ulaşın",
       "zh-CN": "联系指定国家/地区的活跃受众",
-      "zh-TW": "聯絡指定國家/地區的活躍受眾"
+      "zh-TW": "聯絡指定國家/地區的活躍受眾",
+      "id": "Hubungi audiens aktif Anda dari negara tertentu"
     },
     "contains": {
       "es": "contiene",
@@ -1129,7 +1130,8 @@
       "fr": "contient",
       "tr": "içerir",
       "zh-CN": "包含",
-      "zh-TW": "包含"
+      "zh-TW": "包含",
+      "id": "memuat"
     },
     "Continue": {
       "es": "Continuar",
@@ -1139,7 +1141,8 @@
       "fr": "Continuer",
       "tr": "Devam et",
       "zh-CN": "继续",
-      "zh-TW": "繼續"
+      "zh-TW": "繼續",
+      "id": "Lanjutkan"
     },
     "Continue Setup": {
       "es": "Continuar configuración",
@@ -1149,7 +1152,8 @@
       "fr": "Continuer la configuration",
       "tr": "Kuruluma devam et",
       "zh-CN": "继续设置",
-      "zh-TW": "繼續設定"
+      "zh-TW": "繼續設定",
+      "id": "Lanjutkan Pengaturan"
     },
     "Conversion": {
       "es": "Conversión",
@@ -1159,7 +1163,8 @@
       "fr": "Conversion",
       "tr": "Dönüşüm",
       "zh-CN": "转化",
-      "zh-TW": "轉換"
+      "zh-TW": "轉換",
+      "id": "Konversi"
     },
     "Copied to clipboard": {
       "es": "Copiado al portapapeles",
@@ -1169,7 +1174,8 @@
       "fr": "Copié dans le presse-papiers",
       "tr": "Panoya kopyalandı",
       "zh-CN": "已复制到剪贴板",
-      "zh-TW": "已複製到剪貼簿"
+      "zh-TW": "已複製到剪貼簿",
+      "id": "Disalin ke papan klip"
     },
     "Copy": {
       "es": "Copiar",
@@ -1179,7 +1185,8 @@
       "fr": "Copier",
       "tr": "Kopyala",
       "zh-CN": "复制",
-      "zh-TW": "複製"
+      "zh-TW": "複製",
+      "id": "Salin"
     },
     "Count": {
       "es": "Recuento",
@@ -1189,7 +1196,8 @@
       "fr": "Nombre",
       "tr": "Sayı",
       "zh-CN": "数量",
-      "zh-TW": "數量"
+      "zh-TW": "數量",
+      "id": "Jumlah"
     },
     "Country": {
       "es": "País",
@@ -1199,7 +1207,8 @@
       "fr": "Pays",
       "tr": "Ülke",
       "zh-CN": "国家/地区",
-      "zh-TW": "國家/地區"
+      "zh-TW": "國家/地區",
+      "id": "Negara"
     },
     "Create": {
       "es": "Crear",
@@ -1209,7 +1218,8 @@
       "fr": "Créer",
       "tr": "Oluştur",
       "zh-CN": "创建",
-      "zh-TW": "建立"
+      "zh-TW": "建立",
+      "id": "Buat"
     },
     "Create Segment": {
       "es": "Crear segmento",
@@ -1219,7 +1229,8 @@
       "fr": "Créer un segment",
       "tr": "Segment oluştur",
       "zh-CN": "创建用户分群",
-      "zh-TW": "建立用戶分群"
+      "zh-TW": "建立用戶分群",
+      "id": "Buat Segment"
     },
     "Create Template": {
       "es": "Crear plantilla",
@@ -1229,7 +1240,8 @@
       "fr": "Créer un modèle",
       "tr": "Şablon oluştur",
       "zh-CN": "创建模板",
-      "zh-TW": "建立範本"
+      "zh-TW": "建立範本",
+      "id": "Buat Template"
     },
     "Create...": {
       "es": "Crear...",
@@ -1239,7 +1251,8 @@
       "fr": "Créer...",
       "tr": "Oluştur...",
       "zh-CN": "创建...",
-      "zh-TW": "建立..."
+      "zh-TW": "建立...",
+      "id": "Buat..."
     },
     "Created": {
       "es": "Creado",
@@ -1249,7 +1262,8 @@
       "fr": "Créé",
       "tr": "Oluşturuldu",
       "zh-CN": "已创建",
-      "zh-TW": "已建立"
+      "zh-TW": "已建立",
+      "id": "Dibuat"
     },
     "Created At": {
       "es": "Creado el",
@@ -1259,7 +1273,8 @@
       "fr": "Créé le",
       "tr": "Oluşturulma tarihi",
       "zh-CN": "创建时间",
-      "zh-TW": "建立時間"
+      "zh-TW": "建立時間",
+      "id": "Dibuat Pada"
     },
     "Created at": {
       "es": "Creado el",
@@ -1269,7 +1284,8 @@
       "fr": "Créé le",
       "tr": "Oluşturulma tarihi",
       "zh-CN": "创建时间",
-      "zh-TW": "建立時間"
+      "zh-TW": "建立時間",
+      "id": "Dibuat pada"
     },
     "Created by": {
       "es": "Creado por",
@@ -1279,7 +1295,8 @@
       "fr": "Créé par",
       "tr": "Oluşturan",
       "zh-CN": "创建者",
-      "zh-TW": "建立者"
+      "zh-TW": "建立者",
+      "id": "Dibuat oleh"
     },
     "CSV": {
       "es": "CSV",
@@ -1289,7 +1306,8 @@
       "fr": "CSV",
       "tr": "CSV",
       "zh-CN": "CSV",
-      "zh-TW": "CSV"
+      "zh-TW": "CSV",
+      "id": "CSV"
     },
     "CTR": {
       "ja": "クリック率",
@@ -1299,7 +1317,8 @@
       "fr": "CTR",
       "tr": "CTR",
       "zh-CN": "点击率",
-      "zh-TW": "點擊率"
+      "zh-TW": "點擊率",
+      "id": "CTR"
     },
     "Custom": {
       "es": "Personalizado",
@@ -1309,7 +1328,8 @@
       "fr": "Personnalisé",
       "tr": "Özel",
       "zh-CN": "自定义",
-      "zh-TW": "自訂"
+      "zh-TW": "自訂",
+      "id": "Kustom"
     },
     "Custom Audience": {
       "es": "Audiencia personalizada",
@@ -1319,7 +1339,8 @@
       "fr": "Audience personnalisée",
       "tr": "Özel hedef kitle",
       "zh-CN": "自定义受众",
-      "zh-TW": "自訂受眾"
+      "zh-TW": "自訂受眾",
+      "id": "Audiens Kustom"
     },
     "Custom Data": {
       "es": "Datos personalizados",
@@ -1329,7 +1350,8 @@
       "fr": "Données personnalisées",
       "tr": "Özel veriler",
       "zh-CN": "自定义数据",
-      "zh-TW": "自訂資料"
+      "zh-TW": "自訂資料",
+      "id": "Data Kustom"
     },
     "Custom Events": {
       "es": "Custom Events",
@@ -1339,7 +1361,8 @@
       "fr": "Événements personnalisés",
       "tr": "Özel etkinlikler",
       "zh-CN": "自定义事件",
-      "zh-TW": "自訂事件"
+      "zh-TW": "自訂事件",
+      "id": "Custom Events"
     },
     "Custom Range": {
       "es": "Rango personalizado",
@@ -1349,7 +1372,8 @@
       "fr": "Plage personnalisée",
       "tr": "Özel aralık",
       "zh-CN": "自定义范围",
-      "zh-TW": "自訂範圍"
+      "zh-TW": "自訂範圍",
+      "id": "Rentang Kustom"
     },
     "Dashboard": {
       "es": "Panel de control",
@@ -1359,7 +1383,8 @@
       "fr": "Tableau de bord",
       "tr": "Kontrol Paneli",
       "zh-CN": "仪表板",
-      "zh-TW": "儀表板"
+      "zh-TW": "儀表板",
+      "id": "Dashboard"
     },
     "Data": {
       "es": "Datos",
@@ -1369,7 +1394,8 @@
       "fr": "Données",
       "tr": "Veriler",
       "zh-CN": "数据",
-      "zh-TW": "資料"
+      "zh-TW": "資料",
+      "id": "Data"
     },
     "Data Feeds": {
       "es": "Data Feeds",
@@ -1379,7 +1405,8 @@
       "fr": "Flux de données",
       "tr": "Veri akışları",
       "zh-CN": "数据源",
-      "zh-TW": "資料串流"
+      "zh-TW": "資料串流",
+      "id": "Data Feeds"
     },
     "Data Tags": {
       "es": "Etiquetas de datos",
@@ -1389,7 +1416,8 @@
       "fr": "Tags de données",
       "tr": "Veri etiketleri",
       "zh-CN": "数据标签",
-      "zh-TW": "資料標籤"
+      "zh-TW": "資料標籤",
+      "id": "Tag Data"
     },
     "data tags": {
       "es": "etiquetas de datos",
@@ -1399,7 +1427,8 @@
       "fr": "tags de données",
       "tr": "veri etiketleri",
       "zh-CN": "数据标签",
-      "zh-TW": "資料標籤"
+      "zh-TW": "資料標籤",
+      "id": "tag data"
     },
     "Date": {
       "es": "Fecha",
@@ -1409,7 +1438,8 @@
       "fr": "Date",
       "tr": "Tarih",
       "zh-CN": "日期",
-      "zh-TW": "日期"
+      "zh-TW": "日期",
+      "id": "Tanggal"
     },
     "Date Range": {
       "es": "Rango de fechas",
@@ -1419,7 +1449,8 @@
       "fr": "Plage de dates",
       "tr": "Tarih aralığı",
       "zh-CN": "日期范围",
-      "zh-TW": "日期範圍"
+      "zh-TW": "日期範圍",
+      "id": "Rentang Tanggal"
     },
     "Date Sent": {
       "es": "Fecha de envío",
@@ -1429,7 +1460,8 @@
       "fr": "Date d'envoi",
       "tr": "Gönderim tarihi",
       "zh-CN": "发送日期",
-      "zh-TW": "發送日期"
+      "zh-TW": "發送日期",
+      "id": "Tanggal Dikirim"
     },
     "Deactivate": {
       "es": "Desactivar",
@@ -1439,7 +1471,8 @@
       "fr": "Désactiver",
       "tr": "Devre dışı bırak",
       "zh-CN": "停用",
-      "zh-TW": "停用"
+      "zh-TW": "停用",
+      "id": "Nonaktifkan"
     },
     "Dec": {
       "es": "dic",
@@ -1449,7 +1482,8 @@
       "fr": "déc",
       "tr": "ara",
       "zh-CN": "12月",
-      "zh-TW": "12月"
+      "zh-TW": "12月",
+      "id": "Des"
     },
     "December": {
       "es": "diciembre",
@@ -1459,7 +1493,8 @@
       "fr": "décembre",
       "tr": "aralık",
       "zh-CN": "12月",
-      "zh-TW": "12月"
+      "zh-TW": "12月",
+      "id": "Desember"
     },
     "Default Language": {
       "es": "Idioma predeterminado",
@@ -1469,7 +1504,8 @@
       "fr": "Langue par défaut",
       "tr": "Varsayılan dil",
       "zh-CN": "默认语言",
-      "zh-TW": "預設語言"
+      "zh-TW": "預設語言",
+      "id": "Bahasa Default"
     },
     "Delay": {
       "es": "Retraso",
@@ -1479,7 +1515,8 @@
       "fr": "Délai",
       "tr": "Gecikme",
       "zh-CN": "延迟",
-      "zh-TW": "延遲"
+      "zh-TW": "延遲",
+      "id": "Tunda"
     },
     "Delete": {
       "es": "Eliminar",
@@ -1489,7 +1526,8 @@
       "fr": "Supprimer",
       "tr": "Sil",
       "zh-CN": "删除",
-      "zh-TW": "刪除"
+      "zh-TW": "刪除",
+      "id": "Hapus"
     },
     "Delete App": {
       "es": "Eliminar app",
@@ -1499,7 +1537,8 @@
       "fr": "Supprimer l'app",
       "tr": "Uygulamayı sil",
       "zh-CN": "删除应用",
-      "zh-TW": "刪除應用"
+      "zh-TW": "刪除應用",
+      "id": "Hapus Aplikasi"
     },
     "Delete Segment": {
       "es": "Eliminar segmento",
@@ -1509,7 +1548,8 @@
       "fr": "Supprimer le segment",
       "tr": "Segmenti sil",
       "zh-CN": "删除用户分群",
-      "zh-TW": "刪除用戶分群"
+      "zh-TW": "刪除用戶分群",
+      "id": "Hapus Segment"
     },
     "Delete Template": {
       "es": "Eliminar plantilla",
@@ -1519,7 +1559,8 @@
       "fr": "Supprimer le modèle",
       "tr": "Şablonu sil",
       "zh-CN": "删除模板",
-      "zh-TW": "刪除範本"
+      "zh-TW": "刪除範本",
+      "id": "Hapus Template"
     },
     "Delivered": {
       "es": "Entregado",
@@ -1529,7 +1570,8 @@
       "fr": "Livré",
       "tr": "Teslim edildi",
       "zh-CN": "已送达",
-      "zh-TW": "已送達"
+      "zh-TW": "已送達",
+      "id": "Tersampaikan"
     },
     "Delivered Events": {
       "es": "Eventos entregados",
@@ -1539,7 +1581,8 @@
       "fr": "Événements livrés",
       "tr": "Teslim edilen etkinlikler",
       "zh-CN": "已送达事件",
-      "zh-TW": "已送達事件"
+      "zh-TW": "已送達事件",
+      "id": "Event Tersampaikan"
     },
     "Delivery": {
       "es": "Entregados",
@@ -1549,7 +1592,8 @@
       "fr": "Livraison",
       "tr": "Bildirim Geçmişi",
       "zh-CN": "送达",
-      "zh-TW": "送達"
+      "zh-TW": "送達",
+      "id": "Pengiriman"
     },
     "Delivery Rate": {
       "es": "Delivery Rate",
@@ -1559,7 +1603,8 @@
       "fr": "Taux de livraison",
       "tr": "Teslim oranı",
       "zh-CN": "送达率",
-      "zh-TW": "送達率"
+      "zh-TW": "送達率",
+      "id": "Delivery Rate"
     },
     "Destination URL": {
       "es": "URL de destino",
@@ -1569,7 +1614,8 @@
       "fr": "URL de destination",
       "tr": "Hedef URL",
       "zh-CN": "目标 URL",
-      "zh-TW": "目標 URL"
+      "zh-TW": "目標 URL",
+      "id": "URL Tujuan"
     },
     "Details": {
       "es": "Detalles",
@@ -1579,7 +1625,8 @@
       "fr": "Détails",
       "tr": "Ayrıntılar",
       "zh-CN": "详情",
-      "zh-TW": "詳情"
+      "zh-TW": "詳情",
+      "id": "Detail"
     },
     "Device": {
       "es": "Dispositivo",
@@ -1589,7 +1636,8 @@
       "fr": "Appareil",
       "tr": "Cihaz",
       "zh-CN": "设备",
-      "zh-TW": "裝置"
+      "zh-TW": "裝置",
+      "id": "Perangkat"
     },
     "Device Type": {
       "es": "Tipo de dispositivo",
@@ -1599,7 +1647,8 @@
       "fr": "Type d'appareil",
       "tr": "Cihaz türü",
       "zh-CN": "设备类型",
-      "zh-TW": "裝置類型"
+      "zh-TW": "裝置類型",
+      "id": "Jenis Perangkat"
     },
     "Direct": {
       "es": "Directo",
@@ -1609,7 +1658,8 @@
       "fr": "Direct",
       "tr": "Doğrudan",
       "zh-CN": "直接",
-      "zh-TW": "直接"
+      "zh-TW": "直接",
+      "id": "Langsung"
     },
     "Disable": {
       "es": "Deshabilitar",
