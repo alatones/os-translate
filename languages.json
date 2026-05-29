@@ -14836,7 +14836,8 @@
       "fr": "Autoriser le remplacement de la limitation push à la création",
       "tr": "Oluşturma sırasında push sınırlamasının geçersiz kılınmasına izin ver",
       "zh-CN": "允许在创建时覆盖推送限速",
-      "zh-TW": "允許在建立時覆蓋推送限速"
+      "zh-TW": "允許在建立時覆蓋推送限速",
+      "id": "Izinkan penggantian pembatasan push saat pembuatan"
     },
     "Campaign": {
       "ja": "キャンペーン",
@@ -14846,7 +14847,8 @@
       "fr": "Campagne",
       "tr": "Kampanya",
       "zh-CN": "营销活动",
-      "zh-TW": "營銷活動"
+      "zh-TW": "營銷活動",
+      "id": "Kampanye"
     },
     "Medium": {
       "ja": "メディア",
@@ -14856,7 +14858,8 @@
       "fr": "Moyen",
       "tr": "Orta",
       "zh-CN": "中",
-      "zh-TW": "中"
+      "zh-TW": "中",
+      "id": "Sedang"
     },
     "Messages per minute": {
       "ja": "毎分のメッセージ数",
@@ -14866,7 +14869,8 @@
       "fr": "Messages par minute",
       "tr": "Dakikada mesaj",
       "zh-CN": "每分钟消息数",
-      "zh-TW": "每分鐘訊息數"
+      "zh-TW": "每分鐘訊息數",
+      "id": "Pesan per menit"
     },
     "Save UTM Settings": {
       "ja": "UTM設定を保存",
@@ -14876,7 +14880,8 @@
       "fr": "Enregistrer les paramètres UTM",
       "tr": "UTM ayarlarını kaydet",
       "zh-CN": "保存 UTM 设置",
-      "zh-TW": "儲存 UTM 設定"
+      "zh-TW": "儲存 UTM 設定",
+      "id": "Simpan Pengaturan UTM"
     },
     "This limit will be set for each individual push message unless you override it on creation": {
       "ja": "この制限は、作成時に上書きしない限り、個別のプッシュメッセージごとに設定されます",
@@ -14886,7 +14891,8 @@
       "fr": "Cette limite sera appliquée à chaque message push individuel sauf si vous la remplacez à la création",
       "tr": "Bu limit, oluşturma sırasında geçersiz kılmadığınız sürece her bir push mesajı için ayrı ayrı uygulanır",
       "zh-CN": "除非您在创建时覆盖，否则此限制将适用于每条推送消息",
-      "zh-TW": "除非您在建立時覆蓋，否則此限制將適用於每條推送訊息"
+      "zh-TW": "除非您在建立時覆蓋，否則此限制將適用於每條推送訊息",
+      "id": "Batas ini akan ditetapkan untuk setiap pesan push individual kecuali Anda menggantinya saat pembuatan"
     },
     ".p8 Auth Key": {
       "ja": ".p8認証キー",
@@ -14896,7 +14902,8 @@
       "fr": "Clé d'authentification .p8",
       "tr": ".p8 kimlik doğrulama anahtarı",
       "zh-CN": ".p8 身份验证密钥",
-      "zh-TW": ".p8 身份驗證密鑰"
+      "zh-TW": ".p8 身份驗證密鑰",
+      "id": "Kunci Auth .p8"
     },
     "60 Minutes": {
       "ja": "60分",
@@ -14906,7 +14913,8 @@
       "fr": "60 minutes",
       "tr": "60 dakika",
       "zh-CN": "60 分钟",
-      "zh-TW": "60 分鐘"
+      "zh-TW": "60 分鐘",
+      "id": "60 Menit"
     },
     "Active Platforms": {
       "ja": "アクティブなプラットフォーム",
@@ -14916,7 +14924,8 @@
       "fr": "Plateformes actives",
       "tr": "Aktif platformlar",
       "zh-CN": "活跃平台",
-      "zh-TW": "活躍平台"
+      "zh-TW": "活躍平台",
+      "id": "Platform Aktif"
     },
     "Add Group": {
       "ja": "グループを追加",
@@ -14926,7 +14935,8 @@
       "fr": "Ajouter un groupe",
       "tr": "Grup ekle",
       "zh-CN": "添加组",
-      "zh-TW": "新增群組"
+      "zh-TW": "新增群組",
+      "id": "Tambah Grup"
     },
     "Amazon Fire": {
       "ja": "Amazon Fire",
@@ -14936,7 +14946,8 @@
       "fr": "Amazon Fire",
       "tr": "Amazon Fire",
       "zh-CN": "Amazon Fire",
-      "zh-TW": "Amazon Fire"
+      "zh-TW": "Amazon Fire",
+      "id": "Amazon Fire"
     },
     "Android Notification Channels": {
       "ja": "Android通知チャネル",
@@ -14946,7 +14957,8 @@
       "fr": "Canaux de notification Android",
       "tr": "Android bildirim kanalları",
       "zh-CN": "Android 通知渠道",
-      "zh-TW": "Android 通知渠道"
+      "zh-TW": "Android 通知渠道",
+      "id": "Saluran Notifikasi Android"
     },
     "Apple iOS (APNs)": {
       "ja": "Apple iOS (APNs)",
@@ -14956,7 +14968,8 @@
       "fr": "Apple iOS (APNs)",
       "tr": "Apple iOS (APNs)",
       "zh-CN": "Apple iOS (APNs)",
-      "zh-TW": "Apple iOS (APNs)"
+      "zh-TW": "Apple iOS (APNs)",
+      "id": "Apple iOS (APNs)"
     },
     "Authentication": {
       "ja": "認証",
@@ -14966,7 +14979,8 @@
       "fr": "Authentification",
       "tr": "Kimlik doğrulama",
       "zh-CN": "身份验证",
-      "zh-TW": "身份驗證"
+      "zh-TW": "身份驗證",
+      "id": "Autentikasi"
     },
     "Automatically limit push notifications": {
       "ja": "プッシュ通知を自動的に制限",
@@ -14976,7 +14990,8 @@
       "fr": "Limiter automatiquement les notifications push",
       "tr": "Push bildirimlerini otomatik olarak sınırla",
       "zh-CN": "自动限制推送通知",
-      "zh-TW": "自動限制推送通知"
+      "zh-TW": "自動限制推送通知",
+      "id": "Batasi notifikasi push secara otomatis"
     },
     "Bundle ID": {
       "ja": "バンドルID",
@@ -14986,7 +15001,8 @@
       "fr": "Bundle ID",
       "tr": "Bundle ID",
       "zh-CN": "Bundle ID",
-      "zh-TW": "Bundle ID"
+      "zh-TW": "Bundle ID",
+      "id": "ID Bundle"
     },
     "Channels documentation.": {
       "ja": "チャネル文書。",
@@ -14996,7 +15012,8 @@
       "fr": "Documentation des canaux.",
       "tr": "Kanal dokümantasyonu.",
       "zh-CN": "渠道文档。",
-      "zh-TW": "渠道文件。"
+      "zh-TW": "渠道文件。",
+      "id": "Dokumentasi saluran."
     },
     "Chrome Extensions": {
       "ja": "Chrome拡張機能",
@@ -15006,7 +15023,8 @@
       "fr": "Extensions Chrome",
       "tr": "Chrome uzantıları",
       "zh-CN": "Chrome 扩展",
-      "zh-TW": "Chrome 擴充功能"
+      "zh-TW": "Chrome 擴充功能",
+      "id": "Ekstensi Chrome"
     },
     "Google Android (FCM)": {
       "ja": "Google Android (FCM)",
@@ -15016,7 +15034,8 @@
       "fr": "Google Android (FCM)",
       "tr": "Google Android (FCM)",
       "zh-CN": "Google Android (FCM)",
-      "zh-TW": "Google Android (FCM)"
+      "zh-TW": "Google Android (FCM)",
+      "id": "Google Android (FCM)"
     },
     "Huawei Android (HMS)": {
       "ja": "Huawei Android (HMS)",
@@ -15026,7 +15045,8 @@
       "fr": "Huawei Android (HMS)",
       "tr": "Huawei Android (HMS)",
       "zh-CN": "Huawei Android (HMS)",
-      "zh-TW": "Huawei Android (HMS)"
+      "zh-TW": "Huawei Android (HMS)",
+      "id": "Huawei Android (HMS)"
     },
     "Inactive Platforms": {
       "ja": "非アクティブなプラットフォーム",
@@ -15036,7 +15056,8 @@
       "fr": "Plateformes inactives",
       "tr": "Pasif platformlar",
       "zh-CN": "不活跃平台",
-      "zh-TW": "不活躍平台"
+      "zh-TW": "不活躍平台",
+      "id": "Platform Tidak Aktif"
     },
     "Influenced Open": {
       "ja": "影響を受けた開封",
@@ -15046,7 +15067,8 @@
       "fr": "Ouverture influencée",
       "tr": "Etkilenen açılma",
       "zh-CN": "受影响的打开",
-      "zh-TW": "受影響的開啟"
+      "zh-TW": "受影響的開啟",
+      "id": "Pembukaan Terpengaruh"
     },
     "Influenced Opens documentation.": {
       "ja": "影響を受けた開封の文書。",
@@ -15056,7 +15078,8 @@
       "fr": "Documentation des ouvertures influencées.",
       "tr": "Etkilenen açılmalar dokümantasyonu.",
       "zh-CN": "受影响的打开文档。",
-      "zh-TW": "受影響的開啟文件。"
+      "zh-TW": "受影響的開啟文件。",
+      "id": "Dokumentasi Pembukaan Terpengaruh."
     },
     "Influenced time period": {
       "ja": "影響期間",
@@ -15066,7 +15089,8 @@
       "fr": "Période d'influence",
       "tr": "Etki dönemi",
       "zh-CN": "影响时间段",
-      "zh-TW": "影響時間段"
+      "zh-TW": "影響時間段",
+      "id": "Periode waktu yang dipengaruhi"
     },
     "Notification channels are an Android 8.0 (API level 26) feature which gives users finer control over notifications.": {
       "ja": "通知チャネルはAndroid 8.0 (APIレベル26) の機能で、ユーザーが通知をより細かく制御できます。",
@@ -15076,7 +15100,8 @@
       "fr": "Les canaux de notification sont une fonctionnalité d'Android 8.0 (niveau API 26) qui offre aux utilisateurs un contrôle plus fin sur les notifications.",
       "tr": "Bildirim kanalları, kullanıcılara bildirimler üzerinde daha hassas denetim sağlayan bir Android 8.0 (API düzeyi 26) özelliğidir.",
       "zh-CN": "通知渠道是 Android 8.0（API 级别 26）的功能，让用户能够更精细地控制通知。",
-      "zh-TW": "通知渠道是 Android 8.0（API 級別 26）的功能，讓用戶能夠更精細地控制通知。"
+      "zh-TW": "通知渠道是 Android 8.0（API 級別 26）的功能，讓用戶能夠更精細地控制通知。",
+      "id": "Saluran notifikasi adalah fitur Android 8.0 (tingkat API 26) yang memberikan kontrol lebih halus kepada pengguna atas notifikasi."
     },
     "Push Frequency Capping": {
       "ja": "プッシュ頻度制限",
@@ -15086,7 +15111,8 @@
       "fr": "Plafonnement de fréquence du push",
       "tr": "Push frekans sınırı",
       "zh-CN": "推送频率限制",
-      "zh-TW": "推送頻率限制"
+      "zh-TW": "推送頻率限制",
+      "id": "Pembatasan Frekuensi Push"
     },
     "Push Throttling": {
       "ja": "プッシュスロットリング",
@@ -15096,7 +15122,8 @@
       "fr": "Limitation du push",
       "tr": "Push sınırlaması",
       "zh-CN": "推送限速",
-      "zh-TW": "推送限速"
+      "zh-TW": "推送限速",
+      "id": "Pembatasan Push"
     },
     "Reply-To": {
       "ja": "返信先",
@@ -15106,7 +15133,8 @@
       "fr": "Répondre à",
       "tr": "Yanıt adresi",
       "zh-CN": "回复至",
-      "zh-TW": "回覆至"
+      "zh-TW": "回覆至",
+      "id": "Balas-Ke"
     },
     "Reputation": {
       "ja": "評判",
@@ -15116,7 +15144,8 @@
       "fr": "Réputation",
       "tr": "İtibar",
       "zh-CN": "信誉",
-      "zh-TW": "信譽"
+      "zh-TW": "信譽",
+      "id": "Reputasi"
     },
     "Set Up Authenticated Sender": {
       "ja": "認証済み送信者を設定",
@@ -15126,7 +15155,8 @@
       "fr": "Configurer un expéditeur authentifié",
       "tr": "Kimlik doğrulamalı gönderen kur",
       "zh-CN": "设置经身份验证的发件人",
-      "zh-TW": "設定經身份驗證的發件人"
+      "zh-TW": "設定經身份驗證的發件人",
+      "id": "Siapkan Pengirim Terautentikasi"
     },
     "Super-User": {
       "ja": "スーパーユーザー",
@@ -15136,7 +15166,8 @@
       "fr": "Super-utilisateur",
       "tr": "Süper kullanıcı",
       "zh-CN": "超级用户",
-      "zh-TW": "超級用戶"
+      "zh-TW": "超級用戶",
+      "id": "Super Pengguna"
     },
     "Suppressions": {
       "ja": "サプレッション",
@@ -15146,7 +15177,8 @@
       "fr": "Suppressions",
       "tr": "Engelliler",
       "zh-CN": "屏蔽",
-      "zh-TW": "屏蔽"
+      "zh-TW": "屏蔽",
+      "id": "Penekanan"
     },
     "Turn on automated UTM tagging": {
       "ja": "自動UTMタグ付けを有効化",
@@ -15156,7 +15188,8 @@
       "fr": "Activer le marquage UTM automatique",
       "tr": "Otomatik UTM etiketlemeyi aç",
       "zh-CN": "启用自动 UTM 标记",
-      "zh-TW": "啟用自動 UTM 標記"
+      "zh-TW": "啟用自動 UTM 標記",
+      "id": "Aktifkan penandaan UTM otomatis"
     },
     "UTM Settings": {
       "ja": "UTM設定",
@@ -15166,7 +15199,8 @@
       "fr": "Paramètres UTM",
       "tr": "UTM ayarları",
       "zh-CN": "UTM 设置",
-      "zh-TW": "UTM 設定"
+      "zh-TW": "UTM 設定",
+      "id": "Pengaturan UTM"
     },
     "Windows (UWP)": {
       "ja": "Windows (UWP)",
@@ -15176,7 +15210,8 @@
       "fr": "Windows (UWP)",
       "tr": "Windows (UWP)",
       "zh-CN": "Windows (UWP)",
-      "zh-TW": "Windows (UWP)"
+      "zh-TW": "Windows (UWP)",
+      "id": "Windows (UWP)"
     },
     "is when a user doesn't tap into your app directly from a message, but rather within a set time period after that message was received.": {
       "ja": "は、ユーザーがメッセージから直接アプリを開かず、そのメッセージを受け取った後の所定の期間内にアプリを開いた場合のことです。",
@@ -15186,7 +15221,8 @@
       "fr": "désigne le cas où un utilisateur n'ouvre pas votre app directement depuis un message, mais plutôt dans une période de temps définie après la réception de ce message.",
       "tr": "kullanıcının uygulamanıza doğrudan bir mesajdan değil, o mesajın alınmasından sonraki belirli bir süre içinde girmesidir.",
       "zh-CN": "是指用户没有直接从消息打开您的应用，而是在收到该消息后的设定时间段内打开。",
-      "zh-TW": "是指用戶沒有直接從訊息開啟您的應用，而是在收到該訊息後的設定時間段內開啟。"
+      "zh-TW": "是指用戶沒有直接從訊息開啟您的應用，而是在收到該訊息後的設定時間段內開啟。",
+      "id": "adalah saat pengguna tidak mengetuk aplikasi Anda langsung dari pesan, tetapi dalam periode waktu tertentu setelah pesan itu diterima."
     },
     "1 Requested mail action aborted, mailbox not found": {
       "ja": "1 要求されたメール処理が中止されました。メールボックスが見つかりません",
@@ -15196,7 +15232,8 @@
       "fr": "1 Action mail demandée annulée, boîte aux lettres introuvable",
       "tr": "1 İstenen email eylemi iptal edildi, posta kutusu bulunamadı",
       "zh-CN": "1 请求的邮件操作已中止，找不到邮箱",
-      "zh-TW": "1 請求的郵件操作已中止，找不到郵箱"
+      "zh-TW": "1 請求的郵件操作已中止，找不到郵箱",
+      "id": "1 Tindakan surat yang diminta dibatalkan, kotak surat tidak ditemukan"
     },
     "Bounced": {
       "ja": "バウンス",
@@ -15206,7 +15243,8 @@
       "fr": "Rejeté",
       "tr": "Geri döndü",
       "zh-CN": "已退回",
-      "zh-TW": "已退回"
+      "zh-TW": "已退回",
+      "id": "Terpental"
     },
     "Manually added": {
       "ja": "手動で追加",
@@ -15216,7 +15254,8 @@
       "fr": "Ajouté manuellement",
       "tr": "Manuel olarak eklendi",
       "zh-CN": "手动添加",
-      "zh-TW": "手動新增"
+      "zh-TW": "手動新增",
+      "id": "Ditambahkan secara manual"
     },
     "Search by email": {
       "ja": "メールで検索",
@@ -15226,7 +15265,8 @@
       "fr": "Rechercher par email",
       "tr": "Email'e göre ara",
       "zh-CN": "按电子邮件搜索",
-      "zh-TW": "按電郵搜尋"
+      "zh-TW": "按電郵搜尋",
+      "id": "Cari berdasarkan email"
     },
     "To manage your suppression list, go to": {
       "ja": "サプレッションリストを管理するには、次に移動してください:",
@@ -15236,7 +15276,8 @@
       "fr": "Pour gérer votre liste de suppression, allez à",
       "tr": "Engelli listenizi yönetmek için şuraya gidin:",
       "zh-CN": "要管理您的屏蔽列表，请前往",
-      "zh-TW": "要管理您的屏蔽列表，請前往"
+      "zh-TW": "要管理您的屏蔽列表，請前往",
+      "id": "Untuk mengelola daftar penekanan Anda, buka"
     },
     "Add Email": {
       "ja": "メールを追加",
@@ -15246,7 +15287,8 @@
       "fr": "Ajouter un email",
       "tr": "Email ekle",
       "zh-CN": "添加电子邮件",
-      "zh-TW": "新增電郵"
+      "zh-TW": "新增電郵",
+      "id": "Tambah Email"
     },
     "Bounce Rate": {
       "ja": "バウンス率",
@@ -15256,7 +15298,8 @@
       "fr": "Taux de rebond",
       "tr": "Geri dönüş oranı",
       "zh-CN": "退回率",
-      "zh-TW": "退回率"
+      "zh-TW": "退回率",
+      "id": "Tingkat Pentalan"
     },
     "Domain": {
       "ja": "ドメイン",
@@ -15266,7 +15309,8 @@
       "fr": "Domaine",
       "tr": "Etki alanı",
       "zh-CN": "域名",
-      "zh-TW": "網域"
+      "zh-TW": "網域",
+      "id": "Domain"
     },
     "Last 24 hours": {
       "ja": "過去24時間",
@@ -15276,7 +15320,8 @@
       "fr": "Dernières 24 heures",
       "tr": "Son 24 saat",
       "zh-CN": "过去 24 小时",
-      "zh-TW": "過去 24 小時"
+      "zh-TW": "過去 24 小時",
+      "id": "24 jam terakhir"
     },
     "Mailgun Credentials": {
       "ja": "Mailgun資格情報",
@@ -15286,7 +15331,8 @@
       "fr": "Identifiants Mailgun",
       "tr": "Mailgun kimlik bilgileri",
       "zh-CN": "Mailgun 凭据",
-      "zh-TW": "Mailgun 憑證"
+      "zh-TW": "Mailgun 憑證",
+      "id": "Kredensial Mailgun"
     },
     "Manually Added": {
       "ja": "手動で追加",
@@ -15296,7 +15342,8 @@
       "fr": "Ajouté manuellement",
       "tr": "Manuel olarak eklendi",
       "zh-CN": "手动添加",
-      "zh-TW": "手動新增"
+      "zh-TW": "手動新增",
+      "id": "Ditambahkan Secara Manual"
     },
     "OneSignal only provides suppression management for users using OneSignal email.": {
       "ja": "OneSignalはOneSignalメールを使用しているユーザーに対してのみサプレッション管理を提供します。",
@@ -15306,7 +15353,8 @@
       "fr": "OneSignal ne fournit la gestion de suppression que pour les utilisateurs d'OneSignal email.",
       "tr": "OneSignal yalnızca OneSignal email kullanan kullanıcılar için engelli yönetimi sağlar.",
       "zh-CN": "OneSignal 仅为使用 OneSignal email 的用户提供屏蔽管理。",
-      "zh-TW": "OneSignal 僅為使用 OneSignal email 的用戶提供屏蔽管理。"
+      "zh-TW": "OneSignal 僅為使用 OneSignal email 的用戶提供屏蔽管理。",
+      "id": "OneSignal hanya menyediakan manajemen penekanan untuk pengguna yang menggunakan email OneSignal."
     },
     "OneSignal rates your reputation based on the bounce rate and spam rate of your emails. The spam rates do not include spam reports from Gmail. To see Gmail spam reports, setup Google postmaster.": {
       "ja": "OneSignalはメールのバウンス率とスパム率に基づいて評判を評価します。スパム率にはGmailからのスパム報告は含まれません。Gmailのスパム報告を確認するには、Google Postmasterを設定してください。",
