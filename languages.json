@@ -11602,7 +11602,8 @@
       "fr": "Définir un objectif de Parcours",
       "tr": "Yolculuk hedefi belirle",
       "zh-CN": "设置旅程目标",
-      "zh-TW": "設定旅程目標"
+      "zh-TW": "設定旅程目標",
+      "id": "Tetapkan Tujuan Journey"
     },
     "Set a target metric to measure this": {
       "ja": "これを測定する目標指標を設定",
@@ -11612,7 +11613,8 @@
       "fr": "Définissez une métrique cible pour mesurer cela",
       "tr": "Bunu ölçmek için hedef metrik belirleyin",
       "zh-CN": "设置目标指标以衡量此项",
-      "zh-TW": "設定目標指標以衡量此項"
+      "zh-TW": "設定目標指標以衡量此項",
+      "id": "Tetapkan metrik target untuk mengukur ini"
     },
     "Start immediately": {
       "ja": "即時開始",
@@ -11622,7 +11624,8 @@
       "fr": "Démarrer immédiatement",
       "tr": "Hemen başla",
       "zh-CN": "立即开始",
-      "zh-TW": "立即開始"
+      "zh-TW": "立即開始",
+      "id": "Mulai segera"
     },
     "The journey is the reward.": {
       "ja": "ジャーニーそのものが報酬です。",
@@ -11632,7 +11635,8 @@
       "fr": "Le parcours est la récompense.",
       "tr": "Yolculuğun kendisi ödüldür.",
       "zh-CN": "旅程本身就是奖励。",
-      "zh-TW": "旅程本身就是獎勵。"
+      "zh-TW": "旅程本身就是獎勵。",
+      "id": "Perjalanan adalah hadiahnya."
     },
     "They moved through the entire Journey": {
       "ja": "ジャーニー全体を通過したとき",
@@ -11642,7 +11646,8 @@
       "fr": "Ils ont parcouru le Parcours en entier",
       "tr": "Tüm Yolculuğu tamamladılar",
       "zh-CN": "他们已通过整个旅程",
-      "zh-TW": "他們已通過整個旅程"
+      "zh-TW": "他們已通過整個旅程",
+      "id": "Mereka telah melewati seluruh Journey"
     },
     "Users exit when they have moved through the full Journey.": {
       "ja": "ユーザーはジャーニー全体を通過したときに退出します。",
@@ -11652,7 +11657,8 @@
       "fr": "Les utilisateurs sortent lorsqu'ils ont parcouru tout le Parcours.",
       "tr": "Kullanıcılar tüm Yolculuğu tamamladıklarında çıkarlar.",
       "zh-CN": "用户在通过整个旅程时退出。",
-      "zh-TW": "用戶在通過整個旅程時退出。"
+      "zh-TW": "用戶在通過整個旅程時退出。",
+      "id": "Pengguna keluar saat telah melewati seluruh Journey."
     },
     "Users exit when they match the rules you have set on a particular segment or condition.": {
       "ja": "ユーザーは特定のセグメントまたは条件に設定したルールに一致したときに退出します。",
@@ -11662,7 +11668,8 @@
       "fr": "Les utilisateurs sortent lorsqu'ils correspondent aux règles que vous avez définies sur un segment ou une condition particulière.",
       "tr": "Kullanıcılar, belirli bir segment veya koşulda belirlediğiniz kurallarla eşleştiğinde çıkarlar.",
       "zh-CN": "用户在匹配您为特定用户分群或条件设置的规则时退出。",
-      "zh-TW": "用戶在匹配您為特定用戶分群或條件設定的規則時退出。"
+      "zh-TW": "用戶在匹配您為特定用戶分群或條件設定的規則時退出。",
+      "id": "Pengguna keluar saat memenuhi aturan yang Anda tetapkan pada Segment atau kondisi tertentu."
     },
     "When should users exit this Journey?": {
       "ja": "ユーザーはいつこのジャーニーを退出すべきですか？",
@@ -11672,7 +11679,8 @@
       "fr": "Quand les utilisateurs doivent-ils sortir de ce Parcours ?",
       "tr": "Kullanıcılar bu Yolculuktan ne zaman çıkmalı?",
       "zh-CN": "用户何时应退出此旅程？",
-      "zh-TW": "用戶何時應退出此旅程？"
+      "zh-TW": "用戶何時應退出此旅程？",
+      "id": "Kapan pengguna harus keluar dari Journey ini?"
     },
     "Your Journey will be become active at a specific time and date.": {
       "ja": "ジャーニーは特定の日時にアクティブになります。",
@@ -11682,7 +11690,8 @@
       "fr": "Votre Parcours deviendra actif à une date et heure précises.",
       "tr": "Yolculuğunuz belirli bir tarih ve saatte aktif olacak.",
       "zh-CN": "您的旅程将在指定的日期和时间激活。",
-      "zh-TW": "您的旅程將在指定的日期和時間啟用。"
+      "zh-TW": "您的旅程將在指定的日期和時間啟用。",
+      "id": "Journey Anda akan aktif pada waktu dan tanggal tertentu."
     },
     "Your Journey will become active as soon as you set it live.": {
       "ja": "ジャーニーはライブ化するとすぐにアクティブになります。",
@@ -11692,7 +11701,8 @@
       "fr": "Votre Parcours deviendra actif dès que vous le mettrez en ligne.",
       "tr": "Yolculuğunuz yayına aldığınız anda aktif olacak.",
       "zh-CN": "您的旅程在您设为上线后立即激活。",
-      "zh-TW": "您的旅程在您設為上線後立即啟用。"
+      "zh-TW": "您的旅程在您設為上線後立即啟用。",
+      "id": "Journey Anda akan aktif segera setelah Anda mengaktifkannya."
     },
     "Your Journey will stay active indefinitely.": {
       "ja": "ジャーニーは無期限にアクティブのままです。",
@@ -11702,7 +11712,8 @@
       "fr": "Votre Parcours restera actif indéfiniment.",
       "tr": "Yolculuğunuz süresiz olarak aktif kalacak.",
       "zh-CN": "您的旅程将持续保持活跃。",
-      "zh-TW": "您的旅程將持續保持活躍。"
+      "zh-TW": "您的旅程將持續保持活躍。",
+      "id": "Journey Anda akan tetap aktif tanpa batas waktu."
     },
     "Your Journey will stop on specific time and date.": {
       "ja": "ジャーニーは特定の日時に停止します。",
@@ -11712,7 +11723,8 @@
       "fr": "Votre Parcours s'arrêtera à une date et heure précises.",
       "tr": "Yolculuğunuz belirli bir tarih ve saatte duracak.",
       "zh-CN": "您的旅程将在指定的日期和时间停止。",
-      "zh-TW": "您的旅程將在指定的日期和時間停止。"
+      "zh-TW": "您的旅程將在指定的日期和時間停止。",
+      "id": "Journey Anda akan berhenti pada waktu dan tanggal tertentu."
     },
     "ends": {
       "ja": "終了",
@@ -11722,7 +11734,8 @@
       "fr": "se termine",
       "tr": "biter",
       "zh-CN": "结束",
-      "zh-TW": "結束"
+      "zh-TW": "結束",
+      "id": "berakhir"
     },
     "notification timer": {
       "ja": "通知タイマー",
@@ -11732,7 +11745,8 @@
       "fr": "minuteur de notification",
       "tr": "bildirim zamanlayıcısı",
       "zh-CN": "通知计时器",
-      "zh-TW": "通知計時器"
+      "zh-TW": "通知計時器",
+      "id": "timer notifikasi"
     },
     "starts": {
       "ja": "開始",
@@ -11742,7 +11756,8 @@
       "fr": "commence",
       "tr": "başlar",
       "zh-CN": "开始",
-      "zh-TW": "開始"
+      "zh-TW": "開始",
+      "id": "dimulai"
     },
     "Build your own Journey from the ground up.": {
       "ja": "独自のジャーニーをゼロから構築。",
@@ -11752,7 +11767,8 @@
       "fr": "Construisez votre propre Parcours de A à Z.",
       "tr": "Kendi Yolculuğunuzu sıfırdan oluşturun.",
       "zh-CN": "从零开始构建您自己的旅程。",
-      "zh-TW": "從零開始建立您自己的旅程。"
+      "zh-TW": "從零開始建立您自己的旅程。",
+      "id": "Bangun Journey Anda sendiri dari awal."
     },
     "Choose a Journey to start": {
       "ja": "開始するジャーニーを選択",
@@ -11762,7 +11778,8 @@
       "fr": "Choisissez un Parcours pour commencer",
       "tr": "Başlamak için bir Yolculuk seçin",
       "zh-CN": "选择一个旅程来开始",
-      "zh-TW": "選擇一個旅程來開始"
+      "zh-TW": "選擇一個旅程來開始",
+      "id": "Pilih Journey untuk memulai"
     },
     "Describe the purpose of this Journey...": {
       "ja": "このジャーニーの目的を記述...",
@@ -11772,7 +11789,8 @@
       "fr": "Décrivez le but de ce Parcours...",
       "tr": "Bu Yolculuğun amacını açıklayın...",
       "zh-CN": "描述此旅程的目的...",
-      "zh-TW": "描述此旅程的目的..."
+      "zh-TW": "描述此旅程的目的...",
+      "id": "Jelaskan tujuan Journey ini..."
     },
     "Description": {
       "ja": "説明",
@@ -11782,7 +11800,8 @@
       "fr": "Description",
       "tr": "Açıklama",
       "zh-CN": "描述",
-      "zh-TW": "描述"
+      "zh-TW": "描述",
+      "id": "Deskripsi"
     },
     "Journey Name": {
       "ja": "ジャーニー名",
@@ -11792,7 +11811,8 @@
       "fr": "Nom du Parcours",
       "tr": "Yolculuk adı",
       "zh-CN": "旅程名称",
-      "zh-TW": "旅程名稱"
+      "zh-TW": "旅程名稱",
+      "id": "Nama Journey"
     },
     "My Journey": {
       "ja": "マイジャーニー",
@@ -11802,7 +11822,8 @@
       "fr": "Mon Parcours",
       "tr": "Yolculuğum",
       "zh-CN": "我的旅程",
-      "zh-TW": "我的旅程"
+      "zh-TW": "我的旅程",
+      "id": "Journey Saya"
     },
     "Name and describe your Journey": {
       "ja": "ジャーニーに名前を付けて説明",
@@ -11812,7 +11833,8 @@
       "fr": "Nommez et décrivez votre Parcours",
       "tr": "Yolculuğunuza ad verin ve açıklayın",
       "zh-CN": "为您的旅程命名并描述",
-      "zh-TW": "為您的旅程命名並描述"
+      "zh-TW": "為您的旅程命名並描述",
+      "id": "Beri nama dan deskripsikan Journey Anda"
     },
     "(v1)": {
       "ja": "(v1)",
@@ -11822,7 +11844,8 @@
       "fr": "(v1)",
       "tr": "(v1)",
       "zh-CN": "(v1)",
-      "zh-TW": "(v1)"
+      "zh-TW": "(v1)",
+      "id": "(v1)"
     },
     "(v2)": {
       "ja": "(v2)",
@@ -11832,7 +11855,8 @@
       "fr": "(v2)",
       "tr": "(v2)",
       "zh-CN": "(v2)",
-      "zh-TW": "(v2)"
+      "zh-TW": "(v2)",
+      "id": "(v2)"
     },
     "Consistent Naming": {
       "ja": "一貫した命名",
@@ -11842,7 +11866,8 @@
       "fr": "Nommage cohérent",
       "tr": "Tutarlı adlandırma",
       "zh-CN": "一致的命名",
-      "zh-TW": "一致的命名"
+      "zh-TW": "一致的命名",
+      "id": "Penamaan Konsisten"
     },
     "Current user permissions do not allow this action.": {
       "ja": "現在のユーザー権限ではこの操作は許可されていません。",
@@ -11852,7 +11877,8 @@
       "fr": "Les autorisations de l'utilisateur actuel ne permettent pas cette action.",
       "tr": "Mevcut kullanıcı izinleri bu işleme izin vermiyor.",
       "zh-CN": "当前用户权限不允许此操作。",
-      "zh-TW": "當前用戶權限不允許此操作。"
+      "zh-TW": "當前用戶權限不允許此操作。",
+      "id": "Izin pengguna saat ini tidak mengizinkan tindakan ini."
     },
     "Legacy Format": {
       "ja": "レガシー形式",
@@ -11862,7 +11888,8 @@
       "fr": "Ancien format",
       "tr": "Eski format",
       "zh-CN": "旧格式",
-      "zh-TW": "舊格式"
+      "zh-TW": "舊格式",
+      "id": "Format Lama"
     },
     "New Format": {
       "ja": "新しい形式",
@@ -11872,7 +11899,8 @@
       "fr": "Nouveau format",
       "tr": "Yeni format",
       "zh-CN": "新格式",
-      "zh-TW": "新格式"
+      "zh-TW": "新格式",
+      "id": "Format Baru"
     },
     "Recommended": {
       "ja": "推奨",
@@ -11882,7 +11910,8 @@
       "fr": "Recommandé",
       "tr": "Önerilen",
       "zh-CN": "推荐",
-      "zh-TW": "推薦"
+      "zh-TW": "推薦",
+      "id": "Direkomendasikan"
     },
     "Simpler Structure": {
       "ja": "よりシンプルな構造",
@@ -11892,7 +11921,8 @@
       "fr": "Structure plus simple",
       "tr": "Daha basit yapı",
       "zh-CN": "更简单的结构",
-      "zh-TW": "更簡單的結構"
+      "zh-TW": "更簡單的結構",
+      "id": "Struktur Lebih Sederhana"
     },
     "updated CSV format": {
       "ja": "更新されたCSV形式",
@@ -11902,7 +11932,8 @@
       "fr": "format CSV mis à jour",
       "tr": "güncellenmiş CSV formatı",
       "zh-CN": "更新的 CSV 格式",
-      "zh-TW": "更新的 CSV 格式"
+      "zh-TW": "更新的 CSV 格式",
+      "id": "format CSV yang diperbarui"
     },
     "Untitled Message": {
       "ja": "無題のメッセージ",
@@ -11912,7 +11943,8 @@
       "fr": "Message sans titre",
       "tr": "Adsız mesaj",
       "zh-CN": "未命名消息",
-      "zh-TW": "未命名訊息"
+      "zh-TW": "未命名訊息",
+      "id": "Pesan Tanpa Judul"
     },
     "Deliver immediately": {
       "ja": "すぐに配信",
@@ -11922,7 +11954,8 @@
       "fr": "Livrer immédiatement",
       "tr": "Hemen teslim et",
       "zh-CN": "立即送达",
-      "zh-TW": "立即送達"
+      "zh-TW": "立即送達",
+      "id": "Kirim segera"
     },
     "or paste URL": {
       "ja": "またはURLを貼り付け",
@@ -11932,7 +11965,8 @@
       "fr": "ou collez une URL",
       "tr": "veya URL yapıştırın",
       "zh-CN": "或粘贴 URL",
-      "zh-TW": "或貼上 URL"
+      "zh-TW": "或貼上 URL",
+      "id": "atau tempel URL"
     },
     "Refine": {
       "ja": "洗練",
@@ -11942,7 +11976,8 @@
       "fr": "Affiner",
       "tr": "İyileştir",
       "zh-CN": "优化",
-      "zh-TW": "優化"
+      "zh-TW": "優化",
+      "id": "Perhalus"
     },
     "Action ID 1": {
       "ja": "アクションID 1",
@@ -11952,7 +11987,8 @@
       "fr": "ID d'action 1",
       "tr": "Eylem ID 1",
       "zh-CN": "操作 ID 1",
-      "zh-TW": "操作 ID 1"
+      "zh-TW": "操作 ID 1",
+      "id": "ID Aksi 1"
     },
     "Add Button": {
       "ja": "ボタンを追加",
@@ -11962,7 +11998,8 @@
       "fr": "Ajouter un bouton",
       "tr": "Düğme ekle",
       "zh-CN": "添加按钮",
-      "zh-TW": "新增按鈕"
+      "zh-TW": "新增按鈕",
+      "id": "Tambah Tombol"
     },
     "Button Label 1": {
       "ja": "ボタンラベル 1",
@@ -11972,7 +12009,8 @@
       "fr": "Libellé du bouton 1",
       "tr": "Düğme etiketi 1",
       "zh-CN": "按钮标签 1",
-      "zh-TW": "按鈕標籤 1"
+      "zh-TW": "按鈕標籤 1",
+      "id": "Label Tombol 1"
     },
     "Category": {
       "ja": "カテゴリ",
@@ -11982,7 +12020,8 @@
       "fr": "Catégorie",
       "tr": "Kategori",
       "zh-CN": "类别",
-      "zh-TW": "類別"
+      "zh-TW": "類別",
+      "id": "Kategori"
     },
     "Icon": {
       "ja": "アイコン",
@@ -11992,7 +12031,8 @@
       "fr": "Icône",
       "tr": "Simge",
       "zh-CN": "图标",
-      "zh-TW": "圖示"
+      "zh-TW": "圖示",
+      "id": "Ikon"
     },
     "Remove Action 1": {
       "ja": "アクション1を削除",
@@ -12002,7 +12042,8 @@
       "fr": "Retirer l'action 1",
       "tr": "Eylem 1'i kaldır",
       "zh-CN": "移除操作 1",
-      "zh-TW": "移除操作 1"
+      "zh-TW": "移除操作 1",
+      "id": "Hapus Aksi 1"
     },
     "e.g. Accept": {
       "ja": "例: 承諾",
@@ -12012,7 +12053,8 @@
       "fr": "par ex. Accepter",
       "tr": "örn. Kabul et",
       "zh-CN": "例如接受",
-      "zh-TW": "例如接受"
+      "zh-TW": "例如接受",
+      "id": "mis. Terima"
     },
     "or paste resource name or URL": {
       "ja": "またはリソース名やURLを貼り付け",
@@ -12022,7 +12064,8 @@
       "fr": "ou collez un nom de ressource ou une URL",
       "tr": "veya kaynak adı ya da URL yapıştırın",
       "zh-CN": "或粘贴资源名称或 URL",
-      "zh-TW": "或貼上資源名稱或 URL"
+      "zh-TW": "或貼上資源名稱或 URL",
+      "id": "atau tempel nama resource atau URL"
     },
     "(Created in App)": {
       "ja": "(アプリで作成)",
@@ -12032,7 +12075,8 @@
       "fr": "(Créé dans l'app)",
       "tr": "(Uygulamada oluşturuldu)",
       "zh-CN": "（在应用中创建）",
-      "zh-TW": "（在應用中建立）"
+      "zh-TW": "（在應用中建立）",
+      "id": "(Dibuat di Aplikasi)"
     },
     "(recommended)": {
       "ja": "(推奨)",
@@ -12042,7 +12086,8 @@
       "fr": "(recommandé)",
       "tr": "(önerilen)",
       "zh-CN": "（推荐）",
-      "zh-TW": "（推薦）"
+      "zh-TW": "（推薦）",
+      "id": "(direkomendasikan)"
     },
     "0 (lowest priority)": {
       "ja": "0 (最低優先度)",
@@ -12052,7 +12097,8 @@
       "fr": "0 (priorité la plus basse)",
       "tr": "0 (en düşük öncelik)",
       "zh-CN": "0（最低优先级）",
-      "zh-TW": "0（最低優先級）"
+      "zh-TW": "0（最低優先級）",
+      "id": "0 (prioritas terendah)"
     },
     "4. Delivery Schedule": {
       "ja": "4. 配信スケジュール",
@@ -12062,7 +12108,8 @@
       "fr": "4. Planification d'envoi",
       "tr": "4. Gönderim planı",
       "zh-CN": "4. 发送计划",
-      "zh-TW": "4. 送達排程"
+      "zh-TW": "4. 送達排程",
+      "id": "4. Jadwal Pengiriman"
     },
     "5 per minute": {
       "ja": "毎分5件",
@@ -12072,7 +12119,8 @@
       "fr": "5 par minute",
       "tr": "Dakikada 5",
       "zh-CN": "每分钟 5 条",
-      "zh-TW": "每分鐘 5 條"
+      "zh-TW": "每分鐘 5 條",
+      "id": "5 per menit"
     },
     "Accent Color": {
       "ja": "アクセントカラー",
@@ -12082,7 +12130,8 @@
       "fr": "Couleur d'accentuation",
       "tr": "Vurgu rengi",
       "zh-CN": "强调色",
-      "zh-TW": "強調色"
+      "zh-TW": "強調色",
+      "id": "Warna Aksen"
     },
     "Action Icon Path 1": {
       "ja": "アクションアイコンパス 1",
