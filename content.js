@@ -51,13 +51,23 @@
   const MISSED_MARKDOWN_LINK_RE = /^\[.+\]\(.+\)$/;
   // OS + subscriber count: 'macOS (145)', 'Windows (147)', 'Linux x86_64 (129)'
   const MISSED_OS_COUNT_RE = /^(macOS|Windows|iOS|Android|Linux\b.*)\s*\(\d+\)$/;
-  // Day-of-week-prefixed chart labels: 'Mon, Apr 7' AND 'Fri Apr 10 (UTC)'.
-  const MISSED_CHART_TOOLTIP_RE = /^(Mon|Tue|Wed|Thu|Fri|Sat|Sun|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)(,\s|\s\w+\s\d+\s\(UTC\)$)/;
+  // Day-of-week-prefixed chart labels: 'Mon, Apr 7', 'Fri Apr 10 (UTC)',
+  // and 'Wed Apr 22 (UTC):' (Highcharts series tooltips often include a
+  // trailing colon before the value list).
+  const MISSED_CHART_TOOLTIP_RE = /^(Mon|Tue|Wed|Thu|Fri|Sat|Sun|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)(,\s|\s\w+\s\d+\s\(UTC\):?$)/;
   // Anything starting 'Apr 1, 2026' (full ISO-style date with year) — covers
   // bare dates, 'Apr 1, 2026 - Apr 30, 2026' ranges, 'Apr 23, 2026 1:04 PM'
   // timestamps, and 'Apr 1, 884. Total subscribed.' Highcharts data labels.
   const MISSED_CHART_DATA_RE = /^(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s\d+,\s\d{2,4}/;
-  const MISSED_CHART_META_RE = /^(Line chart with|The chart has \d|Created with Highcharts|Chart\. Highcharts|Toggle series visibility|End of interactive chart\.|Interactive chart$|Empty chart$|.+, line \d+ of \d+ with \d+ data points\.)/;
+  // Bare 'Month Day' chart axis labels (no year, no day-of-week prefix):
+  // 'May 8', 'Apr 28', 'January 14'. Highcharts emits these as x-axis
+  // ticks. Distinct from MISSED_CHART_DATA_RE which requires the year.
+  const MISSED_BARE_MONTH_DAY_RE = /^(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec|January|February|March|April|May|June|July|August|September|October|November|December)\s\d{1,2}$/;
+  const MISSED_CHART_META_RE = /^(Line chart with|The chart has \d|Created with Highcharts|Chart\. Highcharts|Toggle series visibility|End of interactive chart\.|Interactive chart$|Empty chart$|Chart with \d+ data points?\.$|.+, line \d+ of \d+ with \d+ data points\.)/;
+  // Chart y-axis numeric labels with magnitude suffix: '40.0k', '1.6M',
+  // '500.0k', '7.0k'. Always digits + optional decimals + k/M/B. Not UGC
+  // and not translatable copy — pure chart chrome.
+  const MISSED_METRIC_MAGNITUDE_RE = /^\d+(\.\d+)?[kKmMbB]$/;
   const MISSED_FULL_DATE_RE = /^(January|February|March|April|May|June|July|August|September|October|November|December)\s+\d+,\s+\d{4}$/;
   // Liquid template syntax leaking through DOM: '{{ user.external_id }}',
   // 'Hi {{ first_name | default: "there" }}', '{% if x %}'.
@@ -70,7 +80,11 @@
   // External ID label with appended user-set value: 'External ID: api-jon'.
   const MISSED_EXTERNAL_ID_RE = /^External ID:\s/;
   // Embedded 3rd-party widget chrome we never own and shouldn't track.
-  const MISSED_THIRD_PARTY_RE = /^(Intercom|Open Intercom Messenger|_hjSafeContext)$/;
+  // Includes Intercom (the support chat we use), Hotjar's _hjSafeContext
+  // probe, and Claude in Chrome — a browser-extension overlay that
+  // injects 'Claude is active in this tab group' and 'Open chat' into
+  // pages it's active on. Those aren't OneSignal UI.
+  const MISSED_THIRD_PARTY_RE = /^(Intercom|Open Intercom Messenger|_hjSafeContext|Claude is active in this tab group|Open chat)$/;
   // Bare OneSignal brand references that show up across many pages
   // (footers, links, version strings) and aren't translatable copy.
   // Compound feature names like "OneSignal AI" / "OneSignal ID" are
@@ -199,6 +213,8 @@
     if (MISSED_OS_COUNT_RE.test(s)) return false;
     if (MISSED_CHART_TOOLTIP_RE.test(s)) return false;
     if (MISSED_CHART_DATA_RE.test(s)) return false;
+    if (MISSED_BARE_MONTH_DAY_RE.test(s)) return false;
+    if (MISSED_METRIC_MAGNITUDE_RE.test(s)) return false;
     if (MISSED_CHART_META_RE.test(s)) return false;
     if (MISSED_FULL_DATE_RE.test(s)) return false;
     if (MISSED_LIQUID_RE.test(s)) return false;
