@@ -8819,7 +8819,8 @@
       "fr": "Rechercher une app",
       "tr": "Uygulama ara",
       "zh-CN": "搜索应用",
-      "zh-TW": "搜尋應用"
+      "zh-TW": "搜尋應用",
+      "id": "Cari aplikasi"
     },
     "Search for app": {
       "ja": "アプリを検索",
@@ -8829,7 +8830,8 @@
       "fr": "Rechercher une app",
       "tr": "Uygulama ara",
       "zh-CN": "搜索应用",
-      "zh-TW": "搜尋應用"
+      "zh-TW": "搜尋應用",
+      "id": "Cari aplikasi"
     },
     "Select Organization": {
       "ja": "組織を選択",
@@ -8839,7 +8841,8 @@
       "fr": "Sélectionner l'organisation",
       "tr": "Organizasyon seç",
       "zh-CN": "选择组织",
-      "zh-TW": "選擇組織"
+      "zh-TW": "選擇組織",
+      "id": "Pilih Organisasi"
     },
     "Remove Media": {
       "ja": "メディアを削除",
@@ -8849,7 +8852,8 @@
       "fr": "Retirer le média",
       "tr": "Medyayı kaldır",
       "zh-CN": "移除媒体",
-      "zh-TW": "移除媒體"
+      "zh-TW": "移除媒體",
+      "id": "Hapus Media"
     },
     "TAKE A TOUR": {
       "ja": "ツアーを開始",
@@ -8859,7 +8863,8 @@
       "fr": "FAIRE LA VISITE",
       "tr": "TURA BAŞLA",
       "zh-CN": "开始导览",
-      "zh-TW": "開始導覽"
+      "zh-TW": "開始導覽",
+      "id": "MULAI TUR"
     },
     "Tooltip anchor": {
       "ja": "ツールチップのアンカー",
@@ -8869,7 +8874,8 @@
       "fr": "Ancre d'info-bulle",
       "tr": "İpucu bağlantısı",
       "zh-CN": "提示锚点",
-      "zh-TW": "提示錨點"
+      "zh-TW": "提示錨點",
+      "id": "Jangkar tooltip"
     },
     "Custom Events let you track and respond to user activity in your app or website.": {
       "ja": "カスタムイベントを使うとアプリやウェブサイトでのユーザー活動を追跡して反応できます。",
@@ -8879,7 +8885,8 @@
       "fr": "Les événements personnalisés vous permettent de suivre l'activité des utilisateurs dans votre app ou site web et d'y répondre.",
       "tr": "Özel etkinlikler, uygulamanızdaki veya web sitenizdeki kullanıcı etkinliğini izlemenizi ve yanıtlamanızı sağlar.",
       "zh-CN": "自定义事件让您追踪并响应应用或网站中的用户活动。",
-      "zh-TW": "自訂事件讓您追蹤並回應應用或網站中的用戶活動。"
+      "zh-TW": "自訂事件讓您追蹤並回應應用或網站中的用戶活動。",
+      "id": "Custom Events memungkinkan Anda melacak dan merespons aktivitas pengguna di aplikasi atau situs web Anda."
     },
     "Last updated": {
       "ja": "最終更新",
@@ -8889,7 +8896,8 @@
       "fr": "Dernière mise à jour",
       "tr": "Son güncelleme",
       "zh-CN": "最近更新",
-      "zh-TW": "最近更新"
+      "zh-TW": "最近更新",
+      "id": "Terakhir diperbarui"
     },
     "Track all message events": {
       "ja": "すべてのメッセージイベントを追跡",
@@ -8899,7 +8907,8 @@
       "fr": "Suivre tous les événements de message",
       "tr": "Tüm mesaj etkinliklerini izleyin",
       "zh-CN": "追踪所有消息事件",
-      "zh-TW": "追蹤所有訊息事件"
+      "zh-TW": "追蹤所有訊息事件",
+      "id": "Lacak semua event pesan"
     },
     "Failed Permanently": {
       "ja": "完全に失敗",
@@ -8909,7 +8918,8 @@
       "fr": "Échec permanent",
       "tr": "Kalıcı olarak başarısız",
       "zh-CN": "永久失败",
-      "zh-TW": "永久失敗"
+      "zh-TW": "永久失敗",
+      "id": "Gagal Permanen"
     },
     "Successful": {
       "ja": "成功",
@@ -8919,7 +8929,8 @@
       "fr": "Réussi",
       "tr": "Başarılı",
       "zh-CN": "成功",
-      "zh-TW": "成功"
+      "zh-TW": "成功",
+      "id": "Berhasil"
     },
     "4xx Responses": {
       "ja": "4xx応答",
@@ -8929,7 +8940,8 @@
       "fr": "Réponses 4xx",
       "tr": "4xx yanıtları",
       "zh-CN": "4xx 响应",
-      "zh-TW": "4xx 回應"
+      "zh-TW": "4xx 回應",
+      "id": "Respons 4xx"
     },
     "5xx Responses": {
       "ja": "5xx応答",
@@ -8939,7 +8951,8 @@
       "fr": "Réponses 5xx",
       "tr": "5xx yanıtları",
       "zh-CN": "5xx 响应",
-      "zh-TW": "5xx 回應"
+      "zh-TW": "5xx 回應",
+      "id": "Respons 5xx"
     },
     "Add stat": {
       "ja": "統計を追加",
@@ -8949,7 +8962,8 @@
       "fr": "Ajouter une statistique",
       "tr": "İstatistik ekle",
       "zh-CN": "添加统计",
-      "zh-TW": "新增統計"
+      "zh-TW": "新增統計",
+      "id": "Tambah statistik"
     },
     "Delivery Statistics for All Time": {
       "ja": "全期間の配信統計",
@@ -8959,7 +8973,8 @@
       "fr": "Statistiques de livraison depuis le début",
       "tr": "Tüm zamanların teslim istatistikleri",
       "zh-CN": "所有时间的送达统计",
-      "zh-TW": "所有時間的送達統計"
+      "zh-TW": "所有時間的送達統計",
+      "id": "Statistik Pengiriman Sepanjang Waktu"
     },
     "Errors": {
       "ja": "エラー",
@@ -8969,7 +8984,8 @@
       "fr": "Erreurs",
       "tr": "Hatalar",
       "zh-CN": "错误",
-      "zh-TW": "錯誤"
+      "zh-TW": "錯誤",
+      "id": "Error"
     },
     "Events": {
       "ja": "イベント",
@@ -8979,7 +8995,8 @@
       "fr": "Événements",
       "tr": "Etkinlikler",
       "zh-CN": "事件",
-      "zh-TW": "事件"
+      "zh-TW": "事件",
+      "id": "Event"
     },
     "Logs": {
       "ja": "ログ",
@@ -8989,7 +9006,8 @@
       "fr": "Journaux",
       "tr": "Günlükler",
       "zh-CN": "日志",
-      "zh-TW": "日誌"
+      "zh-TW": "日誌",
+      "id": "Log"
     },
     "Method": {
       "ja": "メソッド",
@@ -8999,7 +9017,8 @@
       "fr": "Méthode",
       "tr": "Yöntem",
       "zh-CN": "方法",
-      "zh-TW": "方法"
+      "zh-TW": "方法",
+      "id": "Metode"
     },
     "Permanent Failure": {
       "ja": "永続的な失敗",
@@ -9009,7 +9028,8 @@
       "fr": "Échec permanent",
       "tr": "Kalıcı başarısızlık",
       "zh-CN": "永久失败",
-      "zh-TW": "永久失敗"
+      "zh-TW": "永久失敗",
+      "id": "Kegagalan Permanen"
     },
     "Remove Permanent Failure filter": {
       "ja": "永続的な失敗フィルターを削除",
@@ -9019,7 +9039,8 @@
       "fr": "Retirer le filtre Échec permanent",
       "tr": "Kalıcı başarısızlık filtresini kaldır",
       "zh-CN": "移除永久失败筛选",
-      "zh-TW": "移除永久失敗篩選"
+      "zh-TW": "移除永久失敗篩選",
+      "id": "Hapus filter Kegagalan Permanen"
     },
     "Remove Sent filter": {
       "ja": "送信済みフィルターを削除",
@@ -9029,7 +9050,8 @@
       "fr": "Retirer le filtre Envoyés",
       "tr": "Gönderildi filtresini kaldır",
       "zh-CN": "移除已发送筛选",
-      "zh-TW": "移除已發送篩選"
+      "zh-TW": "移除已發送篩選",
+      "id": "Hapus filter Terkirim"
     },
     "Remove Success filter": {
       "ja": "成功フィルターを削除",
@@ -9039,7 +9061,8 @@
       "fr": "Retirer le filtre Succès",
       "tr": "Başarılı filtresini kaldır",
       "zh-CN": "移除成功筛选",
-      "zh-TW": "移除成功篩選"
+      "zh-TW": "移除成功篩選",
+      "id": "Hapus filter Berhasil"
     },
     "Timeouts": {
       "ja": "タイムアウト",
@@ -9049,7 +9072,8 @@
       "fr": "Délais expirés",
       "tr": "Zaman aşımları",
       "zh-CN": "超时",
-      "zh-TW": "逾時"
+      "zh-TW": "逾時",
+      "id": "Batas waktu habis"
     },
     "AI-generated Push": {
       "ja": "AI生成プッシュ",
@@ -9059,7 +9083,8 @@
       "fr": "Push généré par IA",
       "tr": "Yapay zeka tarafından oluşturulan push",
       "zh-CN": "AI 生成的推送",
-      "zh-TW": "AI 生成的推送"
+      "zh-TW": "AI 生成的推送",
+      "id": "Push yang Dibuat AI"
     },
     "Blank Push": {
       "ja": "空のプッシュ",
@@ -9069,7 +9094,8 @@
       "fr": "Push vierge",
       "tr": "Boş push",
       "zh-CN": "空白推送",
-      "zh-TW": "空白推送"
+      "zh-TW": "空白推送",
+      "id": "Push Kosong"
     },
     "Custom Events Ingestion": {
       "ja": "カスタムイベント取り込み",
@@ -9079,7 +9105,8 @@
       "fr": "Ingestion d'événements personnalisés",
       "tr": "Özel etkinlik alımı",
       "zh-CN": "自定义事件接入",
-      "zh-TW": "自訂事件接入"
+      "zh-TW": "自訂事件接入",
+      "id": "Penyerapan Custom Events"
     },
     "Drawer": {
       "ja": "ドロワー",
@@ -9089,7 +9116,8 @@
       "fr": "Panneau latéral",
       "tr": "Yan panel",
       "zh-CN": "侧边栏",
-      "zh-TW": "側邊欄"
+      "zh-TW": "側邊欄",
+      "id": "Laci"
     },
     "Line chart depicting analytics": {
       "ja": "分析を表す折れ線グラフ",
@@ -9099,7 +9127,8 @@
       "fr": "Graphique linéaire des analyses",
       "tr": "Analizleri gösteren çizgi grafik",
       "zh-CN": "展示分析数据的折线图",
-      "zh-TW": "展示分析資料的折線圖"
+      "zh-TW": "展示分析資料的折線圖",
+      "id": "Bagan garis menggambarkan analitik"
     },
     "OneSignal quickstart designs": {
       "ja": "OneSignalクイックスタートデザイン",
@@ -9109,7 +9138,8 @@
       "fr": "Modèles de démarrage rapide OneSignal",
       "tr": "OneSignal hızlı başlangıç tasarımları",
       "zh-CN": "OneSignal 快速入门设计",
-      "zh-TW": "OneSignal 快速入門設計"
+      "zh-TW": "OneSignal 快速入門設計",
+      "id": "Desain mulai cepat OneSignal"
     },
     "Start from a pre-built design": {
       "ja": "事前構築済みのデザインから始める",
@@ -9119,7 +9149,8 @@
       "fr": "Partir d'un design prêt à l'emploi",
       "tr": "Hazır tasarımdan başla",
       "zh-CN": "从预设设计开始",
-      "zh-TW": "從預設設計開始"
+      "zh-TW": "從預設設計開始",
+      "id": "Mulai dari desain siap pakai"
     },
     "Start from scratch": {
       "ja": "最初から作成",
@@ -9129,7 +9160,8 @@
       "fr": "Partir de zéro",
       "tr": "Sıfırdan başla",
       "zh-CN": "从零开始",
-      "zh-TW": "從零開始"
+      "zh-TW": "從零開始",
+      "id": "Mulai dari awal"
     },
     "This integration does not track delivery statistics.": {
       "ja": "この統合は配信統計を追跡しません。",
@@ -9139,7 +9171,8 @@
       "fr": "Cette intégration ne suit pas les statistiques de livraison.",
       "tr": "Bu entegrasyon teslim istatistiklerini izlemez.",
       "zh-CN": "此集成不追踪送达统计。",
-      "zh-TW": "此整合不追蹤送達統計。"
+      "zh-TW": "此整合不追蹤送達統計。",
+      "id": "Integrasi ini tidak melacak statistik pengiriman."
     },
     "Your previous messages": {
       "ja": "以前のメッセージ",
@@ -9149,7 +9182,8 @@
       "fr": "Vos messages précédents",
       "tr": "Önceki mesajlarınız",
       "zh-CN": "您的历史消息",
-      "zh-TW": "您的歷史訊息"
+      "zh-TW": "您的歷史訊息",
+      "id": "Pesan Anda sebelumnya"
     },
     "Your templates": {
       "ja": "テンプレート",
@@ -9159,7 +9193,8 @@
       "fr": "Vos modèles",
       "tr": "Şablonlarınız",
       "zh-CN": "您的模板",
-      "zh-TW": "您的範本"
+      "zh-TW": "您的範本",
+      "id": "Template Anda"
     },
     "Event ID": {
       "ja": "イベントID",
@@ -9169,7 +9204,8 @@
       "fr": "ID d'événement",
       "tr": "Etkinlik ID",
       "zh-CN": "事件 ID",
-      "zh-TW": "事件 ID"
+      "zh-TW": "事件 ID",
+      "id": "ID Event"
     },
     "Segment Not Found": {
       "ja": "セグメントが見つかりません",
@@ -9179,7 +9215,8 @@
       "fr": "Segment introuvable",
       "tr": "Segment bulunamadı",
       "zh-CN": "未找到用户分群",
-      "zh-TW": "未找到用戶分群"
+      "zh-TW": "未找到用戶分群",
+      "id": "Segment Tidak Ditemukan"
     },
     "Drag & drop editor": {
       "ja": "ドラッグ＆ドロップエディター",
@@ -9189,7 +9226,8 @@
       "fr": "Éditeur glisser-déposer",
       "tr": "Sürükle-bırak düzenleyici",
       "zh-CN": "拖放编辑器",
-      "zh-TW": "拖放編輯器"
+      "zh-TW": "拖放編輯器",
+      "id": "Editor seret & lepas"
     },
     "HTML editor": {
       "ja": "HTMLエディター",
@@ -9199,7 +9237,8 @@
       "fr": "Éditeur HTML",
       "tr": "HTML düzenleyici",
       "zh-CN": "HTML 编辑器",
-      "zh-TW": "HTML 編輯器"
+      "zh-TW": "HTML 編輯器",
+      "id": "Editor HTML"
     },
     "Multi-link click tracking": {
       "ja": "マルチリンククリック追跡",
@@ -9209,7 +9248,8 @@
       "fr": "Suivi des clics multi-liens",
       "tr": "Çoklu bağlantı tıklama izleme",
       "zh-CN": "多链接点击追踪",
-      "zh-TW": "多連結點擊追蹤"
+      "zh-TW": "多連結點擊追蹤",
+      "id": "Pelacakan klik multi-tautan"
     },
     "Visual drag and drop editing with image and text blocks.": {
       "ja": "画像とテキストブロックを使った視覚的なドラッグ＆ドロップ編集。",
@@ -9219,7 +9259,8 @@
       "fr": "Édition visuelle par glisser-déposer avec des blocs image et texte.",
       "tr": "Görsel ve metin bloklarıyla görsel sürükle-bırak düzenleme.",
       "zh-CN": "使用图像和文本块进行可视化拖放编辑。",
-      "zh-TW": "使用圖像和文字方塊進行視覺化拖放編輯。"
+      "zh-TW": "使用圖像和文字方塊進行視覺化拖放編輯。",
+      "id": "Pengeditan seret dan lepas visual dengan blok gambar dan teks."
     },
     "Write or copy/paste your own HTML and CSS.": {
       "ja": "独自のHTMLとCSSを書き込むか、コピー＆ペーストしてください。",
@@ -9229,7 +9270,8 @@
       "fr": "Écrivez ou collez votre propre HTML et CSS.",
       "tr": "Kendi HTML ve CSS'inizi yazın veya kopyala/yapıştır yapın.",
       "zh-CN": "编写或复制/粘贴您自己的 HTML 和 CSS。",
-      "zh-TW": "撰寫或複製/貼上您自己的 HTML 和 CSS。"
+      "zh-TW": "撰寫或複製/貼上您自己的 HTML 和 CSS。",
+      "id": "Tulis atau salin/tempel HTML dan CSS Anda sendiri."
     },
     "Test & preview": {
       "ja": "テストとプレビュー",
@@ -9239,7 +9281,8 @@
       "fr": "Tester et prévisualiser",
       "tr": "Test et ve önizle",
       "zh-CN": "测试和预览",
-      "zh-TW": "測試和預覽"
+      "zh-TW": "測試和預覽",
+      "id": "Uji & pratinjau"
     },
     "What segment(s)": {
       "ja": "どのセグメント",
@@ -9249,7 +9292,8 @@
       "fr": "Quels segments",
       "tr": "Hangi segment(ler)",
       "zh-CN": "哪个用户分群",
-      "zh-TW": "哪個用戶分群"
+      "zh-TW": "哪個用戶分群",
+      "id": "Segment apa"
     },
     "custom events": {
       "ja": "カスタムイベント",
@@ -9259,7 +9303,8 @@
       "fr": "événements personnalisés",
       "tr": "özel etkinlikler",
       "zh-CN": "自定义事件",
-      "zh-TW": "自訂事件"
+      "zh-TW": "自訂事件",
+      "id": "custom events"
     },
     "insert content": {
       "ja": "コンテンツを挿入",
@@ -9269,7 +9314,8 @@
       "fr": "insérer du contenu",
       "tr": "içerik ekle",
       "zh-CN": "插入内容",
-      "zh-TW": "插入內容"
+      "zh-TW": "插入內容",
+      "id": "sisipkan konten"
     },
     "receive this message?": {
       "ja": "このメッセージを受信しますか？",
@@ -9279,7 +9325,8 @@
       "fr": "recevoir ce message ?",
       "tr": "bu mesajı alacak?",
       "zh-CN": "接收此消息？",
-      "zh-TW": "接收此訊息？"
+      "zh-TW": "接收此訊息？",
+      "id": "menerima pesan ini?"
     },
     "1. Audience": {
       "ja": "1. オーディエンス",
@@ -9289,7 +9336,8 @@
       "fr": "1. Audience",
       "tr": "1. Hedef kitle",
       "zh-CN": "1. 受众",
-      "zh-TW": "1. 受眾"
+      "zh-TW": "1. 受眾",
+      "id": "1. Audiens"
     },
     "2. Sender": {
       "ja": "2. 送信者",
@@ -9299,7 +9347,8 @@
       "fr": "2. Expéditeur",
       "tr": "2. Gönderen",
       "zh-CN": "2. 发件人",
-      "zh-TW": "2. 發件人"
+      "zh-TW": "2. 發件人",
+      "id": "2. Pengirim"
     },
     "3. Message": {
       "ja": "3. メッセージ",
@@ -9309,7 +9358,8 @@
       "fr": "3. Message",
       "tr": "3. Mesaj",
       "zh-CN": "3. 消息",
-      "zh-TW": "3. 訊息"
+      "zh-TW": "3. 訊息",
+      "id": "3. Pesan"
     },
     "4. Message Goal": {
       "ja": "4. メッセージの目標",
