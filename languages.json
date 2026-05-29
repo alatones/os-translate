@@ -3847,7 +3847,8 @@
       "fr": "Pause",
       "tr": "Duraklat",
       "zh-CN": "暂停",
-      "zh-TW": "暫停"
+      "zh-TW": "暫停",
+      "id": "Jeda"
     },
     "Paused": {
       "es": "Pausado",
@@ -3857,7 +3858,8 @@
       "fr": "Suspendu",
       "tr": "Duraklatıldı",
       "zh-CN": "已暂停",
-      "zh-TW": "已暫停"
+      "zh-TW": "已暫停",
+      "id": "Dijeda"
     },
     "per page": {
       "es": "por página",
@@ -3867,7 +3869,8 @@
       "fr": "par page",
       "tr": "sayfa başına",
       "zh-CN": "每页",
-      "zh-TW": "每頁"
+      "zh-TW": "每頁",
+      "id": "per halaman"
     },
     "Percentage": {
       "es": "Porcentaje",
@@ -3877,7 +3880,8 @@
       "fr": "Pourcentage",
       "tr": "Yüzde",
       "zh-CN": "百分比",
-      "zh-TW": "百分比"
+      "zh-TW": "百分比",
+      "id": "Persentase"
     },
     "Phone Number": {
       "es": "Número de teléfono",
@@ -3887,7 +3891,8 @@
       "fr": "Numéro de téléphone",
       "tr": "Telefon numarası",
       "zh-CN": "电话号码",
-      "zh-TW": "電話號碼"
+      "zh-TW": "電話號碼",
+      "id": "Nomor Telepon"
     },
     "Phone number": {
       "es": "Número de teléfono",
@@ -3897,7 +3902,8 @@
       "fr": "Numéro de téléphone",
       "tr": "Telefon numarası",
       "zh-CN": "电话号码",
-      "zh-TW": "電話號碼"
+      "zh-TW": "電話號碼",
+      "id": "Nomor telepon"
     },
     "Plan": {
       "es": "Plan",
@@ -3907,7 +3913,8 @@
       "fr": "Plan",
       "tr": "Plan",
       "zh-CN": "套餐",
-      "zh-TW": "方案"
+      "zh-TW": "方案",
+      "id": "Paket"
     },
     "Platform": {
       "es": "Plataforma",
@@ -3917,7 +3924,8 @@
       "fr": "Plateforme",
       "tr": "Platform",
       "zh-CN": "平台",
-      "zh-TW": "平台"
+      "zh-TW": "平台",
+      "id": "Platform"
     },
     "Platforms": {
       "es": "Plataformas",
@@ -3927,7 +3935,8 @@
       "fr": "Plateformes",
       "tr": "Platformlar",
       "zh-CN": "平台",
-      "zh-TW": "平台"
+      "zh-TW": "平台",
+      "id": "Platform"
     },
     "Platforms set up and message settings": {
       "es": "Configuración de plataformas y mensajes",
@@ -3937,7 +3946,8 @@
       "fr": "Configuration des plateformes et paramètres de messages",
       "tr": "Platform kurulumu ve mesaj ayarları",
       "zh-CN": "平台设置和消息设置",
-      "zh-TW": "平台設定和訊息設定"
+      "zh-TW": "平台設定和訊息設定",
+      "id": "Platform yang disiapkan dan pengaturan pesan"
     },
     "Preheader": {
       "es": "Encabezado previo",
@@ -3947,7 +3957,8 @@
       "fr": "Pré-en-tête",
       "tr": "Ön başlık",
       "zh-CN": "预览头",
-      "zh-TW": "預覽標頭"
+      "zh-TW": "預覽標頭",
+      "id": "Preheader"
     },
     "Prev": {
       "es": "Anterior",
@@ -3957,7 +3968,8 @@
       "fr": "Préc",
       "tr": "Önc",
       "zh-CN": "上",
-      "zh-TW": "上"
+      "zh-TW": "上",
+      "id": "Sblm"
     },
     "Preview": {
       "es": "Vista previa",
@@ -3967,7 +3979,8 @@
       "fr": "Aperçu",
       "tr": "Önizleme",
       "zh-CN": "预览",
-      "zh-TW": "預覽"
+      "zh-TW": "預覽",
+      "id": "Pratinjau"
     },
     "Previous": {
       "es": "Anterior",
@@ -3977,7 +3990,8 @@
       "fr": "Précédent",
       "tr": "Önceki",
       "zh-CN": "上一步",
-      "zh-TW": "上一步"
+      "zh-TW": "上一步",
+      "id": "Sebelumnya"
     },
     "Previous page": {
       "es": "Página anterior",
@@ -3987,7 +4001,8 @@
       "fr": "Page précédente",
       "tr": "Önceki sayfa",
       "zh-CN": "上一页",
-      "zh-TW": "上一頁"
+      "zh-TW": "上一頁",
+      "id": "Halaman sebelumnya"
     },
     "Priority": {
       "es": "Prioridad",
@@ -3997,7 +4012,8 @@
       "fr": "Priorité",
       "tr": "Öncelik",
       "zh-CN": "优先级",
-      "zh-TW": "優先級"
+      "zh-TW": "優先級",
+      "id": "Prioritas"
     },
     "Processed Events": {
       "es": "Eventos procesados",
@@ -4007,7 +4023,8 @@
       "fr": "Événements traités",
       "tr": "İşlenen etkinlikler",
       "zh-CN": "已处理事件",
-      "zh-TW": "已處理事件"
+      "zh-TW": "已處理事件",
+      "id": "Event Diproses"
     },
     "Processing": {
       "es": "Procesando",
@@ -4017,7 +4034,8 @@
       "fr": "Traitement",
       "tr": "İşleniyor",
       "zh-CN": "处理中",
-      "zh-TW": "處理中"
+      "zh-TW": "處理中",
+      "id": "Memproses"
     },
     "Profile": {
       "es": "Perfil",
@@ -4027,7 +4045,8 @@
       "fr": "Profil",
       "tr": "Profil",
       "zh-CN": "个人资料",
-      "zh-TW": "個人資料"
+      "zh-TW": "個人資料",
+      "id": "Profil"
     },
     "Promotional": {
       "es": "Promocional",
@@ -4037,7 +4056,8 @@
       "fr": "Promotionnel",
       "tr": "Promosyon",
       "zh-CN": "营销",
-      "zh-TW": "營銷"
+      "zh-TW": "營銷",
+      "id": "Promosi"
     },
     "Publish": {
       "es": "Publicar",
@@ -4047,7 +4067,8 @@
       "fr": "Publier",
       "tr": "Yayınla",
       "zh-CN": "发布",
-      "zh-TW": "發佈"
+      "zh-TW": "發佈",
+      "id": "Terbitkan"
     },
     "Purchases": {
       "es": "Compras",
@@ -4057,7 +4078,8 @@
       "fr": "Achats",
       "tr": "Satın almalar",
       "zh-CN": "购买",
-      "zh-TW": "購買"
+      "zh-TW": "購買",
+      "id": "Pembelian"
     },
     "Push": {
       "es": "Push",
@@ -4067,7 +4089,8 @@
       "fr": "Push",
       "tr": "Push",
       "zh-CN": "推送",
-      "zh-TW": "推送通知"
+      "zh-TW": "推送通知",
+      "id": "Push"
     },
     "Push & In-App": {
       "es": "Push e In-App",
@@ -4077,7 +4100,8 @@
       "fr": "Push et In-App",
       "tr": "Push ve In-App",
       "zh-CN": "推送和应用内",
-      "zh-TW": "推送和應用內"
+      "zh-TW": "推送和應用內",
+      "id": "Push & In-App"
     },
     "Push Notifications": {
       "es": "Notificaciones push",
@@ -4087,7 +4111,8 @@
       "fr": "Notifications push",
       "tr": "Push bildirimleri",
       "zh-CN": "推送通知",
-      "zh-TW": "推送通知"
+      "zh-TW": "推送通知",
+      "id": "Push Notifications"
     },
     "Push token": {
       "es": "Token push",
@@ -4097,7 +4122,8 @@
       "fr": "Token push",
       "tr": "Push token",
       "zh-CN": "推送令牌",
-      "zh-TW": "推送權杖"
+      "zh-TW": "推送權杖",
+      "id": "Token push"
     },
     "Queued": {
       "es": "En cola",
@@ -4107,7 +4133,8 @@
       "fr": "En file d'attente",
       "tr": "Kuyrukta",
       "zh-CN": "已排队",
-      "zh-TW": "已排隊"
+      "zh-TW": "已排隊",
+      "id": "Antrian"
     },
     "Quickstart your Journey": {
       "es": "Inicia rápidamente tu Journey",
@@ -4117,7 +4144,8 @@
       "fr": "Démarrer rapidement votre Parcours",
       "tr": "Yolculuğunuzu hızlıca başlatın",
       "zh-CN": "快速启动您的旅程",
-      "zh-TW": "快速啟動您的旅程"
+      "zh-TW": "快速啟動您的旅程",
+      "id": "Mulai cepat Journey Anda"
     },
     "Reach targeted audience based on user properties or events from data tags": {
       "es": "Alcanza audiencias específicas según propiedades o eventos de etiquetas de datos",
@@ -4127,7 +4155,8 @@
       "fr": "Atteignez une audience ciblée selon les propriétés des utilisateurs ou les événements des tags de données",
       "tr": "Kullanıcı özellikleri veya veri etiketlerinden gelen etkinliklere göre hedef kitleye ulaşın",
       "zh-CN": "根据用户属性或数据标签事件触达目标受众",
-      "zh-TW": "根據用戶屬性或資料標籤事件觸達目標受眾"
+      "zh-TW": "根據用戶屬性或資料標籤事件觸達目標受眾",
+      "id": "Jangkau audiens yang ditargetkan berdasarkan properti pengguna atau event dari tag data"
     },
     "Real-time data for timely messages": {
       "es": "Datos en tiempo real para mensajes oportunos",
@@ -4137,7 +4166,8 @@
       "fr": "Données en temps réel pour des messages opportuns",
       "tr": "Zamanında mesajlar için gerçek zamanlı veriler",
       "zh-CN": "实时数据助力及时消息",
-      "zh-TW": "即時資料助力及時訊息"
+      "zh-TW": "即時資料助力及時訊息",
+      "id": "Data real-time untuk pesan yang tepat waktu"
     },
     "Received Events": {
       "es": "Eventos recibidos",
@@ -4147,7 +4177,8 @@
       "fr": "Événements reçus",
       "tr": "Alınan etkinlikler",
       "zh-CN": "已接收事件",
-      "zh-TW": "已接收事件"
+      "zh-TW": "已接收事件",
+      "id": "Event Diterima"
     },
     "Recipients": {
       "es": "Destinatarios",
@@ -4157,7 +4188,8 @@
       "fr": "Destinataires",
       "tr": "Alıcılar",
       "zh-CN": "收件人",
-      "zh-TW": "收件人"
+      "zh-TW": "收件人",
+      "id": "Penerima"
     },
     "Refresh List": {
       "es": "Actualizar lista",
@@ -4167,7 +4199,8 @@
       "fr": "Actualiser la liste",
       "tr": "Listeyi yenile",
       "zh-CN": "刷新列表",
-      "zh-TW": "重新整理列表"
+      "zh-TW": "重新整理列表",
+      "id": "Segarkan Daftar"
     },
     "Regional Audience": {
       "es": "Audiencia regional",
@@ -4177,7 +4210,8 @@
       "fr": "Audience régionale",
       "tr": "Bölgesel hedef kitle",
       "zh-CN": "区域受众",
-      "zh-TW": "區域受眾"
+      "zh-TW": "區域受眾",
+      "id": "Audiens Regional"
     },
     "Relative:": {
       "es": "Relativa:",
@@ -4187,7 +4221,8 @@
       "fr": "Relatif :",
       "tr": "Göreli:",
       "zh-CN": "相对:",
-      "zh-TW": "相對："
+      "zh-TW": "相對：",
+      "id": "Relatif:"
     },
     "Remove": {
       "es": "Quitar",
@@ -4197,7 +4232,8 @@
       "fr": "Retirer",
       "tr": "Kaldır",
       "zh-CN": "移除",
-      "zh-TW": "移除"
+      "zh-TW": "移除",
+      "id": "Hapus"
     },
     "Reply-To Address": {
       "es": "Dirección de respuesta",
@@ -4207,7 +4243,8 @@
       "fr": "Adresse de réponse",
       "tr": "Yanıt adresi",
       "zh-CN": "回复地址",
-      "zh-TW": "回覆地址"
+      "zh-TW": "回覆地址",
+      "id": "Alamat Balas"
     },
     "Report": {
       "es": "Informe",
@@ -4217,7 +4254,8 @@
       "fr": "Rapport",
       "tr": "Rapor",
       "zh-CN": "报告",
-      "zh-TW": "報告"
+      "zh-TW": "報告",
+      "id": "Laporan"
     },
     "Required": {
       "es": "Obligatorio",
@@ -4227,7 +4265,8 @@
       "fr": "Obligatoire",
       "tr": "Zorunlu",
       "zh-CN": "必填",
-      "zh-TW": "必填"
+      "zh-TW": "必填",
+      "id": "Wajib"
     },
     "Required field": {
       "es": "Campo obligatorio",
@@ -4237,7 +4276,8 @@
       "fr": "Champ obligatoire",
       "tr": "Zorunlu alan",
       "zh-CN": "必填字段",
-      "zh-TW": "必填欄位"
+      "zh-TW": "必填欄位",
+      "id": "Kolom wajib"
     },
     "Resend": {
       "es": "Reenviar",
@@ -4247,7 +4287,8 @@
       "fr": "Renvoyer",
       "tr": "Yeniden gönder",
       "zh-CN": "重新发送",
-      "zh-TW": "重新發送"
+      "zh-TW": "重新發送",
+      "id": "Kirim Ulang"
     },
     "REST API Key": {
       "es": "Clave REST API",
@@ -4257,7 +4298,8 @@
       "fr": "Clé d'API REST",
       "tr": "REST API anahtarı",
       "zh-CN": "REST API 密钥",
-      "zh-TW": "REST API 密鑰"
+      "zh-TW": "REST API 密鑰",
+      "id": "Kunci REST API"
     },
     "Results": {
       "es": "Resultados",
@@ -4267,7 +4309,8 @@
       "fr": "Résultats",
       "tr": "Sonuçlar",
       "zh-CN": "结果",
-      "zh-TW": "結果"
+      "zh-TW": "結果",
+      "id": "Hasil"
     },
     "Resume": {
       "es": "Reanudar",
@@ -4277,7 +4320,8 @@
       "fr": "Reprendre",
       "tr": "Devam ettir",
       "zh-CN": "继续",
-      "zh-TW": "繼續"
+      "zh-TW": "繼續",
+      "id": "Lanjutkan"
     },
     "Role": {
       "es": "Rol",
@@ -4287,7 +4331,8 @@
       "fr": "Rôle",
       "tr": "Rol",
       "zh-CN": "角色",
-      "zh-TW": "角色"
+      "zh-TW": "角色",
+      "id": "Peran"
     },
     "Rooted": {
       "es": "Rooteado",
@@ -4297,7 +4342,8 @@
       "fr": "Rooté",
       "tr": "Root'lu",
       "zh-CN": "已 Root",
-      "zh-TW": "已 Root"
+      "zh-TW": "已 Root",
+      "id": "Ter-root"
     },
     "rows per page": {
       "es": "filas por página",
@@ -4307,7 +4353,8 @@
       "fr": "lignes par page",
       "tr": "sayfa başına satır",
       "zh-CN": "每页行数",
-      "zh-TW": "每頁列數"
+      "zh-TW": "每頁列數",
+      "id": "baris per halaman"
     },
     "Safari": {
       "es": "Safari",
@@ -4317,7 +4364,8 @@
       "fr": "Safari",
       "tr": "Safari",
       "zh-CN": "Safari",
-      "zh-TW": "Safari"
+      "zh-TW": "Safari",
+      "id": "Safari"
     },
     "Sat": {
       "es": "Sáb",
@@ -4327,7 +4375,8 @@
       "fr": "Sam",
       "tr": "Cmt",
       "zh-CN": "周六",
-      "zh-TW": "週六"
+      "zh-TW": "週六",
+      "id": "Sab"
     },
     "Save": {
       "es": "Guardar",
@@ -4337,7 +4386,8 @@
       "fr": "Enregistrer",
       "tr": "Kaydet",
       "zh-CN": "保存",
-      "zh-TW": "儲存"
+      "zh-TW": "儲存",
+      "id": "Simpan"
     },
     "Save as Draft": {
       "es": "Guardar como borrador",
