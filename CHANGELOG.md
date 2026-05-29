@@ -7,6 +7,19 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
+## [1.6.14] — 2026-05-20
+
+### Changed
+
+- **Portuguese (BR): `Template` / `Templates` stay Latin.** Per Ana
+  (BR reviewer): `Modelo` / `Modelos` reads as a literal translation;
+  Brazilian marketers reach for `Template` in SaaS contexts. Same
+  Latin-product-feature pattern Italo applied to Spanish (Custom
+  Events, Event Stream, Data Feed, Delivery Rate, etc.). Glossary
+  locks `Template` and `Templates` to Latin in pt; 35 pt entries
+  swept across the Template family. `style/pt.md` updated with the
+  rule.
+
 ## [1.6.13] — 2026-05-20
 
 ### Fixed
