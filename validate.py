@@ -186,6 +186,7 @@ def check_cross_contamination(langs_data):
         ("Filters", "Filter"),      # id: plural drops; Filter is correct singular
         ("Errored", "Error"),       # id: status 'Errored' = 'Error' (same word)
         ("Drafts", "Draf"),         # id: 'Draf' is both singular and plural
+        ("Labels", "Label"),        # id: plural drops; Label is correct singular
     }
     violations = []
     translations = langs_data["translations"]
