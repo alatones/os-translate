@@ -8269,7 +8269,8 @@
       "fr": "Windows",
       "tr": "Windows",
       "zh-CN": "Windows",
-      "zh-TW": "Windows"
+      "zh-TW": "Windows",
+      "id": "Windows"
     },
     "macOS": {
       "ja": "macOS",
@@ -8279,7 +8280,8 @@
       "fr": "macOS",
       "tr": "macOS",
       "zh-CN": "macOS",
-      "zh-TW": "macOS"
+      "zh-TW": "macOS",
+      "id": "macOS"
     },
     "Advanced Settings": {
       "ja": "詳細設定",
@@ -8289,7 +8291,8 @@
       "fr": "Paramètres avancés",
       "tr": "Gelişmiş ayarlar",
       "zh-CN": "高级设置",
-      "zh-TW": "進階設定"
+      "zh-TW": "進階設定",
+      "id": "Pengaturan Lanjutan"
     },
     "All Active Users": {
       "ja": "すべてのアクティブユーザー",
@@ -8299,7 +8302,8 @@
       "fr": "Tous les utilisateurs actifs",
       "tr": "Tüm aktif kullanıcılar",
       "zh-CN": "所有活跃用户",
-      "zh-TW": "所有活躍用戶"
+      "zh-TW": "所有活躍用戶",
+      "id": "Semua Pengguna Aktif"
     },
     "Audience activity": {
       "ja": "オーディエンスの活動",
@@ -8309,7 +8313,8 @@
       "fr": "Activité de l'audience",
       "tr": "Hedef kitle etkinliği",
       "zh-CN": "受众活动",
-      "zh-TW": "受眾活動"
+      "zh-TW": "受眾活動",
+      "id": "Aktivitas audiens"
     },
     "Audience activity is no longer available after 30 days": {
       "ja": "オーディエンスの活動は30日経過後は表示されません",
@@ -8319,7 +8324,8 @@
       "fr": "L'activité de l'audience n'est plus disponible après 30 jours",
       "tr": "Hedef kitle etkinliği 30 gün sonra artık mevcut değildir",
       "zh-CN": "受众活动数据 30 天后不再可用",
-      "zh-TW": "受眾活動資料 30 天後不再可用"
+      "zh-TW": "受眾活動資料 30 天後不再可用",
+      "id": "Aktivitas audiens tidak lagi tersedia setelah 30 hari"
     },
     "Badges": {
       "ja": "バッジ",
@@ -8329,7 +8335,8 @@
       "fr": "Badges",
       "tr": "Rozetler",
       "zh-CN": "徽章",
-      "zh-TW": "徽章"
+      "zh-TW": "徽章",
+      "id": "Lencana"
     },
     "Capped": {
       "ja": "制限あり",
@@ -8339,7 +8346,8 @@
       "fr": "Plafonné",
       "tr": "Sınırlı",
       "zh-CN": "已限制",
-      "zh-TW": "已限制"
+      "zh-TW": "已限制",
+      "id": "Dibatasi"
     },
     "Channel Mode": {
       "ja": "チャネルモード",
@@ -8349,7 +8357,8 @@
       "fr": "Mode du canal",
       "tr": "Kanal modu",
       "zh-CN": "渠道模式",
-      "zh-TW": "渠道模式"
+      "zh-TW": "渠道模式",
+      "id": "Mode Saluran"
     },
     "Content Available": {
       "ja": "コンテンツ利用可能",
@@ -8359,7 +8368,8 @@
       "fr": "Contenu disponible",
       "tr": "İçerik mevcut",
       "zh-CN": "内容可用",
-      "zh-TW": "內容可用"
+      "zh-TW": "內容可用",
+      "id": "Konten Tersedia"
     },
     "Copy to clipboard": {
       "ja": "クリップボードにコピー",
@@ -8369,7 +8379,8 @@
       "fr": "Copier dans le presse-papiers",
       "tr": "Panoya kopyala",
       "zh-CN": "复制到剪贴板",
-      "zh-TW": "複製到剪貼簿"
+      "zh-TW": "複製到剪貼簿",
+      "id": "Salin ke papan klip"
     },
     "Deliveries by platform": {
       "ja": "プラットフォーム別の配信",
@@ -8379,7 +8390,8 @@
       "fr": "Livraisons par plateforme",
       "tr": "Platforma göre teslimatlar",
       "zh-CN": "按平台分组送达",
-      "zh-TW": "按平台分組送達"
+      "zh-TW": "按平台分組送達",
+      "id": "Pengiriman berdasarkan platform"
     },
     "Delivery time": {
       "ja": "配信時刻",
@@ -8389,7 +8401,8 @@
       "fr": "Heure de livraison",
       "tr": "Teslim zamanı",
       "zh-CN": "送达时间",
-      "zh-TW": "送達時間"
+      "zh-TW": "送達時間",
+      "id": "Waktu pengiriman"
     },
     "Did not click": {
       "ja": "クリックなし",
@@ -8399,7 +8412,8 @@
       "fr": "N'a pas cliqué",
       "tr": "Tıklamadı",
       "zh-CN": "未点击",
-      "zh-TW": "未點擊"
+      "zh-TW": "未點擊",
+      "id": "Tidak diklik"
     },
     "Did not confirm receipt": {
       "ja": "受信未確認",
@@ -8409,7 +8423,8 @@
       "fr": "N'a pas confirmé la réception",
       "tr": "Alındıyı onaylamadı",
       "zh-CN": "未确认接收",
-      "zh-TW": "未確認接收"
+      "zh-TW": "未確認接收",
+      "id": "Tidak mengonfirmasi tanda terima"
     },
     "False": {
       "ja": "偽",
@@ -8419,7 +8434,8 @@
       "fr": "Faux",
       "tr": "Yanlış",
       "zh-CN": "假",
-      "zh-TW": "假"
+      "zh-TW": "假",
+      "id": "False"
     },
     "True": {
       "ja": "真",
@@ -8429,7 +8445,8 @@
       "fr": "Vrai",
       "tr": "Doğru",
       "zh-CN": "真",
-      "zh-TW": "真"
+      "zh-TW": "真",
+      "id": "True"
     },
     "Influenced opens": {
       "ja": "影響を受けた開封",
@@ -8439,7 +8456,8 @@
       "fr": "Ouvertures influencées",
       "tr": "Etkilenen açılmalar",
       "zh-CN": "受影响的打开",
-      "zh-TW": "受影響的開啟"
+      "zh-TW": "受影響的開啟",
+      "id": "Pembukaan terpengaruh"
     },
     "Interruption Level": {
       "ja": "割り込みレベル",
@@ -8449,7 +8467,8 @@
       "fr": "Niveau d'interruption",
       "tr": "Kesinti düzeyi",
       "zh-CN": "中断级别",
-      "zh-TW": "中斷級別"
+      "zh-TW": "中斷級別",
+      "id": "Tingkat Gangguan"
     },
     "Leave unchanged": {
       "ja": "変更しない",
@@ -8459,7 +8478,8 @@
       "fr": "Laisser inchangé",
       "tr": "Değişiklik yapma",
       "zh-CN": "保持不变",
-      "zh-TW": "保持不變"
+      "zh-TW": "保持不變",
+      "id": "Biarkan tidak berubah"
     },
     "Loading Goal...": {
       "ja": "目標を読み込み中...",
@@ -8469,7 +8489,8 @@
       "fr": "Chargement de l'objectif...",
       "tr": "Hedef yükleniyor...",
       "zh-CN": "正在加载目标...",
-      "zh-TW": "正在載入目標..."
+      "zh-TW": "正在載入目標...",
+      "id": "Memuat Tujuan..."
     },
     "Loading notification. Please wait a moment...": {
       "ja": "通知を読み込んでいます。しばらくお待ちください...",
@@ -8479,7 +8500,8 @@
       "fr": "Chargement de la notification. Patientez un instant...",
       "tr": "Bildirim yükleniyor. Lütfen bir an bekleyin...",
       "zh-CN": "正在加载通知。请稍候...",
-      "zh-TW": "正在載入通知。請稍候..."
+      "zh-TW": "正在載入通知。請稍候...",
+      "id": "Memuat notifikasi. Harap tunggu sebentar..."
     },
     "Lockscreen Visibility": {
       "ja": "ロック画面の表示",
@@ -8489,7 +8511,8 @@
       "fr": "Visibilité de l'écran de verrouillage",
       "tr": "Kilit ekranı görünürlüğü",
       "zh-CN": "锁屏可见性",
-      "zh-TW": "鎖定螢幕可見性"
+      "zh-TW": "鎖定螢幕可見性",
+      "id": "Visibilitas Layar Kunci"
     },
     "Message ID": {
       "ja": "メッセージID",
@@ -8499,7 +8522,8 @@
       "fr": "ID du message",
       "tr": "Mesaj ID",
       "zh-CN": "消息 ID",
-      "zh-TW": "訊息 ID"
+      "zh-TW": "訊息 ID",
+      "id": "ID Pesan"
     },
     "Message Statistics": {
       "ja": "メッセージ統計",
@@ -8509,7 +8533,8 @@
       "fr": "Statistiques du message",
       "tr": "Mesaj istatistikleri",
       "zh-CN": "消息统计",
-      "zh-TW": "訊息統計"
+      "zh-TW": "訊息統計",
+      "id": "Statistik Pesan"
     },
     "Message name": {
       "ja": "メッセージ名",
@@ -8519,7 +8544,8 @@
       "fr": "Nom du message",
       "tr": "Mesaj adı",
       "zh-CN": "消息名称",
-      "zh-TW": "訊息名稱"
+      "zh-TW": "訊息名稱",
+      "id": "Nama pesan"
     },
     "Message settings": {
       "ja": "メッセージ設定",
@@ -8529,7 +8555,8 @@
       "fr": "Paramètres du message",
       "tr": "Mesaj ayarları",
       "zh-CN": "消息设置",
-      "zh-TW": "訊息設定"
+      "zh-TW": "訊息設定",
+      "id": "Pengaturan pesan"
     },
     "Mutable Content": {
       "ja": "可変コンテンツ",
@@ -8539,7 +8566,8 @@
       "fr": "Contenu modifiable",
       "tr": "Değiştirilebilir içerik",
       "zh-CN": "可变内容",
-      "zh-TW": "可變內容"
+      "zh-TW": "可變內容",
+      "id": "Konten yang Dapat Diubah"
     },
     "Normal": {
       "ja": "通常",
@@ -8549,7 +8577,8 @@
       "fr": "Normal",
       "tr": "Normal",
       "zh-CN": "普通",
-      "zh-TW": "普通"
+      "zh-TW": "普通",
+      "id": "Normal"
     },
     "Public - Always show the contents on the lockscreen.": {
       "ja": "公開 - ロック画面に常にコンテンツを表示する。",
@@ -8559,7 +8588,8 @@
       "fr": "Public - Toujours afficher le contenu sur l'écran de verrouillage.",
       "tr": "Genel - İçeriği her zaman kilit ekranında göster.",
       "zh-CN": "公开 - 始终在锁屏上显示内容。",
-      "zh-TW": "公開 - 始終在鎖定螢幕上顯示內容。"
+      "zh-TW": "公開 - 始終在鎖定螢幕上顯示內容。",
+      "id": "Publik - Selalu tampilkan konten di layar kunci."
     },
     "Realtime Message Data": {
       "ja": "リアルタイムメッセージデータ",
@@ -8569,7 +8599,8 @@
       "fr": "Données de message en temps réel",
       "tr": "Gerçek zamanlı mesaj verileri",
       "zh-CN": "实时消息数据",
-      "zh-TW": "即時訊息資料"
+      "zh-TW": "即時訊息資料",
+      "id": "Data Pesan Real-time"
     },
     "Relevance Score": {
       "ja": "関連度スコア",
@@ -8579,7 +8610,8 @@
       "fr": "Score de pertinence",
       "tr": "İlgi puanı",
       "zh-CN": "相关性评分",
-      "zh-TW": "相關性評分"
+      "zh-TW": "相關性評分",
+      "id": "Skor Relevansi"
     },
     "Remaining": {
       "ja": "残り",
@@ -8589,7 +8621,8 @@
       "fr": "Restant",
       "tr": "Kalan",
       "zh-CN": "剩余",
-      "zh-TW": "剩餘"
+      "zh-TW": "剩餘",
+      "id": "Tersisa"
     },
     "Send a Retargeted Message": {
       "ja": "リターゲティングメッセージを送信",
@@ -8599,7 +8632,8 @@
       "fr": "Envoyer un message de retargeting",
       "tr": "Yeniden hedeflenmiş mesaj gönder",
       "zh-CN": "发送再营销消息",
-      "zh-TW": "發送再營銷訊息"
+      "zh-TW": "發送再營銷訊息",
+      "id": "Kirim Pesan Retargeting"
     },
     "Send to segments": {
       "ja": "セグメントに送信",
@@ -8609,7 +8643,8 @@
       "fr": "Envoyer à des segments",
       "tr": "Segmentlere gönder",
       "zh-CN": "发送给用户分群",
-      "zh-TW": "發送給用戶分群"
+      "zh-TW": "發送給用戶分群",
+      "id": "Kirim ke Segment"
     },
     "Start sending": {
       "ja": "発送開始",
@@ -8619,7 +8654,8 @@
       "fr": "Commencer l'envoi",
       "tr": "Göndermeye başla",
       "zh-CN": "开始发送",
-      "zh-TW": "開始發送"
+      "zh-TW": "開始發送",
+      "id": "Mulai mengirim"
     },
     "Subtitle": {
       "ja": "サブタイトル",
@@ -8629,7 +8665,8 @@
       "fr": "Sous-titre",
       "tr": "Alt başlık",
       "zh-CN": "副标题",
-      "zh-TW": "副標題"
+      "zh-TW": "副標題",
+      "id": "Subjudul"
     },
     "Throttling": {
       "ja": "スロットリング",
@@ -8639,7 +8676,8 @@
       "fr": "Limitation",
       "tr": "Sınırlama",
       "zh-CN": "限速",
-      "zh-TW": "限速"
+      "zh-TW": "限速",
+      "id": "Pembatasan"
     },
     "Time To Live": {
       "ja": "有効期間",
@@ -8649,7 +8687,8 @@
       "fr": "Durée de vie",
       "tr": "Yaşam süresi",
       "zh-CN": "存活时间",
-      "zh-TW": "存活時間"
+      "zh-TW": "存活時間",
+      "id": "Waktu Aktif"
     },
     "Title": {
       "ja": "タイトル",
@@ -8659,7 +8698,8 @@
       "fr": "Titre",
       "tr": "Başlık",
       "zh-CN": "标题",
-      "zh-TW": "標題"
+      "zh-TW": "標題",
+      "id": "Judul"
     },
     "Total clicks": {
       "ja": "総クリック数",
@@ -8669,7 +8709,8 @@
       "fr": "Total des clics",
       "tr": "Toplam tıklama",
       "zh-CN": "总点击",
-      "zh-TW": "總點擊"
+      "zh-TW": "總點擊",
+      "id": "Total klik"
     },
     "Total number of recipients": {
       "ja": "受信者総数",
@@ -8679,7 +8720,8 @@
       "fr": "Nombre total de destinataires",
       "tr": "Toplam alıcı sayısı",
       "zh-CN": "收件人总数",
-      "zh-TW": "收件人總數"
+      "zh-TW": "收件人總數",
+      "id": "Total jumlah penerima"
     },
     "now": {
       "ja": "今",
@@ -8689,7 +8731,8 @@
       "fr": "maintenant",
       "tr": "şimdi",
       "zh-CN": "现在",
-      "zh-TW": "現在"
+      "zh-TW": "現在",
+      "id": "sekarang"
     },
     "New Segment": {
       "ja": "新しいセグメント",
@@ -8699,7 +8742,8 @@
       "fr": "Nouveau segment",
       "tr": "Yeni segment",
       "zh-CN": "新用户分群",
-      "zh-TW": "新用戶分群"
+      "zh-TW": "新用戶分群",
+      "id": "Segment Baru"
     },
     "App usage": {
       "ja": "アプリ使用状況",
@@ -8709,7 +8753,8 @@
       "fr": "Utilisation de l'app",
       "tr": "Uygulama kullanımı",
       "zh-CN": "应用使用情况",
-      "zh-TW": "應用使用情況"
+      "zh-TW": "應用使用情況",
+      "id": "Penggunaan aplikasi"
     },
     "Billing": {
       "ja": "請求",
@@ -8719,7 +8764,8 @@
       "fr": "Facturation",
       "tr": "Faturalama",
       "zh-CN": "账单",
-      "zh-TW": "帳單"
+      "zh-TW": "帳單",
+      "id": "Penagihan"
     },
     "Enterprise": {
       "ja": "エンタープライズ",
@@ -8729,7 +8775,8 @@
       "fr": "Enterprise",
       "tr": "Enterprise",
       "zh-CN": "Enterprise",
-      "zh-TW": "Enterprise"
+      "zh-TW": "Enterprise",
+      "id": "Enterprise"
     },
     "Invite team members": {
       "ja": "チームメンバーを招待",
@@ -8739,7 +8786,8 @@
       "fr": "Inviter des membres de l'équipe",
       "tr": "Ekip üyeleri davet et",
       "zh-CN": "邀请团队成员",
-      "zh-TW": "邀請團隊成員"
+      "zh-TW": "邀請團隊成員",
+      "id": "Undang anggota tim"
     },
     "Log out": {
       "ja": "ログアウト",
@@ -8749,7 +8797,8 @@
       "fr": "Se déconnecter",
       "tr": "Oturumu kapat",
       "zh-CN": "退出登录",
-      "zh-TW": "登出"
+      "zh-TW": "登出",
+      "id": "Keluar"
     },
     "Manage account": {
       "ja": "アカウント管理",
@@ -8759,7 +8808,8 @@
       "fr": "Gérer le compte",
       "tr": "Hesabı yönet",
       "zh-CN": "管理账户",
-      "zh-TW": "管理帳戶"
+      "zh-TW": "管理帳戶",
+      "id": "Kelola akun"
     },
     "Search for an app": {
       "ja": "アプリを検索",
