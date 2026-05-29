@@ -18,6 +18,7 @@ const FORM_LANG_LABEL = {
   tr: "Turkish",
   ko: "Korean",
   fr: "French",
+  id: "Indonesian",
 };
 
 // Flag emojis for the language picker. Skipped for `en` (off mode).
@@ -33,6 +34,7 @@ const LANG_FLAGS = {
   tr: "🇹🇷",
   ko: "🇰🇷",
   fr: "🇫🇷",
+  id: "🇮🇩",
 };
 
 // Localized strings for the popup chrome itself. Keyed by string ID,

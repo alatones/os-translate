@@ -7,6 +7,27 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
+## [1.6.17] — 2026-05-20
+
+### Added
+
+- **Indonesian (id) language plumbing.** Wiring only — selectable
+  from the popup as `Bahasa Indonesia — Indonesian` (🇮🇩), but the
+  dashboard falls through to English until translation entries land
+  in the next PR. Touches:
+  - `_locales/id/messages.json` (Web Store metadata)
+  - `popup.js` LANG_FLAGS + FORM_LANG_LABEL
+  - `background.js` FORM_LANG_LABEL + MENU_TITLES
+  - `validate.py` LANGS array (so glossary enforcement applies
+    once entries land)
+  - `languages.json` dropdown-label map
+  - `style/id.md` new (variant notes, register, vocabulary,
+    Latin-for-feature-name rules mirroring the established
+    es/pt/tr/zh-TW reviewer patterns)
+  - `README.md` language table row (marked "pending native review")
+  Translations + glossary locks come in the next PR. Native review
+  loop with Santi Lee (Indonesian QA) starts after that.
+
 ## [1.6.16] — 2026-05-20
 
 ### Added
