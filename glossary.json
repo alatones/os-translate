@@ -497,17 +497,18 @@
     "Template": {
       "ja": "テンプレート",
       "es": "Plantilla",
-      "pt": "Modelo",
+      "pt": "Template",
       "ko": "템플릿",
       "fr": "Modèle",
       "tr": "Şablon",
+      "note": "pt: stays Latin per Ana (BR reviewer) — 'Template' reads more natural/idiomatic than 'Modelo' in Brazilian SaaS UI. Same Latin-product-feature pattern as Italo's es calls (Custom Events, Event Stream, Data Feed, etc.).",
       "zh-CN": "模板",
       "zh-TW": "範本"
     },
     "Templates": {
       "ja": "テンプレート",
       "es": "Plantillas",
-      "pt": "Modelos",
+      "pt": "Templates",
       "ko": "템플릿",
       "fr": "Modèles",
       "tr": [
