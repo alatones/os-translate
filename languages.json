@@ -15903,7 +15903,8 @@
       "fr": "Tout le monde",
       "tr": "Herkes",
       "zh-CN": "所有人",
-      "zh-TW": "所有人"
+      "zh-TW": "所有人",
+      "id": "Semua Orang"
     },
     "Help": {
       "ja": "ヘルプ",
@@ -15913,7 +15914,8 @@
       "fr": "Aide",
       "tr": "Yardım",
       "zh-CN": "帮助",
-      "zh-TW": "幫助"
+      "zh-TW": "幫助",
+      "id": "Bantuan"
     },
     "Add Keyword": {
       "ja": "キーワードを追加",
@@ -15923,7 +15925,8 @@
       "fr": "Ajouter un mot-clé",
       "tr": "Anahtar kelime ekle",
       "zh-CN": "添加关键词",
-      "zh-TW": "新增關鍵詞"
+      "zh-TW": "新增關鍵詞",
+      "id": "Tambah Kata Kunci"
     },
     "Add Text-To-Subscribe Keyword": {
       "ja": "テキスト購読キーワードを追加",
@@ -15933,7 +15936,8 @@
       "fr": "Ajouter un mot-clé d'inscription par SMS",
       "tr": "SMS ile abone olma anahtar kelimesi ekle",
       "zh-CN": "添加短信订阅关键词",
-      "zh-TW": "新增短訊訂閱關鍵詞"
+      "zh-TW": "新增短訊訂閱關鍵詞",
+      "id": "Tambah Kata Kunci Text-To-Subscribe"
     },
     "Additional Opt-Out Actions": {
       "ja": "追加のオプトアウトアクション",
@@ -15943,7 +15947,8 @@
       "fr": "Actions de désinscription supplémentaires",
       "tr": "Ek abonelikten çıkma eylemleri",
       "zh-CN": "其他取消订阅操作",
-      "zh-TW": "其他取消訂閱操作"
+      "zh-TW": "其他取消訂閱操作",
+      "id": "Tindakan Opt-Out Tambahan"
     },
     "Contract is OneSignal managed": {
       "ja": "契約はOneSignal管理",
@@ -15953,7 +15958,8 @@
       "fr": "Contrat géré par OneSignal",
       "tr": "Sözleşme OneSignal tarafından yönetiliyor",
       "zh-CN": "合约由 OneSignal 管理",
-      "zh-TW": "合約由 OneSignal 管理"
+      "zh-TW": "合約由 OneSignal 管理",
+      "id": "Kontrak dikelola OneSignal"
     },
     "Double Opt-In": {
       "ja": "ダブルオプトイン",
@@ -15963,7 +15969,8 @@
       "fr": "Double opt-in",
       "tr": "Çift onay",
       "zh-CN": "双重确认",
-      "zh-TW": "雙重確認"
+      "zh-TW": "雙重確認",
+      "id": "Double Opt-In"
     },
     "Keywords automatically send a reply when a keyword is received from a subscribed phone number.": {
       "ja": "キーワードは、購読済みの電話番号からキーワードを受信したときに自動的に返信を送信します。",
@@ -15973,7 +15980,8 @@
       "fr": "Les mots-clés envoient automatiquement une réponse lorsqu'un mot-clé est reçu depuis un numéro de téléphone abonné.",
       "tr": "Anahtar kelimeler, abone bir telefon numarasından bir anahtar kelime alındığında otomatik olarak yanıt gönderir.",
       "zh-CN": "当从已订阅的电话号码收到关键词时，关键词会自动发送回复。",
-      "zh-TW": "當從已訂閱的電話號碼收到關鍵詞時，關鍵詞會自動發送回覆。"
+      "zh-TW": "當從已訂閱的電話號碼收到關鍵詞時，關鍵詞會自動發送回覆。",
+      "id": "Kata kunci secara otomatis mengirim balasan saat kata kunci diterima dari nomor telepon yang berlangganan."
     },
     "MMS Throughput": {
       "ja": "MMSスループット",
@@ -15983,7 +15991,8 @@
       "fr": "Débit MMS",
       "tr": "MMS iletim hızı",
       "zh-CN": "MMS 吞吐量",
-      "zh-TW": "MMS 吞吐量"
+      "zh-TW": "MMS 吞吐量",
+      "id": "Throughput MMS"
     },
     "Maximum messages per second (MPS) allowed on this OneSignal app depends on the customer's Twilio trust score and the sender types that the customer is using.": {
       "ja": "このOneSignalアプリで許可される秒あたりの最大メッセージ数 (MPS) は、お客様のTwilio信頼スコアと使用している送信者タイプによって異なります。",
@@ -15993,7 +16002,8 @@
       "fr": "Le nombre maximum de messages par seconde (MPS) autorisé sur cette app OneSignal dépend du score de confiance Twilio du client et des types d'expéditeur utilisés par le client.",
       "tr": "Bu OneSignal uygulamasında izin verilen saniyedeki maksimum mesaj sayısı (MPS), müşterinin Twilio güven puanına ve kullandığı gönderen türlerine bağlıdır.",
       "zh-CN": "此 OneSignal 应用允许的每秒最大消息数 (MPS) 取决于客户的 Twilio 信任评分以及客户使用的发件人类型。",
-      "zh-TW": "此 OneSignal 應用允許的每秒最大訊息數 (MPS) 取決於客戶的 Twilio 信任評分以及客戶使用的發件人類型。"
+      "zh-TW": "此 OneSignal 應用允許的每秒最大訊息數 (MPS) 取決於客戶的 Twilio 信任評分以及客戶使用的發件人類型。",
+      "id": "Pesan maksimum per detik (MPS) yang diizinkan di aplikasi OneSignal ini tergantung pada skor kepercayaan Twilio pelanggan dan jenis pengirim yang digunakan pelanggan."
     },
     "Message Prompt Preview": {
       "ja": "メッセージプロンプトプレビュー",
@@ -16003,7 +16013,8 @@
       "fr": "Aperçu de l'invite du message",
       "tr": "Mesaj istem önizlemesi",
       "zh-CN": "消息提示预览",
-      "zh-TW": "訊息提示預覽"
+      "zh-TW": "訊息提示預覽",
+      "id": "Pratinjau Prompt Pesan"
     },
     "Message Prompt Template": {
       "ja": "メッセージプロンプトテンプレート",
@@ -16013,7 +16024,8 @@
       "fr": "Modèle d'invite de message",
       "tr": "Mesaj istem şablonu",
       "zh-CN": "消息提示模板",
-      "zh-TW": "訊息提示範本"
+      "zh-TW": "訊息提示範本",
+      "id": "Template Prompt Pesan"
     },
     "OFF": {
       "ja": "オフ",
@@ -16023,7 +16035,8 @@
       "fr": "OFF",
       "tr": "KAPALI",
       "zh-CN": "关",
-      "zh-TW": "關"
+      "zh-TW": "關",
+      "id": "NONAKTIF"
     },
     "OneSignal SMS": {
       "ja": "OneSignal SMS",
@@ -16033,7 +16046,8 @@
       "fr": "OneSignal SMS",
       "tr": "OneSignal SMS",
       "zh-CN": "OneSignal 短信",
-      "zh-TW": "OneSignal 短訊"
+      "zh-TW": "OneSignal 短訊",
+      "id": "SMS OneSignal"
     },
     "Opt-Out": {
       "ja": "オプトアウト",
@@ -16043,7 +16057,8 @@
       "fr": "Désinscription",
       "tr": "Abonelikten çık",
       "zh-CN": "取消订阅",
-      "zh-TW": "取消訂閱"
+      "zh-TW": "取消訂閱",
+      "id": "Opt-Out"
     },
     "Re-Subscribe": {
       "ja": "再購読",
@@ -16053,7 +16068,8 @@
       "fr": "Se réabonner",
       "tr": "Yeniden abone ol",
       "zh-CN": "重新订阅",
-      "zh-TW": "重新訂閱"
+      "zh-TW": "重新訂閱",
+      "id": "Berlangganan Kembali"
     },
     "Reply STOP to unsubscribe. Msg&Data Rates May Apply.": {
       "ja": "購読解除はSTOPと返信してください。メッセージおよびデータ料金がかかる場合があります。",
@@ -16063,7 +16079,8 @@
       "fr": "Répondez STOP pour vous désabonner. Frais de message et données possibles.",
       "tr": "Abonelikten çıkmak için STOP yanıtlayın. Mesaj ve veri ücretleri uygulanabilir.",
       "zh-CN": "回复 STOP 取消订阅。可能产生消息和数据费用。",
-      "zh-TW": "回覆 STOP 取消訂閱。可能產生訊息和資料費用。"
+      "zh-TW": "回覆 STOP 取消訂閱。可能產生訊息和資料費用。",
+      "id": "Balas STOP untuk berhenti berlangganan. Tarif Pesan&Data Mungkin Berlaku."
     },
     "SMS Regulatory Compliance Documentation": {
       "ja": "SMS規制遵守文書",
@@ -16073,7 +16090,8 @@
       "fr": "Documentation de conformité réglementaire SMS",
       "tr": "SMS düzenleyici uyumluluk dokümantasyonu",
       "zh-CN": "短信监管合规文档",
-      "zh-TW": "短訊監管合規文件"
+      "zh-TW": "短訊監管合規文件",
+      "id": "Dokumentasi Kepatuhan Regulasi SMS"
     },
     "SMS double opt in": {
       "ja": "SMSダブルオプトイン",
@@ -16083,7 +16101,8 @@
       "fr": "Double opt-in SMS",
       "tr": "SMS çift onay",
       "zh-CN": "短信双重确认",
-      "zh-TW": "短訊雙重確認"
+      "zh-TW": "短訊雙重確認",
+      "id": "Double opt-in SMS"
     },
     "START": {
       "ja": "START",
@@ -16093,7 +16112,8 @@
       "fr": "START",
       "tr": "START",
       "zh-CN": "START",
-      "zh-TW": "START"
+      "zh-TW": "START",
+      "id": "MULAI"
     },
     "STOP": {
       "ja": "STOP",
@@ -16103,7 +16123,8 @@
       "fr": "STOP",
       "tr": "STOP",
       "zh-CN": "STOP",
-      "zh-TW": "STOP"
+      "zh-TW": "STOP",
+      "id": "BERHENTI"
     },
     "SUBSCRIBE": {
       "ja": "SUBSCRIBE",
@@ -16113,7 +16134,8 @@
       "fr": "SUBSCRIBE",
       "tr": "SUBSCRIBE",
       "zh-CN": "SUBSCRIBE",
-      "zh-TW": "SUBSCRIBE"
+      "zh-TW": "SUBSCRIBE",
+      "id": "BERLANGGANAN"
     },
     "Segmented by subscription status": {
       "ja": "購読状態別にセグメント化",
@@ -16123,7 +16145,8 @@
       "fr": "Segmenté par statut d'abonnement",
       "tr": "Abonelik durumuna göre segmentlenmiş",
       "zh-CN": "按订阅状态细分",
-      "zh-TW": "按訂閱狀態細分"
+      "zh-TW": "按訂閱狀態細分",
+      "id": "Disegmentasi berdasarkan status berlangganan"
     },
     "Send Message Prompt is": {
       "ja": "メッセージプロンプト送信:",
@@ -16133,7 +16156,8 @@
       "fr": "L'invite d'envoi de message est",
       "tr": "Mesaj istem gönderimi şu durumda:",
       "zh-CN": "发送消息提示为",
-      "zh-TW": "發送訊息提示為"
+      "zh-TW": "發送訊息提示為",
+      "id": "Prompt Kirim Pesan adalah"
     },
     "Start": {
       "ja": "開始",
@@ -16143,7 +16167,8 @@
       "fr": "Démarrer",
       "tr": "Başlat",
       "zh-CN": "开始",
-      "zh-TW": "開始"
+      "zh-TW": "開始",
+      "id": "Mulai"
     },
     "Subscription Keyword Response": {
       "ja": "購読キーワードの応答",
@@ -16153,7 +16178,8 @@
       "fr": "Réponse au mot-clé d'abonnement",
       "tr": "Abonelik anahtar kelimesi yanıtı",
       "zh-CN": "订阅关键词回复",
-      "zh-TW": "訂閱關鍵詞回覆"
+      "zh-TW": "訂閱關鍵詞回覆",
+      "id": "Respons Kata Kunci Berlangganan"
     },
     "Text-To-Subscribe Keywords": {
       "ja": "テキスト購読キーワード",
@@ -16163,7 +16189,8 @@
       "fr": "Mots-clés d'inscription par SMS",
       "tr": "SMS ile abone olma anahtar kelimeleri",
       "zh-CN": "短信订阅关键词",
-      "zh-TW": "短訊訂閱關鍵詞"
+      "zh-TW": "短訊訂閱關鍵詞",
+      "id": "Kata Kunci Text-To-Subscribe"
     },
     "UNSTOP": {
       "ja": "UNSTOP",
@@ -16173,7 +16200,8 @@
       "fr": "UNSTOP",
       "tr": "UNSTOP",
       "zh-CN": "UNSTOP",
-      "zh-TW": "UNSTOP"
+      "zh-TW": "UNSTOP",
+      "id": "BERHENTI AKTIF"
     },
     "UNSUBSCRIBE": {
       "ja": "UNSUBSCRIBE",
@@ -16183,7 +16211,8 @@
       "fr": "UNSUBSCRIBE",
       "tr": "UNSUBSCRIBE",
       "zh-CN": "UNSUBSCRIBE",
-      "zh-TW": "UNSUBSCRIBE"
+      "zh-TW": "UNSUBSCRIBE",
+      "id": "BERHENTI BERLANGGANAN"
     },
     "Unsubscribe user across all Senders is": {
       "ja": "すべての送信者でユーザーの登録解除:",
@@ -16193,7 +16222,8 @@
       "fr": "La désinscription de l'utilisateur sur tous les expéditeurs est",
       "tr": "Tüm gönderenler genelinde kullanıcının aboneliği şu durumda:",
       "zh-CN": "在所有发件人间取消用户订阅为",
-      "zh-TW": "在所有發件人間取消用戶訂閱為"
+      "zh-TW": "在所有發件人間取消用戶訂閱為",
+      "id": "Berhenti berlangganan pengguna di semua Pengirim adalah"
     },
     "When we receive help keywords, we'll reply with more information.": {
       "ja": "ヘルプキーワードを受信すると、詳細情報を返信します。",
@@ -16203,7 +16233,8 @@
       "fr": "Lorsque nous recevons des mots-clés d'aide, nous répondons avec plus d'informations.",
       "tr": "Yardım anahtar kelimeleri aldığımızda, daha fazla bilgiyle yanıt vereceğiz.",
       "zh-CN": "当我们收到帮助关键词时，我们将回复更多信息。",
-      "zh-TW": "當我們收到幫助關鍵詞時，我們將回覆更多資訊。"
+      "zh-TW": "當我們收到幫助關鍵詞時，我們將回覆更多資訊。",
+      "id": "Saat kami menerima kata kunci bantuan, kami akan membalas dengan informasi lebih lanjut."
     },
     "When we receive opt-out keywords, we'll automatically add the user to the phone number or message service's blocklist.": {
       "ja": "オプトアウトキーワードを受信すると、ユーザーを電話番号またはメッセージサービスのブロックリストに自動的に追加します。",
@@ -16213,7 +16244,8 @@
       "fr": "Lorsque nous recevons des mots-clés de désinscription, nous ajoutons automatiquement l'utilisateur à la liste de blocage du numéro de téléphone ou du service de messagerie.",
       "tr": "Abonelikten çıkma anahtar kelimeleri aldığımızda, kullanıcıyı otomatik olarak telefon numarası veya mesaj servisinin engelli listesine ekleyeceğiz.",
       "zh-CN": "当我们收到取消订阅关键词时，我们将自动把该用户添加到电话号码或消息服务的屏蔽列表。",
-      "zh-TW": "當我們收到取消訂閱關鍵詞時，我們將自動把該用戶新增到電話號碼或訊息服務的屏蔽列表。"
+      "zh-TW": "當我們收到取消訂閱關鍵詞時，我們將自動把該用戶新增到電話號碼或訊息服務的屏蔽列表。",
+      "id": "Saat kami menerima kata kunci opt-out, kami akan secara otomatis menambahkan pengguna ke daftar blokir nomor telepon atau layanan pesan."
     },
     "When we receive text-to-subscribe keywords, we'll automatically subscribe a user. If the user doesn't exist, we'll create the subscription and subscribe the user.": {
       "ja": "テキスト購読キーワードを受信すると、ユーザーを自動的に購読登録します。ユーザーが存在しない場合は、購読を作成してユーザーを登録します。",
@@ -16223,7 +16255,8 @@
       "fr": "Lorsque nous recevons des mots-clés d'inscription par SMS, nous inscrivons automatiquement l'utilisateur. Si l'utilisateur n'existe pas, nous créons l'abonnement et inscrivons l'utilisateur.",
       "tr": "SMS ile abone olma anahtar kelimeleri aldığımızda, kullanıcıyı otomatik olarak abone yapacağız. Kullanıcı mevcut değilse, aboneliği oluşturup kullanıcıyı abone yapacağız.",
       "zh-CN": "当我们收到短信订阅关键词时，我们将自动为用户订阅。如果用户不存在，我们将创建订阅并为该用户订阅。",
-      "zh-TW": "當我們收到短訊訂閱關鍵詞時，我們將自動為用戶訂閱。如果用戶不存在，我們將建立訂閱並為該用戶訂閱。"
+      "zh-TW": "當我們收到短訊訂閱關鍵詞時，我們將自動為用戶訂閱。如果用戶不存在，我們將建立訂閱並為該用戶訂閱。",
+      "id": "Saat kami menerima kata kunci text-to-subscribe, kami akan secara otomatis berlangganan pengguna. Jika pengguna tidak ada, kami akan membuat berlangganan dan mendaftarkan pengguna."
     },
     "YES": {
       "ja": "YES",
@@ -16233,7 +16266,8 @@
       "fr": "YES",
       "tr": "YES",
       "zh-CN": "YES",
-      "zh-TW": "YES"
+      "zh-TW": "YES",
+      "id": "YA"
     },
     "You have successfully been re-subscribed to messages from this number. Reply HELP for help. Reply STOP to unsubscribe. Msg&Data Rates May Apply.": {
       "ja": "この番号からのメッセージに再登録されました。ヘルプはHELP、登録解除はSTOPと返信してください。メッセージおよびデータ料金がかかる場合があります。",
@@ -16243,7 +16277,8 @@
       "fr": "Vous avez été réabonné avec succès aux messages de ce numéro. Répondez HELP pour obtenir de l'aide. Répondez STOP pour vous désabonner. Frais de message et données possibles.",
       "tr": "Bu numaradan gelen mesajlara başarıyla yeniden abone oldunuz. Yardım için HELP, abonelikten çıkmak için STOP yanıtlayın. Mesaj ve veri ücretleri uygulanabilir.",
       "zh-CN": "您已成功重新订阅来自此号码的消息。回复 HELP 获取帮助。回复 STOP 取消订阅。可能产生消息和数据费用。",
-      "zh-TW": "您已成功重新訂閱來自此號碼的訊息。回覆 HELP 獲取幫助。回覆 STOP 取消訂閱。可能產生訊息和資料費用。"
+      "zh-TW": "您已成功重新訂閱來自此號碼的訊息。回覆 HELP 獲取幫助。回覆 STOP 取消訂閱。可能產生訊息和資料費用。",
+      "id": "Anda telah berhasil berlangganan kembali pesan dari nomor ini. Balas HELP untuk bantuan. Balas STOP untuk berhenti berlangganan. Tarif Pesan&Data Mungkin Berlaku."
     },
     "You have successfully been unsubscribed. You will not receive any more messages from this number. Reply START to resubscribe.": {
       "ja": "登録解除されました。この番号からのメッセージは今後届きません。再登録するにはSTARTと返信してください。",
@@ -16253,7 +16288,8 @@
       "fr": "Vous avez été désabonné avec succès. Vous ne recevrez plus de messages de ce numéro. Répondez START pour vous réabonner.",
       "tr": "Aboneliğiniz başarıyla iptal edildi. Bu numaradan artık mesaj almayacaksınız. Yeniden abone olmak için START yanıtlayın.",
       "zh-CN": "您已成功取消订阅。您将不再收到来自此号码的消息。回复 START 重新订阅。",
-      "zh-TW": "您已成功取消訂閱。您將不再收到來自此號碼的訊息。回覆 START 重新訂閱。"
+      "zh-TW": "您已成功取消訂閱。您將不再收到來自此號碼的訊息。回覆 START 重新訂閱。",
+      "id": "Anda telah berhasil berhenti berlangganan. Anda tidak akan menerima pesan lagi dari nomor ini. Balas MULAI untuk berlangganan kembali."
     },
     "never subscribed users:": {
       "ja": "購読したことのないユーザー:",
@@ -16263,7 +16299,8 @@
       "fr": "utilisateurs jamais abonnés :",
       "tr": "hiç abone olmamış kullanıcılar:",
       "zh-CN": "从未订阅的用户:",
-      "zh-TW": "從未訂閱的用戶："
+      "zh-TW": "從未訂閱的用戶：",
+      "id": "pengguna yang belum pernah berlangganan:"
     },
     "subscribed users:": {
       "ja": "購読中のユーザー:",
@@ -16273,7 +16310,8 @@
       "fr": "utilisateurs abonnés :",
       "tr": "abone kullanıcılar:",
       "zh-CN": "已订阅的用户:",
-      "zh-TW": "已訂閱的用戶："
+      "zh-TW": "已訂閱的用戶：",
+      "id": "pengguna berlangganan:"
     },
     "Add Auto-Responder": {
       "ja": "自動応答を追加",
@@ -16283,7 +16321,8 @@
       "fr": "Ajouter une réponse automatique",
       "tr": "Otomatik yanıtlayıcı ekle",
       "zh-CN": "添加自动回复器",
-      "zh-TW": "新增自動回覆器"
+      "zh-TW": "新增自動回覆器",
+      "id": "Tambah Responder Otomatis"
     },
     "Auto-Responder": {
       "ja": "自動応答",
@@ -16293,7 +16332,8 @@
       "fr": "Réponse automatique",
       "tr": "Otomatik yanıtlayıcı",
       "zh-CN": "自动回复器",
-      "zh-TW": "自動回覆器"
+      "zh-TW": "自動回覆器",
+      "id": "Responder Otomatis"
     },
     "When we receive unrecognized keywords from a phone number, we'll automatically reply with this template.": {
       "ja": "電話番号から認識されないキーワードを受信すると、このテンプレートで自動的に返信します。",
@@ -16303,7 +16343,8 @@
       "fr": "Lorsque nous recevons des mots-clés non reconnus depuis un numéro de téléphone, nous répondons automatiquement avec ce modèle.",
       "tr": "Bir telefon numarasından tanınmayan anahtar kelimeler aldığımızda, otomatik olarak bu şablonla yanıt vereceğiz.",
       "zh-CN": "当我们从电话号码收到无法识别的关键词时，我们将自动使用此模板回复。",
-      "zh-TW": "當我們從電話號碼收到無法識別的關鍵詞時，我們將自動使用此範本回覆。"
+      "zh-TW": "當我們從電話號碼收到無法識別的關鍵詞時，我們將自動使用此範本回覆。",
+      "id": "Saat kami menerima kata kunci yang tidak dikenal dari nomor telepon, kami akan secara otomatis membalas dengan template ini."
     },
     "Provider is": {
       "ja": "プロバイダー:",
@@ -16313,7 +16354,8 @@
       "fr": "Le fournisseur est",
       "tr": "Sağlayıcı şudur:",
       "zh-CN": "提供商为",
-      "zh-TW": "提供商為"
+      "zh-TW": "提供商為",
+      "id": "Penyedia adalah"
     },
     "Show password": {
       "ja": "パスワードを表示",
@@ -16323,7 +16365,8 @@
       "fr": "Afficher le mot de passe",
       "tr": "Şifreyi göster",
       "zh-CN": "显示密码",
-      "zh-TW": "顯示密碼"
+      "zh-TW": "顯示密碼",
+      "id": "Tampilkan kata sandi"
     },
     "Twilio Account SID": {
       "ja": "Twilioアカウントsid",
@@ -16333,7 +16376,8 @@
       "fr": "SID de compte Twilio",
       "tr": "Twilio hesap SID",
       "zh-CN": "Twilio 账户 SID",
-      "zh-TW": "Twilio 帳戶 SID"
+      "zh-TW": "Twilio 帳戶 SID",
+      "id": "SID Akun Twilio"
     },
     "Twilio Auth Token": {
       "ja": "Twilio認証トークン",
@@ -16343,7 +16387,8 @@
       "fr": "Token d'authentification Twilio",
       "tr": "Twilio kimlik doğrulama token'ı",
       "zh-CN": "Twilio 身份验证令牌",
-      "zh-TW": "Twilio 身份驗證權杖"
+      "zh-TW": "Twilio 身份驗證權杖",
+      "id": "Token Auth Twilio"
     },
     "Twilio Credentials": {
       "ja": "Twilio資格情報",
@@ -16353,7 +16398,8 @@
       "fr": "Identifiants Twilio",
       "tr": "Twilio kimlik bilgileri",
       "zh-CN": "Twilio 凭据",
-      "zh-TW": "Twilio 憑證"
+      "zh-TW": "Twilio 憑證",
+      "id": "Kredensial Twilio"
     },
     "e.g. 12345678": {
       "ja": "例: 12345678",
