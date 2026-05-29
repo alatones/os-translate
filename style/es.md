@@ -65,7 +65,7 @@
 
 ## Sent vs. Delivered: keep the distinction
 
-Per Italo (Chilean reviewer): the OneSignal product tracks **Sent**
+Per the Chilean Spanish reviewer: the OneSignal product tracks **Sent**
 (we dispatched the message) and **Delivered** (the carrier/OS
 confirmed it reached the device) as distinct states, and Spanish
 must preserve that distinction.
@@ -87,7 +87,7 @@ must preserve that distinction.
 | Message Event Delivery      | Entrega de eventos de mensajes      |
 | Close Delivery menu         | Cerrar menú de Entrega              |
 
-Italo's previous suggestion (collapse both to `Enviado`) was retracted
+An earlier suggestion (collapse both to `Enviado`) was retracted
 after we surfaced the product distinction — don't reintroduce that
 collapse.
 

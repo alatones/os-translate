@@ -26,7 +26,7 @@ project follows [Semantic Versioning](https://semver.org/) — see
     es/pt/tr/zh-TW reviewer patterns)
   - `README.md` language table row (marked "pending native review")
   Translations + glossary locks come in the next PR. Native review
-  loop with Santi Lee (Indonesian QA) starts after that.
+  loop with the Indonesian reviewer (Indonesian QA) starts after that.
 
 ## [1.6.16] — 2026-05-20
 
@@ -58,8 +58,8 @@ project follows [Semantic Versioning](https://semver.org/) — see
     `Every journey starts with the first step (and an audience
     segment).`, `Don't stop believing.`
 
-  All glossary locks were honored — Italo's es Latin-product-feature
-  pattern, Ana's pt Template Latin, Emre's tr conventions, Jessie's
+  All glossary locks were honored — the Chilean Spanish reviewer's es Latin-product-feature
+  pattern, the pt Template Latin call, the tr (Turkish) reviewer conventions, the HK Traditional Chinese reviewer's
   zh-TW HK-leaning lexicon, plus the Sent (Enviado) / Delivered
   (Entregado) distinction in es/pt. Several first-pass translations
   were adjusted post-validator to comply with locks (Push native
@@ -92,16 +92,16 @@ project follows [Semantic Versioning](https://semver.org/) — see
   `Close Delivery menu`: `Open Audience menu`, `Open Messages menu`,
   `Open Delivery menu`. Translations in all 8 languages following
   each language's standalone-section vocabulary; tr uses
-  `Bildirim Geçmişi` (Emre's rename) for the Delivery family.
+  `Bildirim Geçmişi` (the Turkish reviewer's rename) for the Delivery family.
 
 ## [1.6.14] — 2026-05-20
 
 ### Changed
 
-- **Portuguese (BR): `Template` / `Templates` stay Latin.** Per Ana
+- **Portuguese (BR): `Template` / `Templates` stay Latin.** Per the BR Portuguese reviewer
   (BR reviewer): `Modelo` / `Modelos` reads as a literal translation;
   Brazilian marketers reach for `Template` in SaaS contexts. Same
-  Latin-product-feature pattern Italo applied to Spanish (Custom
+  Latin-product-feature pattern applied to Spanish (Custom
   Events, Event Stream, Data Feed, Delivery Rate, etc.). Glossary
   locks `Template` and `Templates` to Latin in pt; 35 pt entries
   swept across the Template family. `style/pt.md` updated with the
@@ -115,7 +115,7 @@ project follows [Semantic Versioning](https://semver.org/) — see
   to `Custom Event` / `Custom Events`.** Two cross-contaminated copy-
   paste errors where the wrong English source key was pasted as the
   Spanish value. Both now read `Event Stream` / `Event Streams` per
-  the Italo Latin-product-feature-name pattern (Journey, Live
+  the Latin-product-feature-name reviewer pattern (Journey, Live
   Activity, Custom Events, Data Feed, Delivery Rate, etc.). Also
   aligned `New Event Stream` from `Nuevo flujo de eventos` to
   `Nuevo Event Stream` for family consistency.
@@ -131,7 +131,7 @@ project follows [Semantic Versioning](https://semver.org/) — see
   documented in `SKIP_PAIRS` so future maintainers see the
   rationale.
 - **Glossary locks for `Custom Event`, `Custom Events`, `Event Stream`,
-  `Event Streams`** — each with `es: <Latin form>` so Italo's
+  `Event Streams`** — each with `es: <Latin form>` so the Chilean Spanish reviewer's
   Latin-for-product-feature-names rule is enforced by the validator
   rather than relying on convention.
 
@@ -178,7 +178,7 @@ project follows [Semantic Versioning](https://semver.org/) — see
   every code reference (`popup.js`, `background.js`), the style
   file (`style/zh-HK.md` → `style/zh-TW.md`), and cross-references
   in `README.md` / `STYLE_GUIDE.md` / `style/tr.md` / `style/zh-CN.md`.
-  The underlying vocabulary stays HK-leaning (per Jessie's review).
+  The underlying vocabulary stays HK-leaning (per the HK reviewer's review).
   **Beta testers will need to re-pick Traditional Chinese** — any
   previously saved `language="zh-HK"` in storage falls back to
   English silently after this update (no migration shim shipped).
@@ -215,7 +215,7 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ### Changed
 
-- **Turkish (tr) reviewer pass from Emre.** Seven source keys
+- **Turkish (tr) reviewer pass from the Turkish reviewer.** Seven source keys
   updated for natural Turkish UI vocabulary:
   - `Live Activity` / `Live Activities` /
     `Live Activities documentation` — `Aktivite` → `Etkinlik`
@@ -248,7 +248,7 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ### Changed
 
-- **Spanish: restore Sent/Delivered distinction.** Italo (Chilean
+- **Spanish: restore Sent/Delivered distinction.** the Chilean Spanish reviewer (Chilean
   reviewer) retracted his earlier "collapse both to Enviado" call
   after we surfaced that OneSignal tracks Sent and Delivered as
   distinct states. Final rule: `Sent` → `Enviado` (we dispatched);
@@ -265,7 +265,7 @@ project follows [Semantic Versioning](https://semver.org/) — see
 ### Changed
 
 - **Spanish: standardize delivery-related status labels on `Envío/Enviado`.**
-  Per Italo (Chilean reviewer): in Spanish-language marketing, the
+  Per the Chilean Spanish reviewer: in Spanish-language marketing, the
   `Envío/Enviado` family is the KPI standard; `Entrega/Entregado`
   reads as a literal translation that practitioners don't reach for.
   Affected source keys (10): `Delivered`, `Confirmed Delivered`,
@@ -275,11 +275,11 @@ project follows [Semantic Versioning](https://semver.org/) — see
   menu`. The verb `entregar` and body-copy noun `entrega` still
   translate normally — only status / event / KPI labels go to the
   Envío family. **Known collision:** `Sent` and `Delivered` both
-  now render as `Enviado` in Spanish (Italo's call — Spanish
+  now render as `Enviado` in Spanish (the reviewer call — Spanish
   marketing doesn't distinguish them); flagged in `style/es.md`.
 - **Traditional Chinese (zh-HK): finish the Data Feed sweep.** The
   one remaining generic "data sources" reference inside a filter
-  helper string now also reads as `資料串流` per Jessie — she
+  helper string now also reads as `資料串流` per the HK Traditional Chinese reviewer — she
   confirmed the source string is referring to the Data Feed product
   feature, not generic upstream data sources.
 
@@ -288,7 +288,7 @@ project follows [Semantic Versioning](https://semver.org/) — see
 ### Changed
 
 - **Traditional Chinese (zh-HK) nav-bar labels match page titles.**
-  HK reviewer (Jessie Koh) feedback: the terse one-word menu items
+  HK reviewer (the HK Traditional Chinese reviewer) feedback: the terse one-word menu items
   felt unsynced with their descriptive page titles. Standalone
   source keys updated:
   - `Push` → `推送通知` (was `推送`)
@@ -297,7 +297,7 @@ project follows [Semantic Versioning](https://semver.org/) — see
   - `Users` → `用戶記錄` (was `用戶`)
   - `Subscriptions` → `訂閱記錄` (was `訂閱`)
   - `Test Subscriptions` → `測試訂閱記錄` (was `測試訂閱`)
-- **Data Feed (zh-HK) renamed to `資料串流`.** Per Jessie, `資料來源`
+- **Data Feed (zh-HK) renamed to `資料串流`.** Per the HK Traditional Chinese reviewer, `資料來源`
   (data source) reads as a generic descriptor and doesn't identify
   the product feature. Updated the glossary lock and swept the 9
   source keys that name the feature. The generic phrase "data
