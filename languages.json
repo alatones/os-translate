@@ -9644,7 +9644,8 @@
       "fr": "Vérifier et envoyer",
       "tr": "İncele ve gönder",
       "zh-CN": "审核并发送",
-      "zh-TW": "審核並發送"
+      "zh-TW": "審核並發送",
+      "id": "Tinjau & Kirim"
     },
     "SMS": {
       "ja": "SMS",
@@ -9654,7 +9655,8 @@
       "fr": "SMS",
       "tr": "SMS",
       "zh-CN": "短信",
-      "zh-TW": "短訊"
+      "zh-TW": "短訊",
+      "id": "SMS"
     },
     "Save as Template": {
       "ja": "テンプレートとして保存",
@@ -9664,7 +9666,8 @@
       "fr": "Enregistrer comme modèle",
       "tr": "Şablon olarak kaydet",
       "zh-CN": "保存为模板",
-      "zh-TW": "儲存為範本"
+      "zh-TW": "儲存為範本",
+      "id": "Simpan sebagai Template"
     },
     "Search or create labels...": {
       "ja": "ラベルを検索または作成...",
@@ -9674,7 +9677,8 @@
       "fr": "Rechercher ou créer des étiquettes...",
       "tr": "Etiket ara veya oluştur...",
       "zh-CN": "搜索或创建标签...",
-      "zh-TW": "搜尋或建立標籤..."
+      "zh-TW": "搜尋或建立標籤...",
+      "id": "Cari atau buat label..."
     },
     "Segments that use": {
       "ja": "これを使用するセグメント:",
@@ -9684,7 +9688,8 @@
       "fr": "Segments qui utilisent",
       "tr": "Kullanan segmentler",
       "zh-CN": "使用的用户分群",
-      "zh-TW": "使用的用戶分群"
+      "zh-TW": "使用的用戶分群",
+      "id": "Segment yang menggunakan"
     },
     "Segments using": {
       "ja": "これを使用するセグメント",
@@ -9694,7 +9699,8 @@
       "fr": "Segments utilisant",
       "tr": "Kullanan segmentler",
       "zh-CN": "使用用户分群",
-      "zh-TW": "使用用戶分群"
+      "zh-TW": "使用用戶分群",
+      "id": "Segment yang menggunakan"
     },
     "Select Segment": {
       "ja": "セグメントを選択",
@@ -9704,7 +9710,8 @@
       "fr": "Sélectionner un segment",
       "tr": "Segment seç",
       "zh-CN": "选择用户分群",
-      "zh-TW": "選擇用戶分群"
+      "zh-TW": "選擇用戶分群",
+      "id": "Pilih Segment"
     },
     "Send With Auto Warm Up": {
       "ja": "自動ウォームアップで送信",
@@ -9714,7 +9721,8 @@
       "fr": "Envoyer avec préchauffe automatique",
       "tr": "Otomatik ısıtmayla gönder",
       "zh-CN": "使用自动预热发送",
-      "zh-TW": "使用自動預熱發送"
+      "zh-TW": "使用自動預熱發送",
+      "id": "Kirim dengan Pemanasan Otomatis"
     },
     "Send to everyone at the same time": {
       "ja": "全員に同時に送信",
@@ -9724,7 +9732,8 @@
       "fr": "Envoyer à tout le monde en même temps",
       "tr": "Herkese aynı anda gönder",
       "zh-CN": "同时发送给所有人",
-      "zh-TW": "同時發送給所有人"
+      "zh-TW": "同時發送給所有人",
+      "id": "Kirim ke semua orang pada waktu yang sama"
     },
     "Set a Message Goal": {
       "ja": "メッセージの目標を設定",
@@ -9734,7 +9743,8 @@
       "fr": "Définir un objectif de message",
       "tr": "Mesaj hedefi belirleyin",
       "zh-CN": "设置消息目标",
-      "zh-TW": "設定訊息目標"
+      "zh-TW": "設定訊息目標",
+      "id": "Tetapkan Tujuan Pesan"
     },
     "Set a target metric to measure this message's success.": {
       "ja": "このメッセージの成功を測定する目標指標を設定。",
@@ -9744,7 +9754,8 @@
       "fr": "Définissez une métrique cible pour mesurer le succès de ce message.",
       "tr": "Bu mesajın başarısını ölçmek için bir hedef metrik belirleyin.",
       "zh-CN": "设置目标指标来衡量此消息的成效。",
-      "zh-TW": "設定目標指標來衡量此訊息的成效。"
+      "zh-TW": "設定目標指標來衡量此訊息的成效。",
+      "id": "Tetapkan metrik target untuk mengukur keberhasilan pesan ini."
     },
     "Specific Time": {
       "ja": "特定の時刻",
@@ -9754,7 +9765,8 @@
       "fr": "Heure spécifique",
       "tr": "Belirli zaman",
       "zh-CN": "特定时间",
-      "zh-TW": "特定時間"
+      "zh-TW": "特定時間",
+      "id": "Waktu Tertentu"
     },
     "Subject": {
       "ja": "件名",
@@ -9764,7 +9776,8 @@
       "fr": "Objet",
       "tr": "Konu",
       "zh-CN": "主题",
-      "zh-TW": "主題"
+      "zh-TW": "主題",
+      "id": "Subjek"
     },
     "Total Users": {
       "ja": "全ユーザー",
@@ -9774,7 +9787,8 @@
       "fr": "Total des utilisateurs",
       "tr": "Toplam kullanıcı",
       "zh-CN": "用户总数",
-      "zh-TW": "用戶總數"
+      "zh-TW": "用戶總數",
+      "id": "Total Pengguna"
     },
     "Track link clicks": {
       "ja": "リンククリックを追跡",
@@ -9784,7 +9798,8 @@
       "fr": "Suivre les clics sur les liens",
       "tr": "Bağlantı tıklamalarını izle",
       "zh-CN": "追踪链接点击",
-      "zh-TW": "追蹤連結點擊"
+      "zh-TW": "追蹤連結點擊",
+      "id": "Lacak klik tautan"
     },
     "Web push Subscriptions": {
       "ja": "Webプッシュ購読",
@@ -9794,7 +9809,8 @@
       "fr": "Abonnements push web",
       "tr": "Web push abonelikleri",
       "zh-CN": "Web 推送订阅",
-      "zh-TW": "Web 推送訂閱"
+      "zh-TW": "Web 推送訂閱",
+      "id": "Berlangganan push web"
     },
     "When should this message start sending?": {
       "ja": "このメッセージはいつ送信を開始しますか？",
@@ -9804,7 +9820,8 @@
       "fr": "Quand ce message doit-il commencer à être envoyé ?",
       "tr": "Bu mesaj ne zaman gönderilmeye başlanmalı?",
       "zh-CN": "此消息何时开始发送？",
-      "zh-TW": "此訊息何時開始發送？"
+      "zh-TW": "此訊息何時開始發送？",
+      "id": "Kapan pesan ini mulai dikirim?"
     },
     "When should users receive this message?": {
       "ja": "ユーザーはいつこのメッセージを受信しますか？",
@@ -9814,7 +9831,8 @@
       "fr": "Quand les utilisateurs doivent-ils recevoir ce message ?",
       "tr": "Kullanıcılar bu mesajı ne zaman almalı?",
       "zh-CN": "用户何时应该收到此消息？",
-      "zh-TW": "用戶何時應該收到此訊息？"
+      "zh-TW": "用戶何時應該收到此訊息？",
+      "id": "Kapan pengguna harus menerima pesan ini?"
     },
     "You also have": {
       "ja": "次もあります:",
@@ -9824,7 +9842,8 @@
       "fr": "Vous avez également",
       "tr": "Ayrıca şunlara sahipsiniz:",
       "zh-CN": "您还有",
-      "zh-TW": "您還有"
+      "zh-TW": "您還有",
+      "id": "Anda juga memiliki"
     },
     "and cannot be included or excluded alongside other segments.": {
       "ja": "、他のセグメントと一緒に含めたり除外したりすることはできません。",
@@ -9834,7 +9853,8 @@
       "fr": "et ne peut pas être inclus ni exclu avec d'autres segments.",
       "tr": "ve diğer segmentlerle birlikte dahil edilemez veya hariç tutulamaz.",
       "zh-CN": "无法与其他用户分群一起包含或排除。",
-      "zh-TW": "無法與其他用戶分群一起包含或排除。"
+      "zh-TW": "無法與其他用戶分群一起包含或排除。",
+      "id": "dan tidak dapat disertakan atau dikecualikan bersama Segment lain."
     },
     "and cannot be used in the exclusion list.": {
       "ja": "、除外リストには使用できません。",
@@ -9844,7 +9864,8 @@
       "fr": "et ne peut pas être utilisé dans la liste d'exclusion.",
       "tr": "ve hariç tutma listesinde kullanılamaz.",
       "zh-CN": "且无法在排除列表中使用。",
-      "zh-TW": "且無法在排除列表中使用。"
+      "zh-TW": "且無法在排除列表中使用。",
+      "id": "dan tidak dapat digunakan dalam daftar pengecualian."
     },
     "are in early-access,": {
       "ja": "は早期アクセス中、",
@@ -9854,7 +9875,8 @@
       "fr": "sont en accès anticipé,",
       "tr": "erken erişimdedir,",
       "zh-CN": "处于抢先体验阶段，",
-      "zh-TW": "處於搶先體驗階段，"
+      "zh-TW": "處於搶先體驗階段，",
+      "id": "berada dalam akses awal,"
     },
     "are user-based": {
       "ja": "はユーザーベース",
@@ -9864,7 +9886,8 @@
       "fr": "sont basés sur l'utilisateur",
       "tr": "kullanıcı tabanlıdır",
       "zh-CN": "基于用户",
-      "zh-TW": "基於用戶"
+      "zh-TW": "基於用戶",
+      "id": "berbasis pengguna"
     },
     "message events": {
       "ja": "メッセージイベント",
@@ -9874,7 +9897,8 @@
       "fr": "événements de message",
       "tr": "mesaj etkinlikleri",
       "zh-CN": "消息事件",
-      "zh-TW": "訊息事件"
+      "zh-TW": "訊息事件",
+      "id": "event pesan"
     },
     "paused or processing segments.": {
       "ja": "一時停止中または処理中のセグメント。",
@@ -9884,7 +9908,8 @@
       "fr": "segments en pause ou en cours de traitement.",
       "tr": "duraklatılmış veya işlenmekte olan segmentler.",
       "zh-CN": "已暂停或处理中的用户分群。",
-      "zh-TW": "已暫停或處理中的用戶分群。"
+      "zh-TW": "已暫停或處理中的用戶分群。",
+      "id": "Segment yang dijeda atau diproses."
     },
     "should": {
       "ja": "次の場合",
@@ -9894,7 +9919,8 @@
       "fr": "doit",
       "tr": "olmalı",
       "zh-CN": "应该",
-      "zh-TW": "應該"
+      "zh-TW": "應該",
+      "id": "harus"
     },
     "should not": {
       "ja": "次でない場合",
@@ -9904,7 +9930,8 @@
       "fr": "ne doit pas",
       "tr": "olmamalı",
       "zh-CN": "不应该",
-      "zh-TW": "不應該"
+      "zh-TW": "不應該",
+      "id": "tidak harus"
     },
     "Expand navigation": {
       "ja": "ナビゲーションを展開",
@@ -9914,7 +9941,8 @@
       "fr": "Développer la navigation",
       "tr": "Gezinmeyi genişlet",
       "zh-CN": "展开导航",
-      "zh-TW": "展開導覽"
+      "zh-TW": "展開導覽",
+      "id": "Perluas navigasi"
     },
     "Messages sent through our API or WordPress Plugin can be found in": {
       "ja": "APIまたはWordPressプラグインを通じて送信されたメッセージは次で確認できます:",
@@ -9924,7 +9952,8 @@
       "fr": "Les messages envoyés via notre API ou le plugin WordPress se trouvent dans",
       "tr": "API'miz veya WordPress eklentisi aracılığıyla gönderilen mesajlar şurada bulunabilir:",
       "zh-CN": "通过我们的 API 或 WordPress 插件发送的消息可在以下位置找到:",
-      "zh-TW": "透過我們的 API 或 WordPress 外掛發送的訊息可在以下位置找到："
+      "zh-TW": "透過我們的 API 或 WordPress 外掛發送的訊息可在以下位置找到：",
+      "id": "Pesan yang dikirim melalui API atau Plugin WordPress kami dapat ditemukan di"
     },
     "Messages sent through our API can be found in": {
       "ja": "APIを通じて送信されたメッセージは次で確認できます:",
@@ -9934,7 +9963,8 @@
       "fr": "Les messages envoyés via notre API se trouvent dans",
       "tr": "API'miz aracılığıyla gönderilen mesajlar şurada bulunabilir:",
       "zh-CN": "通过我们的 API 发送的消息可在以下位置找到:",
-      "zh-TW": "透過我們的 API 發送的訊息可在以下位置找到："
+      "zh-TW": "透過我們的 API 發送的訊息可在以下位置找到：",
+      "id": "Pesan yang dikirim melalui API kami dapat ditemukan di"
     },
     "Save & Exit": {
       "ja": "保存して終了",
@@ -9944,7 +9974,8 @@
       "fr": "Enregistrer et quitter",
       "tr": "Kaydet ve çık",
       "zh-CN": "保存并退出",
-      "zh-TW": "儲存並退出"
+      "zh-TW": "儲存並退出",
+      "id": "Simpan & Keluar"
     },
     "Block editor": {
       "ja": "ブロックエディター",
@@ -9954,7 +9985,8 @@
       "fr": "Éditeur par blocs",
       "tr": "Blok düzenleyici",
       "zh-CN": "块编辑器",
-      "zh-TW": "區塊編輯器"
+      "zh-TW": "區塊編輯器",
+      "id": "Editor blok"
     },
     "Fold line": {
       "ja": "行を折りたたむ",
@@ -9964,7 +9996,8 @@
       "fr": "Replier la ligne",
       "tr": "Satırı katla",
       "zh-CN": "折叠行",
-      "zh-TW": "摺疊列"
+      "zh-TW": "摺疊列",
+      "id": "Lipat baris"
     },
     "Advanced options": {
       "ja": "詳細オプション",
@@ -9974,7 +10007,8 @@
       "fr": "Options avancées",
       "tr": "Gelişmiş seçenekler",
       "zh-CN": "高级选项",
-      "zh-TW": "進階選項"
+      "zh-TW": "進階選項",
+      "id": "Opsi lanjutan"
     },
     "Add click action": {
       "ja": "クリックアクションを追加",
@@ -9984,7 +10018,8 @@
       "fr": "Ajouter une action de clic",
       "tr": "Tıklama eylemi ekle",
       "zh-CN": "添加点击操作",
-      "zh-TW": "新增點擊操作"
+      "zh-TW": "新增點擊操作",
+      "id": "Tambah aksi klik"
     },
     "Margin bottom": {
       "ja": "下のマージン",
@@ -9994,7 +10029,8 @@
       "fr": "Marge inférieure",
       "tr": "Alt kenar boşluğu",
       "zh-CN": "下边距",
-      "zh-TW": "下邊距"
+      "zh-TW": "下邊距",
+      "id": "Margin bawah"
     },
     "Margin left": {
       "ja": "左のマージン",
@@ -10004,7 +10040,8 @@
       "fr": "Marge gauche",
       "tr": "Sol kenar boşluğu",
       "zh-CN": "左边距",
-      "zh-TW": "左邊距"
+      "zh-TW": "左邊距",
+      "id": "Margin kiri"
     },
     "Margin right": {
       "ja": "右のマージン",
@@ -10014,7 +10051,8 @@
       "fr": "Marge droite",
       "tr": "Sağ kenar boşluğu",
       "zh-CN": "右边距",
-      "zh-TW": "右邊距"
+      "zh-TW": "右邊距",
+      "id": "Margin kanan"
     },
     "Margin top": {
       "ja": "上のマージン",
@@ -10024,7 +10062,8 @@
       "fr": "Marge supérieure",
       "tr": "Üst kenar boşluğu",
       "zh-CN": "上边距",
-      "zh-TW": "上邊距"
+      "zh-TW": "上邊距",
+      "id": "Margin atas"
     },
     "Text alignment": {
       "ja": "テキストの配置",
@@ -10034,7 +10073,8 @@
       "fr": "Alignement du texte",
       "tr": "Metin hizalaması",
       "zh-CN": "文本对齐",
-      "zh-TW": "文字對齊"
+      "zh-TW": "文字對齊",
+      "id": "Perataan teks"
     },
     "Dismiss on click": {
       "ja": "クリックで閉じる",
@@ -10044,7 +10084,8 @@
       "fr": "Ignorer au clic",
       "tr": "Tıklayınca kapat",
       "zh-CN": "点击关闭",
-      "zh-TW": "點擊關閉"
+      "zh-TW": "點擊關閉",
+      "id": "Tutup saat diklik"
     },
     "Image upload input": {
       "ja": "画像アップロード入力",
@@ -10054,7 +10095,8 @@
       "fr": "Entrée de téléversement d'image",
       "tr": "Görsel yükleme girişi",
       "zh-CN": "图像上传输入",
-      "zh-TW": "圖像上傳輸入"
+      "zh-TW": "圖像上傳輸入",
+      "id": "Input unggah gambar"
     },
     "Select image": {
       "ja": "画像を選択",
@@ -10064,7 +10106,8 @@
       "fr": "Sélectionner une image",
       "tr": "Görsel seç",
       "zh-CN": "选择图像",
-      "zh-TW": "選擇圖像"
+      "zh-TW": "選擇圖像",
+      "id": "Pilih gambar"
     },
     "or paste local path or URL": {
       "ja": "またはローカルパスやURLを貼り付け",
@@ -10074,7 +10117,8 @@
       "fr": "ou collez un chemin local ou une URL",
       "tr": "veya yerel yolu ya da URL'yi yapıştırın",
       "zh-CN": "或粘贴本地路径或 URL",
-      "zh-TW": "或貼上本地路徑或 URL"
+      "zh-TW": "或貼上本地路徑或 URL",
+      "id": "atau tempel jalur lokal atau URL"
     },
     "Center aligned": {
       "ja": "中央揃え",
@@ -10084,7 +10128,8 @@
       "fr": "Aligné au centre",
       "tr": "Ortalanmış",
       "zh-CN": "居中对齐",
-      "zh-TW": "置中對齊"
+      "zh-TW": "置中對齊",
+      "id": "Rata tengah"
     },
     "Font family": {
       "ja": "フォントファミリー",
@@ -10094,7 +10139,8 @@
       "fr": "Famille de police",
       "tr": "Yazı tipi ailesi",
       "zh-CN": "字体",
-      "zh-TW": "字體"
+      "zh-TW": "字體",
+      "id": "Keluarga font"
     },
     "Font size": {
       "ja": "フォントサイズ",
@@ -10104,7 +10150,8 @@
       "fr": "Taille de la police",
       "tr": "Yazı tipi boyutu",
       "zh-CN": "字号",
-      "zh-TW": "字級"
+      "zh-TW": "字級",
+      "id": "Ukuran font"
     },
     "Format": {
       "ja": "フォーマット",
@@ -10114,7 +10161,8 @@
       "fr": "Format",
       "tr": "Format",
       "zh-CN": "格式",
-      "zh-TW": "格式"
+      "zh-TW": "格式",
+      "id": "Format"
     },
     "Left aligned": {
       "ja": "左揃え",
@@ -10124,7 +10172,8 @@
       "fr": "Aligné à gauche",
       "tr": "Sola hizalanmış",
       "zh-CN": "左对齐",
-      "zh-TW": "靠左對齊"
+      "zh-TW": "靠左對齊",
+      "id": "Rata kiri"
     },
     "Right aligned": {
       "ja": "右揃え",
@@ -10134,7 +10183,8 @@
       "fr": "Aligné à droite",
       "tr": "Sağa hizalanmış",
       "zh-CN": "右对齐",
-      "zh-TW": "靠右對齊"
+      "zh-TW": "靠右對齊",
+      "id": "Rata kanan"
     },
     "Specific time": {
       "ja": "特定の時刻",
