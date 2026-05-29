@@ -17899,6 +17899,46 @@
       "tr": "Göndermeye hazır mısın? Bu şablonu kullanarak ilk mesajını oluştur",
       "zh-CN": "准备发送了吗?使用此模板创建你的第一条消息",
       "zh-TW": "準備發送了嗎?使用此範本建立您的第一則訊息"
+    },
+    "The only journey is the one within.": {
+      "ja": "本当の旅は、自分の内側にある。",
+      "es": "El único viaje es el que ocurre dentro de uno mismo.",
+      "pt": "A única jornada é aquela que acontece dentro de você.",
+      "ko": "진정한 여정은 자기 자신 안에 있다.",
+      "fr": "Le seul voyage est celui qui se passe en soi.",
+      "tr": "Tek gerçek yolculuk, içimizdeki yolculuktur.",
+      "zh-CN": "唯一的旅程,是向内的旅程。",
+      "zh-TW": "唯一的旅程,是向內的旅程。"
+    },
+    "Embrace the journey.": {
+      "ja": "旅を楽しもう。",
+      "es": "Abraza el viaje.",
+      "pt": "Abrace a jornada.",
+      "ko": "여정을 받아들이세요.",
+      "fr": "Embrassez le voyage.",
+      "tr": "Yolculuğu kucaklayın.",
+      "zh-CN": "拥抱旅程。",
+      "zh-TW": "擁抱旅程。"
+    },
+    "Every journey starts with the first step (and an audience segment).": {
+      "ja": "すべての旅は最初の一歩から始まります(そしてオーディエンスのセグメントから)。",
+      "es": "Cada viaje comienza con un primer paso (y un Segmento de Audiencia).",
+      "pt": "Toda jornada começa com o primeiro passo (e um Segmento de Público).",
+      "ko": "모든 여정은 첫걸음에서 시작됩니다 (그리고 대상 세그먼트에서).",
+      "fr": "Chaque voyage commence par un premier pas (et un segment d'audience).",
+      "tr": "Her yolculuk ilk adımla başlar (ve bir hedef kitle segmentiyle).",
+      "zh-CN": "每段旅程都从第一步开始(以及一个受众用户分群)。",
+      "zh-TW": "每段旅程都從第一步開始(以及一個受眾用戶分群)。"
+    },
+    "Don't stop believing.": {
+      "ja": "信じることをやめないで。",
+      "es": "No dejes de creer.",
+      "pt": "Não pare de acreditar.",
+      "ko": "믿음을 멈추지 마세요.",
+      "fr": "N'arrête pas de croire.",
+      "tr": "İnanmaktan vazgeçme.",
+      "zh-CN": "永不放弃信念。",
+      "zh-TW": "永不放棄信念。"
     }
   },
   "patterns": [
