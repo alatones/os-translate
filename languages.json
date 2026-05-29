@@ -2758,7 +2758,8 @@
       "fr": "Dernier envoi",
       "tr": "Son gönderim",
       "zh-CN": "最近发送",
-      "zh-TW": "最近發送"
+      "zh-TW": "最近發送",
+      "id": "Terakhir dikirim"
     },
     "Last Session": {
       "es": "Última sesión",
@@ -2768,7 +2769,8 @@
       "fr": "Dernière session",
       "tr": "Son oturum",
       "zh-CN": "最近会话",
-      "zh-TW": "最近會話"
+      "zh-TW": "最近會話",
+      "id": "Sesi Terakhir"
     },
     "Last session": {
       "es": "Última sesión",
@@ -2778,7 +2780,8 @@
       "fr": "Dernière session",
       "tr": "Son oturum",
       "zh-CN": "最近会话",
-      "zh-TW": "最近會話"
+      "zh-TW": "最近會話",
+      "id": "Sesi terakhir"
     },
     "Last Sync": {
       "es": "Última sincronización",
@@ -2788,7 +2791,8 @@
       "fr": "Dernière synchronisation",
       "tr": "Son senkronizasyon",
       "zh-CN": "最近同步",
-      "zh-TW": "最近同步"
+      "zh-TW": "最近同步",
+      "id": "Sinkronisasi Terakhir"
     },
     "Last unsubscribed": {
       "es": "Última cancelación",
@@ -2798,7 +2802,8 @@
       "fr": "Dernière désinscription",
       "tr": "Son abonelikten çıkma",
       "zh-CN": "最近取消订阅",
-      "zh-TW": "最近取消訂閱"
+      "zh-TW": "最近取消訂閱",
+      "id": "Terakhir berhenti berlangganan"
     },
     "Last Updated": {
       "es": "Última actualización",
@@ -2808,7 +2813,8 @@
       "fr": "Dernière mise à jour",
       "tr": "Son güncelleme",
       "zh-CN": "最近更新",
-      "zh-TW": "最近更新"
+      "zh-TW": "最近更新",
+      "id": "Terakhir Diperbarui"
     },
     "Launch CSV Importer": {
       "es": "Iniciar importador CSV",
@@ -2818,7 +2824,8 @@
       "fr": "Lancer l'importateur CSV",
       "tr": "CSV içe aktarıcısını başlat",
       "zh-CN": "启动 CSV 导入工具",
-      "zh-TW": "啟動 CSV 匯入工具"
+      "zh-TW": "啟動 CSV 匯入工具",
+      "id": "Buka Pengimpor CSV"
     },
     "Launch URL": {
       "es": "URL de destino",
@@ -2828,7 +2835,8 @@
       "fr": "URL de lancement",
       "tr": "Başlatma URL'si",
       "zh-CN": "启动 URL",
-      "zh-TW": "啟動 URL"
+      "zh-TW": "啟動 URL",
+      "id": "URL Peluncuran"
     },
     "less than": {
       "es": "menor que",
@@ -2838,7 +2846,8 @@
       "fr": "inférieur à",
       "tr": "küçüktür",
       "zh-CN": "小于",
-      "zh-TW": "小於"
+      "zh-TW": "小於",
+      "id": "kurang dari"
     },
     "Live Activities": {
       "es": "Live Activities",
@@ -2848,7 +2857,8 @@
       "fr": "Live Activities",
       "tr": "Canlı Etkinlikler",
       "zh-CN": "实时活动",
-      "zh-TW": "即時動態"
+      "zh-TW": "即時動態",
+      "id": "Live Activities"
     },
     "Live Activity": {
       "es": "Live Activity",
@@ -2858,7 +2868,8 @@
       "fr": "Live Activity",
       "tr": "Canlı Etkinlik",
       "zh-CN": "实时活动",
-      "zh-TW": "即時動態"
+      "zh-TW": "即時動態",
+      "id": "Live Activity"
     },
     "Load More": {
       "es": "Cargar más",
@@ -2868,7 +2879,8 @@
       "fr": "Charger plus",
       "tr": "Daha fazla yükle",
       "zh-CN": "加载更多",
-      "zh-TW": "載入更多"
+      "zh-TW": "載入更多",
+      "id": "Muat Lebih Banyak"
     },
     "Load segment count": {
       "es": "Cargar recuento de segmentos",
@@ -2878,7 +2890,8 @@
       "fr": "Charger le décompte du segment",
       "tr": "Segment sayısını yükle",
       "zh-CN": "加载用户分群数量",
-      "zh-TW": "載入用戶分群數量"
+      "zh-TW": "載入用戶分群數量",
+      "id": "Muat jumlah Segment"
     },
     "Loading": {
       "es": "Cargando",
@@ -2888,7 +2901,8 @@
       "fr": "Chargement",
       "tr": "Yükleniyor",
       "zh-CN": "加载中",
-      "zh-TW": "載入中"
+      "zh-TW": "載入中",
+      "id": "Memuat"
     },
     "Loading…": {
       "es": "Cargando…",
@@ -2898,7 +2912,8 @@
       "fr": "Chargement…",
       "tr": "Yükleniyor…",
       "zh-CN": "加载中…",
-      "zh-TW": "載入中…"
+      "zh-TW": "載入中…",
+      "id": "Memuat…"
     },
     "Local (EDT):": {
       "es": "Local (EDT):",
@@ -2908,7 +2923,8 @@
       "fr": "Local (EDT) :",
       "tr": "Yerel (EDT):",
       "zh-CN": "本地 (EDT):",
-      "zh-TW": "本地 (EDT)："
+      "zh-TW": "本地 (EDT)：",
+      "id": "Lokal (EDT):"
     },
     "Local:": {
       "es": "Local:",
@@ -2918,7 +2934,8 @@
       "fr": "Local :",
       "tr": "Yerel:",
       "zh-CN": "本地:",
-      "zh-TW": "本地："
+      "zh-TW": "本地：",
+      "id": "Lokal:"
     },
     "Location": {
       "es": "Ubicación",
@@ -2928,7 +2945,8 @@
       "fr": "Emplacement",
       "tr": "Konum",
       "zh-CN": "位置",
-      "zh-TW": "位置"
+      "zh-TW": "位置",
+      "id": "Lokasi"
     },
     "Location point": {
       "es": "Punto de ubicación",
@@ -2938,7 +2956,8 @@
       "fr": "Point d'emplacement",
       "tr": "Konum noktası",
       "zh-CN": "位置点",
-      "zh-TW": "位置點"
+      "zh-TW": "位置點",
+      "id": "Titik lokasi"
     },
     "Manage App": {
       "es": "Administrar app",
@@ -2948,7 +2967,8 @@
       "fr": "Gérer l'app",
       "tr": "Uygulamayı yönet",
       "zh-CN": "管理应用",
-      "zh-TW": "管理應用"
+      "zh-TW": "管理應用",
+      "id": "Kelola Aplikasi"
     },
     "Manage or invite team members": {
       "es": "Administrar o invitar miembros del equipo",
@@ -2958,7 +2978,8 @@
       "fr": "Gérer ou inviter des membres de l'équipe",
       "tr": "Ekip üyelerini yönetin veya davet edin",
       "zh-CN": "管理或邀请团队成员",
-      "zh-TW": "管理或邀請團隊成員"
+      "zh-TW": "管理或邀請團隊成員",
+      "id": "Kelola atau undang anggota tim"
     },
     "Manage this app": {
       "es": "Administrar esta app",
@@ -2968,7 +2989,8 @@
       "fr": "Gérer cette app",
       "tr": "Bu uygulamayı yönet",
       "zh-CN": "管理此应用",
-      "zh-TW": "管理此應用"
+      "zh-TW": "管理此應用",
+      "id": "Kelola aplikasi ini"
     },
     "Manually Add": {
       "es": "Agregar manualmente",
@@ -2978,7 +3000,8 @@
       "fr": "Ajouter manuellement",
       "tr": "Manuel olarak ekle",
       "zh-CN": "手动添加",
-      "zh-TW": "手動新增"
+      "zh-TW": "手動新增",
+      "id": "Tambah Manual"
     },
     "Manually add users with emails or phone numbers": {
       "es": "Agrega usuarios con emails o números de teléfono",
@@ -2988,7 +3011,8 @@
       "fr": "Ajoutez manuellement des utilisateurs avec emails ou numéros de téléphone",
       "tr": "Email veya telefon numarasıyla manuel olarak kullanıcı ekleyin",
       "zh-CN": "通过电子邮件或电话号码手动添加用户",
-      "zh-TW": "透過電郵或電話號碼手動新增用戶"
+      "zh-TW": "透過電郵或電話號碼手動新增用戶",
+      "id": "Tambahkan pengguna secara manual dengan email atau nomor telepon"
     },
     "Mar": {
       "es": "mar",
@@ -2998,7 +3022,8 @@
       "fr": "mar",
       "tr": "mar",
       "zh-CN": "3月",
-      "zh-TW": "3月"
+      "zh-TW": "3月",
+      "id": "Mar"
     },
     "March": {
       "es": "marzo",
@@ -3008,7 +3033,8 @@
       "fr": "mars",
       "tr": "mart",
       "zh-CN": "3月",
-      "zh-TW": "3月"
+      "zh-TW": "3月",
+      "id": "Maret"
     },
     "Maximum": {
       "es": "Máximo",
@@ -3018,7 +3044,8 @@
       "fr": "Maximum",
       "tr": "Maksimum",
       "zh-CN": "最大",
-      "zh-TW": "最大"
+      "zh-TW": "最大",
+      "id": "Maksimum"
     },
     "May": {
       "es": "mayo",
@@ -3028,7 +3055,8 @@
       "fr": "mai",
       "tr": "mayıs",
       "zh-CN": "5月",
-      "zh-TW": "5月"
+      "zh-TW": "5月",
+      "id": "Mei"
     },
     "Message": {
       "es": "Mensaje",
@@ -3038,7 +3066,8 @@
       "fr": "Message",
       "tr": "Mesaj",
       "zh-CN": "消息",
-      "zh-TW": "訊息"
+      "zh-TW": "訊息",
+      "id": "Pesan"
     },
     "Message Content": {
       "es": "Contenido del mensaje",
@@ -3048,7 +3077,8 @@
       "fr": "Contenu du message",
       "tr": "Mesaj içeriği",
       "zh-CN": "消息内容",
-      "zh-TW": "訊息內容"
+      "zh-TW": "訊息內容",
+      "id": "Konten Pesan"
     },
     "Message Event Delivery": {
       "es": "Entrega de eventos de mensajes",
@@ -3058,7 +3088,8 @@
       "fr": "Livraison d'événements de message",
       "tr": "Mesaj etkinliği teslimatı",
       "zh-CN": "消息事件送达",
-      "zh-TW": "訊息事件送達"
+      "zh-TW": "訊息事件送達",
+      "id": "Pengiriman Event Pesan"
     },
     "Message Title": {
       "es": "Título del mensaje",
@@ -3068,7 +3099,8 @@
       "fr": "Titre du message",
       "tr": "Mesaj başlığı",
       "zh-CN": "消息标题",
-      "zh-TW": "訊息標題"
+      "zh-TW": "訊息標題",
+      "id": "Judul Pesan"
     },
     "Message type": {
       "es": "Tipo de mensaje",
@@ -3078,7 +3110,8 @@
       "fr": "Type de message",
       "tr": "Mesaj türü",
       "zh-CN": "消息类型",
-      "zh-TW": "訊息類型"
+      "zh-TW": "訊息類型",
+      "id": "Jenis pesan"
     },
     "Messages": {
       "es": "Mensajes",
@@ -3088,7 +3121,8 @@
       "fr": "Messages",
       "tr": "Mesajlar",
       "zh-CN": "消息",
-      "zh-TW": "訊息"
+      "zh-TW": "訊息",
+      "id": "Pesan"
     },
     "Minimum": {
       "es": "Mínimo",
@@ -3098,7 +3132,8 @@
       "fr": "Minimum",
       "tr": "Minimum",
       "zh-CN": "最小",
-      "zh-TW": "最小"
+      "zh-TW": "最小",
+      "id": "Minimum"
     },
     "Mobile (MAU)": {
       "es": "Móvil (MAU)",
@@ -3108,7 +3143,8 @@
       "fr": "Mobile (MAU)",
       "tr": "Mobil (MAU)",
       "zh-CN": "移动 (MAU)",
-      "zh-TW": "移動 (MAU)"
+      "zh-TW": "移動 (MAU)",
+      "id": "Seluler (MAU)"
     },
     "Modal": {
       "es": "Modal",
@@ -3118,7 +3154,8 @@
       "fr": "Modale",
       "tr": "Modal",
       "zh-CN": "弹窗",
-      "zh-TW": "彈出視窗"
+      "zh-TW": "彈出視窗",
+      "id": "Modal"
     },
     "Mon": {
       "es": "Lun",
@@ -3128,7 +3165,8 @@
       "fr": "Lun",
       "tr": "Pzt",
       "zh-CN": "周一",
-      "zh-TW": "週一"
+      "zh-TW": "週一",
+      "id": "Sen"
     },
     "Month": {
       "es": "Mes",
@@ -3138,7 +3176,8 @@
       "fr": "Mois",
       "tr": "Ay",
       "zh-CN": "月",
-      "zh-TW": "月"
+      "zh-TW": "月",
+      "id": "Bulan"
     },
     "More information": {
       "es": "Más información",
@@ -3148,7 +3187,8 @@
       "fr": "Plus d'informations",
       "tr": "Daha fazla bilgi",
       "zh-CN": "更多信息",
-      "zh-TW": "更多資訊"
+      "zh-TW": "更多資訊",
+      "id": "Informasi lebih lanjut"
     },
     "N/A": {
       "es": "N/D",
@@ -3158,7 +3198,8 @@
       "fr": "N/D",
       "tr": "Yok",
       "zh-CN": "无",
-      "zh-TW": "無"
+      "zh-TW": "無",
+      "id": "N/A"
     },
     "Name": {
       "es": "Nombre",
@@ -3168,7 +3209,8 @@
       "fr": "Nom",
       "tr": "Ad",
       "zh-CN": "名称",
-      "zh-TW": "名稱"
+      "zh-TW": "名稱",
+      "id": "Nama"
     },
     "Never": {
       "es": "Nunca",
@@ -3178,7 +3220,8 @@
       "fr": "Jamais",
       "tr": "Hiçbir zaman",
       "zh-CN": "从不",
-      "zh-TW": "從不"
+      "zh-TW": "從不",
+      "id": "Tidak pernah"
     },
     "Never Subscribed": {
       "es": "Nunca suscrito",
@@ -3188,7 +3231,8 @@
       "fr": "Jamais abonné",
       "tr": "Hiç abone olmadı",
       "zh-CN": "从未订阅",
-      "zh-TW": "從未訂閱"
+      "zh-TW": "從未訂閱",
+      "id": "Belum Pernah Berlangganan"
     },
     "New App/Website": {
       "es": "Nueva app/sitio web",
@@ -3198,7 +3242,8 @@
       "fr": "Nouvelle app / nouveau site web",
       "tr": "Yeni uygulama/web sitesi",
       "zh-CN": "新应用/网站",
-      "zh-TW": "新應用/網站"
+      "zh-TW": "新應用/網站",
+      "id": "Aplikasi/Situs Web Baru"
     },
     "New Automated Message": {
       "es": "Nuevo mensaje automatizado",
@@ -3208,7 +3253,8 @@
       "fr": "Nouveau message automatisé",
       "tr": "Yeni otomatik mesaj",
       "zh-CN": "新自动化消息",
-      "zh-TW": "新自動化訊息"
+      "zh-TW": "新自動化訊息",
+      "id": "Pesan Otomatis Baru"
     },
     "New Data Feed": {
       "es": "Nuevo Data Feed",
@@ -3218,7 +3264,8 @@
       "fr": "Nouveau flux de données",
       "tr": "Yeni veri akışı",
       "zh-CN": "新数据源",
-      "zh-TW": "新資料串流"
+      "zh-TW": "新資料串流",
+      "id": "Data Feed Baru"
     },
     "New Email": {
       "es": "Nuevo email",
@@ -3228,7 +3275,8 @@
       "fr": "Nouvel email",
       "tr": "Yeni email",
       "zh-CN": "新电子邮件",
-      "zh-TW": "新電郵"
+      "zh-TW": "新電郵",
+      "id": "Email Baru"
     },
     "New email": {
       "es": "Nuevo email",
@@ -3238,7 +3286,8 @@
       "fr": "Nouvel email",
       "tr": "Yeni email",
       "zh-CN": "新电子邮件",
-      "zh-TW": "新電郵"
+      "zh-TW": "新電郵",
+      "id": "Email baru"
     },
     "New Event Stream": {
       "es": "Nuevo Event Stream",
