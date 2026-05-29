@@ -12691,7 +12691,8 @@
       "fr": "Sensible au temps",
       "tr": "Zamana duyarlı",
       "zh-CN": "时间敏感",
-      "zh-TW": "時間敏感"
+      "zh-TW": "時間敏感",
+      "id": "Sensitif Waktu"
     },
     "Title (Any/English)": {
       "ja": "タイトル (Any/英語)",
@@ -12701,7 +12702,8 @@
       "fr": "Titre (Tout/Anglais)",
       "tr": "Başlık (Tümü/İngilizce)",
       "zh-CN": "标题（任意/英语）",
-      "zh-TW": "標題（任意/英文）"
+      "zh-TW": "標題（任意/英文）",
+      "id": "Judul (Semua/Bahasa Inggris)"
     },
     "Title input": {
       "ja": "タイトル入力",
@@ -12711,7 +12713,8 @@
       "fr": "Saisie du titre",
       "tr": "Başlık girişi",
       "zh-CN": "标题输入",
-      "zh-TW": "標題輸入"
+      "zh-TW": "標題輸入",
+      "id": "Input judul"
     },
     "Urgent no sound": {
       "ja": "緊急 (音なし)",
@@ -12721,7 +12724,8 @@
       "fr": "Urgent sans son",
       "tr": "Acil sessiz",
       "zh-CN": "紧急无声",
-      "zh-TW": "緊急無聲"
+      "zh-TW": "緊急無聲",
+      "id": "Mendesak tanpa suara"
     },
     "Urgent priority": {
       "ja": "緊急優先度",
@@ -12731,7 +12735,8 @@
       "fr": "Priorité urgente",
       "tr": "Acil öncelik",
       "zh-CN": "紧急优先级",
-      "zh-TW": "緊急優先級"
+      "zh-TW": "緊急優先級",
+      "id": "Prioritas mendesak"
     },
     "Value 1": {
       "ja": "値 1",
@@ -12741,7 +12746,8 @@
       "fr": "Valeur 1",
       "tr": "Değer 1",
       "zh-CN": "值 1",
-      "zh-TW": "值 1"
+      "zh-TW": "值 1",
+      "id": "Nilai 1"
     },
     "Web Push Topic": {
       "ja": "Webプッシュトピック",
@@ -12751,7 +12757,8 @@
       "fr": "Sujet du Web Push",
       "tr": "Web Push konusu",
       "zh-CN": "Web 推送主题",
-      "zh-TW": "Web 推送主題"
+      "zh-TW": "Web 推送主題",
+      "id": "Topik Web Push"
     },
     "days": {
       "ja": "日",
@@ -12761,7 +12768,8 @@
       "fr": "jours",
       "tr": "gün",
       "zh-CN": "天",
-      "zh-TW": "天"
+      "zh-TW": "天",
+      "id": "hari"
     },
     "e.g. hand.thumbsup": {
       "ja": "例: hand.thumbsup",
@@ -12771,7 +12779,8 @@
       "fr": "par ex. hand.thumbsup",
       "tr": "örn. hand.thumbsup",
       "zh-CN": "例如 hand.thumbsup",
-      "zh-TW": "例如 hand.thumbsup"
+      "zh-TW": "例如 hand.thumbsup",
+      "id": "mis. hand.thumbsup"
     },
     "hours": {
       "ja": "時間",
@@ -12781,7 +12790,8 @@
       "fr": "heures",
       "tr": "saat",
       "zh-CN": "小时",
-      "zh-TW": "小時"
+      "zh-TW": "小時",
+      "id": "jam"
     },
     "iOS/Android Action Buttons": {
       "ja": "iOS/Androidアクションボタン",
@@ -12791,7 +12801,8 @@
       "fr": "Boutons d'action iOS/Android",
       "tr": "iOS/Android eylem düğmeleri",
       "zh-CN": "iOS/Android 操作按钮",
-      "zh-TW": "iOS/Android 操作按鈕"
+      "zh-TW": "iOS/Android 操作按鈕",
+      "id": "Tombol Aksi iOS/Android"
     },
     "minutes": {
       "ja": "分",
@@ -12801,7 +12812,8 @@
       "fr": "minutes",
       "tr": "dakika",
       "zh-CN": "分钟",
-      "zh-TW": "分鐘"
+      "zh-TW": "分鐘",
+      "id": "menit"
     },
     "or paste URL to image, sound, video": {
       "ja": "または画像、音声、動画のURLを貼り付け",
@@ -12811,7 +12823,8 @@
       "fr": "ou collez une URL d'image, son ou vidéo",
       "tr": "veya görsel, ses, video URL'si yapıştırın",
       "zh-CN": "或粘贴图像、音频、视频的 URL",
-      "zh-TW": "或貼上圖像、音訊、影片的 URL"
+      "zh-TW": "或貼上圖像、音訊、影片的 URL",
+      "id": "atau tempel URL ke gambar, suara, video"
     },
     "seconds": {
       "ja": "秒",
@@ -12821,7 +12834,8 @@
       "fr": "secondes",
       "tr": "saniye",
       "zh-CN": "秒",
-      "zh-TW": "秒"
+      "zh-TW": "秒",
+      "id": "detik"
     },
     "Device Type is iOS": {
       "ja": "デバイスタイプはiOS",
@@ -12831,7 +12845,8 @@
       "fr": "Type d'appareil : iOS",
       "tr": "Cihaz türü iOS",
       "zh-CN": "设备类型为 iOS",
-      "zh-TW": "裝置類型為 iOS"
+      "zh-TW": "裝置類型為 iOS",
+      "id": "Jenis Perangkat adalah iOS"
     },
     "Test Users is true": {
       "ja": "テストユーザーがtrue",
@@ -12841,7 +12856,8 @@
       "fr": "Utilisateurs de test est vrai",
       "tr": "Test kullanıcıları doğru",
       "zh-CN": "测试用户为真",
-      "zh-TW": "測試用戶為真"
+      "zh-TW": "測試用戶為真",
+      "id": "Pengguna Uji adalah benar"
     },
     "Device Type is Web Push (All Browsers)": {
       "ja": "デバイスタイプはWebプッシュ (全ブラウザ)",
@@ -12851,7 +12867,8 @@
       "fr": "Type d'appareil : Web Push (tous navigateurs)",
       "tr": "Cihaz türü Web Push (Tüm tarayıcılar)",
       "zh-CN": "设备类型为 Web 推送（所有浏览器）",
-      "zh-TW": "裝置類型為 Web 推送（所有瀏覽器）"
+      "zh-TW": "裝置類型為 Web 推送（所有瀏覽器）",
+      "id": "Jenis Perangkat adalah Web Push (Semua Browser)"
     },
     "Add Or": {
       "ja": "ORを追加",
@@ -12861,7 +12878,8 @@
       "fr": "Ajouter OU",
       "tr": "VEYA ekle",
       "zh-CN": "添加或",
-      "zh-TW": "新增或"
+      "zh-TW": "新增或",
+      "id": "Tambah Atau"
     },
     "Country the device was in the last time it communicated with our servers": {
       "ja": "デバイスが最後にサーバーと通信した時の所在国",
@@ -12871,7 +12889,8 @@
       "fr": "Pays où se trouvait l'appareil lors de sa dernière communication avec nos serveurs",
       "tr": "Cihazın sunucularımızla en son iletişim kurduğunda bulunduğu ülke",
       "zh-CN": "设备最近一次与我们的服务器通信时所在的国家/地区",
-      "zh-TW": "裝置最近一次與我們的伺服器通訊時所在的國家/地區"
+      "zh-TW": "裝置最近一次與我們的伺服器通訊時所在的國家/地區",
+      "id": "Negara tempat perangkat berada terakhir kali berkomunikasi dengan server kami"
     },
     "Custom tags you have added to the User record": {
       "ja": "ユーザーレコードに追加したカスタムタグ",
@@ -12881,7 +12900,8 @@
       "fr": "Tags personnalisés que vous avez ajoutés à l'enregistrement utilisateur",
       "tr": "Kullanıcı kaydına eklediğiniz özel etiketler",
       "zh-CN": "您已添加到用户记录的自定义标签",
-      "zh-TW": "您已新增到用戶記錄的自訂標籤"
+      "zh-TW": "您已新增到用戶記錄的自訂標籤",
+      "id": "Tag kustom yang telah Anda tambahkan ke catatan Pengguna"
     },
     "Device operating system": {
       "ja": "デバイスのオペレーティングシステム",
@@ -12891,7 +12911,8 @@
       "fr": "Système d'exploitation de l'appareil",
       "tr": "Cihaz işletim sistemi",
       "zh-CN": "设备操作系统",
-      "zh-TW": "裝置作業系統"
+      "zh-TW": "裝置作業系統",
+      "id": "Sistem operasi perangkat"
     },
     "Early Access": {
       "ja": "早期アクセス",
@@ -12901,7 +12922,8 @@
       "fr": "Accès anticipé",
       "tr": "Erken erişim",
       "zh-CN": "抢先体验",
-      "zh-TW": "搶先體驗"
+      "zh-TW": "搶先體驗",
+      "id": "Akses Awal"
     },
     "Export as Image": {
       "ja": "画像として書き出し",
@@ -12911,7 +12933,8 @@
       "fr": "Exporter en image",
       "tr": "Görsel olarak dışa aktar",
       "zh-CN": "导出为图像",
-      "zh-TW": "匯出為圖像"
+      "zh-TW": "匯出為圖像",
+      "id": "Ekspor sebagai Gambar"
     },
     "Filter by custom events ingested through SDKs, integrations, or data sources": {
       "ja": "SDK、統合、またはデータソースから取り込まれたカスタムイベントでフィルター",
@@ -12921,7 +12944,8 @@
       "fr": "Filtrer par événements personnalisés ingérés via SDK, intégrations ou sources de données",
       "tr": "SDK'ler, entegrasyonlar veya veri kaynakları aracılığıyla alınan özel etkinliklere göre filtrele",
       "zh-CN": "按通过 SDK、集成或数据源接入的自定义事件筛选",
-      "zh-TW": "按透過 SDK、整合或資料串流接入的自訂事件篩選"
+      "zh-TW": "按透過 SDK、整合或資料串流接入的自訂事件篩選",
+      "id": "Filter berdasarkan custom events yang diambil melalui SDK, integrasi, atau sumber data"
     },
     "Filter by message interactions": {
       "ja": "メッセージインタラクションでフィルター",
@@ -12931,7 +12955,8 @@
       "fr": "Filtrer par interactions de message",
       "tr": "Mesaj etkileşimlerine göre filtrele",
       "zh-CN": "按消息交互筛选",
-      "zh-TW": "按訊息互動篩選"
+      "zh-TW": "按訊息互動篩選",
+      "id": "Filter berdasarkan interaksi pesan"
     },
     "Includes all test users, which can be set up in All Users page": {
       "ja": "すべてのテストユーザーを含みます。All Usersページで設定できます",
@@ -12941,7 +12966,8 @@
       "fr": "Inclut tous les utilisateurs de test, configurables dans la page Tous les utilisateurs",
       "tr": "Tüm kullanıcılar sayfasında ayarlanabilen tüm test kullanıcılarını içerir",
       "zh-CN": "包含所有测试用户，可在所有用户页面进行设置",
-      "zh-TW": "包含所有測試用戶，可在所有用戶頁面進行設定"
+      "zh-TW": "包含所有測試用戶，可在所有用戶頁面進行設定",
+      "id": "Mencakup semua pengguna uji, yang dapat diatur di halaman Semua Pengguna"
     },
     "Message Event": {
       "ja": "メッセージイベント",
@@ -12951,7 +12977,8 @@
       "fr": "Événement de message",
       "tr": "Mesaj etkinliği",
       "zh-CN": "消息事件",
-      "zh-TW": "訊息事件"
+      "zh-TW": "訊息事件",
+      "id": "Event Pesan"
     },
     "Name of segment": {
       "ja": "セグメント名",
@@ -12961,7 +12988,8 @@
       "fr": "Nom du segment",
       "tr": "Segment adı",
       "zh-CN": "用户分群名称",
-      "zh-TW": "用戶分群名稱"
+      "zh-TW": "用戶分群名稱",
+      "id": "Nama Segment"
     },
     "Radius in meters from a particular geocoordinate (lat, long)": {
       "ja": "特定のジオ座標 (緯度、経度) からの半径 (メートル)",
@@ -12971,7 +12999,8 @@
       "fr": "Rayon en mètres depuis une géo-coordonnée donnée (lat, long)",
       "tr": "Belirli bir coğrafi koordinattan (enlem, boylam) metre cinsinden yarıçap",
       "zh-CN": "距特定地理坐标（纬度，经度）的米数半径",
-      "zh-TW": "距特定地理座標（緯度，經度）的米數半徑"
+      "zh-TW": "距特定地理座標（緯度，經度）的米數半徑",
+      "id": "Radius dalam meter dari koordinat geografis tertentu (lat, long)"
     },
     "Segment Editor": {
       "ja": "セグメントエディター",
@@ -12981,7 +13010,8 @@
       "fr": "Éditeur de segments",
       "tr": "Segment düzenleyici",
       "zh-CN": "用户分群编辑器",
-      "zh-TW": "用戶分群編輯器"
+      "zh-TW": "用戶分群編輯器",
+      "id": "Editor Segment"
     },
     "Start adding filters to see audience count": {
       "ja": "フィルターを追加するとオーディエンス数が表示されます",
@@ -12991,7 +13021,8 @@
       "fr": "Commencez à ajouter des filtres pour voir le nombre d'audience",
       "tr": "Hedef kitle sayısını görmek için filtre eklemeye başlayın",
       "zh-CN": "开始添加筛选以查看受众数量",
-      "zh-TW": "開始新增篩選以查看受眾數量"
+      "zh-TW": "開始新增篩選以查看受眾數量",
+      "id": "Mulai tambahkan filter untuk melihat jumlah audiens"
     },
     "Subscription records in this segment must meet these rules:": {
       "ja": "このセグメントの購読レコードは次のルールを満たす必要があります:",
@@ -13001,7 +13032,8 @@
       "fr": "Les enregistrements d'abonnement de ce segment doivent respecter ces règles :",
       "tr": "Bu segmentteki abonelik kayıtları şu kurallara uymalıdır:",
       "zh-CN": "此用户分群中的订阅记录必须满足这些规则:",
-      "zh-TW": "此用戶分群中的訂閱記錄必須滿足這些規則："
+      "zh-TW": "此用戶分群中的訂閱記錄必須滿足這些規則：",
+      "id": "Catatan berlangganan dalam Segment ini harus memenuhi aturan berikut:"
     },
     "The first date/time the device communicated with our servers": {
       "ja": "デバイスが最初にサーバーと通信した日時",
@@ -13011,7 +13043,8 @@
       "fr": "Première date/heure à laquelle l'appareil a communiqué avec nos serveurs",
       "tr": "Cihazın sunucularımızla iletişim kurduğu ilk tarih/saat",
       "zh-CN": "设备首次与我们的服务器通信的日期/时间",
-      "zh-TW": "裝置首次與我們的伺服器通訊的日期/時間"
+      "zh-TW": "裝置首次與我們的伺服器通訊的日期/時間",
+      "id": "Tanggal/waktu pertama perangkat berkomunikasi dengan server kami"
     },
     "The language of the user's device": {
       "ja": "ユーザーのデバイスの言語",
@@ -13021,7 +13054,8 @@
       "fr": "La langue de l'appareil de l'utilisateur",
       "tr": "Kullanıcının cihazının dili",
       "zh-CN": "用户设备的语言",
-      "zh-TW": "用戶裝置的語言"
+      "zh-TW": "用戶裝置的語言",
+      "id": "Bahasa perangkat pengguna"
     },
     "The most recent date/time the device communicated with our servers": {
       "ja": "デバイスが最後にサーバーと通信した日時",
@@ -13031,7 +13065,8 @@
       "fr": "Date/heure la plus récente à laquelle l'appareil a communiqué avec nos serveurs",
       "tr": "Cihazın sunucularımızla iletişim kurduğu en son tarih/saat",
       "zh-CN": "设备最近一次与我们的服务器通信的日期/时间",
-      "zh-TW": "裝置最近一次與我們的伺服器通訊的日期/時間"
+      "zh-TW": "裝置最近一次與我們的伺服器通訊的日期/時間",
+      "id": "Tanggal/waktu terbaru perangkat berkomunikasi dengan server kami"
     },
     "The total number of seconds the user's device has had your app open": {
       "ja": "ユーザーのデバイスがアプリを開いていた合計秒数",
@@ -13041,7 +13076,8 @@
       "fr": "Le nombre total de secondes durant lesquelles l'appareil de l'utilisateur a eu votre app ouverte",
       "tr": "Kullanıcının cihazının uygulamanızı açık tuttuğu toplam saniye sayısı",
       "zh-CN": "用户设备打开您的应用的总秒数",
-      "zh-TW": "用戶裝置開啟您的應用的總秒數"
+      "zh-TW": "用戶裝置開啟您的應用的總秒數",
+      "id": "Total detik perangkat pengguna membuka aplikasi Anda"
     },
     "Total Duration": {
       "ja": "合計時間",
@@ -13051,7 +13087,8 @@
       "fr": "Durée totale",
       "tr": "Toplam süre",
       "zh-CN": "总时长",
-      "zh-TW": "總時長"
+      "zh-TW": "總時長",
+      "id": "Total Durasi"
     },
     "Total number of times the device has opened your app or website": {
       "ja": "デバイスがあなたのアプリまたはウェブサイトを開いた合計回数",
@@ -13061,7 +13098,8 @@
       "fr": "Nombre total de fois où l'appareil a ouvert votre app ou site web",
       "tr": "Cihazın uygulamanızı veya web sitenizi açtığı toplam sayı",
       "zh-CN": "设备打开您的应用或网站的总次数",
-      "zh-TW": "裝置開啟您的應用或網站的總次數"
+      "zh-TW": "裝置開啟您的應用或網站的總次數",
+      "id": "Total jumlah kali perangkat membuka aplikasi atau situs web Anda"
     },
     "User Tag": {
       "ja": "ユーザータグ",
@@ -13071,7 +13109,8 @@
       "fr": "Tag utilisateur",
       "tr": "Kullanıcı etiketi",
       "zh-CN": "用户标签",
-      "zh-TW": "用戶標籤"
+      "zh-TW": "用戶標籤",
+      "id": "Tag Pengguna"
     },
     "Version of your app": {
       "ja": "あなたのアプリのバージョン",
@@ -13081,7 +13120,8 @@
       "fr": "Version de votre app",
       "tr": "Uygulamanızın sürümü",
       "zh-CN": "您的应用版本",
-      "zh-TW": "您的應用版本"
+      "zh-TW": "您的應用版本",
+      "id": "Versi aplikasi Anda"
     },
     "hours ago": {
       "ja": "時間前",
@@ -13091,7 +13131,8 @@
       "fr": "il y a quelques heures",
       "tr": "saat önce",
       "zh-CN": "小时前",
-      "zh-TW": "小時前"
+      "zh-TW": "小時前",
+      "id": "jam yang lalu"
     },
     "Current Period": {
       "ja": "現在の期間",
@@ -13101,7 +13142,8 @@
       "fr": "Période actuelle",
       "tr": "Mevcut dönem",
       "zh-CN": "当前周期",
-      "zh-TW": "當前週期"
+      "zh-TW": "當前週期",
+      "id": "Periode Saat Ini"
     },
     "Previous Period": {
       "ja": "前回の期間",
@@ -13111,7 +13153,8 @@
       "fr": "Période précédente",
       "tr": "Önceki dönem",
       "zh-CN": "上一周期",
-      "zh-TW": "上一週期"
+      "zh-TW": "上一週期",
+      "id": "Periode Sebelumnya"
     },
     "Current Period:": {
       "ja": "現在の期間:",
@@ -13121,7 +13164,8 @@
       "fr": "Période actuelle :",
       "tr": "Mevcut dönem:",
       "zh-CN": "当前周期:",
-      "zh-TW": "當前週期："
+      "zh-TW": "當前週期：",
+      "id": "Periode Saat Ini:"
     },
     "Current": {
       "ja": "現在",
@@ -13131,7 +13175,8 @@
       "fr": "Actuel",
       "tr": "Mevcut",
       "zh-CN": "当前",
-      "zh-TW": "當前"
+      "zh-TW": "當前",
+      "id": "Saat Ini"
     },
     "SMS / MMS / RCS Segments": {
       "ja": "SMS / MMS / RCSセグメント",
@@ -13141,7 +13186,8 @@
       "fr": "Segments SMS / MMS / RCS",
       "tr": "SMS / MMS / RCS segmentleri",
       "zh-CN": "短信 / MMS / 富媒体短信用户分群",
-      "zh-TW": "短訊 / MMS / 富媒體短訊用戶分群"
+      "zh-TW": "短訊 / MMS / 富媒體短訊用戶分群",
+      "id": "Segment SMS / MMS / RCS"
     },
     "To see your usage, go to your Twilio dashboard, or switch to": {
       "ja": "使用状況を確認するには、Twilioダッシュボードに移動するか、以下に切り替えてください:",
@@ -13151,7 +13197,8 @@
       "fr": "Pour voir votre utilisation, allez sur votre tableau de bord Twilio, ou basculez vers",
       "tr": "Kullanımınızı görmek için Twilio panonuza gidin veya şuna geçin:",
       "zh-CN": "要查看您的使用情况，请转到您的 Twilio 仪表板，或切换到",
-      "zh-TW": "要查看您的使用情況，請前往您的 Twilio 儀表板，或切換到"
+      "zh-TW": "要查看您的使用情況，請前往您的 Twilio 儀表板，或切換到",
+      "id": "Untuk melihat penggunaan Anda, buka dashboard Twilio Anda, atau beralih ke"
     },
     "as your SMS provider.": {
       "ja": "をSMSプロバイダーとして。",
@@ -13161,7 +13208,8 @@
       "fr": "comme votre fournisseur SMS.",
       "tr": "SMS sağlayıcınız olarak.",
       "zh-CN": "作为您的短信提供商。",
-      "zh-TW": "作為您的短訊提供商。"
+      "zh-TW": "作為您的短訊提供商。",
+      "id": "sebagai penyedia SMS Anda."
     },
     "Application Level Usage": {
       "ja": "アプリケーションレベルの使用状況",
@@ -13171,7 +13219,8 @@
       "fr": "Utilisation au niveau de l'application",
       "tr": "Uygulama düzeyinde kullanım",
       "zh-CN": "应用级别使用情况",
-      "zh-TW": "應用級別使用情況"
+      "zh-TW": "應用級別使用情況",
+      "id": "Penggunaan Tingkat Aplikasi"
     },
     "Billable Email Sends": {
       "ja": "課金対象のメール送信",
@@ -13181,7 +13230,8 @@
       "fr": "Envois d'email facturables",
       "tr": "Faturalanabilir email gönderimleri",
       "zh-CN": "可计费电子邮件发送",
-      "zh-TW": "可計費電郵發送"
+      "zh-TW": "可計費電郵發送",
+      "id": "Pengiriman Email yang Dapat Ditagih"
     },
     "DWH": {
       "ja": "DWH",
