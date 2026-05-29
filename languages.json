@@ -19746,7 +19746,8 @@
         "fr": "{1} jours",
         "tr": "{1} gün",
         "zh-CN": "{1} 天",
-        "zh-TW": "{1} 天"
+        "zh-TW": "{1} 天",
+        "id": "{1} hari"
       }
     },
     {
@@ -19759,7 +19760,8 @@
         "fr": "{1} heures",
         "tr": "{1} saat",
         "zh-CN": "{1} 小时",
-        "zh-TW": "{1} 小時"
+        "zh-TW": "{1} 小時",
+        "id": "{1} jam"
       }
     },
     {
@@ -19772,7 +19774,8 @@
         "fr": "{1} minutes",
         "tr": "{1} dakika",
         "zh-CN": "{1} 分钟",
-        "zh-TW": "{1} 分鐘"
+        "zh-TW": "{1} 分鐘",
+        "id": "{1} menit"
       }
     },
     {
@@ -19785,7 +19788,8 @@
         "fr": "{1} mois",
         "tr": "{1} ay",
         "zh-CN": "{1} 个月",
-        "zh-TW": "{1} 個月"
+        "zh-TW": "{1} 個月",
+        "id": "{1} bulan"
       }
     },
     {
@@ -19798,7 +19802,8 @@
         "fr": "Derniers {1} jours",
         "tr": "Son {1} gün",
         "zh-CN": "最近 {1} 天",
-        "zh-TW": "最近 {1} 天"
+        "zh-TW": "最近 {1} 天",
+        "id": "{1} hari terakhir"
       }
     },
     {
@@ -19811,7 +19816,8 @@
         "fr": "{1} sélectionnés",
         "tr": "{1} seçildi",
         "zh-CN": "已选择 {1} 项",
-        "zh-TW": "已選擇 {1} 項"
+        "zh-TW": "已選擇 {1} 項",
+        "id": "{1} dipilih"
       }
     },
     {
@@ -19824,7 +19830,8 @@
         "fr": "{1} segments sélectionnés",
         "tr": "{1} segment seçildi",
         "zh-CN": "已选择 {1} 个用户分群",
-        "zh-TW": "已選擇 {1} 個用戶分群"
+        "zh-TW": "已選擇 {1} 個用戶分群",
+        "id": "{1} Segment dipilih"
       }
     },
     {
@@ -19837,7 +19844,8 @@
         "fr": "{1} messages envoyés",
         "tr": "{1} mesaj gönderildi",
         "zh-CN": "已发送 {1} 条消息",
-        "zh-TW": "已發送 {1} 條訊息"
+        "zh-TW": "已發送 {1} 條訊息",
+        "id": "Terkirim {1} pesan"
       }
     },
     {
@@ -19850,7 +19858,8 @@
         "fr": "Affichage {1}–{2} sur {3}",
         "tr": "{3} kayıttan {1}–{2} arası gösteriliyor",
         "zh-CN": "显示第 {1}–{2} 项，共 {3} 项",
-        "zh-TW": "顯示第 {1}–{2} 項，共 {3} 項"
+        "zh-TW": "顯示第 {1}–{2} 項，共 {3} 項",
+        "id": "Menampilkan {1}–{2} dari {3}"
       }
     },
     {
@@ -19863,7 +19872,8 @@
         "fr": "Page {1}",
         "tr": "Sayfa {1}",
         "zh-CN": "第 {1} 页",
-        "zh-TW": "第 {1} 頁"
+        "zh-TW": "第 {1} 頁",
+        "id": "Halaman {1}"
       }
     },
     {
@@ -19876,7 +19886,8 @@
         "fr": "Vous êtes sur la page {1}",
         "tr": "Şu anda sayfa {1}'desiniz",
         "zh-CN": "您当前位于第 {1} 页",
-        "zh-TW": "您當前位於第 {1} 頁"
+        "zh-TW": "您當前位於第 {1} 頁",
+        "id": "Anda berada di halaman {1}"
       }
     },
     {
@@ -19889,7 +19900,8 @@
         "fr": "il y a {1} heures",
         "tr": "{1} saat önce",
         "zh-CN": "{1} 小时前",
-        "zh-TW": "{1} 小時前"
+        "zh-TW": "{1} 小時前",
+        "id": "{1} jam yang lalu"
       }
     },
     {
@@ -19902,7 +19914,8 @@
         "fr": "il y a {1} minutes",
         "tr": "{1} dakika önce",
         "zh-CN": "{1} 分钟前",
-        "zh-TW": "{1} 分鐘前"
+        "zh-TW": "{1} 分鐘前",
+        "id": "{1} menit yang lalu"
       }
     },
     {
@@ -19915,7 +19928,8 @@
         "fr": "il y a {1} jours",
         "tr": "{1} gün önce",
         "zh-CN": "{1} 天前",
-        "zh-TW": "{1} 天前"
+        "zh-TW": "{1} 天前",
+        "id": "{1} hari yang lalu"
       }
     },
     {
@@ -19928,7 +19942,8 @@
         "fr": "derniers {1} jours",
         "tr": "son {1} gün",
         "zh-CN": "最近 {1} 天",
-        "zh-TW": "最近 {1} 天"
+        "zh-TW": "最近 {1} 天",
+        "id": "{1} hari terakhir"
       }
     },
     {
@@ -19941,7 +19956,8 @@
         "fr": "{1} janvier",
         "tr": "{1} oca",
         "zh-CN": "1月 {1} 日",
-        "zh-TW": "1月 {1} 日"
+        "zh-TW": "1月 {1} 日",
+        "id": "{1} Jan"
       }
     },
     {
@@ -19954,7 +19970,8 @@
         "fr": "{1} février",
         "tr": "{1} şub",
         "zh-CN": "2月 {1} 日",
-        "zh-TW": "2月 {1} 日"
+        "zh-TW": "2月 {1} 日",
+        "id": "{1} Feb"
       }
     },
     {
@@ -19967,7 +19984,8 @@
         "fr": "{1} mars",
         "tr": "{1} mar",
         "zh-CN": "3月 {1} 日",
-        "zh-TW": "3月 {1} 日"
+        "zh-TW": "3月 {1} 日",
+        "id": "{1} Mar"
       }
     },
     {
@@ -19980,7 +19998,8 @@
         "fr": "{1} avril",
         "tr": "{1} nis",
         "zh-CN": "4月 {1} 日",
-        "zh-TW": "4月 {1} 日"
+        "zh-TW": "4月 {1} 日",
+        "id": "{1} Apr"
       }
     },
     {
@@ -19993,7 +20012,8 @@
         "fr": "{1} mai",
         "tr": "{1} may",
         "zh-CN": "5月 {1} 日",
-        "zh-TW": "5月 {1} 日"
+        "zh-TW": "5月 {1} 日",
+        "id": "{1} Mei"
       }
     },
     {
@@ -20006,7 +20026,8 @@
         "fr": "{1} juin",
         "tr": "{1} haz",
         "zh-CN": "6月 {1} 日",
-        "zh-TW": "6月 {1} 日"
+        "zh-TW": "6月 {1} 日",
+        "id": "{1} Jun"
       }
     },
     {
@@ -20019,7 +20040,8 @@
         "fr": "{1} juillet",
         "tr": "{1} tem",
         "zh-CN": "7月 {1} 日",
-        "zh-TW": "7月 {1} 日"
+        "zh-TW": "7月 {1} 日",
+        "id": "{1} Jul"
       }
     },
     {
@@ -20032,7 +20054,8 @@
         "fr": "{1} août",
         "tr": "{1} ağu",
         "zh-CN": "8月 {1} 日",
-        "zh-TW": "8月 {1} 日"
+        "zh-TW": "8月 {1} 日",
+        "id": "{1} Agu"
       }
     },
     {
@@ -20045,7 +20068,8 @@
         "fr": "{1} septembre",
         "tr": "{1} eyl",
         "zh-CN": "9月 {1} 日",
-        "zh-TW": "9月 {1} 日"
+        "zh-TW": "9月 {1} 日",
+        "id": "{1} Sep"
       }
     },
     {
@@ -20058,7 +20082,8 @@
         "fr": "{1} octobre",
         "tr": "{1} eki",
         "zh-CN": "10月 {1} 日",
-        "zh-TW": "10月 {1} 日"
+        "zh-TW": "10月 {1} 日",
+        "id": "{1} Okt"
       }
     },
     {
@@ -20071,7 +20096,8 @@
         "fr": "{1} novembre",
         "tr": "{1} kas",
         "zh-CN": "11月 {1} 日",
-        "zh-TW": "11月 {1} 日"
+        "zh-TW": "11月 {1} 日",
+        "id": "{1} Nov"
       }
     },
     {
@@ -20084,7 +20110,8 @@
         "fr": "{1} décembre",
         "tr": "{1} ara",
         "zh-CN": "12月 {1} 日",
-        "zh-TW": "12月 {1} 日"
+        "zh-TW": "12月 {1} 日",
+        "id": "{1} Des"
       }
     },
     {
@@ -20097,7 +20124,8 @@
         "fr": "Dernière session il y a moins de {1} heures",
         "tr": "Son oturum {1} saatten daha yakın",
         "zh-CN": "最近会话不到 {1} 小时前",
-        "zh-TW": "最近會話不到 {1} 小時前"
+        "zh-TW": "最近會話不到 {1} 小時前",
+        "id": "Sesi terakhir kurang dari {1} jam yang lalu"
       }
     },
     {
@@ -20110,7 +20138,8 @@
         "fr": "Dernière session il y a plus de {1} heures",
         "tr": "Son oturum {1} saatten daha eski",
         "zh-CN": "最近会话超过 {1} 小时前",
-        "zh-TW": "最近會話超過 {1} 小時前"
+        "zh-TW": "最近會話超過 {1} 小時前",
+        "id": "Sesi terakhir lebih dari {1} jam yang lalu"
       }
     },
     {
@@ -20123,7 +20152,8 @@
         "fr": "Nombre de sessions supérieur à {1}",
         "tr": "Oturum sayısı {1}'den fazla",
         "zh-CN": "会话数超过 {1}",
-        "zh-TW": "會話數超過 {1}"
+        "zh-TW": "會話數超過 {1}",
+        "id": "Jumlah sesi lebih dari {1}"
       }
     },
     {
@@ -20136,7 +20166,8 @@
         "fr": "{1} % des messages envoyés",
         "tr": "%{1} mesaj gönderildi",
         "zh-CN": "{1}% 的消息已发送",
-        "zh-TW": "{1}% 的訊息已發送"
+        "zh-TW": "{1}% 的訊息已發送",
+        "id": "{1}% dari pesan terkirim"
       }
     },
     {
@@ -20149,7 +20180,8 @@
         "fr": "Avec une limite de ~{1} par minute.",
         "tr": "Dakikada ~{1} sınırıyla.",
         "zh-CN": "限制为每分钟约 {1} 条。",
-        "zh-TW": "限制為每分鐘約 {1} 條。"
+        "zh-TW": "限制為每分鐘約 {1} 條。",
+        "id": "Dengan batas ~{1} per menit."
       }
     },
     {
@@ -20162,7 +20194,8 @@
         "fr": "{1} janv",
         "tr": "{1} oca",
         "zh-CN": "1月 {1} 日",
-        "zh-TW": "1月 {1} 日"
+        "zh-TW": "1月 {1} 日",
+        "id": "{1} Jan"
       }
     },
     {
@@ -20175,7 +20208,8 @@
         "fr": "{1} fév",
         "tr": "{1} şub",
         "zh-CN": "2月 {1} 日",
-        "zh-TW": "2月 {1} 日"
+        "zh-TW": "2月 {1} 日",
+        "id": "{1} Feb"
       }
     },
     {
@@ -20188,7 +20222,8 @@
         "fr": "{1} mars",
         "tr": "{1} mar",
         "zh-CN": "3月 {1} 日",
-        "zh-TW": "3月 {1} 日"
+        "zh-TW": "3月 {1} 日",
+        "id": "{1} Mar"
       }
     },
     {
@@ -20201,7 +20236,8 @@
         "fr": "{1} avr",
         "tr": "{1} nis",
         "zh-CN": "4月 {1} 日",
-        "zh-TW": "4月 {1} 日"
+        "zh-TW": "4月 {1} 日",
+        "id": "{1} Apr"
       }
     },
     {
@@ -20214,7 +20250,8 @@
         "fr": "{1} mai",
         "tr": "{1} may",
         "zh-CN": "5月 {1} 日",
-        "zh-TW": "5月 {1} 日"
+        "zh-TW": "5月 {1} 日",
+        "id": "{1} Mei"
       }
     },
     {
@@ -20227,7 +20264,8 @@
         "fr": "{1} juin",
         "tr": "{1} haz",
         "zh-CN": "6月 {1} 日",
-        "zh-TW": "6月 {1} 日"
+        "zh-TW": "6月 {1} 日",
+        "id": "{1} Jun"
       }
     },
     {
@@ -20240,7 +20278,8 @@
         "fr": "{1} juil",
         "tr": "{1} tem",
         "zh-CN": "7月 {1} 日",
-        "zh-TW": "7月 {1} 日"
+        "zh-TW": "7月 {1} 日",
+        "id": "{1} Jul"
       }
     },
     {
@@ -20253,7 +20292,8 @@
         "fr": "{1} août",
         "tr": "{1} ağu",
         "zh-CN": "8月 {1} 日",
-        "zh-TW": "8月 {1} 日"
+        "zh-TW": "8月 {1} 日",
+        "id": "{1} Agu"
       }
     },
     {
@@ -20266,7 +20306,8 @@
         "fr": "{1} sept",
         "tr": "{1} eyl",
         "zh-CN": "9月 {1} 日",
-        "zh-TW": "9月 {1} 日"
+        "zh-TW": "9月 {1} 日",
+        "id": "{1} Sep"
       }
     },
     {
@@ -20279,7 +20320,8 @@
         "fr": "{1} oct",
         "tr": "{1} eki",
         "zh-CN": "10月 {1} 日",
-        "zh-TW": "10月 {1} 日"
+        "zh-TW": "10月 {1} 日",
+        "id": "{1} Okt"
       }
     },
     {
@@ -20292,7 +20334,8 @@
         "fr": "{1} nov",
         "tr": "{1} kas",
         "zh-CN": "11月 {1} 日",
-        "zh-TW": "11月 {1} 日"
+        "zh-TW": "11月 {1} 日",
+        "id": "{1} Nov"
       }
     },
     {
@@ -20305,7 +20348,8 @@
         "fr": "{1} déc",
         "tr": "{1} ara",
         "zh-CN": "12月 {1} 日",
-        "zh-TW": "12月 {1} 日"
+        "zh-TW": "12月 {1} 日",
+        "id": "{1} Des"
       }
     },
     {
@@ -20318,7 +20362,8 @@
         "fr": "Actif ({1})",
         "tr": "Aktif ({1})",
         "zh-CN": "活跃 ({1})",
-        "zh-TW": "活躍 ({1})"
+        "zh-TW": "活躍 ({1})",
+        "id": "Aktif ({1})"
       }
     },
     {
@@ -20331,7 +20376,8 @@
         "fr": "Tout ({1})",
         "tr": "Tümü ({1})",
         "zh-CN": "全部 ({1})",
-        "zh-TW": "全部 ({1})"
+        "zh-TW": "全部 ({1})",
+        "id": "Semua ({1})"
       }
     },
     {
@@ -20344,7 +20390,8 @@
         "fr": "Désactivé ({1})",
         "tr": "Devre dışı ({1})",
         "zh-CN": "已禁用 ({1})",
-        "zh-TW": "已停用 ({1})"
+        "zh-TW": "已停用 ({1})",
+        "id": "Dinonaktifkan ({1})"
       }
     },
     {
@@ -20357,7 +20404,8 @@
         "fr": "Inactif ({1})",
         "tr": "Pasif ({1})",
         "zh-CN": "不活跃 ({1})",
-        "zh-TW": "不活躍 ({1})"
+        "zh-TW": "不活躍 ({1})",
+        "id": "Tidak Aktif ({1})"
       }
     },
     {
@@ -20370,7 +20418,8 @@
         "fr": "il y a plus de {1} jours",
         "tr": "{1} günden daha eski",
         "zh-CN": "{1} 天前以上",
-        "zh-TW": "{1} 天前以上"
+        "zh-TW": "{1} 天前以上",
+        "id": "lebih dari {1} hari yang lalu"
       }
     },
     {
@@ -20383,7 +20432,8 @@
         "fr": "{1} résultats disponibles.",
         "tr": "{1} sonuç mevcut.",
         "zh-CN": "{1} 条结果可用。",
-        "zh-TW": "{1} 條結果可用。"
+        "zh-TW": "{1} 條結果可用。",
+        "id": "{1} hasil tersedia."
       }
     },
     {
@@ -20396,7 +20446,8 @@
         "fr": "Étiquettes ({1}/{2})",
         "tr": "Etiketler ({1}/{2})",
         "zh-CN": "标签 ({1}/{2})",
-        "zh-TW": "標籤 ({1}/{2})"
+        "zh-TW": "標籤 ({1}/{2})",
+        "id": "Label ({1}/{2})"
       }
     },
     {
@@ -20409,7 +20460,8 @@
         "fr": "Capture d'écran du modèle de design email {1}",
         "tr": "{1} email tasarım şablonunun ekran görüntüsü",
         "zh-CN": "{1} 电子邮件设计模板的截图",
-        "zh-TW": "{1} 電郵設計範本的截圖"
+        "zh-TW": "{1} 電郵設計範本的截圖",
+        "id": "Tangkapan layar template desain email {1}"
       }
     },
     {
@@ -20422,7 +20474,8 @@
         "fr": "Capture d'écran du modèle de design in-app {1}",
         "tr": "{1} in-app tasarım şablonunun ekran görüntüsü",
         "zh-CN": "{1} 应用内设计模板的截图",
-        "zh-TW": "{1} 應用內設計範本的截圖"
+        "zh-TW": "{1} 應用內設計範本的截圖",
+        "id": "Tangkapan layar template desain in-app {1}"
       }
     },
     {
@@ -20435,7 +20488,8 @@
         "fr": "Capture d'écran du modèle de design SMS {1}",
         "tr": "{1} SMS tasarım şablonunun ekran görüntüsü",
         "zh-CN": "{1} 短信设计模板的截图",
-        "zh-TW": "{1} 短訊設計範本的截圖"
+        "zh-TW": "{1} 短訊設計範本的截圖",
+        "id": "Tangkapan layar template desain SMS {1}"
       }
     },
     {
@@ -20448,7 +20502,8 @@
         "fr": "Graphique à barres avec {1} barres.",
         "tr": "{1} sütunlu çubuk grafik.",
         "zh-CN": "包含 {1} 个柱形的条形图。",
-        "zh-TW": "包含 {1} 個柱形的條形圖。"
+        "zh-TW": "包含 {1} 個柱形的條形圖。",
+        "id": "Bagan batang dengan {1} batang."
       }
     },
     {
@@ -20461,7 +20516,8 @@
         "fr": "Plateformes ({1}/{2} sélectionnées)",
         "tr": "Platformlar ({1}/{2} seçildi)",
         "zh-CN": "平台（已选择 {1}/{2}）",
-        "zh-TW": "平台（已選擇 {1}/{2}）"
+        "zh-TW": "平台（已選擇 {1}/{2}）",
+        "id": "Platform ({1}/{2} dipilih)"
       }
     },
     {
@@ -20474,7 +20530,8 @@
         "fr": "Première session il y a moins de {1} heures",
         "tr": "İlk oturum {1} saatten daha yakın",
         "zh-CN": "首次会话不到 {1} 小时前",
-        "zh-TW": "首次會話不到 {1} 小時前"
+        "zh-TW": "首次會話不到 {1} 小時前",
+        "id": "Sesi pertama kurang dari {1} jam yang lalu"
       }
     },
     {
@@ -20487,7 +20544,8 @@
         "fr": "il y a {1} mois",
         "tr": "{1} ay önce",
         "zh-CN": "{1} 个月前",
-        "zh-TW": "{1} 個月前"
+        "zh-TW": "{1} 個月前",
+        "id": "{1} bulan yang lalu"
       }
     },
     {
@@ -20500,7 +20558,8 @@
         "fr": "{1}/{2} caractères utilisés (estimé)",
         "tr": "{1}/{2} karakter kullanıldı (tahmini)",
         "zh-CN": "已使用 {1}/{2} 个字符（估计）",
-        "zh-TW": "已使用 {1}/{2} 個字元（估計）"
+        "zh-TW": "已使用 {1}/{2} 個字元（估計）",
+        "id": "{1}/{2} karakter digunakan (estimasi)"
       }
     },
     {
@@ -20513,7 +20572,8 @@
         "fr": "{1} par jour)",
         "tr": "günde {1})",
         "zh-CN": "每天 {1}）",
-        "zh-TW": "每天 {1}）"
+        "zh-TW": "每天 {1}）",
+        "id": "{1} per hari)"
       }
     },
     {
@@ -20526,7 +20586,8 @@
         "fr": "{1} par heure)",
         "tr": "saatte {1})",
         "zh-CN": "每小时 {1}）",
-        "zh-TW": "每小時 {1}）"
+        "zh-TW": "每小時 {1}）",
+        "id": "{1} per jam)"
       }
     },
     {
@@ -20539,7 +20600,8 @@
         "fr": "{1} par minute)",
         "tr": "dakikada {1})",
         "zh-CN": "每分钟 {1}）",
-        "zh-TW": "每分鐘 {1}）"
+        "zh-TW": "每分鐘 {1}）",
+        "id": "{1} per menit)"
       }
     },
     {
@@ -20552,7 +20614,8 @@
         "fr": "{1} par seconde)",
         "tr": "saniyede {1})",
         "zh-CN": "每秒 {1}）",
-        "zh-TW": "每秒 {1}）"
+        "zh-TW": "每秒 {1}）",
+        "id": "{1} per detik)"
       }
     },
     {
@@ -20565,7 +20628,8 @@
         "fr": "{1} par semaine)",
         "tr": "haftada {1})",
         "zh-CN": "每周 {1}）",
-        "zh-TW": "每週 {1}）"
+        "zh-TW": "每週 {1}）",
+        "id": "{1} per minggu)"
       }
     },
     {
@@ -20578,7 +20642,8 @@
         "fr": "{1} par mois)",
         "tr": "ayda {1})",
         "zh-CN": "每月 {1}）",
-        "zh-TW": "每月 {1}）"
+        "zh-TW": "每月 {1}）",
+        "id": "{1} per bulan)"
       }
     },
     {
@@ -20591,7 +20656,8 @@
         "fr": "{1} par jour",
         "tr": "günde {1}",
         "zh-CN": "每天 {1}",
-        "zh-TW": "每天 {1}"
+        "zh-TW": "每天 {1}",
+        "id": "{1} per hari"
       }
     },
     {
@@ -20604,7 +20670,8 @@
         "fr": "{1} par heure",
         "tr": "saatte {1}",
         "zh-CN": "每小时 {1}",
-        "zh-TW": "每小時 {1}"
+        "zh-TW": "每小時 {1}",
+        "id": "{1} per jam"
       }
     },
     {
@@ -20617,7 +20684,8 @@
         "fr": "{1} par minute",
         "tr": "dakikada {1}",
         "zh-CN": "每分钟 {1}",
-        "zh-TW": "每分鐘 {1}"
+        "zh-TW": "每分鐘 {1}",
+        "id": "{1} per menit"
       }
     },
     {
@@ -20630,7 +20698,8 @@
         "fr": "{1} par seconde",
         "tr": "saniyede {1}",
         "zh-CN": "每秒 {1}",
-        "zh-TW": "每秒 {1}"
+        "zh-TW": "每秒 {1}",
+        "id": "{1} per detik"
       }
     },
     {
@@ -20643,7 +20712,8 @@
         "fr": "{1} par semaine",
         "tr": "haftada {1}",
         "zh-CN": "每周 {1}",
-        "zh-TW": "每週 {1}"
+        "zh-TW": "每週 {1}",
+        "id": "{1} per minggu"
       }
     },
     {
@@ -20656,7 +20726,8 @@
         "fr": "{1} par mois",
         "tr": "ayda {1}",
         "zh-CN": "每月 {1}",
-        "zh-TW": "每月 {1}"
+        "zh-TW": "每月 {1}",
+        "id": "{1} per bulan"
       }
     },
     {
@@ -20669,7 +20740,8 @@
         "fr": "Première session il y a plus de {1} heures",
         "tr": "İlk oturum {1} saatten daha eski",
         "zh-CN": "首次会话超过 {1} 小时前",
-        "zh-TW": "首次會話超過 {1} 小時前"
+        "zh-TW": "首次會話超過 {1} 小時前",
+        "id": "Sesi pertama lebih dari {1} jam yang lalu"
       }
     },
     {
@@ -20682,7 +20754,8 @@
         "fr": "Affichage des journaux d'audit de {1} à maintenant",
         "tr": "{1} tarihinden şimdiye kadar denetim günlükleri gösteriliyor",
         "zh-CN": "显示从 {1} 至今的审计日志",
-        "zh-TW": "顯示從 {1} 至今的審計日誌"
+        "zh-TW": "顯示從 {1} 至今的審計日誌",
+        "id": "Menampilkan log audit dari {1} hingga sekarang"
       }
     },
     {
@@ -20695,7 +20768,8 @@
         "fr": "Les horodatages sont stockés au format UTC ({1} est UTC {2})",
         "tr": "Tarih damgaları UTC zamanında saklanır ({1}, UTC'den {2}'tür)",
         "zh-CN": "日期时间戳以 UTC 时间存储 ({1} 为 UTC {2})",
-        "zh-TW": "日期時間戳以 UTC 時間儲存 ({1} 為 UTC {2})"
+        "zh-TW": "日期時間戳以 UTC 時間儲存 ({1} 為 UTC {2})",
+        "id": "Cap waktu tanggal disimpan dalam waktu UTC ({1} adalah {2} dari UTC)"
       }
     },
     {
@@ -20708,7 +20782,8 @@
         "es": "enero '{1}",
         "pt": "janeiro '{1}",
         "fr": "janvier '{1}",
-        "tr": "Ocak '{1}"
+        "tr": "Ocak '{1}",
+        "id": "Jan '{1}"
       }
     },
     {
@@ -20721,7 +20796,8 @@
         "es": "febrero '{1}",
         "pt": "fevereiro '{1}",
         "fr": "février '{1}",
-        "tr": "Şubat '{1}"
+        "tr": "Şubat '{1}",
+        "id": "Feb '{1}"
       }
     },
     {
@@ -20734,7 +20810,8 @@
         "es": "marzo '{1}",
         "pt": "março '{1}",
         "fr": "mars '{1}",
-        "tr": "Mart '{1}"
+        "tr": "Mart '{1}",
+        "id": "Mar '{1}"
       }
     },
     {
@@ -20747,7 +20824,8 @@
         "es": "abril '{1}",
         "pt": "abril '{1}",
         "fr": "avril '{1}",
-        "tr": "Nisan '{1}"
+        "tr": "Nisan '{1}",
+        "id": "Apr '{1}"
       }
     },
     {
@@ -20760,7 +20838,8 @@
         "es": "mayo '{1}",
         "pt": "maio '{1}",
         "fr": "mai '{1}",
-        "tr": "Mayıs '{1}"
+        "tr": "Mayıs '{1}",
+        "id": "Mei '{1}"
       }
     },
     {
@@ -20773,7 +20852,8 @@
         "es": "junio '{1}",
         "pt": "junho '{1}",
         "fr": "juin '{1}",
-        "tr": "Haziran '{1}"
+        "tr": "Haziran '{1}",
+        "id": "Jun '{1}"
       }
     },
     {
@@ -20786,7 +20866,8 @@
         "es": "julio '{1}",
         "pt": "julho '{1}",
         "fr": "juillet '{1}",
-        "tr": "Temmuz '{1}"
+        "tr": "Temmuz '{1}",
+        "id": "Jul '{1}"
       }
     },
     {
@@ -20799,7 +20880,8 @@
         "es": "agosto '{1}",
         "pt": "agosto '{1}",
         "fr": "août '{1}",
-        "tr": "Ağustos '{1}"
+        "tr": "Ağustos '{1}",
+        "id": "Agu '{1}"
       }
     },
     {
@@ -20812,7 +20894,8 @@
         "es": "septiembre '{1}",
         "pt": "setembro '{1}",
         "fr": "septembre '{1}",
-        "tr": "Eylül '{1}"
+        "tr": "Eylül '{1}",
+        "id": "Sep '{1}"
       }
     },
     {
@@ -20825,7 +20908,8 @@
         "es": "octubre '{1}",
         "pt": "outubro '{1}",
         "fr": "octobre '{1}",
-        "tr": "Ekim '{1}"
+        "tr": "Ekim '{1}",
+        "id": "Okt '{1}"
       }
     },
     {
@@ -20838,7 +20922,8 @@
         "es": "noviembre '{1}",
         "pt": "novembro '{1}",
         "fr": "novembre '{1}",
-        "tr": "Kasım '{1}"
+        "tr": "Kasım '{1}",
+        "id": "Nov '{1}"
       }
     },
     {
@@ -20851,7 +20936,8 @@
         "es": "diciembre '{1}",
         "pt": "dezembro '{1}",
         "fr": "décembre '{1}",
-        "tr": "Aralık '{1}"
+        "tr": "Aralık '{1}",
+        "id": "Des '{1}"
       }
     },
     {
@@ -20864,7 +20950,8 @@
         "es": "enero de {1}",
         "pt": "janeiro de {1}",
         "fr": "janvier {1}",
-        "tr": "Ocak {1}"
+        "tr": "Ocak {1}",
+        "id": "Januari {1}"
       }
     },
     {
@@ -20877,7 +20964,8 @@
         "es": "febrero de {1}",
         "pt": "fevereiro de {1}",
         "fr": "février {1}",
-        "tr": "Şubat {1}"
+        "tr": "Şubat {1}",
+        "id": "Februari {1}"
       }
     },
     {
@@ -20890,7 +20978,8 @@
         "es": "marzo de {1}",
         "pt": "março de {1}",
         "fr": "mars {1}",
-        "tr": "Mart {1}"
+        "tr": "Mart {1}",
+        "id": "Maret {1}"
       }
     },
     {
@@ -20903,7 +20992,8 @@
         "es": "abril de {1}",
         "pt": "abril de {1}",
         "fr": "avril {1}",
-        "tr": "Nisan {1}"
+        "tr": "Nisan {1}",
+        "id": "April {1}"
       }
     },
     {
@@ -20916,7 +21006,8 @@
         "es": "mayo de {1}",
         "pt": "maio de {1}",
         "fr": "mai {1}",
-        "tr": "Mayıs {1}"
+        "tr": "Mayıs {1}",
+        "id": "Mei {1}"
       }
     },
     {
@@ -20929,7 +21020,8 @@
         "es": "junio de {1}",
         "pt": "junho de {1}",
         "fr": "juin {1}",
-        "tr": "Haziran {1}"
+        "tr": "Haziran {1}",
+        "id": "Juni {1}"
       }
     },
     {
@@ -20942,7 +21034,8 @@
         "es": "julio de {1}",
         "pt": "julho de {1}",
         "fr": "juillet {1}",
-        "tr": "Temmuz {1}"
+        "tr": "Temmuz {1}",
+        "id": "Juli {1}"
       }
     },
     {
@@ -20955,7 +21048,8 @@
         "es": "agosto de {1}",
         "pt": "agosto de {1}",
         "fr": "août {1}",
-        "tr": "Ağustos {1}"
+        "tr": "Ağustos {1}",
+        "id": "Agustus {1}"
       }
     },
     {
@@ -20968,7 +21062,8 @@
         "es": "septiembre de {1}",
         "pt": "setembro de {1}",
         "fr": "septembre {1}",
-        "tr": "Eylül {1}"
+        "tr": "Eylül {1}",
+        "id": "September {1}"
       }
     },
     {
@@ -20981,7 +21076,8 @@
         "es": "octubre de {1}",
         "pt": "outubro de {1}",
         "fr": "octobre {1}",
-        "tr": "Ekim {1}"
+        "tr": "Ekim {1}",
+        "id": "Oktober {1}"
       }
     },
     {
@@ -20994,7 +21090,8 @@
         "es": "noviembre de {1}",
         "pt": "novembro de {1}",
         "fr": "novembre {1}",
-        "tr": "Kasım {1}"
+        "tr": "Kasım {1}",
+        "id": "November {1}"
       }
     },
     {
@@ -21007,7 +21104,8 @@
         "es": "diciembre de {1}",
         "pt": "dezembro de {1}",
         "fr": "décembre {1}",
-        "tr": "Aralık {1}"
+        "tr": "Aralık {1}",
+        "id": "Desember {1}"
       }
     }
   ]
