@@ -1669,7 +1669,8 @@
       "fr": "Désactiver",
       "tr": "Devre dışı bırak",
       "zh-CN": "禁用",
-      "zh-TW": "停用"
+      "zh-TW": "停用",
+      "id": "Nonaktifkan"
     },
     "Disabled": {
       "es": "Deshabilitado",
@@ -1679,7 +1680,8 @@
       "fr": "Désactivé",
       "tr": "Devre dışı",
       "zh-CN": "已禁用",
-      "zh-TW": "已停用"
+      "zh-TW": "已停用",
+      "id": "Dinonaktifkan"
     },
     "Discard": {
       "es": "Descartar",
@@ -1689,7 +1691,8 @@
       "fr": "Abandonner",
       "tr": "Vazgeç",
       "zh-CN": "放弃",
-      "zh-TW": "捨棄"
+      "zh-TW": "捨棄",
+      "id": "Buang"
     },
     "Disconnected": {
       "es": "Desconectado",
@@ -1699,7 +1702,8 @@
       "fr": "Déconnecté",
       "tr": "Bağlantı kesildi",
       "zh-CN": "已断开",
-      "zh-TW": "已斷開"
+      "zh-TW": "已斷開",
+      "id": "Terputus"
     },
     "Documentation": {
       "es": "Documentación",
@@ -1709,7 +1713,8 @@
       "fr": "Documentation",
       "tr": "Dokümantasyon",
       "zh-CN": "文档",
-      "zh-TW": "文件"
+      "zh-TW": "文件",
+      "id": "Dokumentasi"
     },
     "does not contain": {
       "es": "no contiene",
@@ -1719,7 +1724,8 @@
       "fr": "ne contient pas",
       "tr": "içermez",
       "zh-CN": "不包含",
-      "zh-TW": "不包含"
+      "zh-TW": "不包含",
+      "id": "tidak memuat"
     },
     "Done": {
       "es": "Listo",
@@ -1729,7 +1735,8 @@
       "fr": "Terminé",
       "tr": "Tamam",
       "zh-CN": "完成",
-      "zh-TW": "完成"
+      "zh-TW": "完成",
+      "id": "Selesai"
     },
     "Draft": {
       "es": "Borrador",
@@ -1739,7 +1746,8 @@
       "fr": "Brouillon",
       "tr": "Taslak",
       "zh-CN": "草稿",
-      "zh-TW": "草稿"
+      "zh-TW": "草稿",
+      "id": "Draf"
     },
     "Drafts": {
       "es": "Borradores",
@@ -1749,7 +1757,8 @@
       "fr": "Brouillons",
       "tr": "Taslaklar",
       "zh-CN": "草稿",
-      "zh-TW": "草稿"
+      "zh-TW": "草稿",
+      "id": "Draf"
     },
     "Duplicate": {
       "es": "Duplicar",
@@ -1759,7 +1768,8 @@
       "fr": "Dupliquer",
       "tr": "Çoğalt",
       "zh-CN": "复制",
-      "zh-TW": "複製"
+      "zh-TW": "複製",
+      "id": "Duplikat"
     },
     "Edit": {
       "es": "Editar",
@@ -1769,7 +1779,8 @@
       "fr": "Modifier",
       "tr": "Düzenle",
       "zh-CN": "编辑",
-      "zh-TW": "編輯"
+      "zh-TW": "編輯",
+      "id": "Edit"
     },
     "Edit Segment": {
       "es": "Editar segmento",
@@ -1779,7 +1790,8 @@
       "fr": "Modifier le segment",
       "tr": "Segmenti düzenle",
       "zh-CN": "编辑用户分群",
-      "zh-TW": "編輯用戶分群"
+      "zh-TW": "編輯用戶分群",
+      "id": "Edit Segment"
     },
     "Edit Template": {
       "es": "Editar plantilla",
@@ -1789,7 +1801,8 @@
       "fr": "Modifier le modèle",
       "tr": "Şablonu düzenle",
       "zh-CN": "编辑模板",
-      "zh-TW": "編輯範本"
+      "zh-TW": "編輯範本",
+      "id": "Edit Template"
     },
     "Educate your users on how to maximize their value from your product.": {
       "es": "Educa a tus usuarios sobre cómo maximizar el valor de tu producto.",
@@ -1799,7 +1812,8 @@
       "fr": "Apprenez à vos utilisateurs à tirer le meilleur parti de votre produit.",
       "tr": "Kullanıcılarınıza ürününüzden maksimum değeri nasıl alacaklarını öğretin.",
       "zh-CN": "教育用户如何从您的产品中获得最大价值。",
-      "zh-TW": "教育用戶如何從您的產品中獲得最大價值。"
+      "zh-TW": "教育用戶如何從您的產品中獲得最大價值。",
+      "id": "Edukasi pengguna Anda tentang cara memaksimalkan manfaat produk."
     },
     "Email": {
       "es": "Email",
@@ -1809,7 +1823,8 @@
       "fr": "Email",
       "tr": "Email",
       "zh-CN": "电子邮件",
-      "zh-TW": "電郵"
+      "zh-TW": "電郵",
+      "id": "Email"
     },
     "Email Address": {
       "es": "Dirección de email",
@@ -1819,7 +1834,8 @@
       "fr": "Adresse email",
       "tr": "Email adresi",
       "zh-CN": "电子邮件地址",
-      "zh-TW": "電郵地址"
+      "zh-TW": "電郵地址",
+      "id": "Alamat Email"
     },
     "Email Settings": {
       "es": "Configuración de email",
@@ -1829,7 +1845,8 @@
       "fr": "Paramètres email",
       "tr": "Email ayarları",
       "zh-CN": "电子邮件设置",
-      "zh-TW": "電郵設定"
+      "zh-TW": "電郵設定",
+      "id": "Pengaturan Email"
     },
     "Enable": {
       "es": "Habilitar",
@@ -1839,7 +1856,8 @@
       "fr": "Activer",
       "tr": "Etkinleştir",
       "zh-CN": "启用",
-      "zh-TW": "啟用"
+      "zh-TW": "啟用",
+      "id": "Aktifkan"
     },
     "End": {
       "es": "Fin",
@@ -1849,7 +1867,8 @@
       "fr": "Fin",
       "tr": "Son",
       "zh-CN": "结束",
-      "zh-TW": "結束"
+      "zh-TW": "結束",
+      "id": "Akhir"
     },
     "Engage recently active contacts": {
       "es": "Contacta a usuarios activos recientemente",
@@ -1859,7 +1878,8 @@
       "fr": "Engagez les contacts récemment actifs",
       "tr": "Yakın zamanda aktif olan kişilerle etkileşime geçin",
       "zh-CN": "与最近活跃的联系人互动",
-      "zh-TW": "與最近活躍的聯絡人互動"
+      "zh-TW": "與最近活躍的聯絡人互動",
+      "id": "Libatkan kontak yang baru-baru ini aktif"
     },
     "Engagement trends": {
       "es": "Tendencias de Engagement",
@@ -1869,7 +1889,8 @@
       "fr": "Tendances d'engagement",
       "tr": "Etkileşim eğilimleri",
       "zh-CN": "互动趋势",
-      "zh-TW": "互動趨勢"
+      "zh-TW": "互動趨勢",
+      "id": "Tren keterlibatan"
     },
     "Error": {
       "es": "Error",
@@ -1879,7 +1900,8 @@
       "fr": "Erreur",
       "tr": "Hata",
       "zh-CN": "错误",
-      "zh-TW": "錯誤"
+      "zh-TW": "錯誤",
+      "id": "Error"
     },
     "Errored": {
       "es": "Con error",
@@ -1889,7 +1911,8 @@
       "fr": "En erreur",
       "tr": "Hata oluştu",
       "zh-CN": "出错",
-      "zh-TW": "出錯"
+      "zh-TW": "出錯",
+      "id": "Error"
     },
     "Event Activity": {
       "es": "Actividad de eventos",
@@ -1899,7 +1922,8 @@
       "fr": "Activité des événements",
       "tr": "Etkinlik aktivitesi",
       "zh-CN": "事件活动",
-      "zh-TW": "事件活動"
+      "zh-TW": "事件活動",
+      "id": "Aktivitas Event"
     },
     "Event List": {
       "es": "Lista de eventos",
@@ -1909,7 +1933,8 @@
       "fr": "Liste des événements",
       "tr": "Etkinlik listesi",
       "zh-CN": "事件列表",
-      "zh-TW": "事件列表"
+      "zh-TW": "事件列表",
+      "id": "Daftar Event"
     },
     "Event name": {
       "es": "Nombre del evento",
@@ -1919,7 +1944,8 @@
       "fr": "Nom de l'événement",
       "tr": "Etkinlik adı",
       "zh-CN": "事件名称",
-      "zh-TW": "事件名稱"
+      "zh-TW": "事件名稱",
+      "id": "Nama event"
     },
     "Event Stream": {
       "es": "Event Stream",
@@ -1929,7 +1955,8 @@
       "fr": "Flux d'événements",
       "tr": "Etkinlik akışı",
       "zh-CN": "事件流",
-      "zh-TW": "事件流"
+      "zh-TW": "事件流",
+      "id": "Event Stream"
     },
     "Event Streams": {
       "es": "Event Streams",
@@ -1939,7 +1966,8 @@
       "fr": "Flux d'événements",
       "tr": "Etkinlik akışları",
       "zh-CN": "事件流",
-      "zh-TW": "事件流"
+      "zh-TW": "事件流",
+      "id": "Event Streams"
     },
     "Exclude Segments": {
       "es": "Excluir segmentos",
@@ -1949,7 +1977,8 @@
       "fr": "Exclure les segments",
       "tr": "Segmentleri hariç tut",
       "zh-CN": "排除用户分群",
-      "zh-TW": "排除用戶分群"
+      "zh-TW": "排除用戶分群",
+      "id": "Kecualikan Segment"
     },
     "exists": {
       "es": "existe",
@@ -1959,7 +1988,8 @@
       "fr": "existe",
       "tr": "var",
       "zh-CN": "存在",
-      "zh-TW": "存在"
+      "zh-TW": "存在",
+      "id": "ada"
     },
     "Expand row": {
       "es": "Expandir fila",
@@ -1969,7 +1999,8 @@
       "fr": "Développer la ligne",
       "tr": "Satırı genişlet",
       "zh-CN": "展开行",
-      "zh-TW": "展開列"
+      "zh-TW": "展開列",
+      "id": "Perluas baris"
     },
     "Export": {
       "es": "Exportar",
@@ -1979,7 +2010,8 @@
       "fr": "Exporter",
       "tr": "Dışa aktar",
       "zh-CN": "导出",
-      "zh-TW": "匯出"
+      "zh-TW": "匯出",
+      "id": "Ekspor"
     },
     "Exported Events": {
       "es": "Eventos exportados",
@@ -1989,7 +2021,8 @@
       "fr": "Événements exportés",
       "tr": "Dışa aktarılan etkinlikler",
       "zh-CN": "已导出事件",
-      "zh-TW": "已匯出事件"
+      "zh-TW": "已匯出事件",
+      "id": "Event Diekspor"
     },
     "External ID": {
       "es": "ID externo",
@@ -1999,7 +2032,8 @@
       "fr": "ID externe",
       "tr": "Harici ID",
       "zh-CN": "外部 ID",
-      "zh-TW": "外部 ID"
+      "zh-TW": "外部 ID",
+      "id": "ID Eksternal"
     },
     "Failed": {
       "es": "Fallido",
@@ -2009,7 +2043,8 @@
       "fr": "Échoué",
       "tr": "Başarısız",
       "zh-CN": "失败",
-      "zh-TW": "失敗"
+      "zh-TW": "失敗",
+      "id": "Gagal"
     },
     "Failed Events": {
       "es": "Eventos fallidos",
@@ -2019,7 +2054,8 @@
       "fr": "Événements échoués",
       "tr": "Başarısız etkinlikler",
       "zh-CN": "失败的事件",
-      "zh-TW": "失敗的事件"
+      "zh-TW": "失敗的事件",
+      "id": "Event Gagal"
     },
     "Failed Updates": {
       "es": "Actualizaciones fallidas",
@@ -2029,7 +2065,8 @@
       "fr": "Mises à jour échouées",
       "tr": "Başarısız güncellemeler",
       "zh-CN": "失败的更新",
-      "zh-TW": "失敗的更新"
+      "zh-TW": "失敗的更新",
+      "id": "Pembaruan Gagal"
     },
     "false": {
       "es": "falso",
@@ -2039,7 +2076,8 @@
       "fr": "faux",
       "tr": "yanlış",
       "zh-CN": "假",
-      "zh-TW": "假"
+      "zh-TW": "假",
+      "id": "false"
     },
     "Feb": {
       "es": "feb",
@@ -2049,7 +2087,8 @@
       "fr": "fév",
       "tr": "şub",
       "zh-CN": "2月",
-      "zh-TW": "2月"
+      "zh-TW": "2月",
+      "id": "Feb"
     },
     "February": {
       "es": "febrero",
@@ -2059,7 +2098,8 @@
       "fr": "février",
       "tr": "şubat",
       "zh-CN": "2月",
-      "zh-TW": "2月"
+      "zh-TW": "2月",
+      "id": "Februari"
     },
     "Filter": {
       "es": "Filtro",
@@ -2069,7 +2109,8 @@
       "fr": "Filtre",
       "tr": "Filtre",
       "zh-CN": "筛选",
-      "zh-TW": "篩選"
+      "zh-TW": "篩選",
+      "id": "Filter"
     },
     "Filters": {
       "es": "Filtros",
@@ -2079,7 +2120,8 @@
       "fr": "Filtres",
       "tr": "Filtreler",
       "zh-CN": "筛选",
-      "zh-TW": "篩選"
+      "zh-TW": "篩選",
+      "id": "Filter"
     },
     "Firefox": {
       "es": "Firefox",
@@ -2089,7 +2131,8 @@
       "fr": "Firefox",
       "tr": "Firefox",
       "zh-CN": "Firefox",
-      "zh-TW": "Firefox"
+      "zh-TW": "Firefox",
+      "id": "Firefox"
     },
     "First active": {
       "es": "Primera actividad",
@@ -2099,7 +2142,8 @@
       "fr": "Première activité",
       "tr": "İlk aktivite",
       "zh-CN": "首次活跃",
-      "zh-TW": "首次活躍"
+      "zh-TW": "首次活躍",
+      "id": "Pertama aktif"
     },
     "First Session": {
       "es": "Primera sesión",
@@ -2109,7 +2153,8 @@
       "fr": "Première session",
       "tr": "İlk oturum",
       "zh-CN": "首次会话",
-      "zh-TW": "首次會話"
+      "zh-TW": "首次會話",
+      "id": "Sesi Pertama"
     },
     "First session": {
       "es": "Primera sesión",
@@ -2119,7 +2164,8 @@
       "fr": "Première session",
       "tr": "İlk oturum",
       "zh-CN": "首次会话",
-      "zh-TW": "首次會話"
+      "zh-TW": "首次會話",
+      "id": "Sesi pertama"
     },
     "First-time Audience": {
       "es": "Audiencia nueva",
@@ -2129,7 +2175,8 @@
       "fr": "Nouvelle audience",
       "tr": "Yeni hedef kitle",
       "zh-CN": "首次受众",
-      "zh-TW": "首次受眾"
+      "zh-TW": "首次受眾",
+      "id": "Audiens Pertama Kali"
     },
     "Fri": {
       "es": "Vie",
@@ -2139,7 +2186,8 @@
       "fr": "Ven",
       "tr": "Cum",
       "zh-CN": "周五",
-      "zh-TW": "週五"
+      "zh-TW": "週五",
+      "id": "Jum"
     },
     "From Address": {
       "es": "Dirección del remitente",
@@ -2149,7 +2197,8 @@
       "fr": "Adresse de l'expéditeur",
       "tr": "Gönderen adresi",
       "zh-CN": "发件人地址",
-      "zh-TW": "發件人地址"
+      "zh-TW": "發件人地址",
+      "id": "Alamat Pengirim"
     },
     "From Name": {
       "es": "Nombre del remitente",
@@ -2159,7 +2208,8 @@
       "fr": "Nom de l'expéditeur",
       "tr": "Gönderen adı",
       "zh-CN": "发件人名称",
-      "zh-TW": "發件人名稱"
+      "zh-TW": "發件人名稱",
+      "id": "Nama Pengirim"
     },
     "Full Screen": {
       "es": "Pantalla completa",
