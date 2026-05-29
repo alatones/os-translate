@@ -83,7 +83,7 @@
   used in Turkish SaaS tech. Lock as `Email` with `E-posta` alt.
 - `Webhook` stays Latin.
 - `Live Activity` / `Live Activities` → `Canlı Etkinlik` /
-  `Canlı Etkinlikler`. Per Emre (TR reviewer): `Aktivite` reads
+  `Canlı Etkinlikler`. Per the Turkish reviewer: `Aktivite` reads
   as a loose/casual term in Turkish; `Etkinlik` is the standard
   word for a discrete event/activity in product contexts. Latin
   `Live Activity` / `Live Activities` kept as glossary alts for
@@ -92,7 +92,7 @@
 ## Nav-bar labels: describe the page, not the source noun
 
 Same principle as zh-TW: menu items should read for what users will
-see, not as a literal translation of the English source. Per Emre:
+see, not as a literal translation of the English source. Per the Turkish reviewer:
 
 | Source     | Use (tr)              | Don't use   |
 | ---------- | --------------------- | ----------- |
@@ -113,7 +113,7 @@ sync.
 
 For "Set up X" buttons that anchor a multi-step onboarding flow,
 prefer Turkish verbs that describe the resulting action rather than
-the generic English "Set up". Per Emre:
+the generic English "Set up". Per the Turkish reviewer:
 
 - `Set Up Push` → `Push Bildirim Oluştur` ("Create push
   notification"), not `Push'u kur` (literal "set up Push").

@@ -158,7 +158,7 @@ def check_cross_contamination(langs_data):
 
     Example caught: source 'Event Streams' had es value 'Custom Events',
     where 'Custom Events' is itself a separate source key. The intent was
-    almost certainly to type 'Event Streams' (Latin, matching the Italo
+    almost certainly to type 'Event Streams' (Latin, matching the the Chilean Spanish reviewer
     pattern for product feature names), and the wrong English label was
     pasted in.
 

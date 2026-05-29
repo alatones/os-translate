@@ -435,7 +435,7 @@
         "Veri Akışı",
         "Data Feed"
       ],
-      "note": "zh-TW: per Jessie Koh (HK reviewer), '資料串流' (data stream) is the natural term — '資料來源' (data source) read as a generic descriptor, not the product feature.",
+      "note": "zh-TW: per the HK Traditional Chinese reviewer, '資料串流' (data stream) is the natural term — '資料來源' (data source) read as a generic descriptor, not the product feature.",
       "zh-CN": [
         "数据源",
         "Data Feed"
@@ -504,7 +504,7 @@
       "ko": "템플릿",
       "fr": "Modèle",
       "tr": "Şablon",
-      "note": "pt: stays Latin per Ana (BR reviewer) — 'Template' reads more natural/idiomatic than 'Modelo' in Brazilian SaaS UI. Same Latin-product-feature pattern as Italo's es calls (Custom Events, Event Stream, Data Feed, etc.).",
+      "note": "pt: stays Latin per the BR Portuguese reviewer — 'Template' reads more natural/idiomatic than 'Modelo' in Brazilian SaaS UI. Same Latin-product-feature pattern as the es calls (Custom Events, Event Stream, Data Feed, etc.).",
       "zh-CN": "模板",
       "zh-TW": "範本"
     },
@@ -1486,7 +1486,7 @@
         "Entrega",
         "entrega"
       ],
-      "note": "es: 'Entregado' family. Italo (Chilean reviewer) confirmed Sent vs. Delivered is a meaningful product distinction that Spanish must preserve — 'Sent' (OneSignal dispatched) → 'Enviado', 'Delivered' (carrier/device confirmed receipt) → 'Entregado'. Do NOT collapse these to a single Spanish term.",
+      "note": "es: 'Entregado' family. The Chilean Spanish reviewer confirmed Sent vs. Delivered is a meaningful product distinction that Spanish must preserve — 'Sent' (OneSignal dispatched) → 'Enviado', 'Delivered' (carrier/device confirmed receipt) → 'Entregado'. Do NOT collapse these to a single Spanish term.",
       "pt": [
         "Entregue",
         "Entregues",
@@ -1542,7 +1542,7 @@
         "Close Delivery menu",
         "Open Delivery menu"
       ],
-      "note": "es: Two stacked rules from the Chilean reviewer (Italo). (1) KPI/feature labels stay Latin: 'Delivery Rate', 'Intelligent Delivery', 'Delivery time', 'Delivery Schedule'. (2) Status / count / event labels use the 'Entrega/Entregado' family — preserves the Sent (Enviado) vs. Delivered (Entregado) distinction that exists in the product. The verb 'entregar' and body-copy noun 'entrega' translate normally; multiple forms are listed as acceptable here so the validator accepts whichever fits the context. Latin 'Delivery' kept in the alt list so the four locked compounds (Delivery Rate, etc.) still pass the parent check. tr: bare 'Delivery' (menu item) and 'Close Delivery menu' (its aria-label) are exempted via _skip_keys — Emre (TR reviewer) renamed the menu to 'Bildirim Geçmişi' (Notification History) to describe what the page actually shows.",
+      "note": "es: Two stacked rules from the Chilean Spanish reviewer. (1) KPI/feature labels stay Latin: 'Delivery Rate', 'Intelligent Delivery', 'Delivery time', 'Delivery Schedule'. (2) Status / count / event labels use the 'Entrega/Entregado' family — preserves the Sent (Enviado) vs. Delivered (Entregado) distinction that exists in the product. The verb 'entregar' and body-copy noun 'entrega' translate normally; multiple forms are listed as acceptable here so the validator accepts whichever fits the context. Latin 'Delivery' kept in the alt list so the four locked compounds (Delivery Rate, etc.) still pass the parent check. tr: bare 'Delivery' (menu item) and 'Close Delivery menu' (its aria-label) are exempted via _skip_keys — the Turkish reviewer renamed the menu to 'Bildirim Geçmişi' (Notification History) to describe what the page actually shows.",
       "fr": [
         "Livraison",
         "Livrer",
@@ -1568,7 +1568,7 @@
     "Delivery Rate": {
       "ja": "配信率",
       "es": "Delivery Rate",
-      "note": "es: KPI label stays Latin (Italo, Chilean reviewer). 'Tasa de entrega' reads as awkward for a dashboard metric.",
+      "note": "es: KPI label stays Latin (the Chilean Spanish reviewer). 'Tasa de entrega' reads as awkward for a dashboard metric.",
       "pt": "Taxa de entrega",
       "ko": "전달률",
       "fr": "Taux de livraison",
@@ -1581,15 +1581,15 @@
     },
     "Intelligent Delivery": {
       "es": "Intelligent Delivery",
-      "note": "es: Product feature name stays Latin (Italo, Chilean reviewer). Same pattern as Journey/Live Activity."
+      "note": "es: Product feature name stays Latin (the Chilean Spanish reviewer). Same pattern as Journey/Live Activity."
     },
     "Delivery time": {
       "es": "Delivery time",
-      "note": "es: Setting label stays Latin (Italo, Chilean reviewer)."
+      "note": "es: Setting label stays Latin (the Chilean Spanish reviewer)."
     },
     "Delivery Schedule": {
       "es": "Delivery Schedule",
-      "note": "es: Section heading stays Latin (Italo, Chilean reviewer). Numbered variants ('3. Delivery Schedule' etc.) inherit via word-boundary match."
+      "note": "es: Section heading stays Latin (the Chilean Spanish reviewer). Numbered variants ('3. Delivery Schedule' etc.) inherit via word-boundary match."
     },
     "Click-through Rate": {
       "ja": "クリック率",
@@ -1800,7 +1800,7 @@
     },
     "Custom Event": {
       "es": "Custom Event",
-      "note": "es: Stays Latin per Italo (Chilean reviewer). OneSignal product feature; Spanish marketers reach for the English form by default — same pattern as Journey, Live Activity, Data Feed, Delivery Rate, Intelligent Delivery."
+      "note": "es: Stays Latin per the Chilean Spanish reviewer. OneSignal product feature; Spanish marketers reach for the English form by default — same pattern as Journey, Live Activity, Data Feed, Delivery Rate, Intelligent Delivery."
     },
     "Custom Events": {
       "es": "Custom Events",
@@ -1808,7 +1808,7 @@
     },
     "Event Stream": {
       "es": "Event Stream",
-      "note": "es: Stays Latin per Italo (Chilean reviewer). OneSignal product feature — same pattern as Custom Events / Data Feed / etc."
+      "note": "es: Stays Latin per the Chilean Spanish reviewer. OneSignal product feature — same pattern as Custom Events / Data Feed / etc."
     },
     "Event Streams": {
       "es": "Event Streams",

@@ -6,7 +6,7 @@
   language label 繁體中文).
 - We ship under Chrome's `zh_TW` locale code (it's the one the Web
   Store recognizes) but the underlying vocabulary in this file is
-  **HK-flavoured Traditional Chinese**, as reviewed by Jessie Koh.
+  **HK-flavoured Traditional Chinese**, as reviewed by the HK Traditional Chinese reviewer.
   HK and TW share the same Traditional character set but differ in
   lexicon and idiom — where they conflict, we use the HK form. Most
   TC readers (HK, TW, overseas) understand both; the HK form is
@@ -69,8 +69,8 @@
 
 ## Nav-bar labels: match the page title
 
-Menu bar items should read the same as the page they open. Per HK
-reviewer (Jessie Koh) feedback, terse one-word menu labels like
+Menu bar items should read the same as the page they open. Per the
+HK Traditional Chinese reviewer's feedback, terse one-word menu labels like
 `推送` (Push) or `應用內` (In-App) felt unsynced with their
 descriptive page titles. Use the fuller forms in standalone nav
 contexts:
@@ -107,7 +107,7 @@ translations and aren't affected.
 ## HK-vs-CN-vs-TW vocabulary
 
 Although we ship under the locale code `zh-TW`, the lexicon below is
-HK-leaning per Jessie's review. HK and TW share Traditional characters
+HK-leaning per the HK reviewer's review. HK and TW share Traditional characters
 but differ in lexicon and idiom; HK lexicon also often overlaps with
 CN (mainland) where TW diverges. Pick HK conventions wherever they
 exist, falling back to widely-understood Traditional Chinese. Columns

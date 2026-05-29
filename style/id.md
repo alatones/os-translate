@@ -93,7 +93,7 @@
 - Product feature names stay Latin: `Journey`, `Journeys`,
   `Live Activity`, `Live Activities`, `Custom Events`, `Custom Event`,
   `Event Stream`, `Event Streams`, `Data Feed`, `Data Feeds`,
-  `Template`, `Templates`. Mirrors the Italo (es) / Ana (pt) reviewer
+  `Template`, `Templates`. Mirrors the the es (Spanish) / pt (Portuguese) reviewer
   pattern — Indonesian SaaS marketers reach for the English form by
   default.
 - Delivery-stem KPI/feature labels stay Latin per the same pattern:

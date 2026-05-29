@@ -46,7 +46,7 @@
 - "Segment" (OneSignal feature) → `Segmento`.
   "Segment" (Twilio company) → `Segment` (Latin).
 - `Template` / `Templates` → `Template` / `Templates` (Latin).
-  Per Ana (BR reviewer): `Modelo` / `Modelos` reads as a literal
+  Per the BR Portuguese reviewer: `Modelo` / `Modelos` reads as a literal
   translation; Brazilian marketers reach for `Template` in SaaS
   contexts. Glossary-locked. Case preserved: `Template` (Title)
   in standalone labels and section headings, `template` (lowercase)
