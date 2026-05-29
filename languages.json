@@ -19,7 +19,8 @@
       "fr": "+ Créer...",
       "tr": "+ Oluştur...",
       "zh-CN": "+ 创建...",
-      "zh-TW": "+ 建立..."
+      "zh-TW": "+ 建立...",
+      "id": "+ Buat..."
     },
     "A/B": {
       "es": "A/B",
@@ -29,7 +30,8 @@
       "fr": "A/B",
       "tr": "A/B",
       "zh-CN": "A/B",
-      "zh-TW": "A/B"
+      "zh-TW": "A/B",
+      "id": "A/B"
     },
     "A/B Tests": {
       "es": "Pruebas A/B",
@@ -39,7 +41,8 @@
       "fr": "Tests A/B",
       "tr": "A/B testleri",
       "zh-CN": "A/B 测试",
-      "zh-TW": "A/B 測試"
+      "zh-TW": "A/B 測試",
+      "id": "Tes A/B"
     },
     "A/B tests": {
       "es": "Pruebas A/B",
@@ -49,7 +52,8 @@
       "fr": "Tests A/B",
       "tr": "A/B testleri",
       "zh-CN": "A/B 测试",
-      "zh-TW": "A/B 測試"
+      "zh-TW": "A/B 測試",
+      "id": "Tes A/B"
     },
     "Account": {
       "es": "Cuenta",
@@ -59,7 +63,8 @@
       "fr": "Compte",
       "tr": "Hesap",
       "zh-CN": "账户",
-      "zh-TW": "帳戶"
+      "zh-TW": "帳戶",
+      "id": "Akun"
     },
     "Action Buttons": {
       "es": "Botones de acción",
@@ -69,7 +74,8 @@
       "fr": "Boutons d'action",
       "tr": "İşlem düğmeleri",
       "zh-CN": "操作按钮",
-      "zh-TW": "操作按鈕"
+      "zh-TW": "操作按鈕",
+      "id": "Tombol Aksi"
     },
     "Actions": {
       "es": "Acciones",
@@ -79,7 +85,8 @@
       "fr": "Actions",
       "tr": "İşlemler",
       "zh-CN": "操作",
-      "zh-TW": "操作"
+      "zh-TW": "操作",
+      "id": "Tindakan"
     },
     "Activate": {
       "es": "Activar",
@@ -89,7 +96,8 @@
       "fr": "Activer",
       "tr": "Etkinleştir",
       "zh-CN": "激活",
-      "zh-TW": "啟用"
+      "zh-TW": "啟用",
+      "id": "Aktifkan"
     },
     "Active": {
       "es": "Activo",
@@ -99,7 +107,8 @@
       "fr": "Actif",
       "tr": "Aktif",
       "zh-CN": "活跃",
-      "zh-TW": "活躍"
+      "zh-TW": "活躍",
+      "id": "Aktif"
     },
     "Active Audience": {
       "es": "Audiencia activa",
@@ -109,7 +118,8 @@
       "fr": "Audience active",
       "tr": "Aktif hedef kitle",
       "zh-CN": "活跃受众",
-      "zh-TW": "活躍受眾"
+      "zh-TW": "活躍受眾",
+      "id": "Audiens Aktif"
     },
     "Activity for": {
       "es": "Actividad de",
@@ -119,7 +129,8 @@
       "fr": "Activité pour",
       "tr": "Etkinlik:",
       "zh-CN": "活动:",
-      "zh-TW": "活動："
+      "zh-TW": "活動：",
+      "id": "Aktivitas untuk"
     },
     "Add": {
       "es": "Agregar",
@@ -129,7 +140,8 @@
       "fr": "Ajouter",
       "tr": "Ekle",
       "zh-CN": "添加",
-      "zh-TW": "新增"
+      "zh-TW": "新增",
+      "id": "Tambah"
     },
     "Add data through mobile or web SDKs": {
       "es": "Agrega datos a través de SDKs móviles o web",
@@ -139,7 +151,8 @@
       "fr": "Ajoutez des données via les SDK mobile ou web",
       "tr": "Mobil veya web SDK'leri aracılığıyla veri ekleyin",
       "zh-CN": "通过移动或 Web SDK 添加数据",
-      "zh-TW": "透過移動或 Web SDK 新增資料"
+      "zh-TW": "透過移動或 Web SDK 新增資料",
+      "id": "Tambahkan data melalui SDK seluler atau web"
     },
     "Add Filter": {
       "es": "Agregar filtro",
@@ -149,7 +162,8 @@
       "fr": "Ajouter un filtre",
       "tr": "Filtre ekle",
       "zh-CN": "添加筛选",
-      "zh-TW": "新增篩選"
+      "zh-TW": "新增篩選",
+      "id": "Tambah Filter"
     },
     "Add filter": {
       "es": "Agregar filtro",
@@ -159,7 +173,8 @@
       "fr": "Ajouter un filtre",
       "tr": "Filtre ekle",
       "zh-CN": "添加筛选",
-      "zh-TW": "新增篩選"
+      "zh-TW": "新增篩選",
+      "id": "Tambah filter"
     },
     "Add outcome": {
       "es": "Agregar resultado",
@@ -169,7 +184,8 @@
       "fr": "Ajouter un résultat",
       "tr": "Sonuç ekle",
       "zh-CN": "添加结果",
-      "zh-TW": "新增結果"
+      "zh-TW": "新增結果",
+      "id": "Tambah hasil"
     },
     "Add Segment": {
       "es": "Agregar segmento",
@@ -179,7 +195,8 @@
       "fr": "Ajouter un segment",
       "tr": "Segment ekle",
       "zh-CN": "添加用户分群",
-      "zh-TW": "新增用戶分群"
+      "zh-TW": "新增用戶分群",
+      "id": "Tambah Segment"
     },
     "Add User": {
       "es": "Agregar usuario",
@@ -189,7 +206,8 @@
       "fr": "Ajouter un utilisateur",
       "tr": "Kullanıcı ekle",
       "zh-CN": "添加用户",
-      "zh-TW": "新增用戶"
+      "zh-TW": "新增用戶",
+      "id": "Tambah Pengguna"
     },
     "Add Webhook": {
       "es": "Agregar webhook",
@@ -199,7 +217,8 @@
       "fr": "Ajouter un webhook",
       "tr": "Webhook ekle",
       "zh-CN": "添加 Webhook",
-      "zh-TW": "新增 Webhook"
+      "zh-TW": "新增 Webhook",
+      "id": "Tambah Webhook"
     },
     "Additional Data": {
       "es": "Datos adicionales",
@@ -209,7 +228,8 @@
       "fr": "Données supplémentaires",
       "tr": "Ek veriler",
       "zh-CN": "附加数据",
-      "zh-TW": "額外資料"
+      "zh-TW": "額外資料",
+      "id": "Data Tambahan"
     },
     "Additional Settings": {
       "es": "Configuración adicional",
@@ -219,7 +239,8 @@
       "fr": "Paramètres supplémentaires",
       "tr": "Ek ayarlar",
       "zh-CN": "附加设置",
-      "zh-TW": "額外設定"
+      "zh-TW": "額外設定",
+      "id": "Pengaturan Tambahan"
     },
     "Admin": {
       "es": "Administrador",
@@ -229,7 +250,8 @@
       "fr": "Administrateur",
       "tr": "Yönetici",
       "zh-CN": "管理员",
-      "zh-TW": "管理員"
+      "zh-TW": "管理員",
+      "id": "Admin"
     },
     "All": {
       "es": "Todo",
@@ -239,7 +261,8 @@
       "fr": "Tout",
       "tr": "Tümü",
       "zh-CN": "全部",
-      "zh-TW": "全部"
+      "zh-TW": "全部",
+      "id": "Semua"
     },
     "All Apps": {
       "es": "Todas las apps",
@@ -249,7 +272,8 @@
       "fr": "Toutes les apps",
       "tr": "Tüm uygulamalar",
       "zh-CN": "所有应用",
-      "zh-TW": "所有應用"
+      "zh-TW": "所有應用",
+      "id": "Semua Aplikasi"
     },
     "All Platforms": {
       "es": "Todas las plataformas",
@@ -259,7 +283,8 @@
       "fr": "Toutes les plateformes",
       "tr": "Tüm platformlar",
       "zh-CN": "所有平台",
-      "zh-TW": "所有平台"
+      "zh-TW": "所有平台",
+      "id": "Semua Platform"
     },
     "All Time": {
       "es": "Todo el tiempo",
@@ -269,7 +294,8 @@
       "fr": "Depuis le début",
       "tr": "Tüm zamanlar",
       "zh-CN": "所有时间",
-      "zh-TW": "所有時間"
+      "zh-TW": "所有時間",
+      "id": "Sepanjang Waktu"
     },
     "All Users": {
       "es": "Todos los usuarios",
@@ -279,7 +305,8 @@
       "fr": "Tous les utilisateurs",
       "tr": "Tüm kullanıcılar",
       "zh-CN": "所有用户",
-      "zh-TW": "所有用戶"
+      "zh-TW": "所有用戶",
+      "id": "Semua Pengguna"
     },
     "All-time count": {
       "es": "Recuento total",
@@ -289,7 +316,8 @@
       "fr": "Total cumulé",
       "tr": "Toplam sayı",
       "zh-CN": "全部时间计数",
-      "zh-TW": "全部時間計數"
+      "zh-TW": "全部時間計數",
+      "id": "Jumlah sepanjang waktu"
     },
     "Allowed Origins": {
       "es": "Orígenes permitidos",
@@ -299,7 +327,8 @@
       "fr": "Origines autorisées",
       "tr": "İzin verilen kaynaklar",
       "zh-CN": "允许的来源",
-      "zh-TW": "允許的來源"
+      "zh-TW": "允許的來源",
+      "id": "Origin yang Diizinkan"
     },
     "Alternatives": {
       "es": "Alternativas",
@@ -309,7 +338,8 @@
       "fr": "Alternatives",
       "tr": "Alternatifler",
       "zh-CN": "备选项",
-      "zh-TW": "替代方案"
+      "zh-TW": "替代方案",
+      "id": "Alternatif"
     },
     "Amount Spent": {
       "es": "Monto gastado",
@@ -319,7 +349,8 @@
       "fr": "Montant dépensé",
       "tr": "Harcanan tutar",
       "zh-CN": "已花费金额",
-      "zh-TW": "已花費金額"
+      "zh-TW": "已花費金額",
+      "id": "Jumlah Pengeluaran"
     },
     "Android": {
       "es": "Android",
@@ -329,7 +360,8 @@
       "fr": "Android",
       "tr": "Android",
       "zh-CN": "Android",
-      "zh-TW": "Android"
+      "zh-TW": "Android",
+      "id": "Android"
     },
     "Announce and send follow-up reminders for sales.": {
       "es": "Anuncia y envía recordatorios de seguimiento para ventas.",
@@ -339,7 +371,8 @@
       "fr": "Annoncez et envoyez des rappels de suivi pour les ventes.",
       "tr": "Satışlar için duyuru yapın ve takip hatırlatıcıları gönderin.",
       "zh-CN": "为销售活动发布公告并发送后续提醒。",
-      "zh-TW": "為銷售活動發佈公告並發送後續提醒。"
+      "zh-TW": "為銷售活動發佈公告並發送後續提醒。",
+      "id": "Umumkan dan kirim pengingat tindak lanjut untuk penjualan."
     },
     "Any/English": {
       "es": "Cualquiera/Inglés",
@@ -349,7 +382,8 @@
       "fr": "Tout/Anglais",
       "tr": "Herhangi biri/İngilizce",
       "zh-CN": "任意/英语",
-      "zh-TW": "任意/英文"
+      "zh-TW": "任意/英文",
+      "id": "Semua/Bahasa Inggris"
     },
     "API": {
       "es": "API",
@@ -359,7 +393,8 @@
       "fr": "API",
       "tr": "API",
       "zh-CN": "API",
-      "zh-TW": "API"
+      "zh-TW": "API",
+      "id": "API"
     },
     "API Reference": {
       "es": "Referencia de API",
@@ -369,7 +404,8 @@
       "fr": "Référence API",
       "tr": "API referansı",
       "zh-CN": "API 参考",
-      "zh-TW": "API 參考"
+      "zh-TW": "API 參考",
+      "id": "Referensi API"
     },
     "App ID": {
       "es": "ID de la app",
@@ -379,7 +415,8 @@
       "fr": "ID de l'app",
       "tr": "Uygulama ID",
       "zh-CN": "应用 ID",
-      "zh-TW": "應用 ID"
+      "zh-TW": "應用 ID",
+      "id": "ID Aplikasi"
     },
     "App Name": {
       "es": "Nombre de la app",
@@ -389,7 +426,8 @@
       "fr": "Nom de l'app",
       "tr": "Uygulama adı",
       "zh-CN": "应用名称",
-      "zh-TW": "應用名稱"
+      "zh-TW": "應用名稱",
+      "id": "Nama Aplikasi"
     },
     "App Version": {
       "es": "Versión de la app",
@@ -399,7 +437,8 @@
       "fr": "Version de l'app",
       "tr": "Uygulama sürümü",
       "zh-CN": "应用版本",
-      "zh-TW": "應用版本"
+      "zh-TW": "應用版本",
+      "id": "Versi Aplikasi"
     },
     "App version": {
       "es": "Versión de la app",
@@ -409,7 +448,8 @@
       "fr": "Version de l'app",
       "tr": "Uygulama sürümü",
       "zh-CN": "应用版本",
-      "zh-TW": "應用版本"
+      "zh-TW": "應用版本",
+      "id": "Versi aplikasi"
     },
     "Apply": {
       "es": "Aplicar",
@@ -419,7 +459,8 @@
       "fr": "Appliquer",
       "tr": "Uygula",
       "zh-CN": "应用",
-      "zh-TW": "套用"
+      "zh-TW": "套用",
+      "id": "Terapkan"
     },
     "Apr": {
       "es": "abr",
@@ -429,7 +470,8 @@
       "fr": "avr",
       "tr": "nis",
       "zh-CN": "4月",
-      "zh-TW": "4月"
+      "zh-TW": "4月",
+      "id": "Apr"
     },
     "April": {
       "es": "abril",
@@ -439,7 +481,8 @@
       "fr": "avril",
       "tr": "nisan",
       "zh-CN": "4月",
-      "zh-TW": "4月"
+      "zh-TW": "4月",
+      "id": "April"
     },
     "Archive": {
       "es": "Archivar",
@@ -449,7 +492,8 @@
       "fr": "Archiver",
       "tr": "Arşivle",
       "zh-CN": "归档",
-      "zh-TW": "封存"
+      "zh-TW": "封存",
+      "id": "Arsipkan"
     },
     "Archived": {
       "es": "Archivado",
@@ -459,7 +503,8 @@
       "fr": "Archivé",
       "tr": "Arşivlendi",
       "zh-CN": "已归档",
-      "zh-TW": "已封存"
+      "zh-TW": "已封存",
+      "id": "Diarsipkan"
     },
     "Are you sure?": {
       "es": "¿Estás seguro?",
@@ -469,7 +514,8 @@
       "fr": "Êtes-vous sûr ?",
       "tr": "Emin misiniz?",
       "zh-CN": "确定要继续吗？",
-      "zh-TW": "確定要繼續嗎？"
+      "zh-TW": "確定要繼續嗎？",
+      "id": "Anda yakin?"
     },
     "Attempted": {
       "es": "Intentados",
@@ -479,7 +525,8 @@
       "fr": "Tentés",
       "tr": "Denendi",
       "zh-CN": "已尝试",
-      "zh-TW": "已嘗試"
+      "zh-TW": "已嘗試",
+      "id": "Dicoba"
     },
     "Attempted Events": {
       "es": "Eventos intentados",
@@ -489,7 +536,8 @@
       "fr": "Événements tentés",
       "tr": "Denenen etkinlikler",
       "zh-CN": "尝试的事件",
-      "zh-TW": "嘗試的事件"
+      "zh-TW": "嘗試的事件",
+      "id": "Event yang Dicoba"
     },
     "Attempted Updates": {
       "es": "Actualizaciones intentadas",
@@ -499,7 +547,8 @@
       "fr": "Mises à jour tentées",
       "tr": "Denenen güncellemeler",
       "zh-CN": "尝试的更新",
-      "zh-TW": "嘗試的更新"
+      "zh-TW": "嘗試的更新",
+      "id": "Pembaruan yang Dicoba"
     },
     "Audience": {
       "es": "Audiencia",
@@ -509,7 +558,8 @@
       "fr": "Audience",
       "tr": "Hedef kitle",
       "zh-CN": "受众",
-      "zh-TW": "受眾"
+      "zh-TW": "受眾",
+      "id": "Audiens"
     },
     "Audit Logs": {
       "es": "Registros de auditoría",
