@@ -1123,7 +1123,7 @@
     "Create Template": {
       "es": "Crear plantilla",
       "ja": "テンプレートを作成",
-      "pt": "Criar modelo",
+      "pt": "Criar template",
       "ko": "템플릿 만들기",
       "fr": "Créer un modèle",
       "tr": "Şablon oluştur",
@@ -1413,7 +1413,7 @@
     "Delete Template": {
       "es": "Eliminar plantilla",
       "ja": "テンプレートを削除",
-      "pt": "Excluir modelo",
+      "pt": "Excluir template",
       "ko": "템플릿 삭제",
       "fr": "Supprimer le modèle",
       "tr": "Şablonu sil",
@@ -1633,7 +1633,7 @@
     "Edit Template": {
       "es": "Editar plantilla",
       "ja": "テンプレートを編集",
-      "pt": "Editar modelo",
+      "pt": "Editar template",
       "ko": "템플릿 편집",
       "fr": "Modifier le modèle",
       "tr": "Şablonu düzenle",
@@ -3103,7 +3103,7 @@
     "New Template": {
       "es": "Nueva plantilla",
       "ja": "新規テンプレート",
-      "pt": "Novo modelo",
+      "pt": "Novo template",
       "ko": "새 템플릿",
       "fr": "Nouveau modèle",
       "tr": "Yeni şablon",
@@ -4923,7 +4923,7 @@
     "Template Name": {
       "es": "Nombre de la plantilla",
       "ja": "テンプレート名",
-      "pt": "Nome do modelo",
+      "pt": "Nome do template",
       "ko": "템플릿 이름",
       "fr": "Nom du modèle",
       "tr": "Şablon adı",
@@ -4933,7 +4933,7 @@
     "Templates": {
       "es": "Plantillas",
       "ja": "テンプレート",
-      "pt": "Modelos",
+      "pt": "Templates",
       "ko": "템플릿",
       "fr": "Modèles",
       "tr": "Şablonlar",
@@ -5353,7 +5353,7 @@
     "Use Template": {
       "es": "Usar plantilla",
       "ja": "テンプレートを使用",
-      "pt": "Usar modelo",
+      "pt": "Usar template",
       "ko": "템플릿 사용",
       "fr": "Utiliser le modèle",
       "tr": "Şablonu kullan",
@@ -6463,7 +6463,7 @@
     "Build custom templates to re-use": {
       "ja": "再利用可能なカスタムテンプレートを作成",
       "es": "Crea plantillas personalizadas para reutilizar",
-      "pt": "Crie modelos personalizados para reutilizar",
+      "pt": "Crie templates personalizados para reutilizar",
       "ko": "재사용을 위한 맞춤 템플릿 만들기",
       "fr": "Créez des modèles personnalisés à réutiliser",
       "tr": "Yeniden kullanmak için özel şablonlar oluşturun",
@@ -6893,7 +6893,7 @@
     "Insert real-time, dynamic content from your data feeds directly into the template at the time of sending. This feature only applies to templates sent through Journeys.": {
       "ja": "送信時にデータフィードからリアルタイムの動的コンテンツをテンプレートに直接挿入します。この機能はジャーニー経由で送信されるテンプレートにのみ適用されます。",
       "es": "Inserta contenido dinámico y en tiempo real desde tus data feeds directamente en la plantilla al momento del envío. Esta función solo aplica a plantillas enviadas a través de Journeys.",
-      "pt": "Insira conteúdo dinâmico e em tempo real dos seus data feeds diretamente no modelo no momento do envio. Este recurso se aplica apenas a modelos enviados por Jornadas.",
+      "pt": "Insira conteúdo dinâmico e em tempo real dos seus data feeds diretamente no template no momento do envio. Este recurso se aplica apenas a templates enviados por Jornadas.",
       "ko": "발송 시 데이터 피드에서 실시간 동적 콘텐츠를 템플릿에 직접 삽입하세요. 이 기능은 저니를 통해 발송된 템플릿에만 적용됩니다.",
       "fr": "Insérez du contenu dynamique en temps réel depuis vos flux de données directement dans le modèle au moment de l'envoi. Cette fonctionnalité ne s'applique qu'aux modèles envoyés via Parcours.",
       "tr": "Veri akışlarınızdan gerçek zamanlı, dinamik içeriği gönderim sırasında doğrudan şablona ekleyin. Bu özellik yalnızca Yolculuklar aracılığıyla gönderilen şablonlar için geçerlidir.",
@@ -8353,7 +8353,7 @@
     "Your templates": {
       "ja": "テンプレート",
       "es": "Tus plantillas",
-      "pt": "Seus modelos",
+      "pt": "Seus templates",
       "ko": "내 템플릿",
       "fr": "Vos modèles",
       "tr": "Şablonlarınız",
@@ -8783,7 +8783,7 @@
     "Save as Template": {
       "ja": "テンプレートとして保存",
       "es": "Guardar como plantilla",
-      "pt": "Salvar como modelo",
+      "pt": "Salvar como template",
       "ko": "템플릿으로 저장",
       "fr": "Enregistrer comme modèle",
       "tr": "Şablon olarak kaydet",
@@ -12483,7 +12483,7 @@
     "start from a template": {
       "ja": "テンプレートから開始",
       "es": "comenzar desde una plantilla",
-      "pt": "começar a partir de um modelo",
+      "pt": "começar a partir de um template",
       "ko": "템플릿에서 시작",
       "fr": "partir d'un modèle",
       "tr": "şablondan başlayın",
@@ -12513,7 +12513,7 @@
     "Email Template": {
       "ja": "メールテンプレート",
       "es": "Plantilla de correo",
-      "pt": "Modelo de email",
+      "pt": "Template de email",
       "ko": "이메일 템플릿",
       "fr": "Modèle email",
       "tr": "Email şablonu",
@@ -12523,7 +12523,7 @@
     "Push Template": {
       "ja": "プッシュテンプレート",
       "es": "Plantilla de push",
-      "pt": "Modelo de push",
+      "pt": "Template de push",
       "ko": "푸시 템플릿",
       "fr": "Modèle de push",
       "tr": "Push şablonu",
@@ -12533,7 +12533,7 @@
     "SMS / RCS Template": {
       "ja": "SMS / RCSテンプレート",
       "es": "Plantilla SMS / RCS",
-      "pt": "Modelo SMS / RCS",
+      "pt": "Template SMS / RCS",
       "ko": "SMS / RCS 템플릿",
       "fr": "Modèle SMS / RCS",
       "tr": "SMS / RCS şablonu",
@@ -12543,7 +12543,7 @@
     "Template": {
       "ja": "テンプレート",
       "es": "Plantilla",
-      "pt": "Modelo",
+      "pt": "Template",
       "ko": "템플릿",
       "fr": "Modèle",
       "tr": "Şablon",
@@ -12553,7 +12553,7 @@
     "AI-generated Push Template": {
       "ja": "AI生成プッシュテンプレート",
       "es": "Plantilla de push generada por IA",
-      "pt": "Modelo de push gerado por IA",
+      "pt": "Template de push gerado por IA",
       "ko": "AI 생성 푸시 템플릿",
       "fr": "Modèle de push généré par IA",
       "tr": "Yapay zeka tarafından oluşturulan push şablonu",
@@ -12563,7 +12563,7 @@
     "Blank Push Template": {
       "ja": "空のプッシュテンプレート",
       "es": "Plantilla de push en blanco",
-      "pt": "Modelo de push em branco",
+      "pt": "Template de push em branco",
       "ko": "빈 푸시 템플릿",
       "fr": "Modèle de push vierge",
       "tr": "Boş push şablonu",
@@ -12573,7 +12573,7 @@
     "Blank SMS / RCS Template": {
       "ja": "空のSMS / RCSテンプレート",
       "es": "Plantilla SMS / RCS en blanco",
-      "pt": "Modelo SMS / RCS em branco",
+      "pt": "Template SMS / RCS em branco",
       "ko": "빈 SMS / RCS 템플릿",
       "fr": "Modèle SMS / RCS vierge",
       "tr": "Boş SMS / RCS şablonu",
@@ -12613,7 +12613,7 @@
     "New Email Template": {
       "ja": "新しいメールテンプレート",
       "es": "Nueva plantilla de correo",
-      "pt": "Novo modelo de email",
+      "pt": "Novo template de email",
       "ko": "새 이메일 템플릿",
       "fr": "Nouveau modèle email",
       "tr": "Yeni email şablonu",
@@ -12673,7 +12673,7 @@
     "New Push Template": {
       "ja": "新しいプッシュテンプレート",
       "es": "Nueva plantilla de push",
-      "pt": "Novo modelo de push",
+      "pt": "Novo template de push",
       "ko": "새 푸시 템플릿",
       "fr": "Nouveau modèle de push",
       "tr": "Yeni push şablonu",
@@ -12703,7 +12703,7 @@
     "We could not find the Template you were looking for.": {
       "ja": "お探しのテンプレートが見つかりませんでした。",
       "es": "No pudimos encontrar la plantilla que estabas buscando.",
-      "pt": "Não conseguimos encontrar o modelo que você estava procurando.",
+      "pt": "Não conseguimos encontrar o template que você estava procurando.",
       "ko": "찾으시는 템플릿을 찾을 수 없습니다.",
       "fr": "Nous n'avons pas trouvé le modèle que vous cherchiez.",
       "tr": "Aradığınız şablonu bulamadık.",
@@ -12713,7 +12713,7 @@
     "template index": {
       "ja": "テンプレート一覧",
       "es": "índice de plantillas",
-      "pt": "índice de modelos",
+      "pt": "índice de templates",
       "ko": "템플릿 인덱스",
       "fr": "index des modèles",
       "tr": "şablon dizini",
@@ -12753,7 +12753,7 @@
     "New SMS / RCS Template": {
       "ja": "新しいSMS / RCSテンプレート",
       "es": "Nueva plantilla SMS / RCS",
-      "pt": "Novo modelo SMS / RCS",
+      "pt": "Novo template SMS / RCS",
       "ko": "새 SMS / RCS 템플릿",
       "fr": "Nouveau modèle SMS / RCS",
       "tr": "Yeni SMS / RCS şablonu",
@@ -13223,7 +13223,7 @@
     "What template do you want to send?": {
       "ja": "どのテンプレートを送信しますか？",
       "es": "¿Qué plantilla quieres enviar?",
-      "pt": "Qual modelo você quer enviar?",
+      "pt": "Qual template você quer enviar?",
       "ko": "어떤 템플릿을 발송하시겠습니까?",
       "fr": "Quel modèle voulez-vous envoyer ?",
       "tr": "Hangi şablonu göndermek istiyorsunuz?",
@@ -13233,7 +13233,7 @@
     "create a new template here": {
       "ja": "ここで新しいテンプレートを作成",
       "es": "crear una nueva plantilla aquí",
-      "pt": "criar um novo modelo aqui",
+      "pt": "criar um novo template aqui",
       "ko": "여기서 새 템플릿 만들기",
       "fr": "créer un nouveau modèle ici",
       "tr": "burada yeni bir şablon oluşturun",
@@ -13433,7 +13433,7 @@
     "Template Created": {
       "ja": "テンプレートが作成されました",
       "es": "Plantilla creada",
-      "pt": "Modelo criado",
+      "pt": "Template criado",
       "ko": "템플릿 생성됨",
       "fr": "Modèle créé",
       "tr": "Şablon oluşturuldu",
@@ -14103,7 +14103,7 @@
     "Copy Email Template Address": {
       "ja": "メールテンプレートアドレスをコピー",
       "es": "Copiar dirección de plantilla de correo",
-      "pt": "Copiar endereço de modelo de email",
+      "pt": "Copiar endereço de template de email",
       "ko": "이메일 템플릿 주소 복사",
       "fr": "Copier l'adresse du modèle email",
       "tr": "Email şablonu adresini kopyala",
@@ -14123,7 +14123,7 @@
     "Forwarded Email Templates": {
       "ja": "転送されたメールテンプレート",
       "es": "Plantillas de correo reenviadas",
-      "pt": "Modelos de email encaminhados",
+      "pt": "Templates de email encaminhados",
       "ko": "전달된 이메일 템플릿",
       "fr": "Modèles email transférés",
       "tr": "Yönlendirilen email şablonları",
@@ -14163,7 +14163,7 @@
     "Incoming Email Templates": {
       "ja": "受信メールテンプレート",
       "es": "Plantillas de correo entrantes",
-      "pt": "Modelos de email recebidos",
+      "pt": "Templates de email recebidos",
       "ko": "수신 이메일 템플릿",
       "fr": "Modèles email entrants",
       "tr": "Gelen email şablonları",
@@ -14243,7 +14243,7 @@
     "Unique Email Template Email Address": {
       "ja": "一意のメールテンプレートメールアドレス",
       "es": "Dirección de correo única para plantilla de correo",
-      "pt": "Endereço único de email para modelo de email",
+      "pt": "Endereço único de email para template de email",
       "ko": "고유한 이메일 템플릿 이메일 주소",
       "fr": "Adresse email unique du modèle email",
       "tr": "Benzersiz email şablonu email adresi",
@@ -14413,7 +14413,7 @@
     "Message Reply Template": {
       "ja": "メッセージ返信テンプレート",
       "es": "Plantilla de respuesta de mensajes",
-      "pt": "Modelo de resposta de mensagens",
+      "pt": "Template de resposta de mensagens",
       "ko": "메시지 회신 템플릿",
       "fr": "Modèle de réponse au message",
       "tr": "Mesaj yanıt şablonu",
@@ -14563,7 +14563,7 @@
     "Message Prompt Template": {
       "ja": "メッセージプロンプトテンプレート",
       "es": "Plantilla de mensaje de aviso",
-      "pt": "Modelo de prompt de mensagem",
+      "pt": "Template de prompt de mensagem",
       "ko": "메시지 프롬프트 템플릿",
       "fr": "Modèle d'invite de message",
       "tr": "Mesaj istem şablonu",
@@ -14853,7 +14853,7 @@
     "When we receive unrecognized keywords from a phone number, we'll automatically reply with this template.": {
       "ja": "電話番号から認識されないキーワードを受信すると、このテンプレートで自動的に返信します。",
       "es": "Cuando recibimos palabras clave no reconocidas desde un número de teléfono, responderemos automáticamente con esta plantilla.",
-      "pt": "Quando recebermos palavras-chave não reconhecidas de um número de telefone, responderemos automaticamente com este modelo.",
+      "pt": "Quando recebermos palavras-chave não reconhecidas de um número de telefone, responderemos automaticamente com este template.",
       "ko": "전화번호에서 인식되지 않은 키워드를 수신하면 이 템플릿으로 자동 회신합니다.",
       "fr": "Lorsque nous recevons des mots-clés non reconnus depuis un numéro de téléphone, nous répondons automatiquement avec ce modèle.",
       "tr": "Bir telefon numarasından tanınmayan anahtar kelimeler aldığımızda, otomatik olarak bu şablonla yanıt vereceğiz.",
@@ -15233,7 +15233,7 @@
     "Message Template": {
       "ja": "メッセージテンプレート",
       "es": "Plantilla de mensaje",
-      "pt": "Modelo de mensagem",
+      "pt": "Template de mensagem",
       "ko": "메시지 템플릿",
       "fr": "Modèle de message",
       "tr": "Mesaj şablonu",
