@@ -17432,7 +17432,8 @@
       "fr": "Corps",
       "tr": "Gövde",
       "zh-CN": "正文",
-      "zh-TW": "正文"
+      "zh-TW": "正文",
+      "id": "Isi"
     },
     "Remove entry": {
       "ja": "エントリを削除",
@@ -17442,7 +17443,8 @@
       "fr": "Retirer l'entrée",
       "tr": "Girişi kaldır",
       "zh-CN": "移除条目",
-      "zh-TW": "移除項目"
+      "zh-TW": "移除項目",
+      "id": "Hapus entri"
     },
     "Add Header": {
       "ja": "ヘッダーを追加",
@@ -17452,7 +17454,8 @@
       "fr": "Ajouter un en-tête",
       "tr": "Başlık ekle",
       "zh-CN": "添加标头",
-      "zh-TW": "新增標頭"
+      "zh-TW": "新增標頭",
+      "id": "Tambah Header"
     },
     "Configure": {
       "ja": "設定",
@@ -17462,7 +17465,8 @@
       "fr": "Configurer",
       "tr": "Yapılandır",
       "zh-CN": "配置",
-      "zh-TW": "設定"
+      "zh-TW": "設定",
+      "id": "Konfigurasi"
     },
     "Custom Body": {
       "ja": "カスタム本文",
@@ -17472,7 +17476,8 @@
       "fr": "Corps personnalisé",
       "tr": "Özel gövde",
       "zh-CN": "自定义正文",
-      "zh-TW": "自訂正文"
+      "zh-TW": "自訂正文",
+      "id": "Isi Kustom"
     },
     "Edit Journey Webhook": {
       "ja": "ジャーニーのWebhookを編集",
@@ -17482,7 +17487,8 @@
       "fr": "Modifier le Webhook de Parcours",
       "tr": "Yolculuk Webhook'unu düzenle",
       "zh-CN": "编辑旅程 Webhook",
-      "zh-TW": "編輯旅程 Webhook"
+      "zh-TW": "編輯旅程 Webhook",
+      "id": "Edit Journey Webhook"
     },
     "Webhook Documentation": {
       "ja": "Webhookドキュメント",
@@ -17492,7 +17498,8 @@
       "fr": "Documentation Webhook",
       "tr": "Webhook Belgeleri",
       "zh-CN": "Webhook 文档",
-      "zh-TW": "Webhook 文檔"
+      "zh-TW": "Webhook 文檔",
+      "id": "Dokumentasi Webhook"
     },
     "Webhook Name": {
       "ja": "Webhook名",
@@ -17502,7 +17509,8 @@
       "fr": "Nom du Webhook",
       "tr": "Webhook Adı",
       "zh-CN": "Webhook 名称",
-      "zh-TW": "Webhook 名稱"
+      "zh-TW": "Webhook 名稱",
+      "id": "Nama Webhook"
     },
     "Arabic": {
       "ja": "アラビア語",
@@ -17512,7 +17520,8 @@
       "fr": "Arabe",
       "tr": "Arapça",
       "zh-CN": "阿拉伯语",
-      "zh-TW": "阿拉伯語"
+      "zh-TW": "阿拉伯語",
+      "id": "Arab"
     },
     "Azerbaijani": {
       "ja": "アゼルバイジャン語",
@@ -17522,7 +17531,8 @@
       "fr": "Azerbaïdjanais",
       "tr": "Azerice",
       "zh-CN": "阿塞拜疆语",
-      "zh-TW": "阿塞拜疆語"
+      "zh-TW": "阿塞拜疆語",
+      "id": "Azerbaijan"
     },
     "Bosnian": {
       "ja": "ボスニア語",
@@ -17532,7 +17542,8 @@
       "fr": "Bosniaque",
       "tr": "Boşnakça",
       "zh-CN": "波斯尼亚语",
-      "zh-TW": "波斯尼亞語"
+      "zh-TW": "波斯尼亞語",
+      "id": "Bosnia"
     },
     "Bulgarian": {
       "ja": "ブルガリア語",
@@ -17542,7 +17553,8 @@
       "fr": "Bulgare",
       "tr": "Bulgarca",
       "zh-CN": "保加利亚语",
-      "zh-TW": "保加利亞語"
+      "zh-TW": "保加利亞語",
+      "id": "Bulgaria"
     },
     "Catalan": {
       "ja": "カタロニア語",
@@ -17552,7 +17564,8 @@
       "fr": "Catalan",
       "tr": "Katalanca",
       "zh-CN": "加泰罗尼亚语",
-      "zh-TW": "加泰羅尼亞語"
+      "zh-TW": "加泰羅尼亞語",
+      "id": "Katalan"
     },
     "Chinese (Simplified)": {
       "ja": "中国語（簡体字）",
@@ -17562,7 +17575,8 @@
       "fr": "Chinois (Simplifié)",
       "tr": "Çince (Basitleştirilmiş)",
       "zh-CN": "中文（简体）",
-      "zh-TW": "中文（簡體）"
+      "zh-TW": "中文（簡體）",
+      "id": "Mandarin (Sederhana)"
     },
     "Chinese (Traditional)": {
       "ja": "中国語（繁体字）",
@@ -17572,7 +17586,8 @@
       "fr": "Chinois (Traditionnel)",
       "tr": "Çince (Geleneksel)",
       "zh-CN": "中文（繁体）",
-      "zh-TW": "中文（繁體）"
+      "zh-TW": "中文（繁體）",
+      "id": "Mandarin (Tradisional)"
     },
     "Croatian": {
       "ja": "クロアチア語",
@@ -17582,7 +17597,8 @@
       "fr": "Croate",
       "tr": "Hırvatça",
       "zh-CN": "克罗地亚语",
-      "zh-TW": "克羅地亞語"
+      "zh-TW": "克羅地亞語",
+      "id": "Kroasia"
     },
     "Czech": {
       "ja": "チェコ語",
@@ -17592,7 +17608,8 @@
       "fr": "Tchèque",
       "tr": "Çekçe",
       "zh-CN": "捷克语",
-      "zh-TW": "捷克語"
+      "zh-TW": "捷克語",
+      "id": "Ceko"
     },
     "Danish": {
       "ja": "デンマーク語",
@@ -17602,7 +17619,8 @@
       "fr": "Danois",
       "tr": "Danca",
       "zh-CN": "丹麦语",
-      "zh-TW": "丹麥語"
+      "zh-TW": "丹麥語",
+      "id": "Denmark"
     },
     "Dutch": {
       "ja": "オランダ語",
@@ -17612,7 +17630,8 @@
       "fr": "Néerlandais",
       "tr": "Felemenkçe",
       "zh-CN": "荷兰语",
-      "zh-TW": "荷蘭語"
+      "zh-TW": "荷蘭語",
+      "id": "Belanda"
     },
     "English": {
       "ja": "英語",
@@ -17622,7 +17641,8 @@
       "fr": "Anglais",
       "tr": "İngilizce",
       "zh-CN": "英语",
-      "zh-TW": "英語"
+      "zh-TW": "英語",
+      "id": "Inggris"
     },
     "Estonian": {
       "ja": "エストニア語",
@@ -17632,7 +17652,8 @@
       "fr": "Estonien",
       "tr": "Estonca",
       "zh-CN": "爱沙尼亚语",
-      "zh-TW": "愛沙尼亞語"
+      "zh-TW": "愛沙尼亞語",
+      "id": "Estonia"
     },
     "Finnish": {
       "ja": "フィンランド語",
@@ -17642,7 +17663,8 @@
       "fr": "Finnois",
       "tr": "Fince",
       "zh-CN": "芬兰语",
-      "zh-TW": "芬蘭語"
+      "zh-TW": "芬蘭語",
+      "id": "Finlandia"
     },
     "French": {
       "ja": "フランス語",
@@ -17652,7 +17674,8 @@
       "fr": "Français",
       "tr": "Fransızca",
       "zh-CN": "法语",
-      "zh-TW": "法語"
+      "zh-TW": "法語",
+      "id": "Prancis"
     },
     "Georgian": {
       "ja": "ジョージア語",
@@ -17662,7 +17685,8 @@
       "fr": "Géorgien",
       "tr": "Gürcüce",
       "zh-CN": "格鲁吉亚语",
-      "zh-TW": "格魯吉亞語"
+      "zh-TW": "格魯吉亞語",
+      "id": "Georgia"
     },
     "German": {
       "ja": "ドイツ語",
@@ -17672,7 +17696,8 @@
       "fr": "Allemand",
       "tr": "Almanca",
       "zh-CN": "德语",
-      "zh-TW": "德語"
+      "zh-TW": "德語",
+      "id": "Jerman"
     },
     "Greek": {
       "ja": "ギリシャ語",
@@ -17682,7 +17707,8 @@
       "fr": "Grec",
       "tr": "Yunanca",
       "zh-CN": "希腊语",
-      "zh-TW": "希臘語"
+      "zh-TW": "希臘語",
+      "id": "Yunani"
     },
     "Hebrew": {
       "ja": "ヘブライ語",
@@ -17692,7 +17718,8 @@
       "fr": "Hébreu",
       "tr": "İbranice",
       "zh-CN": "希伯来语",
-      "zh-TW": "希伯來語"
+      "zh-TW": "希伯來語",
+      "id": "Ibrani"
     },
     "Hindi": {
       "ja": "ヒンディー語",
@@ -17702,7 +17729,8 @@
       "fr": "Hindi",
       "tr": "Hintçe",
       "zh-CN": "印地语",
-      "zh-TW": "印地語"
+      "zh-TW": "印地語",
+      "id": "Hindi"
     },
     "Hungarian": {
       "ja": "ハンガリー語",
@@ -17712,7 +17740,8 @@
       "fr": "Hongrois",
       "tr": "Macarca",
       "zh-CN": "匈牙利语",
-      "zh-TW": "匈牙利語"
+      "zh-TW": "匈牙利語",
+      "id": "Hungaria"
     },
     "Indonesian": {
       "ja": "インドネシア語",
@@ -17722,7 +17751,8 @@
       "fr": "Indonésien",
       "tr": "Endonezce",
       "zh-CN": "印度尼西亚语",
-      "zh-TW": "印度尼西亞語"
+      "zh-TW": "印度尼西亞語",
+      "id": "Indonesia"
     },
     "Japanese": {
       "ja": "日本語",
@@ -17732,7 +17762,8 @@
       "fr": "Japonais",
       "tr": "Japonca",
       "zh-CN": "日语",
-      "zh-TW": "日語"
+      "zh-TW": "日語",
+      "id": "Jepang"
     },
     "Korean": {
       "ja": "韓国語",
@@ -17742,7 +17773,8 @@
       "fr": "Coréen",
       "tr": "Korece",
       "zh-CN": "韩语",
-      "zh-TW": "韓語"
+      "zh-TW": "韓語",
+      "id": "Korea"
     },
     "Latvian": {
       "ja": "ラトビア語",
@@ -17752,7 +17784,8 @@
       "fr": "Letton",
       "tr": "Letonca",
       "zh-CN": "拉脱维亚语",
-      "zh-TW": "拉脫維亞語"
+      "zh-TW": "拉脫維亞語",
+      "id": "Latvia"
     },
     "Lithuanian": {
       "ja": "リトアニア語",
@@ -17762,7 +17795,8 @@
       "fr": "Lituanien",
       "tr": "Litvanca",
       "zh-CN": "立陶宛语",
-      "zh-TW": "立陶宛語"
+      "zh-TW": "立陶宛語",
+      "id": "Lituania"
     },
     "Malay": {
       "ja": "マレー語",
@@ -17772,7 +17806,8 @@
       "fr": "Malais",
       "tr": "Malayca",
       "zh-CN": "马来语",
-      "zh-TW": "馬來語"
+      "zh-TW": "馬來語",
+      "id": "Melayu"
     },
     "Norwegian": {
       "ja": "ノルウェー語",
@@ -17782,7 +17817,8 @@
       "fr": "Norvégien",
       "tr": "Norveççe",
       "zh-CN": "挪威语",
-      "zh-TW": "挪威語"
+      "zh-TW": "挪威語",
+      "id": "Norwegia"
     },
     "Persian": {
       "ja": "ペルシア語",
@@ -17792,7 +17828,8 @@
       "fr": "Persan",
       "tr": "Farsça",
       "zh-CN": "波斯语",
-      "zh-TW": "波斯語"
+      "zh-TW": "波斯語",
+      "id": "Persia"
     },
     "Polish": {
       "ja": "ポーランド語",
@@ -17802,7 +17839,8 @@
       "fr": "Polonais",
       "tr": "Lehçe",
       "zh-CN": "波兰语",
-      "zh-TW": "波蘭語"
+      "zh-TW": "波蘭語",
+      "id": "Polandia"
     },
     "Punjabi": {
       "ja": "パンジャブ語",
@@ -17812,7 +17850,8 @@
       "fr": "Pendjabi",
       "tr": "Pencapça",
       "zh-CN": "旁遮普语",
-      "zh-TW": "旁遮普語"
+      "zh-TW": "旁遮普語",
+      "id": "Punjabi"
     },
     "Romanian": {
       "ja": "ルーマニア語",
@@ -17822,7 +17861,8 @@
       "fr": "Roumain",
       "tr": "Rumence",
       "zh-CN": "罗马尼亚语",
-      "zh-TW": "羅馬尼亞語"
+      "zh-TW": "羅馬尼亞語",
+      "id": "Rumania"
     },
     "Russian": {
       "ja": "ロシア語",
@@ -17832,7 +17872,8 @@
       "fr": "Russe",
       "tr": "Rusça",
       "zh-CN": "俄语",
-      "zh-TW": "俄語"
+      "zh-TW": "俄語",
+      "id": "Rusia"
     },
     "Serbian": {
       "ja": "セルビア語",
@@ -17842,7 +17883,8 @@
       "fr": "Serbe",
       "tr": "Sırpça",
       "zh-CN": "塞尔维亚语",
-      "zh-TW": "塞爾維亞語"
+      "zh-TW": "塞爾維亞語",
+      "id": "Serbia"
     },
     "Slovak": {
       "ja": "スロバキア語",
@@ -17852,7 +17894,8 @@
       "fr": "Slovaque",
       "tr": "Slovakça",
       "zh-CN": "斯洛伐克语",
-      "zh-TW": "斯洛伐克語"
+      "zh-TW": "斯洛伐克語",
+      "id": "Slowakia"
     },
     "Swedish": {
       "ja": "スウェーデン語",
@@ -17862,7 +17905,8 @@
       "fr": "Suédois",
       "tr": "İsveççe",
       "zh-CN": "瑞典语",
-      "zh-TW": "瑞典語"
+      "zh-TW": "瑞典語",
+      "id": "Swedia"
     },
     "Thai": {
       "ja": "タイ語",
@@ -17872,7 +17916,8 @@
       "fr": "Thaï",
       "tr": "Tayca",
       "zh-CN": "泰语",
-      "zh-TW": "泰語"
+      "zh-TW": "泰語",
+      "id": "Thai"
     },
     "Turkish": {
       "ja": "トルコ語",
@@ -17882,7 +17927,8 @@
       "fr": "Turc",
       "tr": "Türkçe",
       "zh-CN": "土耳其语",
-      "zh-TW": "土耳其語"
+      "zh-TW": "土耳其語",
+      "id": "Turki"
     },
     "Ukrainian": {
       "ja": "ウクライナ語",
@@ -17892,7 +17938,8 @@
       "fr": "Ukrainien",
       "tr": "Ukraynaca",
       "zh-CN": "乌克兰语",
-      "zh-TW": "烏克蘭語"
+      "zh-TW": "烏克蘭語",
+      "id": "Ukraina"
     },
     "Vietnamese": {
       "ja": "ベトナム語",
@@ -17902,7 +17949,8 @@
       "fr": "Vietnamien",
       "tr": "Vietnamca",
       "zh-CN": "越南语",
-      "zh-TW": "越南語"
+      "zh-TW": "越南語",
+      "id": "Vietnam"
     },
     "Alexa": {
       "ja": "Alexa",
@@ -17912,7 +17960,8 @@
       "fr": "Alexa",
       "tr": "Alexa",
       "zh-CN": "Alexa",
-      "zh-TW": "Alexa"
+      "zh-TW": "Alexa",
+      "id": "Alexa"
     },
     "Huawei": {
       "ja": "Huawei",
@@ -17922,7 +17971,8 @@
       "fr": "Huawei",
       "tr": "Huawei",
       "zh-CN": "Huawei",
-      "zh-TW": "Huawei"
+      "zh-TW": "Huawei",
+      "id": "Huawei"
     },
     "Windows Phone 8.0": {
       "ja": "Windows Phone 8.0",
@@ -17932,7 +17982,8 @@
       "fr": "Windows Phone 8.0",
       "tr": "Windows Phone 8.0",
       "zh-CN": "Windows Phone 8.0",
-      "zh-TW": "Windows Phone 8.0"
+      "zh-TW": "Windows Phone 8.0",
+      "id": "Windows Phone 8.0"
     },
     "days ago": {
       "ja": "日前",
