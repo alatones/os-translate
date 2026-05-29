@@ -17829,6 +17829,76 @@
       "tr": "Bildiriminizin değerini yerel istemden önce vurgulayan özel bir uygulama içi prompt ile opt-in'leri artırın.",
       "zh-CN": "通过自定义应用内提示在系统原生提示之前突出通知的价值,从而提升用户许可率。",
       "zh-TW": "透過自訂應用內提示在系統原生提示之前突顯通知的價值,從而提升用戶許可率。"
+    },
+    "Template ID": {
+      "ja": "テンプレート ID",
+      "es": "ID de Plantilla",
+      "pt": "ID do Template",
+      "ko": "템플릿 ID",
+      "fr": "ID du modèle",
+      "tr": "Şablon ID",
+      "zh-CN": "模板 ID",
+      "zh-TW": "範本 ID"
+    },
+    "Template settings": {
+      "ja": "テンプレート設定",
+      "es": "Configuración de Plantilla",
+      "pt": "Configurações de Template",
+      "ko": "템플릿 설정",
+      "fr": "Paramètres du modèle",
+      "tr": "Şablon ayarları",
+      "zh-CN": "模板设置",
+      "zh-TW": "範本設定"
+    },
+    "Template statistics": {
+      "ja": "テンプレート統計",
+      "es": "Estadísticas de Plantilla",
+      "pt": "Estatísticas de Template",
+      "ko": "템플릿 통계",
+      "fr": "Statistiques du modèle",
+      "tr": "Şablon istatistikleri",
+      "zh-CN": "模板统计",
+      "zh-TW": "範本統計"
+    },
+    "Template not used.": {
+      "ja": "テンプレートは使用されていません。",
+      "es": "Plantilla no utilizada.",
+      "pt": "Template não utilizado.",
+      "ko": "사용되지 않은 템플릿입니다.",
+      "fr": "Modèle non utilisé.",
+      "tr": "Şablon kullanılmadı.",
+      "zh-CN": "模板未使用。",
+      "zh-TW": "範本未使用。"
+    },
+    "This template was created prior to": {
+      "ja": "このテンプレートは次の日時より前に作成されました",
+      "es": "Esta Plantilla fue creada antes de",
+      "pt": "Este Template foi criado antes de",
+      "ko": "이 템플릿은 다음 시점 이전에 생성되었습니다",
+      "fr": "Ce modèle a été créé avant",
+      "tr": "Bu şablon şu tarihten önce oluşturuldu",
+      "zh-CN": "此模板创建于以下时间之前",
+      "zh-TW": "此範本建立於以下時間之前"
+    },
+    "Messages leveraging template": {
+      "ja": "このテンプレートを使用するメッセージ",
+      "es": "Mensajes que usan la Plantilla",
+      "pt": "Mensagens que usam o Template",
+      "ko": "이 템플릿을 사용하는 메시지",
+      "fr": "Messages utilisant le modèle",
+      "tr": "Şablonu kullanan mesajlar",
+      "zh-CN": "使用此模板的消息",
+      "zh-TW": "使用此範本的訊息"
+    },
+    "Ready to send? Create your first message using this template": {
+      "ja": "送信する準備はできましたか？このテンプレートを使って最初のメッセージを作成しましょう",
+      "es": "¿Listo para enviar? Crea tu primer mensaje usando esta Plantilla",
+      "pt": "Pronto para enviar? Crie sua primeira mensagem usando este Template",
+      "ko": "보내실 준비가 되셨나요? 이 템플릿을 사용해 첫 메시지를 만들어 보세요",
+      "fr": "Prêt à envoyer ? Créez votre premier message avec ce modèle",
+      "tr": "Göndermeye hazır mısın? Bu şablonu kullanarak ilk mesajını oluştur",
+      "zh-CN": "准备发送了吗?使用此模板创建你的第一条消息",
+      "zh-TW": "準備發送了嗎?使用此範本建立您的第一則訊息"
     }
   },
   "patterns": [
