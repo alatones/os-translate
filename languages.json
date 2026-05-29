@@ -13241,7 +13241,8 @@
       "fr": "DWH",
       "tr": "DWH",
       "zh-CN": "DWH",
-      "zh-TW": "DWH"
+      "zh-TW": "DWH",
+      "id": "DWH"
     },
     "Data Warehouse Event Export": {
       "ja": "データウェアハウスイベントエクスポート",
@@ -13251,7 +13252,8 @@
       "fr": "Export d'événements vers Data Warehouse",
       "tr": "Data Warehouse etkinlik dışa aktarımı",
       "zh-CN": "Data Warehouse 事件导出",
-      "zh-TW": "Data Warehouse 事件匯出"
+      "zh-TW": "Data Warehouse 事件匯出",
+      "id": "Ekspor Event Gudang Data"
     },
     "Event counts include all tracked events processed through both data warehouse exports and event streams.": {
       "ja": "イベント数には、データウェアハウスエクスポートおよびイベントストリームの両方で処理された追跡対象イベントが含まれます。",
@@ -13261,7 +13263,8 @@
       "fr": "Le nombre d'événements inclut tous les événements suivis traités à la fois via les exports vers le data warehouse et les flux d'événements.",
       "tr": "Etkinlik sayıları, hem data warehouse dışa aktarımları hem de event stream'ler aracılığıyla işlenen tüm izlenen etkinlikleri içerir.",
       "zh-CN": "事件计数包括通过数据仓库导出和事件流处理的所有跟踪事件。",
-      "zh-TW": "事件計數包括透過資料倉庫匯出和事件流處理的所有追蹤事件。"
+      "zh-TW": "事件計數包括透過資料倉庫匯出和事件流處理的所有追蹤事件。",
+      "id": "Jumlah event mencakup semua event yang dilacak yang diproses melalui ekspor gudang data dan event stream."
     },
     "Events Export Breakdown": {
       "ja": "イベントエクスポートの内訳",
@@ -13271,7 +13274,8 @@
       "fr": "Détail de l'export d'événements",
       "tr": "Etkinlik dışa aktarım dökümü",
       "zh-CN": "事件导出明细",
-      "zh-TW": "事件匯出明細"
+      "zh-TW": "事件匯出明細",
+      "id": "Rincian Ekspor Event"
     },
     "In-App Impressions": {
       "ja": "インアプリの表示回数",
@@ -13281,7 +13285,8 @@
       "fr": "Impressions in-app",
       "tr": "In-App gösterimleri",
       "zh-CN": "应用内展示",
-      "zh-TW": "應用內展示"
+      "zh-TW": "應用內展示",
+      "id": "Tayangan In-App"
     },
     "Next cycle starts on": {
       "ja": "次のサイクル開始日",
@@ -13291,7 +13296,8 @@
       "fr": "Le prochain cycle commence le",
       "tr": "Sonraki dönem şu tarihte başlar:",
       "zh-CN": "下一周期开始于",
-      "zh-TW": "下一週期開始於"
+      "zh-TW": "下一週期開始於",
+      "id": "Siklus berikutnya dimulai pada"
     },
     "Plan Type": {
       "ja": "プランタイプ",
@@ -13301,7 +13307,8 @@
       "fr": "Type de plan",
       "tr": "Plan türü",
       "zh-CN": "套餐类型",
-      "zh-TW": "方案類型"
+      "zh-TW": "方案類型",
+      "id": "Jenis Paket"
     },
     "Push Subscribers": {
       "ja": "プッシュ購読者",
@@ -13311,7 +13318,8 @@
       "fr": "Abonnés push",
       "tr": "Push aboneleri",
       "zh-CN": "推送订阅者",
-      "zh-TW": "推送訂閱者"
+      "zh-TW": "推送訂閱者",
+      "id": "Pelanggan Push"
     },
     "See Breakdown": {
       "ja": "内訳を見る",
@@ -13321,7 +13329,8 @@
       "fr": "Voir le détail",
       "tr": "Dökümü görüntüle",
       "zh-CN": "查看明细",
-      "zh-TW": "查看明細"
+      "zh-TW": "查看明細",
+      "id": "Lihat Rincian"
     },
     "See pricing and feature comparison.": {
       "ja": "料金と機能の比較を見る。",
@@ -13331,7 +13340,8 @@
       "fr": "Voir la comparaison des tarifs et fonctionnalités.",
       "tr": "Fiyat ve özellik karşılaştırmasını görüntüleyin.",
       "zh-CN": "查看价格和功能对比。",
-      "zh-TW": "查看價格和功能對比。"
+      "zh-TW": "查看價格和功能對比。",
+      "id": "Lihat perbandingan harga dan fitur."
     },
     "Streaming Events": {
       "ja": "ストリーミングイベント",
@@ -13341,7 +13351,8 @@
       "fr": "Événements en streaming",
       "tr": "Akışlı etkinlikler",
       "zh-CN": "流式事件",
-      "zh-TW": "串流事件"
+      "zh-TW": "串流事件",
+      "id": "Event Streaming"
     },
     "Subscription Cycle": {
       "ja": "購読サイクル",
@@ -13351,7 +13362,8 @@
       "fr": "Cycle d'abonnement",
       "tr": "Abonelik dönemi",
       "zh-CN": "订阅周期",
-      "zh-TW": "訂閱週期"
+      "zh-TW": "訂閱週期",
+      "id": "Siklus Berlangganan"
     },
     "Blank SMS / RCS": {
       "ja": "空のSMS / RCS",
@@ -13361,7 +13373,8 @@
       "fr": "SMS / RCS vierge",
       "tr": "Boş SMS / RCS",
       "zh-CN": "空白短信 / 富媒体短信",
-      "zh-TW": "空白短訊 / 富媒體短訊"
+      "zh-TW": "空白短訊 / 富媒體短訊",
+      "id": "SMS / RCS Kosong"
     },
     "Double opt-in": {
       "ja": "ダブルオプトイン",
@@ -13371,7 +13384,8 @@
       "fr": "Double opt-in",
       "tr": "Çift onay",
       "zh-CN": "双重确认",
-      "zh-TW": "雙重確認"
+      "zh-TW": "雙重確認",
+      "id": "Double opt-in"
     },
     "Add action": {
       "ja": "アクションを追加",
@@ -13381,7 +13395,8 @@
       "fr": "Ajouter une action",
       "tr": "Eylem ekle",
       "zh-CN": "添加操作",
-      "zh-TW": "新增操作"
+      "zh-TW": "新增操作",
+      "id": "Tambah aksi"
     },
     "Basic": {
       "ja": "ベーシック",
@@ -13391,7 +13406,8 @@
       "fr": "Basique",
       "tr": "Temel",
       "zh-CN": "基础",
-      "zh-TW": "基本"
+      "zh-TW": "基本",
+      "id": "Dasar"
     },
     "Cost guide": {
       "ja": "料金ガイド",
@@ -13401,7 +13417,8 @@
       "fr": "Guide des tarifs",
       "tr": "Maliyet kılavuzu",
       "zh-CN": "费用指南",
-      "zh-TW": "費用指南"
+      "zh-TW": "費用指南",
+      "id": "Panduan biaya"
     },
     "Create carousel": {
       "ja": "カルーセルを作成",
@@ -13411,7 +13428,8 @@
       "fr": "Créer un carrousel",
       "tr": "Karusel oluştur",
       "zh-CN": "创建轮播",
-      "zh-TW": "建立輪播"
+      "zh-TW": "建立輪播",
+      "id": "Buat carousel"
     },
     "Global:": {
       "ja": "グローバル:",
@@ -13421,7 +13439,8 @@
       "fr": "Global :",
       "tr": "Genel:",
       "zh-CN": "全球:",
-      "zh-TW": "全球："
+      "zh-TW": "全球：",
+      "id": "Global:"
     },
     "Local path or URL to image": {
       "ja": "画像へのローカルパスまたはURL",
@@ -13431,7 +13450,8 @@
       "fr": "Chemin local ou URL de l'image",
       "tr": "Görsel için yerel yol veya URL",
       "zh-CN": "图像的本地路径或 URL",
-      "zh-TW": "圖像的本地路徑或 URL"
+      "zh-TW": "圖像的本地路徑或 URL",
+      "id": "Jalur lokal atau URL ke gambar"
     },
     "RCS": {
       "ja": "RCS",
@@ -13441,7 +13461,8 @@
       "fr": "RCS",
       "tr": "RCS",
       "zh-CN": "富媒体短信",
-      "zh-TW": "富媒體短訊"
+      "zh-TW": "富媒體短訊",
+      "id": "RCS"
     },
     "RCS billing documentation": {
       "ja": "RCS課金文書",
@@ -13451,7 +13472,8 @@
       "fr": "Documentation de facturation RCS",
       "tr": "RCS faturalama dokümantasyonu",
       "zh-CN": "富媒体短信计费文档",
-      "zh-TW": "富媒體短訊計費文件"
+      "zh-TW": "富媒體短訊計費文件",
+      "id": "Dokumentasi penagihan RCS"
     },
     "Rich": {
       "ja": "リッチ",
@@ -13461,7 +13483,8 @@
       "fr": "Enrichi",
       "tr": "Zengin",
       "zh-CN": "富媒体",
-      "zh-TW": "富媒體"
+      "zh-TW": "富媒體",
+      "id": "Kaya"
     },
     "SMS fallback": {
       "ja": "SMSフォールバック",
@@ -13471,7 +13494,8 @@
       "fr": "Repli SMS",
       "tr": "SMS yedek",
       "zh-CN": "短信回退",
-      "zh-TW": "短訊回退"
+      "zh-TW": "短訊回退",
+      "id": "Fallback SMS"
     },
     "US:": {
       "ja": "米国:",
@@ -13481,7 +13505,8 @@
       "fr": "États-Unis :",
       "tr": "ABD:",
       "zh-CN": "美国:",
-      "zh-TW": "美國："
+      "zh-TW": "美國：",
+      "id": "AS:"
     },
     "Your message here": {
       "ja": "ここにメッセージを入力",
@@ -13491,7 +13516,8 @@
       "fr": "Votre message ici",
       "tr": "Mesajınız burada",
       "zh-CN": "您的消息在此处",
-      "zh-TW": "您的訊息在此處"
+      "zh-TW": "您的訊息在此處",
+      "id": "Pesan Anda di sini"
     },
     "Your title here": {
       "ja": "ここにタイトルを入力",
@@ -13501,7 +13527,8 @@
       "fr": "Votre titre ici",
       "tr": "Başlığınız burada",
       "zh-CN": "您的标题在此处",
-      "zh-TW": "您的標題在此處"
+      "zh-TW": "您的標題在此處",
+      "id": "Judul Anda di sini"
     },
     "message": {
       "ja": "メッセージ",
@@ -13511,7 +13538,8 @@
       "fr": "message",
       "tr": "mesaj",
       "zh-CN": "消息",
-      "zh-TW": "訊息"
+      "zh-TW": "訊息",
+      "id": "pesan"
     },
     "segment": {
       "ja": "セグメント",
@@ -13521,7 +13549,8 @@
       "fr": "segment",
       "tr": "segment",
       "zh-CN": "segment",
-      "zh-TW": "segment"
+      "zh-TW": "segment",
+      "id": "segment"
     },
     "From": {
       "ja": "送信元",
@@ -13531,7 +13560,8 @@
       "fr": "De",
       "tr": "Kimden",
       "zh-CN": "从",
-      "zh-TW": "從"
+      "zh-TW": "從",
+      "id": "Dari"
     },
     "Upload": {
       "ja": "アップロード",
@@ -13541,7 +13571,8 @@
       "fr": "Téléverser",
       "tr": "Yükle",
       "zh-CN": "上传",
-      "zh-TW": "上載"
+      "zh-TW": "上載",
+      "id": "Unggah"
     },
     "Contact us": {
       "ja": "お問い合わせ",
@@ -13551,7 +13582,8 @@
       "fr": "Nous contacter",
       "tr": "Bizimle iletişime geçin",
       "zh-CN": "联系我们",
-      "zh-TW": "聯絡我們"
+      "zh-TW": "聯絡我們",
+      "id": "Hubungi kami"
     },
     "1. Format a CSV": {
       "ja": "1. CSVをフォーマット",
@@ -13561,7 +13593,8 @@
       "fr": "1. Formater un CSV",
       "tr": "1. Bir CSV biçimlendirin",
       "zh-CN": "1. 格式化 CSV",
-      "zh-TW": "1. 格式化 CSV"
+      "zh-TW": "1. 格式化 CSV",
+      "id": "1. Format CSV"
     },
     "2. Upload CSV": {
       "ja": "2. CSVをアップロード",
@@ -13571,7 +13604,8 @@
       "fr": "2. Importer le CSV",
       "tr": "2. CSV yükleyin",
       "zh-CN": "2. 上传 CSV",
-      "zh-TW": "2. 上載 CSV"
+      "zh-TW": "2. 上載 CSV",
+      "id": "2. Unggah CSV"
     },
     "3. Apply Liquid Syntax": {
       "ja": "3. Liquid構文を適用",
@@ -13581,7 +13615,8 @@
       "fr": "3. Appliquer la syntaxe Liquid",
       "tr": "3. Liquid sözdizimini uygulayın",
       "zh-CN": "3. 应用 Liquid 语法",
-      "zh-TW": "3. 套用 Liquid 語法"
+      "zh-TW": "3. 套用 Liquid 語法",
+      "id": "3. Terapkan Sintaks Liquid"
     },
     "Copy and paste the following": {
       "ja": "次をコピー＆ペーストしてください",
@@ -13591,7 +13626,8 @@
       "fr": "Copiez et collez ce qui suit",
       "tr": "Aşağıdakini kopyalayıp yapıştırın",
       "zh-CN": "复制并粘贴以下内容",
-      "zh-TW": "複製並貼上以下內容"
+      "zh-TW": "複製並貼上以下內容",
+      "id": "Salin dan tempel berikut ini"
     },
     "Dynamic Content documentation": {
       "ja": "ダイナミックコンテンツ文書",
@@ -13601,7 +13637,8 @@
       "fr": "Documentation du contenu dynamique",
       "tr": "Dinamik içerik dokümantasyonu",
       "zh-CN": "动态内容文档",
-      "zh-TW": "動態內容文件"
+      "zh-TW": "動態內容文件",
+      "id": "Dokumentasi Konten Dinamis"
     },
     "Dynamic content allows you to build personalized messages with specific content for different audience groups. Using": {
       "ja": "ダイナミックコンテンツを使うと、オーディエンスグループごとに特定のコンテンツを使った個別化メッセージを作成できます。使用方法:",
@@ -13611,7 +13648,8 @@
       "fr": "Le contenu dynamique vous permet de créer des messages personnalisés avec du contenu spécifique pour différents groupes d'audience. En utilisant",
       "tr": "Dinamik içerik, farklı hedef kitle grupları için özel içerikle kişiselleştirilmiş mesajlar oluşturmanıza olanak tanır. Şunu kullanarak:",
       "zh-CN": "动态内容让您能够为不同的受众群体构建带有特定内容的个性化消息。使用",
-      "zh-TW": "動態內容讓您能夠為不同的受眾群體建立帶有特定內容的個人化訊息。使用"
+      "zh-TW": "動態內容讓您能夠為不同的受眾群體建立帶有特定內容的個人化訊息。使用",
+      "id": "Konten dinamis memungkinkan Anda membangun pesan yang dipersonalisasi dengan konten khusus untuk kelompok audiens yang berbeda. Menggunakan"
     },
     "Empty state portrayed as a ghost": {
       "ja": "ゴーストとして表現された空の状態",
@@ -13621,7 +13659,8 @@
       "fr": "État vide représenté par un fantôme",
       "tr": "Hayalet olarak temsil edilen boş durum",
       "zh-CN": "以幽灵形象描绘的空状态",
-      "zh-TW": "以幽靈形象描繪的空狀態"
+      "zh-TW": "以幽靈形象描繪的空狀態",
+      "id": "Status kosong digambarkan sebagai hantu"
     },
     "Fallback documentation": {
       "ja": "フォールバック文書",
@@ -13631,7 +13670,8 @@
       "fr": "Documentation de fallback",
       "tr": "Yedek dokümantasyonu",
       "zh-CN": "回退文档",
-      "zh-TW": "回退文件"
+      "zh-TW": "回退文件",
+      "id": "Dokumentasi fallback"
     },
     "Start from scratch or": {
       "ja": "ゼロから始めるか、",
@@ -13641,7 +13681,8 @@
       "fr": "Partir de zéro ou",
       "tr": "Sıfırdan başlayın ya da",
       "zh-CN": "从零开始或",
-      "zh-TW": "從零開始或"
+      "zh-TW": "從零開始或",
+      "id": "Mulai dari awal atau"
     },
     "You haven't added any dynamic content yet": {
       "ja": "まだダイナミックコンテンツを追加していません",
@@ -13651,7 +13692,8 @@
       "fr": "Vous n'avez encore ajouté aucun contenu dynamique",
       "tr": "Henüz dinamik içerik eklemediniz",
       "zh-CN": "您还没有添加任何动态内容",
-      "zh-TW": "您還沒有新增任何動態內容"
+      "zh-TW": "您還沒有新增任何動態內容",
+      "id": "Anda belum menambahkan konten dinamis apa pun"
     },
     "Your message will start sending immediately and your message throughput is 1 message per second.": {
       "ja": "メッセージは即時送信を開始し、スループットは毎秒1メッセージです。",
@@ -13661,7 +13703,8 @@
       "fr": "Votre message commencera à être envoyé immédiatement et votre débit est de 1 message par seconde.",
       "tr": "Mesajınız hemen gönderilmeye başlanacak ve mesaj iletim hızınız saniyede 1 mesajdır.",
       "zh-CN": "您的消息将立即开始发送，消息吞吐量为每秒 1 条消息。",
-      "zh-TW": "您的訊息將立即開始發送，訊息吞吐量為每秒 1 條訊息。"
+      "zh-TW": "您的訊息將立即開始發送，訊息吞吐量為每秒 1 條訊息。",
+      "id": "Pesan Anda akan mulai dikirim segera dan throughput pesan Anda adalah 1 pesan per detik."
     },
     "if you need to increase your throughput": {
       "ja": "スループットを上げる必要がある場合",
@@ -13671,7 +13714,8 @@
       "fr": "si vous avez besoin d'augmenter votre débit",
       "tr": "iletim hızınızı artırmanız gerekiyorsa",
       "zh-CN": "如果您需要提高吞吐量",
-      "zh-TW": "如果您需要提高吞吐量"
+      "zh-TW": "如果您需要提高吞吐量",
+      "id": "jika Anda perlu meningkatkan throughput Anda"
     },
     "into the content body of your message. Replace the file name, section name, and user property with what you've uploaded. As always, be sure to set a fallback.": {
       "ja": "をメッセージ本文に入れます。ファイル名、セクション名、ユーザープロパティをアップロードしたものに置き換えてください。フォールバックを設定することを忘れないでください。",
@@ -13681,7 +13725,8 @@
       "fr": "dans le corps du contenu de votre message. Remplacez le nom du fichier, le nom de la section et la propriété utilisateur par ce que vous avez téléversé. Comme toujours, pensez à définir une valeur de repli.",
       "tr": "mesajınızın içerik gövdesine. Dosya adını, bölüm adını ve kullanıcı özelliğini yüklediğiniz içerikle değiştirin. Her zaman olduğu gibi, bir yedek belirlediğinizden emin olun.",
       "zh-CN": "插入消息的内容主体。将文件名、章节名和用户属性替换为您上传的内容。一如既往，请务必设置回退值。",
-      "zh-TW": "插入訊息的內容主體。將檔案名、章節名和用戶屬性替換為您上載的內容。一如既往，請務必設定回退值。"
+      "zh-TW": "插入訊息的內容主體。將檔案名、章節名和用戶屬性替換為您上載的內容。一如既往，請務必設定回退值。",
+      "id": "ke dalam isi konten pesan Anda. Ganti nama file, nama bagian, dan properti pengguna dengan apa yang telah Anda unggah. Seperti biasa, pastikan untuk menetapkan fallback."
     },
     "start from a template": {
       "ja": "テンプレートから開始",
@@ -13691,7 +13736,8 @@
       "fr": "partir d'un modèle",
       "tr": "şablondan başlayın",
       "zh-CN": "从模板开始",
-      "zh-TW": "從範本開始"
+      "zh-TW": "從範本開始",
+      "id": "mulai dari template"
     },
     "Select Segment...": {
       "ja": "セグメントを選択...",
@@ -13701,7 +13747,8 @@
       "fr": "Sélectionner un segment...",
       "tr": "Segment seç...",
       "zh-CN": "选择用户分群...",
-      "zh-TW": "選擇用戶分群..."
+      "zh-TW": "選擇用戶分群...",
+      "id": "Pilih Segment..."
     },
     "Apns Delegate Never Fired": {
       "ja": "APNsデリゲートが発火しませんでした",
@@ -13711,7 +13758,8 @@
       "fr": "APNs Delegate ne s'est jamais déclenché",
       "tr": "APNs Delegate hiç tetiklenmedi",
       "zh-CN": "APNs Delegate 从未触发",
-      "zh-TW": "APNs Delegate 從未觸發"
+      "zh-TW": "APNs Delegate 從未觸發",
+      "id": "Delegate APNs Tidak Pernah Dipicu"
     },
     "Email Template": {
       "ja": "メールテンプレート",
