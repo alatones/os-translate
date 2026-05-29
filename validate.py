@@ -182,6 +182,14 @@ def check_cross_contamination(langs_data):
         ("is True", "True"),
         ("is False", "False"),
         ("is true", "true"),
+        # Indonesian: no pluralization of loanwords; status labels collapse.
+        ("Filters", "Filter"),      # id: plural drops; Filter is correct singular
+        ("Errored", "Error"),       # id: status 'Errored' = 'Error' (same word)
+        ("Drafts", "Draf"),         # id: 'Draf' is both singular and plural
+        ("Labels", "Label"),        # id: plural drops; Label is correct singular
+        ("Platforms", "Platform"),  # id: plural drops; Platform is correct singular
+        ("Segments", "Segment"),    # id: OneSignal feature; plural form stays Latin singular
+        ("Errors", "Error"),        # id: plural drops; Error is correct singular
     }
     violations = []
     translations = langs_data["translations"]

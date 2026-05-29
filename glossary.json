@@ -36,7 +36,8 @@
       "zh-TW": [
         "旅程",
         "Journey"
-      ]
+      ],
+      "id": "Journey"
     },
     "Journeys": {
       "ja": "ジャーニー",
@@ -70,6 +71,10 @@
         "旅程",
         "Journeys",
         "Journey"
+      ],
+      "id": [
+        "Journeys",
+        "Journey"
       ]
     },
     "Segment": {
@@ -94,7 +99,8 @@
         "用戶分群",
         "分群",
         "Segment"
-      ]
+      ],
+      "id": "Segment"
     },
     "Segments": {
       "ja": "セグメント",
@@ -117,7 +123,8 @@
         "分群",
         "Segments",
         "Segment"
-      ]
+      ],
+      "id": "Segment"
     },
     "Subscription": {
       "ja": "購読",
@@ -141,7 +148,8 @@
         "aboneli"
       ],
       "zh-CN": "订阅",
-      "zh-TW": "訂閱"
+      "zh-TW": "訂閱",
+      "id": "Berlangganan"
     },
     "Subscriptions": {
       "ja": "購読",
@@ -163,7 +171,8 @@
         "Abonelik"
       ],
       "zh-CN": "订阅",
-      "zh-TW": "訂閱"
+      "zh-TW": "訂閱",
+      "id": "Berlangganan"
     },
     "Subscriber": {
       "ja": "購読者",
@@ -179,7 +188,8 @@
       "zh-TW": [
         "訂閱者",
         "用戶"
-      ]
+      ],
+      "id": "Pelanggan"
     },
     "Subscribers": {
       "ja": "購読者",
@@ -198,7 +208,8 @@
       "zh-TW": [
         "訂閱者",
         "用戶"
-      ]
+      ],
+      "id": "Pelanggan"
     },
     "Outcome": {
       "ja": [
@@ -218,7 +229,8 @@
       "zh-TW": [
         "結果",
         "成果"
-      ]
+      ],
+      "id": "Hasil"
     },
     "Outcomes": {
       "ja": [
@@ -240,7 +252,8 @@
       "zh-TW": [
         "結果",
         "成果"
-      ]
+      ],
+      "id": "Hasil"
     },
     "In-App": {
       "ja": [
@@ -279,7 +292,8 @@
       "zh-TW": [
         "應用內",
         "In-App"
-      ]
+      ],
+      "id": "In-App"
     },
     "Push": {
       "ja": "プッシュ",
@@ -294,7 +308,8 @@
       ],
       "note": "Push-to-Start / Push-to-Update are Apple compound terms (proper-noun-like) — kept Latin in all langs and exempted from the Push lock.",
       "zh-CN": "推送",
-      "zh-TW": "推送"
+      "zh-TW": "推送",
+      "id": "Push"
     },
     "Email": {
       "ja": "メール",
@@ -331,7 +346,8 @@
         "電郵",
         "電子郵件",
         "Email"
-      ]
+      ],
+      "id": "Email"
     },
     "SMS": {
       "ja": "SMS",
@@ -347,7 +363,8 @@
       "zh-TW": [
         "短訊",
         "SMS"
-      ]
+      ],
+      "id": "SMS"
     },
     "RCS": {
       "ja": "RCS",
@@ -363,7 +380,8 @@
       "zh-TW": [
         "富媒體短訊",
         "RCS"
-      ]
+      ],
+      "id": "RCS"
     },
     "Live Activity": {
       "ja": "ライブアクティビティ",
@@ -390,7 +408,8 @@
         "即時動態",
         "即時活動",
         "Live Activity"
-      ]
+      ],
+      "id": "Live Activity"
     },
     "Live Activities": {
       "ja": "ライブアクティビティ",
@@ -417,7 +436,8 @@
         "即時動態",
         "即時活動",
         "Live Activities"
-      ]
+      ],
+      "id": "Live Activities"
     },
     "Data Feed": {
       "ja": "データフィード",
@@ -443,7 +463,8 @@
       "zh-TW": [
         "資料串流",
         "Data Feed"
-      ]
+      ],
+      "id": "Data Feed"
     },
     "Data Feeds": {
       "ja": "データフィード",
@@ -471,6 +492,11 @@
         "資料串流",
         "Data Feeds",
         "Data Feed"
+      ],
+      "id": [
+        "Data Feeds",
+        "Data Feed",
+        "data feed"
       ]
     },
     "Webhook": {
@@ -482,7 +508,8 @@
       "fr": "Webhook",
       "tr": "Webhook",
       "zh-CN": "Webhook",
-      "zh-TW": "Webhook"
+      "zh-TW": "Webhook",
+      "id": "Webhook"
     },
     "Webhooks": {
       "ja": "Webhook",
@@ -495,7 +522,8 @@
         "Webhook"
       ],
       "zh-CN": "Webhook",
-      "zh-TW": "Webhook"
+      "zh-TW": "Webhook",
+      "id": "Webhook"
     },
     "Template": {
       "ja": "テンプレート",
@@ -506,7 +534,8 @@
       "tr": "Şablon",
       "note": "pt: stays Latin per the BR Portuguese reviewer — 'Template' reads more natural/idiomatic than 'Modelo' in Brazilian SaaS UI. Same Latin-product-feature pattern as the es calls (Custom Events, Event Stream, Data Feed, etc.).",
       "zh-CN": "模板",
-      "zh-TW": "範本"
+      "zh-TW": "範本",
+      "id": "Template"
     },
     "Templates": {
       "ja": "テンプレート",
@@ -519,7 +548,12 @@
         "Şablon"
       ],
       "zh-CN": "模板",
-      "zh-TW": "範本"
+      "zh-TW": "範本",
+      "id": [
+        "Templates",
+        "Template",
+        "template"
+      ]
     },
     "Audience": {
       "ja": "オーディエンス",
@@ -538,7 +572,8 @@
         "kitle"
       ],
       "zh-CN": "受众",
-      "zh-TW": "受眾"
+      "zh-TW": "受眾",
+      "id": "Audiens"
     },
     "Campaign": {
       "ja": "キャンペーン",
@@ -554,7 +589,8 @@
       "zh-TW": [
         "營銷活動",
         "活動"
-      ]
+      ],
+      "id": "Kampanye"
     },
     "Tag": {
       "ja": "タグ",
@@ -571,7 +607,8 @@
         "etiket"
       ],
       "zh-CN": "标签",
-      "zh-TW": "標籤"
+      "zh-TW": "標籤",
+      "id": "Tag"
     },
     "Tags": {
       "ja": "タグ",
@@ -587,7 +624,12 @@
         "Etiket"
       ],
       "zh-CN": "标签",
-      "zh-TW": "標籤"
+      "zh-TW": "標籤",
+      "id": [
+        "Tags",
+        "Tag",
+        "tag"
+      ]
     },
     "Data Tag": {
       "ja": "データタグ",
@@ -609,7 +651,8 @@
         "Veri Etiketi"
       ],
       "zh-CN": "数据标签",
-      "zh-TW": "資料標籤"
+      "zh-TW": "資料標籤",
+      "id": "Tag Data"
     },
     "Data Tags": {
       "ja": "データタグ",
@@ -631,7 +674,8 @@
         "Veri Etiketleri"
       ],
       "zh-CN": "数据标签",
-      "zh-TW": "資料標籤"
+      "zh-TW": "資料標籤",
+      "id": "Tag Data"
     },
     "Notification": {
       "ja": "通知",
@@ -650,7 +694,16 @@
       ],
       "tr": "Bildirim",
       "zh-CN": "通知",
-      "zh-TW": "通知"
+      "zh-TW": "通知",
+      "id": "Notifikasi",
+      "_skip_keys": [
+        "Push Notification",
+        "Push Notifications",
+        "Push notifications",
+        "Send push notification",
+        "Any push notification",
+        "Push notifications - Not configured - Click to set up"
+      ]
     },
     "Notifications": {
       "ja": "通知",
@@ -663,7 +716,13 @@
         "Bildirim"
       ],
       "zh-CN": "通知",
-      "zh-TW": "通知"
+      "zh-TW": "通知",
+      "id": "Notifikasi",
+      "_skip_keys": [
+        "Push Notifications",
+        "Push notifications",
+        "Push notifications - Not configured - Click to set up"
+      ]
     },
     "Save": {
       "ja": "保存",
@@ -690,7 +749,8 @@
         "kaydedil"
       ],
       "zh-CN": "保存",
-      "zh-TW": "儲存"
+      "zh-TW": "儲存",
+      "id": "Simpan"
     },
     "Send": {
       "ja": "送信",
@@ -734,7 +794,16 @@
         "gönderim"
       ],
       "zh-CN": "发送",
-      "zh-TW": "發送"
+      "zh-TW": "發送",
+      "id": [
+        "Kirim",
+        "kirim",
+        "mengirim"
+      ],
+      "_skip_keys": [
+        "Send History",
+        "Data Feeds allow you to dynamically fetch data from your APIs at send time."
+      ]
     },
     "Sent": {
       "ja": [
@@ -777,6 +846,15 @@
       "zh-TW": [
         "已發送",
         "發送"
+      ],
+      "id": [
+        "Terkirim",
+        "terkirim"
+      ],
+      "_skip_keys": [
+        "Insert real-time, dynamic content from your data feeds directly into the template at the time of sending. This feature only applies to templates sent through Journeys.",
+        "Messages sent through our API or WordPress Plugin can be found in",
+        "Messages sent through our API can be found in"
       ]
     },
     "Delete": {
@@ -811,7 +889,8 @@
         "Press enter or space to select a node. You can then use the arrow keys to move the node around. Press delete to remove it and escape to cancel.",
         "Press enter or space to select an edge. You can then press delete to remove it or escape to cancel."
       ],
-      "zh-TW": "刪除"
+      "zh-TW": "刪除",
+      "id": "Hapus"
     },
     "Edit": {
       "ja": "編集",
@@ -840,7 +919,8 @@
         "Düzenleme"
       ],
       "zh-CN": "编辑",
-      "zh-TW": "編輯"
+      "zh-TW": "編輯",
+      "id": "Edit"
     },
     "Cancel": {
       "ja": "キャンセル",
@@ -864,7 +944,11 @@
         "iptal"
       ],
       "zh-CN": "取消",
-      "zh-TW": "取消"
+      "zh-TW": "取消",
+      "id": [
+        "Batalkan",
+        "Batal"
+      ]
     },
     "Confirm": {
       "ja": "確認",
@@ -899,6 +983,10 @@
       "zh-TW": [
         "確認",
         "確定"
+      ],
+      "id": "Konfirmasi",
+      "_skip_keys": [
+        "Did not confirm receipt"
       ]
     },
     "Create": {
@@ -933,7 +1021,8 @@
         "Oluşturma"
       ],
       "zh-CN": "创建",
-      "zh-TW": "建立"
+      "zh-TW": "建立",
+      "id": "Buat"
     },
     "Add": {
       "ja": "追加",
@@ -960,9 +1049,12 @@
       ],
       "zh-CN": "添加",
       "_skip_keys": [
-        "To manage what days and times this message sends at, add a"
+        "To manage what days and times this message sends at, add a",
+        "No groups created. Create a group to add notification channels",
+        "When we receive opt-out keywords, we'll automatically add the user to the phone number or message service's blocklist."
       ],
-      "zh-TW": "新增"
+      "zh-TW": "新增",
+      "id": "Tambah"
     },
     "Remove": {
       "ja": "削除",
@@ -995,7 +1087,8 @@
       "zh-TW": [
         "移除",
         "刪除"
-      ]
+      ],
+      "id": "Hapus"
     },
     "Update": {
       "_skip_keys": [
@@ -1027,7 +1120,8 @@
         "Güncelleme"
       ],
       "zh-CN": "更新",
-      "zh-TW": "更新"
+      "zh-TW": "更新",
+      "id": "Perbarui"
     },
     "Import": {
       "ja": "インポート",
@@ -1059,7 +1153,8 @@
         "içe aktar"
       ],
       "zh-CN": "导入",
-      "zh-TW": "匯入"
+      "zh-TW": "匯入",
+      "id": "Impor"
     },
     "Export": {
       "ja": [
@@ -1093,7 +1188,8 @@
         "Dışa aktarma"
       ],
       "zh-CN": "导出",
-      "zh-TW": "匯出"
+      "zh-TW": "匯出",
+      "id": "Ekspor"
     },
     "Settings": {
       "ja": "設定",
@@ -1116,7 +1212,8 @@
         "Ayar"
       ],
       "zh-CN": "设置",
-      "zh-TW": "設定"
+      "zh-TW": "設定",
+      "id": "Pengaturan"
     },
     "Search": {
       "ja": "検索",
@@ -1141,7 +1238,8 @@
         "Arayın"
       ],
       "zh-CN": "搜索",
-      "zh-TW": "搜尋"
+      "zh-TW": "搜尋",
+      "id": "Cari"
     },
     "Filter": {
       "ja": [
@@ -1178,7 +1276,8 @@
         "篩選",
         "篩選器",
         "篩選條件"
-      ]
+      ],
+      "id": "Filter"
     },
     "Filters": {
       "ja": [
@@ -1214,7 +1313,8 @@
         "篩選",
         "篩選器",
         "篩選條件"
-      ]
+      ],
+      "id": "Filter"
     },
     "Active": {
       "ja": "アクティブ",
@@ -1260,7 +1360,8 @@
         "活躍",
         "已啟用",
         "啟用"
-      ]
+      ],
+      "id": "Aktif"
     },
     "Inactive": {
       "ja": "非アクティブ",
@@ -1289,7 +1390,8 @@
         "İnaktif"
       ],
       "zh-CN": "不活跃",
-      "zh-TW": "不活躍"
+      "zh-TW": "不活躍",
+      "id": "Tidak Aktif"
     },
     "Disabled": {
       "ja": "無効",
@@ -1327,7 +1429,8 @@
       "zh-TW": [
         "已停用",
         "停用"
-      ]
+      ],
+      "id": "Dinonaktifkan"
     },
     "Paused": {
       "ja": "一時停止中",
@@ -1362,7 +1465,8 @@
       "zh-TW": [
         "已暫停",
         "暫停"
-      ]
+      ],
+      "id": "Dijeda"
     },
     "Failed": {
       "ja": "失敗",
@@ -1401,7 +1505,8 @@
       "zh-TW": [
         "失敗",
         "已失敗"
-      ]
+      ],
+      "id": "Gagal"
     },
     "Draft": {
       "ja": "下書き",
@@ -1411,7 +1516,8 @@
       "fr": "Brouillon",
       "tr": "Taslak",
       "zh-CN": "草稿",
-      "zh-TW": "草稿"
+      "zh-TW": "草稿",
+      "id": "Draf"
     },
     "Archived": {
       "ja": "アーカイブ済み",
@@ -1435,7 +1541,8 @@
       "zh-TW": [
         "已封存",
         "封存"
-      ]
+      ],
+      "id": "Diarsipkan"
     },
     "Completed": {
       "ja": "完了",
@@ -1469,7 +1576,8 @@
       "zh-TW": [
         "已完成",
         "完成"
-      ]
+      ],
+      "id": "Selesai"
     },
     "Delivered": {
       "ja": [
@@ -1521,6 +1629,13 @@
       "zh-TW": [
         "已送達",
         "送達"
+      ],
+      "id": [
+        "Tersampaikan",
+        "tersampaikan"
+      ],
+      "_skip_keys": [
+        "You may disable this app to prevent new and scheduled notifications from being delivered. Apps you manually disable can be instantly re-enabled at any time."
       ]
     },
     "Delivery": {
@@ -1540,7 +1655,15 @@
       "_skip_keys": [
         "Delivery",
         "Close Delivery menu",
-        "Open Delivery menu"
+        "Open Delivery menu",
+        "Delivery Rate",
+        "Intelligent Delivery",
+        "You may disable this app to prevent new and scheduled notifications from being delivered. Apps you manually disable can be instantly re-enabled at any time.",
+        "Delivery time",
+        "3. Delivery Schedule",
+        "4. Delivery Schedule",
+        "5. Delivery Schedule",
+        "Delivery schedule"
       ],
       "note": "es: Two stacked rules from the Chilean Spanish reviewer. (1) KPI/feature labels stay Latin: 'Delivery Rate', 'Intelligent Delivery', 'Delivery time', 'Delivery Schedule'. (2) Status / count / event labels use the 'Entrega/Entregado' family — preserves the Sent (Enviado) vs. Delivered (Entregado) distinction that exists in the product. The verb 'entregar' and body-copy noun 'entrega' translate normally; multiple forms are listed as acceptable here so the validator accepts whichever fits the context. Latin 'Delivery' kept in the alt list so the four locked compounds (Delivery Rate, etc.) still pass the parent check. tr: bare 'Delivery' (menu item) and 'Close Delivery menu' (its aria-label) are exempted via _skip_keys — the Turkish reviewer renamed the menu to 'Bildirim Geçmişi' (Notification History) to describe what the page actually shows.",
       "fr": [
@@ -1563,6 +1686,11 @@
       "zh-TW": [
         "送達",
         "傳送"
+      ],
+      "id": [
+        "Pengiriman",
+        "Tersampaikan",
+        "tersampaikan"
       ]
     },
     "Delivery Rate": {
@@ -1577,19 +1705,23 @@
         "Teslimat oranı"
       ],
       "zh-CN": "送达率",
-      "zh-TW": "送達率"
+      "zh-TW": "送達率",
+      "id": "Delivery Rate"
     },
     "Intelligent Delivery": {
       "es": "Intelligent Delivery",
-      "note": "es: Product feature name stays Latin (the Chilean Spanish reviewer). Same pattern as Journey/Live Activity."
+      "note": "es: Product feature name stays Latin (the Chilean Spanish reviewer). Same pattern as Journey/Live Activity.",
+      "id": "Intelligent Delivery"
     },
     "Delivery time": {
       "es": "Delivery time",
-      "note": "es: Setting label stays Latin (the Chilean Spanish reviewer)."
+      "note": "es: Setting label stays Latin (the Chilean Spanish reviewer).",
+      "id": "Delivery time"
     },
     "Delivery Schedule": {
       "es": "Delivery Schedule",
-      "note": "es: Section heading stays Latin (the Chilean Spanish reviewer). Numbered variants ('3. Delivery Schedule' etc.) inherit via word-boundary match."
+      "note": "es: Section heading stays Latin (the Chilean Spanish reviewer). Numbered variants ('3. Delivery Schedule' etc.) inherit via word-boundary match.",
+      "id": "Delivery Schedule"
     },
     "Click-through Rate": {
       "ja": "クリック率",
@@ -1599,7 +1731,8 @@
       "fr": "Taux de clics",
       "tr": "Tıklama oranı",
       "zh-CN": "点击率",
-      "zh-TW": "點擊率"
+      "zh-TW": "點擊率",
+      "id": "Tingkat Klik"
     },
     "CTR": {
       "ja": [
@@ -1628,7 +1761,8 @@
         "點擊率",
         "CTR"
       ],
-      "note": "Click-through rate. East Asian languages translate; European languages keep CTR (industry standard)."
+      "note": "Click-through rate. East Asian languages translate; European languages keep CTR (industry standard).",
+      "id": "CTR"
     },
     "Open Rate": {
       "ja": "開封率",
@@ -1638,7 +1772,8 @@
       "fr": "Taux d'ouverture",
       "tr": "Açılma oranı",
       "zh-CN": "打开率",
-      "zh-TW": "開啟率"
+      "zh-TW": "開啟率",
+      "id": "Tingkat Buka"
     },
     "Conversion": {
       "ja": "コンバージョン",
@@ -1660,7 +1795,8 @@
         "dönüşüm"
       ],
       "zh-CN": "转化",
-      "zh-TW": "轉換"
+      "zh-TW": "轉換",
+      "id": "Konversi"
     },
     "Recipients": {
       "ja": [
@@ -1686,7 +1822,8 @@
         "alıcı"
       ],
       "zh-CN": "收件人",
-      "zh-TW": "收件人"
+      "zh-TW": "收件人",
+      "id": "Penerima"
     },
     "Sender": {
       "ja": [
@@ -1711,7 +1848,8 @@
         "gönderen"
       ],
       "zh-CN": "发件人",
-      "zh-TW": "發件人"
+      "zh-TW": "發件人",
+      "id": "Pengirim"
     },
     "Senders": {
       "ja": [
@@ -1736,7 +1874,8 @@
         "Gönderen"
       ],
       "zh-CN": "发件人",
-      "zh-TW": "發件人"
+      "zh-TW": "發件人",
+      "id": "Pengirim"
     },
     "App": {
       "ja": "アプリ",
@@ -1765,6 +1904,10 @@
       ],
       "zh-TW": [
         "應用",
+        "App"
+      ],
+      "id": [
+        "Aplikasi",
         "App"
       ]
     },
@@ -1796,23 +1939,35 @@
       "zh-TW": [
         "應用",
         "App"
+      ],
+      "id": [
+        "Aplikasi",
+        "Apps"
       ]
     },
     "Custom Event": {
       "es": "Custom Event",
-      "note": "es: Stays Latin per the Chilean Spanish reviewer. OneSignal product feature; Spanish marketers reach for the English form by default — same pattern as Journey, Live Activity, Data Feed, Delivery Rate, Intelligent Delivery."
+      "note": "es: Stays Latin per the Chilean Spanish reviewer. OneSignal product feature; Spanish marketers reach for the English form by default — same pattern as Journey, Live Activity, Data Feed, Delivery Rate, Intelligent Delivery.",
+      "id": "Custom Event"
     },
     "Custom Events": {
       "es": "Custom Events",
-      "note": "es: See 'Custom Event'. Plural form locked separately because the glossary's word-boundary match keeps singular/plural patterns independent."
+      "note": "es: See 'Custom Event'. Plural form locked separately because the glossary's word-boundary match keeps singular/plural patterns independent.",
+      "id": "Custom Events"
     },
     "Event Stream": {
       "es": "Event Stream",
-      "note": "es: Stays Latin per the Chilean Spanish reviewer. OneSignal product feature — same pattern as Custom Events / Data Feed / etc."
+      "note": "es: Stays Latin per the Chilean Spanish reviewer. OneSignal product feature — same pattern as Custom Events / Data Feed / etc.",
+      "id": "Event Stream"
     },
     "Event Streams": {
       "es": "Event Streams",
-      "note": "es: See 'Event Stream'. Plural form locked separately."
+      "note": "es: See 'Event Stream'. Plural form locked separately.",
+      "id": [
+        "Event Streams",
+        "Event Stream",
+        "event stream"
+      ]
     }
   }
 }

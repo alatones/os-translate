@@ -7,6 +7,17 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
+## [1.7.0] — 2026-05-29
+
+### Added
+
+- **Indonesian (id) — first-draft translations.** All 1,793 source
+  keys and all 98 regex patterns now have Indonesian translations.
+  Glossary locks in place for all 75 terms (plural-collapse forms
+  handled as acceptable-alt lists; Latin locks for product-feature
+  names and KPI labels per style guide). Marked "pending native
+  review" until the Indonesian reviewer signs off.
+
 ## [1.6.17] — 2026-05-20
 
 ### Added
