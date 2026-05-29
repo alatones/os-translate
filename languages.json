@@ -4936,7 +4936,8 @@
       "fr": "Afficher les clics",
       "tr": "Tıklananları göster",
       "zh-CN": "显示已点击",
-      "zh-TW": "顯示已點擊"
+      "zh-TW": "顯示已點擊",
+      "id": "Tampilkan Diklik"
     },
     "Show Confirmed receipt": {
       "es": "Mostrar recepción confirmada",
@@ -4946,7 +4947,8 @@
       "fr": "Afficher la réception confirmée",
       "tr": "Alındı onaylananları göster",
       "zh-CN": "显示已确认接收",
-      "zh-TW": "顯示已確認接收"
+      "zh-TW": "顯示已確認接收",
+      "id": "Tampilkan Tanda Terima Terkonfirmasi"
     },
     "Show Delivered": {
       "es": "Mostrar entregados",
@@ -4956,7 +4958,8 @@
       "fr": "Afficher les livrés",
       "tr": "Teslim edilenleri göster",
       "zh-CN": "显示已送达",
-      "zh-TW": "顯示已送達"
+      "zh-TW": "顯示已送達",
+      "id": "Tampilkan Tersampaikan"
     },
     "Show Delivered Events": {
       "es": "Mostrar eventos entregados",
@@ -4966,7 +4969,8 @@
       "fr": "Afficher les événements livrés",
       "tr": "Teslim edilen etkinlikleri göster",
       "zh-CN": "显示已送达事件",
-      "zh-TW": "顯示已送達事件"
+      "zh-TW": "顯示已送達事件",
+      "id": "Tampilkan Event Tersampaikan"
     },
     "Show Exported Events": {
       "es": "Mostrar eventos exportados",
@@ -4976,7 +4980,8 @@
       "fr": "Afficher les événements exportés",
       "tr": "Dışa aktarılan etkinlikleri göster",
       "zh-CN": "显示已导出事件",
-      "zh-TW": "顯示已匯出事件"
+      "zh-TW": "顯示已匯出事件",
+      "id": "Tampilkan Event Diekspor"
     },
     "Show Processed Events": {
       "es": "Mostrar eventos procesados",
@@ -4986,7 +4991,8 @@
       "fr": "Afficher les événements traités",
       "tr": "İşlenen etkinlikleri göster",
       "zh-CN": "显示已处理事件",
-      "zh-TW": "顯示已處理事件"
+      "zh-TW": "顯示已處理事件",
+      "id": "Tampilkan Event Diproses"
     },
     "Show Received Events": {
       "es": "Mostrar eventos recibidos",
@@ -4996,7 +5002,8 @@
       "fr": "Afficher les événements reçus",
       "tr": "Alınan etkinlikleri göster",
       "zh-CN": "显示已接收事件",
-      "zh-TW": "顯示已接收事件"
+      "zh-TW": "顯示已接收事件",
+      "id": "Tampilkan Event Diterima"
     },
     "Show Successful Updates": {
       "es": "Mostrar actualizaciones exitosas",
@@ -5006,7 +5013,8 @@
       "fr": "Afficher les mises à jour réussies",
       "tr": "Başarılı güncellemeleri göster",
       "zh-CN": "显示成功的更新",
-      "zh-TW": "顯示成功的更新"
+      "zh-TW": "顯示成功的更新",
+      "id": "Tampilkan Pembaruan Berhasil"
     },
     "Show Total subscribed": {
       "es": "Mostrar total de suscritos",
@@ -5016,7 +5024,8 @@
       "fr": "Afficher le total des abonnés",
       "tr": "Toplam abonelikleri göster",
       "zh-CN": "显示订阅总数",
-      "zh-TW": "顯示訂閱總數"
+      "zh-TW": "顯示訂閱總數",
+      "id": "Tampilkan Total Berlangganan"
     },
     "Show Unsubscribed": {
       "es": "Mostrar cancelaciones",
@@ -5026,7 +5035,8 @@
       "fr": "Afficher les désinscriptions",
       "tr": "Abonelikten çıkanları göster",
       "zh-CN": "显示已取消订阅",
-      "zh-TW": "顯示已取消訂閱"
+      "zh-TW": "顯示已取消訂閱",
+      "id": "Tampilkan Berhenti Berlangganan"
     },
     "Show/hide columns": {
       "es": "Mostrar/ocultar columnas",
@@ -5036,7 +5046,8 @@
       "fr": "Afficher / masquer les colonnes",
       "tr": "Sütunları göster/gizle",
       "zh-CN": "显示/隐藏列",
-      "zh-TW": "顯示/隱藏欄"
+      "zh-TW": "顯示/隱藏欄",
+      "id": "Tampilkan/sembunyikan kolom"
     },
     "Showing": {
       "es": "Mostrando",
@@ -5046,7 +5057,8 @@
       "fr": "Affichage",
       "tr": "Gösteriliyor",
       "zh-CN": "显示",
-      "zh-TW": "顯示"
+      "zh-TW": "顯示",
+      "id": "Menampilkan"
     },
     "Sign Out": {
       "es": "Cerrar sesión",
@@ -5056,7 +5068,8 @@
       "fr": "Se déconnecter",
       "tr": "Oturumu kapat",
       "zh-CN": "退出登录",
-      "zh-TW": "登出"
+      "zh-TW": "登出",
+      "id": "Keluar"
     },
     "Site URL": {
       "es": "URL del sitio",
@@ -5066,7 +5079,8 @@
       "fr": "URL du site",
       "tr": "Site URL'si",
       "zh-CN": "站点 URL",
-      "zh-TW": "網站 URL"
+      "zh-TW": "網站 URL",
+      "id": "URL Situs"
     },
     "SMS / RCS": {
       "es": "SMS / RCS",
@@ -5076,7 +5090,8 @@
       "fr": "SMS / RCS",
       "tr": "SMS / RCS",
       "zh-CN": "短信 / 富媒体短信",
-      "zh-TW": "短訊 / 富媒體短訊"
+      "zh-TW": "短訊 / 富媒體短訊",
+      "id": "SMS / RCS"
     },
     "Sound": {
       "es": "Sonido",
@@ -5086,7 +5101,8 @@
       "fr": "Son",
       "tr": "Ses",
       "zh-CN": "声音",
-      "zh-TW": "聲音"
+      "zh-TW": "聲音",
+      "id": "Suara"
     },
     "Sources": {
       "es": "Fuentes",
@@ -5096,7 +5112,8 @@
       "fr": "Sources",
       "tr": "Kaynaklar",
       "zh-CN": "来源",
-      "zh-TW": "來源"
+      "zh-TW": "來源",
+      "id": "Sumber"
     },
     "Started": {
       "es": "Iniciado",
@@ -5106,7 +5123,8 @@
       "fr": "Démarré",
       "tr": "Başladı",
       "zh-CN": "已开始",
-      "zh-TW": "已開始"
+      "zh-TW": "已開始",
+      "id": "Dimulai"
     },
     "Stats": {
       "es": "Estadísticas",
@@ -5116,7 +5134,8 @@
       "fr": "Statistiques",
       "tr": "İstatistikler",
       "zh-CN": "统计",
-      "zh-TW": "統計"
+      "zh-TW": "統計",
+      "id": "Statistik"
     },
     "Status": {
       "es": "Estado",
@@ -5126,7 +5145,8 @@
       "fr": "Statut",
       "tr": "Durum",
       "zh-CN": "状态",
-      "zh-TW": "狀態"
+      "zh-TW": "狀態",
+      "id": "Status"
     },
     "Status details": {
       "es": "Detalles del estado",
@@ -5136,7 +5156,8 @@
       "fr": "Détails du statut",
       "tr": "Durum ayrıntıları",
       "zh-CN": "状态详情",
-      "zh-TW": "狀態詳情"
+      "zh-TW": "狀態詳情",
+      "id": "Detail status"
     },
     "Status page": {
       "es": "Página de estado",
@@ -5146,7 +5167,8 @@
       "fr": "Page de statut",
       "tr": "Durum sayfası",
       "zh-CN": "状态页面",
-      "zh-TW": "狀態頁面"
+      "zh-TW": "狀態頁面",
+      "id": "Halaman status"
     },
     "Step": {
       "es": "Paso",
@@ -5156,7 +5178,8 @@
       "fr": "Étape",
       "tr": "Adım",
       "zh-CN": "步骤",
-      "zh-TW": "步驟"
+      "zh-TW": "步驟",
+      "id": "Langkah"
     },
     "Stop": {
       "es": "Detener",
@@ -5166,7 +5189,8 @@
       "fr": "Arrêter",
       "tr": "Durdur",
       "zh-CN": "停止",
-      "zh-TW": "停止"
+      "zh-TW": "停止",
+      "id": "Hentikan"
     },
     "Storage count": {
       "es": "Recuento de almacenamiento",
@@ -5176,7 +5200,8 @@
       "fr": "Nombre de stockage",
       "tr": "Depolama sayısı",
       "zh-CN": "存储数量",
-      "zh-TW": "儲存數量"
+      "zh-TW": "儲存數量",
+      "id": "Jumlah penyimpanan"
     },
     "Storage duration": {
       "es": "Duración de almacenamiento",
@@ -5186,7 +5211,8 @@
       "fr": "Durée de stockage",
       "tr": "Depolama süresi",
       "zh-CN": "存储时长",
-      "zh-TW": "儲存時長"
+      "zh-TW": "儲存時長",
+      "id": "Durasi penyimpanan"
     },
     "Subject Line": {
       "es": "Asunto",
@@ -5196,7 +5222,8 @@
       "fr": "Ligne d'objet",
       "tr": "Konu satırı",
       "zh-CN": "主题行",
-      "zh-TW": "主題列"
+      "zh-TW": "主題列",
+      "id": "Baris Subjek"
     },
     "Subscribed": {
       "es": "Suscrito",
@@ -5206,7 +5233,8 @@
       "fr": "Abonné",
       "tr": "Abone olundu",
       "zh-CN": "已订阅",
-      "zh-TW": "已訂閱"
+      "zh-TW": "已訂閱",
+      "id": "Berlangganan"
     },
     "Subscriber Opted Out": {
       "es": "Suscriptor excluido",
@@ -5216,7 +5244,8 @@
       "fr": "Abonné exclu",
       "tr": "Abone onayı geri aldı",
       "zh-CN": "订阅者已拒绝",
-      "zh-TW": "訂閱者已拒絕"
+      "zh-TW": "訂閱者已拒絕",
+      "id": "Pelanggan Keluar"
     },
     "Subscription Date": {
       "es": "Fecha de suscripción",
@@ -5226,7 +5255,8 @@
       "fr": "Date d'abonnement",
       "tr": "Abonelik tarihi",
       "zh-CN": "订阅日期",
-      "zh-TW": "訂閱日期"
+      "zh-TW": "訂閱日期",
+      "id": "Tanggal Berlangganan"
     },
     "Subscription ID": {
       "es": "ID de suscripción",
@@ -5236,7 +5266,8 @@
       "fr": "ID d'abonnement",
       "tr": "Abonelik ID",
       "zh-CN": "订阅 ID",
-      "zh-TW": "訂閱 ID"
+      "zh-TW": "訂閱 ID",
+      "id": "ID Berlangganan"
     },
     "Subscription Records": {
       "es": "Registros de suscripción",
@@ -5246,7 +5277,8 @@
       "fr": "Enregistrements d'abonnement",
       "tr": "Abonelik kayıtları",
       "zh-CN": "订阅记录",
-      "zh-TW": "訂閱記錄"
+      "zh-TW": "訂閱記錄",
+      "id": "Catatan Berlangganan"
     },
     "Subscription trends": {
       "es": "Tendencias de suscripciones",
@@ -5256,7 +5288,8 @@
       "fr": "Tendances d'abonnement",
       "tr": "Abonelik eğilimleri",
       "zh-CN": "订阅趋势",
-      "zh-TW": "訂閱趨勢"
+      "zh-TW": "訂閱趨勢",
+      "id": "Tren berlangganan"
     },
     "Subscriptions": {
       "es": "Suscripciones",
@@ -5266,7 +5299,8 @@
       "fr": "Abonnements",
       "tr": "Abonelikler",
       "zh-CN": "订阅",
-      "zh-TW": "訂閱記錄"
+      "zh-TW": "訂閱記錄",
+      "id": "Berlangganan"
     },
     "Success": {
       "es": "Éxito",
@@ -5276,7 +5310,8 @@
       "fr": "Succès",
       "tr": "Başarılı",
       "zh-CN": "成功",
-      "zh-TW": "成功"
+      "zh-TW": "成功",
+      "id": "Berhasil"
     },
     "Success Rate": {
       "es": "Tasa de éxito",
@@ -5286,7 +5321,8 @@
       "fr": "Taux de réussite",
       "tr": "Başarı oranı",
       "zh-CN": "成功率",
-      "zh-TW": "成功率"
+      "zh-TW": "成功率",
+      "id": "Tingkat Keberhasilan"
     },
     "Successful Updates": {
       "es": "Actualizaciones exitosas",
@@ -5296,7 +5332,8 @@
       "fr": "Mises à jour réussies",
       "tr": "Başarılı güncellemeler",
       "zh-CN": "成功的更新",
-      "zh-TW": "成功的更新"
+      "zh-TW": "成功的更新",
+      "id": "Pembaruan Berhasil"
     },
     "Sun": {
       "es": "Dom",
@@ -5306,7 +5343,8 @@
       "fr": "Dim",
       "tr": "Paz",
       "zh-CN": "周日",
-      "zh-TW": "週日"
+      "zh-TW": "週日",
+      "id": "Min"
     },
     "Super User": {
       "es": "Superusuario",
@@ -5316,7 +5354,8 @@
       "fr": "Super-utilisateur",
       "tr": "Süper kullanıcı",
       "zh-CN": "超级用户",
-      "zh-TW": "超級用戶"
+      "zh-TW": "超級用戶",
+      "id": "Super Pengguna"
     },
     "Support and documentation": {
       "es": "Soporte y documentación",
@@ -5326,7 +5365,8 @@
       "fr": "Support et documentation",
       "tr": "Destek ve dokümantasyon",
       "zh-CN": "支持和文档",
-      "zh-TW": "支援和文件"
+      "zh-TW": "支援和文件",
+      "id": "Dukungan dan dokumentasi"
     },
     "Sync contacts through API": {
       "es": "Sincroniza contactos a través de la API",
@@ -5336,7 +5376,8 @@
       "fr": "Synchroniser les contacts via l'API",
       "tr": "API üzerinden kişileri senkronize edin",
       "zh-CN": "通过 API 同步联系人",
-      "zh-TW": "透過 API 同步聯絡人"
+      "zh-TW": "透過 API 同步聯絡人",
+      "id": "Sinkronkan kontak melalui API"
     },
     "Tag": {
       "es": "Etiqueta",
@@ -5346,7 +5387,8 @@
       "fr": "Tag",
       "tr": "Etiket",
       "zh-CN": "标签",
-      "zh-TW": "標籤"
+      "zh-TW": "標籤",
+      "id": "Tag"
     },
     "Tags": {
       "es": "Etiquetas",
@@ -5356,7 +5398,8 @@
       "fr": "Tags",
       "tr": "Etiketler",
       "zh-CN": "标签",
-      "zh-TW": "標籤"
+      "zh-TW": "標籤",
+      "id": "Tags"
     },
     "Team Members": {
       "es": "Miembros del equipo",
@@ -5366,7 +5409,8 @@
       "fr": "Membres de l'équipe",
       "tr": "Ekip üyeleri",
       "zh-CN": "团队成员",
-      "zh-TW": "團隊成員"
+      "zh-TW": "團隊成員",
+      "id": "Anggota Tim"
     },
     "Template Name": {
       "es": "Nombre de la plantilla",
@@ -5376,7 +5420,8 @@
       "fr": "Nom du modèle",
       "tr": "Şablon adı",
       "zh-CN": "模板名称",
-      "zh-TW": "範本名稱"
+      "zh-TW": "範本名稱",
+      "id": "Nama Template"
     },
     "Templates": {
       "es": "Plantillas",
@@ -5386,7 +5431,8 @@
       "fr": "Modèles",
       "tr": "Şablonlar",
       "zh-CN": "模板",
-      "zh-TW": "範本"
+      "zh-TW": "範本",
+      "id": "Templates"
     },
     "Test Subscription Records": {
       "es": "Registros de suscripciones de prueba",
@@ -5396,7 +5442,8 @@
       "fr": "Enregistrements d'abonnements de test",
       "tr": "Test abonelik kayıtları",
       "zh-CN": "测试订阅记录",
-      "zh-TW": "測試訂閱記錄"
+      "zh-TW": "測試訂閱記錄",
+      "id": "Catatan Berlangganan Uji"
     },
     "Test Subscriptions": {
       "es": "Suscripciones de prueba",
@@ -5406,7 +5453,8 @@
       "fr": "Abonnements de test",
       "tr": "Test abonelikleri",
       "zh-CN": "测试订阅",
-      "zh-TW": "測試訂閱記錄"
+      "zh-TW": "測試訂閱記錄",
+      "id": "Berlangganan Uji"
     },
     "Test Users": {
       "es": "Usuarios de prueba",
@@ -5416,7 +5464,8 @@
       "fr": "Utilisateurs de test",
       "tr": "Test kullanıcıları",
       "zh-CN": "测试用户",
-      "zh-TW": "測試用戶"
+      "zh-TW": "測試用戶",
+      "id": "Pengguna Uji"
     },
     "This action cannot be undone.": {
       "es": "Esta acción no se puede deshacer.",
@@ -5426,7 +5475,8 @@
       "fr": "Cette action ne peut pas être annulée.",
       "tr": "Bu işlem geri alınamaz.",
       "zh-CN": "此操作无法撤销。",
-      "zh-TW": "此操作無法撤銷。"
+      "zh-TW": "此操作無法撤銷。",
+      "id": "Tindakan ini tidak dapat dibatalkan."
     },
     "This month": {
       "es": "Este mes",
