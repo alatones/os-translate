@@ -16409,7 +16409,8 @@
       "fr": "par ex. 12345678",
       "tr": "örn. 12345678",
       "zh-CN": "例如 12345678",
-      "zh-TW": "例如 12345678"
+      "zh-TW": "例如 12345678",
+      "id": "mis. 12345678"
     },
     "e.g. abc123defg123456": {
       "ja": "例: abc123defg123456",
@@ -16419,7 +16420,8 @@
       "fr": "par ex. abc123defg123456",
       "tr": "örn. abc123defg123456",
       "zh-CN": "例如 abc123defg123456",
-      "zh-TW": "例如 abc123defg123456"
+      "zh-TW": "例如 abc123defg123456",
+      "id": "mis. abc123defg123456"
     },
     "Not Receiving Message Replies": {
       "ja": "メッセージ返信を受信できません",
@@ -16429,7 +16431,8 @@
       "fr": "Ne reçoit pas de réponses aux messages",
       "tr": "Mesaj yanıtları alınmıyor",
       "zh-CN": "未收到消息回复",
-      "zh-TW": "未收到訊息回覆"
+      "zh-TW": "未收到訊息回覆",
+      "id": "Tidak Menerima Balasan Pesan"
     },
     "Alphanumeric": {
       "ja": "英数字",
@@ -16439,7 +16442,8 @@
       "fr": "Alphanumérique",
       "tr": "Alfanümerik",
       "zh-CN": "字母数字",
-      "zh-TW": "字母數字"
+      "zh-TW": "字母數字",
+      "id": "Alfanumerik"
     },
     "Long Code": {
       "ja": "ロングコード",
@@ -16449,7 +16453,8 @@
       "fr": "Long Code",
       "tr": "Uzun kod",
       "zh-CN": "长代码",
-      "zh-TW": "長代碼"
+      "zh-TW": "長代碼",
+      "id": "Kode Panjang"
     },
     "Toll Free": {
       "ja": "フリーダイヤル",
@@ -16459,7 +16464,8 @@
       "fr": "Numéro vert",
       "tr": "Ücretsiz",
       "zh-CN": "免费电话",
-      "zh-TW": "免費電話"
+      "zh-TW": "免費電話",
+      "id": "Bebas Pulsa"
     },
     "Update All Webhooks": {
       "ja": "すべてのWebhookを更新",
@@ -16469,7 +16475,8 @@
       "fr": "Mettre à jour tous les webhooks",
       "tr": "Tüm Webhook'ları güncelle",
       "zh-CN": "更新所有 Webhook",
-      "zh-TW": "更新所有 Webhook"
+      "zh-TW": "更新所有 Webhook",
+      "id": "Perbarui Semua Webhook"
     },
     "Consent Management": {
       "ja": "同意管理",
@@ -16479,7 +16486,8 @@
       "fr": "Gestion du consentement",
       "tr": "Onay yönetimi",
       "zh-CN": "同意管理",
-      "zh-TW": "同意管理"
+      "zh-TW": "同意管理",
+      "id": "Manajemen Persetujuan"
     },
     "Email reputation is only available for OneSignal email, see your ESP provider or email reputation tools.": {
       "ja": "メールの評判はOneSignalメールでのみ利用可能です。詳しくはESPプロバイダーまたはメール評判ツールをご確認ください。",
@@ -16489,7 +16497,8 @@
       "fr": "La réputation email n'est disponible que pour OneSignal email ; consultez votre fournisseur ESP ou vos outils de réputation email.",
       "tr": "Email itibarı yalnızca OneSignal email için mevcuttur; ESP sağlayıcınıza veya email itibar araçlarına bakın.",
       "zh-CN": "电子邮件信誉仅适用于 OneSignal email，请查看您的 ESP 提供商或电子邮件信誉工具。",
-      "zh-TW": "電郵信譽僅適用於 OneSignal email，請查看您的 ESP 提供商或電郵信譽工具。"
+      "zh-TW": "電郵信譽僅適用於 OneSignal email，請查看您的 ESP 提供商或電郵信譽工具。",
+      "id": "Reputasi email hanya tersedia untuk email OneSignal, lihat penyedia ESP atau alat reputasi email Anda."
     },
     "OneSignal only provides reputation management for users using OneSignal email.": {
       "ja": "OneSignalはOneSignalメールを使用しているユーザーに対してのみ評判管理を提供します。",
@@ -16499,7 +16508,8 @@
       "fr": "OneSignal ne fournit la gestion de réputation que pour les utilisateurs d'OneSignal email.",
       "tr": "OneSignal yalnızca OneSignal email kullanan kullanıcılar için itibar yönetimi sağlar.",
       "zh-CN": "OneSignal 仅为使用 OneSignal email 的用户提供信誉管理。",
-      "zh-TW": "OneSignal 僅為使用 OneSignal email 的用戶提供信譽管理。"
+      "zh-TW": "OneSignal 僅為使用 OneSignal email 的用戶提供信譽管理。",
+      "id": "OneSignal hanya menyediakan manajemen reputasi untuk pengguna yang menggunakan email OneSignal."
     },
     "SMS / RCS Settings": {
       "ja": "SMS / RCS設定",
@@ -16509,7 +16519,8 @@
       "fr": "Paramètres SMS / RCS",
       "tr": "SMS / RCS ayarları",
       "zh-CN": "短信 / 富媒体短信设置",
-      "zh-TW": "短訊 / 富媒體短訊設定"
+      "zh-TW": "短訊 / 富媒體短訊設定",
+      "id": "Pengaturan SMS / RCS"
     },
     "Switch Providers": {
       "ja": "プロバイダーを切り替え",
@@ -16519,7 +16530,8 @@
       "fr": "Changer de fournisseur",
       "tr": "Sağlayıcıyı değiştir",
       "zh-CN": "切换提供商",
-      "zh-TW": "切換提供商"
+      "zh-TW": "切換提供商",
+      "id": "Ganti Penyedia"
     },
     "To understand your reputation, see your ESP provider or email reputation tools": {
       "ja": "評判を確認するには、ESPプロバイダーまたはメール評判ツールをご確認ください",
@@ -16529,7 +16541,8 @@
       "fr": "Pour comprendre votre réputation, consultez votre fournisseur ESP ou des outils de réputation email",
       "tr": "İtibarınızı anlamak için ESP sağlayıcınıza veya email itibar araçlarına bakın",
       "zh-CN": "要了解您的信誉，请查看您的 ESP 提供商或电子邮件信誉工具",
-      "zh-TW": "要了解您的信譽，請查看您的 ESP 提供商或電郵信譽工具"
+      "zh-TW": "要了解您的信譽，請查看您的 ESP 提供商或電郵信譽工具",
+      "id": "Untuk memahami reputasi Anda, lihat penyedia ESP atau alat reputasi email Anda"
     },
     "Member actions": {
       "ja": "メンバーアクション",
@@ -16539,7 +16552,8 @@
       "fr": "Actions du membre",
       "tr": "Üye eylemleri",
       "zh-CN": "成员操作",
-      "zh-TW": "成員操作"
+      "zh-TW": "成員操作",
+      "id": "Tindakan anggota"
     },
     "Team Member": {
       "ja": "チームメンバー",
@@ -16549,7 +16563,8 @@
       "fr": "Membre de l'équipe",
       "tr": "Ekip üyesi",
       "zh-CN": "团队成员",
-      "zh-TW": "團隊成員"
+      "zh-TW": "團隊成員",
+      "id": "Anggota Tim"
     },
     "CANCEL": {
       "ja": "CANCEL",
@@ -16559,7 +16574,8 @@
       "fr": "CANCEL",
       "tr": "CANCEL",
       "zh-CN": "CANCEL",
-      "zh-TW": "CANCEL"
+      "zh-TW": "CANCEL",
+      "id": "BATALKAN"
     },
     "HELP": {
       "ja": "HELP",
@@ -16569,7 +16585,8 @@
       "fr": "HELP",
       "tr": "HELP",
       "zh-CN": "HELP",
-      "zh-TW": "HELP"
+      "zh-TW": "HELP",
+      "id": "BANTUAN"
     },
     "Invited": {
       "ja": "招待済み",
@@ -16579,7 +16596,8 @@
       "fr": "Invité",
       "tr": "Davet edildi",
       "zh-CN": "已邀请",
-      "zh-TW": "已邀請"
+      "zh-TW": "已邀請",
+      "id": "Diundang"
     },
     "All Login Methods": {
       "ja": "すべてのログイン方法",
@@ -16589,7 +16607,8 @@
       "fr": "Toutes les méthodes de connexion",
       "tr": "Tüm giriş yöntemleri",
       "zh-CN": "所有登录方式",
-      "zh-TW": "所有登入方式"
+      "zh-TW": "所有登入方式",
+      "id": "Semua Metode Login"
     },
     "All Roles": {
       "ja": "すべての役割",
@@ -16599,7 +16618,8 @@
       "fr": "Tous les rôles",
       "tr": "Tüm roller",
       "zh-CN": "所有角色",
-      "zh-TW": "所有角色"
+      "zh-TW": "所有角色",
+      "id": "Semua Peran"
     },
     "Invite to App": {
       "ja": "アプリに招待",
@@ -16609,7 +16629,8 @@
       "fr": "Inviter dans l'app",
       "tr": "Uygulamaya davet et",
       "zh-CN": "邀请到应用",
-      "zh-TW": "邀請到應用"
+      "zh-TW": "邀請到應用",
+      "id": "Undang ke Aplikasi"
     },
     "JOURNEY": {
       "ja": "JOURNEY",
@@ -16619,7 +16640,8 @@
       "fr": "JOURNEY",
       "tr": "JOURNEY",
       "zh-CN": "JOURNEY",
-      "zh-TW": "JOURNEY"
+      "zh-TW": "JOURNEY",
+      "id": "JOURNEY"
     },
     "Last sign in": {
       "ja": "最終サインイン",
@@ -16629,7 +16651,8 @@
       "fr": "Dernière connexion",
       "tr": "Son giriş",
       "zh-CN": "最近登录",
-      "zh-TW": "最近登入"
+      "zh-TW": "最近登入",
+      "id": "Login terakhir"
     },
     "Login method": {
       "ja": "ログイン方法",
@@ -16639,7 +16662,8 @@
       "fr": "Méthode de connexion",
       "tr": "Giriş yöntemi",
       "zh-CN": "登录方式",
-      "zh-TW": "登入方式"
+      "zh-TW": "登入方式",
+      "id": "Metode login"
     },
     "Member": {
       "ja": "メンバー",
@@ -16649,7 +16673,8 @@
       "fr": "Membre",
       "tr": "Üye",
       "zh-CN": "成员",
-      "zh-TW": "成員"
+      "zh-TW": "成員",
+      "id": "Anggota"
     },
     "Org role": {
       "ja": "組織での役割",
@@ -16659,7 +16684,8 @@
       "fr": "Rôle dans l'organisation",
       "tr": "Organizasyon rolü",
       "zh-CN": "组织角色",
-      "zh-TW": "組織角色"
+      "zh-TW": "組織角色",
+      "id": "Peran organisasi"
     },
     "Unsuccessful": {
       "ja": "失敗",
@@ -16669,7 +16695,8 @@
       "fr": "Échec",
       "tr": "Başarısız",
       "zh-CN": "失败",
-      "zh-TW": "失敗"
+      "zh-TW": "失敗",
+      "id": "Tidak Berhasil"
     },
     "(tag will be removed)": {
       "ja": "（タグは削除されます）",
@@ -16679,7 +16706,8 @@
       "fr": "(le tag sera supprimé)",
       "tr": "(etiket kaldırılacak)",
       "zh-CN": "（标签将被移除）",
-      "zh-TW": "（標籤將被移除）"
+      "zh-TW": "（標籤將被移除）",
+      "id": "(tag akan dihapus)"
     },
     "Add Tag": {
       "ja": "タグを追加",
@@ -16689,7 +16717,8 @@
       "fr": "Ajouter un tag",
       "tr": "Etiket ekle",
       "zh-CN": "添加标签",
-      "zh-TW": "新增標籤"
+      "zh-TW": "新增標籤",
+      "id": "Tambah Tag"
     },
     "Add a note or comment...": {
       "ja": "メモまたはコメントを追加...",
@@ -16699,7 +16728,8 @@
       "fr": "Ajouter une note ou un commentaire...",
       "tr": "Not veya yorum ekle...",
       "zh-CN": "添加备注或评论...",
-      "zh-TW": "新增備註或評論..."
+      "zh-TW": "新增備註或評論...",
+      "id": "Tambahkan catatan atau komentar..."
     },
     "Can a user re-enter a Journey after exiting or finishing?": {
       "ja": "ユーザーは退出または完了後にジャーニーに再度入ることができますか？",
@@ -16709,7 +16739,8 @@
       "fr": "Un utilisateur peut-il entrer à nouveau dans un Parcours après en être sorti ou l'avoir terminé ?",
       "tr": "Kullanıcı çıktıktan veya tamamladıktan sonra bir Yolculuğa tekrar girebilir mi?",
       "zh-CN": "用户在退出或完成后能否重新进入旅程？",
-      "zh-TW": "用戶在退出或完成後能否重新進入旅程？"
+      "zh-TW": "用戶在退出或完成後能否重新進入旅程？",
+      "id": "Bisakah pengguna masuk kembali ke Journey setelah keluar atau selesai?"
     },
     "Days": {
       "ja": "日",
@@ -16719,7 +16750,8 @@
       "fr": "Jours",
       "tr": "Gün",
       "zh-CN": "天",
-      "zh-TW": "天"
+      "zh-TW": "天",
+      "id": "Hari"
     },
     "Message Template": {
       "ja": "メッセージテンプレート",
@@ -16729,7 +16761,8 @@
       "fr": "Modèle de message",
       "tr": "Mesaj şablonu",
       "zh-CN": "消息模板",
-      "zh-TW": "訊息範本"
+      "zh-TW": "訊息範本",
+      "id": "Template Pesan"
     },
     "No, they can receive this only once": {
       "ja": "いいえ、これは一度だけ受信できます",
@@ -16739,7 +16772,8 @@
       "fr": "Non, ils ne peuvent le recevoir qu'une seule fois",
       "tr": "Hayır, bunu yalnızca bir kez alabilirler",
       "zh-CN": "否，只能接收一次",
-      "zh-TW": "否，只能接收一次"
+      "zh-TW": "否，只能接收一次",
+      "id": "Tidak, mereka hanya dapat menerima ini sekali"
     },
     "Note": {
       "ja": "メモ",
@@ -16749,7 +16783,8 @@
       "fr": "Note",
       "tr": "Not",
       "zh-CN": "备注",
-      "zh-TW": "備註"
+      "zh-TW": "備註",
+      "id": "Catatan"
     },
     "Press enter or space to select a node. You can then use the arrow keys to move the node around. Press delete to remove it and escape to cancel.": {
       "ja": "Enter キーまたはスペースキーを押してノードを選択します。その後、矢印キーでノードを移動できます。Delete キーで削除、Escape キーでキャンセルできます。",
@@ -16759,7 +16794,8 @@
       "fr": "Appuyez sur Entrée ou Espace pour sélectionner un nœud. Vous pouvez ensuite utiliser les touches fléchées pour déplacer le nœud. Appuyez sur Suppr pour le supprimer et sur Échap pour annuler.",
       "tr": "Bir düğüm seçmek için Enter veya boşluk tuşuna basın. Ardından ok tuşlarıyla düğümü hareket ettirebilirsiniz. Kaldırmak için Delete tuşuna, iptal etmek için Esc tuşuna basın.",
       "zh-CN": "按 Enter 或空格键选择节点。然后可以使用方向键移动节点。按 Delete 键移除，按 Esc 键取消。",
-      "zh-TW": "按 Enter 或空格鍵選擇節點。然後可以使用方向鍵移動節點。按 Delete 鍵移除，按 Esc 鍵取消。"
+      "zh-TW": "按 Enter 或空格鍵選擇節點。然後可以使用方向鍵移動節點。按 Delete 鍵移除，按 Esc 鍵取消。",
+      "id": "Tekan enter atau spasi untuk memilih node. Anda kemudian dapat menggunakan tombol panah untuk memindahkan node. Tekan hapus untuk menghapusnya dan escape untuk membatalkan."
     },
     "Press enter or space to select an edge. You can then press delete to remove it or escape to cancel.": {
       "ja": "Enter キーまたはスペースキーを押してエッジを選択します。その後、Delete キーで削除、Escape キーでキャンセルできます。",
@@ -16769,7 +16805,8 @@
       "fr": "Appuyez sur Entrée ou Espace pour sélectionner une arête. Vous pouvez ensuite appuyer sur Suppr pour la supprimer ou sur Échap pour annuler.",
       "tr": "Bir kenar seçmek için Enter veya boşluk tuşuna basın. Ardından kaldırmak için Delete tuşuna, iptal etmek için Esc tuşuna basabilirsiniz.",
       "zh-CN": "按 Enter 或空格键选择边。然后可以按 Delete 键移除，或按 Esc 键取消。",
-      "zh-TW": "按 Enter 或空格鍵選擇邊。然後可以按 Delete 鍵移除，或按 Esc 鍵取消。"
+      "zh-TW": "按 Enter 或空格鍵選擇邊。然後可以按 Delete 鍵移除，或按 Esc 鍵取消。",
+      "id": "Tekan enter atau spasi untuk memilih sisi. Anda kemudian dapat menekan hapus untuk menghapusnya atau escape untuk membatalkan."
     },
     "Push Notification": {
       "ja": "プッシュ通知",
@@ -16779,7 +16816,8 @@
       "fr": "Notification push",
       "tr": "Push bildirimi",
       "zh-CN": "推送通知",
-      "zh-TW": "推送通知"
+      "zh-TW": "推送通知",
+      "id": "Push Notification"
     },
     "Send push notification": {
       "ja": "プッシュ通知を送信",
@@ -16789,7 +16827,8 @@
       "fr": "Envoyer la notification push",
       "tr": "Push bildirimi gönder",
       "zh-CN": "发送推送通知",
-      "zh-TW": "發送推送通知"
+      "zh-TW": "發送推送通知",
+      "id": "Kirim push notification"
     },
     "Set a Push Goal": {
       "ja": "プッシュ目標を設定",
@@ -16799,7 +16838,8 @@
       "fr": "Définir un objectif de push",
       "tr": "Push hedefi belirle",
       "zh-CN": "设置推送目标",
-      "zh-TW": "設定推送目標"
+      "zh-TW": "設定推送目標",
+      "id": "Tetapkan Tujuan Push"
     },
     "Specify Tags": {
       "ja": "タグを指定",
@@ -16809,7 +16849,8 @@
       "fr": "Spécifier les tags",
       "tr": "Etiketleri belirt",
       "zh-CN": "指定标签",
-      "zh-TW": "指定標籤"
+      "zh-TW": "指定標籤",
+      "id": "Tentukan Tag"
     },
     "TIP:": {
       "ja": "ヒント：",
@@ -16819,7 +16860,8 @@
       "fr": "ASTUCE :",
       "tr": "İPUCU:",
       "zh-CN": "提示：",
-      "zh-TW": "提示："
+      "zh-TW": "提示：",
+      "id": "TIP:"
     },
     "Tag User": {
       "ja": "ユーザーをタグ付け",
@@ -16829,7 +16871,8 @@
       "fr": "Tagger l'utilisateur",
       "tr": "Kullanıcıyı etiketle",
       "zh-CN": "为用户添加标签",
-      "zh-TW": "為用戶新增標籤"
+      "zh-TW": "為用戶新增標籤",
+      "id": "Tandai Pengguna"
     },
     "Time Window": {
       "ja": "時間枠",
@@ -16839,7 +16882,8 @@
       "fr": "Fenêtre temporelle",
       "tr": "Zaman aralığı",
       "zh-CN": "时间窗口",
-      "zh-TW": "時間窗口"
+      "zh-TW": "時間窗口",
+      "id": "Jendela Waktu"
     },
     "To pick up a draggable item, press the space bar.\n    While dragging, use the arrow keys to move the item.\n    Press space again to drop the item in its new position, or press escape to cancel.": {
       "ja": "ドラッグ可能なアイテムを取得するには、スペースキーを押します。\n    ドラッグ中は、矢印キーでアイテムを移動できます。\n    スペースキーをもう一度押して新しい位置にドロップするか、Escape キーでキャンセルします。",
@@ -16849,7 +16893,8 @@
       "fr": "Pour saisir un élément déplaçable, appuyez sur la barre d'espace.\n    Pendant le déplacement, utilisez les touches fléchées pour déplacer l'élément.\n    Appuyez à nouveau sur Espace pour déposer l'élément à sa nouvelle position, ou sur Échap pour annuler.",
       "tr": "Sürüklenebilir bir öğeyi almak için boşluk tuşuna basın.\n    Sürükleme sırasında, öğeyi hareket ettirmek için ok tuşlarını kullanın.\n    Öğeyi yeni konumuna bırakmak için boşluk tuşuna tekrar basın veya iptal etmek için Esc tuşuna basın.",
       "zh-CN": "要拾起可拖动项目，请按空格键。\n 拖动时使用方向键移动项目。\n 再次按空格键将项目放到新位置，或按 Esc 键取消。",
-      "zh-TW": "要拾起可拖動項目，請按空格鍵。\n 拖動時使用方向鍵移動項目。\n 再次按空格鍵將項目放到新位置，或按 Esc 鍵取消。"
+      "zh-TW": "要拾起可拖動項目，請按空格鍵。\n 拖動時使用方向鍵移動項目。\n 再次按空格鍵將項目放到新位置，或按 Esc 鍵取消。",
+      "id": "Untuk mengambil item yang dapat diseret, tekan bilah spasi.\n    Saat menyeret, gunakan tombol panah untuk memindahkan item.\n    Tekan spasi lagi untuk menjatuhkan item di posisi barunya, atau tekan escape untuk membatalkan."
     },
     "Users only receive messages from this Journey once.": {
       "ja": "ユーザーはこのジャーニーから一度だけメッセージを受信します。",
