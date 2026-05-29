@@ -7,6 +7,47 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
+## [1.6.16] — 2026-05-20
+
+### Added
+
+- **64 new UI string translations across 8 languages.** Surfaced
+  from a ledger pass on entries with 2+ install IDs. Grouped into
+  five tiers committed independently for reviewability:
+  - **Tier 1** (10 strings): high-volume buttons / sections —
+    `Upgrade`, `Apps`, `Outcomes`, `Engagement`, `Lifecycle`,
+    `View details`, `Show Last 30 days`, `Show historical data`,
+    `Set Up`, `Subscribes`.
+  - **Tier 2** (18 strings): specialized UI — journey nodes
+    (`Wait Until`, `Split Branch`), filters / buttons (`Send a
+    Message`, `Create New Message`, `Preview Segments`, `Show
+    Subscribes`, `All Message Types`, `Subscription status changes`),
+    add-record buttons (`Add tag` / `phone number` / `email` /
+    `alias`), column headers (`Tag actions`, `Last Updated/Sent/
+    Created Date`), `Delivery schedule`, `Started sending at`.
+  - **Tier 3** (25 strings): body copy, tooltips, empty states,
+    form labels — goal-flow UI, push onboarding card, stats labels.
+  - **Tier 4** (7 strings): template UI cluster — `Template ID`,
+    `Template settings`, `Template statistics`, `Template not used.`,
+    `This template was created prior to`, `Messages leveraging
+    template`, `Ready to send? Create your first message using
+    this template`.
+  - **Tier 5** (4 strings): Journeys-page inspirational quotes —
+    `The only journey is the one within.`, `Embrace the journey.`,
+    `Every journey starts with the first step (and an audience
+    segment).`, `Don't stop believing.`
+
+  All glossary locks were honored — Italo's es Latin-product-feature
+  pattern, Ana's pt Template Latin, Emre's tr conventions, Jessie's
+  zh-TW HK-leaning lexicon, plus the Sent (Enviado) / Delivered
+  (Entregado) distinction in es/pt. Several first-pass translations
+  were adjusted post-validator to comply with locks (Push native
+  forms in body copy, Edit-verb variants, Click-through Rate, etc.).
+
+  Three Journey quotes added to `Journey._skip_keys` so the
+  colloquial use of 'journey' doesn't trip the feature-noun
+  enforcement.
+
 ## [1.6.15] — 2026-05-20
 
 ### Changed

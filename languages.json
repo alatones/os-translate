@@ -17299,6 +17299,646 @@
       "tr": "Bildirim Geçmişi menüsünü aç",
       "zh-CN": "打开送达菜单",
       "zh-TW": "開啟送達選單"
+    },
+    "Upgrade": {
+      "ja": "アップグレード",
+      "es": "Actualizar",
+      "pt": "Atualizar",
+      "ko": "업그레이드",
+      "fr": "Mettre à niveau",
+      "tr": "Yükselt",
+      "zh-CN": "升级",
+      "zh-TW": "升級"
+    },
+    "Apps": {
+      "ja": "アプリ",
+      "es": "Apps",
+      "pt": "Apps",
+      "ko": "앱",
+      "fr": "Apps",
+      "tr": "Uygulamalar",
+      "zh-CN": "应用",
+      "zh-TW": "應用"
+    },
+    "Outcomes": {
+      "ja": "アウトカム",
+      "es": "Resultados",
+      "pt": "Resultados",
+      "ko": "결과",
+      "fr": "Résultats",
+      "tr": "Sonuçlar",
+      "zh-CN": "结果",
+      "zh-TW": "結果"
+    },
+    "Engagement": {
+      "ja": "エンゲージメント",
+      "es": "Engagement",
+      "pt": "Engagement",
+      "ko": "참여",
+      "fr": "Engagement",
+      "tr": "Etkileşim",
+      "zh-CN": "互动",
+      "zh-TW": "互動"
+    },
+    "Lifecycle": {
+      "ja": "ライフサイクル",
+      "es": "Ciclo de vida",
+      "pt": "Ciclo de vida",
+      "ko": "라이프사이클",
+      "fr": "Cycle de vie",
+      "tr": "Yaşam döngüsü",
+      "zh-CN": "生命周期",
+      "zh-TW": "生命週期"
+    },
+    "View details": {
+      "ja": "詳細を表示",
+      "es": "Ver detalles",
+      "pt": "Ver detalhes",
+      "ko": "세부 정보 보기",
+      "fr": "Voir les détails",
+      "tr": "Ayrıntıları gör",
+      "zh-CN": "查看详情",
+      "zh-TW": "查看詳情"
+    },
+    "Show Last 30 days": {
+      "ja": "過去30日間を表示",
+      "es": "Mostrar últimos 30 días",
+      "pt": "Mostrar últimos 30 dias",
+      "ko": "지난 30일 표시",
+      "fr": "Afficher les 30 derniers jours",
+      "tr": "Son 30 günü göster",
+      "zh-CN": "显示最近 30 天",
+      "zh-TW": "顯示最近 30 天"
+    },
+    "Show historical data": {
+      "ja": "履歴データを表示",
+      "es": "Mostrar datos históricos",
+      "pt": "Mostrar dados históricos",
+      "ko": "기록 데이터 표시",
+      "fr": "Afficher les données historiques",
+      "tr": "Geçmiş verileri göster",
+      "zh-CN": "显示历史数据",
+      "zh-TW": "顯示歷史資料"
+    },
+    "Set Up": {
+      "ja": "セットアップ",
+      "es": "Configurar",
+      "pt": "Configurar",
+      "ko": "설정",
+      "fr": "Configurer",
+      "tr": "Kur",
+      "zh-CN": "设置",
+      "zh-TW": "設定"
+    },
+    "Subscribes": {
+      "ja": "購読数",
+      "es": "Suscripciones",
+      "pt": "Assinaturas",
+      "ko": "구독 수",
+      "fr": "Abonnements",
+      "tr": "Abonelikler",
+      "zh-CN": "订阅数",
+      "zh-TW": "訂閱數"
+    },
+    "Wait Until": {
+      "ja": "条件を満たすまで待機",
+      "es": "Esperar hasta",
+      "pt": "Aguardar até",
+      "ko": "조건 충족까지 대기",
+      "fr": "Attendre jusqu'à",
+      "tr": "Şu zamana kadar bekle",
+      "zh-CN": "等待条件",
+      "zh-TW": "等待條件"
+    },
+    "Split Branch": {
+      "ja": "ブランチを分割",
+      "es": "Dividir rama",
+      "pt": "Dividir ramificação",
+      "ko": "분기 나누기",
+      "fr": "Diviser la branche",
+      "tr": "Dalı böl",
+      "zh-CN": "拆分分支",
+      "zh-TW": "拆分分支"
+    },
+    "Started sending at": {
+      "ja": "送信開始日時",
+      "es": "Envío iniciado el",
+      "pt": "Envio iniciado em",
+      "ko": "전송 시작 시점",
+      "fr": "Envoi commencé le",
+      "tr": "Gönderim başlangıcı",
+      "zh-CN": "发送开始时间",
+      "zh-TW": "發送開始時間"
+    },
+    "Subscription status changes": {
+      "ja": "購読ステータスの変更",
+      "es": "Cambios en el estado de suscripción",
+      "pt": "Alterações no status da assinatura",
+      "ko": "구독 상태 변경",
+      "fr": "Changements de statut d'abonnement",
+      "tr": "Abonelik durumu değişiklikleri",
+      "zh-CN": "订阅状态变更",
+      "zh-TW": "訂閱狀態變更"
+    },
+    "Send a Message": {
+      "ja": "メッセージを送信",
+      "es": "Enviar un mensaje",
+      "pt": "Enviar uma mensagem",
+      "ko": "메시지 보내기",
+      "fr": "Envoyer un message",
+      "tr": "Mesaj gönder",
+      "zh-CN": "发送消息",
+      "zh-TW": "發送訊息"
+    },
+    "Create New Message": {
+      "ja": "新しいメッセージを作成",
+      "es": "Crear nuevo mensaje",
+      "pt": "Criar nova mensagem",
+      "ko": "새 메시지 만들기",
+      "fr": "Créer un nouveau message",
+      "tr": "Yeni mesaj oluştur",
+      "zh-CN": "创建新消息",
+      "zh-TW": "建立新訊息"
+    },
+    "Preview Segments": {
+      "ja": "セグメントをプレビュー",
+      "es": "Previsualizar Segmentos",
+      "pt": "Pré-visualizar Segmentos",
+      "ko": "세그먼트 미리보기",
+      "fr": "Aperçu des segments",
+      "tr": "Segment'leri önizle",
+      "zh-CN": "预览用户分群",
+      "zh-TW": "預覽用戶分群"
+    },
+    "Show Subscribes": {
+      "ja": "購読数を表示",
+      "es": "Mostrar suscripciones",
+      "pt": "Mostrar assinaturas",
+      "ko": "구독 수 표시",
+      "fr": "Afficher les abonnements",
+      "tr": "Abonelikleri göster",
+      "zh-CN": "显示订阅数",
+      "zh-TW": "顯示訂閱數"
+    },
+    "All Message Types": {
+      "ja": "すべてのメッセージタイプ",
+      "es": "Todos los tipos de mensaje",
+      "pt": "Todos os tipos de mensagem",
+      "ko": "모든 메시지 유형",
+      "fr": "Tous les types de messages",
+      "tr": "Tüm mesaj türleri",
+      "zh-CN": "所有消息类型",
+      "zh-TW": "所有訊息類型"
+    },
+    "Add tag": {
+      "ja": "タグを追加",
+      "es": "Agregar etiqueta",
+      "pt": "Adicionar tag",
+      "ko": "태그 추가",
+      "fr": "Ajouter un tag",
+      "tr": "Etiket ekle",
+      "zh-CN": "添加标签",
+      "zh-TW": "新增標籤"
+    },
+    "Add phone number": {
+      "ja": "電話番号を追加",
+      "es": "Agregar número de teléfono",
+      "pt": "Adicionar número de telefone",
+      "ko": "전화번호 추가",
+      "fr": "Ajouter un numéro de téléphone",
+      "tr": "Telefon numarası ekle",
+      "zh-CN": "添加电话号码",
+      "zh-TW": "新增電話號碼"
+    },
+    "Add email": {
+      "ja": "メールを追加",
+      "es": "Agregar Email",
+      "pt": "Adicionar Email",
+      "ko": "이메일 추가",
+      "fr": "Ajouter un email",
+      "tr": "Email ekle",
+      "zh-CN": "添加邮件",
+      "zh-TW": "新增電郵"
+    },
+    "Add alias": {
+      "ja": "エイリアスを追加",
+      "es": "Agregar alias",
+      "pt": "Adicionar alias",
+      "ko": "별칭 추가",
+      "fr": "Ajouter un alias",
+      "tr": "Takma ad ekle",
+      "zh-CN": "添加别名",
+      "zh-TW": "新增別名"
+    },
+    "Tag actions": {
+      "ja": "タグアクション",
+      "es": "Acciones de etiqueta",
+      "pt": "Ações de tag",
+      "ko": "태그 작업",
+      "fr": "Actions de tag",
+      "tr": "Etiket işlemleri",
+      "zh-CN": "标签操作",
+      "zh-TW": "標籤操作"
+    },
+    "Last Updated Date": {
+      "ja": "最終更新日",
+      "es": "Fecha de última actualización",
+      "pt": "Data da última atualização",
+      "ko": "마지막 업데이트 날짜",
+      "fr": "Date de dernière mise à jour",
+      "tr": "Son güncelleme tarihi",
+      "zh-CN": "最后更新日期",
+      "zh-TW": "最後更新日期"
+    },
+    "Last Sent Date": {
+      "ja": "最終送信日",
+      "es": "Fecha del último envío",
+      "pt": "Data do último envio",
+      "ko": "마지막 발송 날짜",
+      "fr": "Date du dernier envoi",
+      "tr": "Son gönderim tarihi",
+      "zh-CN": "最近发送日期",
+      "zh-TW": "最近發送日期"
+    },
+    "Created Date": {
+      "ja": "作成日",
+      "es": "Fecha de creación",
+      "pt": "Data de criação",
+      "ko": "생성 날짜",
+      "fr": "Date de création",
+      "tr": "Oluşturulma tarihi",
+      "zh-CN": "创建日期",
+      "zh-TW": "建立日期"
+    },
+    "Delivery schedule": {
+      "ja": "配信スケジュール",
+      "es": "Delivery schedule",
+      "pt": "Agendamento de entrega",
+      "ko": "전달 일정",
+      "fr": "Planification d'envoi",
+      "tr": "Gönderim planı",
+      "zh-CN": "送达计划",
+      "zh-TW": "送達計畫"
+    },
+    "Type a note or description for your goal.": {
+      "ja": "目標のメモまたは説明を入力してください。",
+      "es": "Escribe una nota o descripción para tu objetivo.",
+      "pt": "Digite uma observação ou descrição para sua meta.",
+      "ko": "목표에 대한 메모나 설명을 입력하세요.",
+      "fr": "Saisissez une note ou une description pour votre objectif.",
+      "tr": "Hedefiniz için bir not veya açıklama yazın.",
+      "zh-CN": "为你的目标输入备注或描述。",
+      "zh-TW": "為您的目標輸入備註或描述。"
+    },
+    "Track the click-through rate.": {
+      "ja": "クリック率を測定します。",
+      "es": "Mide la Tasa de clics.",
+      "pt": "Acompanhe a Taxa de cliques.",
+      "ko": "클릭률을 측정하세요.",
+      "fr": "Suivre le taux de clics.",
+      "tr": "Tıklama oranını izle.",
+      "zh-CN": "跟踪点击率。",
+      "zh-TW": "追蹤點擊率。"
+    },
+    "This goal will be met when": {
+      "ja": "この目標は次の条件で達成されます",
+      "es": "Este objetivo se cumplirá cuando",
+      "pt": "Esta meta será cumprida quando",
+      "ko": "이 목표는 다음 조건이 충족되면 달성됩니다",
+      "fr": "Cet objectif sera atteint lorsque",
+      "tr": "Bu hedef şu durumda gerçekleşecek",
+      "zh-CN": "此目标将在以下情况下达成",
+      "zh-TW": "此目標將在以下情況下達成"
+    },
+    "Goals documentation": {
+      "ja": "目標ドキュメント",
+      "es": "Documentación de objetivos",
+      "pt": "Documentação de metas",
+      "ko": "목표 설명서",
+      "fr": "Documentation des objectifs",
+      "tr": "Hedefler dokümantasyonu",
+      "zh-CN": "目标文档",
+      "zh-TW": "目標文件"
+    },
+    "2. Goal": {
+      "ja": "2. 目標",
+      "es": "2. Objetivo",
+      "pt": "2. Meta",
+      "ko": "2. 목표",
+      "fr": "2. Objectif",
+      "tr": "2. Hedef",
+      "zh-CN": "2. 目标",
+      "zh-TW": "2. 目標"
+    },
+    "A default goal has been auto-generated, edit any time": {
+      "ja": "デフォルトの目標が自動生成されました。いつでも編集できます",
+      "es": "Se ha generado automáticamente un objetivo predeterminado; puedes editarlo en cualquier momento",
+      "pt": "Uma meta padrão foi gerada automaticamente; edite a qualquer momento",
+      "ko": "기본 목표가 자동으로 생성되었습니다. 언제든지 편집할 수 있습니다",
+      "fr": "Un objectif par défaut a été généré automatiquement ; vous pouvez le modifier à tout moment",
+      "tr": "Varsayılan bir hedef otomatik olarak oluşturuldu; istediğiniz zaman düzenleyebilirsiniz",
+      "zh-CN": "已自动生成默认目标,可随时编辑",
+      "zh-TW": "已自動生成預設目標,可隨時編輯"
+    },
+    "Metric": {
+      "ja": "指標",
+      "es": "Métrica",
+      "pt": "Métrica",
+      "ko": "지표",
+      "fr": "Métrique",
+      "tr": "Metrik",
+      "zh-CN": "指标",
+      "zh-TW": "指標"
+    },
+    "Measuring as": {
+      "ja": "測定方法",
+      "es": "Medir como",
+      "pt": "Medir como",
+      "ko": "측정 방법",
+      "fr": "Mesurer comme",
+      "tr": "Şu şekilde ölç",
+      "zh-CN": "测量方式",
+      "zh-TW": "測量方式"
+    },
+    "exceeds": {
+      "ja": "を超える",
+      "es": "supera",
+      "pt": "excede",
+      "ko": "초과",
+      "fr": "dépasse",
+      "tr": "aşıyor",
+      "zh-CN": "超过",
+      "zh-TW": "超過"
+    },
+    "Clicks count": {
+      "ja": "クリック数",
+      "es": "Recuento de clics",
+      "pt": "Contagem de cliques",
+      "ko": "클릭 수",
+      "fr": "Nombre de clics",
+      "tr": "Tıklama sayısı",
+      "zh-CN": "点击次数",
+      "zh-TW": "點擊次數"
+    },
+    "You'll see metrics here when there is user activity.": {
+      "ja": "ユーザーアクティビティが発生すると、ここに指標が表示されます。",
+      "es": "Verás métricas aquí cuando haya actividad de usuarios.",
+      "pt": "Você verá métricas aqui quando houver atividade de usuários.",
+      "ko": "사용자 활동이 발생하면 여기에 지표가 표시됩니다.",
+      "fr": "Vous verrez les métriques ici lorsqu'il y a de l'activité utilisateur.",
+      "tr": "Kullanıcı etkinliği olduğunda metrikleri burada görürsünüz.",
+      "zh-CN": "当有用户活动时,这里会显示指标。",
+      "zh-TW": "當有用戶活動時,這裡會顯示指標。"
+    },
+    "Limit of ~1,000 per minute": {
+      "ja": "1分あたり最大約1,000件",
+      "es": "Límite de ~1.000 por minuto",
+      "pt": "Limite de ~1.000 por minuto",
+      "ko": "분당 최대 약 1,000건",
+      "fr": "Limite de ~1 000 par minute",
+      "tr": "Dakikada ~1.000 sınırı",
+      "zh-CN": "每分钟限制约 1,000 条",
+      "zh-TW": "每分鐘限制約 1,000 條"
+    },
+    "Audience counts may differ from delivery metrics": {
+      "ja": "オーディエンス数は配信指標と異なる場合があります",
+      "es": "El conteo de Audiencia puede diferir de las métricas de Entrega",
+      "pt": "A contagem de Público pode diferir das métricas de Entrega",
+      "ko": "대상 수는 전달 지표와 다를 수 있습니다",
+      "fr": "Les chiffres d'audience peuvent différer des métriques de livraison",
+      "tr": "Hedef kitle sayıları teslim metriklerinden farklı olabilir",
+      "zh-CN": "受众数量可能与送达指标不同",
+      "zh-TW": "受眾數量可能與送達指標不同"
+    },
+    "Activity is available for 30 days after sending.": {
+      "ja": "アクティビティは送信後30日間表示されます。",
+      "es": "La actividad está disponible durante 30 días después del envío.",
+      "pt": "A atividade fica disponível por 30 dias após o envio.",
+      "ko": "활동은 전송 후 30일 동안 확인할 수 있습니다.",
+      "fr": "L'activité est disponible pendant 30 jours après l'envoi.",
+      "tr": "Etkinlik gönderim sonrası 30 gün boyunca görüntülenebilir.",
+      "zh-CN": "活动数据在发送后保留 30 天。",
+      "zh-TW": "活動資料在發送後保留 30 天。"
+    },
+    "Start tracking engagement stats by setting up your push channel": {
+      "ja": "プッシュチャネルをセットアップしてエンゲージメント統計の追跡を開始しましょう",
+      "es": "Comienza a medir las estadísticas de engagement configurando tu canal de Push",
+      "pt": "Comece a acompanhar as estatísticas de engagement configurando seu canal de Push",
+      "ko": "푸시 채널을 설정하여 참여 통계 추적을 시작하세요",
+      "fr": "Commencez à suivre les statistiques d'engagement en configurant votre canal Push",
+      "tr": "Push kanalınızı kurarak etkileşim istatistiklerini izlemeye başlayın",
+      "zh-CN": "通过设置推送通知渠道开始跟踪互动数据",
+      "zh-TW": "透過設定推送通知渠道開始追蹤互動數據"
+    },
+    "% of messages delivered": {
+      "ja": "配信メッセージの割合",
+      "es": "% de mensajes entregados",
+      "pt": "% de mensagens entregues",
+      "ko": "전달된 메시지의 비율",
+      "fr": "% de messages livrés",
+      "tr": "Teslim edilen mesajların %'si",
+      "zh-CN": "送达消息百分比",
+      "zh-TW": "送達訊息百分比"
+    },
+    "Send to default segment:": {
+      "ja": "デフォルトのセグメントに送信:",
+      "es": "Enviar a Segmento predeterminado:",
+      "pt": "Enviar para Segmento padrão:",
+      "ko": "기본 세그먼트로 보내기:",
+      "fr": "Envoyer au segment par défaut :",
+      "tr": "Varsayılan segment'e gönder:",
+      "zh-CN": "发送到默认用户分群:",
+      "zh-TW": "發送到預設用戶分群:"
+    },
+    "Select subscription series": {
+      "ja": "購読シリーズを選択",
+      "es": "Seleccionar serie de suscripción",
+      "pt": "Selecionar série de assinatura",
+      "ko": "구독 시리즈 선택",
+      "fr": "Sélectionner la série d'abonnement",
+      "tr": "Abonelik serisi seç",
+      "zh-CN": "选择订阅系列",
+      "zh-TW": "選擇訂閱系列"
+    },
+    "Select channel for engagement overview": {
+      "ja": "エンゲージメント概要のチャネルを選択",
+      "es": "Selecciona el canal para la vista general de engagement",
+      "pt": "Selecione o canal para a visão geral de engagement",
+      "ko": "참여 개요를 위한 채널 선택",
+      "fr": "Sélectionnez le canal pour la vue d'ensemble d'engagement",
+      "tr": "Etkileşim genel görünümü için kanal seç",
+      "zh-CN": "选择互动概览的渠道",
+      "zh-TW": "選擇互動概覽的渠道"
+    },
+    "Description (optional)": {
+      "ja": "説明 (任意)",
+      "es": "Descripción (opcional)",
+      "pt": "Descrição (opcional)",
+      "ko": "설명 (선택 사항)",
+      "fr": "Description (facultatif)",
+      "tr": "Açıklama (isteğe bağlı)",
+      "zh-CN": "描述 (可选)",
+      "zh-TW": "描述 (選填)"
+    },
+    "E.g. E54B4D": {
+      "ja": "例: E54B4D",
+      "es": "Ej. E54B4D",
+      "pt": "Ex. E54B4D",
+      "ko": "예: E54B4D",
+      "fr": "Ex. E54B4D",
+      "tr": "Örn. E54B4D",
+      "zh-CN": "例如 E54B4D",
+      "zh-TW": "例如 E54B4D"
+    },
+    "0.0 (lowest priority)": {
+      "ja": "0.0 (最低の優先度)",
+      "es": "0.0 (prioridad más baja)",
+      "pt": "0.0 (prioridade mais baixa)",
+      "ko": "0.0 (가장 낮은 우선순위)",
+      "fr": "0.0 (priorité la plus basse)",
+      "tr": "0.0 (en düşük öncelik)",
+      "zh-CN": "0.0 (最低优先级)",
+      "zh-TW": "0.0 (最低優先順序)"
+    },
+    "Grow your mobile push reach": {
+      "ja": "モバイルプッシュのリーチを拡大",
+      "es": "Aumenta el alcance de tu Push móvil",
+      "pt": "Amplie o alcance do seu Push para mobile",
+      "ko": "모바일 푸시 도달 범위 확대",
+      "fr": "Élargissez la portée de votre Push mobile",
+      "tr": "Mobil Push erişiminizi büyütün",
+      "zh-CN": "扩大移动推送触达",
+      "zh-TW": "擴大行動推送觸及"
+    },
+    "Create push permission prompt": {
+      "ja": "プッシュ通知の許可プロンプトを作成",
+      "es": "Crear prompt de permiso de Push",
+      "pt": "Criar prompt de permissão de Push",
+      "ko": "푸시 권한 프롬프트 만들기",
+      "fr": "Créer une invite de permission Push",
+      "tr": "Push izin promptu oluştur",
+      "zh-CN": "创建推送权限请求弹窗",
+      "zh-TW": "建立推送權限請求彈窗"
+    },
+    "Boost opt-ins with a custom in-app prompt that highlights your notifications’ value before the native prompt.": {
+      "ja": "ネイティブプロンプトの前に通知の価値を強調するカスタムなアプリ内プロンプトで、オプトインを増やしましょう。",
+      "es": "Aumenta las suscripciones con un prompt In-App personalizado que destaque el valor de tus notificaciones antes del prompt nativo.",
+      "pt": "Aumente os opt-ins com um prompt In-App personalizado que destaque o valor das suas notificações antes do prompt nativo.",
+      "ko": "네이티브 프롬프트 전에 알림의 가치를 강조하는 맞춤형 인앱 프롬프트로 옵트인을 늘리세요.",
+      "fr": "Augmentez les opt-ins avec une invite In-App personnalisée mettant en avant la valeur de vos notifications avant l'invite native.",
+      "tr": "Bildiriminizin değerini yerel istemden önce vurgulayan özel bir uygulama içi prompt ile opt-in'leri artırın.",
+      "zh-CN": "通过自定义应用内提示在系统原生提示之前突出通知的价值,从而提升用户许可率。",
+      "zh-TW": "透過自訂應用內提示在系統原生提示之前突顯通知的價值,從而提升用戶許可率。"
+    },
+    "Template ID": {
+      "ja": "テンプレート ID",
+      "es": "ID de Plantilla",
+      "pt": "ID do Template",
+      "ko": "템플릿 ID",
+      "fr": "ID du modèle",
+      "tr": "Şablon ID",
+      "zh-CN": "模板 ID",
+      "zh-TW": "範本 ID"
+    },
+    "Template settings": {
+      "ja": "テンプレート設定",
+      "es": "Configuración de Plantilla",
+      "pt": "Configurações de Template",
+      "ko": "템플릿 설정",
+      "fr": "Paramètres du modèle",
+      "tr": "Şablon ayarları",
+      "zh-CN": "模板设置",
+      "zh-TW": "範本設定"
+    },
+    "Template statistics": {
+      "ja": "テンプレート統計",
+      "es": "Estadísticas de Plantilla",
+      "pt": "Estatísticas de Template",
+      "ko": "템플릿 통계",
+      "fr": "Statistiques du modèle",
+      "tr": "Şablon istatistikleri",
+      "zh-CN": "模板统计",
+      "zh-TW": "範本統計"
+    },
+    "Template not used.": {
+      "ja": "テンプレートは使用されていません。",
+      "es": "Plantilla no utilizada.",
+      "pt": "Template não utilizado.",
+      "ko": "사용되지 않은 템플릿입니다.",
+      "fr": "Modèle non utilisé.",
+      "tr": "Şablon kullanılmadı.",
+      "zh-CN": "模板未使用。",
+      "zh-TW": "範本未使用。"
+    },
+    "This template was created prior to": {
+      "ja": "このテンプレートは次の日時より前に作成されました",
+      "es": "Esta Plantilla fue creada antes de",
+      "pt": "Este Template foi criado antes de",
+      "ko": "이 템플릿은 다음 시점 이전에 생성되었습니다",
+      "fr": "Ce modèle a été créé avant",
+      "tr": "Bu şablon şu tarihten önce oluşturuldu",
+      "zh-CN": "此模板创建于以下时间之前",
+      "zh-TW": "此範本建立於以下時間之前"
+    },
+    "Messages leveraging template": {
+      "ja": "このテンプレートを使用するメッセージ",
+      "es": "Mensajes que usan la Plantilla",
+      "pt": "Mensagens que usam o Template",
+      "ko": "이 템플릿을 사용하는 메시지",
+      "fr": "Messages utilisant le modèle",
+      "tr": "Şablonu kullanan mesajlar",
+      "zh-CN": "使用此模板的消息",
+      "zh-TW": "使用此範本的訊息"
+    },
+    "Ready to send? Create your first message using this template": {
+      "ja": "送信する準備はできましたか？このテンプレートを使って最初のメッセージを作成しましょう",
+      "es": "¿Listo para enviar? Crea tu primer mensaje usando esta Plantilla",
+      "pt": "Pronto para enviar? Crie sua primeira mensagem usando este Template",
+      "ko": "보내실 준비가 되셨나요? 이 템플릿을 사용해 첫 메시지를 만들어 보세요",
+      "fr": "Prêt à envoyer ? Créez votre premier message avec ce modèle",
+      "tr": "Göndermeye hazır mısın? Bu şablonu kullanarak ilk mesajını oluştur",
+      "zh-CN": "准备发送了吗?使用此模板创建你的第一条消息",
+      "zh-TW": "準備發送了嗎?使用此範本建立您的第一則訊息"
+    },
+    "The only journey is the one within.": {
+      "ja": "本当の旅は、自分の内側にある。",
+      "es": "El único viaje es el que ocurre dentro de uno mismo.",
+      "pt": "A única jornada é aquela que acontece dentro de você.",
+      "ko": "진정한 여정은 자기 자신 안에 있다.",
+      "fr": "Le seul voyage est celui qui se passe en soi.",
+      "tr": "Tek gerçek yolculuk, içimizdeki yolculuktur.",
+      "zh-CN": "唯一的旅程,是向内的旅程。",
+      "zh-TW": "唯一的旅程,是向內的旅程。"
+    },
+    "Embrace the journey.": {
+      "ja": "旅を楽しもう。",
+      "es": "Abraza el viaje.",
+      "pt": "Abrace a jornada.",
+      "ko": "여정을 받아들이세요.",
+      "fr": "Embrassez le voyage.",
+      "tr": "Yolculuğu kucaklayın.",
+      "zh-CN": "拥抱旅程。",
+      "zh-TW": "擁抱旅程。"
+    },
+    "Every journey starts with the first step (and an audience segment).": {
+      "ja": "すべての旅は最初の一歩から始まります(そしてオーディエンスのセグメントから)。",
+      "es": "Cada viaje comienza con un primer paso (y un Segmento de Audiencia).",
+      "pt": "Toda jornada começa com o primeiro passo (e um Segmento de Público).",
+      "ko": "모든 여정은 첫걸음에서 시작됩니다 (그리고 대상 세그먼트에서).",
+      "fr": "Chaque voyage commence par un premier pas (et un segment d'audience).",
+      "tr": "Her yolculuk ilk adımla başlar (ve bir hedef kitle segmentiyle).",
+      "zh-CN": "每段旅程都从第一步开始(以及一个受众用户分群)。",
+      "zh-TW": "每段旅程都從第一步開始(以及一個受眾用戶分群)。"
+    },
+    "Don't stop believing.": {
+      "ja": "信じることをやめないで。",
+      "es": "No dejes de creer.",
+      "pt": "Não pare de acreditar.",
+      "ko": "믿음을 멈추지 마세요.",
+      "fr": "N'arrête pas de croire.",
+      "tr": "İnanmaktan vazgeçme.",
+      "zh-CN": "永不放弃信念。",
+      "zh-TW": "永不放棄信念。"
     }
   },
   "patterns": [
