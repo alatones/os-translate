@@ -62,6 +62,7 @@ Language codes follow ISO 639-1.
 | `tr` | Turkish        | 1,517 terms + 73 patterns (siz, 2nd-person imperative buttons) |
 | `zh-CN` | Simplified Chinese | 1,517 terms + 73 patterns (Mainland, drop pronouns or 您, bare-verb buttons) |
 | `zh-TW` | Traditional Chinese | 1,517 terms + 73 patterns (書面語, HK-leaning lexicon per reviewer — 儲存/設定/搜尋) |
+| `id` | Indonesian | first-draft (pending native review) — Anda formal address, bare-verb buttons, Latin for product features |
 
 Each language ships with terminology locked to a glossary (see below) and
 register conventions documented in `style/<lang>.md`.
