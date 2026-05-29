@@ -6575,7 +6575,8 @@
       "fr": "Transmettez les données en temps réel pour déclencher des actions ou flux de travail opportuns dans vos autres outils CRM",
       "tr": "Diğer müşteri ilişkileri araçlarında zamanında eylemleri veya iş akışlarını tetiklemek için verileri gerçek zamanlı olarak akışla aktarın",
       "zh-CN": "实时流式传输数据，在其他客户关系工具中触发及时的操作或工作流",
-      "zh-TW": "即時串流資料，在其他客戶關係工具中觸發及時的操作或工作流"
+      "zh-TW": "即時串流資料，在其他客戶關係工具中觸發及時的操作或工作流",
+      "id": "Streaming data secara real-time untuk memicu tindakan atau alur kerja yang tepat waktu di alat CRM lainnya"
     },
     "Data Warehouse": {
       "ja": "データウェアハウス",
@@ -6585,7 +6586,8 @@
       "fr": "Entrepôt de données",
       "tr": "Veri ambarı",
       "zh-CN": "数据仓库",
-      "zh-TW": "資料倉庫"
+      "zh-TW": "資料倉庫",
+      "id": "Gudang Data"
     },
     "Database": {
       "ja": "データベース",
@@ -6595,7 +6597,8 @@
       "fr": "Base de données",
       "tr": "Veritabanı",
       "zh-CN": "数据库",
-      "zh-TW": "資料庫"
+      "zh-TW": "資料庫",
+      "id": "Basis Data"
     },
     "Data Streaming": {
       "ja": "データストリーミング",
@@ -6605,7 +6608,8 @@
       "fr": "Streaming de données",
       "tr": "Veri akışı",
       "zh-CN": "数据流",
-      "zh-TW": "資料串流"
+      "zh-TW": "資料串流",
+      "id": "Streaming Data"
     },
     "Storage": {
       "ja": "ストレージ",
@@ -6615,7 +6619,8 @@
       "fr": "Stockage",
       "tr": "Depolama",
       "zh-CN": "存储",
-      "zh-TW": "儲存"
+      "zh-TW": "儲存",
+      "id": "Penyimpanan"
     },
     "Spreadsheet": {
       "ja": "スプレッドシート",
@@ -6625,7 +6630,8 @@
       "fr": "Tableur",
       "tr": "Elektronik tablo",
       "zh-CN": "电子表格",
-      "zh-TW": "試算表"
+      "zh-TW": "試算表",
+      "id": "Spreadsheet"
     },
     "Add Integration": {
       "ja": "インテグレーションを追加",
@@ -6635,7 +6641,8 @@
       "fr": "Ajouter une intégration",
       "tr": "Entegrasyon ekle",
       "zh-CN": "添加集成",
-      "zh-TW": "新增整合"
+      "zh-TW": "新增整合",
+      "id": "Tambah Integrasi"
     },
     "Search integrations...": {
       "ja": "インテグレーションを検索...",
@@ -6645,7 +6652,8 @@
       "fr": "Rechercher des intégrations...",
       "tr": "Entegrasyonlarda ara...",
       "zh-CN": "搜索集成...",
-      "zh-TW": "搜尋整合..."
+      "zh-TW": "搜尋整合...",
+      "id": "Cari integrasi..."
     },
     "Select type...": {
       "ja": "タイプを選択...",
@@ -6655,7 +6663,8 @@
       "fr": "Sélectionner un type...",
       "tr": "Tür seçin...",
       "zh-CN": "选择类型...",
-      "zh-TW": "選擇類型..."
+      "zh-TW": "選擇類型...",
+      "id": "Pilih jenis..."
     },
     "No contents": {
       "ja": "コンテンツがありません",
@@ -6665,7 +6674,8 @@
       "fr": "Aucun contenu",
       "tr": "İçerik yok",
       "zh-CN": "无内容",
-      "zh-TW": "無內容"
+      "zh-TW": "無內容",
+      "id": "Tidak ada konten"
     },
     "When you configure an integration, its status will be displayed here.": {
       "ja": "インテグレーションを設定すると、そのステータスがここに表示されます。",
@@ -6675,7 +6685,8 @@
       "fr": "Lorsque vous configurez une intégration, son statut s'affichera ici.",
       "tr": "Bir entegrasyonu yapılandırdığınızda, durumu burada görüntülenir.",
       "zh-CN": "配置集成后，其状态将显示在此处。",
-      "zh-TW": "配置整合後，其狀態將顯示在此處。"
+      "zh-TW": "配置整合後，其狀態將顯示在此處。",
+      "id": "Saat Anda mengonfigurasi integrasi, statusnya akan ditampilkan di sini."
     },
     "Connect Integration": {
       "ja": "インテグレーションを接続",
@@ -6685,7 +6696,8 @@
       "fr": "Connecter une intégration",
       "tr": "Entegrasyon bağla",
       "zh-CN": "连接集成",
-      "zh-TW": "連接整合"
+      "zh-TW": "連接整合",
+      "id": "Hubungkan Integrasi"
     },
     "Connect Journeys to other systems": {
       "ja": "ジャーニーを他のシステムに接続",
@@ -6695,7 +6707,8 @@
       "fr": "Connecter Parcours à d'autres systèmes",
       "tr": "Yolculukları diğer sistemlere bağlayın",
       "zh-CN": "将旅程连接到其他系统",
-      "zh-TW": "將旅程連接到其他系統"
+      "zh-TW": "將旅程連接到其他系統",
+      "id": "Hubungkan Journeys ke sistem lain"
     },
     "Gain real-time insights within the Events List": {
       "ja": "イベントリスト内でリアルタイムのインサイトを取得",
@@ -6705,7 +6718,8 @@
       "fr": "Obtenez des insights en temps réel dans la liste des événements",
       "tr": "Etkinlik Listesi içinde gerçek zamanlı içgörüler edinin",
       "zh-CN": "在事件列表中获取实时洞察",
-      "zh-TW": "在事件列表中獲取即時洞察"
+      "zh-TW": "在事件列表中獲取即時洞察",
+      "id": "Dapatkan wawasan real-time dalam Daftar Event"
     },
     "Harness the Power of Event Data": {
       "ja": "イベントデータのパワーを活用",
@@ -6715,7 +6729,8 @@
       "fr": "Exploitez la puissance des données d'événements",
       "tr": "Etkinlik verisinin gücünden yararlanın",
       "zh-CN": "释放事件数据的力量",
-      "zh-TW": "釋放事件資料的力量"
+      "zh-TW": "釋放事件資料的力量",
+      "id": "Manfaatkan Kekuatan Data Event"
     },
     "Journey Webhooks send HTTP requests from OneSignal Journeys to your servers or external services.": {
       "ja": "ジャーニーWebhookは、OneSignalジャーニーからサーバーや外部サービスにHTTPリクエストを送信します。",
@@ -6725,7 +6740,8 @@
       "fr": "Les Webhooks de Parcours envoient des requêtes HTTP depuis OneSignal Parcours vers vos serveurs ou services externes.",
       "tr": "Yolculuk Webhook'ları, OneSignal Yolculuklardan sunucularınıza veya harici hizmetlere HTTP istekleri gönderir.",
       "zh-CN": "旅程 Webhook 从 OneSignal 旅程向您的服务器或外部服务发送 HTTP 请求。",
-      "zh-TW": "旅程 Webhook 從 OneSignal 旅程向您的伺服器或外部服務發送 HTTP 請求。"
+      "zh-TW": "旅程 Webhook 從 OneSignal 旅程向您的伺服器或外部服務發送 HTTP 請求。",
+      "id": "Journey Webhooks mengirimkan permintaan HTTP dari OneSignal Journeys ke server atau layanan eksternal Anda."
     },
     "Orchestrate messages across platforms (e.g., WhatsApp, direct mail) by configuring a webhook for a Journey": {
       "ja": "ジャーニーのWebhookを設定して、複数のプラットフォーム（例：WhatsApp、ダイレクトメール）でメッセージを調整する",
@@ -6735,7 +6751,8 @@
       "fr": "Orchestrez les messages sur plusieurs plateformes (par ex. WhatsApp, courrier postal) en configurant un webhook pour un Parcours",
       "tr": "Bir Yolculuk için webhook yapılandırarak farklı platformlarda (örn. WhatsApp, posta) mesajları orkestra edin",
       "zh-CN": "通过为旅程配置 Webhook 在跨平台（如 WhatsApp、邮件）编排消息",
-      "zh-TW": "透過為旅程配置 Webhook 在跨平台（如 WhatsApp、郵件）編排訊息"
+      "zh-TW": "透過為旅程配置 Webhook 在跨平台（如 WhatsApp、郵件）編排訊息",
+      "id": "Atur pesan di berbagai platform (mis. WhatsApp, pos langsung) dengan mengonfigurasi webhook untuk Journey"
     },
     "Power Journeys with events—begin, hold, or exit user flows": {
       "ja": "イベントでジャーニーを強化する——ユーザーフローの開始、保留、または終了",
@@ -6745,7 +6762,8 @@
       "fr": "Alimentez les Parcours avec des événements — démarrer, suspendre ou sortir des flux utilisateurs",
       "tr": "Yolculuklarını etkinliklerle güçlendirin — kullanıcı akışlarını başlatın, duraklatın veya bunlardan çıkın",
       "zh-CN": "通过事件驱动旅程 — 启动、暂停或退出用户流程",
-      "zh-TW": "透過事件驅動旅程 — 啟動、暫停或退出用戶流程"
+      "zh-TW": "透過事件驅動旅程 — 啟動、暫停或退出用戶流程",
+      "id": "Tingkatkan Journeys dengan event—mulai, tahan, atau keluar dari alur pengguna"
     },
     "Seamlessly integrate with APIs, SDKs, or tools like Segment": {
       "ja": "API、SDK、またはSegmentなどのツールとシームレスに統合する",
@@ -6755,7 +6773,8 @@
       "fr": "Intégrez en toute simplicité avec des API, SDK ou outils comme Segment",
       "tr": "API'ler, SDK'ler veya Segment gibi araçlarla sorunsuz şekilde entegre olun",
       "zh-CN": "与 API、SDK 或 Segment 等工具无缝集成",
-      "zh-TW": "與 API、SDK 或 Segment 等工具無縫整合"
+      "zh-TW": "與 API、SDK 或 Segment 等工具無縫整合",
+      "id": "Integrasikan dengan mulus dengan API, SDK, atau alat seperti Segment"
     },
     "Tour a Preview of Custom Events": {
       "ja": "カスタムイベントのプレビューを見る",
@@ -6765,7 +6784,8 @@
       "fr": "Voir un aperçu des événements personnalisés",
       "tr": "Özel etkinliklerin önizlemesini inceleyin",
       "zh-CN": "预览自定义事件",
-      "zh-TW": "預覽自訂事件"
+      "zh-TW": "預覽自訂事件",
+      "id": "Jelajahi Pratinjau Custom Events"
     },
     "Trigger profile updates or events in other tools based on customer movement through a Journey": {
       "ja": "ジャーニーにおける顧客の動きに基づいて、他のツールでプロフィール更新やイベントをトリガーする",
@@ -6775,7 +6795,8 @@
       "fr": "Déclenchez des mises à jour de profil ou des événements dans d'autres outils en fonction du parcours du client dans un Parcours",
       "tr": "Bir Yolculuk boyunca müşteri hareketine göre diğer araçlarda profil güncellemelerini veya etkinlikleri tetikleyin",
       "zh-CN": "根据客户在旅程中的活动，在其他工具中触发资料更新或事件",
-      "zh-TW": "根據客戶在旅程中的活動，在其他工具中觸發資料更新或事件"
+      "zh-TW": "根據客戶在旅程中的活動，在其他工具中觸發資料更新或事件",
+      "id": "Picu pembaruan profil atau event di alat lain berdasarkan pergerakan pelanggan melalui Journey"
     },
     "Webhooks documentation": {
       "ja": "Webhooksドキュメント",
@@ -6785,7 +6806,8 @@
       "fr": "Documentation des webhooks",
       "tr": "Webhook'lar dokümantasyonu",
       "zh-CN": "Webhook 文档",
-      "zh-TW": "Webhook 文件"
+      "zh-TW": "Webhook 文件",
+      "id": "Dokumentasi Webhook"
     },
     "or use our API to start sending events": {
       "ja": "またはAPIを使用してイベントの送信を開始",
@@ -6795,7 +6817,8 @@
       "fr": "ou utilisez notre API pour commencer à envoyer des événements",
       "tr": "veya etkinlik göndermeye başlamak için API'mizi kullanın",
       "zh-CN": "或使用我们的 API 开始发送事件",
-      "zh-TW": "或使用我們的 API 開始發送事件"
+      "zh-TW": "或使用我們的 API 開始發送事件",
+      "id": "atau gunakan API kami untuk mulai mengirim event"
     },
     "Authenticate domain": {
       "ja": "ドメインを認証",
@@ -6805,7 +6828,8 @@
       "fr": "Authentifier le domaine",
       "tr": "Etki alanını doğrula",
       "zh-CN": "验证域名",
-      "zh-TW": "驗證網域"
+      "zh-TW": "驗證網域",
+      "id": "Autentikasi domain"
     },
     "Verify account": {
       "ja": "アカウントを確認",
@@ -6815,7 +6839,8 @@
       "fr": "Vérifier le compte",
       "tr": "Hesabı doğrula",
       "zh-CN": "验证账户",
-      "zh-TW": "驗證帳戶"
+      "zh-TW": "驗證帳戶",
+      "id": "Verifikasi akun"
     },
     "Create sender": {
       "ja": "送信者を作成",
@@ -6825,7 +6850,8 @@
       "fr": "Créer un expéditeur",
       "tr": "Gönderen oluştur",
       "zh-CN": "创建发件人",
-      "zh-TW": "建立發件人"
+      "zh-TW": "建立發件人",
+      "id": "Buat pengirim"
     },
     "Read blog": {
       "ja": "ブログを読む",
@@ -6835,7 +6861,8 @@
       "fr": "Lire le blog",
       "tr": "Blog'u oku",
       "zh-CN": "阅读博客",
-      "zh-TW": "閱讀網誌"
+      "zh-TW": "閱讀網誌",
+      "id": "Baca blog"
     },
     "Explore more": {
       "ja": "詳細を見る",
@@ -6845,7 +6872,8 @@
       "fr": "En découvrir plus",
       "tr": "Daha fazlasını keşfet",
       "zh-CN": "了解更多",
-      "zh-TW": "了解更多"
+      "zh-TW": "了解更多",
+      "id": "Jelajahi lebih lanjut"
     },
     "Evaluate email providers": {
       "ja": "メールプロバイダーを評価",
@@ -6855,7 +6883,8 @@
       "fr": "Évaluer les fournisseurs d'email",
       "tr": "Email sağlayıcılarını değerlendirin",
       "zh-CN": "评估电子邮件提供商",
-      "zh-TW": "評估電郵提供商"
+      "zh-TW": "評估電郵提供商",
+      "id": "Evaluasi penyedia email"
     },
     "Explore what matters most when picking an email platform for your business.": {
       "ja": "ビジネスに合ったメールプラットフォームを選ぶ際に重要なことを確認。",
@@ -6865,7 +6894,8 @@
       "fr": "Découvrez ce qui compte le plus pour choisir une plateforme email pour votre entreprise.",
       "tr": "İşiniz için bir email platformu seçerken en önemli olanı keşfedin.",
       "zh-CN": "探索为您的业务选择电子邮件平台时最重要的因素。",
-      "zh-TW": "探索為您的業務選擇電郵平台時最重要的因素。"
+      "zh-TW": "探索為您的業務選擇電郵平台時最重要的因素。",
+      "id": "Jelajahi hal yang paling penting saat memilih platform email untuk bisnis Anda."
     },
     "Get started with email": {
       "ja": "メールを始める",
@@ -6875,7 +6905,8 @@
       "fr": "Démarrer avec l'email",
       "tr": "Email ile başlayın",
       "zh-CN": "开始使用电子邮件",
-      "zh-TW": "開始使用電郵"
+      "zh-TW": "開始使用電郵",
+      "id": "Mulai dengan email"
     },
     "Learn how to warm up your domain to ensure reliable email performance.": {
       "ja": "安定したメールパフォーマンスを確保するためのドメインウォームアップの方法を確認。",
@@ -6885,7 +6916,8 @@
       "fr": "Apprenez comment chauffer votre domaine pour garantir des performances email fiables.",
       "tr": "Güvenilir email performansı sağlamak için etki alanınızı nasıl ısıtacağınızı öğrenin.",
       "zh-CN": "了解如何预热您的域名以确保可靠的电子邮件性能。",
-      "zh-TW": "了解如何預熱您的網域以確保可靠的電郵表現。"
+      "zh-TW": "了解如何預熱您的網域以確保可靠的電郵表現。",
+      "id": "Pelajari cara memanaskan domain Anda untuk memastikan kinerja email yang andal."
     },
     "Make sure you can send emails from this domain": {
       "ja": "このドメインからメールを送信できることを確認してください",
@@ -6895,7 +6927,8 @@
       "fr": "Vérifiez que vous pouvez envoyer des emails depuis ce domaine",
       "tr": "Bu etki alanından email gönderebildiğinizden emin olun",
       "zh-CN": "确保您可以从此域名发送电子邮件",
-      "zh-TW": "確保您可以從此網域發送電郵"
+      "zh-TW": "確保您可以從此網域發送電郵",
+      "id": "Pastikan Anda dapat mengirim email dari domain ini"
     },
     "Send and track your first email": {
       "ja": "最初のメールを送信して追跡",
@@ -6905,7 +6938,8 @@
       "fr": "Envoyez et suivez votre premier email",
       "tr": "İlk emailinizi gönderin ve takip edin",
       "zh-CN": "发送并追踪您的第一封电子邮件",
-      "zh-TW": "發送並追蹤您的第一封電郵"
+      "zh-TW": "發送並追蹤您的第一封電郵",
+      "id": "Kirim dan lacak email pertama Anda"
     },
     "Send engaging emails to your users. Start by sending your first test email to see how it works.": {
       "ja": "ユーザーへの魅力的なメールを送信します。まずテストメールを送って動作を確認します。",
@@ -6915,7 +6949,8 @@
       "fr": "Envoyez des emails engageants à vos utilisateurs. Commencez par envoyer votre premier email de test pour voir comment cela fonctionne.",
       "tr": "Kullanıcılarınıza ilgi çekici emailler gönderin. Nasıl çalıştığını görmek için ilk test emailinizi göndererek başlayın.",
       "zh-CN": "向您的用户发送精彩的电子邮件。先发送第一封测试电子邮件看看效果。",
-      "zh-TW": "向您的用戶發送精彩的電郵。先發送第一封測試電郵看看效果。"
+      "zh-TW": "向您的用戶發送精彩的電郵。先發送第一封測試電郵看看效果。",
+      "id": "Kirim email menarik ke pengguna Anda. Mulailah dengan mengirim email uji pertama untuk melihat cara kerjanya."
     },
     "Send with confidence": {
       "ja": "自信を持って送信",
@@ -6925,7 +6960,8 @@
       "fr": "Envoyer en toute confiance",
       "tr": "Güvenle gönderin",
       "zh-CN": "放心发送",
-      "zh-TW": "放心發送"
+      "zh-TW": "放心發送",
+      "id": "Kirim dengan percaya diri"
     },
     "Set the email address your messages will come from": {
       "ja": "メッセージの送信元メールアドレスを設定",
@@ -6935,7 +6971,8 @@
       "fr": "Définissez l'adresse email depuis laquelle vos messages seront envoyés",
       "tr": "Mesajlarınızın gönderileceği email adresini belirleyin",
       "zh-CN": "设置消息发送源电子邮件地址",
-      "zh-TW": "設定訊息發送源電郵地址"
+      "zh-TW": "設定訊息發送源電郵地址",
+      "id": "Atur alamat email asal pesan Anda"
     },
     "Set up your email sender and domain": {
       "ja": "メールの送信者とドメインを設定",
@@ -6945,7 +6982,8 @@
       "fr": "Configurer votre expéditeur email et votre domaine",
       "tr": "Email göndereninizi ve etki alanınızı kurun",
       "zh-CN": "设置您的电子邮件发件人和域名",
-      "zh-TW": "設定您的電郵發件人和網域"
+      "zh-TW": "設定您的電郵發件人和網域",
+      "id": "Siapkan pengirim email dan domain Anda"
     },
     "Start sending to your audience. You're all set to send emails!": {
       "ja": "オーディエンスへの送信を開始します。メールを送信する準備が整いました！",
@@ -6955,7 +6993,8 @@
       "fr": "Commencez à envoyer à votre audience. Vous êtes prêt à envoyer des emails !",
       "tr": "Hedef kitlenize göndermeye başlayın. Email göndermeye hazırsınız!",
       "zh-CN": "开始向您的受众发送。一切准备就绪，可以开始发送电子邮件了！",
-      "zh-TW": "開始向您的受眾發送。一切準備就緒，可以開始發送電郵了！"
+      "zh-TW": "開始向您的受眾發送。一切準備就緒，可以開始發送電郵了！",
+      "id": "Mulai kirim ke audiens Anda. Anda siap mengirim email!"
     },
     "We'll check if everything's set up correctly": {
       "ja": "すべてが正しく設定されているか確認します",
@@ -6965,7 +7004,8 @@
       "fr": "Nous vérifierons que tout est correctement configuré",
       "tr": "Her şeyin doğru yapılandırıldığını kontrol edeceğiz",
       "zh-CN": "我们将检查是否已正确设置",
-      "zh-TW": "我們將檢查是否已正確設定"
+      "zh-TW": "我們將檢查是否已正確設定",
+      "id": "Kami akan memeriksa apakah semua sudah diatur dengan benar"
     },
     "Customize app experiences": {
       "ja": "アプリ体験をカスタマイズ",
@@ -6975,7 +7015,8 @@
       "fr": "Personnalisez les expériences de l'app",
       "tr": "Uygulama deneyimlerini özelleştirin",
       "zh-CN": "自定义应用体验",
-      "zh-TW": "自訂應用體驗"
+      "zh-TW": "自訂應用體驗",
+      "id": "Sesuaikan pengalaman aplikasi"
     },
     "Guide users to high-value actions and conversions": {
       "ja": "ユーザーを価値の高いアクションとコンバージョンへ誘導",
@@ -6985,7 +7026,8 @@
       "fr": "Guidez les utilisateurs vers des actions à forte valeur et des conversions",
       "tr": "Kullanıcıları yüksek değerli eylemlere ve dönüşümlere yönlendirin",
       "zh-CN": "引导用户进行高价值操作和转化",
-      "zh-TW": "引導用戶進行高價值操作和轉換"
+      "zh-TW": "引導用戶進行高價值操作和轉換",
+      "id": "Arahkan pengguna ke tindakan dan konversi bernilai tinggi"
     },
     "In-App setup documentation": {
       "ja": "アプリ内セットアップドキュメント",
@@ -6995,7 +7037,8 @@
       "fr": "Documentation de configuration In-App",
       "tr": "In-App kurulum dokümantasyonu",
       "zh-CN": "应用内设置文档",
-      "zh-TW": "應用內設定文件"
+      "zh-TW": "應用內設定文件",
+      "id": "Dokumentasi pengaturan In-App"
     },
     "In-app for onboarding, trials, upsells, and more": {
       "ja": "オンボーディング、トライアル、アップセルなどにアプリ内メッセージを活用",
@@ -7005,7 +7048,8 @@
       "fr": "In-app pour l'onboarding, les essais, les ventes additionnelles, etc.",
       "tr": "Kullanıcı kazanımı, deneme sürümleri, ek satışlar ve daha fazlası için in-app",
       "zh-CN": "应用内消息用于新手引导、试用、追加销售等",
-      "zh-TW": "應用內訊息用於新手引導、試用、追加銷售等"
+      "zh-TW": "應用內訊息用於新手引導、試用、追加銷售等",
+      "id": "In-app untuk orientasi, uji coba, upsell, dan lainnya"
     },
     "No developer resources or app release required": {
       "ja": "開発リソースやアプリのリリースは不要",
@@ -7015,7 +7059,8 @@
       "fr": "Aucune ressource de développement ni publication d'app requise",
       "tr": "Geliştirici kaynağı veya uygulama sürümü gerekmez",
       "zh-CN": "无需开发资源或应用发布",
-      "zh-TW": "無需開發資源或應用發佈"
+      "zh-TW": "無需開發資源或應用發佈",
+      "id": "Tidak diperlukan sumber daya pengembang atau rilis aplikasi"
     },
     "Set Up In-App": {
       "ja": "アプリ内をセットアップ",
@@ -7025,7 +7070,8 @@
       "fr": "Configurer In-App",
       "tr": "In-App kur",
       "zh-CN": "设置应用内",
-      "zh-TW": "設定應用內"
+      "zh-TW": "設定應用內",
+      "id": "Siapkan In-App"
     },
     "Automate onboarding, re-engagement, and more": {
       "ja": "オンボーディング、再エンゲージメントなどを自動化する",
@@ -7035,7 +7081,8 @@
       "fr": "Automatisez l'onboarding, la réactivation, et plus",
       "tr": "Kullanıcı kazanımını, yeniden etkileşimi ve daha fazlasını otomatikleştirin",
       "zh-CN": "自动化新手引导、再互动等",
-      "zh-TW": "自動化新手引導、再互動等"
+      "zh-TW": "自動化新手引導、再互動等",
+      "id": "Otomatiskan orientasi, keterlibatan ulang, dan lainnya"
     },
     "Automate personalized messaging": {
       "ja": "パーソナライズされたメッセージを自動化",
@@ -7045,7 +7092,8 @@
       "fr": "Automatisez la messagerie personnalisée",
       "tr": "Kişiselleştirilmiş mesajlaşmayı otomatikleştirin",
       "zh-CN": "自动化个性化消息",
-      "zh-TW": "自動化個人化訊息"
+      "zh-TW": "自動化個人化訊息",
+      "id": "Otomatiskan pesan yang dipersonalisasi"
     },
     "Avoid starting from scratch for every campaign": {
       "ja": "キャンペーンのたびにゼロから始める手間をなくす",
@@ -7055,7 +7103,8 @@
       "fr": "Évitez de partir de zéro pour chaque campagne",
       "tr": "Her kampanyada sıfırdan başlamaktan kaçının",
       "zh-CN": "避免每次营销活动都从头开始",
-      "zh-TW": "避免每次營銷活動都從頭開始"
+      "zh-TW": "避免每次營銷活動都從頭開始",
+      "id": "Hindari memulai dari awal untuk setiap kampanye"
     },
     "Build custom templates to re-use": {
       "ja": "再利用可能なカスタムテンプレートを作成",
@@ -7065,7 +7114,8 @@
       "fr": "Créez des modèles personnalisés à réutiliser",
       "tr": "Yeniden kullanmak için özel şablonlar oluşturun",
       "zh-CN": "构建可复用的自定义模板",
-      "zh-TW": "建立可重用的自訂範本"
+      "zh-TW": "建立可重用的自訂範本",
+      "id": "Buat template kustom untuk digunakan kembali"
     },
     "Combine channels, campaigns, and messaging logic in our drag-and-drop visual builder": {
       "ja": "ドラッグ＆ドロップのビジュアルビルダーで、チャネル・キャンペーン・メッセージングロジックを組み合わせる",
@@ -7075,7 +7125,8 @@
       "fr": "Combinez canaux, campagnes et logique de messagerie dans notre éditeur visuel par glisser-déposer",
       "tr": "Sürükle-bırak görsel oluşturucumuzda kanalları, kampanyaları ve mesajlaşma mantığını birleştirin",
       "zh-CN": "在我们的拖放式可视化构建器中组合渠道、营销活动和消息逻辑",
-      "zh-TW": "在我們的拖放式視覺化構建器中組合渠道、營銷活動和訊息邏輯"
+      "zh-TW": "在我們的拖放式視覺化構建器中組合渠道、營銷活動和訊息邏輯",
+      "id": "Gabungkan saluran, kampanye, dan logika pesan dalam pembuat visual seret-dan-lepas kami"
     },
     "Combine push, email, SMS, and in-app in a single Journey": {
       "ja": "プッシュ、メール、SMS、アプリ内を1つのジャーニーに組み合わせる",
