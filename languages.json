@@ -569,7 +569,8 @@
       "fr": "Journaux d'audit",
       "tr": "Denetim günlükleri",
       "zh-CN": "审计日志",
-      "zh-TW": "審計日誌"
+      "zh-TW": "審計日誌",
+      "id": "Log Audit"
     },
     "Aug": {
       "es": "ago",
@@ -579,7 +580,8 @@
       "fr": "août",
       "tr": "ağu",
       "zh-CN": "8月",
-      "zh-TW": "8月"
+      "zh-TW": "8月",
+      "id": "Agu"
     },
     "August": {
       "es": "agosto",
@@ -589,7 +591,8 @@
       "fr": "août",
       "tr": "ağustos",
       "zh-CN": "8月",
-      "zh-TW": "8月"
+      "zh-TW": "8月",
+      "id": "Agustus"
     },
     "Automated": {
       "es": "Automatizado",
@@ -599,7 +602,8 @@
       "fr": "Automatisé",
       "tr": "Otomatik",
       "zh-CN": "自动化",
-      "zh-TW": "自動化"
+      "zh-TW": "自動化",
+      "id": "Otomatis"
     },
     "automated": {
       "es": "automatizado",
@@ -609,7 +613,8 @@
       "fr": "automatisé",
       "tr": "otomatik",
       "zh-CN": "自动化",
-      "zh-TW": "自動化"
+      "zh-TW": "自動化",
+      "id": "otomatis"
     },
     "Automated Messages": {
       "es": "Mensajes automatizados",
@@ -619,7 +624,8 @@
       "fr": "Messages automatisés",
       "tr": "Otomatik mesajlar",
       "zh-CN": "自动化消息",
-      "zh-TW": "自動化訊息"
+      "zh-TW": "自動化訊息",
+      "id": "Pesan Otomatis"
     },
     "Automation": {
       "es": "Automatización",
@@ -629,7 +635,8 @@
       "fr": "Automatisation",
       "tr": "Otomasyon",
       "zh-CN": "自动化",
-      "zh-TW": "自動化"
+      "zh-TW": "自動化",
+      "id": "Otomasi"
     },
     "Average": {
       "es": "Promedio",
@@ -639,7 +646,8 @@
       "fr": "Moyenne",
       "tr": "Ortalama",
       "zh-CN": "平均",
-      "zh-TW": "平均"
+      "zh-TW": "平均",
+      "id": "Rata-rata"
     },
     "Back": {
       "es": "Volver",
@@ -649,7 +657,8 @@
       "fr": "Retour",
       "tr": "Geri",
       "zh-CN": "返回",
-      "zh-TW": "返回"
+      "zh-TW": "返回",
+      "id": "Kembali"
     },
     "Badge": {
       "es": "Insignia",
@@ -659,7 +668,8 @@
       "fr": "Badge",
       "tr": "Rozet",
       "zh-CN": "徽章",
-      "zh-TW": "徽章"
+      "zh-TW": "徽章",
+      "id": "Lencana"
     },
     "Banner": {
       "es": "Banner",
@@ -669,7 +679,8 @@
       "fr": "Bannière",
       "tr": "Banner",
       "zh-CN": "横幅",
-      "zh-TW": "橫幅"
+      "zh-TW": "橫幅",
+      "id": "Spanduk"
     },
     "Blog": {
       "es": "Blog",
@@ -679,7 +690,8 @@
       "fr": "Blog",
       "tr": "Blog",
       "zh-CN": "博客",
-      "zh-TW": "網誌"
+      "zh-TW": "網誌",
+      "id": "Blog"
     },
     "Branch": {
       "es": "Rama",
@@ -689,7 +701,8 @@
       "fr": "Branche",
       "tr": "Şube",
       "zh-CN": "分支",
-      "zh-TW": "分支"
+      "zh-TW": "分支",
+      "id": "Cabang"
     },
     "Calendar": {
       "es": "Calendario",
@@ -699,7 +712,8 @@
       "fr": "Calendrier",
       "tr": "Takvim",
       "zh-CN": "日历",
-      "zh-TW": "日曆"
+      "zh-TW": "日曆",
+      "id": "Kalender"
     },
     "Cancel": {
       "es": "Cancelar",
@@ -709,7 +723,8 @@
       "fr": "Annuler",
       "tr": "İptal",
       "zh-CN": "取消",
-      "zh-TW": "取消"
+      "zh-TW": "取消",
+      "id": "Batalkan"
     },
     "Canceled": {
       "es": "Cancelado",
@@ -719,7 +734,8 @@
       "fr": "Annulé",
       "tr": "İptal edildi",
       "zh-CN": "已取消",
-      "zh-TW": "已取消"
+      "zh-TW": "已取消",
+      "id": "Dibatalkan"
     },
     "Careers": {
       "es": "Empleo",
@@ -729,7 +745,8 @@
       "fr": "Carrières",
       "tr": "Kariyer",
       "zh-CN": "招聘",
-      "zh-TW": "招聘"
+      "zh-TW": "招聘",
+      "id": "Karier"
     },
     "Catalog": {
       "es": "Catálogo",
@@ -739,7 +756,8 @@
       "fr": "Catalogue",
       "tr": "Katalog",
       "zh-CN": "目录",
-      "zh-TW": "目錄"
+      "zh-TW": "目錄",
+      "id": "Katalog"
     },
     "Changes saved": {
       "es": "Cambios guardados",
@@ -749,7 +767,8 @@
       "fr": "Modifications enregistrées",
       "tr": "Değişiklikler kaydedildi",
       "zh-CN": "更改已保存",
-      "zh-TW": "變更已儲存"
+      "zh-TW": "變更已儲存",
+      "id": "Perubahan disimpan"
     },
     "Channel": {
       "es": "Canal",
@@ -759,7 +778,8 @@
       "fr": "Canal",
       "tr": "Kanal",
       "zh-CN": "渠道",
-      "zh-TW": "渠道"
+      "zh-TW": "渠道",
+      "id": "Saluran"
     },
     "Channels": {
       "es": "Canales",
@@ -769,7 +789,8 @@
       "fr": "Canaux",
       "tr": "Kanallar",
       "zh-CN": "渠道",
-      "zh-TW": "渠道"
+      "zh-TW": "渠道",
+      "id": "Saluran"
     },
     "Character Count": {
       "es": "Conteo de caracteres",
@@ -779,7 +800,8 @@
       "fr": "Nombre de caractères",
       "tr": "Karakter sayısı",
       "zh-CN": "字符数",
-      "zh-TW": "字元數"
+      "zh-TW": "字元數",
+      "id": "Jumlah Karakter"
     },
     "Chart": {
       "es": "Gráfico",
@@ -789,7 +811,8 @@
       "fr": "Graphique",
       "tr": "Grafik",
       "zh-CN": "图表",
-      "zh-TW": "圖表"
+      "zh-TW": "圖表",
+      "id": "Grafik"
     },
     "Chrome": {
       "es": "Chrome",
@@ -799,7 +822,8 @@
       "fr": "Chrome",
       "tr": "Chrome",
       "zh-CN": "Chrome",
-      "zh-TW": "Chrome"
+      "zh-TW": "Chrome",
+      "id": "Chrome"
     },
     "City": {
       "es": "Ciudad",
@@ -809,7 +833,8 @@
       "fr": "Ville",
       "tr": "Şehir",
       "zh-CN": "城市",
-      "zh-TW": "城市"
+      "zh-TW": "城市",
+      "id": "Kota"
     },
     "Clear": {
       "es": "Limpiar",
@@ -819,7 +844,8 @@
       "fr": "Effacer",
       "tr": "Temizle",
       "zh-CN": "清除",
-      "zh-TW": "清除"
+      "zh-TW": "清除",
+      "id": "Hapus"
     },
     "Click-through Rate": {
       "es": "Tasa de clics",
@@ -829,7 +855,8 @@
       "fr": "Taux de clics",
       "tr": "Tıklama oranı",
       "zh-CN": "点击率",
-      "zh-TW": "點擊率"
+      "zh-TW": "點擊率",
+      "id": "Tingkat Klik"
     },
     "Click-through rate": {
       "es": "Tasa de clics",
@@ -839,7 +866,8 @@
       "fr": "Taux de clics",
       "tr": "Tıklama oranı",
       "zh-CN": "点击率",
-      "zh-TW": "點擊率"
+      "zh-TW": "點擊率",
+      "id": "Tingkat klik"
     },
     "Clicked": {
       "es": "Clicado",
@@ -849,7 +877,8 @@
       "fr": "Cliqué",
       "tr": "Tıklandı",
       "zh-CN": "已点击",
-      "zh-TW": "已點擊"
+      "zh-TW": "已點擊",
+      "id": "Diklik"
     },
     "Clicked:": {
       "es": "Clics:",
@@ -859,7 +888,8 @@
       "fr": "Cliqué :",
       "tr": "Tıklandı:",
       "zh-CN": "已点击:",
-      "zh-TW": "已點擊："
+      "zh-TW": "已點擊：",
+      "id": "Diklik:"
     },
     "Clicks": {
       "es": "Clics",
@@ -869,7 +899,8 @@
       "fr": "Clics",
       "tr": "Tıklamalar",
       "zh-CN": "点击",
-      "zh-TW": "點擊"
+      "zh-TW": "點擊",
+      "id": "Klik"
     },
     "Clicks (count)": {
       "es": "Clics (recuento)",
@@ -879,7 +910,8 @@
       "fr": "Clics (nombre)",
       "tr": "Tıklamalar (sayı)",
       "zh-CN": "点击 (数量)",
-      "zh-TW": "點擊 (數量)"
+      "zh-TW": "點擊 (數量)",
+      "id": "Klik (jumlah)"
     },
     "Clicks:": {
       "es": "Clics:",
@@ -889,7 +921,8 @@
       "fr": "Clics :",
       "tr": "Tıklamalar:",
       "zh-CN": "点击:",
-      "zh-TW": "點擊："
+      "zh-TW": "點擊：",
+      "id": "Klik:"
     },
     "Close": {
       "es": "Cerrar",
@@ -899,7 +932,8 @@
       "fr": "Fermer",
       "tr": "Kapat",
       "zh-CN": "关闭",
-      "zh-TW": "關閉"
+      "zh-TW": "關閉",
+      "id": "Tutup"
     },
     "Communicate different value props and incentives to get your users back.": {
       "es": "Comunica diferentes propuestas de valor e incentivos para recuperar a tus usuarios.",
@@ -909,7 +943,8 @@
       "fr": "Communiquez différentes propositions de valeur et incitations pour faire revenir vos utilisateurs.",
       "tr": "Kullanıcılarınızı geri kazanmak için farklı değer önerileri ve teşvikler iletin.",
       "zh-CN": "通过不同的价值主张和优惠吸引用户回归。",
-      "zh-TW": "透過不同的價值主張和優惠吸引用戶回歸。"
+      "zh-TW": "透過不同的價值主張和優惠吸引用戶回歸。",
+      "id": "Sampaikan proposisi nilai dan insentif berbeda untuk mengajak pengguna kembali."
     },
     "Compare to": {
       "es": "Comparar con",
@@ -919,7 +954,8 @@
       "fr": "Comparer à",
       "tr": "Karşılaştır",
       "zh-CN": "对比",
-      "zh-TW": "對比"
+      "zh-TW": "對比",
+      "id": "Bandingkan dengan"
     },
     "Completed": {
       "es": "Completado",
@@ -929,7 +965,8 @@
       "fr": "Terminé",
       "tr": "Tamamlandı",
       "zh-CN": "已完成",
-      "zh-TW": "已完成"
+      "zh-TW": "已完成",
+      "id": "Selesai"
     },
     "Confirm": {
       "es": "Confirmar",
@@ -939,7 +976,8 @@
       "fr": "Confirmer",
       "tr": "Onayla",
       "zh-CN": "确认",
-      "zh-TW": "確認"
+      "zh-TW": "確認",
+      "id": "Konfirmasi"
     },
     "Confirm and Send": {
       "es": "Confirmar y enviar",
@@ -949,7 +987,8 @@
       "fr": "Confirmer et envoyer",
       "tr": "Onayla ve gönder",
       "zh-CN": "确认并发送",
-      "zh-TW": "確認並發送"
+      "zh-TW": "確認並發送",
+      "id": "Konfirmasi dan Kirim"
     },
     "Confirmed": {
       "es": "Confirmado",
@@ -959,7 +998,8 @@
       "fr": "Confirmé",
       "tr": "Onaylandı",
       "zh-CN": "已确认",
-      "zh-TW": "已確認"
+      "zh-TW": "已確認",
+      "id": "Dikonfirmasi"
     },
     "Confirmed (count)": {
       "es": "Confirmado (recuento)",
@@ -969,7 +1009,8 @@
       "fr": "Confirmé (nombre)",
       "tr": "Onaylandı (sayı)",
       "zh-CN": "已确认 (数量)",
-      "zh-TW": "已確認 (數量)"
+      "zh-TW": "已確認 (數量)",
+      "id": "Dikonfirmasi (jumlah)"
     },
     "Confirmed Delivered": {
       "es": "Entrega confirmada",
@@ -979,7 +1020,8 @@
       "fr": "Livraison confirmée",
       "tr": "Teslim onaylandı",
       "zh-CN": "已确认送达",
-      "zh-TW": "已確認送達"
+      "zh-TW": "已確認送達",
+      "id": "Tersampaikan Terkonfirmasi"
     },
     "Confirmed receipt": {
       "es": "Recepción confirmada",
@@ -989,7 +1031,8 @@
       "fr": "Réception confirmée",
       "tr": "Alındı onaylandı",
       "zh-CN": "已确认接收",
-      "zh-TW": "已確認接收"
+      "zh-TW": "已確認接收",
+      "id": "Tanda terima terkonfirmasi"
     },
     "Confirmed receipt CTR": {
       "es": "CTR de recepción confirmada",
@@ -999,7 +1042,8 @@
       "fr": "CTR de réception confirmée",
       "tr": "Alındı onaylandı CTR",
       "zh-CN": "已确认接收 CTR",
-      "zh-TW": "已確認接收 CTR"
+      "zh-TW": "已確認接收 CTR",
+      "id": "CTR tanda terima terkonfirmasi"
     },
     "Confirmed receipt rate": {
       "es": "Tasa de recepción confirmada",
@@ -1009,7 +1053,8 @@
       "fr": "Taux de réception confirmée",
       "tr": "Alındı onaylandı oranı",
       "zh-CN": "已确认接收率",
-      "zh-TW": "已確認接收率"
+      "zh-TW": "已確認接收率",
+      "id": "Tingkat tanda terima terkonfirmasi"
     },
     "Confirmed receipt:": {
       "es": "Recepción confirmada:",
@@ -1019,7 +1064,8 @@
       "fr": "Réception confirmée :",
       "tr": "Alındı onaylandı:",
       "zh-CN": "已确认接收:",
-      "zh-TW": "已確認接收："
+      "zh-TW": "已確認接收：",
+      "id": "Tanda terima terkonfirmasi:"
     },
     "Confirmed:": {
       "es": "Confirmados:",
@@ -1029,7 +1075,8 @@
       "fr": "Confirmés :",
       "tr": "Onaylandı:",
       "zh-CN": "已确认:",
-      "zh-TW": "已確認："
+      "zh-TW": "已確認：",
+      "id": "Dikonfirmasi:"
     },
     "Connect with new contacts that joined in the past 3 hours": {
       "es": "Conecta con nuevos contactos de las últimas 3 horas",
@@ -1039,7 +1086,8 @@
       "fr": "Connectez-vous avec les nouveaux contacts ajoutés depuis 3 heures",
       "tr": "Son 3 saatte katılan yeni kişilerle bağlantı kurun",
       "zh-CN": "联系过去 3 小时内新加入的联系人",
-      "zh-TW": "聯絡過去 3 小時內新加入的聯絡人"
+      "zh-TW": "聯絡過去 3 小時內新加入的聯絡人",
+      "id": "Hubungi kontak baru yang bergabung dalam 3 jam terakhir"
     },
     "Connected": {
       "es": "Conectado",
@@ -1049,7 +1097,8 @@
       "fr": "Connecté",
       "tr": "Bağlandı",
       "zh-CN": "已连接",
-      "zh-TW": "已連接"
+      "zh-TW": "已連接",
+      "id": "Terhubung"
     },
     "Connections": {
       "es": "Conexiones",
@@ -1059,7 +1108,8 @@
       "fr": "Connexions",
       "tr": "Bağlantılar",
       "zh-CN": "连接",
-      "zh-TW": "連接"
+      "zh-TW": "連接",
+      "id": "Koneksi"
     },
     "Contact your active audience from a specified country": {
       "es": "Contacta tu audiencia activa de un país específico",
