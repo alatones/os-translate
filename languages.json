@@ -16904,7 +16904,8 @@
       "fr": "Les utilisateurs ne reçoivent les messages de ce Parcours qu'une seule fois.",
       "tr": "Kullanıcılar bu Yolculuktan mesajları yalnızca bir kez alır.",
       "zh-CN": "用户只会从此旅程收到一次消息。",
-      "zh-TW": "用戶只會從此旅程收到一次訊息。"
+      "zh-TW": "用戶只會從此旅程收到一次訊息。",
+      "id": "Pengguna hanya menerima pesan dari Journey ini sekali."
     },
     "Users re-enter the Journey after a period of time if they match the entry rules.": {
       "ja": "ユーザーが入場ルールに一致する場合、一定期間後にジャーニーに再度入ります。",
@@ -16914,7 +16915,8 @@
       "fr": "Les utilisateurs entrent à nouveau dans le Parcours après un certain temps s'ils correspondent aux règles d'entrée.",
       "tr": "Kullanıcılar giriş kurallarıyla eşleşirlerse belirli bir süre sonra Yolculuğa tekrar girerler.",
       "zh-CN": "如果用户匹配进入规则，他们将在一段时间后重新进入旅程。",
-      "zh-TW": "如果用戶匹配進入規則，他們將在一段時間後重新進入旅程。"
+      "zh-TW": "如果用戶匹配進入規則，他們將在一段時間後重新進入旅程。",
+      "id": "Pengguna masuk kembali ke Journey setelah jangka waktu tertentu jika mereka memenuhi aturan masuk."
     },
     "Wait": {
       "ja": "待機",
@@ -16924,7 +16926,8 @@
       "fr": "Attendre",
       "tr": "Bekle",
       "zh-CN": "等待",
-      "zh-TW": "等待"
+      "zh-TW": "等待",
+      "id": "Tunggu"
     },
     "Yes, after a certain amount of time": {
       "ja": "はい、一定時間後",
@@ -16934,7 +16937,8 @@
       "fr": "Oui, après un certain temps",
       "tr": "Evet, belirli bir süre sonra",
       "zh-CN": "是，在一定时间之后",
-      "zh-TW": "是，在一定時間之後"
+      "zh-TW": "是，在一定時間之後",
+      "id": "Ya, setelah jangka waktu tertentu"
     },
     "This message will": {
       "ja": "このメッセージは",
@@ -16944,7 +16948,8 @@
       "fr": "Ce message",
       "tr": "Bu mesaj",
       "zh-CN": "此消息将",
-      "zh-TW": "此訊息將"
+      "zh-TW": "此訊息將",
+      "id": "Pesan ini akan"
     },
     "send immediately": {
       "ja": "すぐに送信",
@@ -16954,7 +16959,8 @@
       "fr": "sera envoyé immédiatement",
       "tr": "hemen gönderilecek",
       "zh-CN": "立即发送",
-      "zh-TW": "立即發送"
+      "zh-TW": "立即發送",
+      "id": "dikirim segera"
     },
     "once the user reaches this step.": {
       "ja": "ユーザーがこのステップに到達した時点で送信",
@@ -16964,7 +16970,8 @@
       "fr": "une fois que l'utilisateur atteint cette étape.",
       "tr": "kullanıcı bu adıma ulaştığında.",
       "zh-CN": "当用户到达此步骤时。",
-      "zh-TW": "當用戶到達此步驟時。"
+      "zh-TW": "當用戶到達此步驟時。",
+      "id": "setelah pengguna mencapai langkah ini."
     },
     "To manage what days and times this message sends at, add a": {
       "ja": "このメッセージの送信日時を管理するには、",
@@ -16974,7 +16981,8 @@
       "fr": "Pour gérer les jours et heures auxquels ce message est envoyé, ajoutez une",
       "tr": "Bu mesajın gönderildiği gün ve saatleri yönetmek için, bir",
       "zh-CN": "要管理此消息的发送日期和时间，请添加",
-      "zh-TW": "要管理此訊息的發送日期和時間，請新增"
+      "zh-TW": "要管理此訊息的發送日期和時間，請新增",
+      "id": "Untuk mengelola hari dan waktu pengiriman pesan ini, tambahkan"
     },
     "action and/or a": {
       "ja": "アクション、または",
@@ -16984,7 +16992,8 @@
       "fr": "action et/ou une",
       "tr": "eylemi ve/veya bir",
       "zh-CN": "操作和/或",
-      "zh-TW": "操作和/或"
+      "zh-TW": "操作和/或",
+      "id": "aksi dan/atau"
     },
     "action to your Journey before this message step.": {
       "ja": "アクションをこのメッセージステップの前にジャーニーに追加してください。",
@@ -16994,7 +17003,8 @@
       "fr": "action à votre Parcours avant cette étape de message.",
       "tr": "eylemini bu mesaj adımından önce Yolculuğunuza ekleyin.",
       "zh-CN": "操作添加到您的旅程中，在此消息步骤之前。",
-      "zh-TW": "操作新增到您的旅程中，在此訊息步驟之前。"
+      "zh-TW": "操作新增到您的旅程中，在此訊息步驟之前。",
+      "id": "aksi ke Journey Anda sebelum langkah pesan ini."
     },
     "View Org in Dashboard | View Audit Logs": {
       "ja": "Dashboard で組織を表示 | 監査ログを表示",
@@ -17004,7 +17014,8 @@
       "fr": "Voir l'organisation dans le Dashboard | Voir les journaux d'audit",
       "tr": "Dashboard'da Org Görüntüle | Denetim Günlüklerini Görüntüle",
       "zh-CN": "在 Dashboard 中查看组织 | 查看审计日志",
-      "zh-TW": "在 Dashboard 中查看組織 | 查看審計日誌"
+      "zh-TW": "在 Dashboard 中查看組織 | 查看審計日誌",
+      "id": "Lihat Org di Dashboard | Lihat Log Audit"
     },
     "App Disabled": {
       "ja": "アプリ無効",
@@ -17014,7 +17025,8 @@
       "fr": "App désactivée",
       "tr": "Uygulama Devre Dışı",
       "zh-CN": "应用已禁用",
-      "zh-TW": "應用已停用"
+      "zh-TW": "應用已停用",
+      "id": "Aplikasi Dinonaktifkan"
     },
     "This organization was disabled.": {
       "ja": "この組織は無効化されました。",
@@ -17024,7 +17036,8 @@
       "fr": "Cette organisation a été désactivée.",
       "tr": "Bu kuruluş devre dışı bırakıldı.",
       "zh-CN": "此组织已被禁用。",
-      "zh-TW": "此組織已被停用。"
+      "zh-TW": "此組織已被停用。",
+      "id": "Organisasi ini telah dinonaktifkan."
     },
     "Portuguese": {
       "ja": "ポルトガル語",
@@ -17034,7 +17047,8 @@
       "fr": "Portugais",
       "tr": "Portekizce",
       "zh-CN": "葡萄牙语",
-      "zh-TW": "葡萄牙文"
+      "zh-TW": "葡萄牙文",
+      "id": "Portugis"
     },
     "Upgrade to see your users' recent messaging activity including sends, deliveries, and clicks.   Contact Sales": {
       "ja": "アップグレードして、送信・配信・クリックなどユーザーの最近のメッセージング活動を確認しましょう。   営業担当へ連絡",
@@ -17044,7 +17058,8 @@
       "fr": "Passez à un forfait supérieur pour voir l'activité de messagerie récente de vos utilisateurs, y compris les envois, les livraisons et les clics.   Contacter les ventes",
       "tr": "Kullanıcılarınızın gönderim, teslimat ve tıklamalar dahil son mesajlaşma etkinliğini görmek için yükseltin.   Satışla İletişime Geçin",
       "zh-CN": "升级以查看您用户最近的消息活动，包括发送、送达和点击。   联系销售",
-      "zh-TW": "升級以查看您用戶最近的訊息活動，包括發送、送達和點擊。   聯絡銷售"
+      "zh-TW": "升級以查看您用戶最近的訊息活動，包括發送、送達和點擊。   聯絡銷售",
+      "id": "Tingkatkan untuk melihat aktivitas pesan terbaru pengguna Anda termasuk pengiriman, ketercapaian, dan klik.   Hubungi Penjualan"
     },
     "for": {
       "ja": "用",
@@ -17054,7 +17069,8 @@
       "fr": "pour",
       "tr": "için",
       "zh-CN": "用于",
-      "zh-TW": "用於"
+      "zh-TW": "用於",
+      "id": "untuk"
     },
     "Label": {
       "ja": "ラベル",
@@ -17064,7 +17080,8 @@
       "fr": "Libellé",
       "tr": "Etiket",
       "zh-CN": "标签",
-      "zh-TW": "標籤"
+      "zh-TW": "標籤",
+      "id": "Label"
     },
     "Push subs": {
       "ja": "プッシュ購読",
@@ -17074,7 +17091,8 @@
       "fr": "Abonnements push",
       "tr": "Push abonelikleri",
       "zh-CN": "推送订阅",
-      "zh-TW": "推送訂閱"
+      "zh-TW": "推送訂閱",
+      "id": "Pelanggan push"
     },
     "SMS / RCS subs": {
       "ja": "SMS / RCS 購読",
@@ -17084,7 +17102,8 @@
       "fr": "Abonnements SMS / RCS",
       "tr": "SMS / RCS abonelikleri",
       "zh-CN": "短信 / 富媒体短信订阅",
-      "zh-TW": "短訊 / 富媒體短訊訂閱"
+      "zh-TW": "短訊 / 富媒體短訊訂閱",
+      "id": "Pelanggan SMS / RCS"
     },
     "Email subs": {
       "ja": "メール購読",
@@ -17094,7 +17113,8 @@
       "fr": "Abonnements email",
       "tr": "E-posta abonelikleri",
       "zh-CN": "电子邮件订阅",
-      "zh-TW": "電郵訂閱"
+      "zh-TW": "電郵訂閱",
+      "id": "Pelanggan email"
     },
     "Label is": {
       "ja": "ラベルが",
@@ -17104,7 +17124,8 @@
       "fr": "Le libellé est",
       "tr": "Etiket eşittir",
       "zh-CN": "标签为",
-      "zh-TW": "標籤為"
+      "zh-TW": "標籤為",
+      "id": "Label adalah"
     },
     "Search or select...": {
       "ja": "検索または選択...",
@@ -17114,7 +17135,8 @@
       "fr": "Rechercher ou sélectionner...",
       "tr": "Ara veya seç...",
       "zh-CN": "搜索或选择...",
-      "zh-TW": "搜尋或選擇..."
+      "zh-TW": "搜尋或選擇...",
+      "id": "Cari atau pilih..."
     },
     "missing value": {
       "ja": "欠落した値",
@@ -17124,7 +17146,8 @@
       "fr": "valeur manquante",
       "tr": "eksik değer",
       "zh-CN": "缺失值",
-      "zh-TW": "缺失值"
+      "zh-TW": "缺失值",
+      "id": "nilai tidak ada"
     },
     "View report": {
       "ja": "レポートを表示",
@@ -17134,7 +17157,8 @@
       "fr": "Voir le rapport",
       "tr": "Raporu görüntüle",
       "zh-CN": "查看报告",
-      "zh-TW": "查看報告"
+      "zh-TW": "查看報告",
+      "id": "Lihat laporan"
     },
     "Edit labels": {
       "ja": "ラベルを編集",
@@ -17144,7 +17168,8 @@
       "fr": "Modifier les libellés",
       "tr": "Etiketleri düzenle",
       "zh-CN": "编辑标签",
-      "zh-TW": "編輯標籤"
+      "zh-TW": "編輯標籤",
+      "id": "Edit label"
     },
     "Copy message ID": {
       "ja": "メッセージIDをコピー",
@@ -17154,7 +17179,8 @@
       "fr": "Copier l'ID du message",
       "tr": "Mesaj ID'sini kopyala",
       "zh-CN": "复制消息 ID",
-      "zh-TW": "複製訊息 ID"
+      "zh-TW": "複製訊息 ID",
+      "id": "Salin ID pesan"
     },
     "View audit logs": {
       "ja": "監査ログを表示",
@@ -17164,7 +17190,8 @@
       "fr": "Voir les journaux d'audit",
       "tr": "Denetim günlüklerini görüntüle",
       "zh-CN": "查看审计日志",
-      "zh-TW": "查看審計日誌"
+      "zh-TW": "查看審計日誌",
+      "id": "Lihat log audit"
     },
     "View Audit Logs": {
       "ja": "監査ログを表示",
@@ -17174,7 +17201,8 @@
       "fr": "Voir les Journaux d'Audit",
       "tr": "Denetim Günlüklerini Görüntüle",
       "zh-CN": "查看审计日志",
-      "zh-TW": "查看審計日誌"
+      "zh-TW": "查看審計日誌",
+      "id": "Lihat Log Audit"
     },
     "Reach targeted audience based on user properties or events from": {
       "ja": "ユーザー属性またはイベントに基づいてターゲットオーディエンスにリーチ —",
@@ -17184,7 +17212,8 @@
       "fr": "Atteignez l'audience cible selon les propriétés ou événements utilisateur de",
       "tr": "Kullanıcı özelliklerine veya olaylara göre hedef kitleye ulaşın —",
       "zh-CN": "根据用户属性或事件触达目标受众 —",
-      "zh-TW": "根據用戶屬性或事件觸達目標受眾 —"
+      "zh-TW": "根據用戶屬性或事件觸達目標受眾 —",
+      "id": "Jangkau audiens yang ditargetkan berdasarkan properti pengguna atau event dari"
     },
     "A group of users": {
       "ja": "ユーザーのグループ",
@@ -17194,7 +17223,8 @@
       "fr": "Un groupe d'utilisateurs",
       "tr": "Bir kullanıcı grubu",
       "zh-CN": "一组用户",
-      "zh-TW": "一組用戶"
+      "zh-TW": "一組用戶",
+      "id": "Sekelompok pengguna"
     },
     "You don't have any segments": {
       "ja": "セグメントがありません",
@@ -17204,7 +17234,8 @@
       "fr": "Vous n'avez pas de Segments",
       "tr": "Hiç Segment'iniz yok",
       "zh-CN": "您没有任何用户分群",
-      "zh-TW": "您沒有任何用戶分群"
+      "zh-TW": "您沒有任何用戶分群",
+      "id": "Anda tidak memiliki Segment"
     },
     "does not exist": {
       "ja": "存在しません",
@@ -17214,7 +17245,8 @@
       "fr": "n'existe pas",
       "tr": "mevcut değil",
       "zh-CN": "不存在",
-      "zh-TW": "不存在"
+      "zh-TW": "不存在",
+      "id": "tidak ada"
     },
     "time elapsed greater than": {
       "ja": "経過時間が次より大きい",
@@ -17224,7 +17256,8 @@
       "fr": "temps écoulé supérieur à",
       "tr": "geçen süre büyüktür",
       "zh-CN": "经过时间大于",
-      "zh-TW": "經過時間大於"
+      "zh-TW": "經過時間大於",
+      "id": "waktu berlalu lebih dari"
     },
     "time elapsed less than": {
       "ja": "経過時間が次より小さい",
@@ -17234,7 +17267,8 @@
       "fr": "temps écoulé inférieur à",
       "tr": "geçen süre küçüktür",
       "zh-CN": "经过时间小于",
-      "zh-TW": "經過時間小於"
+      "zh-TW": "經過時間小於",
+      "id": "waktu berlalu kurang dari"
     },
     "Amplitude": {
       "ja": "Amplitude",
@@ -17244,7 +17278,8 @@
       "fr": "Amplitude",
       "tr": "Amplitude",
       "zh-CN": "Amplitude",
-      "zh-TW": "Amplitude"
+      "zh-TW": "Amplitude",
+      "id": "Amplitude"
     },
     "Mixpanel": {
       "ja": "Mixpanel",
@@ -17254,7 +17289,8 @@
       "fr": "Mixpanel",
       "tr": "Mixpanel",
       "zh-CN": "Mixpanel",
-      "zh-TW": "Mixpanel"
+      "zh-TW": "Mixpanel",
+      "id": "Mixpanel"
     },
     "Segment.com": {
       "ja": "Segment.com",
@@ -17264,7 +17300,8 @@
       "fr": "Segment.com",
       "tr": "Segment.com",
       "zh-CN": "Segment.com",
-      "zh-TW": "Segment.com"
+      "zh-TW": "Segment.com",
+      "id": "Segment.com"
     },
     "Cohorts you have synced with Amplitude": {
       "ja": "Amplitudeと同期したコホート",
@@ -17274,7 +17311,8 @@
       "fr": "Cohortes que vous avez synchronisées avec Amplitude",
       "tr": "Amplitude ile senkronize ettiğiniz kohortlar",
       "zh-CN": "您已与 Amplitude 同步的群组",
-      "zh-TW": "您已與 Amplitude 同步的群組"
+      "zh-TW": "您已與 Amplitude 同步的群組",
+      "id": "Kohort yang telah Anda sinkronkan dengan Amplitude"
     },
     "Cohorts you have synced with Mixpanel": {
       "ja": "Mixpanelと同期したコホート",
@@ -17284,7 +17322,8 @@
       "fr": "Cohortes que vous avez synchronisées avec Mixpanel",
       "tr": "Mixpanel ile senkronize ettiğiniz kohortlar",
       "zh-CN": "您已与 Mixpanel 同步的群组",
-      "zh-TW": "您已與 Mixpanel 同步的群組"
+      "zh-TW": "您已與 Mixpanel 同步的群組",
+      "id": "Kohort yang telah Anda sinkronkan dengan Mixpanel"
     },
     "Cohorts you have synced with Segment.com": {
       "ja": "Segment.comと同期したコホート",
@@ -17294,7 +17333,8 @@
       "fr": "Cohortes que vous avez synchronisées avec Segment.com",
       "tr": "Segment.com ile senkronize ettiğiniz kohortlar",
       "zh-CN": "您已与 Segment.com 同步的群组",
-      "zh-TW": "您已與 Segment.com 同步的群組"
+      "zh-TW": "您已與 Segment.com 同步的群組",
+      "id": "Kohort yang telah Anda sinkronkan dengan Segment.com"
     },
     "And Filter": {
       "ja": "AND フィルター",
@@ -17304,7 +17344,8 @@
       "fr": "Filtre ET",
       "tr": "VE Filtresi",
       "zh-CN": "且筛选条件",
-      "zh-TW": "且篩選條件"
+      "zh-TW": "且篩選條件",
+      "id": "Dan Filter"
     },
     "Manually type in (exact match) or select tags pulled from your test users": {
       "ja": "手動で入力（完全一致）するか、テストユーザーから取得したタグを選択します",
@@ -17314,7 +17355,8 @@
       "fr": "Saisissez manuellement (correspondance exacte) ou sélectionnez des Tags issus de vos utilisateurs de test",
       "tr": "Manuel olarak yazın (tam eşleşme) veya test kullanıcılarınızdan çekilen Etiketleri seçin",
       "zh-CN": "手动输入（精确匹配）或选择从测试用户中提取的标签",
-      "zh-TW": "手動輸入（精確匹配）或選擇從測試用戶中提取的標籤"
+      "zh-TW": "手動輸入（精確匹配）或選擇從測試用戶中提取的標籤",
+      "id": "Ketik secara manual (kecocokan tepat) atau pilih tag yang diambil dari pengguna uji Anda"
     },
     "key": {
       "ja": "キー",
@@ -17324,7 +17366,8 @@
       "fr": "clé",
       "tr": "anahtar",
       "zh-CN": "键",
-      "zh-TW": "鍵"
+      "zh-TW": "鍵",
+      "id": "kunci"
     },
     "value": {
       "ja": "値",
@@ -17334,7 +17377,8 @@
       "fr": "valeur",
       "tr": "değer",
       "zh-CN": "值",
-      "zh-TW": "值"
+      "zh-TW": "值",
+      "id": "nilai"
     },
     "Authorization": {
       "ja": "Authorization",
@@ -17344,7 +17388,8 @@
       "fr": "Authorization",
       "tr": "Authorization",
       "zh-CN": "Authorization",
-      "zh-TW": "Authorization"
+      "zh-TW": "Authorization",
+      "id": "Otorisasi"
     },
     "Content-Type": {
       "ja": "Content-Type",
@@ -17354,7 +17399,8 @@
       "fr": "Content-Type",
       "tr": "Content-Type",
       "zh-CN": "Content-Type",
-      "zh-TW": "Content-Type"
+      "zh-TW": "Content-Type",
+      "id": "Content-Type"
     },
     "POST": {
       "ja": "POST",
@@ -17364,7 +17410,8 @@
       "fr": "POST",
       "tr": "POST",
       "zh-CN": "POST",
-      "zh-TW": "POST"
+      "zh-TW": "POST",
+      "id": "POST"
     },
     "Headers": {
       "ja": "ヘッダー",
@@ -17374,7 +17421,8 @@
       "fr": "En-têtes",
       "tr": "Başlıklar",
       "zh-CN": "标头",
-      "zh-TW": "標頭"
+      "zh-TW": "標頭",
+      "id": "Header"
     },
     "Body": {
       "ja": "本文",
