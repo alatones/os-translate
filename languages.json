@@ -10194,7 +10194,8 @@
       "fr": "Heure spécifique",
       "tr": "Belirli zaman",
       "zh-CN": "特定时间",
-      "zh-TW": "特定時間"
+      "zh-TW": "特定時間",
+      "id": "Waktu tertentu"
     },
     "System Font (Default)": {
       "ja": "システムフォント (デフォルト)",
@@ -10204,7 +10205,8 @@
       "fr": "Police système (par défaut)",
       "tr": "Sistem yazı tipi (varsayılan)",
       "zh-CN": "系统字体（默认）",
-      "zh-TW": "系統字體（預設）"
+      "zh-TW": "系統字體（預設）",
+      "id": "Font Sistem (Default)"
     },
     "Text formatting": {
       "ja": "テキスト書式",
@@ -10214,7 +10216,8 @@
       "fr": "Formatage du texte",
       "tr": "Metin biçimlendirme",
       "zh-CN": "文本格式",
-      "zh-TW": "文字格式"
+      "zh-TW": "文字格式",
+      "id": "Pemformatan teks"
     },
     "Toggle bold": {
       "ja": "太字を切り替え",
@@ -10224,7 +10227,8 @@
       "fr": "Basculer en gras",
       "tr": "Kalını aç/kapat",
       "zh-CN": "切换粗体",
-      "zh-TW": "切換粗體"
+      "zh-TW": "切換粗體",
+      "id": "Aktifkan tebal"
     },
     "Toggle italic": {
       "ja": "斜体を切り替え",
@@ -10234,7 +10238,8 @@
       "fr": "Basculer en italique",
       "tr": "İtaliği aç/kapat",
       "zh-CN": "切换斜体",
-      "zh-TW": "切換斜體"
+      "zh-TW": "切換斜體",
+      "id": "Aktifkan miring"
     },
     "Toggle underline": {
       "ja": "下線を切り替え",
@@ -10244,7 +10249,8 @@
       "fr": "Basculer le soulignement",
       "tr": "Altı çizgiyi aç/kapat",
       "zh-CN": "切换下划线",
-      "zh-TW": "切換底線"
+      "zh-TW": "切換底線",
+      "id": "Aktifkan garis bawah"
     },
     "Unfold line": {
       "ja": "行を展開",
@@ -10254,7 +10260,8 @@
       "fr": "Déplier la ligne",
       "tr": "Satırı aç",
       "zh-CN": "展开行",
-      "zh-TW": "展開列"
+      "zh-TW": "展開列",
+      "id": "Buka lipatan baris"
     },
     "Clear input": {
       "ja": "入力をクリア",
@@ -10264,7 +10271,8 @@
       "fr": "Effacer l'entrée",
       "tr": "Girişi temizle",
       "zh-CN": "清除输入",
-      "zh-TW": "清除輸入"
+      "zh-TW": "清除輸入",
+      "id": "Hapus input"
     },
     "Onesignal in app message preview": {
       "ja": "OneSignalインアプリメッセージのプレビュー",
@@ -10274,7 +10282,8 @@
       "fr": "Aperçu du message in-app OneSignal",
       "tr": "OneSignal in-app mesaj önizlemesi",
       "zh-CN": "OneSignal 应用内消息预览",
-      "zh-TW": "OneSignal 應用內訊息預覽"
+      "zh-TW": "OneSignal 應用內訊息預覽",
+      "id": "Pratinjau pesan in-app OneSignal"
     },
     "4. Triggers": {
       "ja": "4. トリガー",
@@ -10284,7 +10293,8 @@
       "fr": "4. Déclencheurs",
       "tr": "4. Tetikleyiciler",
       "zh-CN": "4. 触发器",
-      "zh-TW": "4. 觸發器"
+      "zh-TW": "4. 觸發器",
+      "id": "4. Pemicu"
     },
     "5. Schedule": {
       "ja": "5. スケジュール",
@@ -10294,7 +10304,8 @@
       "fr": "5. Planification",
       "tr": "5. Planlama",
       "zh-CN": "5. 计划",
-      "zh-TW": "5. 排程"
+      "zh-TW": "5. 排程",
+      "id": "5. Jadwal"
     },
     "Alternate close icon": {
       "ja": "代替の閉じるアイコン",
@@ -10304,7 +10315,8 @@
       "fr": "Icône de fermeture alternative",
       "tr": "Alternatif kapat simgesi",
       "zh-CN": "备用关闭图标",
-      "zh-TW": "備用關閉圖示"
+      "zh-TW": "備用關閉圖示",
+      "id": "Ikon tutup alternatif"
     },
     "Background": {
       "ja": "背景",
@@ -10314,7 +10326,8 @@
       "fr": "Arrière-plan",
       "tr": "Arka plan",
       "zh-CN": "背景",
-      "zh-TW": "背景"
+      "zh-TW": "背景",
+      "id": "Latar belakang"
     },
     "Background color": {
       "ja": "背景色",
@@ -10324,7 +10337,8 @@
       "fr": "Couleur d'arrière-plan",
       "tr": "Arka plan rengi",
       "zh-CN": "背景颜色",
-      "zh-TW": "背景顏色"
+      "zh-TW": "背景顏色",
+      "id": "Warna latar belakang"
     },
     "Background image": {
       "ja": "背景画像",
@@ -10334,7 +10348,8 @@
       "fr": "Image d'arrière-plan",
       "tr": "Arka plan görseli",
       "zh-CN": "背景图像",
-      "zh-TW": "背景圖像"
+      "zh-TW": "背景圖像",
+      "id": "Gambar latar belakang"
     },
     "Border color": {
       "ja": "ボーダーの色",
@@ -10344,7 +10359,8 @@
       "fr": "Couleur de la bordure",
       "tr": "Kenarlık rengi",
       "zh-CN": "边框颜色",
-      "zh-TW": "邊框顏色"
+      "zh-TW": "邊框顏色",
+      "id": "Warna batas"
     },
     "Border weight": {
       "ja": "ボーダーの太さ",
@@ -10354,7 +10370,8 @@
       "fr": "Épaisseur de la bordure",
       "tr": "Kenarlık kalınlığı",
       "zh-CN": "边框粗细",
-      "zh-TW": "邊框粗細"
+      "zh-TW": "邊框粗細",
+      "id": "Ketebalan batas"
     },
     "Button 1": {
       "ja": "ボタン1",
@@ -10364,7 +10381,8 @@
       "fr": "Bouton 1",
       "tr": "Düğme 1",
       "zh-CN": "按钮 1",
-      "zh-TW": "按鈕 1"
+      "zh-TW": "按鈕 1",
+      "id": "Tombol 1"
     },
     "Button background": {
       "ja": "ボタンの背景",
@@ -10374,7 +10392,8 @@
       "fr": "Arrière-plan du bouton",
       "tr": "Düğme arka planı",
       "zh-CN": "按钮背景",
-      "zh-TW": "按鈕背景"
+      "zh-TW": "按鈕背景",
+      "id": "Latar belakang tombol"
     },
     "Button text": {
       "ja": "ボタンのテキスト",
@@ -10384,7 +10403,8 @@
       "fr": "Texte du bouton",
       "tr": "Düğme metni",
       "zh-CN": "按钮文本",
-      "zh-TW": "按鈕文字"
+      "zh-TW": "按鈕文字",
+      "id": "Teks tombol"
     },
     "Click Here": {
       "ja": "ここをクリック",
@@ -10394,7 +10414,8 @@
       "fr": "Cliquez ici",
       "tr": "Buraya tıklayın",
       "zh-CN": "点击此处",
-      "zh-TW": "點擊此處"
+      "zh-TW": "點擊此處",
+      "id": "Klik Di Sini"
     },
     "Close button": {
       "ja": "閉じるボタン",
@@ -10404,7 +10425,8 @@
       "fr": "Bouton de fermeture",
       "tr": "Kapat düğmesi",
       "zh-CN": "关闭按钮",
-      "zh-TW": "關閉按鈕"
+      "zh-TW": "關閉按鈕",
+      "id": "Tombol tutup"
     },
     "Color": {
       "ja": "色",
@@ -10414,7 +10436,8 @@
       "fr": "Couleur",
       "tr": "Renk",
       "zh-CN": "颜色",
-      "zh-TW": "顏色"
+      "zh-TW": "顏色",
+      "id": "Warna"
     },
     "Corner radius": {
       "ja": "角の丸み",
@@ -10424,7 +10447,8 @@
       "fr": "Rayon des coins",
       "tr": "Köşe yarıçapı",
       "zh-CN": "圆角半径",
-      "zh-TW": "圓角半徑"
+      "zh-TW": "圓角半徑",
+      "id": "Radius sudut"
     },
     "Dismiss after certain amount of time": {
       "ja": "一定時間後に閉じる",
@@ -10434,7 +10458,8 @@
       "fr": "Ignorer après un certain délai",
       "tr": "Belirli bir süre sonra kapat",
       "zh-CN": "在一定时间后关闭",
-      "zh-TW": "在一定時間後關閉"
+      "zh-TW": "在一定時間後關閉",
+      "id": "Tutup setelah jangka waktu tertentu"
     },
     "Drop shadow X": {
       "ja": "ドロップシャドウX",
@@ -10544,7 +10569,8 @@
       "fr": "Image",
       "tr": "Görsel",
       "zh-CN": "图像",
-      "zh-TW": "圖像"
+      "zh-TW": "圖像",
+      "id": "Gambar"
     },
     "Image 1": {
       "ja": "画像1",
@@ -10724,7 +10750,8 @@
       "fr": "Texte",
       "tr": "Metin",
       "zh-CN": "文本",
-      "zh-TW": "文字"
+      "zh-TW": "文字",
+      "id": "Teks"
     },
     "Text 1": {
       "ja": "テキスト1",
