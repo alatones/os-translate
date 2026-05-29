@@ -7686,7 +7686,8 @@
       "fr": "Confirmez que les emails sont au pixel près",
       "tr": "Emaillerin piksel mükemmelliğinde olduğunu onaylayın",
       "zh-CN": "确认电子邮件像素级完美",
-      "zh-TW": "確認電郵像素級完美"
+      "zh-TW": "確認電郵像素級完美",
+      "id": "Konfirmasi email sudah sempurna secara visual"
     },
     "Manage test subscriptions to preview and send test messages.": {
       "ja": "テスト購読を管理して、テストメッセージをプレビューおよび送信する。",
@@ -7696,7 +7697,8 @@
       "fr": "Gérez les abonnements de test pour prévisualiser et envoyer des messages de test.",
       "tr": "Test mesajlarını önizlemek ve göndermek için test aboneliklerini yönetin.",
       "zh-CN": "管理测试订阅以预览和发送测试消息。",
-      "zh-TW": "管理測試訂閱以預覽和發送測試訊息。"
+      "zh-TW": "管理測試訂閱以預覽和發送測試訊息。",
+      "id": "Kelola berlangganan uji untuk mempratinjau dan mengirim pesan uji."
     },
     "Send perfect messages": {
       "ja": "完璧なメッセージを送信",
@@ -7706,7 +7708,8 @@
       "fr": "Envoyez des messages parfaits",
       "tr": "Mükemmel mesajlar gönderin",
       "zh-CN": "发送完美的消息",
-      "zh-TW": "發送完美的訊息"
+      "zh-TW": "發送完美的訊息",
+      "id": "Kirim pesan yang sempurna"
     },
     "Test Subscriptions documentation": {
       "ja": "テスト購読のドキュメント",
@@ -7716,7 +7719,8 @@
       "fr": "Documentation des abonnements de test",
       "tr": "Test abonelikleri dokümantasyonu",
       "zh-CN": "测试订阅文档",
-      "zh-TW": "測試訂閱文件"
+      "zh-TW": "測試訂閱文件",
+      "id": "Dokumentasi berlangganan uji"
     },
     "Test personalized push message content": {
       "ja": "パーソナライズされたプッシュメッセージコンテンツをテスト",
@@ -7726,7 +7730,8 @@
       "fr": "Tester du contenu de message push personnalisé",
       "tr": "Kişiselleştirilmiş push mesaj içeriğini test edin",
       "zh-CN": "测试个性化推送消息内容",
-      "zh-TW": "測試個人化推送訊息內容"
+      "zh-TW": "測試個人化推送訊息內容",
+      "id": "Uji konten pesan push yang dipersonalisasi"
     },
     "Walkthrough your user journey on your own device, from message to conversion": {
       "ja": "メッセージからコンバージョンまで、自分のデバイスでユーザージャーニーをウォークスルー",
@@ -7736,7 +7741,8 @@
       "fr": "Parcourez le parcours utilisateur sur votre propre appareil, du message à la conversion",
       "tr": "Mesajdan dönüşüme kadar kullanıcı yolculuğunuzu kendi cihazınızda gözden geçirin",
       "zh-CN": "在您自己的设备上走一遍用户旅程，从消息到转化",
-      "zh-TW": "在您自己的裝置上走一遍用戶旅程，從訊息到轉換"
+      "zh-TW": "在您自己的裝置上走一遍用戶旅程，從訊息到轉換",
+      "id": "Jalankan perjalanan pengguna Anda di perangkat sendiri, dari pesan hingga konversi"
     },
     "Live Activities documentation": {
       "ja": "ライブアクティビティのドキュメント",
@@ -7746,7 +7752,8 @@
       "fr": "Documentation Live Activities",
       "tr": "Canlı Etkinlikler dokümantasyonu",
       "zh-CN": "实时活动文档",
-      "zh-TW": "即時動態文件"
+      "zh-TW": "即時動態文件",
+      "id": "Dokumentasi Live Activities"
     },
     "Book a demo": {
       "ja": "デモを予約",
@@ -7756,7 +7763,8 @@
       "fr": "Réserver une démo",
       "tr": "Demo rezervasyonu yap",
       "zh-CN": "预约演示",
-      "zh-TW": "預約演示"
+      "zh-TW": "預約演示",
+      "id": "Pesan demo"
     },
     "Book a live demo": {
       "ja": "ライブデモを予約",
@@ -7766,7 +7774,8 @@
       "fr": "Réserver une démo en direct",
       "tr": "Canlı demo rezervasyonu yap",
       "zh-CN": "预约现场演示",
-      "zh-TW": "預約現場演示"
+      "zh-TW": "預約現場演示",
+      "id": "Pesan demo langsung"
     },
     "Communicate mobile-first with users outside your app": {
       "ja": "アプリ外でもモバイルファーストでユーザーとコミュニケーションを取る",
@@ -7776,7 +7785,8 @@
       "fr": "Communiquez en mobile-first avec les utilisateurs en dehors de votre app",
       "tr": "Uygulamanız dışındaki kullanıcılarla mobil öncelikli olarak iletişim kurun",
       "zh-CN": "以移动优先的方式与应用外的用户沟通",
-      "zh-TW": "以移動優先的方式與應用外的用戶溝通"
+      "zh-TW": "以移動優先的方式與應用外的用戶溝通",
+      "id": "Berkomunikasi dengan mengutamakan seluler dengan pengguna di luar aplikasi Anda"
     },
     "Design RCS in Figma": {
       "ja": "FigmaでRCSをデザイン",
@@ -7786,7 +7796,8 @@
       "fr": "Concevoir RCS dans Figma",
       "tr": "Figma'da RCS tasarla",
       "zh-CN": "在 Figma 中设计富媒体短信",
-      "zh-TW": "在 Figma 中設計富媒體短訊"
+      "zh-TW": "在 Figma 中設計富媒體短訊",
+      "id": "Desain RCS di Figma"
     },
     "Discover RCS": {
       "ja": "RCSを知る",
@@ -7796,7 +7807,8 @@
       "fr": "Découvrir RCS",
       "tr": "RCS'yi keşfet",
       "zh-CN": "了解富媒体短信",
-      "zh-TW": "了解富媒體短訊"
+      "zh-TW": "了解富媒體短訊",
+      "id": "Temukan RCS"
     },
     "Discover what RCS can do": {
       "ja": "RCSでできることを確認",
@@ -7806,7 +7818,8 @@
       "fr": "Découvrir ce que RCS peut faire",
       "tr": "RCS'nin neler yapabileceğini keşfedin",
       "zh-CN": "了解富媒体短信的功能",
-      "zh-TW": "了解富媒體短訊的功能"
+      "zh-TW": "了解富媒體短訊的功能",
+      "id": "Temukan apa yang dapat dilakukan RCS"
     },
     "Explore RCS in Figma with ready-made components to prototype messaging flows tailored to your use case.": {
       "ja": "ユースケースに合わせたメッセージングフローをプロトタイプするための既製コンポーネントを使って、FigmaでRCSを探索します。",
@@ -7816,7 +7829,8 @@
       "fr": "Explorez RCS dans Figma avec des composants prêts à l'emploi pour prototyper des flux de messagerie adaptés à votre cas d'usage.",
       "tr": "Kullanım durumunuza özel mesajlaşma akışlarını prototiplemek için Figma'daki hazır bileşenlerle RCS'yi keşfedin.",
       "zh-CN": "在 Figma 中使用现成的组件探索富媒体短信，为您的使用场景设计消息流程原型。",
-      "zh-TW": "在 Figma 中使用現成的組件探索富媒體短訊，為您的使用場景設計訊息流程原型。"
+      "zh-TW": "在 Figma 中使用現成的組件探索富媒體短訊，為您的使用場景設計訊息流程原型。",
+      "id": "Jelajahi RCS di Figma dengan komponen siap pakai untuk membuat prototipe alur pesan yang disesuaikan dengan kasus penggunaan Anda."
     },
     "Get your brand on the lock screen": {
       "ja": "ブランドをロック画面に表示",
@@ -7826,7 +7840,8 @@
       "fr": "Faites apparaître votre marque sur l'écran de verrouillage",
       "tr": "Markanızı kilit ekranına taşıyın",
       "zh-CN": "让您的品牌出现在锁屏上",
-      "zh-TW": "讓您的品牌出現在鎖定螢幕上"
+      "zh-TW": "讓您的品牌出現在鎖定螢幕上",
+      "id": "Tampilkan merek Anda di layar kunci"
     },
     "Great for real-time, transactional, or time-bound updates": {
       "ja": "リアルタイム・トランザクション・期間限定の更新に最適",
@@ -7836,7 +7851,8 @@
       "fr": "Idéal pour les mises à jour en temps réel, transactionnelles ou limitées dans le temps",
       "tr": "Gerçek zamanlı, işlemsel veya zaman sınırlı güncellemeler için ideal",
       "zh-CN": "非常适合实时、事务性或限时更新",
-      "zh-TW": "非常適合即時、交易性或限時更新"
+      "zh-TW": "非常適合即時、交易性或限時更新",
+      "id": "Bagus untuk pembaruan real-time, transaksional, atau terikat waktu"
     },
     "Highly engaging and visible on premium device surfaces like the Lock Screen or Dynamic Island": {
       "ja": "ロック画面やダイナミックアイランドなどのプレミアムデバイスサーフェスで高いエンゲージメントと視認性を実現",
@@ -7846,7 +7862,8 @@
       "fr": "Très engageant et visible sur les surfaces premium des appareils comme l'écran de verrouillage ou Dynamic Island",
       "tr": "Kilit Ekranı veya Dynamic Island gibi premium cihaz yüzeylerinde son derece etkileşimli ve görünür",
       "zh-CN": "在锁屏或 Dynamic Island 等高端设备界面上高度吸引人且可见",
-      "zh-TW": "在鎖定螢幕或 Dynamic Island 等高端裝置介面上高度吸引人且可見"
+      "zh-TW": "在鎖定螢幕或 Dynamic Island 等高端裝置介面上高度吸引人且可見",
+      "id": "Sangat menarik dan terlihat di permukaan perangkat premium seperti Layar Kunci atau Dynamic Island"
     },
     "Open in Figma": {
       "ja": "Figmaで開く",
@@ -7856,7 +7873,8 @@
       "fr": "Ouvrir dans Figma",
       "tr": "Figma'da aç",
       "zh-CN": "在 Figma 中打开",
-      "zh-TW": "在 Figma 中開啟"
+      "zh-TW": "在 Figma 中開啟",
+      "id": "Buka di Figma"
     },
     "RCS drives up to 60% more conversions than SMS. See how brands use rich media messages to boost results.": {
       "ja": "RCSはSMSよりも最大60%多くのコンバージョンを促進します。ブランドがリッチメディアメッセージをどのように活用して成果を上げているかをご覧ください。",
@@ -7866,7 +7884,8 @@
       "fr": "RCS génère jusqu'à 60 % de conversions en plus que les SMS. Découvrez comment les marques utilisent les messages enrichis pour de meilleurs résultats.",
       "tr": "RCS, SMS'e kıyasla %60'a kadar daha fazla dönüşüm sağlar. Markaların sonuçları artırmak için zengin medya mesajlarını nasıl kullandığını görün.",
       "zh-CN": "富媒体短信比短信提升高达 60% 的转化率。了解品牌如何使用富媒体消息提升效果。",
-      "zh-TW": "富媒體短訊比短訊提升高達 60% 的轉換率。了解品牌如何使用富媒體訊息提升效果。"
+      "zh-TW": "富媒體短訊比短訊提升高達 60% 的轉換率。了解品牌如何使用富媒體訊息提升效果。",
+      "id": "RCS menghasilkan hingga 60% lebih banyak konversi dibandingkan SMS. Lihat bagaimana merek menggunakan pesan media kaya untuk meningkatkan hasil."
     },
     "SMS / RCS documentation": {
       "ja": "SMS / RCSドキュメント",
@@ -7876,7 +7895,8 @@
       "fr": "Documentation SMS / RCS",
       "tr": "SMS / RCS dokümantasyonu",
       "zh-CN": "短信 / 富媒体短信文档",
-      "zh-TW": "短訊 / 富媒體短訊文件"
+      "zh-TW": "短訊 / 富媒體短訊文件",
+      "id": "Dokumentasi SMS / RCS"
     },
     "SMS for promos, security verifications, and more": {
       "ja": "プロモーション、セキュリティ認証などにSMSを活用",
@@ -7886,7 +7906,8 @@
       "fr": "SMS pour les promotions, vérifications de sécurité, etc.",
       "tr": "Promosyonlar, güvenlik doğrulamaları ve daha fazlası için SMS",
       "zh-CN": "短信用于促销、安全验证等",
-      "zh-TW": "短訊用於促銷、安全驗證等"
+      "zh-TW": "短訊用於促銷、安全驗證等",
+      "id": "SMS untuk promosi, verifikasi keamanan, dan lainnya"
     },
     "SMS has the highest open and engagement rates": {
       "ja": "SMSは最も高い開封率とエンゲージメント率を誇ります",
@@ -7896,7 +7917,8 @@
       "fr": "Les SMS ont les taux d'ouverture et d'engagement les plus élevés",
       "tr": "SMS en yüksek açılma ve etkileşim oranlarına sahiptir",
       "zh-CN": "短信拥有最高的打开率和互动率",
-      "zh-TW": "短訊擁有最高的開啟率和互動率"
+      "zh-TW": "短訊擁有最高的開啟率和互動率",
+      "id": "SMS memiliki tingkat buka dan keterlibatan tertinggi"
     },
     "See how SMS and RCS fit into your engagement strategy. Get expert tips on growing conversions and retention.": {
       "ja": "SMSとRCSがエンゲージメント戦略にどのように組み込まれるかをご覧ください。コンバージョンとリテンションを高めるための専門家のヒントをご紹介します。",
@@ -7906,7 +7928,8 @@
       "fr": "Découvrez comment SMS et RCS s'intègrent dans votre stratégie d'engagement. Obtenez des conseils d'experts pour augmenter conversions et rétention.",
       "tr": "SMS ve RCS'nin etkileşim stratejinize nasıl uyduğunu görün. Dönüşüm ve elde tutmayı artırmak için uzman ipuçları alın.",
       "zh-CN": "了解短信和富媒体短信如何契合您的互动策略。获取专家建议以提升转化率和留存率。",
-      "zh-TW": "了解短訊和富媒體短訊如何契合您的互動策略。獲取專家建議以提升轉換率和留存率。"
+      "zh-TW": "了解短訊和富媒體短訊如何契合您的互動策略。獲取專家建議以提升轉換率和留存率。",
+      "id": "Lihat bagaimana SMS dan RCS cocok dengan strategi keterlibatan Anda. Dapatkan tips ahli tentang peningkatan konversi dan retensi."
     },
     "Set Up SMS / RCS": {
       "ja": "SMS / RCSをセットアップ",
@@ -7916,7 +7939,8 @@
       "fr": "Configurer SMS / RCS",
       "tr": "SMS / RCS kur",
       "zh-CN": "设置短信 / 富媒体短信",
-      "zh-TW": "設定短訊 / 富媒體短訊"
+      "zh-TW": "設定短訊 / 富媒體短訊",
+      "id": "Siapkan SMS / RCS"
     },
     "Texts that work": {
       "ja": "効果的なテキストメッセージ",
@@ -7926,7 +7950,8 @@
       "fr": "Des SMS qui fonctionnent",
       "tr": "İşe yarayan SMS'ler",
       "zh-CN": "有效的短信",
-      "zh-TW": "有效的短訊"
+      "zh-TW": "有效的短訊",
+      "id": "Teks yang efektif"
     },
     "Visible for up to 8 hours": {
       "ja": "最大8時間表示",
@@ -7936,7 +7961,8 @@
       "fr": "Visible jusqu'à 8 heures",
       "tr": "8 saate kadar görünür",
       "zh-CN": "最长可见 8 小时",
-      "zh-TW": "最長可見 8 小時"
+      "zh-TW": "最長可見 8 小時",
+      "id": "Terlihat hingga 8 jam"
     },
     "Manage OneSignal with AI tools": {
       "ja": "AIツールでOneSignalを管理",
@@ -7946,7 +7972,8 @@
       "fr": "Gérer OneSignal avec des outils IA",
       "tr": "OneSignal'i yapay zeka araçlarıyla yönetin",
       "zh-CN": "通过 AI 工具管理 OneSignal",
-      "zh-TW": "透過 AI 工具管理 OneSignal"
+      "zh-TW": "透過 AI 工具管理 OneSignal",
+      "id": "Kelola OneSignal dengan alat AI"
     },
     "Connect Claude, ChatGPT, Cursor, or any LLM client of your choosing to OneSignal using MCP (Model Context Protocol). Send messages, manage users, create segments, and more directly from your AI assistant.": {
       "ja": "Claude、ChatGPT、Cursor、またはお好みのLLMクライアントをMCP（Model Context Protocol）を使ってOneSignalに接続できます。AIアシスタントから直接、メッセージの送信、ユーザーの管理、セグメントの作成などを実行できます。",
@@ -7956,7 +7983,8 @@
       "fr": "Connectez Claude, ChatGPT, Cursor ou tout autre client LLM de votre choix à OneSignal avec MCP (Model Context Protocol). Envoyez des messages, gérez les utilisateurs, créez des segments et plus encore directement depuis votre assistant IA.",
       "tr": "Claude, ChatGPT, Cursor veya seçtiğiniz herhangi bir LLM istemcisini MCP (Model Context Protocol) kullanarak OneSignal'e bağlayın. Yapay zeka asistanınızdan doğrudan mesaj gönderin, kullanıcıları yönetin, segmentler oluşturun ve daha fazlasını yapın.",
       "zh-CN": "通过 MCP（Model Context Protocol）将 Claude、ChatGPT、Cursor 或您选择的任何 LLM 客户端连接到 OneSignal。直接从您的 AI 助手发送消息、管理用户、创建用户分群等。",
-      "zh-TW": "透過 MCP（Model Context Protocol）將 Claude、ChatGPT、Cursor 或您選擇的任何 LLM 客戶端連接到 OneSignal。直接從您的 AI 助手發送訊息、管理用戶、建立用戶分群等。"
+      "zh-TW": "透過 MCP（Model Context Protocol）將 Claude、ChatGPT、Cursor 或您選擇的任何 LLM 客戶端連接到 OneSignal。直接從您的 AI 助手發送訊息、管理用戶、建立用戶分群等。",
+      "id": "Hubungkan Claude, ChatGPT, Cursor, atau klien LLM pilihan Anda ke OneSignal menggunakan MCP (Model Context Protocol). Kirim pesan, kelola pengguna, buat Segment, dan lainnya langsung dari asisten AI Anda."
     },
     "OneSignal Logo": {
       "ja": "OneSignalロゴ",
@@ -7966,7 +7994,8 @@
       "fr": "Logo OneSignal",
       "tr": "OneSignal logosu",
       "zh-CN": "OneSignal 徽标",
-      "zh-TW": "OneSignal 標誌"
+      "zh-TW": "OneSignal 標誌",
+      "id": "Logo OneSignal"
     },
     "OneSignal logo": {
       "ja": "OneSignalロゴ",
@@ -7976,7 +8005,8 @@
       "fr": "Logo OneSignal",
       "tr": "OneSignal logosu",
       "zh-CN": "OneSignal 徽标",
-      "zh-TW": "OneSignal 標誌"
+      "zh-TW": "OneSignal 標誌",
+      "id": "Logo OneSignal"
     },
     "Remove Clicks filter": {
       "ja": "クリックフィルターを削除",
@@ -7986,7 +8016,8 @@
       "fr": "Retirer le filtre Clics",
       "tr": "Tıklamalar filtresini kaldır",
       "zh-CN": "移除点击筛选",
-      "zh-TW": "移除點擊篩選"
+      "zh-TW": "移除點擊篩選",
+      "id": "Hapus filter Klik"
     },
     "Remove Confirmed filter": {
       "ja": "確認済みフィルターを削除",
@@ -7996,7 +8027,8 @@
       "fr": "Retirer le filtre Confirmés",
       "tr": "Onaylananlar filtresini kaldır",
       "zh-CN": "移除已确认筛选",
-      "zh-TW": "移除已確認篩選"
+      "zh-TW": "移除已確認篩選",
+      "id": "Hapus filter Dikonfirmasi"
     },
     "Remove Sessions filter": {
       "ja": "セッションフィルターを削除",
@@ -8006,7 +8038,8 @@
       "fr": "Retirer le filtre Sessions",
       "tr": "Oturumlar filtresini kaldır",
       "zh-CN": "移除会话筛选",
-      "zh-TW": "移除會話篩選"
+      "zh-TW": "移除會話篩選",
+      "id": "Hapus filter Sesi"
     },
     "Select comparison period for subscription trends": {
       "ja": "購読トレンドの比較期間を選択",
@@ -8016,7 +8049,8 @@
       "fr": "Sélectionner la période de comparaison pour les tendances d'abonnement",
       "tr": "Abonelik eğilimleri için karşılaştırma dönemi seçin",
       "zh-CN": "选择订阅趋势的对比周期",
-      "zh-TW": "選擇訂閱趨勢的對比週期"
+      "zh-TW": "選擇訂閱趨勢的對比週期",
+      "id": "Pilih periode perbandingan untuk tren berlangganan"
     },
     "Select custom date range for subscription trends": {
       "ja": "購読トレンドのカスタム期間を選択",
@@ -8026,7 +8060,8 @@
       "fr": "Sélectionner une plage de dates personnalisée pour les tendances d'abonnement",
       "tr": "Abonelik eğilimleri için özel tarih aralığı seçin",
       "zh-CN": "选择订阅趋势的自定义日期范围",
-      "zh-TW": "選擇訂閱趨勢的自訂日期範圍"
+      "zh-TW": "選擇訂閱趨勢的自訂日期範圍",
+      "id": "Pilih rentang tanggal kustom untuk tren berlangganan"
     },
     "Select outcome metric to add": {
       "ja": "追加する結果指標を選択",
@@ -8036,7 +8071,8 @@
       "fr": "Sélectionner une métrique de résultat à ajouter",
       "tr": "Eklenecek sonuç metriğini seçin",
       "zh-CN": "选择要添加的结果指标",
-      "zh-TW": "選擇要新增的結果指標"
+      "zh-TW": "選擇要新增的結果指標",
+      "id": "Pilih metrik hasil untuk ditambahkan"
     },
     "Select time period for subscription trends": {
       "ja": "購読トレンドの期間を選択",
@@ -8046,7 +8082,8 @@
       "fr": "Sélectionner la période pour les tendances d'abonnement",
       "tr": "Abonelik eğilimleri için zaman dilimi seçin",
       "zh-CN": "选择订阅趋势的时间段",
-      "zh-TW": "選擇訂閱趨勢的時間段"
+      "zh-TW": "選擇訂閱趨勢的時間段",
+      "id": "Pilih periode waktu untuk tren berlangganan"
     },
     "Setup guide": {
       "ja": "セットアップガイド",
@@ -8056,7 +8093,8 @@
       "fr": "Guide de configuration",
       "tr": "Kurulum kılavuzu",
       "zh-CN": "设置指南",
-      "zh-TW": "設定指南"
+      "zh-TW": "設定指南",
+      "id": "Panduan pengaturan"
     },
     "User avatar": {
       "ja": "ユーザーアバター",
@@ -8066,7 +8104,8 @@
       "fr": "Avatar de l'utilisateur",
       "tr": "Kullanıcı avatarı",
       "zh-CN": "用户头像",
-      "zh-TW": "用戶頭像"
+      "zh-TW": "用戶頭像",
+      "id": "Avatar pengguna"
     },
     "Product": {
       "ja": "製品",
@@ -8076,7 +8115,8 @@
       "fr": "Produit",
       "tr": "Ürün",
       "zh-CN": "产品",
-      "zh-TW": "產品"
+      "zh-TW": "產品",
+      "id": "Produk"
     },
     "Failure message": {
       "ja": "失敗メッセージ",
@@ -8086,7 +8126,8 @@
       "fr": "Message d'échec",
       "tr": "Hata mesajı",
       "zh-CN": "失败消息",
-      "zh-TW": "失敗訊息"
+      "zh-TW": "失敗訊息",
+      "id": "Pesan kegagalan"
     },
     "Subscription status": {
       "ja": "購読状況",
@@ -8096,7 +8137,8 @@
       "fr": "Statut d'abonnement",
       "tr": "Abonelik durumu",
       "zh-CN": "订阅状态",
-      "zh-TW": "訂閱狀態"
+      "zh-TW": "訂閱狀態",
+      "id": "Status berlangganan"
     },
     "Google Android": {
       "ja": "Google Android",
@@ -8106,7 +8148,8 @@
       "fr": "Google Android",
       "tr": "Google Android",
       "zh-CN": "Google Android",
-      "zh-TW": "Google Android"
+      "zh-TW": "Google Android",
+      "id": "Google Android"
     },
     "Apple iOS": {
       "ja": "Apple iOS",
@@ -8116,7 +8159,8 @@
       "fr": "Apple iOS",
       "tr": "Apple iOS",
       "zh-CN": "Apple iOS",
-      "zh-TW": "Apple iOS"
+      "zh-TW": "Apple iOS",
+      "id": "Apple iOS"
     },
     "Google Chrome": {
       "ja": "Google Chrome",
@@ -8126,7 +8170,8 @@
       "fr": "Google Chrome",
       "tr": "Google Chrome",
       "zh-CN": "Google Chrome",
-      "zh-TW": "Google Chrome"
+      "zh-TW": "Google Chrome",
+      "id": "Google Chrome"
     },
     "Mozilla Firefox": {
       "ja": "Mozilla Firefox",
@@ -8136,7 +8181,8 @@
       "fr": "Mozilla Firefox",
       "tr": "Mozilla Firefox",
       "zh-CN": "Mozilla Firefox",
-      "zh-TW": "Mozilla Firefox"
+      "zh-TW": "Mozilla Firefox",
+      "id": "Mozilla Firefox"
     },
     "Edge": {
       "ja": "Edge",
@@ -8146,7 +8192,8 @@
       "fr": "Edge",
       "tr": "Edge",
       "zh-CN": "Edge",
-      "zh-TW": "Edge"
+      "zh-TW": "Edge",
+      "id": "Edge"
     },
     "Web Push (Apple Web)": {
       "ja": "Webプッシュ (Apple Web)",
@@ -8156,7 +8203,8 @@
       "fr": "Web Push (Apple Web)",
       "tr": "Web Push (Apple Web)",
       "zh-CN": "Web 推送 (Apple Web)",
-      "zh-TW": "Web 推送 (Apple Web)"
+      "zh-TW": "Web 推送 (Apple Web)",
+      "id": "Web Push (Apple Web)"
     },
     "Web Push (Chrome)": {
       "ja": "Webプッシュ (Chrome)",
@@ -8166,7 +8214,8 @@
       "fr": "Web Push (Chrome)",
       "tr": "Web Push (Chrome)",
       "zh-CN": "Web 推送 (Chrome)",
-      "zh-TW": "Web 推送 (Chrome)"
+      "zh-TW": "Web 推送 (Chrome)",
+      "id": "Web Push (Chrome)"
     },
     "Web Push (Firefox)": {
       "ja": "Webプッシュ (Firefox)",
@@ -8176,7 +8225,8 @@
       "fr": "Web Push (Firefox)",
       "tr": "Web Push (Firefox)",
       "zh-CN": "Web 推送 (Firefox)",
-      "zh-TW": "Web 推送 (Firefox)"
+      "zh-TW": "Web 推送 (Firefox)",
+      "id": "Web Push (Firefox)"
     },
     "Web Push (Edge)": {
       "ja": "Webプッシュ (Edge)",
@@ -8186,7 +8236,8 @@
       "fr": "Web Push (Edge)",
       "tr": "Web Push (Edge)",
       "zh-CN": "Web 推送 (Edge)",
-      "zh-TW": "Web 推送 (Edge)"
+      "zh-TW": "Web 推送 (Edge)",
+      "id": "Web Push (Edge)"
     },
     "Web Browser": {
       "ja": "Webブラウザ",
@@ -8196,7 +8247,8 @@
       "fr": "Navigateur web",
       "tr": "Web tarayıcısı",
       "zh-CN": "Web 浏览器",
-      "zh-TW": "Web 瀏覽器"
+      "zh-TW": "Web 瀏覽器",
+      "id": "Browser Web"
     },
     "Native App": {
       "ja": "ネイティブアプリ",
@@ -8206,7 +8258,8 @@
       "fr": "Application native",
       "tr": "Yerel uygulama",
       "zh-CN": "原生应用",
-      "zh-TW": "原生應用"
+      "zh-TW": "原生應用",
+      "id": "Aplikasi Native"
     },
     "Windows": {
       "ja": "Windows",
