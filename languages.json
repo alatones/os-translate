@@ -17399,6 +17399,186 @@
       "tr": "Abonelikler",
       "zh-CN": "订阅数",
       "zh-TW": "訂閱數"
+    },
+    "Wait Until": {
+      "ja": "条件を満たすまで待機",
+      "es": "Esperar hasta",
+      "pt": "Aguardar até",
+      "ko": "조건 충족까지 대기",
+      "fr": "Attendre jusqu'à",
+      "tr": "Şu zamana kadar bekle",
+      "zh-CN": "等待条件",
+      "zh-TW": "等待條件"
+    },
+    "Split Branch": {
+      "ja": "ブランチを分割",
+      "es": "Dividir rama",
+      "pt": "Dividir ramificação",
+      "ko": "분기 나누기",
+      "fr": "Diviser la branche",
+      "tr": "Dalı böl",
+      "zh-CN": "拆分分支",
+      "zh-TW": "拆分分支"
+    },
+    "Started sending at": {
+      "ja": "送信開始日時",
+      "es": "Envío iniciado el",
+      "pt": "Envio iniciado em",
+      "ko": "전송 시작 시점",
+      "fr": "Envoi commencé le",
+      "tr": "Gönderim başlangıcı",
+      "zh-CN": "发送开始时间",
+      "zh-TW": "發送開始時間"
+    },
+    "Subscription status changes": {
+      "ja": "購読ステータスの変更",
+      "es": "Cambios en el estado de suscripción",
+      "pt": "Alterações no status da assinatura",
+      "ko": "구독 상태 변경",
+      "fr": "Changements de statut d'abonnement",
+      "tr": "Abonelik durumu değişiklikleri",
+      "zh-CN": "订阅状态变更",
+      "zh-TW": "訂閱狀態變更"
+    },
+    "Send a Message": {
+      "ja": "メッセージを送信",
+      "es": "Enviar un mensaje",
+      "pt": "Enviar uma mensagem",
+      "ko": "메시지 보내기",
+      "fr": "Envoyer un message",
+      "tr": "Mesaj gönder",
+      "zh-CN": "发送消息",
+      "zh-TW": "發送訊息"
+    },
+    "Create New Message": {
+      "ja": "新しいメッセージを作成",
+      "es": "Crear nuevo mensaje",
+      "pt": "Criar nova mensagem",
+      "ko": "새 메시지 만들기",
+      "fr": "Créer un nouveau message",
+      "tr": "Yeni mesaj oluştur",
+      "zh-CN": "创建新消息",
+      "zh-TW": "建立新訊息"
+    },
+    "Preview Segments": {
+      "ja": "セグメントをプレビュー",
+      "es": "Previsualizar Segmentos",
+      "pt": "Pré-visualizar Segmentos",
+      "ko": "세그먼트 미리보기",
+      "fr": "Aperçu des segments",
+      "tr": "Segment'leri önizle",
+      "zh-CN": "预览用户分群",
+      "zh-TW": "預覽用戶分群"
+    },
+    "Show Subscribes": {
+      "ja": "購読数を表示",
+      "es": "Mostrar suscripciones",
+      "pt": "Mostrar assinaturas",
+      "ko": "구독 수 표시",
+      "fr": "Afficher les abonnements",
+      "tr": "Abonelikleri göster",
+      "zh-CN": "显示订阅数",
+      "zh-TW": "顯示訂閱數"
+    },
+    "All Message Types": {
+      "ja": "すべてのメッセージタイプ",
+      "es": "Todos los tipos de mensaje",
+      "pt": "Todos os tipos de mensagem",
+      "ko": "모든 메시지 유형",
+      "fr": "Tous les types de messages",
+      "tr": "Tüm mesaj türleri",
+      "zh-CN": "所有消息类型",
+      "zh-TW": "所有訊息類型"
+    },
+    "Add tag": {
+      "ja": "タグを追加",
+      "es": "Agregar etiqueta",
+      "pt": "Adicionar tag",
+      "ko": "태그 추가",
+      "fr": "Ajouter un tag",
+      "tr": "Etiket ekle",
+      "zh-CN": "添加标签",
+      "zh-TW": "新增標籤"
+    },
+    "Add phone number": {
+      "ja": "電話番号を追加",
+      "es": "Agregar número de teléfono",
+      "pt": "Adicionar número de telefone",
+      "ko": "전화번호 추가",
+      "fr": "Ajouter un numéro de téléphone",
+      "tr": "Telefon numarası ekle",
+      "zh-CN": "添加电话号码",
+      "zh-TW": "新增電話號碼"
+    },
+    "Add email": {
+      "ja": "メールを追加",
+      "es": "Agregar Email",
+      "pt": "Adicionar Email",
+      "ko": "이메일 추가",
+      "fr": "Ajouter un email",
+      "tr": "Email ekle",
+      "zh-CN": "添加邮件",
+      "zh-TW": "新增電郵"
+    },
+    "Add alias": {
+      "ja": "エイリアスを追加",
+      "es": "Agregar alias",
+      "pt": "Adicionar alias",
+      "ko": "별칭 추가",
+      "fr": "Ajouter un alias",
+      "tr": "Takma ad ekle",
+      "zh-CN": "添加别名",
+      "zh-TW": "新增別名"
+    },
+    "Tag actions": {
+      "ja": "タグアクション",
+      "es": "Acciones de etiqueta",
+      "pt": "Ações de tag",
+      "ko": "태그 작업",
+      "fr": "Actions de tag",
+      "tr": "Etiket işlemleri",
+      "zh-CN": "标签操作",
+      "zh-TW": "標籤操作"
+    },
+    "Last Updated Date": {
+      "ja": "最終更新日",
+      "es": "Fecha de última actualización",
+      "pt": "Data da última atualização",
+      "ko": "마지막 업데이트 날짜",
+      "fr": "Date de dernière mise à jour",
+      "tr": "Son güncelleme tarihi",
+      "zh-CN": "最后更新日期",
+      "zh-TW": "最後更新日期"
+    },
+    "Last Sent Date": {
+      "ja": "最終送信日",
+      "es": "Fecha del último envío",
+      "pt": "Data do último envio",
+      "ko": "마지막 발송 날짜",
+      "fr": "Date du dernier envoi",
+      "tr": "Son gönderim tarihi",
+      "zh-CN": "最近发送日期",
+      "zh-TW": "最近發送日期"
+    },
+    "Created Date": {
+      "ja": "作成日",
+      "es": "Fecha de creación",
+      "pt": "Data de criação",
+      "ko": "생성 날짜",
+      "fr": "Date de création",
+      "tr": "Oluşturulma tarihi",
+      "zh-CN": "创建日期",
+      "zh-TW": "建立日期"
+    },
+    "Delivery schedule": {
+      "ja": "配信スケジュール",
+      "es": "Delivery schedule",
+      "pt": "Agendamento de entrega",
+      "ko": "전달 일정",
+      "fr": "Planification d'envoi",
+      "tr": "Gönderim planı",
+      "zh-CN": "送达计划",
+      "zh-TW": "送達計畫"
     }
   },
   "patterns": [
