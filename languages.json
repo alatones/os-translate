@@ -11052,7 +11052,8 @@
       "fr": "Choisir la date et l'heure",
       "tr": "Tarih ve saat seç",
       "zh-CN": "选择日期和时间",
-      "zh-TW": "選擇日期和時間"
+      "zh-TW": "選擇日期和時間",
+      "id": "Pilih tanggal dan waktu"
     },
     "Choose when a Journey": {
       "ja": "ジャーニーをいつ",
@@ -11062,7 +11063,8 @@
       "fr": "Choisissez quand un Parcours",
       "tr": "Bir Yolculuğun ne zaman olacağını seçin",
       "zh-CN": "选择旅程的时间",
-      "zh-TW": "選擇旅程的時間"
+      "zh-TW": "選擇旅程的時間",
+      "id": "Pilih kapan Journey"
     },
     "Custom Event": {
       "ja": "カスタムイベント",
@@ -11072,7 +11074,8 @@
       "fr": "Événement personnalisé",
       "tr": "Özel etkinlik",
       "zh-CN": "自定义事件",
-      "zh-TW": "自訂事件"
+      "zh-TW": "自訂事件",
+      "id": "Custom Event"
     },
     "Entrance": {
       "ja": "開始",
@@ -11082,7 +11085,8 @@
       "fr": "Entrée",
       "tr": "Giriş",
       "zh-CN": "进入",
-      "zh-TW": "進入"
+      "zh-TW": "進入",
+      "id": "Pintu masuk"
     },
     "Exit": {
       "ja": "終了",
@@ -11092,7 +11096,8 @@
       "fr": "Sortie",
       "tr": "Çıkış",
       "zh-CN": "退出",
-      "zh-TW": "退出"
+      "zh-TW": "退出",
+      "id": "Keluar"
     },
     "Fit View": {
       "ja": "画面に合わせる",
@@ -11102,7 +11107,8 @@
       "fr": "Ajuster la vue",
       "tr": "Görünüme sığdır",
       "zh-CN": "适应视图",
-      "zh-TW": "適應視圖"
+      "zh-TW": "適應視圖",
+      "id": "Sesuaikan Tampilan"
     },
     "Future additions only": {
       "ja": "今後の追加のみ",
@@ -11112,7 +11118,8 @@
       "fr": "Ajouts futurs uniquement",
       "tr": "Yalnızca gelecekteki eklemeler",
       "zh-CN": "仅未来添加",
-      "zh-TW": "僅未來新增"
+      "zh-TW": "僅未來新增",
+      "id": "Penambahan mendatang saja"
     },
     "Journey Documentation": {
       "ja": "ジャーニー文書",
@@ -11122,7 +11129,8 @@
       "fr": "Documentation Parcours",
       "tr": "Yolculuk dokümantasyonu",
       "zh-CN": "旅程文档",
-      "zh-TW": "旅程文件"
+      "zh-TW": "旅程文件",
+      "id": "Dokumentasi Journey"
     },
     "Journey Settings": {
       "ja": "ジャーニー設定",
@@ -11132,7 +11140,8 @@
       "fr": "Paramètres du Parcours",
       "tr": "Yolculuk ayarları",
       "zh-CN": "旅程设置",
-      "zh-TW": "旅程設定"
+      "zh-TW": "旅程設定",
+      "id": "Pengaturan Journey"
     },
     "Only include users that match segment(s) in the future once this journey is live.": {
       "ja": "このジャーニーが公開されたら、今後セグメントに一致するユーザーのみを含める。",
@@ -11142,7 +11151,8 @@
       "fr": "Inclure uniquement les utilisateurs correspondant au(x) segment(s) à l'avenir, une fois ce Parcours en ligne.",
       "tr": "Bu journey yayına alındıktan sonra yalnızca segment(ler)e uyan kullanıcıları gelecekte dahil et.",
       "zh-CN": "仅在此 journey 上线后，将未来匹配用户分群的用户包含在内。",
-      "zh-TW": "僅在此 journey 上線後，將未來匹配用戶分群的用戶包含在內。"
+      "zh-TW": "僅在此 journey 上線後，將未來匹配用戶分群的用戶包含在內。",
+      "id": "Hanya sertakan pengguna yang cocok dengan Segment di masa mendatang setelah Journey ini aktif."
     },
     "Re-Entry Rules": {
       "ja": "再開始ルール",
@@ -11152,7 +11162,8 @@
       "fr": "Règles de ré-entrée",
       "tr": "Yeniden giriş kuralları",
       "zh-CN": "重新进入规则",
-      "zh-TW": "重新進入規則"
+      "zh-TW": "重新進入規則",
+      "id": "Aturan Masuk Kembali"
     },
     "Re-entry Rules": {
       "ja": "再開始ルール",
@@ -11162,7 +11173,8 @@
       "fr": "Règles de ré-entrée",
       "tr": "Yeniden giriş kuralları",
       "zh-CN": "重新进入规则",
-      "zh-TW": "重新進入規則"
+      "zh-TW": "重新進入規則",
+      "id": "Aturan masuk kembali"
     },
     "Recommended Channels": {
       "ja": "推奨チャネル",
@@ -11172,7 +11184,8 @@
       "fr": "Canaux recommandés",
       "tr": "Önerilen kanallar",
       "zh-CN": "推荐渠道",
-      "zh-TW": "推薦渠道"
+      "zh-TW": "推薦渠道",
+      "id": "Saluran yang Direkomendasikan"
     },
     "Save & Close": {
       "ja": "保存して閉じる",
@@ -11182,7 +11195,8 @@
       "fr": "Enregistrer et fermer",
       "tr": "Kaydet ve kapat",
       "zh-CN": "保存并关闭",
-      "zh-TW": "儲存並關閉"
+      "zh-TW": "儲存並關閉",
+      "id": "Simpan & Tutup"
     },
     "Start your journey when a custom event happens": {
       "ja": "カスタムイベントが発生したらジャーニーを開始",
@@ -11192,7 +11206,8 @@
       "fr": "Démarrez votre Parcours lorsqu'un événement personnalisé se produit",
       "tr": "Özel bir etkinlik gerçekleştiğinde journey'inizi başlatın",
       "zh-CN": "在自定义事件发生时启动您的 journey",
-      "zh-TW": "在自訂事件發生時啟動您的 journey"
+      "zh-TW": "在自訂事件發生時啟動您的 journey",
+      "id": "Mulai Journey Anda saat custom event terjadi"
     },
     "Start:": {
       "ja": "開始:",
@@ -11202,7 +11217,8 @@
       "fr": "Début :",
       "tr": "Başlangıç:",
       "zh-CN": "开始:",
-      "zh-TW": "開始："
+      "zh-TW": "開始：",
+      "id": "Mulai:"
     },
     "Stop:": {
       "ja": "終了:",
@@ -11212,7 +11228,8 @@
       "fr": "Fin :",
       "tr": "Bitiş:",
       "zh-CN": "停止:",
-      "zh-TW": "停止："
+      "zh-TW": "停止：",
+      "id": "Berhenti:"
     },
     "There is still work to do": {
       "ja": "まだやるべきことがあります",
@@ -11222,7 +11239,8 @@
       "fr": "Il reste du travail à faire",
       "tr": "Yapılacak işler var",
       "zh-CN": "还有工作要做",
-      "zh-TW": "還有工作要做"
+      "zh-TW": "還有工作要做",
+      "id": "Masih ada pekerjaan yang harus dilakukan"
     },
     "Trigger:": {
       "ja": "トリガー:",
@@ -11232,7 +11250,8 @@
       "fr": "Déclencheur :",
       "tr": "Tetikleyici:",
       "zh-CN": "触发器:",
-      "zh-TW": "觸發器："
+      "zh-TW": "觸發器：",
+      "id": "Pemicu:"
     },
     "User has moved through the entire Journey": {
       "ja": "ユーザーがジャーニー全体を通過しました",
@@ -11242,7 +11261,8 @@
       "fr": "L'utilisateur a parcouru tout le Parcours",
       "tr": "Kullanıcı tüm Yolculuğu tamamladı",
       "zh-CN": "用户已通过整个旅程",
-      "zh-TW": "用戶已通過整個旅程"
+      "zh-TW": "用戶已通過整個旅程",
+      "id": "Pengguna telah melewati seluruh Journey"
     },
     "Users can only enter the Journey once": {
       "ja": "ユーザーはジャーニーに1回しか入れません",
@@ -11252,7 +11272,8 @@
       "fr": "Les utilisateurs ne peuvent entrer dans le Parcours qu'une seule fois",
       "tr": "Kullanıcılar Yolculuğa yalnızca bir kez girebilir",
       "zh-CN": "用户只能进入旅程一次",
-      "zh-TW": "用戶只能進入旅程一次"
+      "zh-TW": "用戶只能進入旅程一次",
+      "id": "Pengguna hanya dapat masuk Journey sekali"
     },
     "Users in the chosen segment will start your Journey": {
       "ja": "選択したセグメントのユーザーがあなたのジャーニーを開始します",
@@ -11262,7 +11283,8 @@
       "fr": "Les utilisateurs du segment choisi commenceront votre Parcours",
       "tr": "Seçilen segmentteki kullanıcılar Yolculuğunuzu başlatacak",
       "zh-CN": "所选用户分群中的用户将启动您的旅程",
-      "zh-TW": "所選用戶分群中的用戶將啟動您的旅程"
+      "zh-TW": "所選用戶分群中的用戶將啟動您的旅程",
+      "id": "Pengguna di Segment yang dipilih akan memulai Journey Anda"
     },
     "Zoom In": {
       "ja": "拡大",
@@ -11272,7 +11294,8 @@
       "fr": "Zoom avant",
       "tr": "Yakınlaştır",
       "zh-CN": "放大",
-      "zh-TW": "放大"
+      "zh-TW": "放大",
+      "id": "Perbesar"
     },
     "Zoom Out": {
       "ja": "縮小",
@@ -11282,7 +11305,8 @@
       "fr": "Zoom arrière",
       "tr": "Uzaklaştır",
       "zh-CN": "缩小",
-      "zh-TW": "縮小"
+      "zh-TW": "縮小",
+      "id": "Perkecil"
     },
     "excluded": {
       "ja": "除外",
@@ -11292,7 +11316,8 @@
       "fr": "exclu",
       "tr": "hariç tutulan",
       "zh-CN": "已排除",
-      "zh-TW": "已排除"
+      "zh-TW": "已排除",
+      "id": "dikecualikan"
     },
     "from this Journey?": {
       "ja": "をこのジャーニーから？",
@@ -11302,7 +11327,8 @@
       "fr": "de ce Parcours ?",
       "tr": "bu Yolculuktan?",
       "zh-CN": "从此旅程？",
-      "zh-TW": "從此旅程？"
+      "zh-TW": "從此旅程？",
+      "id": "dari Journey ini?"
     },
     "in this Journey?": {
       "ja": "をこのジャーニーに？",
@@ -11312,7 +11338,8 @@
       "fr": "dans ce Parcours ?",
       "tr": "bu Yolculukta?",
       "zh-CN": "在此旅程？",
-      "zh-TW": "在此旅程？"
+      "zh-TW": "在此旅程？",
+      "id": "dalam Journey ini?"
     },
     "included": {
       "ja": "含む",
@@ -11322,7 +11349,8 @@
       "fr": "inclus",
       "tr": "dahil edilen",
       "zh-CN": "已包含",
-      "zh-TW": "已包含"
+      "zh-TW": "已包含",
+      "id": "disertakan"
     },
     "Add Properties": {
       "ja": "プロパティを追加",
@@ -11332,7 +11360,8 @@
       "fr": "Ajouter des propriétés",
       "tr": "Özellik ekle",
       "zh-CN": "添加属性",
-      "zh-TW": "新增屬性"
+      "zh-TW": "新增屬性",
+      "id": "Tambah Properti"
     },
     "Are you sure you want to leave?": {
       "ja": "本当に離れますか？",
@@ -11342,7 +11371,8 @@
       "fr": "Voulez-vous vraiment quitter ?",
       "tr": "Çıkmak istediğinizden emin misiniz?",
       "zh-CN": "确定要离开吗？",
-      "zh-TW": "確定要離開嗎？"
+      "zh-TW": "確定要離開嗎？",
+      "id": "Anda yakin ingin keluar?"
     },
     "Control Panel": {
       "ja": "コントロールパネル",
@@ -11352,7 +11382,8 @@
       "fr": "Panneau de contrôle",
       "tr": "Kontrol paneli",
       "zh-CN": "控制面板",
-      "zh-TW": "控制面板"
+      "zh-TW": "控制面板",
+      "id": "Panel Kontrol"
     },
     "Custom Event List": {
       "ja": "カスタムイベント一覧",
@@ -11362,7 +11393,8 @@
       "fr": "Liste des événements personnalisés",
       "tr": "Özel etkinlik listesi",
       "zh-CN": "自定义事件列表",
-      "zh-TW": "自訂事件列表"
+      "zh-TW": "自訂事件列表",
+      "id": "Daftar Custom Event"
     },
     "Custom Event Name": {
       "ja": "カスタムイベント名",
@@ -11372,7 +11404,8 @@
       "fr": "Nom de l'événement personnalisé",
       "tr": "Özel etkinlik adı",
       "zh-CN": "自定义事件名称",
-      "zh-TW": "自訂事件名稱"
+      "zh-TW": "自訂事件名稱",
+      "id": "Nama Custom Event"
     },
     "Enter custom event name": {
       "ja": "カスタムイベント名を入力",
@@ -11382,7 +11415,8 @@
       "fr": "Saisir le nom de l'événement personnalisé",
       "tr": "Özel etkinlik adını girin",
       "zh-CN": "输入自定义事件名称",
-      "zh-TW": "輸入自訂事件名稱"
+      "zh-TW": "輸入自訂事件名稱",
+      "id": "Masukkan nama custom event"
     },
     "Event-triggered Journeys create a new user instance each time the trigger event fires. This means a user may be in the Journey multiple times at once.": {
       "ja": "イベントトリガーのジャーニーは、トリガーイベントが発生するたびに新しいユーザーインスタンスを作成します。つまり、ユーザーが同時に複数のジャーニーに参加することがあります。",
@@ -11392,7 +11426,8 @@
       "fr": "Les Parcours déclenchés par événement créent une nouvelle instance utilisateur à chaque déclenchement de l'événement. Un même utilisateur peut donc être dans le Parcours plusieurs fois simultanément.",
       "tr": "Etkinlik tarafından tetiklenen Yolculuk'ler, tetikleyici etkinlik her gerçekleştiğinde yeni bir kullanıcı örneği oluşturur. Bu, bir kullanıcının Yolculukta aynı anda birden çok kez bulunabileceği anlamına gelir.",
       "zh-CN": "事件触发的旅程在每次触发事件发生时都会创建新的用户实例。这意味着一个用户可能同时处于旅程的多个实例中。",
-      "zh-TW": "事件觸發的旅程在每次觸發事件發生時都會建立新的用戶實例。這意味著一個用戶可能同時處於旅程的多個實例中。"
+      "zh-TW": "事件觸發的旅程在每次觸發事件發生時都會建立新的用戶實例。這意味著一個用戶可能同時處於旅程的多個實例中。",
+      "id": "Journey yang dipicu event membuat instans pengguna baru setiap kali event pemicu terjadi. Ini berarti pengguna mungkin berada dalam Journey beberapa kali sekaligus."
     },
     "Filter by property": {
       "ja": "プロパティでフィルター",
@@ -11402,7 +11437,8 @@
       "fr": "Filtrer par propriété",
       "tr": "Özelliğe göre filtrele",
       "zh-CN": "按属性筛选",
-      "zh-TW": "按屬性篩選"
+      "zh-TW": "按屬性篩選",
+      "id": "Filter berdasarkan properti"
     },
     "It looks like you're still working on this. Changes you made may not be saved if you leave now.": {
       "ja": "まだ作業中のようです。今離れると変更が保存されない場合があります。",
@@ -11412,7 +11448,8 @@
       "fr": "Il semble que vous êtes encore en train de travailler dessus. Les modifications apportées risquent de ne pas être enregistrées si vous quittez maintenant.",
       "tr": "Hâlâ bunun üzerinde çalışıyor görünüyorsunuz. Şimdi çıkarsanız yaptığınız değişiklikler kaydedilmeyebilir.",
       "zh-CN": "看起来您还在编辑此内容。如果现在离开，您所做的更改可能不会保存。",
-      "zh-TW": "看起來您還在編輯此內容。如果現在離開，您所做的變更可能不會儲存。"
+      "zh-TW": "看起來您還在編輯此內容。如果現在離開，您所做的變更可能不會儲存。",
+      "id": "Sepertinya Anda masih mengerjakan ini. Perubahan yang Anda buat mungkin tidak tersimpan jika Anda keluar sekarang."
     },
     "Journey description": {
       "ja": "ジャーニーの説明",
@@ -11422,7 +11459,8 @@
       "fr": "Description du Parcours",
       "tr": "Yolculuk açıklaması",
       "zh-CN": "旅程描述",
-      "zh-TW": "旅程描述"
+      "zh-TW": "旅程描述",
+      "id": "Deskripsi Journey"
     },
     "Journey name": {
       "ja": "ジャーニー名",
@@ -11432,7 +11470,8 @@
       "fr": "Nom du Parcours",
       "tr": "Yolculuk adı",
       "zh-CN": "旅程名称",
-      "zh-TW": "旅程名稱"
+      "zh-TW": "旅程名稱",
+      "id": "Nama Journey"
     },
     "Journey saved!": {
       "ja": "ジャーニーを保存しました！",
@@ -11442,7 +11481,8 @@
       "fr": "Parcours enregistré !",
       "tr": "Yolculuk kaydedildi!",
       "zh-CN": "旅程已保存！",
-      "zh-TW": "旅程已儲存！"
+      "zh-TW": "旅程已儲存！",
+      "id": "Journey disimpan!"
     },
     "Keep editing": {
       "ja": "編集を続ける",
@@ -11452,7 +11492,8 @@
       "fr": "Continuer la modification",
       "tr": "Düzenlemeye devam et",
       "zh-CN": "继续编辑",
-      "zh-TW": "繼續編輯"
+      "zh-TW": "繼續編輯",
+      "id": "Lanjutkan mengedit"
     },
     "Leave": {
       "ja": "離れる",
@@ -11462,7 +11503,8 @@
       "fr": "Quitter",
       "tr": "Çık",
       "zh-CN": "离开",
-      "zh-TW": "離開"
+      "zh-TW": "離開",
+      "id": "Keluar"
     },
     "Meet a certain condition": {
       "ja": "特定の条件を満たす",
@@ -11472,7 +11514,8 @@
       "fr": "Remplir une certaine condition",
       "tr": "Belirli bir koşulu karşıla",
       "zh-CN": "满足特定条件",
-      "zh-TW": "滿足特定條件"
+      "zh-TW": "滿足特定條件",
+      "id": "Memenuhi kondisi tertentu"
     },
     "Mini Map": {
       "ja": "ミニマップ",
@@ -11482,7 +11525,8 @@
       "fr": "Mini-carte",
       "tr": "Mini harita",
       "zh-CN": "缩略图",
-      "zh-TW": "縮略圖"
+      "zh-TW": "縮略圖",
+      "id": "Peta Mini"
     },
     "More Options": {
       "ja": "その他のオプション",
@@ -11492,7 +11536,8 @@
       "fr": "Plus d'options",
       "tr": "Daha fazla seçenek",
       "zh-CN": "更多选项",
-      "zh-TW": "更多選項"
+      "zh-TW": "更多選項",
+      "id": "Opsi Lainnya"
     },
     "Never stops": {
       "ja": "停止しない",
@@ -11502,7 +11547,8 @@
       "fr": "Ne s'arrête jamais",
       "tr": "Hiç durmaz",
       "zh-CN": "永不停止",
-      "zh-TW": "永不停止"
+      "zh-TW": "永不停止",
+      "id": "Tidak pernah berhenti"
     },
     "Saving...": {
       "ja": "保存中...",
@@ -11512,7 +11558,8 @@
       "fr": "Enregistrement...",
       "tr": "Kaydediliyor...",
       "zh-CN": "保存中...",
-      "zh-TW": "儲存中..."
+      "zh-TW": "儲存中...",
+      "id": "Menyimpan..."
     },
     "Schedule a start date and time": {
       "ja": "開始日時を予約",
@@ -11522,7 +11569,8 @@
       "fr": "Planifier une date et heure de début",
       "tr": "Başlangıç tarihi ve saati planla",
       "zh-CN": "计划开始日期和时间",
-      "zh-TW": "排程開始日期和時間"
+      "zh-TW": "排程開始日期和時間",
+      "id": "Jadwalkan tanggal dan waktu mulai"
     },
     "Schedule an end date and time": {
       "ja": "終了日時を予約",
@@ -11532,7 +11580,8 @@
       "fr": "Planifier une date et heure de fin",
       "tr": "Bitiş tarihi ve saati planla",
       "zh-CN": "计划结束日期和时间",
-      "zh-TW": "排程結束日期和時間"
+      "zh-TW": "排程結束日期和時間",
+      "id": "Jadwalkan tanggal dan waktu selesai"
     },
     "Set Live": {
       "ja": "ライブ化",
@@ -11542,7 +11591,8 @@
       "fr": "Mettre en ligne",
       "tr": "Yayına al",
       "zh-CN": "上线",
-      "zh-TW": "上線"
+      "zh-TW": "上線",
+      "id": "Aktifkan"
     },
     "Set a Journey Goal": {
       "ja": "ジャーニー目標を設定",
