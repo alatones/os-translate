@@ -7136,7 +7136,8 @@
       "fr": "Combinez push, email, SMS et in-app dans un seul Parcours",
       "tr": "Push, email, SMS ve in-app'i tek bir Yolculukta birleştirin",
       "zh-CN": "在单个旅程中组合推送、电子邮件、短信和应用内",
-      "zh-TW": "在單個旅程中組合推送、電郵、短訊和應用內"
+      "zh-TW": "在單個旅程中組合推送、電郵、短訊和應用內",
+      "id": "Gabungkan push, email, SMS, dan in-app dalam satu Journey"
     },
     "Create reusable messages": {
       "ja": "再利用可能なメッセージを作成",
@@ -7146,7 +7147,8 @@
       "fr": "Créez des messages réutilisables",
       "tr": "Yeniden kullanılabilir mesajlar oluşturun",
       "zh-CN": "创建可复用的消息",
-      "zh-TW": "建立可重用的訊息"
+      "zh-TW": "建立可重用的訊息",
+      "id": "Buat pesan yang dapat digunakan kembali"
     },
     "Dismiss": {
       "ja": "閉じる",
@@ -7156,7 +7158,8 @@
       "fr": "Ignorer",
       "tr": "Kapat",
       "zh-CN": "关闭",
-      "zh-TW": "關閉"
+      "zh-TW": "關閉",
+      "id": "Tutup"
     },
     "If you're ready to take your messaging to the next level, check out Journeys, our new automation tool.": {
       "ja": "メッセージングを次のレベルに引き上げる準備ができたら、新しい自動化ツール「ジャーニー」をご活用ください。",
@@ -7166,7 +7169,8 @@
       "fr": "Si vous êtes prêt à passer votre messagerie au niveau supérieur, découvrez Parcours, notre nouvel outil d'automatisation.",
       "tr": "Mesajlaşmanızı bir üst seviyeye taşımaya hazırsanız, yeni otomasyon aracımız Yolculukları inceleyin.",
       "zh-CN": "如果您准备好将消息推送提升到一个新水平，请查看我们的新自动化工具旅程。",
-      "zh-TW": "如果您準備好將訊息推送提升到一個新水平，請查看我們的新自動化工具旅程。"
+      "zh-TW": "如果您準備好將訊息推送提升到一個新水平，請查看我們的新自動化工具旅程。",
+      "id": "Jika Anda siap membawa pesan Anda ke level berikutnya, lihat Journeys, alat otomasi baru kami."
     },
     "Journeys documentation": {
       "ja": "ジャーニーのドキュメント",
@@ -7176,7 +7180,8 @@
       "fr": "Documentation Parcours",
       "tr": "Yolculuklar dokümantasyonu",
       "zh-CN": "旅程文档",
-      "zh-TW": "旅程文件"
+      "zh-TW": "旅程文件",
+      "id": "Dokumentasi Journeys"
     },
     "New Automated Email": {
       "ja": "新しい自動メール",
@@ -7186,7 +7191,8 @@
       "fr": "Nouvel email automatisé",
       "tr": "Yeni otomatik email",
       "zh-CN": "新自动化电子邮件",
-      "zh-TW": "新自動化電郵"
+      "zh-TW": "新自動化電郵",
+      "id": "Email Otomatis Baru"
     },
     "Or start with one of our quickstart Journeys": {
       "ja": "またはクイックスタートジャーニーの1つから始める",
@@ -7196,7 +7202,8 @@
       "fr": "Ou commencez avec un de nos Parcours de démarrage rapide",
       "tr": "Ya da hızlı başlangıç Yolculuklarınızdan biriyle başlayın",
       "zh-CN": "或从我们的快速入门旅程之一开始",
-      "zh-TW": "或從我們的快速入門旅程之一開始"
+      "zh-TW": "或從我們的快速入門旅程之一開始",
+      "id": "Atau mulai dengan salah satu Journey mulai cepat kami"
     },
     "Re-engagement": {
       "ja": "再エンゲージメント",
@@ -7206,7 +7213,8 @@
       "fr": "Réengagement",
       "tr": "Yeniden etkileşim",
       "zh-CN": "再互动",
-      "zh-TW": "再互動"
+      "zh-TW": "再互動",
+      "id": "Keterlibatan ulang"
     },
     "Ready to automate your messages?": {
       "ja": "メッセージの自動化の準備はできていますか？",
@@ -7216,7 +7224,8 @@
       "fr": "Prêt à automatiser vos messages ?",
       "tr": "Mesajlarınızı otomatikleştirmeye hazır mısınız?",
       "zh-CN": "准备好自动化您的消息了吗？",
-      "zh-TW": "準備好自動化您的訊息了嗎？"
+      "zh-TW": "準備好自動化您的訊息了嗎？",
+      "id": "Siap mengotomatiskan pesan Anda?"
     },
     "Send the right message based on who users are and how they interact with your product": {
       "ja": "ユーザーの属性とプロダクトとのインタラクションに基づいて適切なメッセージを送信する",
@@ -7226,7 +7235,8 @@
       "fr": "Envoyez le bon message selon le profil des utilisateurs et leur interaction avec votre produit",
       "tr": "Kullanıcıların kim olduğuna ve ürününüzle nasıl etkileşime girdiğine göre doğru mesajı gönderin",
       "zh-CN": "根据用户身份和他们与产品的交互方式发送合适的消息",
-      "zh-TW": "根據用戶身份和他們與產品的互動方式發送合適的訊息"
+      "zh-TW": "根據用戶身份和他們與產品的互動方式發送合適的訊息",
+      "id": "Kirim pesan yang tepat berdasarkan siapa pengguna dan cara mereka berinteraksi dengan produk Anda"
     },
     "Set message standards for push and email": {
       "ja": "プッシュとメールのメッセージ基準を設定",
@@ -7236,7 +7246,8 @@
       "fr": "Définissez des standards de messages pour push et email",
       "tr": "Push ve email için mesaj standartları belirleyin",
       "zh-CN": "为推送和电子邮件设置消息标准",
-      "zh-TW": "為推送和電郵設定訊息標準"
+      "zh-TW": "為推送和電郵設定訊息標準",
+      "id": "Tetapkan standar pesan untuk push dan email"
     },
     "Your app is limited to 500,000 email sends a month. If you need help with your limit, contact our Support team.": {
       "ja": "アプリは月に50万件のメール送信に制限されています。制限についてご質問がある場合は、サポートチームにお問い合わせください。",
@@ -7246,7 +7257,8 @@
       "fr": "Votre app est limitée à 500 000 envois d'email par mois. Si vous avez besoin d'aide avec votre limite, contactez notre équipe Support.",
       "tr": "Uygulamanız ayda 500.000 email gönderimi ile sınırlıdır. Limitinizle ilgili yardıma ihtiyacınız varsa, destek ekibimizle iletişime geçin.",
       "zh-CN": "您的应用每月限制发送 500,000 封电子邮件。如需有关限额的帮助，请联系我们的支持团队。",
-      "zh-TW": "您的應用每月限制發送 500,000 封電郵。如需有關限額的協助，請聯絡我們的支援團隊。"
+      "zh-TW": "您的應用每月限制發送 500,000 封電郵。如需有關限額的協助，請聯絡我們的支援團隊。",
+      "id": "Aplikasi Anda dibatasi 500.000 pengiriman email per bulan. Jika Anda butuh bantuan dengan batas Anda, hubungi tim Dukungan kami."
     },
     "Export a message list for your records": {
       "ja": "記録用のメッセージリストをエクスポート",
@@ -7256,7 +7268,8 @@
       "fr": "Exportez une liste de messages pour vos archives",
       "tr": "Kayıtlarınız için mesaj listesi dışa aktarın",
       "zh-CN": "导出消息列表用于存档",
-      "zh-TW": "匯出訊息列表用於存檔"
+      "zh-TW": "匯出訊息列表用於存檔",
+      "id": "Ekspor daftar pesan untuk catatan Anda"
     },
     "Filter by delivery method (dashboard, API)": {
       "ja": "配信方法（ダッシュボード、API）でフィルタリングする",
@@ -7266,7 +7279,8 @@
       "fr": "Filtrer par méthode de livraison (dashboard, API)",
       "tr": "Teslim yöntemine göre filtreleyin (pano, API)",
       "zh-CN": "按送达方式筛选（仪表板、API）",
-      "zh-TW": "按送達方式篩選（儀表板、API）"
+      "zh-TW": "按送達方式篩選（儀表板、API）",
+      "id": "Filter berdasarkan metode pengiriman (dashboard, API)"
     },
     "Keep an eye on deliverability across campaigns": {
       "ja": "キャンペーン全体の配信率を監視",
@@ -7276,7 +7290,8 @@
       "fr": "Surveillez la délivrabilité sur l'ensemble de vos campagnes",
       "tr": "Kampanyalar genelinde teslim edilebilirliği takip edin",
       "zh-CN": "关注各营销活动的送达率",
-      "zh-TW": "關注各營銷活動的送達率"
+      "zh-TW": "關注各營銷活動的送達率",
+      "id": "Pantau ketercapaian di seluruh kampanye"
     },
     "Keep an eye on what's ahead": {
       "ja": "今後の予定を確認",
@@ -7286,7 +7301,8 @@
       "fr": "Restez attentif à ce qui arrive",
       "tr": "Yaklaşanları takip edin",
       "zh-CN": "关注即将到来的事项",
-      "zh-TW": "關注即將到來的事項"
+      "zh-TW": "關注即將到來的事項",
+      "id": "Pantau apa yang akan datang"
     },
     "Messages: All": {
       "ja": "メッセージ：すべて",
@@ -7296,7 +7312,8 @@
       "fr": "Messages : Tous",
       "tr": "Mesajlar: Tümü",
       "zh-CN": "消息: 全部",
-      "zh-TW": "訊息：全部"
+      "zh-TW": "訊息：全部",
+      "id": "Pesan: Semua"
     },
     "Once you schedule a campaign, it will show up here": {
       "ja": "キャンペーンをスケジュールすると、ここに表示されます",
@@ -7306,7 +7323,8 @@
       "fr": "Une fois une campagne planifiée, elle apparaîtra ici",
       "tr": "Bir kampanyayı planladığınızda burada görünecektir",
       "zh-CN": "一旦您计划营销活动，它将显示在此处",
-      "zh-TW": "一旦您排程營銷活動，它將顯示在此處"
+      "zh-TW": "一旦您排程營銷活動，它將顯示在此處",
+      "id": "Setelah Anda menjadwalkan kampanye, kampanye akan muncul di sini"
     },
     "Once you send a campaign, it will show up here": {
       "ja": "キャンペーンを送信すると、ここに表示されます",
@@ -7316,7 +7334,8 @@
       "fr": "Une fois une campagne envoyée, elle apparaîtra ici",
       "tr": "Bir kampanyayı gönderdiğinizde burada görünecektir",
       "zh-CN": "一旦您发送营销活动，它将显示在此处",
-      "zh-TW": "一旦您發送營銷活動，它將顯示在此處"
+      "zh-TW": "一旦您發送營銷活動，它將顯示在此處",
+      "id": "Setelah Anda mengirim kampanye, kampanye akan muncul di sini"
     },
     "Recently sent messages, all in one place": {
       "ja": "最近送信したメッセージをすべて一か所で確認",
@@ -7326,7 +7345,8 @@
       "fr": "Messages récemment envoyés, tous au même endroit",
       "tr": "Yakın zamanda gönderilen mesajlar, hepsi tek bir yerde",
       "zh-CN": "近期发送的消息，集中在一处",
-      "zh-TW": "近期發送的訊息，集中在一處"
+      "zh-TW": "近期發送的訊息，集中在一處",
+      "id": "Pesan yang baru dikirim, semua dalam satu tempat"
     },
     "Scheduled Messages documentation": {
       "ja": "スケジュール済みメッセージのドキュメント",
@@ -7336,7 +7356,8 @@
       "fr": "Documentation des messages planifiés",
       "tr": "Planlanan mesajlar dokümantasyonu",
       "zh-CN": "已计划消息文档",
-      "zh-TW": "已排程訊息文件"
+      "zh-TW": "已排程訊息文件",
+      "id": "Dokumentasi Pesan Terjadwal"
     },
     "Sent Messages documentation": {
       "ja": "送信済みメッセージのドキュメント",
@@ -7346,7 +7367,8 @@
       "fr": "Documentation des messages envoyés",
       "tr": "Gönderilen mesajlar dokümantasyonu",
       "zh-CN": "已发送消息文档",
-      "zh-TW": "已發送訊息文件"
+      "zh-TW": "已發送訊息文件",
+      "id": "Dokumentasi Pesan Terkirim"
     },
     "Active Subscriptions": {
       "ja": "アクティブな購読",
@@ -7356,7 +7378,8 @@
       "fr": "Abonnements actifs",
       "tr": "Aktif abonelikler",
       "zh-CN": "活跃订阅",
-      "zh-TW": "活躍訂閱"
+      "zh-TW": "活躍訂閱",
+      "id": "Berlangganan Aktif"
     },
     "All Email Subscriptions": {
       "ja": "すべてのメール購読",
@@ -7366,7 +7389,8 @@
       "fr": "Tous les abonnements email",
       "tr": "Tüm email abonelikleri",
       "zh-CN": "所有电子邮件订阅",
-      "zh-TW": "所有電郵訂閱"
+      "zh-TW": "所有電郵訂閱",
+      "id": "Semua Berlangganan Email"
     },
     "All SMS Subscriptions": {
       "ja": "すべてのSMS購読",
@@ -7376,7 +7400,8 @@
       "fr": "Tous les abonnements SMS",
       "tr": "Tüm SMS abonelikleri",
       "zh-CN": "所有短信订阅",
-      "zh-TW": "所有短訊訂閱"
+      "zh-TW": "所有短訊訂閱",
+      "id": "Semua Berlangganan SMS"
     },
     "Device Type is Email": {
       "ja": "デバイスタイプがメール",
@@ -7386,7 +7411,8 @@
       "fr": "Type d'appareil : Email",
       "tr": "Cihaz türü Email",
       "zh-CN": "设备类型为电子邮件",
-      "zh-TW": "裝置類型為電郵"
+      "zh-TW": "裝置類型為電郵",
+      "id": "Jenis Perangkat adalah Email"
     },
     "Device Type is SMS": {
       "ja": "デバイスタイプがSMS",
@@ -7396,7 +7422,8 @@
       "fr": "Type d'appareil : SMS",
       "tr": "Cihaz türü SMS",
       "zh-CN": "设备类型为短信",
-      "zh-TW": "裝置類型為短訊"
+      "zh-TW": "裝置類型為短訊",
+      "id": "Jenis Perangkat adalah SMS"
     },
     "Engaged Subscriptions": {
       "ja": "エンゲージドな購読",
@@ -7406,7 +7433,8 @@
       "fr": "Abonnements engagés",
       "tr": "Etkileşimli abonelikler",
       "zh-CN": "活跃互动订阅",
-      "zh-TW": "活躍互動訂閱"
+      "zh-TW": "活躍互動訂閱",
+      "id": "Berlangganan Aktif"
     },
     "Inactive Subscriptions": {
       "ja": "非アクティブな購読",
@@ -7416,7 +7444,8 @@
       "fr": "Abonnements inactifs",
       "tr": "Pasif abonelikler",
       "zh-CN": "不活跃订阅",
-      "zh-TW": "不活躍訂閱"
+      "zh-TW": "不活躍訂閱",
+      "id": "Berlangganan Tidak Aktif"
     },
     "Total Subscriptions": {
       "ja": "購読合計",
@@ -7426,7 +7455,8 @@
       "fr": "Total des abonnements",
       "tr": "Toplam abonelikler",
       "zh-CN": "订阅总数",
-      "zh-TW": "訂閱總數"
+      "zh-TW": "訂閱總數",
+      "id": "Total Berlangganan"
     },
     "Search by name or keywords": {
       "ja": "名前またはキーワードで検索",
@@ -7436,7 +7466,8 @@
       "fr": "Rechercher par nom ou mots-clés",
       "tr": "Ad veya anahtar kelimelerle ara",
       "zh-CN": "按名称或关键词搜索",
-      "zh-TW": "按名稱或關鍵詞搜尋"
+      "zh-TW": "按名稱或關鍵詞搜尋",
+      "id": "Cari berdasarkan nama atau kata kunci"
     },
     "Try one of our quickstart segments": {
       "ja": "クイックスタートセグメントをお試しください",
@@ -7446,7 +7477,8 @@
       "fr": "Essayez un de nos segments de démarrage rapide",
       "tr": "Hızlı başlangıç segmentlerimizden birini deneyin",
       "zh-CN": "试用我们的快速入门用户分群之一",
-      "zh-TW": "試用我們的快速入門用戶分群之一"
+      "zh-TW": "試用我們的快速入門用戶分群之一",
+      "id": "Coba salah satu Segment mulai cepat kami"
     },
     "Export a list of users": {
       "ja": "ユーザーリストをエクスポート",
@@ -7456,7 +7488,8 @@
       "fr": "Exporter une liste d'utilisateurs",
       "tr": "Kullanıcı listesi dışa aktar",
       "zh-CN": "导出用户列表",
-      "zh-TW": "匯出用戶列表"
+      "zh-TW": "匯出用戶列表",
+      "id": "Ekspor daftar pengguna"
     },
     "Integrate SDK": {
       "ja": "SDKを統合",
@@ -7466,7 +7499,8 @@
       "fr": "Intégrer le SDK",
       "tr": "SDK entegre et",
       "zh-CN": "集成 SDK",
-      "zh-TW": "整合 SDK"
+      "zh-TW": "整合 SDK",
+      "id": "Integrasikan SDK"
     },
     "Know your users": {
       "ja": "ユーザーを把握",
@@ -7476,7 +7510,8 @@
       "fr": "Connaissez vos utilisateurs",
       "tr": "Kullanıcılarınızı tanıyın",
       "zh-CN": "了解您的用户",
-      "zh-TW": "了解您的用戶"
+      "zh-TW": "了解您的用戶",
+      "id": "Kenali pengguna Anda"
     },
     "Manage user profiles": {
       "ja": "ユーザープロフィールを管理",
@@ -7486,7 +7521,8 @@
       "fr": "Gérer les profils utilisateur",
       "tr": "Kullanıcı profillerini yönetin",
       "zh-CN": "管理用户资料",
-      "zh-TW": "管理用戶個人資料"
+      "zh-TW": "管理用戶個人資料",
+      "id": "Kelola profil pengguna"
     },
     "See recent message activity at the user level": {
       "ja": "ユーザーレベルでの最近のメッセージアクティビティを確認",
@@ -7496,7 +7532,8 @@
       "fr": "Voir l'activité récente des messages au niveau de l'utilisateur",
       "tr": "Kullanıcı düzeyinde yakın zamandaki mesaj etkinliğini görüntüleyin",
       "zh-CN": "在用户级别查看近期消息活动",
-      "zh-TW": "在用戶級別查看近期訊息活動"
+      "zh-TW": "在用戶級別查看近期訊息活動",
+      "id": "Lihat aktivitas pesan terbaru di tingkat pengguna"
     },
     "User documentation": {
       "ja": "ユーザードキュメント",
@@ -7506,7 +7543,8 @@
       "fr": "Documentation utilisateur",
       "tr": "Kullanıcı dokümantasyonu",
       "zh-CN": "用户文档",
-      "zh-TW": "用戶文件"
+      "zh-TW": "用戶文件",
+      "id": "Dokumentasi pengguna"
     },
     "Set up": {
       "ja": "セットアップ",
@@ -7516,7 +7554,8 @@
       "fr": "Configurer",
       "tr": "Kur",
       "zh-CN": "设置",
-      "zh-TW": "設定"
+      "zh-TW": "設定",
+      "id": "Siapkan"
     },
     "Data Feeds allow you to dynamically fetch data from your APIs at send time.": {
       "ja": "データフィードを使用すると、送信時にAPIからデータを動的に取得できます。",
@@ -7526,7 +7565,8 @@
       "fr": "Les Flux de données vous permettent de récupérer dynamiquement des données depuis vos API au moment de l'envoi.",
       "tr": "Veri akışları, gönderim sırasında API'lerinizden dinamik olarak veri almanızı sağlar.",
       "zh-CN": "数据源允许您在发送时从 API 动态获取数据。",
-      "zh-TW": "資料串流允許您在發送時從 API 動態獲取資料。"
+      "zh-TW": "資料串流允許您在發送時從 API 動態獲取資料。",
+      "id": "Data Feeds memungkinkan Anda mengambil data secara dinamis dari API Anda pada saat pengiriman."
     },
     "Data Feeds documentation": {
       "ja": "データフィードのドキュメント",
@@ -7536,7 +7576,8 @@
       "fr": "Documentation des Flux de données",
       "tr": "Veri akışları dokümantasyonu",
       "zh-CN": "数据源文档",
-      "zh-TW": "資料串流文件"
+      "zh-TW": "資料串流文件",
+      "id": "Dokumentasi Data Feeds"
     },
     "Insert real-time, dynamic content from your data feeds directly into the template at the time of sending. This feature only applies to templates sent through Journeys.": {
       "ja": "送信時にデータフィードからリアルタイムの動的コンテンツをテンプレートに直接挿入します。この機能はジャーニー経由で送信されるテンプレートにのみ適用されます。",
@@ -7546,7 +7587,8 @@
       "fr": "Insérez du contenu dynamique en temps réel depuis vos flux de données directement dans le modèle au moment de l'envoi. Cette fonctionnalité ne s'applique qu'aux modèles envoyés via Parcours.",
       "tr": "Veri akışlarınızdan gerçek zamanlı, dinamik içeriği gönderim sırasında doğrudan şablona ekleyin. Bu özellik yalnızca Yolculuklar aracılığıyla gönderilen şablonlar için geçerlidir.",
       "zh-CN": "在发送时将来自数据源的实时动态内容直接插入模板。此功能仅适用于通过旅程发送的模板。",
-      "zh-TW": "在發送時將來自資料串流的即時動態內容直接插入範本。此功能僅適用於透過旅程發送的範本。"
+      "zh-TW": "在發送時將來自資料串流的即時動態內容直接插入範本。此功能僅適用於透過旅程發送的範本。",
+      "id": "Sisipkan konten dinamis real-time dari data feed Anda langsung ke dalam template saat pengiriman. Fitur ini hanya berlaku untuk template yang dikirim melalui Journeys."
     },
     "Needs Action": {
       "ja": "対応が必要",
@@ -7556,7 +7598,8 @@
       "fr": "Action requise",
       "tr": "Eylem gerekli",
       "zh-CN": "需要操作",
-      "zh-TW": "需要操作"
+      "zh-TW": "需要操作",
+      "id": "Perlu Tindakan"
     },
     "You don't have any Data Feeds set up yet": {
       "ja": "データフィードはまだ設定されていません",
@@ -7566,7 +7609,8 @@
       "fr": "Vous n'avez encore configuré aucun flux de données",
       "tr": "Henüz kurulmuş bir veri akışınız yok",
       "zh-CN": "您还没有设置任何数据源",
-      "zh-TW": "您還沒有設定任何資料串流"
+      "zh-TW": "您還沒有設定任何資料串流",
+      "id": "Anda belum memiliki Data Feeds yang disiapkan"
     },
     "Export subscriptions for push, email, and SMS": {
       "ja": "プッシュ、メール、SMSの購読をエクスポートする",
@@ -7576,7 +7620,8 @@
       "fr": "Exportez les abonnements pour push, email et SMS",
       "tr": "Push, email ve SMS için abonelikleri dışa aktarın",
       "zh-CN": "导出推送、电子邮件和短信的订阅",
-      "zh-TW": "匯出推送、電郵和短訊的訂閱"
+      "zh-TW": "匯出推送、電郵和短訊的訂閱",
+      "id": "Ekspor berlangganan untuk push, email, dan SMS"
     },
     "See subscriber preferences at the channel level": {
       "ja": "チャネルレベルでの購読者の設定を確認",
@@ -7586,7 +7631,8 @@
       "fr": "Voir les préférences des abonnés au niveau du canal",
       "tr": "Abone tercihlerini kanal düzeyinde görüntüleyin",
       "zh-CN": "在渠道级别查看订阅者偏好",
-      "zh-TW": "在渠道級別查看訂閱者偏好"
+      "zh-TW": "在渠道級別查看訂閱者偏好",
+      "id": "Lihat preferensi pelanggan di tingkat saluran"
     },
     "Subscriptions documentation": {
       "ja": "購読のドキュメント",
@@ -7596,7 +7642,8 @@
       "fr": "Documentation des abonnements",
       "tr": "Abonelikler dokümantasyonu",
       "zh-CN": "订阅文档",
-      "zh-TW": "訂閱文件"
+      "zh-TW": "訂閱文件",
+      "id": "Dokumentasi berlangganan"
     },
     "Understand your audience": {
       "ja": "オーディエンスを理解",
@@ -7606,7 +7653,8 @@
       "fr": "Comprenez votre audience",
       "tr": "Hedef kitlenizi anlayın",
       "zh-CN": "了解您的受众",
-      "zh-TW": "了解您的受眾"
+      "zh-TW": "了解您的受眾",
+      "id": "Pahami audiens Anda"
     },
     "View recent activity and preferences": {
       "ja": "最近のアクティビティと設定を表示",
@@ -7616,7 +7664,8 @@
       "fr": "Voir l'activité récente et les préférences",
       "tr": "Yakın zamandaki etkinliği ve tercihleri görüntüleyin",
       "zh-CN": "查看近期活动和偏好",
-      "zh-TW": "查看近期活動和偏好"
+      "zh-TW": "查看近期活動和偏好",
+      "id": "Lihat aktivitas dan preferensi terbaru"
     },
     "Add Test Subscriptions": {
       "ja": "テスト購読を追加",
@@ -7626,7 +7675,8 @@
       "fr": "Ajouter des abonnements de test",
       "tr": "Test abonelikleri ekle",
       "zh-CN": "添加测试订阅",
-      "zh-TW": "新增測試訂閱"
+      "zh-TW": "新增測試訂閱",
+      "id": "Tambah Berlangganan Uji"
     },
     "Confirm emails are pixel-perfect": {
       "ja": "メールがピクセルパーフェクトであることを確認",
