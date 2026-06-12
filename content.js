@@ -69,6 +69,28 @@
   // and not translatable copy — pure chart chrome.
   const MISSED_METRIC_MAGNITUDE_RE = /^\d+(\.\d+)?[kKmMbB]$/;
   const MISSED_FULL_DATE_RE = /^(January|February|March|April|May|June|July|August|September|October|November|December)\s+\d+,\s+\d{4}$/;
+  // JS Date.toString() output as it appears verbatim in some dashboards:
+  // 'Wed Jun 03 2026', 'Sat May 30 2026', 'Mon May 11 2026'. Day-of-week
+  // prefix + month abbreviation + zero-padded day + 4-digit year.
+  const MISSED_DAY_MONTH_DATE_RE = /^(Sun|Mon|Tue|Wed|Thu|Fri|Sat)\s(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s\d{1,2}\s\d{4}$/;
+  // Verbose timestamp with ordinal day + AM/PM: 'December 18th 2025, 1:14 pm',
+  // 'June 1st 2026, 10:30 AM'. Appears on activity / audit-log timestamp
+  // cells in some surfaces.
+  const MISSED_VERBOSE_TIMESTAMP_RE = /^(January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2}(st|nd|rd|th)\s+\d{4},?\s+\d{1,2}:\d{2}\s*(am|pm|AM|PM)$/;
+  // Bare timezone offsets and 'Local (GMT-N):' labels emitted by chart
+  // tooltips. Not translatable — pure metadata for date axis context.
+  const MISSED_GMT_OFFSET_RE = /^(Local\s\()?GMT[+-]\d{1,2}(\):?$|$)/;
+  // Mobile device names with parenthetical OS version digits:
+  // 'Samsung Galaxy Tab A8 (14)', 'Redmi Note 14 (15)', 'Motorola moto g05 (15)'.
+  // Distinct from MISSED_DEVICE_VERSION_RE which requires multi-part versions.
+  // These are pulled from analytics user-agent fingerprints, never UI strings.
+  const MISSED_MOBILE_DEVICE_RE = /^(Samsung|Redmi|Xiaomi|Motorola|Google|Apple|OnePlus|Realme|Oppo|Vivo|Huawei|Nokia|Sony|LG)\s.+\s\(\d{1,3}\)$/i;
+  // Integration-marketplace descriptions: marketing copy describing each
+  // 3rd-party data source. Always starts with the brand name and includes
+  // 'is a/an' or 'provides' / 'offers' / 'turns' / 'helps' — verbose copy
+  // that changes frequently upstream and isn't worth ledger churn.
+  // Length-gated to avoid catching short UI labels with similar verbs.
+  const MISSED_INTEGRATION_BLURB_RE = /^[A-Z][\w &.()]{1,40}\s(is\s(an?\s)?|provides\s|offers\s|turns\s|helps\s).+\.$/;
   // Liquid template syntax leaking through DOM: '{{ user.external_id }}',
   // 'Hi {{ first_name | default: "there" }}', '{% if x %}'.
   const MISSED_LIQUID_RE = /\{\{|\}\}|\{%|%\}/;
@@ -217,11 +239,16 @@
     if (MISSED_METRIC_MAGNITUDE_RE.test(s)) return false;
     if (MISSED_CHART_META_RE.test(s)) return false;
     if (MISSED_FULL_DATE_RE.test(s)) return false;
+    if (MISSED_DAY_MONTH_DATE_RE.test(s)) return false;
+    if (MISSED_VERBOSE_TIMESTAMP_RE.test(s)) return false;
+    if (MISSED_GMT_OFFSET_RE.test(s)) return false;
     if (MISSED_LIQUID_RE.test(s)) return false;
     if (MISSED_DEVICE_VERSION_RE.test(s)) return false;
+    if (MISSED_MOBILE_DEVICE_RE.test(s)) return false;
     if (MISSED_EXTERNAL_ID_RE.test(s)) return false;
     if (MISSED_THIRD_PARTY_RE.test(s)) return false;
     if (MISSED_ONESIGNAL_BRAND_RE.test(s)) return false;
+    if (MISSED_INTEGRATION_BLURB_RE.test(s)) return false;
     if (recentTranslations.has(s)) return false;
     if (/^\d+$/.test(s)) return false;
     if (!/[A-Za-z]/.test(s)) return false;

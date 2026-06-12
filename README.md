@@ -337,7 +337,7 @@ clear it or flip opt-in off at any time.
 Zero-infrastructure receiver. ~5 minutes end-to-end.
 
 1. Create a new Google Sheet. Name the first tab `ledger`. Add a header
-   row: `timestamp | lang | path | string | count`.
+   row: `timestamp | lang | path | string | count | installId | extensionVersion`.
 2. **Extensions → Apps Script.** Paste this into `Code.gs`:
 
    ```javascript
@@ -345,21 +345,35 @@ Zero-infrastructure receiver. ~5 minutes end-to-end.
      const sheet = SpreadsheetApp.getActive().getSheetByName("ledger");
      const body = JSON.parse(e.postData.contents);
      const now = new Date();
+     // installId and extensionVersion are payload-level (one value per
+     // POST, applies to all entries) — copy across each row so the sheet
+     // can be pivoted by either.
+     const installId = body.installId || "";
+     const extensionVersion = body.extensionVersion || "";
      const rows = (body.entries || []).map((en) => [
        now,
        en.lang || "",
        en.path || "",
        en.string || "",
        en.count || 0,
+       installId,
+       extensionVersion,
      ]);
      if (rows.length) {
-       sheet.getRange(sheet.getLastRow() + 1, 1, rows.length, 5).setValues(rows);
+       sheet.getRange(sheet.getLastRow() + 1, 1, rows.length, 7).setValues(rows);
      }
      return ContentService
        .createTextOutput(JSON.stringify({ ok: true, received: rows.length }))
        .setMimeType(ContentService.MimeType.JSON);
    }
    ```
+
+   `extensionVersion` was added in 1.8.0 — it lets you separate ledger
+   noise from stale unpacked installs (running a build that doesn't yet
+   have the current filter/pattern) from genuine regressions on the
+   latest build. Pivot by extension version to confirm. Older installs
+   POST without the field; the Apps Script substitutes `""` and old
+   rows show blank in that column.
 
 3. **Deploy → New deployment → Type: Web app.**
    - Execute as: **Me**.

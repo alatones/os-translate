@@ -214,6 +214,13 @@ async function flushLedger() {
   const entries = parseLedger(ledger);
   if (entries.length === 0) return;
   const installId = await getOrCreateInstallId();
+  // Extension version (not the payload schema version) — lets the Apps
+  // Script tag every row with which build emitted it. Critical for
+  // diagnosing "is this ledger entry from an old build that doesn't have
+  // the current filter/pattern, or from the current build?" without that,
+  // a regression looks identical to a stale unpacked install that hasn't
+  // been reloaded.
+  const extensionVersion = chrome.runtime.getManifest().version;
   let ok = false;
   try {
     const res = await fetch(LEDGER_ENDPOINT, {
@@ -223,6 +230,7 @@ async function flushLedger() {
         version: 2,
         token: LEDGER_TOKEN,
         installId,
+        extensionVersion,
         entries,
       }),
     });

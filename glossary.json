@@ -1663,7 +1663,8 @@
         "3. Delivery Schedule",
         "4. Delivery Schedule",
         "5. Delivery Schedule",
-        "Delivery schedule"
+        "Delivery schedule",
+        "Delivery Schedule"
       ],
       "note": "es: Two stacked rules from the Chilean Spanish reviewer. (1) KPI/feature labels stay Latin: 'Delivery Rate', 'Intelligent Delivery', 'Delivery time', 'Delivery Schedule'. (2) Status / count / event labels use the 'Entrega/Entregado' family — preserves the Sent (Enviado) vs. Delivered (Entregado) distinction that exists in the product. The verb 'entregar' and body-copy noun 'entrega' translate normally; multiple forms are listed as acceptable here so the validator accepts whichever fits the context. Latin 'Delivery' kept in the alt list so the four locked compounds (Delivery Rate, etc.) still pass the parent check. tr: bare 'Delivery' (menu item) and 'Close Delivery menu' (its aria-label) are exempted via _skip_keys — the Turkish reviewer renamed the menu to 'Bildirim Geçmişi' (Notification History) to describe what the page actually shows.",
       "fr": [
