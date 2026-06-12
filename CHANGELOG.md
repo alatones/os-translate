@@ -7,6 +7,86 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
+## [1.8.0] — 2026-06-12
+
+### Added
+
+- **111 new UI string translations across 9 languages**, sourced from
+  the June 2026 ledger pass. Grouped into three tiers for review:
+  - **Tier A** (23 strings): metrics & session-attribution labels —
+    `Unique clicks`, `Unique Opens`, `Total Opens/Clicks`, `Conversions`,
+    `Suppressed`, `Unattributed / Influenced / Direct sessions`
+    (plus colon variants), chart-series toggles (`Show Unattributed
+    sessions`, etc.), `Show Confirmed`, conversion-overview pickers
+    (`Select conversion metric`, `All Channels`), `Click to Open Rate`,
+    `Click activity`.
+  - **Tier B** (21 strings): filters/actions/auth — `View filter JSON`,
+    `View Click Activity`, `View Journeys documentation`, `Update
+    Segment`, `Refresh Stats`, `Copy / Remove filter (group)`,
+    `Create new template`, `Create or select a template...`, `Search By
+    OneSignal ID`, plus the full 2FA flow (`Verify`, `Verify Your
+    Identity`, `Use a recovery code`, `Unable to authenticate?`,
+    `Enter the code from your authentication app.`, `Authentication
+    Code`).
+  - **Tier C** (67 strings): status badges, section headers, inline
+    trailing-colon labels, percentage labels, journey-exit conditions
+    (5 strings), long-form body copy / empty states (`Activity is
+    available for 30 days...`, `Loading In-App Message...`,
+    `Per-subscription activity data is no longer available...`),
+    numbered step labels (`1. Message`, `3. Triggers`, `4. Schedule`),
+    and Latin acronym passthroughs (`HubSpot`, `CTOR`, `CRM`).
+
+  All glossary locks honored — Journey/Segment/Subscription native
+  forms in ja/ko/zh-CN/zh-TW, Tag locks applied to pt/fr/id, Active
+  lock for tr, Delivered (`tersampaikan`) lock for id. Several
+  first-pass translations adjusted post-validator (e.g. `Click to
+  Open Rate` restructured in 5 languages to contain the locked
+  Open Rate substring; `Loading In-App Message...` uses
+  `インアプリ`/`인앱` which contain `アプリ`/`앱` to satisfy both
+  In-App and App locks at once).
+
+- **Five new `content.js` ledger-noise filters** for high-install
+  strings the June 2026 ledger surfaced that aren't UI text:
+  - `MISSED_DAY_MONTH_DATE_RE` — `Wed Jun 03 2026` style
+    (JS `Date.toString()` output). Translation patterns deferred:
+    full coverage would require day-of-week × month combinations.
+  - `MISSED_VERBOSE_TIMESTAMP_RE` — `December 18th 2025, 1:14 pm`
+    style audit-log timestamps.
+  - `MISSED_GMT_OFFSET_RE` — `Local (GMT-3):` and bare `GMT-3`
+    timezone metadata accompanying chart axis context.
+  - `MISSED_MOBILE_DEVICE_RE` — `Samsung Galaxy Tab A8 (14)`,
+    `Redmi Redmi Note 14 (15)`, `Motorola moto g05 (15)` —
+    analytics user-agent fingerprints, never UI strings.
+  - `MISSED_INTEGRATION_BLURB_RE` — integration marketplace
+    descriptions (`Mixpanel provides behavioral product
+    analytics...`) — verbose marketing copy that changes
+    upstream frequently; better filtered than translated.
+
+### Changed
+
+- **Ledger POST payload now includes `extensionVersion`.** New top-level
+  field carrying `chrome.runtime.getManifest().version` so every row
+  in the receiver sheet can be tagged with the build that emitted it.
+  The Apps Script `doPost` template in `README.md` updated to extract
+  the field and add it as a new column (`extensionVersion`); the
+  documented sheet schema becomes
+  `timestamp | lang | path | string | count | installId | extensionVersion`.
+  Older installs (pre-1.8.0) POST without the field; the Apps Script
+  substitutes `""` so their rows show blank in that column rather than
+  failing. Lets you separate noise from stale unpacked installs from
+  genuine regressions on the latest build by pivoting on version.
+
+### Investigation
+
+- **Bare `Jun 1` / `May 8` ledger noise:** still appearing despite
+  pattern coverage and `MISSED_BARE_MONTH_DAY_RE` filter (both
+  added in 1.6.15). Most plausible cause: beta-tester unpacked
+  installs that haven't been reloaded since 5/20. Chrome doesn't
+  auto-reload unpacked extensions; the Web Store version updates
+  automatically but beta cohort installs are manual. No code
+  change needed — beta testers should reload at
+  `chrome://extensions`.
+
 ## [1.7.1] — 2026-05-29
 
 ### Added
