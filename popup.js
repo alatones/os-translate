@@ -54,6 +54,8 @@ const POPUP_STRINGS = {
     fr: "Langue",
     tr: "Dil",
     "zh-CN": "语言",
+    "zh-TW": "語言",
+    id: "Bahasa",
   },
   optin_label: {
     ja: "翻訳の改善にご協力ください（匿名化された未翻訳の文字列を共有）",
@@ -63,6 +65,8 @@ const POPUP_STRINGS = {
     fr: "Aidez à améliorer les traductions (partager les chaînes non traduites anonymisées)",
     tr: "Çevirileri iyileştirmeye yardım edin (anonim hale getirilmiş çevrilmemiş dizeler paylaşılır)",
     "zh-CN": "帮助改进翻译（共享匿名化的未翻译字符串）",
+    "zh-TW": "幫助改進翻譯（共享匿名化的未翻譯字串）",
+    id: "Bantu meningkatkan terjemahan (bagikan string yang tidak diterjemahkan secara anonim)",
   },
   queue_link: {
     ja: "待機中のデータを確認 →",
@@ -72,6 +76,8 @@ const POPUP_STRINGS = {
     fr: "Voir ce qui est en file d'attente →",
     tr: "Kuyruktakileri görüntüle →",
     "zh-CN": "查看队列中的内容 →",
+    "zh-TW": "檢視排隊中的內容 →",
+    id: "Lihat antrean →",
   },
   feedback_btn: {
     ja: "翻訳の問題を報告",
@@ -81,6 +87,8 @@ const POPUP_STRINGS = {
     fr: "Signaler un problème de traduction",
     tr: "Çeviri sorununu bildir",
     "zh-CN": "报告翻译问题",
+    "zh-TW": "回報翻譯問題",
+    id: "Laporkan masalah terjemahan",
   },
   hint: {
     ja: "ヒント：ダッシュボード上の翻訳されたテキストを右クリックすると、その文字列の修正を提案できます。",
@@ -90,6 +98,8 @@ const POPUP_STRINGS = {
     fr: "Astuce : faites un clic droit sur n'importe quel texte traduit du tableau de bord pour suggérer une correction pour cette chaîne spécifique.",
     tr: "İpucu: panodaki çevrilmiş herhangi bir metne sağ tıklayarak o belirli dize için düzeltme önerebilirsiniz.",
     "zh-CN": "提示：在仪表板上右键单击任何已翻译的文本，为该特定字符串提交修改建议。",
+    "zh-TW": "提示：在儀表板上對任何翻譯文字按右鍵，可為該特定字串提交修正建議。",
+    id: "Tip: klik kanan pada teks terjemahan apa pun di dashboard untuk menyarankan perbaikan untuk string tertentu.",
   },
   disclosure_body: {
     ja: "この拡張機能は、翻訳できていなかったダッシュボードの文字列リストを共有してカバレッジを改善します。URL、ユーザーID、個人データは送信されません。",
@@ -99,6 +109,8 @@ const POPUP_STRINGS = {
     fr: "Cette extension partage une liste de chaînes du tableau de bord qui n'ont pas été traduites pour améliorer la couverture. Aucune URL, ID utilisateur ou donnée personnelle n'est envoyée.",
     tr: "Bu uzantı, kapsamı geliştirmek için çevrilmemiş pano dizelerinin bir listesini paylaşır. URL, kullanıcı kimliği veya kişisel veri gönderilmez.",
     "zh-CN": "此扩展会共享仪表板上未翻译的字符串列表以改进覆盖范围。不发送任何 URL、用户 ID 或个人数据。",
+    "zh-TW": "此擴充功能會分享儀表板上未翻譯的字串清單以改善覆蓋率。不會傳送任何 URL、用戶 ID 或個人資料。",
+    id: "Ekstensi ini membagikan daftar string dashboard yang belum diterjemahkan agar cakupan terus membaik. URL, ID pengguna, atau data pribadi tidak pernah dikirim.",
   },
   disclosure_dismiss: {
     ja: "了解",
@@ -108,6 +120,8 @@ const POPUP_STRINGS = {
     fr: "Compris",
     tr: "Anladım",
     "zh-CN": "知道了",
+    "zh-TW": "了解",
+    id: "Mengerti",
   },
   status_cancelled: {
     ja: "キャンセルしました。",
@@ -117,6 +131,8 @@ const POPUP_STRINGS = {
     fr: "Annulé.",
     tr: "İptal edildi.",
     "zh-CN": "已取消。",
+    "zh-TW": "已取消。",
+    id: "Dibatalkan.",
   },
   status_saved: {
     ja: "保存しました。再読み込み中…",
@@ -126,6 +142,8 @@ const POPUP_STRINGS = {
     fr: "Enregistré. Rechargement…",
     tr: "Kaydedildi. Yeniden yükleniyor…",
     "zh-CN": "已保存。正在重新加载…",
+    "zh-TW": "已儲存。重新載入中…",
+    id: "Tersimpan. Memuat ulang…",
   },
   status_no_form: {
     ja: "フィードバックフォームが設定されていません — READMEを参照してください。",
@@ -135,6 +153,8 @@ const POPUP_STRINGS = {
     fr: "Le formulaire de retour n'est pas configuré — voir le README.",
     tr: "Geri bildirim formu yapılandırılmadı — README'ye bakın.",
     "zh-CN": "反馈表单未配置 — 请参阅 README。",
+    "zh-TW": "回饋表單尚未設定 — 請參閱 README。",
+    id: "Formulir umpan balik belum dikonfigurasi — lihat README.",
   },
   confirm_reload: {
     ja: "言語を切り替えるとOneSignalダッシュボードのタブが再読み込みされます。保存されていない変更（下書き、開いているエディター）は失われます。\n\n今すぐ再読み込みしますか？",
@@ -144,6 +164,8 @@ const POPUP_STRINGS = {
     fr: "Changer de langue rechargera l'onglet du tableau de bord OneSignal. Les modifications non enregistrées (brouillons, éditeurs ouverts) seront perdues.\n\nRecharger maintenant ?",
     tr: "Dili değiştirmek OneSignal pano sekmesini yeniden yükleyecektir. Kaydedilmemiş değişiklikler (taslaklar, açık editörler) kaybolacaktır.\n\nŞimdi yeniden yüklensin mi?",
     "zh-CN": "切换语言将重新加载 OneSignal 仪表板选项卡。任何未保存的更改（草稿、打开的编辑器）将丢失。\n\n立即重新加载？",
+    "zh-TW": "切換語言將重新載入 OneSignal 儀表板分頁。任何未儲存的變更（草稿、開啟的編輯器）將會遺失。\n\n立即重新載入？",
+    id: "Mengganti bahasa akan memuat ulang tab dashboard OneSignal. Setiap perubahan yang belum disimpan (draf, editor yang terbuka) akan hilang.\n\nMuat ulang sekarang?",
   },
 };
 
