@@ -7,7 +7,56 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
-## [1.8.1] — 2026-06-18
+## [1.9.0] — 2026-06-24
+
+### Added
+
+- **70 new UI translations across 9 languages**, sourced from the
+  June 24 ledger pass. Triaged into five buckets:
+  - **Bucket A** (5 strings + 1 pattern): missed from Tier C in
+    1.8.0 — `Card`, `Block`, `Margin`, `Frequency`, `Alignment`.
+    Plus a new `^Card (\d+)$` regex pattern so `Card 1`, `Card 2`,
+    etc. translate by index rather than as separate dict entries.
+  - **Bucket B** (25 strings): high-install genuinely new UI —
+    stats / detail-pane colon variants (`Delivered:`, `Subscribes:`,
+    `Included:`, `Created:`, `Last Updated:`, `Subscribed:`,
+    `Subscription ID:`), filter / chart toggles (`Show Opened`,
+    `Any Day`), metrics (`Subscribed Users`, `Conversion Metrics`),
+    Journey UI (`Journey Goal`, `Custom Event Occurs`,
+    `Enters a Segment`, `Previous Message`), Journey branching
+    feature (`Branch A` / `B`, `Add Branch`, `Equal Distribution`,
+    `Randomize`, `Branch Distribution`, `Expiration Branch`,
+    `Re-entry`), and admin UI (`Audit logs`, `Team members`,
+    `Manage app`, `Add an App`, `New App`,
+    `Move Apps Into Organization`).
+  - **Bucket C** (17 strings): AI assistant feature — `New
+    conversation`, `View reasoning`, `Stop generating`, status
+    spinners (`Thinking…`, `Processing…`, `Analyzing your
+    request…`, `Calculating`, `Working on it…`), chat surface
+    (`Ask me anything about your app...`, `Chat message input`,
+    `What do you want to know?`, `AI can make mistakes, always
+    verify.`), and suggested prompts (`Show me my active
+    segments`, `What are my app stats?`, `How are my recent
+    push notifications performing?`, `Create a new segment
+    called 'VIP Users'`).
+  - **Bucket D** (10 strings): Journey wait-window / time-window UI
+    — `Wait Until Time Window`, `Set Time Window Rules`,
+    `Set a time window`, `What time / days can users proceed to
+    the next step?`, `Timezone Fallback`, `Select Timezone`,
+    `Any time`, `Tracked up to`, `Users On`.
+  - **Bucket E** (10 strings): empty states / onboarding copy —
+    `You'll see data here…` variants, `User has not been in any
+    Journeys`, `Send your first in-app!`, `Your events are live!`,
+    `You're all set up`, `No recent activity`, `To get started,
+    add your first app.`, `Learn more about subscriptions.`,
+    `Message events in last 60 days`.
+
+  All glossary locks honored — Journey/Segment native forms in
+  ja/ko (`ジャーニー`/`저니`, `セグメント`/`세그먼트`), Subscription
+  native forms in 8 langs (id stays Latin per Santi's rule),
+  In-App + App locks satisfied by `インアプリ` / `인앱` (containing
+  `アプリ` / `앱`), Push + Notification combined via `推送通知` in
+  zh-CN/zh-TW.
 
 ### Fixed
 
