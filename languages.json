@@ -1890,7 +1890,7 @@
       "tr": "Etkileşim eğilimleri",
       "zh-CN": "互动趋势",
       "zh-TW": "互動趨勢",
-      "id": "Tren keterlibatan"
+      "id": "Tren Engagement"
     },
     "Error": {
       "es": "Error",
@@ -3408,7 +3408,7 @@
       "tr": "Yeni aboneler",
       "zh-CN": "新订阅者",
       "zh-TW": "新訂閱者",
-      "id": "Pelanggan Baru"
+      "id": "Subscribers Baru"
     },
     "New Template": {
       "es": "Nueva plantilla",
@@ -3815,7 +3815,7 @@
       "tr": "Genel bakış",
       "zh-CN": "概览",
       "zh-TW": "概覽",
-      "id": "Ikhtisar"
+      "id": "Overview"
     },
     "page": {
       "es": "página",
@@ -4706,7 +4706,7 @@
       "tr": "Tüm abonelere gönder",
       "zh-CN": "发送给所有订阅者",
       "zh-TW": "發送給所有訂閱者",
-      "id": "Kirim ke Semua Pelanggan"
+      "id": "Kirim ke Semua Subscribers"
     },
     "Sender": {
       "es": "Remitente",
@@ -5245,7 +5245,7 @@
       "tr": "Abone onayı geri aldı",
       "zh-CN": "订阅者已拒绝",
       "zh-TW": "訂閱者已拒絕",
-      "id": "Pelanggan Keluar"
+      "id": "Subscriber Keluar"
     },
     "Subscription Date": {
       "es": "Fecha de suscripción",
@@ -5256,7 +5256,7 @@
       "tr": "Abonelik tarihi",
       "zh-CN": "订阅日期",
       "zh-TW": "訂閱日期",
-      "id": "Tanggal Berlangganan"
+      "id": "Tanggal Subscription"
     },
     "Subscription ID": {
       "es": "ID de suscripción",
@@ -5267,7 +5267,7 @@
       "tr": "Abonelik ID",
       "zh-CN": "订阅 ID",
       "zh-TW": "訂閱 ID",
-      "id": "ID Berlangganan"
+      "id": "ID Subscription"
     },
     "Subscription Records": {
       "es": "Registros de suscripción",
@@ -5278,7 +5278,7 @@
       "tr": "Abonelik kayıtları",
       "zh-CN": "订阅记录",
       "zh-TW": "訂閱記錄",
-      "id": "Catatan Berlangganan"
+      "id": "Catatan Subscription"
     },
     "Subscription trends": {
       "es": "Tendencias de suscripciones",
@@ -5289,7 +5289,7 @@
       "tr": "Abonelik eğilimleri",
       "zh-CN": "订阅趋势",
       "zh-TW": "訂閱趨勢",
-      "id": "Tren berlangganan"
+      "id": "Tren subscription"
     },
     "Subscriptions": {
       "es": "Suscripciones",
@@ -5300,7 +5300,7 @@
       "tr": "Abonelikler",
       "zh-CN": "订阅",
       "zh-TW": "訂閱記錄",
-      "id": "Berlangganan"
+      "id": "Subscriptions"
     },
     "Success": {
       "es": "Éxito",
@@ -5443,7 +5443,7 @@
       "tr": "Test abonelik kayıtları",
       "zh-CN": "测试订阅记录",
       "zh-TW": "測試訂閱記錄",
-      "id": "Catatan Berlangganan Uji"
+      "id": "Catatan Subscription Uji"
     },
     "Test Subscriptions": {
       "es": "Suscripciones de prueba",
@@ -5454,7 +5454,7 @@
       "tr": "Test abonelikleri",
       "zh-CN": "测试订阅",
       "zh-TW": "測試訂閱記錄",
-      "id": "Berlangganan Uji"
+      "id": "Subscriptions Uji"
     },
     "Test Users": {
       "es": "Usuarios de prueba",
@@ -5641,7 +5641,7 @@
       "tr": "Toplam aboneler",
       "zh-CN": "订阅者总数",
       "zh-TW": "訂閱者總數",
-      "id": "Total Pelanggan"
+      "id": "Total Subscribers"
     },
     "Total web push subscribers": {
       "es": "Total de suscriptores web push",
@@ -5652,7 +5652,7 @@
       "tr": "Toplam web push aboneleri",
       "zh-CN": "Web 推送订阅者总数",
       "zh-TW": "Web 推送訂閱者總數",
-      "id": "Total pelanggan push web"
+      "id": "Total subscribers push web"
     },
     "Trigger": {
       "es": "Disparador",
@@ -6015,7 +6015,7 @@
       "tr": "Abonelik ve fatura dönemi kullanımını görüntüleyin",
       "zh-CN": "查看订阅和计费周期使用情况",
       "zh-TW": "查看訂閱和計費週期使用情況",
-      "id": "Lihat penggunaan berlangganan & siklus penagihan"
+      "id": "Lihat penggunaan subscription & siklus penagihan"
     },
     "Viewer": {
       "es": "Observador",
@@ -6059,7 +6059,7 @@
       "tr": "Web push aboneleri",
       "zh-CN": "Web 推送订阅者",
       "zh-TW": "Web 推送訂閱者",
-      "id": "Pelanggan push web"
+      "id": "Subscribers push web"
     },
     "Webhook": {
       "es": "Webhook",
@@ -6290,7 +6290,7 @@
       "tr": "Kullanıcılarınızı ve aboneliklerinizi ekleyin",
       "zh-CN": "添加您的用户和订阅",
       "zh-TW": "新增您的用戶和訂閱",
-      "id": "Tambahkan pengguna & berlangganan Anda"
+      "id": "Tambahkan pengguna & subscriptions Anda"
     },
     "Bring your users back with mobile and web push.": {
       "ja": "モバイルとウェブのプッシュ通知でユーザーを呼び戻します。",
@@ -6334,7 +6334,7 @@
       "tr": "Abonelik durumundan bağımsız olarak tüm aktif kullanıcılara ulaşın. (yalnızca mobil uygulamalar)",
       "zh-CN": "无论订阅状态如何，触达所有活跃用户。（仅限移动应用）",
       "zh-TW": "無論訂閱狀態如何，觸達所有活躍用戶。（僅限移動應用）",
-      "id": "Jangkau semua pengguna aktif, terlepas dari status berlangganan. (hanya aplikasi seluler)"
+      "id": "Jangkau semua pengguna aktif, terlepas dari status subscription. (hanya aplikasi seluler)"
     },
     "Send a quick message or setup automated messaging with Journeys": {
       "ja": "クイックメッセージを送信するか、ジャーニーで自動メッセージを設定する",
@@ -7082,7 +7082,7 @@
       "tr": "Kullanıcı kazanımını, yeniden etkileşimi ve daha fazlasını otomatikleştirin",
       "zh-CN": "自动化新手引导、再互动等",
       "zh-TW": "自動化新手引導、再互動等",
-      "id": "Otomatiskan orientasi, keterlibatan ulang, dan lainnya"
+      "id": "Otomatiskan orientasi, Engagement ulang, dan lainnya"
     },
     "Automate personalized messaging": {
       "ja": "パーソナライズされたメッセージを自動化",
@@ -7126,7 +7126,7 @@
       "tr": "Sürükle-bırak görsel oluşturucumuzda kanalları, kampanyaları ve mesajlaşma mantığını birleştirin",
       "zh-CN": "在我们的拖放式可视化构建器中组合渠道、营销活动和消息逻辑",
       "zh-TW": "在我們的拖放式視覺化構建器中組合渠道、營銷活動和訊息邏輯",
-      "id": "Gabungkan saluran, kampanye, dan logika pesan dalam pembuat visual seret-dan-lepas kami"
+      "id": "Gabungkan saluran, kampanye, dan logika pesan dalam pembuat visual drag-and-drop kami"
     },
     "Combine push, email, SMS, and in-app in a single Journey": {
       "ja": "プッシュ、メール、SMS、アプリ内を1つのジャーニーに組み合わせる",
@@ -7214,7 +7214,7 @@
       "tr": "Yeniden etkileşim",
       "zh-CN": "再互动",
       "zh-TW": "再互動",
-      "id": "Keterlibatan ulang"
+      "id": "Engagement ulang"
     },
     "Ready to automate your messages?": {
       "ja": "メッセージの自動化の準備はできていますか？",
@@ -7379,7 +7379,7 @@
       "tr": "Aktif abonelikler",
       "zh-CN": "活跃订阅",
       "zh-TW": "活躍訂閱",
-      "id": "Berlangganan Aktif"
+      "id": "Subscriptions Aktif"
     },
     "All Email Subscriptions": {
       "ja": "すべてのメール購読",
@@ -7390,7 +7390,7 @@
       "tr": "Tüm email abonelikleri",
       "zh-CN": "所有电子邮件订阅",
       "zh-TW": "所有電郵訂閱",
-      "id": "Semua Berlangganan Email"
+      "id": "Semua Subscriptions Email"
     },
     "All SMS Subscriptions": {
       "ja": "すべてのSMS購読",
@@ -7401,7 +7401,7 @@
       "tr": "Tüm SMS abonelikleri",
       "zh-CN": "所有短信订阅",
       "zh-TW": "所有短訊訂閱",
-      "id": "Semua Berlangganan SMS"
+      "id": "Semua Subscriptions SMS"
     },
     "Device Type is Email": {
       "ja": "デバイスタイプがメール",
@@ -7434,7 +7434,7 @@
       "tr": "Etkileşimli abonelikler",
       "zh-CN": "活跃互动订阅",
       "zh-TW": "活躍互動訂閱",
-      "id": "Berlangganan Aktif"
+      "id": "Subscriptions Aktif"
     },
     "Inactive Subscriptions": {
       "ja": "非アクティブな購読",
@@ -7445,7 +7445,7 @@
       "tr": "Pasif abonelikler",
       "zh-CN": "不活跃订阅",
       "zh-TW": "不活躍訂閱",
-      "id": "Berlangganan Tidak Aktif"
+      "id": "Subscriptions Tidak Aktif"
     },
     "Total Subscriptions": {
       "ja": "購読合計",
@@ -7456,7 +7456,7 @@
       "tr": "Toplam abonelikler",
       "zh-CN": "订阅总数",
       "zh-TW": "訂閱總數",
-      "id": "Total Berlangganan"
+      "id": "Total Subscriptions"
     },
     "Search by name or keywords": {
       "ja": "名前またはキーワードで検索",
@@ -7621,7 +7621,7 @@
       "tr": "Push, email ve SMS için abonelikleri dışa aktarın",
       "zh-CN": "导出推送、电子邮件和短信的订阅",
       "zh-TW": "匯出推送、電郵和短訊的訂閱",
-      "id": "Ekspor berlangganan untuk push, email, dan SMS"
+      "id": "Ekspor subscriptions untuk push, email, dan SMS"
     },
     "See subscriber preferences at the channel level": {
       "ja": "チャネルレベルでの購読者の設定を確認",
@@ -7632,7 +7632,7 @@
       "tr": "Abone tercihlerini kanal düzeyinde görüntüleyin",
       "zh-CN": "在渠道级别查看订阅者偏好",
       "zh-TW": "在渠道級別查看訂閱者偏好",
-      "id": "Lihat preferensi pelanggan di tingkat saluran"
+      "id": "Lihat preferensi subscriber di tingkat saluran"
     },
     "Subscriptions documentation": {
       "ja": "購読のドキュメント",
@@ -7643,7 +7643,7 @@
       "tr": "Abonelikler dokümantasyonu",
       "zh-CN": "订阅文档",
       "zh-TW": "訂閱文件",
-      "id": "Dokumentasi berlangganan"
+      "id": "Dokumentasi subscriptions"
     },
     "Understand your audience": {
       "ja": "オーディエンスを理解",
@@ -7676,7 +7676,7 @@
       "tr": "Test abonelikleri ekle",
       "zh-CN": "添加测试订阅",
       "zh-TW": "新增測試訂閱",
-      "id": "Tambah Berlangganan Uji"
+      "id": "Tambah Subscriptions Uji"
     },
     "Confirm emails are pixel-perfect": {
       "ja": "メールがピクセルパーフェクトであることを確認",
@@ -7698,7 +7698,7 @@
       "tr": "Test mesajlarını önizlemek ve göndermek için test aboneliklerini yönetin.",
       "zh-CN": "管理测试订阅以预览和发送测试消息。",
       "zh-TW": "管理測試訂閱以預覽和發送測試訊息。",
-      "id": "Kelola berlangganan uji untuk mempratinjau dan mengirim pesan uji."
+      "id": "Kelola subscriptions uji untuk mempratinjau dan mengirim pesan uji."
     },
     "Send perfect messages": {
       "ja": "完璧なメッセージを送信",
@@ -7720,7 +7720,7 @@
       "tr": "Test abonelikleri dokümantasyonu",
       "zh-CN": "测试订阅文档",
       "zh-TW": "測試訂閱文件",
-      "id": "Dokumentasi berlangganan uji"
+      "id": "Dokumentasi subscriptions uji"
     },
     "Test personalized push message content": {
       "ja": "パーソナライズされたプッシュメッセージコンテンツをテスト",
@@ -7918,7 +7918,7 @@
       "tr": "SMS en yüksek açılma ve etkileşim oranlarına sahiptir",
       "zh-CN": "短信拥有最高的打开率和互动率",
       "zh-TW": "短訊擁有最高的開啟率和互動率",
-      "id": "SMS memiliki tingkat buka dan keterlibatan tertinggi"
+      "id": "SMS memiliki tingkat buka dan Engagement tertinggi"
     },
     "See how SMS and RCS fit into your engagement strategy. Get expert tips on growing conversions and retention.": {
       "ja": "SMSとRCSがエンゲージメント戦略にどのように組み込まれるかをご覧ください。コンバージョンとリテンションを高めるための専門家のヒントをご紹介します。",
@@ -7929,7 +7929,7 @@
       "tr": "SMS ve RCS'nin etkileşim stratejinize nasıl uyduğunu görün. Dönüşüm ve elde tutmayı artırmak için uzman ipuçları alın.",
       "zh-CN": "了解短信和富媒体短信如何契合您的互动策略。获取专家建议以提升转化率和留存率。",
       "zh-TW": "了解短訊和富媒體短訊如何契合您的互動策略。獲取專家建議以提升轉換率和留存率。",
-      "id": "Lihat bagaimana SMS dan RCS cocok dengan strategi keterlibatan Anda. Dapatkan tips ahli tentang peningkatan konversi dan retensi."
+      "id": "Lihat bagaimana SMS dan RCS cocok dengan strategi Engagement Anda. Dapatkan tips ahli tentang peningkatan konversi dan retensi."
     },
     "Set Up SMS / RCS": {
       "ja": "SMS / RCSをセットアップ",
@@ -8050,7 +8050,7 @@
       "tr": "Abonelik eğilimleri için karşılaştırma dönemi seçin",
       "zh-CN": "选择订阅趋势的对比周期",
       "zh-TW": "選擇訂閱趨勢的對比週期",
-      "id": "Pilih periode perbandingan untuk tren berlangganan"
+      "id": "Pilih periode perbandingan untuk tren subscription"
     },
     "Select custom date range for subscription trends": {
       "ja": "購読トレンドのカスタム期間を選択",
@@ -8061,7 +8061,7 @@
       "tr": "Abonelik eğilimleri için özel tarih aralığı seçin",
       "zh-CN": "选择订阅趋势的自定义日期范围",
       "zh-TW": "選擇訂閱趨勢的自訂日期範圍",
-      "id": "Pilih rentang tanggal kustom untuk tren berlangganan"
+      "id": "Pilih rentang tanggal kustom untuk tren subscription"
     },
     "Select outcome metric to add": {
       "ja": "追加する結果指標を選択",
@@ -8083,7 +8083,7 @@
       "tr": "Abonelik eğilimleri için zaman dilimi seçin",
       "zh-CN": "选择订阅趋势的时间段",
       "zh-TW": "選擇訂閱趨勢的時間段",
-      "id": "Pilih periode waktu untuk tren berlangganan"
+      "id": "Pilih periode waktu untuk tren subscription"
     },
     "Setup guide": {
       "ja": "セットアップガイド",
@@ -8138,7 +8138,7 @@
       "tr": "Abonelik durumu",
       "zh-CN": "订阅状态",
       "zh-TW": "訂閱狀態",
-      "id": "Status berlangganan"
+      "id": "Status subscription"
     },
     "Google Android": {
       "ja": "Google Android",
@@ -9227,7 +9227,7 @@
       "tr": "Sürükle-bırak düzenleyici",
       "zh-CN": "拖放编辑器",
       "zh-TW": "拖放編輯器",
-      "id": "Editor seret & lepas"
+      "id": "Editor Drag & drop"
     },
     "HTML editor": {
       "ja": "HTMLエディター",
@@ -9260,7 +9260,7 @@
       "tr": "Görsel ve metin bloklarıyla görsel sürükle-bırak düzenleme.",
       "zh-CN": "使用图像和文本块进行可视化拖放编辑。",
       "zh-TW": "使用圖像和文字方塊進行視覺化拖放編輯。",
-      "id": "Pengeditan seret dan lepas visual dengan blok gambar dan teks."
+      "id": "Pengeditan drag and drop visual dengan blok gambar dan teks."
     },
     "Write or copy/paste your own HTML and CSS.": {
       "ja": "独自のHTMLとCSSを書き込むか、コピー＆ペーストしてください。",
@@ -9810,7 +9810,7 @@
       "tr": "Web push abonelikleri",
       "zh-CN": "Web 推送订阅",
       "zh-TW": "Web 推送訂閱",
-      "id": "Berlangganan push web"
+      "id": "Subscriptions push web"
     },
     "When should this message start sending?": {
       "ja": "このメッセージはいつ送信を開始しますか？",
@@ -13033,7 +13033,7 @@
       "tr": "Bu segmentteki abonelik kayıtları şu kurallara uymalıdır:",
       "zh-CN": "此用户分群中的订阅记录必须满足这些规则:",
       "zh-TW": "此用戶分群中的訂閱記錄必須滿足這些規則：",
-      "id": "Catatan berlangganan dalam Segment ini harus memenuhi aturan berikut:"
+      "id": "Catatan subscription dalam Segment ini harus memenuhi aturan berikut:"
     },
     "The first date/time the device communicated with our servers": {
       "ja": "デバイスが最初にサーバーと通信した日時",
@@ -13319,7 +13319,7 @@
       "tr": "Push aboneleri",
       "zh-CN": "推送订阅者",
       "zh-TW": "推送訂閱者",
-      "id": "Pelanggan Push"
+      "id": "Subscribers Push"
     },
     "See Breakdown": {
       "ja": "内訳を見る",
@@ -13363,7 +13363,7 @@
       "tr": "Abonelik dönemi",
       "zh-CN": "订阅周期",
       "zh-TW": "訂閱週期",
-      "id": "Siklus Berlangganan"
+      "id": "Siklus Subscription"
     },
     "Blank SMS / RCS": {
       "ja": "空のSMS / RCS",
@@ -14309,7 +14309,7 @@
       "tr": "Abonelik yok",
       "zh-CN": "无订阅",
       "zh-TW": "無訂閱",
-      "id": "Tidak ada berlangganan"
+      "id": "Tidak ada subscriptions"
     },
     "Phone": {
       "ja": "電話",
@@ -14408,7 +14408,7 @@
       "tr": "Yolculuklardaki ek otomasyonlar, kanallar ve özelliklerle daha fazla etkileşim sağlayın.",
       "zh-CN": "通过旅程中更多的自动化、渠道和功能提升互动。",
       "zh-TW": "透過旅程中更多的自動化、渠道和功能提升互動。",
-      "id": "Tingkatkan keterlibatan lebih banyak dengan otomasi, saluran, dan fitur tambahan di Journeys."
+      "id": "Tingkatkan Engagement lebih banyak dengan otomasi, saluran, dan fitur tambahan di Journeys."
     },
     "Try Journeys": {
       "ja": "ジャーニーを試す",
@@ -16146,7 +16146,7 @@
       "tr": "Abonelik durumuna göre segmentlenmiş",
       "zh-CN": "按订阅状态细分",
       "zh-TW": "按訂閱狀態細分",
-      "id": "Disegmentasi berdasarkan status berlangganan"
+      "id": "Disegmentasi berdasarkan status subscription"
     },
     "Send Message Prompt is": {
       "ja": "メッセージプロンプト送信:",
@@ -16179,7 +16179,7 @@
       "tr": "Abonelik anahtar kelimesi yanıtı",
       "zh-CN": "订阅关键词回复",
       "zh-TW": "訂閱關鍵詞回覆",
-      "id": "Respons Kata Kunci Berlangganan"
+      "id": "Respons Kata Kunci Subscription"
     },
     "Text-To-Subscribe Keywords": {
       "ja": "テキスト購読キーワード",
@@ -16256,7 +16256,7 @@
       "tr": "SMS ile abone olma anahtar kelimeleri aldığımızda, kullanıcıyı otomatik olarak abone yapacağız. Kullanıcı mevcut değilse, aboneliği oluşturup kullanıcıyı abone yapacağız.",
       "zh-CN": "当我们收到短信订阅关键词时，我们将自动为用户订阅。如果用户不存在，我们将创建订阅并为该用户订阅。",
       "zh-TW": "當我們收到短訊訂閱關鍵詞時，我們將自動為用戶訂閱。如果用戶不存在，我們將建立訂閱並為該用戶訂閱。",
-      "id": "Saat kami menerima kata kunci text-to-subscribe, kami akan secara otomatis berlangganan pengguna. Jika pengguna tidak ada, kami akan membuat berlangganan dan mendaftarkan pengguna."
+      "id": "Saat kami menerima kata kunci text-to-subscribe, kami akan secara otomatis subscription pengguna. Jika pengguna tidak ada, kami akan membuat subscription dan mendaftarkan pengguna."
     },
     "YES": {
       "ja": "YES",
@@ -18577,7 +18577,7 @@
       "tr": "Double Opt-In, OneSignal'e eklenen kullanıcıları varsayılan olarak bekleme durumuna alır ve abone olmak isteyip istemediklerini onaylamalarını otomatik olarak ister. Onaylandığında kullanıcıyı abone ederiz. Double Opt In, gerçek kullanıcı onayını sağlar, etkileşimi artırır, spam şikayetlerini azaltır ve TCPA ve GDPR gibi düzenlemelere uyar.",
       "zh-CN": "Double Opt-In 会将添加到 OneSignal 的用户默认设置为待处理状态，并自动提示用户确认是否希望订阅。确认后，我们会订阅该用户。Double Opt In 可确保真实的用户同意，提升参与度，减少垃圾邮件投诉，并符合 TCPA 和 GDPR 等法规。",
       "zh-TW": "Double Opt-In 會將添加到 OneSignal 的用戶默認設置為待處理狀態，並自動提示用戶確認是否希望訂閱。確認後，我們會訂閱該用戶。Double Opt In 可確保真實的用戶同意，提升參與度，減少垃圾郵件投訴，並符合 TCPA 和 GDPR 等法規。",
-      "id": "Double Opt-In akan menempatkan pengguna dalam status tertunda saat ditambahkan ke OneSignal dan secara otomatis meminta pengguna untuk mengonfirmasi bahwa mereka ingin berlangganan. Setelah dikonfirmasi, kami akan mendaftarkan pengguna. Double Opt-In memastikan persetujuan pengguna yang tulus, meningkatkan keterlibatan, mengurangi keluhan spam, dan mematuhi regulasi seperti TCPA dan GDPR."
+      "id": "Double Opt-In akan menempatkan pengguna dalam status tertunda saat ditambahkan ke OneSignal dan secara otomatis meminta pengguna untuk mengonfirmasi bahwa mereka ingin berlangganan. Setelah dikonfirmasi, kami akan mendaftarkan pengguna. Double Opt-In memastikan persetujuan pengguna yang tulus, meningkatkan Engagement, mengurangi keluhan spam, dan mematuhi regulasi seperti TCPA dan GDPR."
     },
     "Re-Subscribe keywords are only activated when a user has already unsubscribed and is on the phone number or message service's blocklist. When we receive re-subscribe keywords, we'll automatically re-subscribe the user and take them off the phone number or message service's blocklist.": {
       "ja": "再購読キーワードは、ユーザーがすでに購読解除しており、電話番号またはメッセージサービスのブロックリストに登録されている場合にのみ有効化されます。再購読キーワードを受信すると、ユーザーを自動的に再購読登録し、電話番号またはメッセージサービスのブロックリストから削除します。",
@@ -18830,7 +18830,7 @@
       "tr": "Abonelik",
       "zh-CN": "订阅",
       "zh-TW": "訂閱",
-      "id": "Berlangganan"
+      "id": "Subscription"
     },
     "Subscription Updated": {
       "ja": "購読が更新されました",
@@ -18841,7 +18841,7 @@
       "tr": "Abonelik güncellendi",
       "zh-CN": "订阅已更新",
       "zh-TW": "訂閱已更新",
-      "id": "Berlangganan Diperbarui"
+      "id": "Subscription Diperbarui"
     },
     "User Action": {
       "ja": "ユーザーアクション",
@@ -19072,7 +19072,7 @@
       "tr": "Etkileşim",
       "zh-CN": "互动",
       "zh-TW": "互動",
-      "id": "Keterlibatan"
+      "id": "Engagement"
     },
     "Lifecycle": {
       "ja": "ライフサイクル",
@@ -19182,7 +19182,7 @@
       "tr": "Abonelik durumu değişiklikleri",
       "zh-CN": "订阅状态变更",
       "zh-TW": "訂閱狀態變更",
-      "id": "Perubahan status berlangganan"
+      "id": "Perubahan status subscription"
     },
     "Send a Message": {
       "ja": "メッセージを送信",
@@ -19501,7 +19501,7 @@
       "tr": "Push kanalınızı kurarak etkileşim istatistiklerini izlemeye başlayın",
       "zh-CN": "通过设置推送通知渠道开始跟踪互动数据",
       "zh-TW": "透過設定推送通知渠道開始追蹤互動數據",
-      "id": "Mulai lacak statistik keterlibatan dengan menyiapkan saluran push Anda"
+      "id": "Mulai lacak statistik Engagement dengan menyiapkan saluran push Anda"
     },
     "% of messages delivered": {
       "ja": "配信メッセージの割合",
@@ -19534,7 +19534,7 @@
       "tr": "Abonelik serisi seç",
       "zh-CN": "选择订阅系列",
       "zh-TW": "選擇訂閱系列",
-      "id": "Pilih seri berlangganan"
+      "id": "Pilih seri subscription"
     },
     "Select channel for engagement overview": {
       "ja": "エンゲージメント概要のチャネルを選択",
@@ -19545,7 +19545,7 @@
       "tr": "Etkileşim genel görünümü için kanal seç",
       "zh-CN": "选择互动概览的渠道",
       "zh-TW": "選擇互動概覽的渠道",
-      "id": "Pilih saluran untuk ikhtisar keterlibatan"
+      "id": "Pilih saluran untuk Overview Engagement"
     },
     "Description (optional)": {
       "ja": "説明 (任意)",
@@ -19952,7 +19952,7 @@
       "tr": "Dönüşüm genel bakışı için kanal seçin",
       "zh-CN": "选择转化概览的渠道",
       "zh-TW": "選擇轉換概覽的頻道",
-      "id": "Pilih saluran untuk ringkasan konversi"
+      "id": "Pilih saluran untuk Overview konversi"
     },
     "All Channels": {
       "ja": "全チャネル",
@@ -20843,7 +20843,7 @@
       "tr": "Bu mesaj için Abonelik bazlı etkinlik verileri artık mevcut değil.",
       "zh-CN": "此消息的按订阅划分的活动数据已不再可用。",
       "zh-TW": "此訊息的依訂閱劃分的活動資料已不再可用。",
-      "id": "Data aktivitas per Berlangganan tidak lagi tersedia untuk pesan ini."
+      "id": "Data aktivitas per Subscription tidak lagi tersedia untuk pesan ini."
     },
     "Loading In-App Message. Please wait a moment...": {
       "ja": "インアプリメッセージを読み込んでいます。少々お待ちください...",

@@ -101,6 +101,32 @@
   `Delivery Schedule`. The verb "deliver" / body-copy noun "delivery"
   still translates naturally (`mengirim`, `pengiriman`).
 
+## Stays Latin (per Indonesian reviewer)
+
+Additions from Santi (Indonesian reviewer) on the first-pass id review.
+These were initially translated; Santi flagged each as unnatural or
+semantically wrong, and recommended keeping the English form which is
+familiar to Indonesian product/analytics users:
+
+- `Overview` — stays Latin. `Ikhtisar` is rare in everyday Indonesian
+  product or analytics contexts.
+- `Engagement` — stays Latin. `Keterlibatan` reads literally
+  (= "involvement") and doesn't carry the marketing/analytics sense.
+  `Interaksi` was offered as a fallback but the Latin form is more
+  familiar to dashboard users.
+- `Subscription` / `Subscriptions` / `Subscriber` / `Subscribers` —
+  stay Latin. `Berlangganan` / `Pelanggan` read as "opted-in to a
+  service" or "customer," which doesn't match the OneSignal noun
+  (a record representing a way to reach a user — push device, email
+  address, phone number). The Latin form preserves the technical
+  meaning.
+- `drag-and-drop` / `Drag & drop` / `Drag and drop` — stay Latin.
+  `seret-dan-lepas` is a literal calque but `drag-and-drop` is the
+  common UI-convention loanword in Indonesian product copy. Note:
+  inflected verb forms `menyeret` / `diseret` in a11y instruction
+  prose ("press space bar to drag…") still translate naturally —
+  the lock applies to the noun-compound form only.
+
 ## Length
 
 - Button labels: target ≤ 16 characters. Soft cap 22.
