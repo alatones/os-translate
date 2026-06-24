@@ -7,6 +7,110 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
+## [1.9.0] — 2026-06-24
+
+### Added
+
+- **70 new UI translations across 9 languages**, sourced from the
+  June 24 ledger pass. Triaged into five buckets:
+  - **Bucket A** (5 strings + 1 pattern): missed from Tier C in
+    1.8.0 — `Card`, `Block`, `Margin`, `Frequency`, `Alignment`.
+    Plus a new `^Card (\d+)$` regex pattern so `Card 1`, `Card 2`,
+    etc. translate by index rather than as separate dict entries.
+  - **Bucket B** (25 strings): high-install genuinely new UI —
+    stats / detail-pane colon variants (`Delivered:`, `Subscribes:`,
+    `Included:`, `Created:`, `Last Updated:`, `Subscribed:`,
+    `Subscription ID:`), filter / chart toggles (`Show Opened`,
+    `Any Day`), metrics (`Subscribed Users`, `Conversion Metrics`),
+    Journey UI (`Journey Goal`, `Custom Event Occurs`,
+    `Enters a Segment`, `Previous Message`), Journey branching
+    feature (`Branch A` / `B`, `Add Branch`, `Equal Distribution`,
+    `Randomize`, `Branch Distribution`, `Expiration Branch`,
+    `Re-entry`), and admin UI (`Audit logs`, `Team members`,
+    `Manage app`, `Add an App`, `New App`,
+    `Move Apps Into Organization`).
+  - **Bucket C** (17 strings): AI assistant feature — `New
+    conversation`, `View reasoning`, `Stop generating`, status
+    spinners (`Thinking…`, `Processing…`, `Analyzing your
+    request…`, `Calculating`, `Working on it…`), chat surface
+    (`Ask me anything about your app...`, `Chat message input`,
+    `What do you want to know?`, `AI can make mistakes, always
+    verify.`), and suggested prompts (`Show me my active
+    segments`, `What are my app stats?`, `How are my recent
+    push notifications performing?`, `Create a new segment
+    called 'VIP Users'`).
+  - **Bucket D** (10 strings): Journey wait-window / time-window UI
+    — `Wait Until Time Window`, `Set Time Window Rules`,
+    `Set a time window`, `What time / days can users proceed to
+    the next step?`, `Timezone Fallback`, `Select Timezone`,
+    `Any time`, `Tracked up to`, `Users On`.
+  - **Bucket E** (10 strings): empty states / onboarding copy —
+    `You'll see data here…` variants, `User has not been in any
+    Journeys`, `Send your first in-app!`, `Your events are live!`,
+    `You're all set up`, `No recent activity`, `To get started,
+    add your first app.`, `Learn more about subscriptions.`,
+    `Message events in last 60 days`.
+
+  All glossary locks honored — Journey/Segment native forms in
+  ja/ko (`ジャーニー`/`저니`, `セグメント`/`세그먼트`), Subscription
+  native forms in 8 langs (id stays Latin per Santi's rule),
+  In-App + App locks satisfied by `インアプリ` / `인앱` (containing
+  `アプリ` / `앱`), Push + Notification combined via `推送通知` in
+  zh-CN/zh-TW.
+
+### Fixed
+
+- **Popup widget now localized in Indonesian and Traditional Chinese.**
+  `POPUP_STRINGS` was missing `id` and `zh-TW` entries for all 11 keys,
+  so the popup chrome (language label, opt-in checkbox, disclosure,
+  hint, queue link, feedback button, status messages, reload confirm)
+  silently fell back to the inline English in `popup.html` whenever
+  either language was selected — even though the dashboard itself was
+  translating correctly. 22 new strings added (2 langs × 11 keys),
+  applying style/id.md and style/zh-TW.md conventions.
+
+### Changed (per Indonesian reviewer — Santi, first-round)
+
+- **Four Indonesian terminology corrections** following Santi's review
+  of the 1.7.0 first-draft. Each term reads as semantically wrong or
+  unnatural in Indonesian; the English form is the common loanword in
+  Indonesian product/analytics copy and is now locked:
+  - `Overview` (was: `Ikhtisar`) — Ikhtisar isn't used in everyday
+    Indonesian product/analytics contexts.
+  - `Engagement` (was: `Keterlibatan`) — Keterlibatan reads literally
+    as "involvement"; doesn't carry the marketing sense.
+  - `Subscription` / `Subscriptions` (was: `Berlangganan`) —
+    Berlangganan reads as "opted-in to a service," not the OneSignal
+    noun (a record representing a way to reach a user).
+  - `Subscriber` / `Subscribers` (was: `Pelanggan`) — Pelanggan reads
+    as "customer."
+  - `drag-and-drop` family (was: `seret-dan-lepas`) — literal calque;
+    `drag-and-drop` is the loanword convention in Indonesian product
+    UI. Inflected verb forms (`menyeret`, `diseret`) in a11y
+    instruction prose are untouched — those are correct conjugation,
+    not the noun-compound term.
+
+  61 id translations swept (gated on source-key word-boundary match
+  so verb forms like "Subscribed" / "Unsubscribed" in source stay as
+  `Berhenti berlangganan` etc., avoiding broken Indonesian).
+  `glossary.json`: id locks for Subscription / Subscriptions /
+  Subscriber / Subscribers switched to Latin lists (singular + plural
+  variants accepted). New glossary entries added for Overview,
+  Engagement, drag-and-drop — id-only locks; other languages keep
+  translation freedom. `style/id.md` updated with a "Stays Latin (per
+  Indonesian reviewer)" section.
+
+### Notes (no code change)
+
+- **Issue 1 — context menu in English** (Santi): resolved on Santi's
+  end by updating the local install to 1.8.0; `MENU_TITLES` already
+  has `id` and `zh-TW` entries. Stale unpacked install was the cause.
+- **Issue 2 — Google Form pre-fill not selecting Indonesian**: resolved
+  externally by adding `Indonesian` as a dropdown option on the form.
+  Pre-fill mapping in `FORM_LANG_LABEL` was already correct. Note:
+  `Traditional Chinese` as a form option still TBD — once added there,
+  zh-TW pre-fill works automatically (no code change).
+
 ## [1.8.0] — 2026-06-12
 
 ### Added

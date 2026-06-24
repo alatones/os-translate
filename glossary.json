@@ -149,7 +149,10 @@
       ],
       "zh-CN": "订阅",
       "zh-TW": "訂閱",
-      "id": "Berlangganan"
+      "id": [
+        "Subscription",
+        "Subscriptions"
+      ]
     },
     "Subscriptions": {
       "ja": "購読",
@@ -172,7 +175,10 @@
       ],
       "zh-CN": "订阅",
       "zh-TW": "訂閱",
-      "id": "Berlangganan"
+      "id": [
+        "Subscriptions",
+        "Subscription"
+      ]
     },
     "Subscriber": {
       "ja": "購読者",
@@ -189,7 +195,10 @@
         "訂閱者",
         "用戶"
       ],
-      "id": "Pelanggan"
+      "id": [
+        "Subscriber",
+        "Subscribers"
+      ]
     },
     "Subscribers": {
       "ja": "購読者",
@@ -209,7 +218,10 @@
         "訂閱者",
         "用戶"
       ],
-      "id": "Pelanggan"
+      "id": [
+        "Subscribers",
+        "Subscriber"
+      ]
     },
     "Outcome": {
       "ja": [
@@ -1969,6 +1981,22 @@
         "Event Stream",
         "event stream"
       ]
+    },
+    "Overview": {
+      "id": "Overview",
+      "note": "id: stays Latin per the Indonesian reviewer (Santi) — 'Ikhtisar' isn't commonly used in everyday Indonesian product/analytics contexts. Other languages translate normally."
+    },
+    "Engagement": {
+      "id": "Engagement",
+      "note": "id: stays Latin per the Indonesian reviewer (Santi) — 'Keterlibatan' didn't sound natural; Indonesian SaaS users are familiar with 'Engagement' as a loanword. 'Interaksi' was offered as fallback but Latin is preferred. Other languages translate normally."
+    },
+    "drag-and-drop": {
+      "id": [
+        "drag-and-drop",
+        "Drag and drop",
+        "Drag & drop"
+      ],
+      "note": "id: stays Latin per the Indonesian reviewer (Santi) — 'seret-dan-lepas' is a direct translation but reads unnatural; 'drag-and-drop' is the common UI convention in Indonesian product copy. Other languages translate normally."
     }
   }
 }
