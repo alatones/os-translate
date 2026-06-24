@@ -7,6 +7,61 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
+## [1.8.1] — 2026-06-18
+
+### Fixed
+
+- **Popup widget now localized in Indonesian and Traditional Chinese.**
+  `POPUP_STRINGS` was missing `id` and `zh-TW` entries for all 11 keys,
+  so the popup chrome (language label, opt-in checkbox, disclosure,
+  hint, queue link, feedback button, status messages, reload confirm)
+  silently fell back to the inline English in `popup.html` whenever
+  either language was selected — even though the dashboard itself was
+  translating correctly. 22 new strings added (2 langs × 11 keys),
+  applying style/id.md and style/zh-TW.md conventions.
+
+### Changed (per Indonesian reviewer — Santi, first-round)
+
+- **Four Indonesian terminology corrections** following Santi's review
+  of the 1.7.0 first-draft. Each term reads as semantically wrong or
+  unnatural in Indonesian; the English form is the common loanword in
+  Indonesian product/analytics copy and is now locked:
+  - `Overview` (was: `Ikhtisar`) — Ikhtisar isn't used in everyday
+    Indonesian product/analytics contexts.
+  - `Engagement` (was: `Keterlibatan`) — Keterlibatan reads literally
+    as "involvement"; doesn't carry the marketing sense.
+  - `Subscription` / `Subscriptions` (was: `Berlangganan`) —
+    Berlangganan reads as "opted-in to a service," not the OneSignal
+    noun (a record representing a way to reach a user).
+  - `Subscriber` / `Subscribers` (was: `Pelanggan`) — Pelanggan reads
+    as "customer."
+  - `drag-and-drop` family (was: `seret-dan-lepas`) — literal calque;
+    `drag-and-drop` is the loanword convention in Indonesian product
+    UI. Inflected verb forms (`menyeret`, `diseret`) in a11y
+    instruction prose are untouched — those are correct conjugation,
+    not the noun-compound term.
+
+  61 id translations swept (gated on source-key word-boundary match
+  so verb forms like "Subscribed" / "Unsubscribed" in source stay as
+  `Berhenti berlangganan` etc., avoiding broken Indonesian).
+  `glossary.json`: id locks for Subscription / Subscriptions /
+  Subscriber / Subscribers switched to Latin lists (singular + plural
+  variants accepted). New glossary entries added for Overview,
+  Engagement, drag-and-drop — id-only locks; other languages keep
+  translation freedom. `style/id.md` updated with a "Stays Latin (per
+  Indonesian reviewer)" section.
+
+### Notes (no code change)
+
+- **Issue 1 — context menu in English** (Santi): resolved on Santi's
+  end by updating the local install to 1.8.0; `MENU_TITLES` already
+  has `id` and `zh-TW` entries. Stale unpacked install was the cause.
+- **Issue 2 — Google Form pre-fill not selecting Indonesian**: resolved
+  externally by adding `Indonesian` as a dropdown option on the form.
+  Pre-fill mapping in `FORM_LANG_LABEL` was already correct. Note:
+  `Traditional Chinese` as a form option still TBD — once added there,
+  zh-TW pre-fill works automatically (no code change).
+
 ## [1.8.0] — 2026-06-12
 
 ### Added
