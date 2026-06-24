@@ -7,6 +7,26 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
+## [1.9.1] — 2026-06-24
+
+### Fixed
+
+- **Web Store short descriptions now list all 9 languages.** The
+  `extDescription` field in each `_locales/<lang>/messages.json`
+  (the short blurb Chrome shows under the extension name in the
+  Web Store, 132-char cap) was stale — it still referenced 7 or 8
+  languages depending on locale. Both Traditional Chinese (added
+  1.6.10) and Indonesian (added 1.6.17) were folded into the
+  long-form `store-listing/*.md` files in 1.7.1, but the short
+  descriptions never got the sweep. Updated 10 locales (en, es, fr,
+  id, ja, ko, pt_BR, tr, zh_CN, zh_TW) to list all 9 in the
+  canonical order: Japanese, Spanish, Portuguese, Korean, French,
+  Turkish, Chinese (Simp/Trad), Indonesian.
+
+  English string lands at 127 chars (was 131); all other locales
+  comfortably fit. CJK locales (ja/ko/zh-CN/zh-TW) at ~54-74 chars
+  per character density.
+
 ## [1.9.0] — 2026-06-24
 
 ### Added
@@ -110,7 +130,6 @@ project follows [Semantic Versioning](https://semver.org/) — see
   Pre-fill mapping in `FORM_LANG_LABEL` was already correct. Note:
   `Traditional Chinese` as a form option still TBD — once added there,
   zh-TW pre-fill works automatically (no code change).
-
 ## [1.8.0] — 2026-06-12
 
 ### Added
