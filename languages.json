@@ -70,7 +70,7 @@
       "zh-CN": "账户",
       "zh-TW": "帳戶",
       "id": "Akun",
-      "ms": "Akun"
+      "ms": "Akaun"
     },
     "Action Buttons": {
       "es": "Botones de acción",
@@ -82,7 +82,7 @@
       "zh-CN": "操作按钮",
       "zh-TW": "操作按鈕",
       "id": "Tombol Aksi",
-      "ms": "Tombol Aksi"
+      "ms": "Butang Tindakan"
     },
     "Actions": {
       "es": "Acciones",
@@ -358,7 +358,7 @@
       "zh-CN": "允许的来源",
       "zh-TW": "允許的來源",
       "id": "Origin yang Diizinkan",
-      "ms": "Origin yang Diizinkan"
+      "ms": "Origin yang Dibenarkan"
     },
     "Alternatives": {
       "es": "Alternativas",
@@ -574,7 +574,7 @@
       "zh-CN": "已尝试",
       "zh-TW": "已嘗試",
       "id": "Dicoba",
-      "ms": "Dicoba"
+      "ms": "Dicuba"
     },
     "Attempted Events": {
       "es": "Eventos intentados",
@@ -586,7 +586,7 @@
       "zh-CN": "尝试的事件",
       "zh-TW": "嘗試的事件",
       "id": "Event yang Dicoba",
-      "ms": "Event yang Dicoba"
+      "ms": "Event yang Dicuba"
     },
     "Attempted Updates": {
       "es": "Actualizaciones intentadas",
@@ -598,7 +598,7 @@
       "zh-CN": "尝试的更新",
       "zh-TW": "嘗試的更新",
       "id": "Pembaruan yang Dicoba",
-      "ms": "Kemas kini yang Dicoba"
+      "ms": "Kemas kini yang Dicuba"
     },
     "Audience": {
       "es": "Audiencia",
@@ -658,7 +658,7 @@
       "zh-CN": "自动化",
       "zh-TW": "自動化",
       "id": "Otomatis",
-      "ms": "Otomatis"
+      "ms": "Automatik"
     },
     "automated": {
       "es": "automatizado",
@@ -670,7 +670,7 @@
       "zh-CN": "自动化",
       "zh-TW": "自動化",
       "id": "otomatis",
-      "ms": "otomatis"
+      "ms": "automatik"
     },
     "Automated Messages": {
       "es": "Mensajes automatizados",
@@ -682,7 +682,7 @@
       "zh-CN": "自动化消息",
       "zh-TW": "自動化訊息",
       "id": "Pesan Otomatis",
-      "ms": "Mesej Otomatis"
+      "ms": "Mesej Automatik"
     },
     "Automation": {
       "es": "Automatización",
@@ -3358,7 +3358,7 @@
       "zh-CN": "消息内容",
       "zh-TW": "訊息內容",
       "id": "Konten Pesan",
-      "ms": "Konten Mesej"
+      "ms": "Kandungan Mesej"
     },
     "Message Event Delivery": {
       "es": "Entrega de eventos de mensajes",
@@ -3550,7 +3550,7 @@
       "zh-CN": "新自动化消息",
       "zh-TW": "新自動化訊息",
       "id": "Pesan Otomatis Baru",
-      "ms": "Mesej Otomatis Baru"
+      "ms": "Mesej Automatik Baru"
     },
     "New Data Feed": {
       "es": "Nuevo Data Feed",
@@ -3898,7 +3898,7 @@
       "zh-CN": "通知权限",
       "zh-TW": "通知權限",
       "id": "Izin Notifikasi",
-      "ms": "Izin Notifikasi"
+      "ms": "Kebenaran Notifikasi"
     },
     "Notifications": {
       "es": "Notificaciones",
@@ -4522,7 +4522,7 @@
       "zh-CN": "快速启动您的旅程",
       "zh-TW": "快速啟動您的旅程",
       "id": "Mulai cepat Journey Anda",
-      "ms": "Mulai cepat Journey Anda"
+      "ms": "Mula cepat Journey Anda"
     },
     "Reach targeted audience based on user properties or events from data tags": {
       "es": "Alcanza audiencias específicas según propiedades o eventos de etiquetas de datos",
@@ -4978,7 +4978,7 @@
       "zh-CN": "搜索词",
       "zh-TW": "搜尋字詞",
       "id": "Istilah pencarian",
-      "ms": "Istilah pencarian"
+      "ms": "Istilah carian"
     },
     "Search…": {
       "es": "Buscar…",
@@ -5338,7 +5338,7 @@
       "zh-CN": "显示所有结果",
       "zh-TW": "顯示所有結果",
       "id": "Tampilkan semua hasil",
-      "ms": "Tampilkan semua hasil"
+      "ms": "Paparkan semua hasil"
     },
     "Show Attempted": {
       "es": "Mostrar intentados",
@@ -5350,7 +5350,7 @@
       "zh-CN": "显示已尝试",
       "zh-TW": "顯示已嘗試",
       "id": "Tampilkan Dicoba",
-      "ms": "Tampilkan Dicoba"
+      "ms": "Paparkan Dicuba"
     },
     "Show Attempted Events": {
       "es": "Mostrar eventos intentados",
@@ -5362,7 +5362,7 @@
       "zh-CN": "显示已尝试事件",
       "zh-TW": "顯示已嘗試事件",
       "id": "Tampilkan Event yang Dicoba",
-      "ms": "Tampilkan Event yang Dicoba"
+      "ms": "Paparkan Event yang Dicuba"
     },
     "Show Attempted Updates": {
       "es": "Mostrar actualizaciones intentadas",
@@ -5374,7 +5374,7 @@
       "zh-CN": "显示已尝试更新",
       "zh-TW": "顯示已嘗試更新",
       "id": "Tampilkan Pembaruan yang Dicoba",
-      "ms": "Tampilkan Kemas kini yang Dicoba"
+      "ms": "Paparkan Kemas kini yang Dicuba"
     },
     "Show Clicked": {
       "es": "Mostrar clics",
@@ -5386,7 +5386,7 @@
       "zh-CN": "显示已点击",
       "zh-TW": "顯示已點擊",
       "id": "Tampilkan Diklik",
-      "ms": "Tampilkan Diklik"
+      "ms": "Paparkan Diklik"
     },
     "Show Confirmed receipt": {
       "es": "Mostrar recepción confirmada",
@@ -5398,7 +5398,7 @@
       "zh-CN": "显示已确认接收",
       "zh-TW": "顯示已確認接收",
       "id": "Tampilkan Tanda Terima Terkonfirmasi",
-      "ms": "Tampilkan Tanda Terima Terkonfirmasi"
+      "ms": "Paparkan Tanda Terima Terkonfirmasi"
     },
     "Show Delivered": {
       "es": "Mostrar entregados",
@@ -5410,7 +5410,7 @@
       "zh-CN": "显示已送达",
       "zh-TW": "顯示已送達",
       "id": "Tampilkan Tersampaikan",
-      "ms": "Tampilkan Tersampaikan"
+      "ms": "Paparkan Tersampaikan"
     },
     "Show Delivered Events": {
       "es": "Mostrar eventos entregados",
@@ -5422,7 +5422,7 @@
       "zh-CN": "显示已送达事件",
       "zh-TW": "顯示已送達事件",
       "id": "Tampilkan Event Tersampaikan",
-      "ms": "Tampilkan Event Tersampaikan"
+      "ms": "Paparkan Event Tersampaikan"
     },
     "Show Exported Events": {
       "es": "Mostrar eventos exportados",
@@ -5434,7 +5434,7 @@
       "zh-CN": "显示已导出事件",
       "zh-TW": "顯示已匯出事件",
       "id": "Tampilkan Event Diekspor",
-      "ms": "Tampilkan Event Diekspor"
+      "ms": "Paparkan Event Diekspor"
     },
     "Show Processed Events": {
       "es": "Mostrar eventos procesados",
@@ -5446,7 +5446,7 @@
       "zh-CN": "显示已处理事件",
       "zh-TW": "顯示已處理事件",
       "id": "Tampilkan Event Diproses",
-      "ms": "Tampilkan Event Diproses"
+      "ms": "Paparkan Event Diproses"
     },
     "Show Received Events": {
       "es": "Mostrar eventos recibidos",
@@ -5458,7 +5458,7 @@
       "zh-CN": "显示已接收事件",
       "zh-TW": "顯示已接收事件",
       "id": "Tampilkan Event Diterima",
-      "ms": "Tampilkan Event Diterima"
+      "ms": "Paparkan Event Diterima"
     },
     "Show Successful Updates": {
       "es": "Mostrar actualizaciones exitosas",
@@ -5470,7 +5470,7 @@
       "zh-CN": "显示成功的更新",
       "zh-TW": "顯示成功的更新",
       "id": "Tampilkan Pembaruan Berhasil",
-      "ms": "Tampilkan Kemas kini Berhasil"
+      "ms": "Paparkan Kemas kini Berhasil"
     },
     "Show Total subscribed": {
       "es": "Mostrar total de suscritos",
@@ -5482,7 +5482,7 @@
       "zh-CN": "显示订阅总数",
       "zh-TW": "顯示訂閱總數",
       "id": "Tampilkan Total Berlangganan",
-      "ms": "Tampilkan Total Berlangganan"
+      "ms": "Paparkan Total Berlangganan"
     },
     "Show Unsubscribed": {
       "es": "Mostrar cancelaciones",
@@ -5494,7 +5494,7 @@
       "zh-CN": "显示已取消订阅",
       "zh-TW": "顯示已取消訂閱",
       "id": "Tampilkan Berhenti Berlangganan",
-      "ms": "Tampilkan Berhenti Berlangganan"
+      "ms": "Paparkan Berhenti Berlangganan"
     },
     "Show/hide columns": {
       "es": "Mostrar/ocultar columnas",
@@ -5506,7 +5506,7 @@
       "zh-CN": "显示/隐藏列",
       "zh-TW": "顯示/隱藏欄",
       "id": "Tampilkan/sembunyikan kolom",
-      "ms": "Tampilkan/sembunyikan kolom"
+      "ms": "Paparkan/sembunyikan kolom"
     },
     "Showing": {
       "es": "Mostrando",
@@ -5518,7 +5518,7 @@
       "zh-CN": "显示",
       "zh-TW": "顯示",
       "id": "Menampilkan",
-      "ms": "Menampilkan"
+      "ms": "Memaparkan"
     },
     "Sign Out": {
       "es": "Cerrar sesión",
@@ -5590,7 +5590,7 @@
       "zh-CN": "已开始",
       "zh-TW": "已開始",
       "id": "Dimulai",
-      "ms": "Dimulai"
+      "ms": "Dimulakan"
     },
     "Stats": {
       "es": "Estadísticas",
@@ -6370,7 +6370,7 @@
       "zh-CN": "上传 CSV",
       "zh-TW": "上載 CSV",
       "id": "Unggah CSV",
-      "ms": "Unggah CSV"
+      "ms": "Muat naik CSV"
     },
     "URL": {
       "es": "URL",
@@ -6790,7 +6790,7 @@
       "zh-CN": "您好！让我们开始吧",
       "zh-TW": "您好！讓我們開始吧",
       "id": "Halo! Mari mulai",
-      "ms": "Halo! Mari mulai"
+      "ms": "Halo! Mari mula"
     },
     "Set up your messaging channels": {
       "ja": "メッセージチャネルを設定",
@@ -6922,7 +6922,7 @@
       "zh-CN": "发送快速消息或使用旅程设置自动化消息",
       "zh-TW": "發送快速訊息或使用旅程設定自動化訊息",
       "id": "Kirim pesan cepat atau atur pesan otomatis dengan Journeys",
-      "ms": "Hantar mesej cepat atau atur mesej otomatis dengan Journeys"
+      "ms": "Hantar mesej cepat atau atur mesej automatik dengan Journeys"
     },
     "Read our quickstart documentation": {
       "ja": "クイックスタートドキュメントを読む",
@@ -6934,7 +6934,7 @@
       "zh-CN": "阅读我们的快速开始文档",
       "zh-TW": "閱讀我們的快速開始文件",
       "id": "Baca dokumentasi mulai cepat kami",
-      "ms": "Baca dokumentasi mulai cepat kami"
+      "ms": "Baca dokumentasi mula cepat kami"
     },
     "Email - Active - Click to manage settings": {
       "ja": "メール - アクティブ - クリックして設定を管理",
@@ -6994,7 +6994,7 @@
       "zh-CN": "账户选项",
       "zh-TW": "帳戶選項",
       "id": "Opsi akun",
-      "ms": "Opsi akun"
+      "ms": "Opsi akaun"
     },
     "Close Audience menu": {
       "ja": "オーディエンスメニューを閉じる",
@@ -7282,7 +7282,7 @@
       "zh-CN": "无内容",
       "zh-TW": "無內容",
       "id": "Tidak ada konten",
-      "ms": "Tidak ada konten"
+      "ms": "Tidak ada kandungan"
     },
     "When you configure an integration, its status will be displayed here.": {
       "ja": "インテグレーションを設定すると、そのステータスがここに表示されます。",
@@ -7294,7 +7294,7 @@
       "zh-CN": "配置集成后，其状态将显示在此处。",
       "zh-TW": "配置整合後，其狀態將顯示在此處。",
       "id": "Saat Anda mengonfigurasi integrasi, statusnya akan ditampilkan di sini.",
-      "ms": "Saat Anda mengonfigurasi integrasi, statusnya akan ditampilkan di sini."
+      "ms": "Saat Anda mengonfigurasi integrasi, statusnya akan dipaparkan di sini."
     },
     "Connect Integration": {
       "ja": "インテグレーションを接続",
@@ -7378,7 +7378,7 @@
       "zh-CN": "通过事件驱动旅程 — 启动、暂停或退出用户流程",
       "zh-TW": "透過事件驅動旅程 — 啟動、暫停或退出用戶流程",
       "id": "Tingkatkan Journeys dengan event—mulai, tahan, atau keluar dari alur pengguna",
-      "ms": "Tingkatkan Journeys dengan event—mulai, tahan, atau keluar dari alur pengguna"
+      "ms": "Tingkatkan Journeys dengan event—mula, tahan, atau keluar dari alur pengguna"
     },
     "Seamlessly integrate with APIs, SDKs, or tools like Segment": {
       "ja": "API、SDK、またはSegmentなどのツールとシームレスに統合する",
@@ -7438,7 +7438,7 @@
       "zh-CN": "或使用我们的 API 开始发送事件",
       "zh-TW": "或使用我們的 API 開始發送事件",
       "id": "atau gunakan API kami untuk mulai mengirim event",
-      "ms": "atau gunakan API kami untuk mulai menghantar event"
+      "ms": "atau gunakan API kami untuk mula menghantar event"
     },
     "Authenticate domain": {
       "ja": "ドメインを認証",
@@ -7462,7 +7462,7 @@
       "zh-CN": "验证账户",
       "zh-TW": "驗證帳戶",
       "id": "Verifikasi akun",
-      "ms": "Verifikasi akun"
+      "ms": "Verifikasi akaun"
     },
     "Create sender": {
       "ja": "送信者を作成",
@@ -7534,7 +7534,7 @@
       "zh-CN": "开始使用电子邮件",
       "zh-TW": "開始使用電郵",
       "id": "Mulai dengan email",
-      "ms": "Mulai dengan email"
+      "ms": "Mula dengan email"
     },
     "Learn how to warm up your domain to ensure reliable email performance.": {
       "ja": "安定したメールパフォーマンスを確保するためのドメインウォームアップの方法を確認。",
@@ -7630,7 +7630,7 @@
       "zh-CN": "开始向您的受众发送。一切准备就绪，可以开始发送电子邮件了！",
       "zh-TW": "開始向您的受眾發送。一切準備就緒，可以開始發送電郵了！",
       "id": "Mulai kirim ke audiens Anda. Anda siap mengirim email!",
-      "ms": "Mulai hantar ke audiens Anda. Anda siap menghantar email!"
+      "ms": "Mula hantar ke audiens Anda. Anda siap menghantar email!"
     },
     "We'll check if everything's set up correctly": {
       "ja": "すべてが正しく設定されているか確認します",
@@ -7690,7 +7690,7 @@
       "zh-CN": "应用内消息用于新手引导、试用、追加销售等",
       "zh-TW": "應用內訊息用於新手引導、試用、追加銷售等",
       "id": "In-app untuk orientasi, uji coba, upsell, dan lainnya",
-      "ms": "In-app untuk orientasi, uji coba, upsell, dan lainnya"
+      "ms": "In-app untuk orientasi, uji cuba, upsell, dan lainnya"
     },
     "No developer resources or app release required": {
       "ja": "開発リソースやアプリのリリースは不要",
@@ -7750,7 +7750,7 @@
       "zh-CN": "避免每次营销活动都从头开始",
       "zh-TW": "避免每次營銷活動都從頭開始",
       "id": "Hindari memulai dari awal untuk setiap kampanye",
-      "ms": "Hindari memulai dari awal untuk setiap kampanye"
+      "ms": "Hindari memulakan dari awal untuk setiap kampanye"
     },
     "Build custom templates to re-use": {
       "ja": "再利用可能なカスタムテンプレートを作成",
@@ -7846,7 +7846,7 @@
       "zh-CN": "新自动化电子邮件",
       "zh-TW": "新自動化電郵",
       "id": "Email Otomatis Baru",
-      "ms": "Email Otomatis Baru"
+      "ms": "Email Automatik Baru"
     },
     "Or start with one of our quickstart Journeys": {
       "ja": "またはクイックスタートジャーニーの1つから始める",
@@ -7858,7 +7858,7 @@
       "zh-CN": "或从我们的快速入门旅程之一开始",
       "zh-TW": "或從我們的快速入門旅程之一開始",
       "id": "Atau mulai dengan salah satu Journey mulai cepat kami",
-      "ms": "Atau mulai dengan salah satu Journey mulai cepat kami"
+      "ms": "Atau mula dengan salah satu Journey mula cepat kami"
     },
     "Re-engagement": {
       "ja": "再エンゲージメント",
@@ -8158,7 +8158,7 @@
       "zh-CN": "试用我们的快速入门用户分群之一",
       "zh-TW": "試用我們的快速入門用戶分群之一",
       "id": "Coba salah satu Segment mulai cepat kami",
-      "ms": "Coba salah satu Segment mulai cepat kami"
+      "ms": "Cuba salah satu Segment mula cepat kami"
     },
     "Export a list of users": {
       "ja": "ユーザーリストをエクスポート",
@@ -8278,7 +8278,7 @@
       "zh-CN": "在发送时将来自数据源的实时动态内容直接插入模板。此功能仅适用于通过旅程发送的模板。",
       "zh-TW": "在發送時將來自資料串流的即時動態內容直接插入範本。此功能僅適用於透過旅程發送的範本。",
       "id": "Sisipkan konten dinamis real-time dari data feed Anda langsung ke dalam template saat pengiriman. Fitur ini hanya berlaku untuk template yang dikirim melalui Journeys.",
-      "ms": "Sisipkan konten dinamis real-time dari data feed Anda langsung ke dalam template saat penghantaran. Fitur ini hanya berlaku untuk template yang dihantar melalui Journeys."
+      "ms": "Sisipkan kandungan dinamis real-time dari data feed Anda langsung ke dalam template saat penghantaran. Fitur ini hanya berlaku untuk template yang dihantar melalui Journeys."
     },
     "Needs Action": {
       "ja": "対応が必要",
@@ -8434,7 +8434,7 @@
       "zh-CN": "测试个性化推送消息内容",
       "zh-TW": "測試個人化推送訊息內容",
       "id": "Uji konten pesan push yang dipersonalisasi",
-      "ms": "Uji konten mesej push yang dipersonalisasi"
+      "ms": "Uji kandungan mesej push yang dipersonalisasi"
     },
     "Walkthrough your user journey on your own device, from message to conversion": {
       "ja": "メッセージからコンバージョンまで、自分のデバイスでユーザージャーニーをウォークスルー",
@@ -8554,7 +8554,7 @@
       "zh-CN": "让您的品牌出现在锁屏上",
       "zh-TW": "讓您的品牌出現在鎖定螢幕上",
       "id": "Tampilkan merek Anda di layar kunci",
-      "ms": "Tampilkan merek Anda di layar kunci"
+      "ms": "Paparkan merek Anda di layar kunci"
     },
     "Great for real-time, transactional, or time-bound updates": {
       "ja": "リアルタイム・トランザクション・期間限定の更新に最適",
@@ -9130,7 +9130,7 @@
       "zh-CN": "内容可用",
       "zh-TW": "內容可用",
       "id": "Konten Tersedia",
-      "ms": "Konten Tersedia"
+      "ms": "Kandungan Tersedia"
     },
     "Copy to clipboard": {
       "ja": "クリップボードにコピー",
@@ -9346,7 +9346,7 @@
       "zh-CN": "可变内容",
       "zh-TW": "可變內容",
       "id": "Konten yang Dapat Diubah",
-      "ms": "Konten yang Dapat Diubah"
+      "ms": "Kandungan yang Dapat Diubah"
     },
     "Normal": {
       "ja": "通常",
@@ -9370,7 +9370,7 @@
       "zh-CN": "公开 - 始终在锁屏上显示内容。",
       "zh-TW": "公開 - 始終在鎖定螢幕上顯示內容。",
       "id": "Publik - Selalu tampilkan konten di layar kunci.",
-      "ms": "Publik - Selalu tampilkan konten di layar kunci."
+      "ms": "Publik - Selalu paparkan kandungan di layar kunci."
     },
     "Realtime Message Data": {
       "ja": "リアルタイムメッセージデータ",
@@ -9442,7 +9442,7 @@
       "zh-CN": "开始发送",
       "zh-TW": "開始發送",
       "id": "Mulai mengirim",
-      "ms": "Mulai menghantar"
+      "ms": "Mula menghantar"
     },
     "Subtitle": {
       "ja": "サブタイトル",
@@ -9610,7 +9610,7 @@
       "zh-CN": "管理账户",
       "zh-TW": "管理帳戶",
       "id": "Kelola akun",
-      "ms": "Kelola akun"
+      "ms": "Kelola akaun"
     },
     "Search for an app": {
       "ja": "アプリを検索",
@@ -9970,7 +9970,7 @@
       "zh-CN": "OneSignal 快速入门设计",
       "zh-TW": "OneSignal 快速入門設計",
       "id": "Desain mulai cepat OneSignal",
-      "ms": "Desain mulai cepat OneSignal"
+      "ms": "Desain mula cepat OneSignal"
     },
     "Start from a pre-built design": {
       "ja": "事前構築済みのデザインから始める",
@@ -9982,7 +9982,7 @@
       "zh-CN": "从预设设计开始",
       "zh-TW": "從預設設計開始",
       "id": "Mulai dari desain siap pakai",
-      "ms": "Mulai dari desain siap pakai"
+      "ms": "Mula dari desain siap pakai"
     },
     "Start from scratch": {
       "ja": "最初から作成",
@@ -9994,7 +9994,7 @@
       "zh-CN": "从零开始",
       "zh-TW": "從零開始",
       "id": "Mulai dari awal",
-      "ms": "Mulai dari awal"
+      "ms": "Mula dari awal"
     },
     "This integration does not track delivery statistics.": {
       "ja": "この統合は配信統計を追跡しません。",
@@ -10162,7 +10162,7 @@
       "zh-CN": "插入内容",
       "zh-TW": "插入內容",
       "id": "sisipkan konten",
-      "ms": "sisipkan konten"
+      "ms": "sisipkan kandungan"
     },
     "receive this message?": {
       "ja": "このメッセージを受信しますか？",
@@ -10318,7 +10318,7 @@
       "zh-CN": "动态内容",
       "zh-TW": "動態內容",
       "id": "Konten Dinamis",
-      "ms": "Konten Dinamis"
+      "ms": "Kandungan Dinamis"
     },
     "Email preheader text": {
       "ja": "メールのプリヘッダーテキスト",
@@ -10606,7 +10606,7 @@
       "zh-CN": "使用自动预热发送",
       "zh-TW": "使用自動預熱發送",
       "id": "Kirim dengan Pemanasan Otomatis",
-      "ms": "Hantar dengan Pemanasan Otomatis"
+      "ms": "Hantar dengan Pemanasan Automatik"
     },
     "Send to everyone at the same time": {
       "ja": "全員に同時に送信",
@@ -10714,7 +10714,7 @@
       "zh-CN": "此消息何时开始发送？",
       "zh-TW": "此訊息何時開始發送？",
       "id": "Kapan pesan ini mulai dikirim?",
-      "ms": "Kapan mesej ini mulai dihantar?"
+      "ms": "Kapan mesej ini mula dihantar?"
     },
     "When should users receive this message?": {
       "ja": "ユーザーはいつこのメッセージを受信しますか？",
@@ -10930,7 +10930,7 @@
       "zh-CN": "添加点击操作",
       "zh-TW": "新增點擊操作",
       "id": "Tambah aksi klik",
-      "ms": "Tambah aksi klik"
+      "ms": "Tambah tindakan klik"
     },
     "Margin bottom": {
       "ja": "下のマージン",
@@ -11014,7 +11014,7 @@
       "zh-CN": "图像上传输入",
       "zh-TW": "圖像上傳輸入",
       "id": "Input unggah gambar",
-      "ms": "Input unggah gambar"
+      "ms": "Input muat naik gambar"
     },
     "Select image": {
       "ja": "画像を選択",
@@ -11326,7 +11326,7 @@
       "zh-CN": "按钮 1",
       "zh-TW": "按鈕 1",
       "id": "Tombol 1",
-      "ms": "Tombol 1"
+      "ms": "Butang 1"
     },
     "Button background": {
       "ja": "ボタンの背景",
@@ -11338,7 +11338,7 @@
       "zh-CN": "按钮背景",
       "zh-TW": "按鈕背景",
       "id": "Latar belakang tombol",
-      "ms": "Latar belakang tombol"
+      "ms": "Latar belakang butang"
     },
     "Button text": {
       "ja": "ボタンのテキスト",
@@ -11350,7 +11350,7 @@
       "zh-CN": "按钮文本",
       "zh-TW": "按鈕文字",
       "id": "Teks tombol",
-      "ms": "Teks tombol"
+      "ms": "Teks butang"
     },
     "Click Here": {
       "ja": "ここをクリック",
@@ -11374,7 +11374,7 @@
       "zh-CN": "关闭按钮",
       "zh-TW": "關閉按鈕",
       "id": "Tombol tutup",
-      "ms": "Tombol tutup"
+      "ms": "Butang tutup"
     },
     "Color": {
       "ja": "色",
@@ -11530,7 +11530,7 @@
       "zh-CN": "您希望多久显示一次此消息？",
       "zh-TW": "您希望多久顯示一次此訊息？",
       "id": "Seberapa sering Anda ingin menampilkan pesan ini?",
-      "ms": "Seberapa sering Anda ingin menampilkan mesej ini?"
+      "ms": "Seberapa sering Anda ingin memaparkan mesej ini?"
     },
     "Image": {
       "ja": "画像",
@@ -11674,7 +11674,7 @@
       "zh-CN": "永久显示",
       "zh-TW": "永久顯示",
       "id": "Tampilkan selamanya",
-      "ms": "Tampilkan selamanya"
+      "ms": "Paparkan selamanya"
     },
     "Show to all users": {
       "ja": "すべてのユーザーに表示",
@@ -11686,7 +11686,7 @@
       "zh-CN": "显示给所有用户",
       "zh-TW": "顯示給所有用戶",
       "id": "Tampilkan ke semua pengguna",
-      "ms": "Tampilkan ke semua pengguna"
+      "ms": "Paparkan ke semua pengguna"
     },
     "Show to particular Segment(s)": {
       "ja": "特定のセグメントに表示",
@@ -11698,7 +11698,7 @@
       "zh-CN": "显示给特定用户分群",
       "zh-TW": "顯示給特定用戶分群",
       "id": "Tampilkan ke Segment tertentu",
-      "ms": "Tampilkan ke Segment tertentu"
+      "ms": "Paparkan ke Segment tertentu"
     },
     "Show until dismissed": {
       "ja": "閉じるまで表示",
@@ -11710,7 +11710,7 @@
       "zh-CN": "显示直到关闭",
       "zh-TW": "顯示直到關閉",
       "id": "Tampilkan hingga ditutup",
-      "ms": "Tampilkan hingga ditutup"
+      "ms": "Paparkan hingga ditutup"
     },
     "Start showing": {
       "ja": "表示開始",
@@ -11722,7 +11722,7 @@
       "zh-CN": "开始显示",
       "zh-TW": "開始顯示",
       "id": "Mulai menampilkan",
-      "ms": "Mulai menampilkan"
+      "ms": "Mula memaparkan"
     },
     "Stop showing": {
       "ja": "表示停止",
@@ -11734,7 +11734,7 @@
       "zh-CN": "停止显示",
       "zh-TW": "停止顯示",
       "id": "Berhenti menampilkan",
-      "ms": "Berhenti menampilkan"
+      "ms": "Berhenti memaparkan"
     },
     "Switch editor": {
       "ja": "エディターを切り替え",
@@ -11842,7 +11842,7 @@
       "zh-CN": "允许 iframe 执行 JavaScript",
       "zh-TW": "允許 iframe 執行 JavaScript",
       "id": "Izinkan eksekusi JavaScript iframe",
-      "ms": "Izinkan eksekusi JavaScript iframe"
+      "ms": "Benarkan eksekusi JavaScript iframe"
     },
     "Bottom": {
       "ja": "下",
@@ -12118,7 +12118,7 @@
       "zh-CN": "适应视图",
       "zh-TW": "適應視圖",
       "id": "Sesuaikan Tampilan",
-      "ms": "Sesuaikan Tampilan"
+      "ms": "Sesuaikan Paparan"
     },
     "Future additions only": {
       "ja": "今後の追加のみ",
@@ -12226,7 +12226,7 @@
       "zh-CN": "在自定义事件发生时启动您的 journey",
       "zh-TW": "在自訂事件發生時啟動您的 journey",
       "id": "Mulai Journey Anda saat custom event terjadi",
-      "ms": "Mulai Journey Anda saat custom event terjadi"
+      "ms": "Mula Journey Anda saat custom event terjadi"
     },
     "Start:": {
       "ja": "開始:",
@@ -12238,7 +12238,7 @@
       "zh-CN": "开始:",
       "zh-TW": "開始：",
       "id": "Mulai:",
-      "ms": "Mulai:"
+      "ms": "Mula:"
     },
     "Stop:": {
       "ja": "終了:",
@@ -12310,7 +12310,7 @@
       "zh-CN": "所选用户分群中的用户将启动您的旅程",
       "zh-TW": "所選用戶分群中的用戶將啟動您的旅程",
       "id": "Pengguna di Segment yang dipilih akan memulai Journey Anda",
-      "ms": "Pengguna di Segment yang dipilih akan memulai Journey Anda"
+      "ms": "Pengguna di Segment yang dipilih akan memulakan Journey Anda"
     },
     "Zoom In": {
       "ja": "拡大",
@@ -12622,7 +12622,7 @@
       "zh-CN": "计划开始日期和时间",
       "zh-TW": "排程開始日期和時間",
       "id": "Jadwalkan tanggal dan waktu mulai",
-      "ms": "Jadwalkan tanggal dan waktu mulai"
+      "ms": "Jadwalkan tanggal dan waktu mula"
     },
     "Schedule an end date and time": {
       "ja": "終了日時を予約",
@@ -12682,7 +12682,7 @@
       "zh-CN": "立即开始",
       "zh-TW": "立即開始",
       "id": "Mulai segera",
-      "ms": "Mulai segera"
+      "ms": "Mula segera"
     },
     "The journey is the reward.": {
       "ja": "ジャーニーそのものが報酬です。",
@@ -12826,7 +12826,7 @@
       "zh-CN": "开始",
       "zh-TW": "開始",
       "id": "dimulai",
-      "ms": "dimulai"
+      "ms": "dimulakan"
     },
     "Build your own Journey from the ground up.": {
       "ja": "独自のジャーニーをゼロから構築。",
@@ -12850,7 +12850,7 @@
       "zh-CN": "选择一个旅程来开始",
       "zh-TW": "選擇一個旅程來開始",
       "id": "Pilih Journey untuk memulai",
-      "ms": "Pilih Journey untuk memulai"
+      "ms": "Pilih Journey untuk memulakan"
     },
     "Describe the purpose of this Journey...": {
       "ja": "このジャーニーの目的を記述...",
@@ -12958,7 +12958,7 @@
       "zh-CN": "当前用户权限不允许此操作。",
       "zh-TW": "當前用戶權限不允許此操作。",
       "id": "Izin pengguna saat ini tidak mengizinkan tindakan ini.",
-      "ms": "Izin pengguna saat ini tidak mengizinkan tindakan ini."
+      "ms": "Kebenaran pengguna saat ini tidak membenarkan tindakan ini."
     },
     "Legacy Format": {
       "ja": "レガシー形式",
@@ -13078,7 +13078,7 @@
       "zh-CN": "操作 ID 1",
       "zh-TW": "操作 ID 1",
       "id": "ID Aksi 1",
-      "ms": "ID Aksi 1"
+      "ms": "ID Tindakan 1"
     },
     "Add Button": {
       "ja": "ボタンを追加",
@@ -13090,7 +13090,7 @@
       "zh-CN": "添加按钮",
       "zh-TW": "新增按鈕",
       "id": "Tambah Tombol",
-      "ms": "Tambah Tombol"
+      "ms": "Tambah Butang"
     },
     "Button Label 1": {
       "ja": "ボタンラベル 1",
@@ -13102,7 +13102,7 @@
       "zh-CN": "按钮标签 1",
       "zh-TW": "按鈕標籤 1",
       "id": "Label Tombol 1",
-      "ms": "Label Tombol 1"
+      "ms": "Label Butang 1"
     },
     "Category": {
       "ja": "カテゴリ",
@@ -13138,7 +13138,7 @@
       "zh-CN": "移除操作 1",
       "zh-TW": "移除操作 1",
       "id": "Hapus Aksi 1",
-      "ms": "Padam Aksi 1"
+      "ms": "Padam Tindakan 1"
     },
     "e.g. Accept": {
       "ja": "例: 承諾",
@@ -13246,7 +13246,7 @@
       "zh-CN": "操作图标路径 1",
       "zh-TW": "操作圖示路徑 1",
       "id": "Jalur Ikon Aksi 1",
-      "ms": "Jalur Ikon Aksi 1"
+      "ms": "Jalur Ikon Tindakan 1"
     },
     "Add Field": {
       "ja": "フィールドを追加",
@@ -13282,7 +13282,7 @@
       "zh-CN": "开始输入以试用我们的新 AI 优化功能",
       "zh-TW": "開始輸入以試用我們的新 AI 優化功能",
       "id": "Mulai mengetik untuk mencoba fitur perhalus AI baru kami",
-      "ms": "Mulai mengetik untuk mencoba fitur perhalus AI baru kami"
+      "ms": "Mula mengetik untuk mencuba fitur perhalus AI baru kami"
     },
     "Big Picture": {
       "ja": "ビッグピクチャー",
@@ -13306,7 +13306,7 @@
       "zh-CN": "Chrome 操作按钮",
       "zh-TW": "Chrome 操作按鈕",
       "id": "Tombol Aksi Chrome",
-      "ms": "Tombol Aksi Chrome"
+      "ms": "Butang Tindakan Chrome"
     },
     "Collapse ID": {
       "ja": "折りたたみID",
@@ -13330,7 +13330,7 @@
       "zh-CN": "内容可用",
       "zh-TW": "內容可用",
       "id": "Konten tersedia",
-      "ms": "Konten tersedia"
+      "ms": "Kandungan tersedia"
     },
     "Critical": {
       "ja": "クリティカル",
@@ -13426,7 +13426,7 @@
       "zh-CN": "全局图像上传输入",
       "zh-TW": "全域圖像上傳輸入",
       "id": "Input unggah gambar global",
-      "ms": "Input unggah gambar global"
+      "ms": "Input muat naik gambar global"
     },
     "Group Key": {
       "ja": "グループキー",
@@ -13834,7 +13834,7 @@
       "zh-CN": "目标内容 ID",
       "zh-TW": "目標內容 ID",
       "id": "ID Konten Target",
-      "ms": "ID Konten Target"
+      "ms": "ID Kandungan Target"
     },
     "Time Sensitive": {
       "ja": "時間に敏感",
@@ -13966,7 +13966,7 @@
       "zh-CN": "iOS/Android 操作按钮",
       "zh-TW": "iOS/Android 操作按鈕",
       "id": "Tombol Aksi iOS/Android",
-      "ms": "Tombol Aksi iOS/Android"
+      "ms": "Butang Tindakan iOS/Android"
     },
     "minutes": {
       "ja": "分",
@@ -14206,7 +14206,7 @@
       "zh-CN": "开始添加筛选以查看受众数量",
       "zh-TW": "開始新增篩選以查看受眾數量",
       "id": "Mulai tambahkan filter untuk melihat jumlah audiens",
-      "ms": "Mulai tambahkan filter untuk melihat jumlah audiens"
+      "ms": "Mula tambahkan filter untuk melihat jumlah audiens"
     },
     "Subscription records in this segment must meet these rules:": {
       "ja": "このセグメントの購読レコードは次のルールを満たす必要があります:",
@@ -14506,7 +14506,7 @@
       "zh-CN": "下一周期开始于",
       "zh-TW": "下一週期開始於",
       "id": "Siklus berikutnya dimulai pada",
-      "ms": "Siklus berikutnya dimulai pada"
+      "ms": "Siklus berikutnya dimulakan pada"
     },
     "Plan Type": {
       "ja": "プランタイプ",
@@ -14614,7 +14614,7 @@
       "zh-CN": "添加操作",
       "zh-TW": "新增操作",
       "id": "Tambah aksi",
-      "ms": "Tambah aksi"
+      "ms": "Tambah tindakan"
     },
     "Basic": {
       "ja": "ベーシック",
@@ -14806,7 +14806,7 @@
       "zh-CN": "上传",
       "zh-TW": "上載",
       "id": "Unggah",
-      "ms": "Unggah"
+      "ms": "Muat naik"
     },
     "Contact us": {
       "ja": "お問い合わせ",
@@ -14842,7 +14842,7 @@
       "zh-CN": "2. 上传 CSV",
       "zh-TW": "2. 上載 CSV",
       "id": "2. Unggah CSV",
-      "ms": "2. Unggah CSV"
+      "ms": "2. Muat naik CSV"
     },
     "3. Apply Liquid Syntax": {
       "ja": "3. Liquid構文を適用",
@@ -14878,7 +14878,7 @@
       "zh-CN": "动态内容文档",
       "zh-TW": "動態內容文件",
       "id": "Dokumentasi Konten Dinamis",
-      "ms": "Dokumentasi Konten Dinamis"
+      "ms": "Dokumentasi Kandungan Dinamis"
     },
     "Dynamic content allows you to build personalized messages with specific content for different audience groups. Using": {
       "ja": "ダイナミックコンテンツを使うと、オーディエンスグループごとに特定のコンテンツを使った個別化メッセージを作成できます。使用方法:",
@@ -14890,7 +14890,7 @@
       "zh-CN": "动态内容让您能够为不同的受众群体构建带有特定内容的个性化消息。使用",
       "zh-TW": "動態內容讓您能夠為不同的受眾群體建立帶有特定內容的個人化訊息。使用",
       "id": "Konten dinamis memungkinkan Anda membangun pesan yang dipersonalisasi dengan konten khusus untuk kelompok audiens yang berbeda. Menggunakan",
-      "ms": "Konten dinamis memungkinkan Anda membangun mesej yang dipersonalisasi dengan konten khusus untuk kelompok audiens yang berbeda. Menggunakan"
+      "ms": "Kandungan dinamis memungkinkan Anda membangun mesej yang dipersonalisasi dengan kandungan khusus untuk kelompok audiens yang berbeda. Menggunakan"
     },
     "Empty state portrayed as a ghost": {
       "ja": "ゴーストとして表現された空の状態",
@@ -14926,7 +14926,7 @@
       "zh-CN": "从零开始或",
       "zh-TW": "從零開始或",
       "id": "Mulai dari awal atau",
-      "ms": "Mulai dari awal atau"
+      "ms": "Mula dari awal atau"
     },
     "You haven't added any dynamic content yet": {
       "ja": "まだダイナミックコンテンツを追加していません",
@@ -14938,7 +14938,7 @@
       "zh-CN": "您还没有添加任何动态内容",
       "zh-TW": "您還沒有新增任何動態內容",
       "id": "Anda belum menambahkan konten dinamis apa pun",
-      "ms": "Anda belum menambahkan konten dinamis apa pun"
+      "ms": "Anda belum menambahkan kandungan dinamis apa pun"
     },
     "Your message will start sending immediately and your message throughput is 1 message per second.": {
       "ja": "メッセージは即時送信を開始し、スループットは毎秒1メッセージです。",
@@ -14950,7 +14950,7 @@
       "zh-CN": "您的消息将立即开始发送，消息吞吐量为每秒 1 条消息。",
       "zh-TW": "您的訊息將立即開始發送，訊息吞吐量為每秒 1 條訊息。",
       "id": "Pesan Anda akan mulai dikirim segera dan throughput pesan Anda adalah 1 pesan per detik.",
-      "ms": "Mesej Anda akan mulai dihantar segera dan throughput mesej Anda adalah 1 mesej per detik."
+      "ms": "Mesej Anda akan mula dihantar segera dan throughput mesej Anda adalah 1 mesej per detik."
     },
     "if you need to increase your throughput": {
       "ja": "スループットを上げる必要がある場合",
@@ -14974,7 +14974,7 @@
       "zh-CN": "插入消息的内容主体。将文件名、章节名和用户属性替换为您上传的内容。一如既往，请务必设置回退值。",
       "zh-TW": "插入訊息的內容主體。將檔案名、章節名和用戶屬性替換為您上載的內容。一如既往，請務必設定回退值。",
       "id": "ke dalam isi konten pesan Anda. Ganti nama file, nama bagian, dan properti pengguna dengan apa yang telah Anda unggah. Seperti biasa, pastikan untuk menetapkan fallback.",
-      "ms": "ke dalam isi konten mesej Anda. Ganti nama file, nama bagian, dan properti pengguna dengan apa yang telah Anda unggah. Seperti biasa, pastikan untuk menetapkan fallback."
+      "ms": "ke dalam isi kandungan mesej Anda. Ganti nama file, nama bagian, dan properti pengguna dengan apa yang telah Anda muat naik. Seperti biasa, pastikan untuk menetapkan fallback."
     },
     "start from a template": {
       "ja": "テンプレートから開始",
@@ -14986,7 +14986,7 @@
       "zh-CN": "从模板开始",
       "zh-TW": "從範本開始",
       "id": "mulai dari template",
-      "ms": "mulai dari template"
+      "ms": "mula dari template"
     },
     "Select Segment...": {
       "ja": "セグメントを選択...",
@@ -15202,7 +15202,7 @@
       "zh-CN": "您希望显示的发件人名称",
       "zh-TW": "您希望顯示的發件人名稱",
       "id": "Nama pengirim yang ingin ditampilkan",
-      "ms": "Nama pengirim yang ingin ditampilkan"
+      "ms": "Nama pengirim yang ingin dipaparkan"
     },
     "New Push Template": {
       "ja": "新しいプッシュテンプレート",
@@ -15238,7 +15238,7 @@
       "zh-CN": "显示空结果的搜索栏",
       "zh-TW": "顯示空結果的搜尋欄",
       "id": "Bilah pencarian menampilkan hasil kosong",
-      "ms": "Bilah pencarian menampilkan hasil kosong"
+      "ms": "Bilah carian memaparkan hasil kosong"
     },
     "We could not find the Template you were looking for.": {
       "ja": "お探しのテンプレートが見つかりませんでした。",
@@ -15730,7 +15730,7 @@
       "zh-CN": "试用旅程",
       "zh-TW": "試用旅程",
       "id": "Coba Journeys",
-      "ms": "Coba Journeys"
+      "ms": "Cuba Journeys"
     },
     "New Automated Push": {
       "ja": "新しい自動プッシュ",
@@ -15742,7 +15742,7 @@
       "zh-CN": "新自动化推送",
       "zh-TW": "新自動化推送",
       "id": "Push Otomatis Baru",
-      "ms": "Push Otomatis Baru"
+      "ms": "Push Automatik Baru"
     },
     "HubSpot Integration Metrics": {
       "ja": "HubSpot統合メトリクス",
@@ -16186,7 +16186,7 @@
       "zh-CN": "允许在创建时覆盖推送限速",
       "zh-TW": "允許在建立時覆蓋推送限速",
       "id": "Izinkan penggantian pembatasan push saat pembuatan",
-      "ms": "Izinkan penggantian pembatasan push saat pembuatan"
+      "ms": "Benarkan penggantian pembatasan push saat pembuatan"
     },
     "Campaign": {
       "ja": "キャンペーン",
@@ -16354,7 +16354,7 @@
       "zh-CN": "自动限制推送通知",
       "zh-TW": "自動限制推送通知",
       "id": "Batasi notifikasi push secara otomatis",
-      "ms": "Batasi notifikasi push secara otomatis"
+      "ms": "Batasi notifikasi push secara automatik"
     },
     "Bundle ID": {
       "ja": "バンドルID",
@@ -16570,7 +16570,7 @@
       "zh-CN": "启用自动 UTM 标记",
       "zh-TW": "啟用自動 UTM 標記",
       "id": "Aktifkan penandaan UTM otomatis",
-      "ms": "Aktifkan penandaan UTM otomatis"
+      "ms": "Aktifkan penandaan UTM automatik"
     },
     "UTM Settings": {
       "ja": "UTM設定",
@@ -16858,7 +16858,7 @@
       "zh-CN": "SMTP 登录",
       "zh-TW": "SMTP 登入",
       "id": "Login SMTP",
-      "ms": "Login SMTP"
+      "ms": "Log masuk SMTP"
     },
     "Setup Google Postmaster Documentation": {
       "ja": "Google Postmasterの設定文書",
@@ -17434,7 +17434,7 @@
       "zh-CN": "当从已订阅的电话号码收到关键词时，关键词会自动发送回复。",
       "zh-TW": "當從已訂閱的電話號碼收到關鍵詞時，關鍵詞會自動發送回覆。",
       "id": "Kata kunci secara otomatis mengirim balasan saat kata kunci diterima dari nomor telepon yang berlangganan.",
-      "ms": "Kata kunci secara otomatis menghantar balasan saat kata kunci diterima dari nomor telepon yang berlangganan."
+      "ms": "Kata kunci secara automatik menghantar balasan saat kata kunci diterima dari nomor telepon yang berlangganan."
     },
     "MMS Throughput": {
       "ja": "MMSスループット",
@@ -17458,7 +17458,7 @@
       "zh-CN": "此 OneSignal 应用允许的每秒最大消息数 (MPS) 取决于客户的 Twilio 信任评分以及客户使用的发件人类型。",
       "zh-TW": "此 OneSignal 應用允許的每秒最大訊息數 (MPS) 取決於客戶的 Twilio 信任評分以及客戶使用的發件人類型。",
       "id": "Pesan maksimum per detik (MPS) yang diizinkan di aplikasi OneSignal ini tergantung pada skor kepercayaan Twilio pelanggan dan jenis pengirim yang digunakan pelanggan.",
-      "ms": "Mesej maksimum per detik (MPS) yang diizinkan di aplikasi OneSignal ini tergantung pada skor kepercayaan Twilio pelanggan dan jenis pengirim yang digunakan pelanggan."
+      "ms": "Mesej maksimum per detik (MPS) yang dibenarkan di aplikasi OneSignal ini tergantung pada skor kepercayaan Twilio pelanggan dan jenis pengirim yang digunakan pelanggan."
     },
     "Message Prompt Preview": {
       "ja": "メッセージプロンプトプレビュー",
@@ -17638,7 +17638,7 @@
       "zh-CN": "开始",
       "zh-TW": "開始",
       "id": "Mulai",
-      "ms": "Mulai"
+      "ms": "Mula"
     },
     "Subscription Keyword Response": {
       "ja": "購読キーワードの応答",
@@ -17722,7 +17722,7 @@
       "zh-CN": "当我们收到取消订阅关键词时，我们将自动把该用户添加到电话号码或消息服务的屏蔽列表。",
       "zh-TW": "當我們收到取消訂閱關鍵詞時，我們將自動把該用戶新增到電話號碼或訊息服務的屏蔽列表。",
       "id": "Saat kami menerima kata kunci opt-out, kami akan secara otomatis menambahkan pengguna ke daftar blokir nomor telepon atau layanan pesan.",
-      "ms": "Saat kami menerima kata kunci opt-out, kami akan secara otomatis menambahkan pengguna ke daftar blokir nomor telepon atau layanan mesej."
+      "ms": "Saat kami menerima kata kunci opt-out, kami akan secara automatik menambahkan pengguna ke daftar blokir nomor telepon atau layanan mesej."
     },
     "When we receive text-to-subscribe keywords, we'll automatically subscribe a user. If the user doesn't exist, we'll create the subscription and subscribe the user.": {
       "ja": "テキスト購読キーワードを受信すると、ユーザーを自動的に購読登録します。ユーザーが存在しない場合は、購読を作成してユーザーを登録します。",
@@ -17734,7 +17734,7 @@
       "zh-CN": "当我们收到短信订阅关键词时，我们将自动为用户订阅。如果用户不存在，我们将创建订阅并为该用户订阅。",
       "zh-TW": "當我們收到短訊訂閱關鍵詞時，我們將自動為用戶訂閱。如果用戶不存在，我們將建立訂閱並為該用戶訂閱。",
       "id": "Saat kami menerima kata kunci text-to-subscribe, kami akan secara otomatis subscription pengguna. Jika pengguna tidak ada, kami akan membuat subscription dan mendaftarkan pengguna.",
-      "ms": "Saat kami menerima kata kunci text-to-subscribe, kami akan secara otomatis subscription pengguna. Jika pengguna tidak ada, kami akan membuat subscription dan mendaftarkan pengguna."
+      "ms": "Saat kami menerima kata kunci text-to-subscribe, kami akan secara automatik subscription pengguna. Jika pengguna tidak ada, kami akan membuat subscription dan mendaftarkan pengguna."
     },
     "YES": {
       "ja": "YES",
@@ -17806,7 +17806,7 @@
       "zh-CN": "添加自动回复器",
       "zh-TW": "新增自動回覆器",
       "id": "Tambah Responder Otomatis",
-      "ms": "Tambah Responder Otomatis"
+      "ms": "Tambah Responder Automatik"
     },
     "Auto-Responder": {
       "ja": "自動応答",
@@ -17818,7 +17818,7 @@
       "zh-CN": "自动回复器",
       "zh-TW": "自動回覆器",
       "id": "Responder Otomatis",
-      "ms": "Responder Otomatis"
+      "ms": "Responder Automatik"
     },
     "When we receive unrecognized keywords from a phone number, we'll automatically reply with this template.": {
       "ja": "電話番号から認識されないキーワードを受信すると、このテンプレートで自動的に返信します。",
@@ -17830,7 +17830,7 @@
       "zh-CN": "当我们从电话号码收到无法识别的关键词时，我们将自动使用此模板回复。",
       "zh-TW": "當我們從電話號碼收到無法識別的關鍵詞時，我們將自動使用此範本回覆。",
       "id": "Saat kami menerima kata kunci yang tidak dikenal dari nomor telepon, kami akan secara otomatis membalas dengan template ini.",
-      "ms": "Saat kami menerima kata kunci yang tidak dikenal dari nomor telepon, kami akan secara otomatis membalas dengan template ini."
+      "ms": "Saat kami menerima kata kunci yang tidak dikenal dari nomor telepon, kami akan secara automatik membalas dengan template ini."
     },
     "Provider is": {
       "ja": "プロバイダー:",
@@ -17854,7 +17854,7 @@
       "zh-CN": "显示密码",
       "zh-TW": "顯示密碼",
       "id": "Tampilkan kata sandi",
-      "ms": "Tampilkan kata sandi"
+      "ms": "Paparkan kata sandi"
     },
     "Twilio Account SID": {
       "ja": "Twilioアカウントsid",
@@ -17866,7 +17866,7 @@
       "zh-CN": "Twilio 账户 SID",
       "zh-TW": "Twilio 帳戶 SID",
       "id": "SID Akun Twilio",
-      "ms": "SID Akun Twilio"
+      "ms": "SID Akaun Twilio"
     },
     "Twilio Auth Token": {
       "ja": "Twilio認証トークン",
@@ -18118,7 +18118,7 @@
       "zh-CN": "所有登录方式",
       "zh-TW": "所有登入方式",
       "id": "Semua Metode Login",
-      "ms": "Semua Metode Login"
+      "ms": "Semua Metode Log masuk"
     },
     "All Roles": {
       "ja": "すべての役割",
@@ -18166,7 +18166,7 @@
       "zh-CN": "最近登录",
       "zh-TW": "最近登入",
       "id": "Login terakhir",
-      "ms": "Login terakhir"
+      "ms": "Log masuk terakhir"
     },
     "Login method": {
       "ja": "ログイン方法",
@@ -18178,7 +18178,7 @@
       "zh-CN": "登录方式",
       "zh-TW": "登入方式",
       "id": "Metode login",
-      "ms": "Metode login"
+      "ms": "Metode log masuk"
     },
     "Member": {
       "ja": "メンバー",
@@ -18322,7 +18322,7 @@
       "zh-CN": "按 Enter 或空格键选择节点。然后可以使用方向键移动节点。按 Delete 键移除，按 Esc 键取消。",
       "zh-TW": "按 Enter 或空格鍵選擇節點。然後可以使用方向鍵移動節點。按 Delete 鍵移除，按 Esc 鍵取消。",
       "id": "Tekan enter atau spasi untuk memilih node. Anda kemudian dapat menggunakan tombol panah untuk memindahkan node. Tekan hapus untuk menghapusnya dan escape untuk membatalkan.",
-      "ms": "Tekan enter atau spasi untuk memilih node. Anda kemudian dapat menggunakan tombol panah untuk memindahkan node. Tekan padam untuk menghapusnya dan escape untuk membatalkan."
+      "ms": "Tekan enter atau spasi untuk memilih node. Anda kemudian dapat menggunakan butang panah untuk memindahkan node. Tekan padam untuk menghapusnya dan escape untuk membatalkan."
     },
     "Press enter or space to select an edge. You can then press delete to remove it or escape to cancel.": {
       "ja": "Enter キーまたはスペースキーを押してエッジを選択します。その後、Delete キーで削除、Escape キーでキャンセルできます。",
@@ -18430,7 +18430,7 @@
       "zh-CN": "要拾起可拖动项目，请按空格键。\n 拖动时使用方向键移动项目。\n 再次按空格键将项目放到新位置，或按 Esc 键取消。",
       "zh-TW": "要拾起可拖動項目，請按空格鍵。\n 拖動時使用方向鍵移動項目。\n 再次按空格鍵將項目放到新位置，或按 Esc 鍵取消。",
       "id": "Untuk mengambil item yang dapat diseret, tekan bilah spasi.\n    Saat menyeret, gunakan tombol panah untuk memindahkan item.\n    Tekan spasi lagi untuk menjatuhkan item di posisi barunya, atau tekan escape untuk membatalkan.",
-      "ms": "Untuk mengambil item yang dapat diseret, tekan bilah spasi.\n    Saat menyeret, gunakan tombol panah untuk memindahkan item.\n    Tekan spasi lagi untuk menjatuhkan item di posisi barunya, atau tekan escape untuk membatalkan."
+      "ms": "Untuk mengambil item yang dapat diseret, tekan bilah spasi.\n    Saat menyeret, gunakan butang panah untuk memindahkan item.\n    Tekan spasi lagi untuk menjatuhkan item di posisi barunya, atau tekan escape untuk membatalkan."
     },
     "Users only receive messages from this Journey once.": {
       "ja": "ユーザーはこのジャーニーから一度だけメッセージを受信します。",
@@ -18538,7 +18538,7 @@
       "zh-CN": "操作和/或",
       "zh-TW": "操作和/或",
       "id": "aksi dan/atau",
-      "ms": "aksi dan/atau"
+      "ms": "tindakan dan/atau"
     },
     "action to your Journey before this message step.": {
       "ja": "アクションをこのメッセージステップの前にジャーニーに追加してください。",
@@ -18550,7 +18550,7 @@
       "zh-CN": "操作添加到您的旅程中，在此消息步骤之前。",
       "zh-TW": "操作新增到您的旅程中，在此訊息步驟之前。",
       "id": "aksi ke Journey Anda sebelum langkah pesan ini.",
-      "ms": "aksi ke Journey Anda sebelum langkah mesej ini."
+      "ms": "tindakan ke Journey Anda sebelum langkah mesej ini."
     },
     "View Org in Dashboard | View Audit Logs": {
       "ja": "Dashboard で組織を表示 | 監査ログを表示",
@@ -20266,7 +20266,7 @@
       "zh-CN": "Double Opt-In 会将添加到 OneSignal 的用户默认设置为待处理状态，并自动提示用户确认是否希望订阅。确认后，我们会订阅该用户。Double Opt In 可确保真实的用户同意，提升参与度，减少垃圾邮件投诉，并符合 TCPA 和 GDPR 等法规。",
       "zh-TW": "Double Opt-In 會將添加到 OneSignal 的用戶默認設置為待處理狀態，並自動提示用戶確認是否希望訂閱。確認後，我們會訂閱該用戶。Double Opt In 可確保真實的用戶同意，提升參與度，減少垃圾郵件投訴，並符合 TCPA 和 GDPR 等法規。",
       "id": "Double Opt-In akan menempatkan pengguna dalam status tertunda saat ditambahkan ke OneSignal dan secara otomatis meminta pengguna untuk mengonfirmasi bahwa mereka ingin berlangganan. Setelah dikonfirmasi, kami akan mendaftarkan pengguna. Double Opt-In memastikan persetujuan pengguna yang tulus, meningkatkan Engagement, mengurangi keluhan spam, dan mematuhi regulasi seperti TCPA dan GDPR.",
-      "ms": "Double Opt-In akan menempatkan pengguna dalam status tertunda saat ditambahkan ke OneSignal dan secara otomatis meminta pengguna untuk mengonfirmasi bahwa mereka ingin berlangganan. Setelah dikonfirmasi, kami akan mendaftarkan pengguna. Double Opt-In memastikan persetujuan pengguna yang tulus, meningkatkan Engagement, mengurangi keluhan spam, dan mematuhi regulasi seperti TCPA dan GDPR."
+      "ms": "Double Opt-In akan menempatkan pengguna dalam status tertunda saat ditambahkan ke OneSignal dan secara automatik meminta pengguna untuk mengonfirmasi bahwa mereka ingin berlangganan. Setelah dikonfirmasi, kami akan mendaftarkan pengguna. Double Opt-In memastikan persetujuan pengguna yang tulus, meningkatkan Engagement, mengurangi keluhan spam, dan mematuhi regulasi seperti TCPA dan GDPR."
     },
     "Re-Subscribe keywords are only activated when a user has already unsubscribed and is on the phone number or message service's blocklist. When we receive re-subscribe keywords, we'll automatically re-subscribe the user and take them off the phone number or message service's blocklist.": {
       "ja": "再購読キーワードは、ユーザーがすでに購読解除しており、電話番号またはメッセージサービスのブロックリストに登録されている場合にのみ有効化されます。再購読キーワードを受信すると、ユーザーを自動的に再購読登録し、電話番号またはメッセージサービスのブロックリストから削除します。",
@@ -20278,7 +20278,7 @@
       "zh-CN": "重新订阅关键词仅在用户已取消订阅且位于电话号码或消息服务的屏蔽列表中时才会激活。当我们收到重新订阅关键词时，会自动重新订阅该用户并将其从电话号码或消息服务的屏蔽列表中移除。",
       "zh-TW": "重新訂閱關鍵字僅在用戶已取消訂閱且位於電話號碼或訊息服務的屏蔽列表中時才會激活。當我們收到重新訂閱關鍵字時，會自動重新訂閱該用戶並將其從電話號碼或訊息服務的屏蔽列表中移除。",
       "id": "Kata kunci Re-Subscribe hanya diaktifkan saat pengguna telah berhenti berlangganan dan berada di daftar blokir nomor telepon atau layanan pesan. Saat kami menerima kata kunci re-subscribe, kami akan secara otomatis mendaftarkan kembali pengguna dan menghapus mereka dari daftar blokir.",
-      "ms": "Kata kunci Re-Subscribe hanya diaktifkan saat pengguna telah berhenti berlangganan dan berada di daftar blokir nomor telepon atau layanan mesej. Saat kami menerima kata kunci re-subscribe, kami akan secara otomatis mendaftarkan kembali pengguna dan memadam mereka dari daftar blokir."
+      "ms": "Kata kunci Re-Subscribe hanya diaktifkan saat pengguna telah berhenti berlangganan dan berada di daftar blokir nomor telepon atau layanan mesej. Saat kami menerima kata kunci re-subscribe, kami akan secara automatik mendaftarkan kembali pengguna dan memadam mereka dari daftar blokir."
     },
     "2-Step Authentication": {
       "ja": "2段階認証",
@@ -20842,7 +20842,7 @@
       "zh-CN": "显示最近 30 天",
       "zh-TW": "顯示最近 30 天",
       "id": "Tampilkan 30 hari terakhir",
-      "ms": "Tampilkan 30 hari terakhir"
+      "ms": "Paparkan 30 hari terakhir"
     },
     "Show historical data": {
       "ja": "履歴データを表示",
@@ -20854,7 +20854,7 @@
       "zh-CN": "显示历史数据",
       "zh-TW": "顯示歷史資料",
       "id": "Tampilkan data historis",
-      "ms": "Tampilkan data historis"
+      "ms": "Paparkan data historis"
     },
     "Set Up": {
       "ja": "セットアップ",
@@ -20914,7 +20914,7 @@
       "zh-CN": "发送开始时间",
       "zh-TW": "發送開始時間",
       "id": "Mulai mengirim pada",
-      "ms": "Mulai menghantar pada"
+      "ms": "Mula menghantar pada"
     },
     "Subscription status changes": {
       "ja": "購読ステータスの変更",
@@ -20974,7 +20974,7 @@
       "zh-CN": "显示订阅数",
       "zh-TW": "顯示訂閱數",
       "id": "Tampilkan Berlangganan",
-      "ms": "Tampilkan Berlangganan"
+      "ms": "Paparkan Berlangganan"
     },
     "All Message Types": {
       "ja": "すべてのメッセージタイプ",
@@ -21166,7 +21166,7 @@
       "zh-CN": "已自动生成默认目标,可随时编辑",
       "zh-TW": "已自動生成預設目標,可隨時編輯",
       "id": "Tujuan default telah dibuat secara otomatis, edit kapan saja",
-      "ms": "Tujuan default telah dibuat secara otomatis, edit kapan saja"
+      "ms": "Tujuan default telah dibuat secara automatik, edit kapan saja"
     },
     "Metric": {
       "ja": "指標",
@@ -21274,7 +21274,7 @@
       "zh-CN": "通过设置推送通知渠道开始跟踪互动数据",
       "zh-TW": "透過設定推送通知渠道開始追蹤互動數據",
       "id": "Mulai lacak statistik Engagement dengan menyiapkan saluran push Anda",
-      "ms": "Mulai lacak statistik Engagement dengan menyiapkan saluran push Anda"
+      "ms": "Mula lacak statistik Engagement dengan menyiapkan saluran push Anda"
     },
     "% of messages delivered": {
       "ja": "配信メッセージの割合",
@@ -21382,7 +21382,7 @@
       "zh-CN": "创建推送权限请求弹窗",
       "zh-TW": "建立推送權限請求彈窗",
       "id": "Buat prompt izin push",
-      "ms": "Buat prompt izin push"
+      "ms": "Buat prompt kebenaran push"
     },
     "Boost opt-ins with a custom in-app prompt that highlights your notifications’ value before the native prompt.": {
       "ja": "ネイティブプロンプトの前に通知の価値を強調するカスタムなアプリ内プロンプトで、オプトインを増やしましょう。",
@@ -21514,7 +21514,7 @@
       "zh-CN": "每段旅程都从第一步开始(以及一个受众用户分群)。",
       "zh-TW": "每段旅程都從第一步開始(以及一個受眾用戶分群)。",
       "id": "Setiap perjalanan dimulai dengan langkah pertama (dan Segment audiens).",
-      "ms": "Setiap perjalanan dimulai dengan langkah pertama (dan Segment audiens)."
+      "ms": "Setiap perjalanan dimulakan dengan langkah pertama (dan Segment audiens)."
     },
     "Don't stop believing.": {
       "ja": "信じることをやめないで。",
@@ -21682,7 +21682,7 @@
       "zh-CN": "显示未归因会话",
       "zh-TW": "顯示未歸因會話",
       "id": "Tampilkan sesi tidak diatribusikan",
-      "ms": "Tampilkan sesi tidak diatribusikan"
+      "ms": "Paparkan sesi tidak diatribusikan"
     },
     "Show Influenced sessions": {
       "ja": "影響セッションを表示",
@@ -21694,7 +21694,7 @@
       "zh-CN": "显示受影响会话",
       "zh-TW": "顯示受影響會話",
       "id": "Tampilkan sesi yang dipengaruhi",
-      "ms": "Tampilkan sesi yang dipengaruhi"
+      "ms": "Paparkan sesi yang dipengaruhi"
     },
     "Show Direct sessions": {
       "ja": "ダイレクトセッションを表示",
@@ -21706,7 +21706,7 @@
       "zh-CN": "显示直接会话",
       "zh-TW": "顯示直接會話",
       "id": "Tampilkan sesi langsung",
-      "ms": "Tampilkan sesi langsung"
+      "ms": "Paparkan sesi langsung"
     },
     "Show Confirmed": {
       "ja": "確認済みを表示",
@@ -21718,7 +21718,7 @@
       "zh-CN": "显示已确认",
       "zh-TW": "顯示已確認",
       "id": "Tampilkan yang dikonfirmasi",
-      "ms": "Tampilkan yang dikonfirmasi"
+      "ms": "Paparkan yang dikonfirmasi"
     },
     "Show Unique clicks": {
       "ja": "ユニーククリックを表示",
@@ -21730,7 +21730,7 @@
       "zh-CN": "显示唯一点击",
       "zh-TW": "顯示唯一點擊",
       "id": "Tampilkan klik unik",
-      "ms": "Tampilkan klik unik"
+      "ms": "Paparkan klik unik"
     },
     "Show Total clicks": {
       "ja": "合計クリックを表示",
@@ -21742,7 +21742,7 @@
       "zh-CN": "显示总点击",
       "zh-TW": "顯示總點擊",
       "id": "Tampilkan total klik",
-      "ms": "Tampilkan total klik"
+      "ms": "Paparkan total klik"
     },
     "Select conversion metric": {
       "ja": "コンバージョン指標を選択",
@@ -22066,7 +22066,7 @@
       "zh-CN": "未授予权限",
       "zh-TW": "未授予權限",
       "id": "Izin tidak diberikan",
-      "ms": "Izin tidak diberikan"
+      "ms": "Kebenaran tidak diberikan"
     },
     "Never Prompted": {
       "ja": "プロンプト未表示",
@@ -22138,7 +22138,7 @@
       "zh-CN": "关闭按钮",
       "zh-TW": "關閉按鈕",
       "id": "Tombol Tutup",
-      "ms": "Tombol Tutup"
+      "ms": "Butang Tutup"
     },
     "New Users": {
       "ja": "新規ユーザー",
@@ -22546,7 +22546,7 @@
       "zh-CN": "显示条件",
       "zh-TW": "顯示條件",
       "id": "Kondisi tampilan",
-      "ms": "Kondisi tampilan"
+      "ms": "Kondisi paparan"
     },
     "Dismiss condition": {
       "ja": "閉じる条件",
@@ -22606,7 +22606,7 @@
       "zh-CN": "开始于：",
       "zh-TW": "開始於：",
       "id": "Dimulai pada:",
-      "ms": "Dimulai pada:"
+      "ms": "Dimulakan pada:"
     },
     "Subscribed records:": {
       "ja": "Subscription 済みレコード:",
@@ -22726,7 +22726,7 @@
       "zh-CN": "活动数据自消息显示之日起保留 30 天",
       "zh-TW": "活動資料自訊息顯示之日起保留 30 天",
       "id": "Aktivitas tersedia selama 30 hari sejak pesan ditampilkan",
-      "ms": "Aktivitas tersedia selama 30 hari sejak mesej ditampilkan"
+      "ms": "Aktivitas tersedia selama 30 hari sejak mesej dipaparkan"
     },
     "Per-subscription activity data is no longer available for this message.": {
       "ja": "このメッセージの購読別アクティビティデータは利用できなくなりました。",
@@ -22954,7 +22954,7 @@
       "zh-CN": "显示已打开",
       "zh-TW": "顯示已開啟",
       "id": "Tampilkan yang dibuka",
-      "ms": "Tampilkan yang dibuka"
+      "ms": "Paparkan yang dibuka"
     },
     "Any Day": {
       "ja": "任意の日",
@@ -23410,7 +23410,7 @@
       "zh-CN": "显示我的活跃 Segment",
       "zh-TW": "顯示我的活躍 Segment",
       "id": "Tampilkan Segment aktif saya",
-      "ms": "Tampilkan Segment aktif saya"
+      "ms": "Paparkan Segment aktif saya"
     },
     "What are my app stats?": {
       "ja": "アプリの統計は？",
@@ -23674,7 +23674,7 @@
       "zh-CN": "要开始使用，请添加您的第一个应用。",
       "zh-TW": "要開始使用，請新增您的第一個應用。",
       "id": "Untuk memulai, tambahkan aplikasi pertama Anda.",
-      "ms": "Untuk memulai, tambahkan aplikasi pertama Anda."
+      "ms": "Untuk memulakan, tambahkan aplikasi pertama Anda."
     },
     "Learn more about subscriptions.": {
       "ja": "購読について詳しく見る。",
@@ -23834,7 +23834,7 @@
         "zh-CN": "显示第 {1}–{2} 项，共 {3} 项",
         "zh-TW": "顯示第 {1}–{2} 項，共 {3} 項",
         "id": "Menampilkan {1}–{2} dari {3}",
-        "ms": "Menampilkan {1}–{2} dari {3}"
+        "ms": "Memaparkan {1}–{2} dari {3}"
       }
     },
     {
@@ -24794,7 +24794,7 @@
         "zh-CN": "显示从 {1} 至今的审计日志",
         "zh-TW": "顯示從 {1} 至今的審計日誌",
         "id": "Menampilkan log audit dari {1} hingga sekarang",
-        "ms": "Menampilkan log audit dari {1} hingga sekarang"
+        "ms": "Memaparkan log audit dari {1} hingga sekarang"
       }
     },
     {
