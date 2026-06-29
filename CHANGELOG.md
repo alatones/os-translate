@@ -7,6 +7,54 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
+## [1.11.0] — 2026-06-24
+
+### Added
+
+- **Malay (`ms`) — first-draft translations.** All 1,974 source keys,
+  all 99 regex patterns, and all 78 glossary terms now have Malay
+  values. Marked "pending native review" until the Malay reviewer
+  signs off — mirrors the rollout pattern used for Indonesian in
+  1.7.0.
+
+  Seed strategy: copy Indonesian (`id`) values, then apply
+  word-boundary substitutions for the vocabulary divergences
+  documented in `style/ms.md`:
+  - **Delete**: `Hapus` → `Padam` (with `menghapus`/`dihapus`/
+    `terhapus` families).
+  - **Settings**: `Pengaturan` → `Tetapan`.
+  - **Send**: `Kirim` → `Hantar` (`mengirim`/`dikirim`/`terkirim`
+    families; `Pengiriman` → `Penghantaran` for the noun).
+  - **File**: `Berkas` → `Fail`.
+  - **Queue**: `Antrean` → `Baris gilir`.
+  - **Update**: `Perbarui` → `Kemas kini` (`memperbarui`/`diperbarui`/
+    `pembaruan` families).
+  - **Continue**: `Lanjutkan` → `Teruskan` (`melanjutkan`/
+    `dilanjutkan`).
+  - **Switch**: `Mengganti` → `Menukar`.
+  - **Understand** (used in disclosure dismiss button): `Mengerti`
+    → `Faham`.
+  - **Message** (noun): `Pesan` → `Mesej` (word-boundary; verb form
+    `memesan` = to order, unrelated, left untouched).
+  - **Tip / Hint** label: `Tip:` → `Petua:`.
+  - **Loading** participle: `Memuat` → `Memuatkan` (gated to avoid
+    overlap with `Memuat ulang`).
+  - **Reload**: `Muat ulang` → `Muatkan semula`.
+
+  Latin-locked terms inherited from Santi's Indonesian review pass
+  through unchanged: Subscription/Subscriber family, Overview,
+  Engagement, drag-and-drop, plus all standard product feature names
+  (Journey, Template, Segment, Live Activity, Custom Events,
+  Event Stream, Data Feed, Push, SMS, RCS, In-App).
+
+  Validator: 0 blocking, 1041 informational (up from 880 — the +161
+  are ms values that legitimately equal their English source: brand
+  names, Latin-locked product features, status acronyms).
+
+  Native review loop with the Malay reviewer starts after merge —
+  same first-round-corrections cadence we ran for Indonesian
+  (Santi's pass produced 1.8.1's "Stays Latin" additions).
+
 ## [1.10.0] — 2026-06-24
 
 ### Added
