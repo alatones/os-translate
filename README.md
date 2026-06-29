@@ -63,6 +63,7 @@ Language codes follow ISO 639-1.
 | `zh-CN` | Simplified Chinese | 1,517 terms + 73 patterns (Mainland, drop pronouns or 您, bare-verb buttons) |
 | `zh-TW` | Traditional Chinese | 1,517 terms + 73 patterns (書面語, HK-leaning lexicon per reviewer — 儲存/設定/搜尋) |
 | `id` | Indonesian | first-draft (pending native review) — Anda formal address, bare-verb buttons, Latin for product features |
+| `ms` | Malay (Bahasa Melayu) | wiring only — translations land in the next PR; Anda formal address, Latin for product features, divergent vocabulary from id (`Padam`/`Tetapan`/`Hantar`/`Sunting`/`Fail`/`Cipta`) |
 
 Each language ships with terminology locked to a glossary (see below) and
 register conventions documented in `style/<lang>.md`.

@@ -7,6 +7,37 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
+## [1.10.0] — 2026-06-24
+
+### Added
+
+- **Malay (Bahasa Melayu, `ms`) language plumbing.** Wiring only —
+  selectable from the popup as `Bahasa Melayu — Malay` (🇲🇾), but
+  the dashboard falls through to English until translation entries
+  land in the next PR. Touches:
+  - `_locales/ms/messages.json` (Web Store metadata, 129 chars —
+    under the 132-char cap)
+  - `popup.js` `LANG_FLAGS`, `FORM_LANG_LABEL`, and `POPUP_STRINGS`
+    (`ms` entry added to all 11 keys — preempts the same widget-
+    in-English issue Santi caught for `id` in 1.8.1)
+  - `background.js` `FORM_LANG_LABEL`, `MENU_TITLES`
+  - `validate.py` `LANGS` array (so glossary enforcement applies
+    once entries land)
+  - `languages.json` dropdown-label map
+  - `style/ms.md` new — variant notes, register, vocabulary
+    divergences from id (`Padam` vs `Hapus`, `Tetapan` vs
+    `Pengaturan`, `Hantar` vs `Kirim`, `Sunting` vs `Edit`, `Fail`
+    vs `Berkas`, `Cipta` vs `Buat`), Latin-for-product-feature
+    rules mirroring the established id/es/pt/tr/zh-TW patterns,
+    plus inherited "Stays Latin" terms from Santi's id review
+    (Overview, Engagement, Subscription family, drag-and-drop)
+  - `README.md` language table row (marked "wiring only —
+    translations land in the next PR")
+
+  Translations + glossary locks + Malay-specific SKIP_PAIRS come
+  in the next PR. Native review loop starts after translations
+  ship.
+
 ## [1.9.1] — 2026-06-24
 
 ### Fixed
