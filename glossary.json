@@ -37,7 +37,8 @@
         "旅程",
         "Journey"
       ],
-      "id": "Journey"
+      "id": "Journey",
+      "ms": "Journey"
     },
     "Journeys": {
       "ja": "ジャーニー",
@@ -75,6 +76,10 @@
       "id": [
         "Journeys",
         "Journey"
+      ],
+      "ms": [
+        "Journeys",
+        "Journey"
       ]
     },
     "Segment": {
@@ -100,7 +105,8 @@
         "分群",
         "Segment"
       ],
-      "id": "Segment"
+      "id": "Segment",
+      "ms": "Segment"
     },
     "Segments": {
       "ja": "セグメント",
@@ -124,7 +130,8 @@
         "Segments",
         "Segment"
       ],
-      "id": "Segment"
+      "id": "Segment",
+      "ms": "Segment"
     },
     "Subscription": {
       "ja": "購読",
@@ -150,6 +157,10 @@
       "zh-CN": "订阅",
       "zh-TW": "訂閱",
       "id": [
+        "Subscription",
+        "Subscriptions"
+      ],
+      "ms": [
         "Subscription",
         "Subscriptions"
       ]
@@ -178,6 +189,10 @@
       "id": [
         "Subscriptions",
         "Subscription"
+      ],
+      "ms": [
+        "Subscriptions",
+        "Subscription"
       ]
     },
     "Subscriber": {
@@ -196,6 +211,10 @@
         "用戶"
       ],
       "id": [
+        "Subscriber",
+        "Subscribers"
+      ],
+      "ms": [
         "Subscriber",
         "Subscribers"
       ]
@@ -221,6 +240,10 @@
       "id": [
         "Subscribers",
         "Subscriber"
+      ],
+      "ms": [
+        "Subscribers",
+        "Subscriber"
       ]
     },
     "Outcome": {
@@ -242,7 +265,8 @@
         "結果",
         "成果"
       ],
-      "id": "Hasil"
+      "id": "Hasil",
+      "ms": "Hasil"
     },
     "Outcomes": {
       "ja": [
@@ -265,7 +289,8 @@
         "結果",
         "成果"
       ],
-      "id": "Hasil"
+      "id": "Hasil",
+      "ms": "Hasil"
     },
     "In-App": {
       "ja": [
@@ -305,7 +330,8 @@
         "應用內",
         "In-App"
       ],
-      "id": "In-App"
+      "id": "In-App",
+      "ms": "In-App"
     },
     "Push": {
       "ja": "プッシュ",
@@ -321,7 +347,8 @@
       "note": "Push-to-Start / Push-to-Update are Apple compound terms (proper-noun-like) — kept Latin in all langs and exempted from the Push lock.",
       "zh-CN": "推送",
       "zh-TW": "推送",
-      "id": "Push"
+      "id": "Push",
+      "ms": "Push"
     },
     "Email": {
       "ja": "メール",
@@ -359,7 +386,8 @@
         "電子郵件",
         "Email"
       ],
-      "id": "Email"
+      "id": "Email",
+      "ms": "Email"
     },
     "SMS": {
       "ja": "SMS",
@@ -376,7 +404,8 @@
         "短訊",
         "SMS"
       ],
-      "id": "SMS"
+      "id": "SMS",
+      "ms": "SMS"
     },
     "RCS": {
       "ja": "RCS",
@@ -393,7 +422,8 @@
         "富媒體短訊",
         "RCS"
       ],
-      "id": "RCS"
+      "id": "RCS",
+      "ms": "RCS"
     },
     "Live Activity": {
       "ja": "ライブアクティビティ",
@@ -421,7 +451,8 @@
         "即時活動",
         "Live Activity"
       ],
-      "id": "Live Activity"
+      "id": "Live Activity",
+      "ms": "Live Activity"
     },
     "Live Activities": {
       "ja": "ライブアクティビティ",
@@ -449,7 +480,8 @@
         "即時活動",
         "Live Activities"
       ],
-      "id": "Live Activities"
+      "id": "Live Activities",
+      "ms": "Live Activities"
     },
     "Data Feed": {
       "ja": "データフィード",
@@ -476,7 +508,8 @@
         "資料串流",
         "Data Feed"
       ],
-      "id": "Data Feed"
+      "id": "Data Feed",
+      "ms": "Data Feed"
     },
     "Data Feeds": {
       "ja": "データフィード",
@@ -509,6 +542,11 @@
         "Data Feeds",
         "Data Feed",
         "data feed"
+      ],
+      "ms": [
+        "Data Feeds",
+        "Data Feed",
+        "data feed"
       ]
     },
     "Webhook": {
@@ -521,7 +559,8 @@
       "tr": "Webhook",
       "zh-CN": "Webhook",
       "zh-TW": "Webhook",
-      "id": "Webhook"
+      "id": "Webhook",
+      "ms": "Webhook"
     },
     "Webhooks": {
       "ja": "Webhook",
@@ -535,7 +574,8 @@
       ],
       "zh-CN": "Webhook",
       "zh-TW": "Webhook",
-      "id": "Webhook"
+      "id": "Webhook",
+      "ms": "Webhook"
     },
     "Template": {
       "ja": "テンプレート",
@@ -547,7 +587,8 @@
       "note": "pt: stays Latin per the BR Portuguese reviewer — 'Template' reads more natural/idiomatic than 'Modelo' in Brazilian SaaS UI. Same Latin-product-feature pattern as the es calls (Custom Events, Event Stream, Data Feed, etc.).",
       "zh-CN": "模板",
       "zh-TW": "範本",
-      "id": "Template"
+      "id": "Template",
+      "ms": "Template"
     },
     "Templates": {
       "ja": "テンプレート",
@@ -562,6 +603,11 @@
       "zh-CN": "模板",
       "zh-TW": "範本",
       "id": [
+        "Templates",
+        "Template",
+        "template"
+      ],
+      "ms": [
         "Templates",
         "Template",
         "template"
@@ -585,7 +631,8 @@
       ],
       "zh-CN": "受众",
       "zh-TW": "受眾",
-      "id": "Audiens"
+      "id": "Audiens",
+      "ms": "Audiens"
     },
     "Campaign": {
       "ja": "キャンペーン",
@@ -602,7 +649,8 @@
         "營銷活動",
         "活動"
       ],
-      "id": "Kampanye"
+      "id": "Kampanye",
+      "ms": "Kampanye"
     },
     "Tag": {
       "ja": "タグ",
@@ -620,7 +668,8 @@
       ],
       "zh-CN": "标签",
       "zh-TW": "標籤",
-      "id": "Tag"
+      "id": "Tag",
+      "ms": "Tag"
     },
     "Tags": {
       "ja": "タグ",
@@ -638,6 +687,11 @@
       "zh-CN": "标签",
       "zh-TW": "標籤",
       "id": [
+        "Tags",
+        "Tag",
+        "tag"
+      ],
+      "ms": [
         "Tags",
         "Tag",
         "tag"
@@ -664,7 +718,8 @@
       ],
       "zh-CN": "数据标签",
       "zh-TW": "資料標籤",
-      "id": "Tag Data"
+      "id": "Tag Data",
+      "ms": "Tag Data"
     },
     "Data Tags": {
       "ja": "データタグ",
@@ -687,7 +742,8 @@
       ],
       "zh-CN": "数据标签",
       "zh-TW": "資料標籤",
-      "id": "Tag Data"
+      "id": "Tag Data",
+      "ms": "Tag Data"
     },
     "Notification": {
       "ja": "通知",
@@ -715,7 +771,8 @@
         "Send push notification",
         "Any push notification",
         "Push notifications - Not configured - Click to set up"
-      ]
+      ],
+      "ms": "Notifikasi"
     },
     "Notifications": {
       "ja": "通知",
@@ -734,7 +791,8 @@
         "Push Notifications",
         "Push notifications",
         "Push notifications - Not configured - Click to set up"
-      ]
+      ],
+      "ms": "Notifikasi"
     },
     "Save": {
       "ja": "保存",
@@ -762,7 +820,8 @@
       ],
       "zh-CN": "保存",
       "zh-TW": "儲存",
-      "id": "Simpan"
+      "id": "Simpan",
+      "ms": "Simpan"
     },
     "Send": {
       "ja": "送信",
@@ -815,6 +874,11 @@
       "_skip_keys": [
         "Send History",
         "Data Feeds allow you to dynamically fetch data from your APIs at send time."
+      ],
+      "ms": [
+        "Hantar",
+        "hantar",
+        "menghantar"
       ]
     },
     "Sent": {
@@ -867,6 +931,10 @@
         "Insert real-time, dynamic content from your data feeds directly into the template at the time of sending. This feature only applies to templates sent through Journeys.",
         "Messages sent through our API or WordPress Plugin can be found in",
         "Messages sent through our API can be found in"
+      ],
+      "ms": [
+        "Dihantar",
+        "dihantar"
       ]
     },
     "Delete": {
@@ -902,7 +970,8 @@
         "Press enter or space to select an edge. You can then press delete to remove it or escape to cancel."
       ],
       "zh-TW": "刪除",
-      "id": "Hapus"
+      "id": "Hapus",
+      "ms": "Padam"
     },
     "Edit": {
       "ja": "編集",
@@ -932,7 +1001,8 @@
       ],
       "zh-CN": "编辑",
       "zh-TW": "編輯",
-      "id": "Edit"
+      "id": "Edit",
+      "ms": "Edit"
     },
     "Cancel": {
       "ja": "キャンセル",
@@ -958,6 +1028,10 @@
       "zh-CN": "取消",
       "zh-TW": "取消",
       "id": [
+        "Batalkan",
+        "Batal"
+      ],
+      "ms": [
         "Batalkan",
         "Batal"
       ]
@@ -999,7 +1073,8 @@
       "id": "Konfirmasi",
       "_skip_keys": [
         "Did not confirm receipt"
-      ]
+      ],
+      "ms": "Konfirmasi"
     },
     "Create": {
       "ja": "作成",
@@ -1034,7 +1109,8 @@
       ],
       "zh-CN": "创建",
       "zh-TW": "建立",
-      "id": "Buat"
+      "id": "Buat",
+      "ms": "Buat"
     },
     "Add": {
       "ja": "追加",
@@ -1066,7 +1142,8 @@
         "When we receive opt-out keywords, we'll automatically add the user to the phone number or message service's blocklist."
       ],
       "zh-TW": "新增",
-      "id": "Tambah"
+      "id": "Tambah",
+      "ms": "Tambah"
     },
     "Remove": {
       "ja": "削除",
@@ -1100,7 +1177,8 @@
         "移除",
         "刪除"
       ],
-      "id": "Hapus"
+      "id": "Hapus",
+      "ms": "Padam"
     },
     "Update": {
       "_skip_keys": [
@@ -1133,7 +1211,8 @@
       ],
       "zh-CN": "更新",
       "zh-TW": "更新",
-      "id": "Perbarui"
+      "id": "Perbarui",
+      "ms": "Kemas kini"
     },
     "Import": {
       "ja": "インポート",
@@ -1166,7 +1245,8 @@
       ],
       "zh-CN": "导入",
       "zh-TW": "匯入",
-      "id": "Impor"
+      "id": "Impor",
+      "ms": "Impor"
     },
     "Export": {
       "ja": [
@@ -1201,7 +1281,8 @@
       ],
       "zh-CN": "导出",
       "zh-TW": "匯出",
-      "id": "Ekspor"
+      "id": "Ekspor",
+      "ms": "Ekspor"
     },
     "Settings": {
       "ja": "設定",
@@ -1225,7 +1306,8 @@
       ],
       "zh-CN": "设置",
       "zh-TW": "設定",
-      "id": "Pengaturan"
+      "id": "Pengaturan",
+      "ms": "Tetapan"
     },
     "Search": {
       "ja": "検索",
@@ -1251,7 +1333,8 @@
       ],
       "zh-CN": "搜索",
       "zh-TW": "搜尋",
-      "id": "Cari"
+      "id": "Cari",
+      "ms": "Cari"
     },
     "Filter": {
       "ja": [
@@ -1289,7 +1372,8 @@
         "篩選器",
         "篩選條件"
       ],
-      "id": "Filter"
+      "id": "Filter",
+      "ms": "Filter"
     },
     "Filters": {
       "ja": [
@@ -1326,7 +1410,8 @@
         "篩選器",
         "篩選條件"
       ],
-      "id": "Filter"
+      "id": "Filter",
+      "ms": "Filter"
     },
     "Active": {
       "ja": "アクティブ",
@@ -1373,7 +1458,8 @@
         "已啟用",
         "啟用"
       ],
-      "id": "Aktif"
+      "id": "Aktif",
+      "ms": "Aktif"
     },
     "Inactive": {
       "ja": "非アクティブ",
@@ -1403,7 +1489,8 @@
       ],
       "zh-CN": "不活跃",
       "zh-TW": "不活躍",
-      "id": "Tidak Aktif"
+      "id": "Tidak Aktif",
+      "ms": "Tidak Aktif"
     },
     "Disabled": {
       "ja": "無効",
@@ -1442,7 +1529,8 @@
         "已停用",
         "停用"
       ],
-      "id": "Dinonaktifkan"
+      "id": "Dinonaktifkan",
+      "ms": "Dinonaktifkan"
     },
     "Paused": {
       "ja": "一時停止中",
@@ -1478,7 +1566,8 @@
         "已暫停",
         "暫停"
       ],
-      "id": "Dijeda"
+      "id": "Dijeda",
+      "ms": "Dijeda"
     },
     "Failed": {
       "ja": "失敗",
@@ -1518,7 +1607,8 @@
         "失敗",
         "已失敗"
       ],
-      "id": "Gagal"
+      "id": "Gagal",
+      "ms": "Gagal"
     },
     "Draft": {
       "ja": "下書き",
@@ -1529,7 +1619,8 @@
       "tr": "Taslak",
       "zh-CN": "草稿",
       "zh-TW": "草稿",
-      "id": "Draf"
+      "id": "Draf",
+      "ms": "Draf"
     },
     "Archived": {
       "ja": "アーカイブ済み",
@@ -1554,7 +1645,8 @@
         "已封存",
         "封存"
       ],
-      "id": "Diarsipkan"
+      "id": "Diarsipkan",
+      "ms": "Diarsipkan"
     },
     "Completed": {
       "ja": "完了",
@@ -1589,7 +1681,8 @@
         "已完成",
         "完成"
       ],
-      "id": "Selesai"
+      "id": "Selesai",
+      "ms": "Selesai"
     },
     "Delivered": {
       "ja": [
@@ -1648,6 +1741,10 @@
       ],
       "_skip_keys": [
         "You may disable this app to prevent new and scheduled notifications from being delivered. Apps you manually disable can be instantly re-enabled at any time."
+      ],
+      "ms": [
+        "Tersampaikan",
+        "tersampaikan"
       ]
     },
     "Delivery": {
@@ -1704,6 +1801,11 @@
         "Pengiriman",
         "Tersampaikan",
         "tersampaikan"
+      ],
+      "ms": [
+        "Penghantaran",
+        "Tersampaikan",
+        "tersampaikan"
       ]
     },
     "Delivery Rate": {
@@ -1719,22 +1821,26 @@
       ],
       "zh-CN": "送达率",
       "zh-TW": "送達率",
-      "id": "Delivery Rate"
+      "id": "Delivery Rate",
+      "ms": "Delivery Rate"
     },
     "Intelligent Delivery": {
       "es": "Intelligent Delivery",
       "note": "es: Product feature name stays Latin (the Chilean Spanish reviewer). Same pattern as Journey/Live Activity.",
-      "id": "Intelligent Delivery"
+      "id": "Intelligent Delivery",
+      "ms": "Intelligent Delivery"
     },
     "Delivery time": {
       "es": "Delivery time",
       "note": "es: Setting label stays Latin (the Chilean Spanish reviewer).",
-      "id": "Delivery time"
+      "id": "Delivery time",
+      "ms": "Delivery time"
     },
     "Delivery Schedule": {
       "es": "Delivery Schedule",
       "note": "es: Section heading stays Latin (the Chilean Spanish reviewer). Numbered variants ('3. Delivery Schedule' etc.) inherit via word-boundary match.",
-      "id": "Delivery Schedule"
+      "id": "Delivery Schedule",
+      "ms": "Delivery Schedule"
     },
     "Click-through Rate": {
       "ja": "クリック率",
@@ -1745,7 +1851,8 @@
       "tr": "Tıklama oranı",
       "zh-CN": "点击率",
       "zh-TW": "點擊率",
-      "id": "Tingkat Klik"
+      "id": "Tingkat Klik",
+      "ms": "Tingkat Klik"
     },
     "CTR": {
       "ja": [
@@ -1775,7 +1882,8 @@
         "CTR"
       ],
       "note": "Click-through rate. East Asian languages translate; European languages keep CTR (industry standard).",
-      "id": "CTR"
+      "id": "CTR",
+      "ms": "CTR"
     },
     "Open Rate": {
       "ja": "開封率",
@@ -1786,7 +1894,8 @@
       "tr": "Açılma oranı",
       "zh-CN": "打开率",
       "zh-TW": "開啟率",
-      "id": "Tingkat Buka"
+      "id": "Tingkat Buka",
+      "ms": "Tingkat Buka"
     },
     "Conversion": {
       "ja": "コンバージョン",
@@ -1809,7 +1918,8 @@
       ],
       "zh-CN": "转化",
       "zh-TW": "轉換",
-      "id": "Konversi"
+      "id": "Konversi",
+      "ms": "Konversi"
     },
     "Recipients": {
       "ja": [
@@ -1836,7 +1946,8 @@
       ],
       "zh-CN": "收件人",
       "zh-TW": "收件人",
-      "id": "Penerima"
+      "id": "Penerima",
+      "ms": "Penerima"
     },
     "Sender": {
       "ja": [
@@ -1862,7 +1973,8 @@
       ],
       "zh-CN": "发件人",
       "zh-TW": "發件人",
-      "id": "Pengirim"
+      "id": "Pengirim",
+      "ms": "Pengirim"
     },
     "Senders": {
       "ja": [
@@ -1888,7 +2000,8 @@
       ],
       "zh-CN": "发件人",
       "zh-TW": "發件人",
-      "id": "Pengirim"
+      "id": "Pengirim",
+      "ms": "Pengirim"
     },
     "App": {
       "ja": "アプリ",
@@ -1920,6 +2033,10 @@
         "App"
       ],
       "id": [
+        "Aplikasi",
+        "App"
+      ],
+      "ms": [
         "Aplikasi",
         "App"
       ]
@@ -1956,22 +2073,29 @@
       "id": [
         "Aplikasi",
         "Apps"
+      ],
+      "ms": [
+        "Aplikasi",
+        "Apps"
       ]
     },
     "Custom Event": {
       "es": "Custom Event",
       "note": "es: Stays Latin per the Chilean Spanish reviewer. OneSignal product feature; Spanish marketers reach for the English form by default — same pattern as Journey, Live Activity, Data Feed, Delivery Rate, Intelligent Delivery.",
-      "id": "Custom Event"
+      "id": "Custom Event",
+      "ms": "Custom Event"
     },
     "Custom Events": {
       "es": "Custom Events",
       "note": "es: See 'Custom Event'. Plural form locked separately because the glossary's word-boundary match keeps singular/plural patterns independent.",
-      "id": "Custom Events"
+      "id": "Custom Events",
+      "ms": "Custom Events"
     },
     "Event Stream": {
       "es": "Event Stream",
       "note": "es: Stays Latin per the Chilean Spanish reviewer. OneSignal product feature — same pattern as Custom Events / Data Feed / etc.",
-      "id": "Event Stream"
+      "id": "Event Stream",
+      "ms": "Event Stream"
     },
     "Event Streams": {
       "es": "Event Streams",
@@ -1980,15 +2104,22 @@
         "Event Streams",
         "Event Stream",
         "event stream"
+      ],
+      "ms": [
+        "Event Streams",
+        "Event Stream",
+        "event stream"
       ]
     },
     "Overview": {
       "id": "Overview",
-      "note": "id: stays Latin per the Indonesian reviewer (Santi) — 'Ikhtisar' isn't commonly used in everyday Indonesian product/analytics contexts. Other languages translate normally."
+      "note": "id: stays Latin per the Indonesian reviewer (Santi) — 'Ikhtisar' isn't commonly used in everyday Indonesian product/analytics contexts. Other languages translate normally.",
+      "ms": "Overview"
     },
     "Engagement": {
       "id": "Engagement",
-      "note": "id: stays Latin per the Indonesian reviewer (Santi) — 'Keterlibatan' didn't sound natural; Indonesian SaaS users are familiar with 'Engagement' as a loanword. 'Interaksi' was offered as fallback but Latin is preferred. Other languages translate normally."
+      "note": "id: stays Latin per the Indonesian reviewer (Santi) — 'Keterlibatan' didn't sound natural; Indonesian SaaS users are familiar with 'Engagement' as a loanword. 'Interaksi' was offered as fallback but Latin is preferred. Other languages translate normally.",
+      "ms": "Engagement"
     },
     "drag-and-drop": {
       "id": [
@@ -1996,7 +2127,12 @@
         "Drag and drop",
         "Drag & drop"
       ],
-      "note": "id: stays Latin per the Indonesian reviewer (Santi) — 'seret-dan-lepas' is a direct translation but reads unnatural; 'drag-and-drop' is the common UI convention in Indonesian product copy. Other languages translate normally."
+      "note": "id: stays Latin per the Indonesian reviewer (Santi) — 'seret-dan-lepas' is a direct translation but reads unnatural; 'drag-and-drop' is the common UI convention in Indonesian product copy. Other languages translate normally.",
+      "ms": [
+        "drag-and-drop",
+        "Drag and drop",
+        "Drag & drop"
+      ]
     }
   }
 }
