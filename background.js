@@ -33,6 +33,7 @@ const FORM_LANG_LABEL = {
   ko: "Korean",
   fr: "French",
   id: "Indonesian",
+  ms: "Malay",
 };
 
 // Google Apps Script Web App URL that receives the daily ledger batch.
@@ -66,6 +67,7 @@ const MENU_TITLES = {
   "zh-CN": '为 "%s" 推荐更好的翻译',
   "zh-TW": '為「%s」建議更好的翻譯',
   id: 'Sarankan terjemahan yang lebih baik untuk "%s"',
+  ms: 'Cadangkan terjemahan yang lebih baik untuk "%s"',
 };
 
 function buildFormUrl({ language, selected }) {

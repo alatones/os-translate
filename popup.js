@@ -19,6 +19,7 @@ const FORM_LANG_LABEL = {
   ko: "Korean",
   fr: "French",
   id: "Indonesian",
+  ms: "Malay",
 };
 
 // Flag emojis for the language picker. Skipped for `en` (off mode).
@@ -35,6 +36,7 @@ const LANG_FLAGS = {
   ko: "🇰🇷",
   fr: "🇫🇷",
   id: "🇮🇩",
+  ms: "🇲🇾",
 };
 
 // Localized strings for the popup chrome itself. Keyed by string ID,
@@ -56,6 +58,7 @@ const POPUP_STRINGS = {
     "zh-CN": "语言",
     "zh-TW": "語言",
     id: "Bahasa",
+    ms: "Bahasa",
   },
   optin_label: {
     ja: "翻訳の改善にご協力ください（匿名化された未翻訳の文字列を共有）",
@@ -67,6 +70,7 @@ const POPUP_STRINGS = {
     "zh-CN": "帮助改进翻译（共享匿名化的未翻译字符串）",
     "zh-TW": "幫助改進翻譯（共享匿名化的未翻譯字串）",
     id: "Bantu meningkatkan terjemahan (bagikan string yang tidak diterjemahkan secara anonim)",
+    ms: "Bantu menambah baik terjemahan (kongsi rentetan yang belum diterjemahkan secara tanpa nama)",
   },
   queue_link: {
     ja: "待機中のデータを確認 →",
@@ -78,6 +82,7 @@ const POPUP_STRINGS = {
     "zh-CN": "查看队列中的内容 →",
     "zh-TW": "檢視排隊中的內容 →",
     id: "Lihat antrean →",
+    ms: "Lihat baris gilir →",
   },
   feedback_btn: {
     ja: "翻訳の問題を報告",
@@ -89,6 +94,7 @@ const POPUP_STRINGS = {
     "zh-CN": "报告翻译问题",
     "zh-TW": "回報翻譯問題",
     id: "Laporkan masalah terjemahan",
+    ms: "Laporkan isu terjemahan",
   },
   hint: {
     ja: "ヒント：ダッシュボード上の翻訳されたテキストを右クリックすると、その文字列の修正を提案できます。",
@@ -100,6 +106,7 @@ const POPUP_STRINGS = {
     "zh-CN": "提示：在仪表板上右键单击任何已翻译的文本，为该特定字符串提交修改建议。",
     "zh-TW": "提示：在儀表板上對任何翻譯文字按右鍵，可為該特定字串提交修正建議。",
     id: "Tip: klik kanan pada teks terjemahan apa pun di dashboard untuk menyarankan perbaikan untuk string tertentu.",
+    ms: "Petua: klik kanan pada mana-mana teks terjemahan di dashboard untuk mencadangkan pembetulan bagi rentetan tertentu.",
   },
   disclosure_body: {
     ja: "この拡張機能は、翻訳できていなかったダッシュボードの文字列リストを共有してカバレッジを改善します。URL、ユーザーID、個人データは送信されません。",
@@ -111,6 +118,7 @@ const POPUP_STRINGS = {
     "zh-CN": "此扩展会共享仪表板上未翻译的字符串列表以改进覆盖范围。不发送任何 URL、用户 ID 或个人数据。",
     "zh-TW": "此擴充功能會分享儀表板上未翻譯的字串清單以改善覆蓋率。不會傳送任何 URL、用戶 ID 或個人資料。",
     id: "Ekstensi ini membagikan daftar string dashboard yang belum diterjemahkan agar cakupan terus membaik. URL, ID pengguna, atau data pribadi tidak pernah dikirim.",
+    ms: "Sambungan ini berkongsi senarai rentetan dashboard yang belum diterjemahkan supaya liputan terus bertambah baik. URL, ID pengguna atau data peribadi tidak pernah dihantar.",
   },
   disclosure_dismiss: {
     ja: "了解",
@@ -122,6 +130,7 @@ const POPUP_STRINGS = {
     "zh-CN": "知道了",
     "zh-TW": "了解",
     id: "Mengerti",
+    ms: "Faham",
   },
   status_cancelled: {
     ja: "キャンセルしました。",
@@ -133,6 +142,7 @@ const POPUP_STRINGS = {
     "zh-CN": "已取消。",
     "zh-TW": "已取消。",
     id: "Dibatalkan.",
+    ms: "Dibatalkan.",
   },
   status_saved: {
     ja: "保存しました。再読み込み中…",
@@ -144,6 +154,7 @@ const POPUP_STRINGS = {
     "zh-CN": "已保存。正在重新加载…",
     "zh-TW": "已儲存。重新載入中…",
     id: "Tersimpan. Memuat ulang…",
+    ms: "Disimpan. Memuatkan semula…",
   },
   status_no_form: {
     ja: "フィードバックフォームが設定されていません — READMEを参照してください。",
@@ -155,6 +166,7 @@ const POPUP_STRINGS = {
     "zh-CN": "反馈表单未配置 — 请参阅 README。",
     "zh-TW": "回饋表單尚未設定 — 請參閱 README。",
     id: "Formulir umpan balik belum dikonfigurasi — lihat README.",
+    ms: "Borang maklum balas belum dikonfigurasikan — rujuk README.",
   },
   confirm_reload: {
     ja: "言語を切り替えるとOneSignalダッシュボードのタブが再読み込みされます。保存されていない変更（下書き、開いているエディター）は失われます。\n\n今すぐ再読み込みしますか？",
@@ -166,6 +178,7 @@ const POPUP_STRINGS = {
     "zh-CN": "切换语言将重新加载 OneSignal 仪表板选项卡。任何未保存的更改（草稿、打开的编辑器）将丢失。\n\n立即重新加载？",
     "zh-TW": "切換語言將重新載入 OneSignal 儀表板分頁。任何未儲存的變更（草稿、開啟的編輯器）將會遺失。\n\n立即重新載入？",
     id: "Mengganti bahasa akan memuat ulang tab dashboard OneSignal. Setiap perubahan yang belum disimpan (draf, editor yang terbuka) akan hilang.\n\nMuat ulang sekarang?",
+    ms: "Menukar bahasa akan memuatkan semula tab dashboard OneSignal. Sebarang perubahan yang belum disimpan (draf, editor yang terbuka) akan hilang.\n\nMuatkan semula sekarang?",
   },
 };
 
