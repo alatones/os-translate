@@ -1,9 +1,9 @@
-Traduisez instantanément le tableau de bord administrateur OneSignal en neuf langues (japonais, espagnol, portugais, coréen, français, turc, chinois simplifié, chinois traditionnel et indonésien) sans quitter Chrome.
+Traduisez instantanément le tableau de bord administrateur OneSignal en dix langues (japonais, espagnol, portugais, coréen, français, turc, chinois simplifié, chinois traditionnel, indonésien et malais) sans quitter Chrome.
 
 Cette extension localise toute l'interface OneSignal (menus, boutons, libellés, badges de statut, modales, graphiques et textes) dans la langue de votre choix en un clic. Conçue pour les professionnels du marketing, product managers et équipes des opérations CRM qui gèrent des campagnes de notifications push, email, SMS et messages in-app via OneSignal sur des marchés non anglophones.
 
 ✦ LANGUES PRISES EN CHARGE
-Chaque langue couvre l'intégralité du tableau de bord — plus de 1 700 chaînes plus 98 motifs dynamiques pour les formats de date, les compteurs, les pourcentages et les libellés de temps relatif :
+Chaque langue couvre l'intégralité du tableau de bord — plus de 1 900 chaînes plus 99 motifs dynamiques pour les formats de date, les compteurs, les pourcentages et les libellés de temps relatif :
 • Japonais (日本語)
 • Espagnol (Español, neutre pour l'Amérique latine)
 • Portugais (Português Brasileiro / pt-BR)
@@ -13,6 +13,7 @@ Chaque langue couvre l'intégralité du tableau de bord — plus de 1 700 chaîn
 • Chinois simplifié (简体中文)
 • Chinois traditionnel, HK (繁體中文)
 • Indonésien (Bahasa Indonesia)
+• Malais (Bahasa Melayu)
 
 ✦ COMMENT ÇA MARCHE
 1. Installez l'extension et épinglez-la à votre barre d'outils Chrome.
