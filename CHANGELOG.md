@@ -7,6 +7,31 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
+## [1.11.1] — 2026-06-24
+
+### Added
+
+- **Malay (`ms`) store listing** (`store-listing/ms.md`) — Web Store
+  long-form description in Bahasa Melayu following style/ms.md
+  conventions (Anda formal address, Latin channel/feature names,
+  marketer loanwords).
+
+### Changed
+
+- **All store listings now mention ten languages.** Each localized
+  Web Store description (`en`, `es`, `fr`, `id`, `ja`, `ko`, `pt_BR`,
+  `tr`, `zh_CN`, `zh_TW`) updated to add Malay to the language
+  count, native exonym in the bullet list, and bump the coverage
+  blurb from "1,700 dashboard strings plus 98 dynamic patterns" to
+  the current "1,900 strings plus 99 patterns".
+- **All 10 short descriptions (`_locales/<lang>/messages.json`
+  `extDescription`) now list Malay.** Native exonym per locale
+  (Malayca/malayo/malais/말레이어/マレー語/Melayu/Malay/etc.).
+  Chrome Web Store 132-char cap honored — en (130) and id (132)
+  are near the cap; en restructured to drop "the" prefix; fr
+  restructured to drop "le tableau de bord" prefix (refers to
+  OneSignal directly). Other locales fit comfortably.
+
 ## [1.11.0] — 2026-06-24
 
 ### Added
