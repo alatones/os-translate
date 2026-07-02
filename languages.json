@@ -23699,6 +23699,210 @@
       "zh-TW": "過去 60 天的訊息事件",
       "id": "Event pesan dalam 60 hari terakhir",
       "ms": "Event mesej dalam 60 hari terakhir"
+    },
+    "Reset": {
+      "ja": "リセット",
+      "es": "Restablecer",
+      "pt": "Redefinir",
+      "ko": "재설정",
+      "fr": "Réinitialiser",
+      "tr": "Sıfırla",
+      "zh-CN": "重置",
+      "zh-TW": "重設",
+      "id": "Atur ulang",
+      "ms": "Tetap semula"
+    },
+    "Rename": {
+      "ja": "名前を変更",
+      "es": "Renombrar",
+      "pt": "Renomear",
+      "ko": "이름 변경",
+      "fr": "Renommer",
+      "tr": "Yeniden adlandır",
+      "zh-CN": "重命名",
+      "zh-TW": "重新命名",
+      "id": "Ganti nama",
+      "ms": "Namakan semula"
+    },
+    "Emoji": {
+      "ja": "絵文字",
+      "es": "Emoji",
+      "pt": "Emoji",
+      "ko": "이모지",
+      "fr": "Emoji",
+      "tr": "Emoji",
+      "zh-CN": "表情符号",
+      "zh-TW": "表情符號",
+      "id": "Emoji",
+      "ms": "Emoji"
+    },
+    "Within": {
+      "ja": "以内",
+      "es": "Dentro de",
+      "pt": "Dentro de",
+      "ko": "이내",
+      "fr": "Dans",
+      "tr": "İçinde",
+      "zh-CN": "在...之内",
+      "zh-TW": "在...之內",
+      "id": "Dalam",
+      "ms": "Dalam"
+    },
+    "Weeks": {
+      "ja": "週間",
+      "es": "Semanas",
+      "pt": "Semanas",
+      "ko": "주",
+      "fr": "Semaines",
+      "tr": "Hafta",
+      "zh-CN": "周",
+      "zh-TW": "週",
+      "id": "Minggu",
+      "ms": "Minggu"
+    },
+    "Updated": {
+      "ja": "更新済み",
+      "es": "Actualizado",
+      "pt": "Atualizado",
+      "ko": "업데이트됨",
+      "fr": "Mis à jour",
+      "tr": "Güncellendi",
+      "zh-CN": "已更新",
+      "zh-TW": "已更新",
+      "id": "Diperbarui",
+      "ms": "Dikemas kini"
+    },
+    "Included": {
+      "ja": "含む",
+      "es": "Incluido",
+      "pt": "Incluído",
+      "ko": "포함됨",
+      "fr": "Inclus",
+      "tr": "Dahil",
+      "zh-CN": "已包含",
+      "zh-TW": "已包含",
+      "id": "Termasuk",
+      "ms": "Termasuk"
+    },
+    "Excluded:": {
+      "ja": "除外:",
+      "es": "Excluido:",
+      "pt": "Excluído:",
+      "ko": "제외됨:",
+      "fr": "Exclu :",
+      "tr": "Hariç:",
+      "zh-CN": "已排除：",
+      "zh-TW": "已排除：",
+      "id": "Dikecualikan:",
+      "ms": "Dikecualikan:"
+    },
+    "Started:": {
+      "ja": "開始:",
+      "es": "Iniciado:",
+      "pt": "Iniciado:",
+      "ko": "시작됨:",
+      "fr": "Démarré :",
+      "tr": "Başladı:",
+      "zh-CN": "已开始：",
+      "zh-TW": "已開始：",
+      "id": "Dimulai:",
+      "ms": "Bermula:"
+    },
+    "Completed:": {
+      "ja": "完了:",
+      "es": "Completado:",
+      "pt": "Concluído:",
+      "ko": "완료됨:",
+      "fr": "Terminé :",
+      "tr": "Tamamlandı:",
+      "zh-CN": "已完成：",
+      "zh-TW": "已完成：",
+      "id": "Selesai:",
+      "ms": "Selesai:"
+    },
+    "Activated": {
+      "ja": "有効化済み",
+      "es": "Activado",
+      "pt": "Ativado",
+      "ko": "활성화됨",
+      "fr": "Activé",
+      "tr": "Etkinleştirildi",
+      "zh-CN": "已激活",
+      "zh-TW": "已啟用",
+      "id": "Diaktifkan",
+      "ms": "Diaktifkan"
+    },
+    "Condition": {
+      "ja": "条件",
+      "es": "Condición",
+      "pt": "Condição",
+      "ko": "조건",
+      "fr": "Condition",
+      "tr": "Koşul",
+      "zh-CN": "条件",
+      "zh-TW": "條件",
+      "id": "Kondisi",
+      "ms": "Syarat"
+    },
+    "Insert...": {
+      "ja": "挿入...",
+      "es": "Insertar...",
+      "pt": "Inserir...",
+      "ko": "삽입...",
+      "fr": "Insérer…",
+      "tr": "Ekle...",
+      "zh-CN": "插入...",
+      "zh-TW": "插入...",
+      "id": "Sisipkan...",
+      "ms": "Sisipkan..."
+    },
+    "Sending...": {
+      "ja": "送信中...",
+      "es": "Enviando...",
+      "pt": "Enviando...",
+      "ko": "전송 중...",
+      "fr": "Envoi…",
+      "tr": "Gönderiliyor...",
+      "zh-CN": "发送中...",
+      "zh-TW": "傳送中...",
+      "id": "Mengirim...",
+      "ms": "Menghantar..."
+    },
+    "Submitting...": {
+      "ja": "送信中...",
+      "es": "Enviando...",
+      "pt": "Enviando...",
+      "ko": "제출 중...",
+      "fr": "Soumission…",
+      "tr": "Gönderiliyor...",
+      "zh-CN": "提交中...",
+      "zh-TW": "提交中...",
+      "id": "Mengirim...",
+      "ms": "Menghantar..."
+    },
+    "Unsubscribes": {
+      "ja": "配信停止",
+      "es": "Cancelaciones",
+      "pt": "Cancelamentos",
+      "ko": "구독 취소",
+      "fr": "Désabonnements",
+      "tr": "Abonelikten çıkanlar",
+      "zh-CN": "取消订阅",
+      "zh-TW": "取消訂閱",
+      "id": "Berhenti berlangganan",
+      "ms": "Berhenti melanggan"
+    },
+    "View note": {
+      "ja": "メモを表示",
+      "es": "Ver nota",
+      "pt": "Ver nota",
+      "ko": "메모 보기",
+      "fr": "Voir la note",
+      "tr": "Notu görüntüle",
+      "zh-CN": "查看备注",
+      "zh-TW": "檢視備註",
+      "id": "Lihat catatan",
+      "ms": "Lihat nota"
     }
   },
   "patterns": [
@@ -25185,6 +25389,36 @@
         "zh-TW": "卡片 {1}",
         "id": "Kartu {1}",
         "ms": "Kartu {1}"
+      }
+    },
+    {
+      "match": "^Yes \\(([\\d,]+)\\)$",
+      "translations": {
+        "ja": "はい ({1})",
+        "es": "Sí ({1})",
+        "pt": "Sim ({1})",
+        "ko": "예 ({1})",
+        "fr": "Oui ({1})",
+        "tr": "Evet ({1})",
+        "zh-CN": "是 ({1})",
+        "zh-TW": "是 ({1})",
+        "id": "Ya ({1})",
+        "ms": "Ya ({1})"
+      }
+    },
+    {
+      "match": "^No \\(([\\d,]+)\\)$",
+      "translations": {
+        "ja": "いいえ ({1})",
+        "es": "No ({1})",
+        "pt": "Não ({1})",
+        "ko": "아니오 ({1})",
+        "fr": "Non ({1})",
+        "tr": "Hayır ({1})",
+        "zh-CN": "否 ({1})",
+        "zh-TW": "否 ({1})",
+        "id": "Tidak ({1})",
+        "ms": "Tidak ({1})"
       }
     }
   ]
