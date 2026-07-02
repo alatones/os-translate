@@ -7,6 +7,41 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
+## [1.11.2] — 2026-07-01
+
+### Added
+
+- **17 new UI string translations across 10 languages**, from the
+  v1.9.1 ledger pass — the legitimate UI signal from a batch that
+  was otherwise dominated by 1-install noise (UGC app names, device
+  models, count-suffixed filter values). New: `Reset`, `Rename`,
+  `Emoji`, `Within`, `Weeks`, `Updated`, `Included`, `Excluded:`,
+  `Started:`, `Completed:`, `Activated`, `Condition`, `Insert...`,
+  `Sending...`, `Submitting...`, `Unsubscribes`, `View note`.
+- **`Yes (N)` / `No (N)` filter-facet count patterns.** Segment and
+  filter facets render boolean-property counts like `Yes (7,522)` /
+  `No (55)`, where the Yes/No word is UI and the count is dynamic —
+  same shape as the existing `Active (N)` / `All (N)` family, so
+  handled as patterns rather than filtered out. Count capture group
+  is `[\d,]+` to accept comma-formatted values (the ledger showed
+  counts up to `Yes (2,481,303)`). Word translations reuse the
+  existing `Yes` / `No` dictionary entries. Clears 53 `Yes (N)` +
+  4 `No (N)` ledger rows next sweep.
+
+### Notes (deferred)
+
+- **Non-breaking-space (`\xa0`) normalization** — the ledger surfaced
+  gamification/motivational banner strings rendered with U+00A0
+  instead of regular spaces. `content.js` `normalizeQuotes` handles
+  curly quotes but not nbsp, so nbsp-rendered dictionary strings can
+  silently miss. Deferred: the specific strings that surfaced are
+  end-user message content (they appear in EN/ES/PT — customer copy,
+  not dashboard chrome), so they're out of scope for translation, and
+  fixing nbsp normalization wouldn't clear them from the ledger
+  (`trackMissed` logs the raw string, and they aren't dictionary
+  entries). Revisit if a genuine dashboard-chrome string is found
+  missing due to nbsp.
+
 ## [1.11.1] — 2026-06-24
 
 ### Added
