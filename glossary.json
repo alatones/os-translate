@@ -857,7 +857,8 @@
         "envoyés",
         "envoyées",
         "enverra",
-        "enverront"
+        "enverront",
+        "enverrons"
       ],
       "tr": [
         "Gönder",
@@ -1139,7 +1140,8 @@
       "_skip_keys": [
         "To manage what days and times this message sends at, add a",
         "No groups created. Create a group to add notification channels",
-        "When we receive opt-out keywords, we'll automatically add the user to the phone number or message service's blocklist."
+        "When we receive opt-out keywords, we'll automatically add the user to the phone number or message service's blocklist.",
+        "We'll send them what they need to add the DNS records for this domain."
       ],
       "zh-TW": "新增",
       "id": "Tambah",
@@ -1182,7 +1184,8 @@
     },
     "Update": {
       "_skip_keys": [
-        "Live Activities Push-to-Update"
+        "Live Activities Push-to-Update",
+        "Unless you already have MX records for this domain pointing to another email provider, you should update the following records"
       ],
       "ja": "更新",
       "es": [
@@ -1773,7 +1776,8 @@
         "4. Delivery Schedule",
         "5. Delivery Schedule",
         "Delivery schedule",
-        "Delivery Schedule"
+        "Delivery Schedule",
+        "4. Delivery schedule"
       ],
       "note": "es: Two stacked rules from the Chilean Spanish reviewer. (1) KPI/feature labels stay Latin: 'Delivery Rate', 'Intelligent Delivery', 'Delivery time', 'Delivery Schedule'. (2) Status / count / event labels use the 'Entrega/Entregado' family — preserves the Sent (Enviado) vs. Delivered (Entregado) distinction that exists in the product. The verb 'entregar' and body-copy noun 'entrega' translate normally; multiple forms are listed as acceptable here so the validator accepts whichever fits the context. Latin 'Delivery' kept in the alt list so the four locked compounds (Delivery Rate, etc.) still pass the parent check. tr: bare 'Delivery' (menu item) and 'Close Delivery menu' (its aria-label) are exempted via _skip_keys — the Turkish reviewer renamed the menu to 'Bildirim Geçmişi' (Notification History) to describe what the page actually shows.",
       "fr": [
