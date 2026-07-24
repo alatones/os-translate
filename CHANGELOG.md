@@ -7,6 +7,58 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
+## [1.12.0] — 2026-07-24
+
+### Added
+
+- **83 new UI string translations across all 10 languages**, from the
+  v1.11.2 ledger pass (2+ installs — a high-signal batch). Three
+  entirely new dashboard surfaces surfaced:
+  - **Login / auth page** (15 strings): `Log in to Your Account`,
+    `Log in with Google` / `GitHub` / `Facebook` / `Email` /
+    `Single Sign-On (SSO)`, `Stay logged in`, `Forgot password?`,
+    `Sign up.`, `Don't have an account?`, `Return to login`,
+    `Terms of Service`, `Privacy Policy`, `OneSignal homepage`,
+    `reCAPTCHA`.
+  - **Email domain / sender setup** (22 strings): `SPF & DKIM`,
+    `TXT`, `CNAME`, `Hostname`, `Domain records`, `Record status`,
+    `Check records`, `Add sender`, `Add from address`, `From
+    addresses`, `Reply-to`, `Provider`, `Authenticated`, `Send with
+    Auto Warm Up`, `Preheader text`, and 4 DNS-instruction sentences.
+  - **Date picker** (8 strings): `Open date picker`, `Date picker
+    calendar`, `Select year` / `month`, `Previous` / `Next month`,
+    `Date and time`, `or enter a date (mm/dd/yyyy --:-- --)`.
+  - **Assorted UI** (36 strings): `Send message`, `Leave feedback`,
+    `History`, `Expand`, `Drag to resize` (+ panel), `AI settings`,
+    `User tags`, `Usage Duration`, `SDK Version`, `Email address`,
+    `Edit in user profile`, `Campaign name`, `Brand kit`, `Advanced
+    settings`, `Activity timeline`, `All message types`, `Unique
+    Clicks`, `Reported spam`, the four `Remove … filter` chips,
+    `All channels`, `Select segment...`, `3 Days`, `Expires in 1
+    Day`, `4. Delivery schedule`, `BCC`, `Timezone fallback`,
+    `Created via API`, `Try refining your search query.`, three
+    delivery-strategy descriptions, and more.
+  - **Announcement banners** (2 strings, time-limited): `Data
+    collection starts June 25, 2026`, `Sessions move to Conversions
+    June 25, 2026`.
+
+- **Chart-accessibility ledger filter** — `MISSED_CHART_META_RE`
+  extended to catch `Bar chart with N data series.` (5 installs, 13
+  paths) and `X, bar series N of M with K bars.` (Direct / Influenced
+  / Unattributed session variants). Matches the existing precedent of
+  filtering Highcharts screen-reader text rather than translating it.
+
+### Notes
+
+- Skipped as out-of-scope: UGC (app/org/person names like `Ana Demo
+  App`, `Martin Elizalde`), literal DNS record values (`v=spf1 …`,
+  `mxa.onesignal.email`), and sentence fragments.
+- Malay translations conform to the seeded glossary locks (Sender =
+  `Pengirim`, Campaign = `Kampanye`, Remove = `Padam`, Edit = `Edit`)
+  rather than more natural Malay forms (`penghantar`, `kempen`, `alih
+  keluar`, `sunting`) — kept internally consistent for the first
+  draft; naturalizations are a native-review-pass item.
+
 ## [1.11.2] — 2026-07-01
 
 ### Added
