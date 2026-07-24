@@ -63,7 +63,7 @@
   // 'May 8', 'Apr 28', 'January 14'. Highcharts emits these as x-axis
   // ticks. Distinct from MISSED_CHART_DATA_RE which requires the year.
   const MISSED_BARE_MONTH_DAY_RE = /^(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec|January|February|March|April|May|June|July|August|September|October|November|December)\s\d{1,2}$/;
-  const MISSED_CHART_META_RE = /^(Line chart with|The chart has \d|Created with Highcharts|Chart\. Highcharts|Toggle series visibility|End of interactive chart\.|Interactive chart$|Empty chart$|Chart with \d+ data points?\.$|.+, line \d+ of \d+ with \d+ data points\.)/;
+  const MISSED_CHART_META_RE = /^(Line chart with|Bar chart with \d+ data series?\.$|The chart has \d|Created with Highcharts|Chart\. Highcharts|Toggle series visibility|End of interactive chart\.|Interactive chart$|Empty chart$|Chart with \d+ data points?\.$|.+, line \d+ of \d+ with \d+ data points\.|.+, bar series \d+ of \d+ with \d+ bars?\.)/;
   // Chart y-axis numeric labels with magnitude suffix: '40.0k', '1.6M',
   // '500.0k', '7.0k'. Always digits + optional decimals + k/M/B. Not UGC
   // and not translatable copy — pure chart chrome.
