@@ -7,6 +7,44 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
+## [1.12.1] — 2026-07-28
+
+### Added
+
+- **37 new Brand Kit UI strings across all 10 languages**, from the
+  `/apps/:id/settings/brand-kit` ledger — the new Brand Kit page:
+  - Nav / sections: `Brand Kit`, `Basics`, `Voice and tone`,
+    `Visual assets`.
+  - Labels: `Logos, colors, fonts`, `Logos`, `Logo`, `Fonts`,
+    `Colors`, `Primary font`, `Secondary font`, `Primary audience`,
+    `Industry`, `Language to avoid`.
+  - Buttons: `Add logo` / `font` / `color`, `Generate brand from
+    website`, `Select industry...`, `Learn more`, `Maybe Later`,
+    `Brand kit documentation`.
+  - Body copy: `Use sliders to describe your brand voice`, `Manage
+    your brand identity…`, `Set your primary and secondary logos…`,
+    `These brand inputs will also be used by OneSignal AI…`, `Specify
+    tones and terminology…`, `Specify age, interests, demographics…`,
+    `Describe in your own words`.
+  - Loading state: `Tailoring your preview text…`.
+  - Voice/tone slider adjectives: `Urgent`, `Serious`, `Playful`,
+    `Measured`, `Friendly`, `Casual`, `Authoritative`.
+
+### Notes
+
+- Skipped as out-of-scope: rendered email-preview sample content
+  (`Unlock Your 20% Discount`, `EXCLUSIVE MEMBER PERK`, `Claim
+  Offer`, `Action 1`/`2`, etc.), font family names (`Georgia`,
+  `Arial`), technical/fragment leaks (`brand_assets.colors.`,
+  `#98A1A9`), and illustrative example inputs.
+- `Professional` deliberately not translated: it's a voice/tone
+  slider adjective here, but the exact-match dictionary would also
+  translate the billing plan-tier name of the same spelling, which
+  stays English. The other 7 tone adjectives are unambiguous.
+- `validate.py` `SKIP_PAIRS` gained `("Logos", "Logo")` — Indonesian
+  and Malay don't pluralize the loanword, so plural `Logos` collapses
+  to `Logo` (itself a source key).
+
 ## [1.12.0] — 2026-07-24
 
 ### Added
