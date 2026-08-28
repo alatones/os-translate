@@ -84,7 +84,12 @@
   // 'Samsung Galaxy Tab A8 (14)', 'Redmi Note 14 (15)', 'Motorola moto g05 (15)'.
   // Distinct from MISSED_DEVICE_VERSION_RE which requires multi-part versions.
   // These are pulled from analytics user-agent fingerprints, never UI strings.
-  const MISSED_MOBILE_DEVICE_RE = /^(Samsung|Redmi|Xiaomi|Motorola|Google|Apple|OnePlus|Realme|Oppo|Vivo|Huawei|Nokia|Sony|LG)\s.+\s\(\d{1,3}\)$/i;
+  // Also catches bare vendor model codes with no brand-name prefix:
+  // 'SM-S948B (16)' (Samsung), 'CPH2451 (14)' (OPPO), 'V2312A (15)' (vivo).
+  // Shape: 1-3 uppercase letters, optional hyphen, then alphanumerics —
+  // matched case-sensitively inside the alternation so ordinary
+  // capitalized words ('Home (3)') don't qualify.
+  const MISSED_MOBILE_DEVICE_RE = /^(?:(?:[Ss]amsung|[Rr]edmi|[Xx]iaomi|[Mm]otorola|[Gg]oogle|[Aa]pple|[Oo]ne[Pp]lus|[Rr]ealme|[Oo]ppo|[Vv]ivo|[Hh]uawei|[Nn]okia|[Ss]ony|LG)\s.+|[A-Z]{1,3}-?[A-Z0-9]*[0-9][A-Z0-9]*)\s\(\d{1,3}\)$/;
   // Integration-marketplace descriptions: marketing copy describing each
   // 3rd-party data source. Always starts with the brand name and includes
   // 'is a/an' or 'provides' / 'offers' / 'turns' / 'helps' — verbose copy
@@ -106,7 +111,10 @@
   // probe, and Claude in Chrome — a browser-extension overlay that
   // injects 'Claude is active in this tab group' and 'Open chat' into
   // pages it's active on. Those aren't OneSignal UI.
-  const MISSED_THIRD_PARTY_RE = /^(Intercom|Open Intercom Messenger|_hjSafeContext|Claude is active in this tab group|Open chat)$/;
+  // 'Intercom ...' matches any label the widget prefixes with its brand
+  // name ('Intercom Live Chat', 'Intercom live chat tour') — all of it is
+  // their chrome, none of it ours to translate.
+  const MISSED_THIRD_PARTY_RE = /^(Intercom\b.*|Open Intercom Messenger|_hjSafeContext|Claude is active in this tab group|Open chat)$/;
   // Bare OneSignal brand references that show up across many pages
   // (footers, links, version strings) and aren't translatable copy.
   // Compound feature names like "OneSignal AI" / "OneSignal ID" are

@@ -7,6 +7,61 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
+## [1.12.2] — 2026-08-27
+
+### Added
+
+- **38 new UI string translations across all 10 languages**, from the
+  v1.12.1 ledger (2+ installs). The AI assistant is now the
+  highest-traffic new surface in the ledger (5-6 installs, 7-12 paths
+  per string):
+  - **AI assistant entry points** (12): `Ask OneSignal AI`, `Ask
+    anything about your app...`, `What can you help me with?`,
+    `Create a segment`, `Create a Journey`, `How are my notifications
+    doing?`, `Recent conversations`, `Let's get started.`, `Attach a
+    file`, `Remove page context`, `added to context`, `Expand to full
+    page`. Completes the feature begun in the June sweep, which
+    covered the status spinners and chat surface.
+  - **Nav / high-traffic** (4): `Home` (198 hits across 15 paths),
+    `Events & Conversions`, `Languages`, `Good afternoon`.
+  - **In-app message builder** (11): `Carousel`, `Single full`,
+    `Text 2`, `Size`, `Display margin around message card`,
+    `Displayed columns`, `Displayed from`, and the four `Remove <X>
+    filter` chips.
+  - **Journey / segment builder** (7): `Trigger group 1`, `Any
+    trigger group is satisfied`, `All conditions met`, `No events in
+    last 7 days`, `Message events in last 7 days`, and two
+    segment-description sentences.
+  - **Email sender fields** (3): `Sender name`, `Sender email`,
+    `Reply-to email`.
+  - **Status** (1): `Created via Dashboard`.
+
+- **Two ledger-noise filter fixes** in `content.js`:
+  - `MISSED_MOBILE_DEVICE_RE` gained a branch for bare vendor model
+    codes with no brand-name prefix — `SM-S948B (16)` (Samsung), and
+    by extension `CPH2451 (14)` (OPPO), `V2312A (15)` (vivo). The
+    branch requires at least one digit and is case-sensitive so it
+    can't swallow real UI like `Home (3)` or `All (5)`; the
+    brand-name alternation keeps its case-insensitivity via explicit
+    character classes.
+  - `MISSED_THIRD_PARTY_RE` widened from bare `Intercom` to
+    `Intercom\b.*`, catching the widget's compound labels (`Intercom
+    Live Chat`, `Intercom live chat tour`) without swallowing
+    unrelated words like `Intercompany report`.
+
+  17/17 smoke tests pass, including the false-positive guards.
+
+### Notes
+
+- Skipped as out-of-scope: UGC Journey/app names (`New Journey
+  2026-07-XX` ×6, `Abandoned Cart Journey`, `Porty Onboarding`,
+  `scarlett`, etc.), the locale label `Brazil (BR)`, the placeholder
+  `abc def ghi jkl mno pqr stu`, and the fragment `apply.`.
+- Malay `Create a segment` / `Create a Journey` use `Buat` per the
+  seeded glossary lock; natural Malay would be `Cipta`. Same
+  conformance call as the July sweep — still a native-review-pass
+  candidate.
+
 ## [1.12.1] — 2026-07-28
 
 ### Added
