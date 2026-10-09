@@ -7,6 +7,54 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
+## [1.13.0] — 2026-10-09
+
+### Changed
+
+- **Capitalization changes no longer break translations.** OneSignal
+  moved much of the dashboard to sentence case (`Data Feeds` →
+  `Data feeds`, `Event Streams` → `Event streams`, `Save & Close` →
+  `Save & close`), which made existing translations stop matching.
+  Lookup now falls back to a case-insensitive match. That restores
+  19 strings from the October ledger, including most of the new nav
+  sidebar, and will cover future case changes automatically. ALL-CAPS
+  SMS keywords (`STOP`, `CANCEL`, `YES`) still stay English.
+- **Extra spaces no longer break translations.** Journey report charts
+  label single-digit days with a double space (`Aug  1`), so days 1–9
+  stayed in English while 10–31 translated. They now translate.
+- **Two existing translations now work**: `Don't have an account?` (on
+  the login page) and the in-app opt-in prompt template description.
+  Both were stored with curly apostrophes and never matched before.
+
+### Added
+
+- **52 new UI string translations and 9 patterns across all 10
+  languages**, from the October ledger (2+ installs):
+  - **Nav and Home** (8): `Collapse`, `All messages`, `sent messages`,
+    `Users & subscriptions`, `Retention`, `Deliverability insights`,
+    `Good morning`, `Good evening`.
+  - **Organization settings** (7): `New Organization`, `Organization
+    settings` / `members` / `apps`, `Back to organizations`,
+    `Security`, `App roles`.
+  - **Journey version history** (4): `Version history`, `Search
+    versions...`, `No versions have been saved yet.`, and the
+    autosave explainer, plus the docs link.
+  - **AI assistant** (4): `Thumbs up`, `Thumbs down`, `Copy response`,
+    `Thinking...`.
+  - **Messages and templates**: `Edit Push Template`, `Send test
+    message`, `Manage Test Subscriptions`, `Preview personalization`,
+    `Notification media attachment`, `Started sending`, `Started
+    showing`, `Messages being sent`, and the Messages empty state.
+  - **Analytics and filters**: `Unique Clicks:`, `Mobile Monthly Active
+    Users`, `Free`, `Properties`, `No change`, `Search filters`, `Pick
+    any filter to start`, and more.
+  - **Patterns**: relative times (`3m ago`, `31s ago`), durations
+    (`30 Minutes`, `2 Days`, `12min`), `Button 2`, `previous 30 days`,
+    `0% of sent messages were delivered`.
+- **Fewer junk ledger rows**: chart screen-reader labels (`Email, 0.
+  Total.`), stat values (`12.4% (1.4k)`), and the `#RRGGBB` / `(UTC)`
+  format hints no longer get reported.
+
 ## [1.12.2] — 2026-08-27
 
 ### Added

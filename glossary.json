@@ -926,7 +926,8 @@
       ],
       "id": [
         "Terkirim",
-        "terkirim"
+        "terkirim",
+        "dikirim"
       ],
       "_skip_keys": [
         "Insert real-time, dynamic content from your data feeds directly into the template at the time of sending. This feature only applies to templates sent through Journeys.",
