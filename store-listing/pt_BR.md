@@ -3,7 +3,7 @@ Traduza o painel administrativo do OneSignal para dez idiomas instantaneamente (
 Esta extensão localiza toda a interface do OneSignal (menus, botões, rótulos, badges de status, modais, gráficos e textos) para o idioma escolhido com um clique. Desenvolvida para profissionais de marketing, product managers e times de operações de CRM que executam campanhas de notificações push, email, SMS e mensagens in-app pelo OneSignal em mercados que não falam inglês.
 
 ✦ IDIOMAS DISPONÍVEIS
-Cada idioma vem com cobertura completa — mais de 1.900 strings do painel além de 99 padrões dinâmicos para formatos de data, contagens, porcentagens e rótulos de tempo relativo:
+Cada idioma vem com cobertura completa — mais de 2.200 strings do painel além de 110 padrões dinâmicos para formatos de data, contagens, porcentagens e rótulos de tempo relativo:
 • Japonês (日本語)
 • Espanhol (Español, neutro para a América Latina)
 • Português (Português Brasileiro / pt-BR)

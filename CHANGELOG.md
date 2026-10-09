@@ -7,6 +7,21 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
+## [1.13.1] — 2026-10-09
+
+### Changed
+
+- **Malay core terminology approved by a native reviewer.** Natasha
+  approved the ~40 highest-impact Malay terms as-is: buttons, status
+  labels, Malay-over-Indonesian word choices, and keeping OneSignal
+  product names in English. The approved list is recorded in
+  `style/ms.md`.
+- **Malay "minute" fixed.** 12 strings used the Indonesian `menit`;
+  they now use the Malay `minit` (e.g. `5 minit`, `Mesej per minit`,
+  `3 minit yang lalu`).
+- **Web Store listings show current coverage** in all 11 languages:
+  over 2,200 strings and 110 patterns (previously 1,900 and 99).
+
 ## [1.13.0] — 2026-10-09
 
 ### Changed

@@ -3,7 +3,7 @@ OneSignal yönetim panosunu Chrome'dan ayrılmadan on dile (Japonca, İspanyolca
 Bu uzantı, OneSignal arayüzünün tamamını (menüler, düğmeler, etiketler, durum rozetleri, modallar, grafikler ve metinler) tek bir tıklamayla seçtiğiniz dile yerelleştirir. İngilizce konuşulmayan pazarlarda OneSignal üzerinden push bildirimleri, Email, SMS ve uygulama içi mesajlaşma kampanyaları yürüten pazarlama profesyonelleri, ürün yöneticileri ve CRM operasyon ekipleri için tasarlanmıştır.
 
 ✦ DESTEKLENEN DİLLER
-Her dil panonun tamamını kapsar — 1.900'den fazla pano dizesi ve tarih formatları, sayılar, yüzdeler ve göreli zaman etiketleri için 99 dinamik desen:
+Her dil panonun tamamını kapsar — 2.200'den fazla pano dizesi ve tarih formatları, sayılar, yüzdeler ve göreli zaman etiketleri için 110 dinamik desen:
 • Japonca (日本語)
 • İspanyolca (Español, Latin Amerika için tarafsız)
 • Portekizce (Português Brasileiro / pt-BR)

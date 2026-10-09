@@ -3,7 +3,7 @@ Terjemahkan dashboard admin OneSignal ke dalam sepuluh bahasa secara instan (Jep
 Ekstensi ini melokalkan seluruh antarmuka OneSignal (menu, tombol, label, lencana status, modal, bagan, dan teks) ke dalam bahasa pilihan Anda dengan satu klik. Dibuat untuk marketer, product manager, dan profesional CRM operations yang menjalankan kampanye push notification, email, SMS, dan in-app messaging melalui OneSignal di pasar non-berbahasa Inggris.
 
 ✦ BAHASA YANG DIDUKUNG
-Setiap bahasa hadir dengan cakupan penuh — lebih dari 1.900 string dashboard plus 99 pola dinamis untuk format tanggal, jumlah, persentase, dan label waktu relatif:
+Setiap bahasa hadir dengan cakupan penuh — lebih dari 2.200 string dashboard plus 110 pola dinamis untuk format tanggal, jumlah, persentase, dan label waktu relatif:
 • Jepang (日本語)
 • Spanyol (Español, netral LATAM)
 • Portugis (Português Brasileiro / pt-BR)
