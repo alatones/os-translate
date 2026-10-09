@@ -3,7 +3,7 @@ Translate the OneSignal admin dashboard into ten languages instantly (Japanese, 
 This extension localizes the entire OneSignal interface (menus, buttons, labels, status badges, modals, charts, and copy) into your chosen language with one click. Built for marketers, product managers, and CRM operations professionals running push notification, email, SMS, and in-app messaging campaigns through OneSignal in non-English-speaking markets.
 
 ✦ SUPPORTED LANGUAGES
-Each language ships at full coverage — over 1,900 dashboard strings plus 99 dynamic patterns for date formats, counts, percentages, and time-ago labels:
+Each language ships at full coverage — over 2,200 dashboard strings plus 110 dynamic patterns for date formats, counts, percentages, and time-ago labels:
 • Japanese (日本語)
 • Spanish (Español, LATAM-neutral)
 • Portuguese (Português Brasileiro / pt-BR)

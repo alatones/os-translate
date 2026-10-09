@@ -13222,7 +13222,7 @@
       "zh-CN": "每分钟 5 条",
       "zh-TW": "每分鐘 5 條",
       "id": "5 per menit",
-      "ms": "5 per menit"
+      "ms": "5 per minit"
     },
     "Accent Color": {
       "ja": "アクセントカラー",
@@ -13978,7 +13978,7 @@
       "zh-CN": "分钟",
       "zh-TW": "分鐘",
       "id": "menit",
-      "ms": "menit"
+      "ms": "minit"
     },
     "or paste URL to image, sound, video": {
       "ja": "または画像、音声、動画のURLを貼り付け",
@@ -15706,7 +15706,7 @@
       "zh-CN": "每分钟）",
       "zh-TW": "每分鐘）",
       "id": "per menit)",
-      "ms": "per menit)"
+      "ms": "per minit)"
     },
     "Drive more engagement with additional automations, channels, and features in Journeys.": {
       "ja": "ジャーニーの追加の自動化、チャネル、機能でエンゲージメントを高めます。",
@@ -16222,7 +16222,7 @@
       "zh-CN": "每分钟消息数",
       "zh-TW": "每分鐘訊息數",
       "id": "Pesan per menit",
-      "ms": "Mesej per menit"
+      "ms": "Mesej per minit"
     },
     "Save UTM Settings": {
       "ja": "UTM設定を保存",
@@ -19642,7 +19642,7 @@
       "zh-CN": "分钟前",
       "zh-TW": "分鐘前",
       "id": "menit yang lalu",
-      "ms": "menit yang lalu"
+      "ms": "minit yang lalu"
     },
     "weeks ago": {
       "ja": "週間前",
@@ -21238,7 +21238,7 @@
       "zh-CN": "每分钟限制约 1,000 条",
       "zh-TW": "每分鐘限制約 1,000 條",
       "id": "Batas ~1.000 per menit",
-      "ms": "Batas ~1.000 per menit"
+      "ms": "Batas ~1.000 per minit"
     },
     "Audience counts may differ from delivery metrics": {
       "ja": "オーディエンス数は配信指標と異なる場合があります",
@@ -22234,7 +22234,7 @@
       "zh-CN": "5 分钟",
       "zh-TW": "5 分鐘",
       "id": "5 menit",
-      "ms": "5 menit"
+      "ms": "5 minit"
     },
     "1 Hour": {
       "ja": "1 時間",
@@ -26468,7 +26468,7 @@
         "zh-CN": "{1} 分钟",
         "zh-TW": "{1} 分鐘",
         "id": "{1} menit",
-        "ms": "{1} menit"
+        "ms": "{1} minit"
       }
     },
     {
@@ -26618,7 +26618,7 @@
         "zh-CN": "{1} 分钟前",
         "zh-TW": "{1} 分鐘前",
         "id": "{1} menit yang lalu",
-        "ms": "{1} menit yang lalu"
+        "ms": "{1} minit yang lalu"
       }
     },
     {
@@ -26903,7 +26903,7 @@
         "zh-CN": "限制为每分钟约 {1} 条。",
         "zh-TW": "限制為每分鐘約 {1} 條。",
         "id": "Dengan batas ~{1} per menit.",
-        "ms": "Dengan batas ~{1} per menit."
+        "ms": "Dengan batas ~{1} per minit."
       }
     },
     {
@@ -27353,7 +27353,7 @@
         "zh-CN": "每分钟 {1}）",
         "zh-TW": "每分鐘 {1}）",
         "id": "{1} per menit)",
-        "ms": "{1} per menit)"
+        "ms": "{1} per minit)"
       }
     },
     {
@@ -27443,7 +27443,7 @@
         "zh-CN": "每分钟 {1}",
         "zh-TW": "每分鐘 {1}",
         "id": "{1} per menit",
-        "ms": "{1} per menit"
+        "ms": "{1} per minit"
       }
     },
     {

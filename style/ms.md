@@ -144,6 +144,27 @@ loanword logic applies:
 
 This list will likely grow with the first native review pass.
 
+## Native reviewer sign-off (Natasha, October 2026)
+
+Natasha approved a ~40-term spot check of the highest-impact
+vocabulary, with no changes. This was a spot check, not a full
+review. Treat these as locked:
+
+- **Buttons:** `Simpan`, `Padam`, `Hantar`, `Edit`, `Batalkan`, `Buat`,
+  `Kemas kini`, `Tambah`, `Konfirmasi`, `Cari`. Note that `Edit` and
+  `Buat` are approved over `Sunting` and `Cipta` for glossary-locked
+  buttons.
+- **Status labels:** `Dihantar`, `Gagal`, `Aktif`, `Draf`.
+- **Malay over Indonesian:** `Tetapan`, `Paparkan`, `Butang`, `Tindakan`,
+  `Automatik`, `Kandungan`, `Akaun`, `Log masuk`.
+- **Product terms stay Latin:** Push, Email, SMS, RCS, In-App,
+  Webhook, Journey, Template, Segment, Live Activity, Custom Event,
+  Event Stream, Data Feed, Delivery Rate, Intelligent Delivery,
+  Delivery Schedule, Subscription, Subscriber, Overview, Engagement,
+  drag-and-drop, CTR, CTOR, CRM, HubSpot.
+- **Tone sample approved:** "Memuatkan mesej In-App. Mohon tunggu
+  sebentar..."
+
 ## Length
 
 - Button labels: target ≤ 16 characters. Soft cap 22.
@@ -172,7 +193,7 @@ This list will likely grow with the first native review pass.
   translation exists (`Apple` stays `Apple`, not `Epal`).
 - Don't use Indonesian-specific spellings (`-i-` and `-e-`
   vowel choices sometimes diverge — e.g. id `kebijakan`, ms
-  `dasar` for "policy").
+  `dasar` for "policy"; id `menit`, ms `minit` for "minute").
 - `Anda` is always capitalized mid-sentence per Malay orthography.
 - Avoid heavy use of Arabic-origin formal terms (`merangkumi`,
   `menyebabkan`) in button copy — keep buttons short and direct.

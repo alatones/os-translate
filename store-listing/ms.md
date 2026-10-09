@@ -3,7 +3,7 @@ Terjemahkan dashboard admin OneSignal ke dalam sepuluh bahasa secara serta-merta
 Sambungan ini melokalkan keseluruhan antara muka OneSignal (menu, butang, label, lencana status, modal, carta, dan teks) ke dalam bahasa pilihan Anda dengan satu klik. Dibina untuk pemasar, pengurus produk, dan profesional operasi CRM yang menjalankan kempen push notification, email, SMS, dan in-app messaging melalui OneSignal di pasaran bukan berbahasa Inggeris.
 
 ✦ BAHASA YANG DISOKONG
-Setiap bahasa hadir dengan liputan penuh — lebih daripada 1,900 rentetan dashboard serta 99 corak dinamik untuk format tarikh, kiraan, peratusan, dan label masa relatif:
+Setiap bahasa hadir dengan liputan penuh — lebih daripada 2,200 rentetan dashboard serta 110 corak dinamik untuk format tarikh, kiraan, peratusan, dan label masa relatif:
 • Jepun (日本語)
 • Sepanyol (Español, neutral LATAM)
 • Portugis (Português Brasileiro / pt-BR)
