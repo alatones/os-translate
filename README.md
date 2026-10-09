@@ -54,16 +54,16 @@ Language codes follow ISO 639-1.
 | Code | Language       | Coverage                                  |
 | ---- | -------------- | ----------------------------------------- |
 | `en` | English        | Passthrough (no changes)                  |
-| `ja` | Japanese       | 1,517 terms + 73 patterns                 |
-| `es` | Spanish        | 1,517 terms + 73 patterns (LATAM-neutral) |
-| `pt` | Portuguese     | 1,517 terms + 73 patterns (BR — pt-BR)    |
-| `ko` | Korean         | 1,517 terms + 73 patterns                 |
-| `fr` | French         | 1,517 terms + 73 patterns (vous, infinitive buttons) |
-| `tr` | Turkish        | 1,517 terms + 73 patterns (siz, 2nd-person imperative buttons) |
-| `zh-CN` | Simplified Chinese | 1,517 terms + 73 patterns (Mainland, drop pronouns or 您, bare-verb buttons) |
-| `zh-TW` | Traditional Chinese | 1,517 terms + 73 patterns (書面語, HK-leaning lexicon per reviewer — 儲存/設定/搜尋) |
-| `id` | Indonesian | first-draft (pending native review) — Anda formal address, bare-verb buttons, Latin for product features |
-| `ms` | Malay (Bahasa Melayu) | wiring only — translations land in the next PR; Anda formal address, Latin for product features, divergent vocabulary from id (`Padam`/`Tetapan`/`Hantar`/`Sunting`/`Fail`/`Cipta`) |
+| `ja` | Japanese       | 2,201 terms + 110 patterns                 |
+| `es` | Spanish        | 2,201 terms + 110 patterns (LATAM-neutral) |
+| `pt` | Portuguese     | 2,201 terms + 110 patterns (BR — pt-BR)    |
+| `ko` | Korean         | 2,201 terms + 110 patterns                 |
+| `fr` | French         | 2,201 terms + 110 patterns (vous, infinitive buttons) |
+| `tr` | Turkish        | 2,201 terms + 110 patterns (siz, 2nd-person imperative buttons) |
+| `zh-CN` | Simplified Chinese | 2,201 terms + 110 patterns (Mainland, drop pronouns or 您, bare-verb buttons) |
+| `zh-TW` | Traditional Chinese | 2,201 terms + 110 patterns (書面語, HK-leaning lexicon per reviewer — 儲存/設定/搜尋) |
+| `id` | Indonesian | 2,201 terms + 110 patterns (native reviewer feedback applied; Anda formal address, bare-verb buttons, Latin for product features) |
+| `ms` | Malay (Bahasa Melayu) | 2,201 terms + 110 patterns (first draft, pending native review; Anda formal address, Latin for product features, divergent vocabulary from id — `Padam`/`Tetapan`/`Hantar`/`Sunting`/`Fail`/`Cipta`) |
 
 Each language ships with terminology locked to a glossary (see below) and
 register conventions documented in `style/<lang>.md`.
@@ -223,6 +223,12 @@ Segment, Send, etc.), the locked translation **must** appear in the
 target — `./validate.py` enforces this. If you're introducing a term
 that's likely to recur, add it to `glossary.json` in the same commit.
 
+You don't need separate entries for capitalization variants. "Data
+feeds" falls back to the existing "Data Feeds" entry (see "Lookup
+normalization" below). Add a separate entry only when the variant needs a
+different translation, or when it's lowercase-initial or ALL-CAPS — the
+fallback deliberately skips both.
+
 ## Regex Patterns (for dynamic strings)
 
 Exact-match handles fixed UI copy. For strings with a variable portion —
@@ -249,8 +255,9 @@ pattern. Same file, sibling array:
   substring-match and may catch more than you intended. Start with `^…$`.
 - `{1}`, `{2}`, … in each translation refer to the first, second, … capture
   group. `{0}` is the full match.
-- Patterns are tried **after** exact-match, in array order. First match
-  wins. Keep more specific patterns higher up.
+- Patterns are tried **after** exact-match and the case-insensitive
+  fallback, in array order. First match wins. Keep more specific
+  patterns higher up.
 - Missing languages fall through to English for that pattern, same as
   exact-match.
 - If a `match` regex is invalid, it's skipped with a `console.warn` — it
@@ -290,7 +297,10 @@ free.
 - Strings shorter than 3 or longer than 200 characters.
 - Highcharts metadata: tooltip dates ("Mon, Apr 7", "Fri Apr 10 (UTC)"),
   data labels (anything starting `Apr 1, 2026, …`), full dates with
-  year, "Line chart with N bars", "End of interactive chart", etc.
+  year, "Line chart with N bars", "End of interactive chart",
+  per-point screen-reader labels ("Email, 0. Total."), etc.
+- Stat values with a count (`12.4% (1.4k)`) and format hints that read
+  the same in every language (`#RRGGBB`, `(UTC)`).
 - Liquid template fragments (`{{ user.id }}`, `{% if %}`).
 - Device-version names (`macOS (26.2)`, `Simulator iPhone (26.2)`).
 - `External ID: <value>` labels.
@@ -450,12 +460,34 @@ changed attributes are re-translated automatically. Bursts of mutations
 are batched with `requestAnimationFrame` so we don't thrash during rapid
 re-renders.
 
-**Curly-quote normalization.** The dashboard renders typographic
-apostrophes (`’`) in some copy and ASCII (`'`) elsewhere. Before lookup,
-the trimmed string is normalized — `‘ ’ ʼ` → `'` and `“ ”` → `"` — so
-"what's" with U+2019 still hits the dictionary key "what's" with U+0027.
-Output keeps the user-visible original quotes (we splice the translated
-value back into the un-normalized raw).
+**Lookup normalization** (`content.js:normalizeKey`). Before lookup, the
+trimmed string is normalized, and dictionary keys get the same treatment
+when the dictionary loads, so formatting quirks on either side can't cause
+a miss:
+
+- **Quotes:** `‘ ’ ʼ` → `'` and `“ ”` → `"`. "what's" with U+2019 hits the
+  key "what's" with U+0027, and vice versa.
+- **Whitespace:** any run of spaces, NBSPs, or newlines collapses to one
+  space. Highcharts pads single-digit days (`Aug  1`, two spaces); this
+  is what lets them match the date patterns.
+
+Output keeps the user-visible original surroundings (we splice the
+translated value back into the un-normalized raw). The missed-string
+ledger records the normalized form, so whitespace and quote variants of
+one string share a row.
+
+**Case-insensitive fallback.** If there's no exact match, lookup retries
+ignoring case, so "Data feeds" uses the "Data Feeds" entry. OneSignal
+periodically moves UI copy between Title Case and sentence case, and this
+keeps existing entries working through those changes. Two guards:
+
+- **ALL-CAPS strings never fold.** SMS protocol keywords (`STOP`,
+  `CANCEL`, `YES`, `HELP`, `START`) stay English while their Title Case
+  twins translate.
+- **Lowercase-initial strings never fold.** They're usually mid-sentence
+  fragments, where a capitalized translation would read wrong.
+
+Order of resolution: exact match → case-insensitive match → patterns.
 
 **Extension-context guard.** When Chrome reloads the extension (load-
 unpacked refresh, version bump, browser update), content scripts on
@@ -562,8 +594,10 @@ version number on the extension card tells you which build is loaded.
 
 ## Known Limitations
 
-- **Exact-match + regex patterns only.** "Settings" is translated, but
-  "Project Settings" is not unless you add it as its own key. This
+- **Exact-match + regex patterns only** (with case- and
+  whitespace-insensitive matching — see "Lookup normalization"). "Settings"
+  is translated, but "Project Settings" is not unless you add it as its
+  own key. This
   prevents partial-substring corruption (e.g. translating "Settings"
   inside a URL fragment). Dynamic strings (`Sent 1234 messages`) need a
   regex pattern — see the patterns section above.

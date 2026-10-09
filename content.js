@@ -20,6 +20,9 @@
   let dictionaries = {};
   let activeLang = DEFAULT_LANG;
   let lookup = new Map();
+  // Lowercased key -> translation, for the case-insensitive fallback in
+  // translateString. Only holds keys that pass isCaseFoldable.
+  let lookupCaseFolded = new Map();
   let compiledPatterns = [];
   let observer = null;
   let pendingNodes = new Set();
@@ -63,11 +66,19 @@
   // 'May 8', 'Apr 28', 'January 14'. Highcharts emits these as x-axis
   // ticks. Distinct from MISSED_CHART_DATA_RE which requires the year.
   const MISSED_BARE_MONTH_DAY_RE = /^(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec|January|February|March|April|May|June|July|August|September|October|November|December)\s\d{1,2}$/;
-  const MISSED_CHART_META_RE = /^(Line chart with|Bar chart with \d+ data series?\.$|The chart has \d|Created with Highcharts|Chart\. Highcharts|Toggle series visibility|End of interactive chart\.|Interactive chart$|Empty chart$|Chart with \d+ data points?\.$|.+, line \d+ of \d+ with \d+ data points\.|.+, bar series \d+ of \d+ with \d+ bars?\.)/;
+  // Last alternative: Highcharts per-point screen-reader labels shaped
+  // '<category>, <value>. <series>.' — 'Email, 0. Total.'
+  const MISSED_CHART_META_RE = /^(Line chart with|Bar chart with \d+ data series?\.$|The chart has \d|Created with Highcharts|Chart\. Highcharts|Toggle series visibility|End of interactive chart\.|Interactive chart$|Empty chart$|Chart with \d+ data points?\.$|.+, line \d+ of \d+ with \d+ data points\.|.+, bar series \d+ of \d+ with \d+ bars?\.|[^,]{1,40}, [\d,.]+[kKMB]?\. [A-Z][^.]{0,40}\.$)/;
   // Chart y-axis numeric labels with magnitude suffix: '40.0k', '1.6M',
   // '500.0k', '7.0k'. Always digits + optional decimals + k/M/B. Not UGC
   // and not translatable copy — pure chart chrome.
   const MISSED_METRIC_MAGNITUDE_RE = /^\d+(\.\d+)?[kKmMbB]$/;
+  // Percentage with a parenthetical count: '12.4% (1.4k)', '3% (27)'.
+  // Stat-card values, not copy.
+  const MISSED_PERCENT_METRIC_RE = /^\d+(\.\d+)?% \([\d.,]+[kKmMbB]?\)$/;
+  // Input format hints that read the same in every language: the
+  // '#RRGGBB' color-picker placeholder and a bare '(UTC)' suffix.
+  const MISSED_FORMAT_HINT_RE = /^(#R{1,2}G{1,2}B{1,2}(A{1,2})?|\((UTC|GMT)\))$/;
   const MISSED_FULL_DATE_RE = /^(January|February|March|April|May|June|July|August|September|October|November|December)\s+\d+,\s+\d{4}$/;
   // JS Date.toString() output as it appears verbatim in some dashboards:
   // 'Wed Jun 03 2026', 'Sat May 30 2026', 'Mon May 11 2026'. Day-of-week
@@ -208,20 +219,48 @@
       .replace(/[“”]/g, '"');
   }
 
+  // Lookup-key form of a string: quotes normalized as above, plus every
+  // whitespace run (double spaces, NBSP, newline + indentation) collapsed
+  // to one space. Applied to BOTH dictionary keys at load and page text at
+  // lookup, so formatting quirks on either side can't cause a miss.
+  // Highcharts pads single-digit days ('%e' format), rendering 'Aug  1'
+  // with two spaces — which slipped past both the date pattern and the
+  // ledger's month-day filter before this.
+  function normalizeKey(s) {
+    return normalizeQuotes(s).replace(/\s+/g, " ");
+  }
+
+  // Case-insensitive fallback eligibility. OneSignal periodically moves
+  // UI copy between Title Case and sentence case ('Data Feeds' -> 'Data
+  // feeds'); the fallback lets an existing entry keep matching. Limited to
+  // strings that start uppercase and contain a lowercase letter:
+  //   - ALL-CAPS strings are excluded because SMS protocol keywords
+  //     (STOP, CANCEL, YES, HELP, START) deliberately stay English while
+  //     their Title Case twins translate.
+  //   - Lowercase-initial strings are excluded because they're usually
+  //     mid-sentence fragments, where a capitalized translation reads wrong.
+  function isCaseFoldable(s) {
+    return /^[A-Z]/.test(s) && /[a-z]/.test(s);
+  }
+
   function translateString(raw, context) {
     if (typeof raw !== "string" || !raw) return null;
     const trimmed = raw.trim();
     if (!trimmed) return null;
-    const key = normalizeQuotes(trimmed);
+    const key = normalizeKey(trimmed);
     let translated = lookup.get(key);
+    if (translated === undefined && isCaseFoldable(key)) {
+      translated = lookupCaseFolded.get(key.toLowerCase());
+    }
     if (translated === undefined) translated = applyPattern(key);
     if (translated === undefined || translated === null) {
       // Context (e.g. the source text node) lets trackMissed apply
       // DOM-aware filters — skip ledger reporting for text in the
       // Name column of a table, etc. — without affecting whether we
       // attempt translation at all. Translation is unconditional;
-      // ledger reporting is opinionated.
-      trackMissed(trimmed, context);
+      // ledger reporting is opinionated. Report the normalized key so
+      // whitespace/quote variants of one string collapse to one row.
+      trackMissed(key, context);
       return null;
     }
     recentTranslations.add(translated);
@@ -245,6 +284,8 @@
     if (MISSED_CHART_DATA_RE.test(s)) return false;
     if (MISSED_BARE_MONTH_DAY_RE.test(s)) return false;
     if (MISSED_METRIC_MAGNITUDE_RE.test(s)) return false;
+    if (MISSED_PERCENT_METRIC_RE.test(s)) return false;
+    if (MISSED_FORMAT_HINT_RE.test(s)) return false;
     if (MISSED_CHART_META_RE.test(s)) return false;
     if (MISSED_FULL_DATE_RE.test(s)) return false;
     if (MISSED_DAY_MONTH_DATE_RE.test(s)) return false;
@@ -863,6 +904,7 @@
 
   function buildLookup() {
     lookup = new Map();
+    lookupCaseFolded = new Map();
     compiledPatterns = [];
     const translations = (dictionaries && dictionaries.translations) || {};
     // Shape: { "<English term>": { "<lang code>": "<translated>" } }
@@ -871,7 +913,17 @@
       if (!perLang || typeof perLang !== "object") continue;
       const translated = perLang[activeLang];
       if (typeof translated === "string" && translated) {
-        lookup.set(englishTerm, translated);
+        // Keys go through the same normalization as page text, so a
+        // dictionary key typed with a curly apostrophe or a stray double
+        // space still matches.
+        const key = normalizeKey(englishTerm);
+        lookup.set(key, translated);
+        // First key wins on case collisions — 'Data Feeds' and 'Data
+        // feeds' entries already agree in nearly every language.
+        const folded = key.toLowerCase();
+        if (isCaseFoldable(key) && !lookupCaseFolded.has(folded)) {
+          lookupCaseFolded.set(folded, translated);
+        }
       }
     }
     const patterns = (dictionaries && dictionaries.patterns) || [];
