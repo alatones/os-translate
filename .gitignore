@@ -26,3 +26,6 @@ build/
 
 # Claude Code working directory
 .claude/
+
+# Local scratch input for tools/triage.js (weekly ledger review)
+.review/

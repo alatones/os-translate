@@ -36,6 +36,10 @@ It must report `Blocking: 0 violation(s)`. The `Informational: untranslated`
 count is non-blocking — those entries (brand names, Latin acronyms) are
 expected to equal the English source.
 
+Also run `node tools/regress.js` after any change to `languages.json` or the
+lookup/filter code in `content.js`. It must report 0 mismatches: every
+existing key still resolves to its own translation through the real engine.
+
 Glossary terms can have alternate acceptable forms (array values) and a
 per-term `_skip_keys` list for English sources where the term appears in a
 different sense (e.g. "Segment" the company vs the OneSignal feature). When
