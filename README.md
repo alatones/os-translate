@@ -406,6 +406,18 @@ into `languages.json`.
 
 ### Harvesting workflow
 
+The weekly review is scripted. See
+[`tools/WEEKLY_REVIEW.md`](./tools/WEEKLY_REVIEW.md) for the full procedure
+(a scheduled Claude task runs it Friday mornings). The core loop:
+
+- `node tools/triage.js <rollup>` runs every ledger string through the
+  current engine and separates rows the code already handles from rows
+  that need a decision.
+- `node tools/regress.js` confirms every existing entry still resolves to
+  its own translation after a change.
+
+By hand:
+
 - Sort the sheet by `count` descending.
 - Ignore anything that looks like user-generated content (app names,
   segment names, custom data values). These are the false positives the
@@ -579,7 +591,15 @@ CHANGELOG.md     Per-version release notes for beta testers
 PRIVACY.md       Public privacy policy linked from the Chrome Web Store listing
 _locales/        Chrome i18n short strings for the manifest name + description (one dir per browser locale)
 store-listing/   Long-form Chrome Web Store marketing description, one .md per locale, paste-ready for the Developer Dashboard
+tools/           Weekly ledger review: triage.js, regress.js, engine.js (runs content.js outside the browser), WEEKLY_REVIEW.md
+.gitattributes   Keeps dev-only files out of GitHub's "Download ZIP" (the Web Store package)
 ```
+
+Everything below the blank line in the map is development-only. GitHub's
+**Download ZIP** leaves those files out (`export-ignore` in
+`.gitattributes`), so the zip contains only what the extension loads at
+runtime and can be uploaded to the Chrome Web Store as-is. When you add a
+new dev-only file or folder, add it to `.gitattributes`.
 
 ## Versioning
 

@@ -7,6 +7,26 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
+## [1.13.2] — 2026-10-16
+
+No change to how the extension behaves.
+
+### Changed
+
+- **Smaller download.** GitHub's "Download ZIP" (the package uploaded to
+  the Web Store, and what beta testers load unpacked) now contains only the
+  files the extension uses: 24 files and about 340 KB, down from 68 files
+  and 459 KB. Docs, style guides, the glossary, and the dev tools stay in
+  the repo but are left out of the zip.
+
+### Added
+
+- **Weekly ledger review tooling** in `tools/`. `triage.js` checks each
+  ledger string against the current code and separates real gaps from
+  rows that are already fixed. `regress.js` confirms no existing
+  translation broke. `WEEKLY_REVIEW.md` documents the Friday review
+  procedure, which now runs as a scheduled task.
+
 ## [1.13.1] — 2026-10-09
 
 ### Changed

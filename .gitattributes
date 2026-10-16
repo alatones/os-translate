@@ -1,0 +1,21 @@
+# Files left out of GitHub's "Download ZIP" (git archive honors
+# export-ignore). That zip is what gets uploaded to the Chrome Web Store and
+# what beta testers load unpacked, so it should hold only the files the
+# extension loads at runtime: manifest.json, the .js/.html/.css files,
+# languages.json, _locales/ and icons/.
+#
+# This is a deny-list on purpose. A dev file someone forgets to list here
+# ships harmlessly; a runtime file forgotten from an allow-list would break
+# the store build. When you add a new dev-only file or folder, add it here.
+/.gitattributes export-ignore
+/.gitignore export-ignore
+/CHANGELOG.md export-ignore
+/CLAUDE.md export-ignore
+/PRIVACY.md export-ignore
+/README.md export-ignore
+/STYLE_GUIDE.md export-ignore
+/glossary.json export-ignore
+/validate.py export-ignore
+/style export-ignore
+/store-listing export-ignore
+/tools export-ignore
