@@ -39,7 +39,9 @@ The script runs every string through the current engine. **"Already
 handled"** rows need no action. They're usually backlog: the extension
 stamps a batch with the version installed when it's sent, so the first
 batch after an update carries strings the old version missed. Count them
-in the report, but don't list them individually.
+in the report, but don't list them individually. Since 1.13.3, each
+string carries the version of the build that saw it, so this backlog
+should mostly disappear for installs on 1.13.3 or later.
 
 If the pivot is empty or has no 2+ install rows, the verdict is WAIT. Say
 so in one line.
