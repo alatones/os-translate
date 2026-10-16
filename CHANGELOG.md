@@ -7,6 +7,19 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
+## [1.13.3] — 2026-10-16
+
+### Fixed
+
+- **Missed strings are reported under the right version.** The ledger used
+  to label each daily batch with the version installed when the batch was
+  sent. Strings the previous version missed, but that were sent after an
+  update, showed up as the new version's misses. Each string now carries
+  the version of the build that saw it, and the batch is split by version
+  when it's sent. Strings still waiting when you update are labeled with
+  the version being replaced. Nothing changes in what gets sent or in the
+  Google Sheet's format.
+
 ## [1.13.2] — 2026-10-16
 
 No change to how the extension behaves.

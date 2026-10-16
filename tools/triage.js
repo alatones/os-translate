@@ -14,9 +14,10 @@
 //
 // Every string is run through the real engine (tools/engine.js) in all
 // languages, so rows the current code already handles are separated out.
-// That includes backlog rows: the extension stamps a batch with the version
-// installed when it's SENT, so the first batch after an update can carry
-// strings the previous version missed.
+// That includes backlog rows. Before 1.13.3 the extension stamped a batch
+// with the version installed when it was SENT, so the first batch after an
+// update could carry strings the previous version missed. 1.13.3+ records
+// the version that saw each string.
 
 const fs = require("fs");
 const { loadEngine, LANGS } = require("./engine");

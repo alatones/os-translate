@@ -23,20 +23,29 @@ function ledgerEntryParts(value) {
   return { count: 0, role: "", classChain: "" };
 }
 
+// Keys are lang, path, string, plus the recording build's version since
+// 1.13.3. The same string queued under two versions (around an update)
+// shows as one row with the counts combined.
 function groupByLangPath(ledger) {
   const groups = new Map();
   for (const [key, value] of Object.entries(ledger || {})) {
     const parts = key.split(KEY_SEP);
-    if (parts.length !== 3) continue;
+    if (parts.length !== 3 && parts.length !== 4) continue;
     const [lang, path, string] = parts;
     const { count, role, classChain } = ledgerEntryParts(value);
     if (count <= 0) continue;
     const groupKey = `${lang} — ${path || "/"}`;
-    if (!groups.has(groupKey)) groups.set(groupKey, []);
-    groups.get(groupKey).push({ string, count, role, classChain });
+    if (!groups.has(groupKey)) groups.set(groupKey, new Map());
+    const rows = groups.get(groupKey);
+    const row = rows.get(string);
+    if (row) row.count += count;
+    else rows.set(string, { string, count, role, classChain });
   }
-  for (const arr of groups.values()) arr.sort((a, b) => b.count - a.count);
-  return groups;
+  const sorted = new Map();
+  for (const [groupKey, rows] of groups) {
+    sorted.set(groupKey, [...rows.values()].sort((a, b) => b.count - a.count));
+  }
+  return sorted;
 }
 
 function render(ledger) {

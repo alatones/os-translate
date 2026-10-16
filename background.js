@@ -141,12 +141,15 @@ async function doRecreateMenu() {
   });
 }
 
-chrome.runtime.onInstalled.addListener(() => {
+chrome.runtime.onInstalled.addListener((details) => {
   // onInstalled fires on every reload/update too, not just fresh installs.
   // recreateMenu() handles the removeAll + create dance so re-registering
   // doesn't trip "Cannot create item with duplicate id".
   recreateMenu();
   chrome.alarms.create(LEDGER_ALARM, { periodInMinutes: LEDGER_PERIOD_MINUTES });
+  if (details && details.reason === "update" && details.previousVersion) {
+    labelUnversionedLedgerEntries(details.previousVersion);
+  }
 });
 
 chrome.runtime.onStartup.addListener(() => {
@@ -174,21 +177,65 @@ function ledgerCount(v) {
   return 0;
 }
 
+// Ledger keys are lang, path, string — plus, since 1.13.3, the version of
+// the build that saw the string (content.js stamps it at record time).
+// Three-part keys are older entries with no version recorded.
+function parseLedgerKey(key) {
+  const parts = key.split(LEDGER_KEY_SEP);
+  if (parts.length !== 3 && parts.length !== 4) return null;
+  const [lang, path, string, version = ""] = parts;
+  return { lang, path, string, version };
+}
+
+// Returns [{ key, version, entry }]. `entry` is exactly the payload shape
+// the Apps Script expects.
 function parseLedger(ledger) {
-  const entries = [];
+  const parsed = [];
   for (const [key, value] of Object.entries(ledger || {})) {
-    const parts = key.split(LEDGER_KEY_SEP);
-    if (parts.length !== 3) continue;
-    const [lang, path, string] = parts;
-    if (!lang || !string) continue;
+    const k = parseLedgerKey(key);
+    if (!k || !k.lang || !k.string) continue;
     const count = ledgerCount(value);
     if (count <= 0) continue;
     const role = value && typeof value === "object" && value.role ? value.role : "other";
     const classChain =
       value && typeof value === "object" && value.classChain ? value.classChain : "";
-    entries.push({ lang, path, string, count, role, classChain });
+    parsed.push({
+      key,
+      version: k.version,
+      entry: { lang: k.lang, path: k.path, string: k.string, count, role, classChain },
+    });
   }
-  return entries;
+  return parsed;
+}
+
+function mergeLedgerValues(existing, incoming) {
+  if (existing === undefined) return incoming;
+  const pick = (v, field) => (v && typeof v === "object" ? v[field] : "");
+  const existingRole = pick(existing, "role");
+  return {
+    count: ledgerCount(existing) + ledgerCount(incoming),
+    role: existingRole && existingRole !== "other" ? existingRole : pick(incoming, "role") || "other",
+    classChain: pick(existing, "classChain") || pick(incoming, "classChain") || "",
+  };
+}
+
+// On update, anything still queued without a version was recorded by the
+// build being replaced: content scripts from the old build stop working
+// once Chrome swaps builds, and the new build stamps everything it
+// records. Label those entries with the previous version so they aren't
+// reported as the new build's misses. This covers the jump from pre-1.13.3
+// builds, which never stamped a version, and any entry whose stamp failed.
+async function labelUnversionedLedgerEntries(previousVersion) {
+  const { ledger = {} } = await chrome.storage.local.get({ ledger: {} });
+  let changed = false;
+  for (const key of Object.keys(ledger)) {
+    if (key.split(LEDGER_KEY_SEP).length !== 3) continue;
+    const versionedKey = key + LEDGER_KEY_SEP + previousVersion;
+    ledger[versionedKey] = mergeLedgerValues(ledger[versionedKey], ledger[key]);
+    delete ledger[key];
+    changed = true;
+  }
+  if (changed) await chrome.storage.local.set({ ledger });
 }
 
 // Per-install random ID, generated lazily on first ledger flush. Sent
@@ -213,39 +260,52 @@ async function flushLedger() {
   const { ledgerOptIn = true } = await chrome.storage.sync.get({ ledgerOptIn: true });
   if (!ledgerOptIn) return;
   const { ledger = {} } = await chrome.storage.local.get({ ledger: {} });
-  const entries = parseLedger(ledger);
-  if (entries.length === 0) return;
+  const parsed = parseLedger(ledger);
+  if (parsed.length === 0) return;
   const installId = await getOrCreateInstallId();
   // Extension version (not the payload schema version) — lets the Apps
   // Script tag every row with which build emitted it. Critical for
   // diagnosing "is this ledger entry from an old build that doesn't have
   // the current filter/pattern, or from the current build?" without that,
   // a regression looks identical to a stale unpacked install that hasn't
-  // been reloaded.
-  const extensionVersion = chrome.runtime.getManifest().version;
-  let ok = false;
-  try {
-    const res = await fetch(LEDGER_ENDPOINT, {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({
-        version: 2,
-        token: LEDGER_TOKEN,
-        installId,
-        extensionVersion,
-        entries,
-      }),
-    });
-    ok = res.ok;
-  } catch (err) {
-    console.warn("[OS Translate] ledger flush failed:", err);
+  // been reloaded. The payload carries one version, so send one POST per
+  // recorded version. Entries with no recorded version fall back to this
+  // build's version.
+  const currentVersion = chrome.runtime.getManifest().version;
+  const byVersion = new Map();
+  for (const p of parsed) {
+    const v = p.version || currentVersion;
+    if (!byVersion.has(v)) byVersion.set(v, []);
+    byVersion.get(v).push(p);
   }
-  if (ok) {
+  const sentKeys = [];
+  for (const [extensionVersion, group] of byVersion) {
+    let ok = false;
+    try {
+      const res = await fetch(LEDGER_ENDPOINT, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          version: 2,
+          token: LEDGER_TOKEN,
+          installId,
+          extensionVersion,
+          entries: group.map((p) => p.entry),
+        }),
+      });
+      ok = res.ok;
+    } catch (err) {
+      console.warn("[OS Translate] ledger flush failed:", err);
+    }
+    if (ok) for (const p of group) sentKeys.push(p.key);
+  }
+  if (sentKeys.length) {
     // Only clear entries we just sent. New misses that arrived during the
-    // POST stay in the ledger for next time. Handle both old (number)
-    // and new ({count,...}) value shapes.
+    // POST stay in the ledger for next time, and so does any version group
+    // whose POST failed. Handle both old (number) and new ({count,...})
+    // value shapes.
     const { ledger: after = {} } = await chrome.storage.local.get({ ledger: {} });
-    for (const key of Object.keys(ledger)) {
+    for (const key of sentKeys) {
       const sentCount = ledgerCount(ledger[key]);
       const currentCount = ledgerCount(after[key]);
       if (currentCount <= sentCount) {

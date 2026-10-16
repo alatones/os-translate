@@ -134,6 +134,18 @@
   const MISSED_ONESIGNAL_BRAND_RE = /^OneSignal(\.com)?$/;
   // SOH separator for composite ledger keys: no UI string will contain it.
   const MISSED_KEY_SEP = "";
+  // The build that saw each missed string, stored in its ledger key.
+  // background.js sends the ledger in batches that can straddle an update,
+  // so stamping at send time would label old-build misses with the new
+  // version. Empty if the context is already gone — background.js then
+  // falls back to its own version, the pre-1.13.3 behavior.
+  const EXTENSION_VERSION = (() => {
+    try {
+      return chrome.runtime.getManifest().version || "";
+    } catch (e) {
+      return "";
+    }
+  })();
   let missedFlushTimer = 0;
 
   // Chrome MV3 invalidates the extension context when the extension is
@@ -797,7 +809,9 @@
         if (!isExtensionAlive()) return teardown();
         const ledger = out.ledger || {};
         for (const [s, info] of promote) {
-          const key = [activeLang, path, s].join(MISSED_KEY_SEP);
+          const keyParts = [activeLang, path, s];
+          if (EXTENSION_VERSION) keyParts.push(EXTENSION_VERSION);
+          const key = keyParts.join(MISSED_KEY_SEP);
           // Migration: pre-1.6 entries stored a bare number. Wrap any
           // we encounter on next write so the shape converges.
           const prev = ledger[key];

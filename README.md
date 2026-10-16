@@ -386,6 +386,14 @@ Zero-infrastructure receiver. ~5 minutes end-to-end.
    POST without the field; the Apps Script substitutes `""` and old
    rows show blank in that column.
 
+   Since 1.13.3, the version is the build that **saw** each string, not
+   the build that sent the batch. `content.js` records it with each queued
+   string, and `background.js` sends one POST per version. Strings still
+   queued from before an update are labeled with the version being
+   replaced. Before 1.13.3, the first batch after an update was labeled
+   with the new version even though the old build had recorded it. The
+   payload format is unchanged, so the Apps Script needs no update.
+
 3. **Deploy → New deployment → Type: Web app.**
    - Execute as: **Me**.
    - Who has access: **Anyone** (the URL itself is the secret).
