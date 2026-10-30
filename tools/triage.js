@@ -10,7 +10,8 @@
 //   extensionVersion | string | SUM of count | COUNTUNIQUE of installId |
 //   COUNTUNIQUE of path | MAX of timestamp
 // Blank extensionVersion cells inherit the row above (pivot layout), and the
-// "Grand Total" row is ignored. Defaults: latest version present, 2+ installs.
+// "Grand Total" row is ignored. Defaults: latest version present, 1+ installs
+// (the install base is small, so one install's miss is still a real gap).
 //
 // Every string is run through the real engine (tools/engine.js) in all
 // languages, so rows the current code already handles are separated out.
@@ -23,7 +24,7 @@ const fs = require("fs");
 const { loadEngine, LANGS } = require("./engine");
 
 function parseArgs(argv) {
-  const opts = { minInstalls: 2, version: null, file: null };
+  const opts = { minInstalls: 1, version: null, file: null };
   for (let i = 0; i < argv.length; i++) {
     if (argv[i] === "--min-installs") opts.minInstalls = Number(argv[++i]);
     else if (argv[i] === "--version") opts.version = argv[++i];

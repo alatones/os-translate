@@ -596,7 +596,7 @@ STYLE_GUIDE.md   Global translation rules (UI roles, quotes, brand handling)
 glossary.json    Locked English-to-target term mappings (with grammatical alts)
 style/<lang>.md  Per-language addenda (register, punctuation, length budgets)
 validate.py      Mechanical conformance check; must report 0 blocking violations
-CHANGELOG.md     Per-version release notes for beta testers
+CHANGELOG.md     Per-version release notes
 PRIVACY.md       Public privacy policy linked from the Chrome Web Store listing
 _locales/        Chrome i18n short strings for the manifest name + description (one dir per browser locale)
 store-listing/   Long-form Chrome Web Store marketing description, one .md per locale, paste-ready for the Developer Dashboard
@@ -612,13 +612,15 @@ new dev-only file or folder, add it to `.gitattributes`.
 
 ## Versioning
 
-The `version` field in `manifest.json` plus `CHANGELOG.md` tell beta
-testers what they're running and what changed since the last build they
-loaded. We follow semver — see [CLAUDE.md](./CLAUDE.md#versioning) for
+Releases ship through the Chrome Web Store. The maintainer uploads the
+Download ZIP, and the new version goes live for every user as soon as
+Google approves it. Store installs update automatically. The `version`
+field in `manifest.json` and `CHANGELOG.md` record what each release
+changed. We follow semver — see [CLAUDE.md](./CLAUDE.md#versioning) for
 the bump rules and changelog conventions.
 
-Chrome doesn't auto-update unpacked extensions. After pulling new code,
-reload the extension at `chrome://extensions` to pick up changes; the
+For local development, Chrome doesn't auto-update unpacked extensions.
+After pulling new code, reload the extension at `chrome://extensions`; the
 version number on the extension card tells you which build is loaded.
 
 ## Known Limitations

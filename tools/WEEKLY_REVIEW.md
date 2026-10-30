@@ -33,7 +33,9 @@ instead of reviewing stale code.
 1. Read the `ledger_rollup` tab, range `A1:F`, from the ledger spreadsheet.
 2. Write the response JSON verbatim to `<repo>/.review/rollup.json`.
 3. Run `node tools/triage.js .review/rollup.json`. The defaults are the
-   latest version in the sheet and 2+ installs.
+   latest version in the sheet and 1+ installs. The install base is
+   small, so a string one install reported is still a real gap. Use the
+   install count to rank rows, not to drop them.
 
 The script runs every string through the current engine. **"Already
 handled"** rows need no action. They're usually backlog: the extension
@@ -43,8 +45,7 @@ in the report, but don't list them individually. Since 1.13.3, each
 string carries the version of the build that saw it, so this backlog
 should mostly disappear for installs on 1.13.3 or later.
 
-If the pivot is empty or has no 2+ install rows, the verdict is WAIT. Say
-so in one line.
+If the pivot is empty, the verdict is WAIT. Say so in one line.
 
 ### 3. Classify each "Needs a decision" row
 
@@ -84,8 +85,8 @@ for clarification. Never copy addresses into the repo or a PR.
 
 Recommend **UPDATE** if any of these holds:
 
-- 10+ real new UI strings (UI copy + dynamic UI) at 2+ installs
-- any real UI string at 3+ installs
+- 10+ real new UI strings (UI copy + dynamic UI), at any install count
+- any real UI string at 2+ installs
 - any engine-bug signal
 - a form response reporting a clearly wrong translation
 

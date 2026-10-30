@@ -7,6 +7,18 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
+## [1.14.1] — 2026-10-30
+
+No change to how the extension behaves.
+
+### Changed
+
+- **Weekly ledger review ships smaller gaps sooner.** Strings that only one
+  install reported now count. An update is recommended when there are 10+
+  real untranslated strings at any install count, or any real string at 2+
+  installs (previously 10+ at 2+ installs, or one at 3+). `triage.js` now
+  checks every string by default.
+
 ## [1.14.0] — 2026-10-30
 
 ### Added
