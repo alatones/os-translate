@@ -7,6 +7,27 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
+## [1.14.0] — 2026-10-30
+
+### Added
+
+- **63 new dashboard strings and 14 new patterns, in all 10 languages**,
+  from the late-October ledger:
+  - The AI tools panel ("Use OneSignal inside of your preferred AI tool",
+    the ChatGPT / Claude / Cursor links) and the MCP sign-in consent
+    screen.
+  - Journeys: re-entry settings, "Future only", "Add step", audience
+    criteria.
+  - User and subscription pages: view, add, delete, and test-user
+    actions, search hints, linked subscriptions.
+  - Message composer: delivery, content, and per-platform settings
+    headings, image overrides, notification channel, send time.
+  - The Recommendations page, including its filters and empty state.
+- **New patterns:** "Good morning/afternoon/evening, <name>", time
+  windows ("8:00 AM to 9:00 AM"), "Show N more", "Segments (N)",
+  "N years ago", durations ("7m 26s"), search with no results, test
+  subscription and subscription ID labels.
+
 ## [1.13.3] — 2026-10-16
 
 ### Fixed
