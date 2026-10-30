@@ -48,8 +48,13 @@ adding an alt or `_skip_keys` over loosening the check.
 
 ## Versioning
 
-When you ship a change to beta testers, bump `manifest.json`'s `version`
-field and add an entry to `CHANGELOG.md`. We follow semver
+Releases go straight to production. The maintainer uploads GitHub's
+Download ZIP to the Chrome Web Store, and the new version reaches every
+user as soon as Google approves it, with no beta stage. Store installs
+update automatically.
+
+When you ship a change, bump `manifest.json`'s `version` field and add an
+entry to `CHANGELOG.md` in the same commit. We follow semver
 (MAJOR.MINOR.PATCH):
 
 - **PATCH** (1.0.x): translation tweaks, glossary refinements, single
@@ -61,14 +66,14 @@ field and add an entry to `CHANGELOG.md`. We follow semver
 - **MAJOR** (x.0.0): breaking schema changes, removing a supported
   language, a rebrand. Rare.
 
-Keep changelog entries short and user-facing — what a beta tester would
+Keep changelog entries short and user-facing — what a user would
 notice — not a commit log. "Added Simplified Chinese" or "Localized popup
 UI", not "fix validate.py to accept zh-CN locale code."
 
-Chrome doesn't auto-update unpacked extensions. Beta testers must reload
-the extension at `chrome://extensions` after pulling new code, but the
-version number tells them whether they need to and the changelog tells
-them what changed.
+Because there's no beta stage, say so plainly in the PR when a release
+contains translations no native speaker has reviewed. If a change touches
+only files left out of the Download ZIP (docs, `tools/`, style guides),
+note that no Web Store upload is needed.
 
 ## Keep README.md in sync
 
