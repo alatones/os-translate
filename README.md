@@ -12,8 +12,9 @@
 A Manifest V3 Chrome/Edge extension that translates the OneSignal admin
 dashboard (`https://dashboard.onesignal.com`) into non-English languages.
 Ships with **Japanese, Spanish, Portuguese (BR), Korean, French, Turkish,
-Simplified Chinese, and Traditional Chinese (Hong Kong)** out of the box
-— each at full coverage of the same ~1,500 dashboard strings.
+Simplified Chinese, Traditional Chinese (Hong Kong), Indonesian, and
+Malay** out of the box — each at full coverage of the same ~2,260
+dashboard strings.
 
 The extension only runs on the OneSignal dashboard — no other sites are
 touched and no browsing data is collected.
@@ -54,16 +55,16 @@ Language codes follow ISO 639-1.
 | Code | Language       | Coverage                                  |
 | ---- | -------------- | ----------------------------------------- |
 | `en` | English        | Passthrough (no changes)                  |
-| `ja` | Japanese       | 2,201 terms + 110 patterns                 |
-| `es` | Spanish        | 2,201 terms + 110 patterns (LATAM-neutral) |
-| `pt` | Portuguese     | 2,201 terms + 110 patterns (BR — pt-BR)    |
-| `ko` | Korean         | 2,201 terms + 110 patterns                 |
-| `fr` | French         | 2,201 terms + 110 patterns (vous, infinitive buttons) |
-| `tr` | Turkish        | 2,201 terms + 110 patterns (siz, 2nd-person imperative buttons) |
-| `zh-CN` | Simplified Chinese | 2,201 terms + 110 patterns (Mainland, drop pronouns or 您, bare-verb buttons) |
-| `zh-TW` | Traditional Chinese | 2,201 terms + 110 patterns (書面語, HK-leaning lexicon per reviewer — 儲存/設定/搜尋) |
-| `id` | Indonesian | 2,201 terms + 110 patterns (native reviewer feedback applied; Anda formal address, bare-verb buttons, Latin for product features) |
-| `ms` | Malay (Bahasa Melayu) | 2,201 terms + 110 patterns (core terms approved by native reviewer; Anda formal address, Latin for product features, divergent vocabulary from id — `Padam`/`Tetapan`/`Hantar`/`Butang`/`Akaun`) |
+| `ja` | Japanese       | 2,264 terms + 124 patterns                 |
+| `es` | Spanish        | 2,264 terms + 124 patterns (LATAM-neutral) |
+| `pt` | Portuguese     | 2,264 terms + 124 patterns (BR — pt-BR)    |
+| `ko` | Korean         | 2,264 terms + 124 patterns                 |
+| `fr` | French         | 2,264 terms + 124 patterns (vous, infinitive buttons) |
+| `tr` | Turkish        | 2,264 terms + 124 patterns (siz, 2nd-person imperative buttons) |
+| `zh-CN` | Simplified Chinese | 2,264 terms + 124 patterns (Mainland, drop pronouns or 您, bare-verb buttons) |
+| `zh-TW` | Traditional Chinese | 2,264 terms + 124 patterns (書面語, HK-leaning lexicon per reviewer — 儲存/設定/搜尋) |
+| `id` | Indonesian | 2,264 terms + 124 patterns (native reviewer feedback applied; Anda formal address, bare-verb buttons, Latin for product features) |
+| `ms` | Malay (Bahasa Melayu) | 2,264 terms + 124 patterns (core terms approved by native reviewer; Anda formal address, Latin for product features, divergent vocabulary from id — `Padam`/`Tetapan`/`Hantar`/`Butang`/`Akaun`) |
 
 Each language ships with terminology locked to a glossary (see below) and
 register conventions documented in `style/<lang>.md`.
