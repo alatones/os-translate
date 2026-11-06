@@ -7,6 +7,33 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
+## [1.15.0] — 2026-11-06
+
+### Added
+
+- **109 new dashboard strings and 5 new patterns, in all 10 languages**,
+  from the early-November ledger:
+  - The new Settings sidebar ("App settings", "Account settings",
+    "Preferences", "Back to app") and the API keys & IDs page:
+    authentication keys, IP allowlist, Identity Verification.
+  - Email performance by inbox provider: sender reputation, sent /
+    delivered / bounced / failed / spam complaint counts and rates, and
+    the provider table.
+  - The email editor picker and template editor: Quickstart, HTML and
+    drag & drop editors, Custom Data preview, test sends.
+  - Journeys: Stop + Archive, Review Your Journey, go-live confirmation,
+    audience details.
+  - Sessions Attribution metrics, the 404 page, and sender deactivation.
+- **New patterns:** provider fail rates ("Apple fail rate is 50.5%"),
+  "N% across all deliveries", "Used in N apps", "N providers", and
+  "Deliver at 8:00 AM in each user's timezone".
+
+### Changed
+
+- **Fewer junk rows in the missed-string report.** Truncated IDs,
+  short-group IPv6 addresses, device model names, chart volumes like
+  "(45.9k)", and email bounce responses are no longer reported.
+
 ## [1.14.0] — 2026-10-30
 
 ### Added
