@@ -811,12 +811,14 @@
       "fr": [
         "Enregistrer",
         "Enregistré",
-        "enregistrement"
+        "enregistrement",
+        "Enregistrez"
       ],
       "tr": [
         "Kaydet",
         "Kaydedildi",
-        "kaydedil"
+        "kaydedil",
+        "Kaydedin"
       ],
       "zh-CN": "保存",
       "zh-TW": "儲存",

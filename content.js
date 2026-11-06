@@ -40,7 +40,9 @@
   const MISSED_MIN_LEN = 3;
   const MISSED_MAX_LEN = 200;
   const MISSED_PII_RE = /@|\/\/|[0-9]{6,}|[A-Za-z0-9+/=]{32,}/;
-  const MISSED_UUID_RE = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i;
+  // Full UUIDs, plus the truncated form tables show with an ellipsis:
+  // 'f4ce18c4-629d-4ae0-88f8-af01cd...'.
+  const MISSED_UUID_RE = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-([0-9a-f]{12}|[0-9a-f]{0,11}(\.\.\.|…))$/i;
   // Slash-style timestamps with optional time component: '4/28/26, 4:24:40 PM',
   // '4/28/2026, 4:24:40 PM', plus ISO 8601.
   const MISSED_TIMESTAMP_RE = /^\d{1,2}\/\d{1,2}\/\d{2,4},?\s*\d|^\d{4}-\d{2}-\d{2}T\d{2}:/;
@@ -48,8 +50,9 @@
   const MISSED_COUNTRY_RE = /^[A-Z]{2}$/;
   // Snake_case / kebab customer attribute names: cupon_code, new_user, etc.
   const MISSED_ATTR_NAME_RE = /^[a-z][a-z0-9]*([_-][a-z0-9]+)+$/;
-  // IPv6 addresses: 2600:1700:2990:f630:...
-  const MISSED_IPV6_RE = /^[0-9a-f]{4}:[0-9a-f]{4}:/i;
+  // IPv6 addresses: 2600:1700:2990:f630:..., including groups shorter than
+  // four digits ('2804:18:7899:...') and '::' compression.
+  const MISSED_IPV6_RE = /^[0-9a-f]{1,4}:[0-9a-f]{0,4}:[0-9a-f]{0,4}:/i;
   // Markdown link: [text](url)
   const MISSED_MARKDOWN_LINK_RE = /^\[.+\]\(.+\)$/;
   // OS + subscriber count: 'macOS (145)', 'Windows (147)', 'Linux x86_64 (129)'
@@ -71,8 +74,9 @@
   const MISSED_CHART_META_RE = /^(Line chart with|Bar chart with \d+ data series?\.$|The chart has \d|Created with Highcharts|Chart\. Highcharts|Toggle series visibility|End of interactive chart\.|Interactive chart$|Empty chart$|Chart with \d+ data points?\.$|.+, line \d+ of \d+ with \d+ data points\.|.+, bar series \d+ of \d+ with \d+ bars?\.|[^,]{1,40}, [\d,.]+[kKMB]?\. [A-Z][^.]{0,40}\.$)/;
   // Chart y-axis numeric labels with magnitude suffix: '40.0k', '1.6M',
   // '500.0k', '7.0k'. Always digits + optional decimals + k/M/B. Not UGC
-  // and not translatable copy — pure chart chrome.
-  const MISSED_METRIC_MAGNITUDE_RE = /^\d+(\.\d+)?[kKmMbB]$/;
+  // and not translatable copy — pure chart chrome. Also the parenthesized
+  // form provider tables use for volumes: '(70k)', '(45.9k)'.
+  const MISSED_METRIC_MAGNITUDE_RE = /^(\d+(\.\d+)?[kKmMbB]|\(\d+(\.\d+)?[kKmMbB]\))$/;
   // Percentage with a parenthetical count: '12.4% (1.4k)', '3% (27)'.
   // Stat-card values, not copy.
   const MISSED_PERCENT_METRIC_RE = /^\d+(\.\d+)?% \([\d.,]+[kKmMbB]?\)$/;
@@ -101,6 +105,14 @@
   // matched case-sensitively inside the alternation so ordinary
   // capitalized words ('Home (3)') don't qualify.
   const MISSED_MOBILE_DEVICE_RE = /^(?:(?:[Ss]amsung|[Rr]edmi|[Xx]iaomi|[Mm]otorola|[Gg]oogle|[Aa]pple|[Oo]ne[Pp]lus|[Rr]ealme|[Oo]ppo|[Vv]ivo|[Hh]uawei|[Nn]okia|[Ss]ony|LG)\s.+|[A-Z]{1,3}-?[A-Z0-9]*[0-9][A-Z0-9]*)\s\(\d{1,3}\)$/;
+  // Bare device model names with no OS-version suffix, from the
+  // subscription and test-device tables: 'iPhone 14 Pro Max', 'iPhone XR',
+  // 'Samsung Galaxy S24 Ultra', 'Google Pixel 7a', and Android emulator
+  // builds like 'sdk_gphone64_arm64 (15)'.
+  const MISSED_DEVICE_MODEL_RE = /^(?:(?:iPhone|iPad|iPod)(?: (?:[0-9A-Z][0-9a-zA-Z]{0,3}|mini))*|(?:Samsung Galaxy|Google Pixel)(?: [0-9A-Za-z+]{1,8})+|sdk_g?phone\w*(?: \(\d{1,3}\))?)$/;
+  // SMTP bounce responses shown on email delivery rows:
+  // '5.5.0 Requested action not taken: mailbox unavailable (...)'.
+  const MISSED_SMTP_RESPONSE_RE = /^[245]\.\d{1,3}\.\d{1,3}\s.*\b(mailbox|action|recipient|rejected|blocked|denied|unavailable|quota)\b/i;
   // Integration-marketplace descriptions: marketing copy describing each
   // 3rd-party data source. Always starts with the brand name and includes
   // 'is a/an' or 'provides' / 'offers' / 'turns' / 'helps' — verbose copy
@@ -306,6 +318,8 @@
     if (MISSED_LIQUID_RE.test(s)) return false;
     if (MISSED_DEVICE_VERSION_RE.test(s)) return false;
     if (MISSED_MOBILE_DEVICE_RE.test(s)) return false;
+    if (MISSED_DEVICE_MODEL_RE.test(s)) return false;
+    if (MISSED_SMTP_RESPONSE_RE.test(s)) return false;
     if (MISSED_EXTERNAL_ID_RE.test(s)) return false;
     if (MISSED_THIRD_PARTY_RE.test(s)) return false;
     if (MISSED_ONESIGNAL_BRAND_RE.test(s)) return false;

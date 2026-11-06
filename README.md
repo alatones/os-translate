@@ -13,7 +13,7 @@ A Manifest V3 Chrome/Edge extension that translates the OneSignal admin
 dashboard (`https://dashboard.onesignal.com`) into non-English languages.
 Ships with **Japanese, Spanish, Portuguese (BR), Korean, French, Turkish,
 Simplified Chinese, Traditional Chinese (Hong Kong), Indonesian, and
-Malay** out of the box — each at full coverage of the same ~2,260
+Malay** out of the box — each at full coverage of the same ~2,370
 dashboard strings.
 
 The extension only runs on the OneSignal dashboard — no other sites are
@@ -55,16 +55,16 @@ Language codes follow ISO 639-1.
 | Code | Language       | Coverage                                  |
 | ---- | -------------- | ----------------------------------------- |
 | `en` | English        | Passthrough (no changes)                  |
-| `ja` | Japanese       | 2,264 terms + 124 patterns                 |
-| `es` | Spanish        | 2,264 terms + 124 patterns (LATAM-neutral) |
-| `pt` | Portuguese     | 2,264 terms + 124 patterns (BR — pt-BR)    |
-| `ko` | Korean         | 2,264 terms + 124 patterns                 |
-| `fr` | French         | 2,264 terms + 124 patterns (vous, infinitive buttons) |
-| `tr` | Turkish        | 2,264 terms + 124 patterns (siz, 2nd-person imperative buttons) |
-| `zh-CN` | Simplified Chinese | 2,264 terms + 124 patterns (Mainland, drop pronouns or 您, bare-verb buttons) |
-| `zh-TW` | Traditional Chinese | 2,264 terms + 124 patterns (書面語, HK-leaning lexicon per reviewer — 儲存/設定/搜尋) |
-| `id` | Indonesian | 2,264 terms + 124 patterns (native reviewer feedback applied; Anda formal address, bare-verb buttons, Latin for product features) |
-| `ms` | Malay (Bahasa Melayu) | 2,264 terms + 124 patterns (core terms approved by native reviewer; Anda formal address, Latin for product features, divergent vocabulary from id — `Padam`/`Tetapan`/`Hantar`/`Butang`/`Akaun`) |
+| `ja` | Japanese       | 2,373 terms + 129 patterns                 |
+| `es` | Spanish        | 2,373 terms + 129 patterns (LATAM-neutral) |
+| `pt` | Portuguese     | 2,373 terms + 129 patterns (BR — pt-BR)    |
+| `ko` | Korean         | 2,373 terms + 129 patterns                 |
+| `fr` | French         | 2,373 terms + 129 patterns (vous, infinitive buttons) |
+| `tr` | Turkish        | 2,373 terms + 129 patterns (siz, 2nd-person imperative buttons) |
+| `zh-CN` | Simplified Chinese | 2,373 terms + 129 patterns (Mainland, drop pronouns or 您, bare-verb buttons) |
+| `zh-TW` | Traditional Chinese | 2,373 terms + 129 patterns (書面語, HK-leaning lexicon per reviewer — 儲存/設定/搜尋) |
+| `id` | Indonesian | 2,373 terms + 129 patterns (native reviewer feedback applied; Anda formal address, bare-verb buttons, Latin for product features) |
+| `ms` | Malay (Bahasa Melayu) | 2,373 terms + 129 patterns (core terms approved by native reviewer; Anda formal address, Latin for product features, divergent vocabulary from id — `Padam`/`Tetapan`/`Hantar`/`Butang`/`Akaun`) |
 
 Each language ships with terminology locked to a glossary (see below) and
 register conventions documented in `style/<lang>.md`.
@@ -291,8 +291,9 @@ free.
 
 - Anything containing `@`, `http(s)://`, long digit runs, or base64-
   shaped tokens (PII signal).
-- UUIDs, IPv6 addresses, ISO/slash timestamps, timezone identifiers,
-  bare 2-letter country codes.
+- UUIDs (including truncated `f4ce18c4-…` table cells), IPv6 addresses
+  (any group width), ISO/slash timestamps, timezone identifiers, bare
+  2-letter country codes.
 - Snake_case / kebab-case attribute names (`user_id`, `tag-name`).
 - Markdown links (`[text](url)`).
 - Strings shorter than 3 or longer than 200 characters.
@@ -303,7 +304,11 @@ free.
 - Stat values with a count (`12.4% (1.4k)`) and format hints that read
   the same in every language (`#RRGGBB`, `(UTC)`).
 - Liquid template fragments (`{{ user.id }}`, `{% if %}`).
-- Device-version names (`macOS (26.2)`, `Simulator iPhone (26.2)`).
+- Device-version names (`macOS (26.2)`, `Simulator iPhone (26.2)`) and
+  bare device models (`iPhone 14 Pro Max`, `Samsung Galaxy S24 Ultra`,
+  `sdk_gphone64_arm64 (15)`).
+- Chart volume labels (`40.0k`, `(45.9k)`) and SMTP bounce responses
+  (`5.5.0 Requested action not taken: …`).
 - `External ID: <value>` labels.
 - 3rd-party widget chrome (`Intercom`, `_hjSafeContext`).
 - Strings the translator already wrote (own-write feedback loop guard).
