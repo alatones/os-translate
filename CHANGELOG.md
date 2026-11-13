@@ -7,6 +7,39 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
+## [1.16.0] — 2026-11-13
+
+### Added
+
+- **80 new dashboard strings and 6 new patterns, in all 10 languages**,
+  from the mid-November ledger:
+  - Home and dashboard recommendations (push opt-in, receive-rate drop,
+    SDK update cards), recommendation filters, and dashboard stats
+    ("Total clicks:", "Sessions & Retention").
+  - AI assistant chrome: "Used skill:", "Searched docs:", documentation
+    references, "New messages below".
+  - Subscription and user pages: activity event names (Push
+    Notification Delivered / Clicked, Email Opened, …), the subscription
+    actions menu, Session and Live Activity event tabs.
+  - Custom events, template creation choices, in-app message stats and
+    the location prompt notice, segment preview.
+- **New patterns:** "N seconds ago", "2h 46m 52s" durations,
+  "Show Last N days", "N references", "New Journey 2026-11-10", and
+  "We couldn't find any users assigned for …".
+
+### Fixed
+
+- **Text you type is left alone.** Text inside text boxes (like the AI
+  assistant prompt) is no longer translated or reported as a missed
+  string.
+
+### Changed
+
+- **Fewer junk rows in the missed-string report.** Hex colors, random
+  IDs and push tokens, signed stat trends, browser-tab titles, code
+  blocks, and text already in Korean, Japanese or Chinese are no longer
+  reported.
+
 ## [1.15.1] — 2026-11-06
 
 No change to how the extension behaves.

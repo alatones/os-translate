@@ -13,7 +13,7 @@ A Manifest V3 Chrome/Edge extension that translates the OneSignal admin
 dashboard (`https://dashboard.onesignal.com`) into non-English languages.
 Ships with **Japanese, Spanish, Portuguese (BR), Korean, French, Turkish,
 Simplified Chinese, Traditional Chinese (Hong Kong), Indonesian, and
-Malay** out of the box — each at full coverage of the same ~2,370
+Malay** out of the box — each at full coverage of the same ~2,450
 dashboard strings.
 
 The extension only runs on the OneSignal dashboard — no other sites are
@@ -55,16 +55,16 @@ Language codes follow ISO 639-1.
 | Code | Language       | Coverage                                  |
 | ---- | -------------- | ----------------------------------------- |
 | `en` | English        | Passthrough (no changes)                  |
-| `ja` | Japanese       | 2,373 terms + 129 patterns                 |
-| `es` | Spanish        | 2,373 terms + 129 patterns (LATAM-neutral) |
-| `pt` | Portuguese     | 2,373 terms + 129 patterns (BR — pt-BR)    |
-| `ko` | Korean         | 2,373 terms + 129 patterns                 |
-| `fr` | French         | 2,373 terms + 129 patterns (vous, infinitive buttons) |
-| `tr` | Turkish        | 2,373 terms + 129 patterns (siz, 2nd-person imperative buttons) |
-| `zh-CN` | Simplified Chinese | 2,373 terms + 129 patterns (Mainland, drop pronouns or 您, bare-verb buttons) |
-| `zh-TW` | Traditional Chinese | 2,373 terms + 129 patterns (書面語, HK-leaning lexicon per reviewer — 儲存/設定/搜尋) |
-| `id` | Indonesian | 2,373 terms + 129 patterns (native reviewer feedback applied; Anda formal address, bare-verb buttons, Latin for product features) |
-| `ms` | Malay (Bahasa Melayu) | 2,373 terms + 129 patterns (core terms approved by native reviewer; Anda formal address, Latin for product features, divergent vocabulary from id — `Padam`/`Tetapan`/`Hantar`/`Butang`/`Akaun`) |
+| `ja` | Japanese       | 2,453 terms + 135 patterns                 |
+| `es` | Spanish        | 2,453 terms + 135 patterns (LATAM-neutral) |
+| `pt` | Portuguese     | 2,453 terms + 135 patterns (BR — pt-BR)    |
+| `ko` | Korean         | 2,453 terms + 135 patterns                 |
+| `fr` | French         | 2,453 terms + 135 patterns (vous, infinitive buttons) |
+| `tr` | Turkish        | 2,453 terms + 135 patterns (siz, 2nd-person imperative buttons) |
+| `zh-CN` | Simplified Chinese | 2,453 terms + 135 patterns (Mainland, drop pronouns or 您, bare-verb buttons) |
+| `zh-TW` | Traditional Chinese | 2,453 terms + 135 patterns (書面語, HK-leaning lexicon per reviewer — 儲存/設定/搜尋) |
+| `id` | Indonesian | 2,453 terms + 135 patterns (native reviewer feedback applied; Anda formal address, bare-verb buttons, Latin for product features) |
+| `ms` | Malay (Bahasa Melayu) | 2,453 terms + 135 patterns (core terms approved by native reviewer; Anda formal address, Latin for product features, divergent vocabulary from id — `Padam`/`Tetapan`/`Hantar`/`Butang`/`Akaun`) |
 
 Each language ships with terminology locked to a glossary (see below) and
 register conventions documented in `style/<lang>.md`.
@@ -301,8 +301,14 @@ free.
   data labels (anything starting `Apr 1, 2026, …`), full dates with
   year, "Line chart with N bars", "End of interactive chart",
   per-point screen-reader labels ("Email, 0. Total."), etc.
-- Stat values with a count (`12.4% (1.4k)`) and format hints that read
-  the same in every language (`#RRGGBB`, `(UTC)`).
+- Stat values with a count (`12.4% (1.4k)`, `18.69% (-1.8k)`), hex
+  colors (`#051B2C`), and format hints that read the same in every
+  language (`#RRGGBB`, `(UTC)`).
+- Opaque random IDs and push tokens (16+ chars mixing upper, lower and
+  digits, no spaces).
+- Text already in a CJK script (Hangul, kana, Han) — e.g. AI-assistant
+  replies in the user's language.
+- Browser-tab titles shown in tooltips (`Journeys · OneSignal`).
 - Liquid template fragments (`{{ user.id }}`, `{% if %}`).
 - Device-version names (`macOS (26.2)`, `Simulator iPhone (26.2)`) and
   bare device models (`iPhone 14 Pro Max`, `Samsung Galaxy S24 Ultra`,
@@ -319,6 +325,11 @@ free.
   — no translation attempt, no ledger reporting. The Highcharts
   legend (`.highcharts-legend`) is the only exception. See "Known
   Limitations".
+- **`<textarea>` contents:** whatever the user is typing (the AI
+  assistant prompt box, message editors) is never translated and
+  never reported.
+- **Code blocks:** text inside `pre` / `code` (JSON payloads and API
+  snippets in AI-assistant answers) isn't reported to the ledger.
 - **`/super-user/*` paths:** the OneSignal-internal admin tool is
   ignored entirely — no translation, no ledger.
 - **Name / Title / ID / Label column cells:** when a `<table>`'s
