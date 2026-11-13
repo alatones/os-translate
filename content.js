@@ -7,7 +7,10 @@
 
 (() => {
   const DEFAULT_LANG = "en";
-  const SKIP_PARENT_TAGS = new Set(["SCRIPT", "STYLE", "NOSCRIPT"]);
+  // TEXTAREA: its text node is whatever the user typed (the AI assistant
+  // prompt box, message body editors). Never translate it, and never
+  // report it to the ledger.
+  const SKIP_PARENT_TAGS = new Set(["SCRIPT", "STYLE", "NOSCRIPT", "TEXTAREA"]);
   const TRANSLATABLE_ATTRS = [
     "placeholder",
     "title",
@@ -79,7 +82,25 @@
   const MISSED_METRIC_MAGNITUDE_RE = /^(\d+(\.\d+)?[kKmMbB]|\(\d+(\.\d+)?[kKmMbB]\))$/;
   // Percentage with a parenthetical count: '12.4% (1.4k)', '3% (27)'.
   // Stat-card values, not copy.
-  const MISSED_PERCENT_METRIC_RE = /^\d+(\.\d+)?% \([\d.,]+[kKmMbB]?\)$/;
+  // Also the signed trend form: '18.69% (-1.8k)', '4% (+120)'.
+  const MISSED_PERCENT_METRIC_RE = /^\d+(\.\d+)?% \([+-]?[\d.,]+[kKmMbB]?\)$/;
+  // Hex color values shown in the in-app message detail table: '#FFF',
+  // '#051B2C', '#424D57FF'.
+  const MISSED_HEX_COLOR_RE = /^#([0-9A-Fa-f]{3,4}|[0-9A-Fa-f]{6}|[0-9A-Fa-f]{8})$/;
+  // Opaque random IDs and push tokens: 'eHcFq7s2WFFT9KsUpPyz',
+  // '4Sqk3s_sSZhirBTDYoFw', FCM tokens ('egc2…:APA91b…'). No spaces,
+  // 16+ chars, mixing upper, lower, and digits — no UI string looks
+  // like that.
+  const MISSED_RANDOM_ID_RE = /^(?=.*\d)(?=.*[a-z])(?=.*[A-Z])[A-Za-z0-9_:-]{16,}$/;
+  // Text already in a CJK script (Hangul, kana, Han). Mostly AI-assistant
+  // replies written in the user's language, which contain enough Latin
+  // ('Journey', 'Braze') to pass the [A-Za-z] check. Never an English
+  // source string.
+  const MISSED_CJK_RE = /[぀-ヿ㐀-䶿一-鿿가-힯]/;
+  // Browser-tab titles shown in tooltips: 'Journeys · OneSignal',
+  // 'Home · <app name>'. The page name half is already translated
+  // where it appears on its own.
+  const MISSED_PAGE_TITLE_RE = /^[^·]{1,80} · [^·]{1,80}$/;
   // Input format hints that read the same in every language: the
   // '#RRGGBB' color-picker placeholder and a bare '(UTC)' suffix.
   const MISSED_FORMAT_HINT_RE = /^(#R{1,2}G{1,2}B{1,2}(A{1,2})?|\((UTC|GMT)\))$/;
@@ -309,6 +330,10 @@
     if (MISSED_BARE_MONTH_DAY_RE.test(s)) return false;
     if (MISSED_METRIC_MAGNITUDE_RE.test(s)) return false;
     if (MISSED_PERCENT_METRIC_RE.test(s)) return false;
+    if (MISSED_HEX_COLOR_RE.test(s)) return false;
+    if (MISSED_RANDOM_ID_RE.test(s)) return false;
+    if (MISSED_CJK_RE.test(s)) return false;
+    if (MISSED_PAGE_TITLE_RE.test(s)) return false;
     if (MISSED_FORMAT_HINT_RE.test(s)) return false;
     if (MISSED_CHART_META_RE.test(s)) return false;
     if (MISSED_FULL_DATE_RE.test(s)) return false;
@@ -705,6 +730,9 @@
       // "Crown Casino, 73 of 78." / "press Up and Down to choose…"
       // every keystroke). Invisible UI, mostly UGC fragments anyway.
       if (isInA11yLiveRegion(el)) return;
+      // Skip code blocks — AI-assistant answers render JSON payloads
+      // ('"external_id"', '"properties"') and API snippets in pre/code.
+      if (el.closest && el.closest("pre, code")) return;
     }
     // Capture two pieces of UI context alongside the count so the
     // ledger can disambiguate same-source-different-role rows on the
