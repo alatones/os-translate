@@ -91,7 +91,8 @@
       "_skip_keys": [
         "Seamlessly integrate with APIs, SDKs, or tools like Segment",
         "Segment.com",
-        "Cohorts you have synced with Segment.com"
+        "Cohorts you have synced with Segment.com",
+        "Twilio Segment"
       ],
       "fr": "Segment",
       "tr": "Segment",
@@ -623,6 +624,9 @@
       ],
       "ko": "대상",
       "note": "ko uses 대상 (target group). pt-BR primarily uses Público (matches BR SaaS convention — Mailchimp BR, HubSpot BR, RD Station). Audiência kept as alt for legacy entries.",
+      "_skip_keys": [
+        "Adobe Audience Manager"
+      ],
       "fr": "Audience",
       "tr": [
         "Hedef kitle",

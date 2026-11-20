@@ -139,7 +139,9 @@
   // 'is a/an' or 'provides' / 'offers' / 'turns' / 'helps' — verbose copy
   // that changes frequently upstream and isn't worth ledger churn.
   // Length-gated to avoid catching short UI labels with similar verbs.
-  const MISSED_INTEGRATION_BLURB_RE = /^[A-Z][\w &.()]{1,40}\s(is\s(an?\s)?|provides\s|offers\s|turns\s|helps\s).+\.$/;
+  // The brand part also allows '/' ('Google Cloud Pub/Sub') and one
+  // trailing parenthetical ('PostgreSQL (often referred to as Postgres)').
+  const MISSED_INTEGRATION_BLURB_RE = /^[A-Z][\w &.()/]{1,40}(\s\([^)]{1,40}\))?\s(is\s(an?\s)?|provides\s|offers\s|turns\s|helps\s).+\.$/;
   // Liquid template syntax leaking through DOM: '{{ user.external_id }}',
   // 'Hi {{ first_name | default: "there" }}', '{% if x %}'.
   const MISSED_LIQUID_RE = /\{\{|\}\}|\{%|%\}/;

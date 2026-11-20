@@ -7,6 +7,32 @@ project follows [Semantic Versioning](https://semver.org/) — see
 
 ## [Unreleased]
 
+## [1.17.0] — 2026-11-20
+
+### Added
+
+- **61 new dashboard strings and 28 new patterns, in all 10 languages**,
+  from the late-November ledger:
+  - The new Data → Integrations page: event-source cards, "Connect data
+    from anywhere", "Send a test event", and the vendor catalog (30
+    data-warehouse and CDP names kept in their original form).
+  - Messages and email empty states ("You haven't sent any messages
+    yet", "Create email template", "Try the demo"), SMS sender setup,
+    and the RCS cards on Templates.
+  - Settings: app details and status, profile fields, delete account,
+    the danger zone, and AI features on Keys & IDs.
+  - Login ("Hide password", "Logging in..."), email stats ("Unique
+    Opens:"), and the weekly cohort retention chart on the dashboard.
+- **New patterns:** cohort week ranges ("Nov 2 - Nov 8",
+  "Oct 26 - Nov 1"), email send durations (", completed in 23 hours
+  59 minutes 57.33 seconds"), and "App icon for …".
+
+### Changed
+
+- **Fewer junk rows in the missed-string report.** Vendor descriptions
+  on the integrations catalog (like the PostgreSQL and Google Cloud
+  Pub/Sub blurbs) are no longer reported.
+
 ## [1.16.0] — 2026-11-13
 
 ### Added
