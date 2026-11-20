@@ -55,16 +55,16 @@ Language codes follow ISO 639-1.
 | Code | Language       | Coverage                                  |
 | ---- | -------------- | ----------------------------------------- |
 | `en` | English        | Passthrough (no changes)                  |
-| `ja` | Japanese       | 2,453 terms + 135 patterns                 |
-| `es` | Spanish        | 2,453 terms + 135 patterns (LATAM-neutral) |
-| `pt` | Portuguese     | 2,453 terms + 135 patterns (BR — pt-BR)    |
-| `ko` | Korean         | 2,453 terms + 135 patterns                 |
-| `fr` | French         | 2,453 terms + 135 patterns (vous, infinitive buttons) |
-| `tr` | Turkish        | 2,453 terms + 135 patterns (siz, 2nd-person imperative buttons) |
-| `zh-CN` | Simplified Chinese | 2,453 terms + 135 patterns (Mainland, drop pronouns or 您, bare-verb buttons) |
-| `zh-TW` | Traditional Chinese | 2,453 terms + 135 patterns (書面語, HK-leaning lexicon per reviewer — 儲存/設定/搜尋) |
-| `id` | Indonesian | 2,453 terms + 135 patterns (native reviewer feedback applied; Anda formal address, bare-verb buttons, Latin for product features) |
-| `ms` | Malay (Bahasa Melayu) | 2,453 terms + 135 patterns (core terms approved by native reviewer; Anda formal address, Latin for product features, divergent vocabulary from id — `Padam`/`Tetapan`/`Hantar`/`Butang`/`Akaun`) |
+| `ja` | Japanese       | 2,544 terms + 163 patterns                 |
+| `es` | Spanish        | 2,544 terms + 163 patterns (LATAM-neutral) |
+| `pt` | Portuguese     | 2,544 terms + 163 patterns (BR — pt-BR)    |
+| `ko` | Korean         | 2,544 terms + 163 patterns                 |
+| `fr` | French         | 2,544 terms + 163 patterns (vous, infinitive buttons) |
+| `tr` | Turkish        | 2,544 terms + 163 patterns (siz, 2nd-person imperative buttons) |
+| `zh-CN` | Simplified Chinese | 2,544 terms + 163 patterns (Mainland, drop pronouns or 您, bare-verb buttons) |
+| `zh-TW` | Traditional Chinese | 2,544 terms + 163 patterns (書面語, HK-leaning lexicon per reviewer — 儲存/設定/搜尋) |
+| `id` | Indonesian | 2,544 terms + 163 patterns (native reviewer feedback applied; Anda formal address, bare-verb buttons, Latin for product features) |
+| `ms` | Malay (Bahasa Melayu) | 2,544 terms + 163 patterns (core terms approved by native reviewer; Anda formal address, Latin for product features, divergent vocabulary from id — `Padam`/`Tetapan`/`Hantar`/`Butang`/`Akaun`) |
 
 Each language ships with terminology locked to a glossary (see below) and
 register conventions documented in `style/<lang>.md`.
